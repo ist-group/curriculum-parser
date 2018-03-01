@@ -5,8 +5,7 @@ import org.edtech.curriculum.internal.HtmlParser
 import org.jsoup.Jsoup
 import org.jsoup.parser.Parser
 import org.jsoup.select.Elements
-import java.io.File
-import java.io.FileInputStream
+import java.io.InputStream
 
 /**
  * Parses the open data XML supplied by skolverket
@@ -17,11 +16,11 @@ import java.io.FileInputStream
  * The returned data objects are tagged versions of the unstructured html content in the XML file
  * The knowledge requirements are mapped per line in e-level so that they can be used as a matrix.
  *
- * @param openDataDocumentFile a file from the open data XML as supplied by skolverket
+ * @param openDataDocumentStream a file from the open data XML as supplied by skolverket
  */
-class SubjectParser(openDataDocumentFile: File) {
+class SubjectParser(openDataDocumentStream: InputStream) {
 
-    private val openDataDocument = Jsoup.parse(FileInputStream(openDataDocumentFile), null, "", Parser.xmlParser())
+    private val openDataDocument = Jsoup.parse(openDataDocumentStream, null, "", Parser.xmlParser())
     private fun extractString(elementName: String): String = openDataDocument.select("subject > $elementName" ).text()
     private fun extractNodes(elementName: String): Elements = openDataDocument.select("subject > $elementName" )
 
