@@ -1,11 +1,11 @@
 {
   "name": "Matematik 1b",
-  "description": "Kursen matematik 1b omfattar punkterna 1–7 under rubriken Ämnets syfte. I kursen behandlas\n            grundläggande kunskaper i ämnet.</p>\n        ",
+  "description": "Kursen matematik 1b omfattar punkterna 1–7 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
   "code": "MATMAT01b",
   "point": 100,
   "centralContent": [
     {
-      "content": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "content": "Taluppfattning, aritmetik och algebra",
       "lineNo": -1,
       "type": "HEADING"
     },
@@ -32,6 +32,96 @@
     {
       "content": "Algebraiska och grafiska metoder för att lösa linjära ekvationer och olikheter samt potensekvationer.",
       "lineNo": 5,
+      "type": "BULLET"
+    },
+    {
+      "content": "Geometri",
+      "lineNo": -1,
+      "type": "HEADING"
+    },
+    {
+      "content": "Begreppet symmetri och olika typer av symmetriska transformationer av figurer i planet samt symmetriers förekomst i naturen och i konst från olika kulturer.",
+      "lineNo": 6,
+      "type": "BULLET"
+    },
+    {
+      "content": "Representationer av geometriska objekt och symmetrier med ord, praktiska konstruktioner och estetiska uttryckssätt.",
+      "lineNo": 7,
+      "type": "BULLET"
+    },
+    {
+      "content": "Matematisk argumentation med hjälp av grundläggande logik inklusive implikation och ekvivalens samt jämförelser med hur man argumenterar i vardagliga sammanhang och inom olika ämnesområden.",
+      "lineNo": 8,
+      "type": "BULLET"
+    },
+    {
+      "content": "Illustration av begreppen definition, sats och bevis, till exempel med Pythagoras sats och triangelns vinkelsumma.",
+      "lineNo": 9,
+      "type": "BULLET"
+    },
+    {
+      "content": "Samband och förändring",
+      "lineNo": -1,
+      "type": "HEADING"
+    },
+    {
+      "content": "Fördjupning av procentbegreppet: promille, ppm och procentenheter.",
+      "lineNo": 10,
+      "type": "BULLET"
+    },
+    {
+      "content": "Begreppen förändringsfaktor och index samt metoder för beräkning av räntor och amorteringar för olika typer av lån.",
+      "lineNo": 11,
+      "type": "BULLET"
+    },
+    {
+      "content": "Begreppen funktion, definitions- och värdemängd samt egenskaper hos linjära funktioner och potens- och exponentialfunktioner.",
+      "lineNo": 12,
+      "type": "BULLET"
+    },
+    {
+      "content": "Representationer av funktioner, till exempel i form av ord, gestaltning, funktionsuttryck, tabeller och grafer.",
+      "lineNo": 13,
+      "type": "BULLET"
+    },
+    {
+      "content": "Skillnader mellan begreppen ekvation, algebraiskt uttryck och funktion.",
+      "lineNo": 14,
+      "type": "BULLET"
+    },
+    {
+      "content": "Sannolikhet och statistik",
+      "lineNo": -1,
+      "type": "HEADING"
+    },
+    {
+      "content": "Granskning av hur statistiska metoder och resultat används i samhället och inom vetenskap.",
+      "lineNo": 15,
+      "type": "BULLET"
+    },
+    {
+      "content": "Begreppen beroende och oberoende händelser samt metoder för beräkning av sannolikheter vid slumpförsök i flera steg med exempel från spel och risk- och säkerhetsbedömningar.",
+      "lineNo": 16,
+      "type": "BULLET"
+    },
+    {
+      "content": "Problemlösning",
+      "lineNo": -1,
+      "type": "HEADING"
+    },
+    {
+      "content": "Strategier för matematisk problemlösning inklusive användning av digitala medier och verktyg.",
+      "lineNo": 17,
+      "type": "BULLET"
+    },
+    {
+      "content": "Matematiska problem av betydelse för privatekonomi, samhällsliv och tillämpningar i andra ämnen.",
+      "lineNo": 18,
+      "type": "BULLET"
+    },
+    {
+      "content": "Matematiska problem med anknytning till matematikens kulturhistoria.",
+      "lineNo": 19,
       "type": "BULLET"
     }
   ],
