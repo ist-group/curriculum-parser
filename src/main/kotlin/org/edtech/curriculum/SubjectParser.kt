@@ -35,7 +35,7 @@ class SubjectParser(openDataDocumentStream: InputStream) {
         return Subject(name, description, code, HtmlParser().toPurposes(doc))
     }
 
-    fun getCourses(): List<Course>? {
+    fun getCourses(): List<Course> {
         // Get the list of courses and return as CoursePOJOs
         return extractNodes("courses")
             .map { CourseParser(it).getCourse() }
