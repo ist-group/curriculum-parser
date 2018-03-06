@@ -25,34 +25,22 @@ class HtmlParser {
     private fun toLongTermLongTermBullets(doc: Document): List<Purpose> {
         val element : Element? = doc.select("ol").firstOrNull()
         val ai = AtomicInteger()
-        return element?.children()?.map { Purpose(it.html(), ai.incrementAndGet(), PurposeType.BULLET) }?:ArrayList()
+        return element?.children()?.map { Purpose(it.html(), ai.incrementAndGet(), PurposeType.BULLET) } ?: ArrayList()
     }
 
-    private fun toCentralContentHeading(doc: Document): CentralContent? {
-        val element : Element? = doc.select("h4").firstOrNull()
-        return if (element != null) {
-            CentralContent(element.text(), -1, CentralContentType.HEADING)
-        } else {
-            null
-        }
-    }
-    private fun toCentralContentBullets(doc: Document): List<CentralContent> {
-        val element : Element? = doc.select("ul").firstOrNull()
-        val ai = AtomicInteger()
-        return element?.children()?.map {
-            CentralContent(it.html(), ai.incrementAndGet(), CentralContentType.BULLET)
-        } ?: listOf()
-    }
 
     /**
      * Combine heading and bullets in one list
      */
     fun toCentralContent(doc: Document): List<CentralContent> {
-        val contentList: ArrayList<CentralContent> = ArrayList()
-        val heading = toCentralContentHeading(doc)
-        if (heading != null) contentList.add(heading)
-        contentList.addAll(toCentralContentBullets(doc))
-        return contentList
+        val ai = AtomicInteger()
+        return doc.select("strong, li, i, h1, h2, h3, h4, h5, h6").map {
+            val type = when (it.tagName()) {
+                "li" -> CentralContentType.BULLET
+                else -> CentralContentType.HEADING
+            }
+            CentralContent(it.text(), ai.incrementAndGet(), type)
+        }
     }
 
     /**
