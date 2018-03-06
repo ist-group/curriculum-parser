@@ -2,6 +2,7 @@ package org.edtech.myapp;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.edtech.curriculum.*;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Objects;
 
@@ -9,7 +10,7 @@ public class CliTool {
 
     public static void main (String[] args) throws IOException {
         if (args.length > 0) {
-            SubjectParser sp = new SubjectParser(new File(args[0]));
+            SubjectParser sp = new SubjectParser(new FileInputStream(new File(args[0])));
             Subject subject = sp.getSubject();
             ObjectMapper mapper = new ObjectMapper();
             if (args.length > 1 && Objects.equals(args[1], "-c")) {

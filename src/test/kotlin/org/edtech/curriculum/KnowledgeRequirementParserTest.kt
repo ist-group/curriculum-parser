@@ -6,20 +6,11 @@ import org.edtech.curriculum.internal.fixCurriculumErrors
 import org.edtech.curriculum.internal.getTextWithoutBoldWords
 import org.edtech.curriculum.internal.textMatches
 import org.jsoup.Jsoup
-import org.junit.Test
 import org.junit.Assert.*
-import java.io.IOException
-import java.io.File
-
+import org.junit.Test
 
 
 class KnowledgeRequirementParserTest {
-
-    @Throws(IOException::class)
-    private fun loadResources(path: String): Array<out File> {
-        val classLoader = Thread.currentThread().contextClassLoader
-        return File(classLoader.getResource(path).file).listFiles() ?: arrayOf()
-    }
 
     @Test
     fun testTextMatches() {
@@ -47,12 +38,11 @@ class KnowledgeRequirementParserTest {
         )
     }
 
-    private fun textCourseCode(code: String, xmlFileName: String) {
+    private fun textCourseCode(code: String, subjectName: String) {
         val classloader = Thread.currentThread().contextClassLoader
         val referenceObject:Course =  jacksonObjectMapper()
                 .readValue(classloader.getResourceAsStream("$code.json"))
-        val file = File(classloader.getResource("data/subject/$xmlFileName.xml").toURI())
-        val course = SubjectParser(file).getCourse(code)
+        val course = SkolverketFile.GY.openSubject(subjectName).getCourse(code)
 
         assertEquals(referenceObject.name, course.name)
         assertEquals(referenceObject.code, course.code)
@@ -64,8 +54,7 @@ class KnowledgeRequirementParserTest {
         val classloader = Thread.currentThread().contextClassLoader
         val referenceObject:Subject =  jacksonObjectMapper()
                 .readValue(classloader.getResourceAsStream("Dansteknik.json"))
-        val file = File(classloader.getResource("data/subject/Dansteknik.xml").toURI())
-        assertEquals(SubjectParser(file).getSubject(), referenceObject)
+        assertEquals(SkolverketFile.GY.openSubject("Dansteknik").getSubject(), referenceObject)
 
     }
 
@@ -122,8 +111,9 @@ class KnowledgeRequirementParserTest {
 
     @Test
     fun parseAllOpenDataStructures() {
-         for (res in loadResources("data/subject/")) {
-             val subject = SubjectParser(res)
+         val skolverketFile = SkolverketFile.GY
+         for (subjectName in skolverketFile.subjectNames()) {
+             val subject = skolverketFile.openSubject(subjectName)
              for (course in subject.getCourses()!!) {
                  // Get the fully parsed course
                  val fullCourse = subject.getCourse(course.code)
