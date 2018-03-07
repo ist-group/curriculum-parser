@@ -41,7 +41,7 @@ class KnowledgeRequirementParserTest {
     private fun textCourseCode(code: String, subjectName: String) {
         val classloader = Thread.currentThread().contextClassLoader
         val referenceObject:Course =  jacksonObjectMapper()
-                .readValue(classloader.getResourceAsStream("$code.json"))
+                .readValue(classloader.getResourceAsStream("GY/courses/$code.json"))
         val course = SkolverketFile.GY.openSubject(subjectName).getCourse(code)
 
         assertEquals(referenceObject.name, course.name)
@@ -53,7 +53,7 @@ class KnowledgeRequirementParserTest {
     fun testSubject() {
         val classloader = Thread.currentThread().contextClassLoader
         val referenceObject:Subject =  jacksonObjectMapper()
-                .readValue(classloader.getResourceAsStream("Dansteknik.json"))
+                .readValue(classloader.getResourceAsStream("GY/subjects/Dansteknik.json"))
         assertEquals(SkolverketFile.GY.openSubject("Dansteknik").getSubject(), referenceObject)
 
     }
