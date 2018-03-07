@@ -9,10 +9,9 @@ import org.jsoup.nodes.Element
 
 class CourseParser(private val courseElement: Element): BasicCourseParser(courseElement) {
     fun extractKnowledgeRequirementForGradeStep(gradeStep: GradeStep): String {
-        return courseElement.select("knowledgeRequirements")
-            .filter { it.select("gradeStep").text() == gradeStep.name }
-            .map { return it.select("text").text() }
-            .joinToString()
+        return courseElement.select("knowledgeRequirements gradeStep:containsOwn(${gradeStep.name})")
+                .map { it.parent() }
+                .joinToString { it.select("text").text() }
     }
     private fun getCentralContent(): List<CentralContent> {
         return HtmlParser()
