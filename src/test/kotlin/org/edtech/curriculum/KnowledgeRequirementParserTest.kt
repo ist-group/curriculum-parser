@@ -43,12 +43,16 @@ class KnowledgeRequirementParserTest {
         val referenceObject:Course =  jacksonObjectMapper()
                 .readValue(classloader.getResourceAsStream("GY/courses/$code.json"))
         val course = SkolverketFile.GY.openSubject(subjectName).getCourse(code)
-
-        assertEquals(referenceObject.name, course.name)
-        assertEquals(referenceObject.code, course.code)
-        assertEquals(referenceObject.centralContent, course.centralContent)
-        assertArrayEquals(referenceObject.knowledgeRequirement?.toTypedArray(), course.knowledgeRequirement?.toTypedArray())
+        if (course != null) {
+            assertEquals(referenceObject.name, course.name)
+            assertEquals(referenceObject.code, course.code)
+            assertEquals(referenceObject.centralContent, course.centralContent)
+            assertArrayEquals(referenceObject.knowledgeRequirement?.toTypedArray(), course.knowledgeRequirement?.toTypedArray())
+        } else {
+            assertNotNull(course)
+        }
     }
+
     @Test
     fun testSubject() {
         val classloader = Thread.currentThread().contextClassLoader
@@ -114,36 +118,37 @@ class KnowledgeRequirementParserTest {
          val skolverketFile = SkolverketFile.GY
          for (subjectName in skolverketFile.subjectNames()) {
              val subject = skolverketFile.openSubject(subjectName)
-             for (course in subject.getCourses()!!) {
+             for (course in subject.courses) {
                  // Get the fully parsed course
                  val fullCourse = subject.getCourse(course.code)
-                 val knList = fullCourse.knowledgeRequirement
-                 assertNotEquals("Knowledge Requirements cannot be empty", 0, knList?.size ?: 0)
-                 val combined: MutableMap<GradeStep, StringBuilder> = HashMap()
-                 if (knList != null) {
-                     for(kn in knList) {
-                         for ( (g,s) in kn.knowledgeRequirementChoice) {
-                             if (combined.containsKey(g)) {
-                                 combined[g]?.append(" ")?.append(s)
-                             } else {
-                                combined[g] = StringBuilder(s)
+                 if (fullCourse != null) {
+                     val knList = fullCourse.knowledgeRequirement
+                     assertNotEquals("Knowledge Requirements cannot be empty", 0, knList?.size ?: 0)
+                     val combined: MutableMap<GradeStep, StringBuilder> = HashMap()
+                     if (knList != null) {
+                         for(kn in knList) {
+                             for ( (g,s) in kn.knowledgeRequirementChoice) {
+                                 if (combined.containsKey(g)) {
+                                     combined[g]?.append(" ")?.append(s)
+                                 } else {
+                                     combined[g] = StringBuilder(s)
+                                 }
                              }
                          }
                      }
+                     val cp = subject.getCourseParser(course.code)
+                     for( (gradestep, text) in combined) {
+                         val textExpected = fixCurriculumErrors(Jsoup.parse(cp.extractKnowledgeRequirementForGradeStep(gradestep)).select("p").html())
+                                 .replace("\n", " ")
+                                 .replace("  ", " ")
+                                 .replace("<strong> <italic>  .  </italic></strong>", ". ")
+                                 .replace(".<strong> ", ". <strong> ")
+                                 .replace(".</strong>", ". </strong>")
+                                 .replace(Regex("[.]([^ ])"), ". \$1")
+                                 .removeSuffix("<strong> </strong>")
+                         assertEquals("course: ${subject.name}/${course.name}", textExpected.trim(), text.toString().replace("  ", " ").trim())
+                     }
                  }
-                 val cp = subject.getCourseParser(course.code)
-                 for( (gradestep, text) in combined) {
-                     val textExpected = fixCurriculumErrors(Jsoup.parse(cp.extractKnowledgeRequirementForGradeStep(gradestep)).select("p").html())
-                             .replace("\n", " ")
-                             .replace("  ", " ")
-                             .replace("<strong> <italic>  .  </italic></strong>", ". ")
-                             .replace(".<strong> ", ". <strong> ")
-                             .replace(".</strong>", ". </strong>")
-                             .replace(Regex("[.]([^ ])"), ". \$1")
-                             .removeSuffix("<strong> </strong>")
-                     assertEquals("course: ${subject.name}/${course.name}", textExpected.trim(), text.toString().replace("  ", " ").trim())
-                 }
-
              }
          }
     }

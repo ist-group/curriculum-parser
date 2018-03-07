@@ -3,6 +3,7 @@ package org.edtech.curriculum
 import org.edtech.curriculum.internal.CourseParser
 import org.edtech.curriculum.internal.HtmlParser
 import org.jsoup.Jsoup
+import org.jsoup.nodes.Element
 import org.jsoup.parser.Parser
 import org.jsoup.select.Elements
 import java.io.InputStream
@@ -27,30 +28,45 @@ class SubjectParser(openDataDocumentStream: InputStream) {
     val name: String = extractString("name")
     val description: String = extractString("description").removePrefix("<p>").removeSuffix("</p>")
     val code: String = extractString("code")
+    val skolfsId: String = extractString("skolfsId")
     val purpose: String = extractString("purpose")
     val applianceDate: String = extractString("applianceDate")
+    val courses: List<Course> = extractCourses()
 
     fun getSubject(): Subject {
         val doc = Jsoup.parse(purpose)
-        return Subject(name, description, code, HtmlParser().toPurposes(doc))
+        return Subject(name, description, code, skolfsId, HtmlParser().toPurposes(doc))
     }
 
-    fun getCourses(): List<Course> {
+    private fun extractCourses(): List<Course> {
         // Get the list of courses and return as CoursePOJOs
-        return extractNodes("courses")
-            .map { CourseParser(it).getCourse() }
-            .toList()
+        val schoolType = extractString("typeOfSchooling")
+        return if (schoolType == "BASIC_ADULT_EDUCATION") {
+            // Vux has no courses in GR and no Years
+            listOf(CourseParser(openDataDocument).getCourse())
+        } else {
+            //UPPER_SECONDARY_EDUCATION / SWEDISH_FOR_IMMIGRANTS
+            extractNodes("courses")
+                    .map { CourseParser(it).getCourse() }
+                    .toList()
+        }
     }
 
-    fun getCourse(code: String): Course {
-        return getCourseParser(code).getCourse()
+    fun getCourse(code: String): Course? {
+        return courses.firstOrNull { it.code == code }
     }
+
     fun getCourseParser(code: String): CourseParser {
-        // Get the list of courses and return as CoursePOJOs
-        val element = extractNodes("courses")
-                .first { it.select("code").text() == code }
-        return CourseParser(element)
+        return CourseParser(getCourseElement(code))
     }
 
+    private fun getCourseElement(code: String): Element {
+        val elements = extractNodes("courses")
+        return if (!elements.isEmpty()) {
+            elements.first { it.select("code").text() == code }
+        } else {
+            openDataDocument
+        }
+    }
 }
 

@@ -10,7 +10,7 @@ open class BasicCourseParser(private val courseElement: Element) {
                 courseElement.select("name").text(),
                 courseElement.select("description").text().removePrefix("<p>").removeSuffix("</p>"),
                 courseElement.select("code").text(),
-                courseElement.select("point").text().toInt()
+                courseElement.select("point").text().toIntOrNull() ?: 0
         )
     }
 }
