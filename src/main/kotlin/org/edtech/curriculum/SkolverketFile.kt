@@ -16,7 +16,9 @@ enum class SkolverketFile(val filename: String) {
     /** https://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/gymnasieskola */
     GY("syllabus"),
     /** https://www.skolverket.se/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/grundlaggande */
-    VUXGR("vuxgr");
+    VUXGR("vuxgr"),
+    /** https://www.skolverket.se/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/sfi */
+    SFI("sfi");
 
     private fun getLocallyCachedFile(cacheDir: File): File {
         if (!cacheDir.isDirectory) {

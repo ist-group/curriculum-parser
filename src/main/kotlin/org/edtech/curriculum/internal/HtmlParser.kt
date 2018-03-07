@@ -30,10 +30,10 @@ class HtmlParser {
      * Combine heading and bullets in one list
      */
     fun toCentralContent(doc: Document): List<CentralContent> {
-        return doc.select("strong, li").map {
+        return doc.select("strong, li, i, h1, h2, h3, h4, h5, h6").map {
             val type = when (it.tagName()) {
-                "strong" -> CentralContentType.HEADING
-                else -> CentralContentType.BULLET
+                "li" -> CentralContentType.BULLET
+                else -> CentralContentType.HEADING
             }
             CentralContent(it.text(), type)
         }

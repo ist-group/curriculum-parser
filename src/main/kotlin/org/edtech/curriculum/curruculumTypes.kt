@@ -14,6 +14,7 @@ enum class GradeStep {
 data class Subject(val name: String,
                    val description: String,
                    val code: String,
+                   val skolfsId: String,
                    val purposes: List<Purpose>
 )
 
