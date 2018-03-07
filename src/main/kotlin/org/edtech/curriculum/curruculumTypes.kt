@@ -18,7 +18,6 @@ data class Subject(val name: String,
 )
 
 data class Purpose(val content: String,
-                   val lineNo: Int,
                    val type: PurposeType
 )
 
@@ -31,7 +30,6 @@ data class Course(val name: String,
 )
 
 data class CentralContent(val content: String,
-                          val lineNo: Int,
                           val type: CentralContentType
 )
 
