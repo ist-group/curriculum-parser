@@ -7,7 +7,6 @@ import org.edtech.curriculum.PurposeType
 import org.jsoup.nodes.Document
 import org.jsoup.nodes.Element
 import org.jsoup.select.Elements
-import java.util.concurrent.atomic.AtomicInteger
 
 /**
  * Extract contents from a JSOUP parsed HTML Strings
@@ -15,17 +14,15 @@ import java.util.concurrent.atomic.AtomicInteger
 class HtmlParser {
     private fun toSections(doc: Document): List<Purpose> {
         val elements :Elements = doc.select("p:not(:empty)")
-        val ai = AtomicInteger()
-        return elements.filter { it.html().isNotEmpty() }.map { Purpose(it.html(), ai.incrementAndGet(), PurposeType.SECTION) }
+        return elements.filter { it.html().isNotEmpty() }.map { Purpose(it.html(), PurposeType.SECTION) }
     }
     private fun toLongTermLongTermHeading(doc: Document): Purpose {
         val element : Element? = doc.select("h4").firstOrNull()
-        return Purpose(element?.text()?:"", -1, PurposeType.HEADING)
+        return Purpose(element?.text()?:"", PurposeType.HEADING)
     }
     private fun toLongTermLongTermBullets(doc: Document): List<Purpose> {
         val element : Element? = doc.select("ol").firstOrNull()
-        val ai = AtomicInteger()
-        return element?.children()?.map { Purpose(it.html(), ai.incrementAndGet(), PurposeType.BULLET) } ?: ArrayList()
+        return element?.children()?.map { Purpose(it.html(), PurposeType.BULLET) }?:ArrayList()
     }
 
 
@@ -33,13 +30,12 @@ class HtmlParser {
      * Combine heading and bullets in one list
      */
     fun toCentralContent(doc: Document): List<CentralContent> {
-        val ai = AtomicInteger()
         return doc.select("strong, li, i, h1, h2, h3, h4, h5, h6").map {
             val type = when (it.tagName()) {
                 "li" -> CentralContentType.BULLET
                 else -> CentralContentType.HEADING
             }
-            CentralContent(it.text(), ai.incrementAndGet(), type)
+            CentralContent(it.text(), type)
         }
     }
 
