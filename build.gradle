@@ -1,6 +1,6 @@
 buildscript {
     ext {
-        kotlinVersion = '1.2.21'
+        kotlinVersion = '1.2.30'
     }
     repositories {
         jcenter()
@@ -9,7 +9,7 @@ buildscript {
     dependencies {
         classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:${kotlinVersion}")
         classpath("org.jetbrains.kotlin:kotlin-allopen:${kotlinVersion}")
-        classpath("org.jetbrains.dokka:dokka-gradle-plugin:0.9.15")
+        classpath("org.jetbrains.dokka:dokka-gradle-plugin:0.9.16")
     }
 }
 apply plugin: 'kotlin'
@@ -33,10 +33,10 @@ repositories {
 }
 dependencies {
     compile("org.jetbrains.kotlin:kotlin-stdlib-jdk8:${kotlinVersion}")
-    compile("org.jsoup:jsoup:1.10.2")
+    compile("org.jsoup:jsoup:1.11.2")
     compile("info.debatty:java-string-similarity:1.0.1")
-    compile("org.apache.commons:commons-compress:1.15")
-    testCompile("com.fasterxml.jackson.module:jackson-module-kotlin:2.9.0")
+    compile("org.apache.commons:commons-compress:1.16.1")
+    testCompile("com.fasterxml.jackson.module:jackson-module-kotlin:2.9.4.1")
     testCompile('junit:junit:4.12')
 }
 dokka {
