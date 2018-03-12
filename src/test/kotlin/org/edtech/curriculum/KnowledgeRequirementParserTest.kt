@@ -1,13 +1,8 @@
 package org.edtech.curriculum
 
 import com.fasterxml.jackson.databind.ObjectMapper
-import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
-import com.fasterxml.jackson.module.kotlin.readValue
-import org.edtech.curriculum.internal.CourseParser
-import org.edtech.curriculum.internal.fixCurriculumErrors
 import org.edtech.curriculum.internal.getTextWithoutBoldWords
 import org.edtech.curriculum.internal.textMatches
-import org.jsoup.Jsoup
 import org.junit.Assert.*
 import org.junit.Test
 import java.io.File
