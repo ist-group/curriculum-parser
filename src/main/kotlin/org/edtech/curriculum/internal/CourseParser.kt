@@ -20,7 +20,7 @@ class CourseParser(private val courseElement: Element) {
         )
     }
 
-    private fun extractKnowledgeRequirementForGradeStep(gradeStep: GradeStep): String {
+    internal fun extractKnowledgeRequirementForGradeStep(gradeStep: GradeStep): String {
         return courseElement.select("knowledgeRequirements gradeStep:containsOwn(${gradeStep.name})")
                 .map { it.parent() }
                 .joinToString { it.select("text").text() }

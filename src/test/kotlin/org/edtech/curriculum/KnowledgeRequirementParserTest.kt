@@ -1,8 +1,13 @@
 package org.edtech.curriculum
 
 import com.fasterxml.jackson.databind.ObjectMapper
+import org.edtech.curriculum.internal.CourseParser
+import org.edtech.curriculum.internal.fixCurriculumErrors
 import org.edtech.curriculum.internal.getTextWithoutBoldWords
 import org.edtech.curriculum.internal.textMatches
+import org.jsoup.Jsoup
+import org.jsoup.nodes.Document
+import org.jsoup.nodes.Element
 import org.junit.Assert.*
 import org.junit.Test
 import java.io.File
@@ -106,8 +111,7 @@ class KnowledgeRequirementParserTest {
                          }
                      }
                  }
-                 /* TODO Reimplement with new test only logic
-                 val cp = CourseParser(course.code)
+                 val cp = getCourseParser(subject.openDataDocument, course.code)
                  for( (gradestep, text) in combined) {
                      val textExpected = fixCurriculumErrors(Jsoup.parse(cp.extractKnowledgeRequirementForGradeStep(gradestep)).select("p").html())
                              .replace("\n", " ")
@@ -118,9 +122,19 @@ class KnowledgeRequirementParserTest {
                              .replace(Regex("[.]([^ ])"), ". \$1")
                              .removeSuffix("<strong> </strong>")
                      assertEquals("course: ${subject.name}/${course.name}", textExpected.trim(), text.toString().replace("  ", " ").trim())
-                 }*/
+                 }
 
              }
          }
+    }
+
+    private fun getCourseParser(doc: Document, code: String): CourseParser {
+        val elements = doc.select("subject > courses" )
+        val element = if (!elements.isEmpty()) {
+            elements.first { it.select("code").text() == code }
+        } else {
+            doc
+        }
+        return CourseParser(element)
     }
 }

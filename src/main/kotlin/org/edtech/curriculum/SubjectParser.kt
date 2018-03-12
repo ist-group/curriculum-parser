@@ -19,7 +19,7 @@ import java.io.InputStream
  */
 class SubjectParser(openDataDocumentStream: InputStream) {
 
-    private val openDataDocument = Jsoup.parse(openDataDocumentStream, null, "", Parser.xmlParser())
+    internal val openDataDocument = Jsoup.parse(openDataDocumentStream, null, "", Parser.xmlParser())
     private fun extractString(elementName: String): String = openDataDocument.select("subject > $elementName" ).text()
     private fun extractNodes(elementName: String): Elements = openDataDocument.select("subject > $elementName" )
 
