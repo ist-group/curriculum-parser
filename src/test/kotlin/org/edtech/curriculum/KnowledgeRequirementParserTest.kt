@@ -1,5 +1,6 @@
 package org.edtech.curriculum
 
+import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
 import com.fasterxml.jackson.module.kotlin.readValue
 import org.edtech.curriculum.internal.fixCurriculumErrors
@@ -8,6 +9,7 @@ import org.edtech.curriculum.internal.textMatches
 import org.jsoup.Jsoup
 import org.junit.Assert.*
 import org.junit.Test
+import java.io.File
 
 
 class KnowledgeRequirementParserTest {
@@ -54,63 +56,52 @@ class KnowledgeRequirementParserTest {
     }
 
     @Test
-    fun testSubject() {
-        val classloader = Thread.currentThread().contextClassLoader
-        val referenceObject:Subject =  jacksonObjectMapper()
-                .readValue(classloader.getResourceAsStream("GY/subjects/Dansteknik.json"))
-        assertEquals(SkolverketFile.GY.openSubject("Dansteknik").getSubject(), referenceObject)
+    fun testAgainstJsonFiles() {
+        val mapper = ObjectMapper()
 
-    }
+        for (dir in File("./src/test/resources").listFiles()) {
+            val skolverketFile = SkolverketFile.valueOf(dir.name)
+            val subjectMap: MutableMap<String, Subject> = HashMap()
+            val coursesMap: MutableMap<String, Course> = HashMap()
 
-    @Test
-    fun testDansgestaltning() {
-        textCourseCode("DAGDAS0", "Dansgestaltning for yrkesdansare")
-    }
-    @Test
-    fun testDansteknik() {
-        textCourseCode("DAKKLA02", "Dansteknik for yrkesdansare")
-    }
+            for (subjectName in skolverketFile.subjectNames()) {
+                val subjectParser = skolverketFile.openSubject(subjectName)
+                subjectMap[subjectName] = subjectParser.getSubject()
+                subjectParser.courses.forEach { coursesMap[it.code] = it }
+            }
 
-    @Test
-    fun testTESPRO01() {
-        textCourseCode("TESPRO01", "Tekniska system - VVS")
-    }
+            val subjectDir = File("./src/test/resources/${skolverketFile.name}/subjects")
+            if (!subjectDir.isDirectory) fail("${subjectDir.absolutePath} is not a directory")
 
-    @Test
-    fun testTravkunskap() {
-        textCourseCode("TRVTRA01", "Travkunskap")
-    }
-    @Test
-    fun testManniskansSprak() {
-        textCourseCode("MÄKMÄK02", "Manniskans sprak")
-    }
+            for (file in File("./src/test/resources/${skolverketFile.name}/subjects").listFiles()) {
+                if (!file.name.endsWith(".json")) continue
+                val subjectName = file.name.split(".").first()
+                val parsedSubject = subjectMap[subjectName]
+                if (parsedSubject == null) {
+                    fail("No subject ${subjectName} for file ${file.absolutePath}")
+                } else {
+                    val expected = file.readText()
+                    val actual = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(parsedSubject)
+                    assertEquals("Difference for subject ${subjectName}", expected, actual)
+                }
+            }
 
-    @Test
-    fun testMath() {
-        textCourseCode("MATMAT00S", "Matematik")
-        textCourseCode("MATMAT01b", "Matematik")
-        textCourseCode("MATMAT01c", "Matematik")
-        textCourseCode("MATMAT02a", "Matematik")
-        textCourseCode("MATMAT02b", "Matematik")
-    }
-    @Test
-    fun testMatlagningskunskap() {
-        textCourseCode("MALMAL04", "Matlagningskunskap")
-    }
+            val courseDir = File("./src/test/resources/${skolverketFile.name}/courses")
+            if (!courseDir.isDirectory) fail("${courseDir.absolutePath} is not a directory")
 
-    @Test
-    fun testBildteori() {
-        textCourseCode("BIDBIT0", "Bildteori")
-    }
-
-    @Test
-    fun testSparfordon() {
-        textCourseCode("SPOSPA0", "Sparfordon")
-    }
-
-    @Test
-    fun textByggproduktionsledning() {
-        textCourseCode("BYPRIT0", "Byggproduktionsledning")
+            for (file in courseDir.listFiles()) {
+                if (!file.name.endsWith(".json")) continue
+                val courseCode = file.name.split(".").first()
+                val parsedCourse = coursesMap[courseCode]
+                if (parsedCourse == null) {
+                    fail("No course ${courseCode} for file ${file.absolutePath}")
+                } else {
+                    val expected = file.readText()
+                    val actual = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(parsedCourse)
+                    assertEquals("Difference for course ${courseCode}", expected, actual)
+                }
+            }
+        }
     }
 
     @Test
