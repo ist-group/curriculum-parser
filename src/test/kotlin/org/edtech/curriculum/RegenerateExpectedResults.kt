@@ -13,14 +13,14 @@ fun main(args : Array<String>) {
             val subjectParser = skolverketFile.openSubject(subjectName)
             subjectMap[subjectName] = subjectParser.getSubject()
         }
-        val subjectDir = File("./src/test/resources/${skolverketFile.name}/subjects")
+        val subjectDir = File("./src/test/resources/${skolverketFile.name}")
         if (subjectDir.isDirectory) {
-            for (file in File("./src/test/resources/${skolverketFile.name}/subjects").listFiles()) {
+            for (file in File("./src/test/resources/${skolverketFile.name}").listFiles()) {
                 if (!file.name.endsWith(".json")) continue
                 val subjectName = file.name.split(".").first()
                 val parsedSubject = subjectMap[subjectName]
                 if (parsedSubject == null) {
-                    println("ERROR: No subject ${subjectName} for file ${file.absolutePath}")
+                    println("ERROR: No subject $subjectName for file ${file.absolutePath}")
                     System.exit(1)
                 } else {
                     val json = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(parsedSubject)

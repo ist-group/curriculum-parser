@@ -4,6 +4,7 @@ import info.debatty.java.stringsimilarity.NormalizedLevenshtein
 import org.edtech.curriculum.GradeStep
 import org.edtech.curriculum.KnowledgeRequirement
 import org.jsoup.Jsoup
+import kotlin.math.max
 import kotlin.math.min
 
 fun fixCurriculumErrors(text: String): String {
@@ -16,6 +17,7 @@ fun fixCurriculumErrors(text: String): String {
             .replace("<strong> <italic>  .  </italic></strong>", ". ")
             .replace("<br/>", " ")
             .replace("<br>", " ")
+            .replace("<p>.</p>", "")
             .trim()
 }
 
@@ -28,17 +30,31 @@ fun textMatches(text1: String, text2: String): Boolean {
 
     val similarityThreshold = 0.8
     val r = Regex("[\\s,.-]+")
+
     val wordList1  = getTextWithoutBoldWords(text1).trim().split(r).filter { it.isNotEmpty() }
     val wordList2  = getTextWithoutBoldWords(text2).trim().split(r).filter { it.isNotEmpty() }
 
     val minLength = min(wordList1.size, wordList2.size)
+    val maxLength = max(wordList1.size, wordList2.size)
 
-    val matchesWordCount = wordList1.filterIndexed { index, word -> wordList2.contains(word) && wordList2.indexOf(word)  - index in -2..2 } .size
+    // Make sure that we do not match single word lines
+    if (minLength == 1 && maxLength > 3) {
+        return false
+    }
+
+    // Match words by position, allow +-2 positions
+    val matchesWordCount = wordList1
+            .filterIndexed {
+                index, word -> wordList2.contains(word) && wordList2.indexOf(word) - index in -2..2
+            }.size
+
     if (matchesWordCount.toDouble() / minLength.toDouble() > similarityThreshold) {
         return true
     }
+
+    // Match with Levenshtein as a fallback to handle when words have different inflections
     val l = NormalizedLevenshtein()
-    if (l.similarity(wordList1.joinToString(" "),  wordList2.joinToString(" ")) > 0.8 ) {
+    if (l.similarity(wordList1.joinToString(" "),  wordList2.joinToString(" ")) > similarityThreshold ) {
         return true
     }
     return false
