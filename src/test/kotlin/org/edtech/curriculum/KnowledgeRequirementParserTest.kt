@@ -110,7 +110,7 @@ class KnowledgeRequirementParserTest {
     }
 
     @Test
-    fun noEmptyRequirementCriterion() {
+    fun noEmptyKnowledgeRequirementChoices() {
          val skolverketFile = SkolverketFile.GY
          for (subjectName in skolverketFile.subjectNames()) {
              val subjectParser = skolverketFile.openSubject(subjectName)
