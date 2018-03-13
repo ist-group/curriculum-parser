@@ -1,9 +1,7 @@
 package org.edtech.curriculum
 
 import org.edtech.curriculum.internal.CourseParser
-import org.edtech.curriculum.internal.HtmlParser
 import org.jsoup.Jsoup
-import org.jsoup.nodes.Element
 import org.jsoup.parser.Parser
 import org.jsoup.select.Elements
 import java.io.InputStream
@@ -21,21 +19,23 @@ import java.io.InputStream
  */
 class SubjectParser(openDataDocumentStream: InputStream) {
 
-    private val openDataDocument = Jsoup.parse(openDataDocumentStream, null, "", Parser.xmlParser())
+    internal val openDataDocument = Jsoup.parse(openDataDocumentStream, null, "", Parser.xmlParser())
     private fun extractString(elementName: String): String = openDataDocument.select("subject > $elementName" ).text()
     private fun extractNodes(elementName: String): Elements = openDataDocument.select("subject > $elementName" )
 
-    val name: String = extractString("name")
-    val description: String = extractString("description").removePrefix("<p>").removeSuffix("</p>")
-    val code: String = extractString("code")
-    val skolfsId: String = extractString("skolfsId")
-    val purpose: String = extractString("purpose")
-    val applianceDate: String = extractString("applianceDate")
+    internal val name: String = extractString("name")
+    private val description: String = extractString("description").removePrefix("<p>").removeSuffix("</p>")
+    private val code: String = extractString("code")
+    private val skolfsId: String = extractString("skolfsId")
+    private val purpose: String = extractString("purpose")
     val courses: List<Course> = extractCourses()
 
     fun getSubject(): Subject {
-        val doc = Jsoup.parse(purpose)
-        return Subject(name, description, code, skolfsId, HtmlParser().toPurposes(doc))
+        return Subject(name, description, code, skolfsId, toPurposes(purpose))
+    }
+
+    fun getCourse(code: String): Course? {
+        return courses.firstOrNull { it.code == code }
     }
 
     private fun extractCourses(): List<Course> {
@@ -52,21 +52,22 @@ class SubjectParser(openDataDocumentStream: InputStream) {
         }
     }
 
-    fun getCourse(code: String): Course? {
-        return courses.firstOrNull { it.code == code }
-    }
-
-    fun getCourseParser(code: String): CourseParser {
-        return CourseParser(getCourseElement(code))
-    }
-
-    private fun getCourseElement(code: String): Element {
-        val elements = extractNodes("courses")
-        return if (!elements.isEmpty()) {
-            elements.first { it.select("code").text() == code }
-        } else {
-            openDataDocument
-        }
+    /**
+     * Convert the Purpose html to Entities depending on tag type
+     */
+    private fun toPurposes(html: String): List<Purpose> {
+        return Jsoup.parse("<root>$html</root>").select("root > p, li, root > h1, root > h2, root > h3, root > h4, root > h5, root > h6")
+                .filter { it.text().isNotEmpty() }
+                // Dont want skolverkets content map to be part of the purpose, expect it to be last.
+                .takeWhile { it.text() != "Kurser i ämnet" }
+                .map {
+                    val type = when (it.tagName()) {
+                        "p" -> PurposeType.SECTION
+                        "li" -> PurposeType.BULLET
+                        else -> PurposeType.HEADING
+                    }
+                    Purpose(it.text(), type)
+                }
     }
 }
 
