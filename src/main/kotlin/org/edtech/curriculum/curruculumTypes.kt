@@ -25,10 +25,14 @@ data class Purpose(val content: String,
 data class Course(val name: String,
                   val description: String,
                   val code: String,
-                  val point: Int,
+                  val point: Int?,
+                  val gers: String?,
+                  val yearGroup: YearGroup?,
                   val centralContent: List<CentralContent>? = null,
                   val knowledgeRequirement: List<KnowledgeRequirement>? = null
 )
+
+data class YearGroup(val fromYear: Int?, val toYear: Int)
 
 data class CentralContent(val content: String,
                           val type: CentralContentType

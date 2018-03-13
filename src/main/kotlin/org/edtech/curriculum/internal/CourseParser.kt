@@ -3,6 +3,7 @@ package org.edtech.curriculum.internal
 import org.edtech.curriculum.*
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Element
+import java.util.concurrent.atomic.AtomicInteger
 
 class CourseParser(private val courseElement: Element) {
 
@@ -14,10 +15,35 @@ class CourseParser(private val courseElement: Element) {
                 courseElement.select("name").text(),
                 courseElement.select("description").text().removePrefix("<p>").removeSuffix("</p>"),
                 courseElement.select("code").text(),
-                courseElement.select("point").text().toIntOrNull() ?: 0,
+                courseElement.select("point").text().toIntOrNull(),
+                getGers(),
+                getYearGroup(),
                 this.getCentralContent(),
                 this.getKnowledgeRequirements()
-        )
+            )
+    }
+
+    private fun getGers(): String? {
+        val text = courseElement.select("gers").text()
+        return if (text.isNotEmpty()) {
+            text
+        } else {
+            null
+        }
+    }
+
+    private fun getYearGroup(): YearGroup? {
+        val text = courseElement.select("yearGroup").text()
+        return if (text.isNotEmpty()) {
+            val splitText = text.split("-")
+            if (splitText.size > 1) {
+                YearGroup(splitText[0].toIntOrNull(), splitText[1].toInt())
+            } else {
+                YearGroup(null, splitText[0].toIntOrNull() ?: 0)
+            }
+        } else {
+            null
+        }
     }
 
     internal fun extractKnowledgeRequirementForGradeStep(gradeStep: GradeStep): String {
@@ -25,12 +51,24 @@ class CourseParser(private val courseElement: Element) {
                 .map { it.parent() }
                 .joinToString { it.select("text").text() }
     }
-
+    private fun extractKnowledgeRequirementElementsForGradeStepAndAspect(gradeStep: GradeStep, aspect: String): Element {
+        return courseElement.select("knowledgeRequirements aspectType:containsOwn($aspect)")
+                .map { it.parent() }.first { it.select("gradeStep:containsOwn(${gradeStep.name})").isNotEmpty() }
+    }
     private fun getCentralContent(): List<CentralContent> {
         return toCentralContent(
                 courseElement.select("centralContent, centralContents").text()
             )
     }
+
+    private fun extractAspectTypes(): Set<String> {
+        return courseElement.select("aspectType").map { it.text() }.toSet()
+    }
+
+    private fun cleanKnowledgeRequirementText(text: String): String {
+        return Jsoup.parse(text).select("p").html()
+    }
+
     /**
      * Combine heading and bullets in one list
      */
@@ -47,10 +85,27 @@ class CourseParser(private val courseElement: Element) {
     }
 
     private fun getKnowledgeRequirements(): List<KnowledgeRequirement>? {
-        return KnowledgeRequirementParser().getKnowledgeRequirements(
-                extractKnowledgeRequirementForGradeStep(GradeStep.E),
-                extractKnowledgeRequirementForGradeStep(GradeStep.C),
-                extractKnowledgeRequirementForGradeStep(GradeStep.A)
-        )
+        val aspectTypes = extractAspectTypes()
+        if (aspectTypes.isEmpty()) {
+            return KnowledgeRequirementParser().getKnowledgeRequirements(
+                    extractKnowledgeRequirementForGradeStep(GradeStep.E),
+                    extractKnowledgeRequirementForGradeStep(GradeStep.C),
+                    extractKnowledgeRequirementForGradeStep(GradeStep.A)
+            )
+        } else {
+            val ai = AtomicInteger()
+            return aspectTypes.map {
+                val knElementE = extractKnowledgeRequirementElementsForGradeStepAndAspect(GradeStep.E, it)
+                val knElementC = extractKnowledgeRequirementElementsForGradeStepAndAspect(GradeStep.C, it)
+                val knElementA = extractKnowledgeRequirementElementsForGradeStepAndAspect(GradeStep.A, it)
+                val text = cleanKnowledgeRequirementText(knElementE.select("aspectDesc").text())
+                val choices = mutableMapOf(
+                        Pair(GradeStep.E, cleanKnowledgeRequirementText(knElementE.select("text").text())),
+                        Pair(GradeStep.C, cleanKnowledgeRequirementText(knElementC.select("text").text())),
+                        Pair(GradeStep.A, cleanKnowledgeRequirementText(knElementA.select("text").text()))
+                )
+                KnowledgeRequirement(text, 0, ai.incrementAndGet(), choices)
+            }.toList()
+        }
     }
 }

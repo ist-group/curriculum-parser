@@ -27,11 +27,10 @@ class SubjectParser(openDataDocumentStream: InputStream) {
     private val description: String = extractString("description").removePrefix("<p>").removeSuffix("</p>")
     private val code: String = extractString("code")
     private val skolfsId: String = extractString("skolfsId")
-    private val purpose: String = extractString("purpose")
     val courses: List<Course> = extractCourses()
 
     fun getSubject(): Subject {
-        return Subject(name, description, code, skolfsId, toPurposes(purpose))
+        return Subject(name, description, code, skolfsId, extractPurpose())
     }
 
     fun getCourse(code: String): Course? {
@@ -52,6 +51,11 @@ class SubjectParser(openDataDocumentStream: InputStream) {
         }
     }
 
+    private fun extractPurpose(): List<Purpose> {
+        return toPurposes(extractString("purpose")) +
+                toPurposes(extractString("educationalObjectives"))
+    }
+
     /**
      * Convert the Purpose html to Entities depending on tag type
      */
@@ -66,8 +70,14 @@ class SubjectParser(openDataDocumentStream: InputStream) {
                         "li" -> PurposeType.BULLET
                         else -> PurposeType.HEADING
                     }
-                    Purpose(it.text(), type)
+                    // Support - formatted lists used in SFI
+                    if (type == PurposeType.SECTION && it.text().startsWith("-")) {
+                        Purpose(it.text().removePrefix("-").trim(), PurposeType.BULLET)
+                    } else {
+                        Purpose(it.text(), type)
+                    }
                 }
     }
+
 }
 
