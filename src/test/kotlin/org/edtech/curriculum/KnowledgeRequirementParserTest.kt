@@ -7,7 +7,6 @@ import org.edtech.curriculum.internal.getTextWithoutBoldWords
 import org.edtech.curriculum.internal.textMatches
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
-import org.jsoup.nodes.Element
 import org.junit.Assert.*
 import org.junit.Test
 import java.io.File
@@ -48,12 +47,10 @@ class KnowledgeRequirementParserTest {
         for (dir in File("./src/test/resources").listFiles()) {
             val skolverketFile = SkolverketFile.valueOf(dir.name)
             val subjectMap: MutableMap<String, Subject> = HashMap()
-            val coursesMap: MutableMap<String, Course> = HashMap()
 
             for (subjectName in skolverketFile.subjectNames()) {
                 val subjectParser = skolverketFile.openSubject(subjectName)
                 subjectMap[subjectName] = subjectParser.getSubject()
-                subjectParser.courses.forEach { coursesMap[it.code] = it }
             }
 
             val subjectDir = File("./src/test/resources/${skolverketFile.name}/subjects")
@@ -71,22 +68,6 @@ class KnowledgeRequirementParserTest {
                     assertEquals("Difference for subject $subjectName", expected, actual)
                 }
             }
-
-            val courseDir = File("./src/test/resources/${skolverketFile.name}/courses")
-            if (!courseDir.isDirectory) fail("${courseDir.absolutePath} is not a directory")
-
-            for (file in courseDir.listFiles()) {
-                if (!file.name.endsWith(".json")) continue
-                val courseCode = file.name.split(".").first()
-                val parsedCourse = coursesMap[courseCode]
-                if (parsedCourse == null) {
-                    fail("No course $courseCode for file ${file.absolutePath}")
-                } else {
-                    val expected = file.readText()
-                    val actual = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(parsedCourse)
-                    assertEquals("Difference for course $courseCode", expected, actual)
-                }
-            }
         }
     }
 
@@ -94,7 +75,8 @@ class KnowledgeRequirementParserTest {
     fun parseAllOpenDataStructures() {
          val skolverketFile = SkolverketFile.GY
          for (subjectName in skolverketFile.subjectNames()) {
-             val subject = skolverketFile.openSubject(subjectName)
+             val subjectParser = skolverketFile.openSubject(subjectName)
+             val subject = subjectParser.getSubject()
              for (course in subject.courses) {
                  // Get the fully parsed course
                  val knList = course.knowledgeRequirement
@@ -111,7 +93,7 @@ class KnowledgeRequirementParserTest {
                          }
                      }
                  }
-                 val cp = getCourseParser(subject.openDataDocument, course.code)
+                 val cp = getCourseParser(subjectParser.openDataDocument, course.code)
                  for( (gradestep, text) in combined) {
                      val textExpected = fixCurriculumErrors(Jsoup.parse(cp.extractKnowledgeRequirementForGradeStep(gradestep)).select("p").html())
                              .replace("\n", " ")

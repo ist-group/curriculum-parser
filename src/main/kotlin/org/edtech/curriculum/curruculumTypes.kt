@@ -15,7 +15,8 @@ data class Subject(val name: String,
                    val description: String,
                    val code: String,
                    val skolfsId: String,
-                   val purposes: List<Purpose>
+                   val purposes: List<Purpose>,
+                   val courses: List<Course>
 )
 
 data class Purpose(val content: String,

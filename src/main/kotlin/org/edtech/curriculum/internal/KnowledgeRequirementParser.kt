@@ -54,7 +54,7 @@ fun getTextWithoutBoldWords(htmlText: String): String {
 }
 
 
-class KnowledgeRequirementParser {
+internal class KnowledgeRequirementParser {
 
     /**
      * Replaces the bold words with ________
