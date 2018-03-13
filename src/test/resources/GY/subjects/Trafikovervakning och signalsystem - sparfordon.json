@@ -1,0 +1,150 @@
+{
+  "name" : "Trafikövervakning och signalsystem – spårfordon",
+  "description" : "Ämnet trafikövervakning och signalsystem – spårfordon behandlar de datorbaserade system som kontrollerar och övervakar spårfordons trafikrörelser och säkerhet.",
+  "code" : "TRF",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "content" : "Undervisningen i ämnet trafikövervakning och signalsystem – spårfordon ska syfta till att eleverna utvecklar förståelse av hur systemen för trafikövervakning är uppbyggda och fungerar för spårfordon och trafikledning. Undervisningen ska leda till att eleverna utvecklar förståelse av den kommunikationsplattform som förvaltar och kontrollerar informationsflödet inom övervakningssystemen och övriga system i spårfordon och dess trafikmiljö. Undervisningen ska dessutom bidra till att eleverna utvecklar kunskap om de krav som ställs på övervakningssystemen för effektiv och tillförlitlig drift samt kunskap om de system som övervakar trafikrörelser.",
+    "type" : "SECTION"
+  }, {
+    "content" : "Undervisningen i ämnet ska leda till att eleverna utvecklar färdigheter i att hantera övervakningssystemen vid inträde och utträde från underhållsdepåer. Vidare ska undervisningen leda till att eleverna utvecklar färdigheter i att planera och utföra underhåll på övervakningssystemens ingående delar i enlighet med säkerhetsföreskrifter.",
+    "type" : "SECTION"
+  }, {
+    "content" : "Undervisningen i ämnet trafikövervakning och signalsystem – spårfordon ska ge eleverna förutsättningar att utveckla följande:",
+    "type" : "HEADING"
+  }, {
+    "content" : "Förståelse av uppbyggnad och funktion hos trafikövervakningssystem för spårfordon, spår och signalsystem.",
+    "type" : "BULLET"
+  }, {
+    "content" : "Kunskap om övervakningssystemens säkerhet och tillförlitlighet.",
+    "type" : "BULLET"
+  }, {
+    "content" : "Kunskap om övervakningssystemens förebyggande och avhjälpande underhåll.",
+    "type" : "BULLET"
+  }, {
+    "content" : "Kunskap om övervakningssystemens ingående delar och komponenter.",
+    "type" : "BULLET"
+  }, {
+    "content" : "Kunskap om applikationsprogram i trafikövervakningssystem.",
+    "type" : "BULLET"
+  }, {
+    "content" : "Färdighet i att hantera och vårda verktyg och teknisk utrustning.",
+    "type" : "BULLET"
+  }, {
+    "content" : "Färdigheter i att tolka systemdokumentation, instruktioner och att dokumentera genomfört arbete.",
+    "type" : "BULLET"
+  } ],
+  "courses" : [ {
+    "name" : "Trafikövervakning och signalsystem – spårfordon",
+    "description" : "Kursen omfattar punkterna 1–7 under rubriken Ämnets syfte.",
+    "code" : "TRFTRA0",
+    "point" : 100,
+    "centralContent" : [ {
+      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "type" : "HEADING"
+    }, {
+      "content" : "Uppbyggnad och syftet med trafikövervakningssystem.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Förekommande övervakning och kontrollsystem, till exempel ERTMS och ATC.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Övervakningssystemens komponenter och dess uppbyggnads roll och funktion inom fordon och infrastruktur.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Kommunikationsplattformen hos trafikövervakningssystem.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Loggningssystem för trafikhändelser.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Övervakning och säkerhetssystemens funktion, effektivitet och tillförlitlighet.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Övervakningssystemets betydelse för systemtester och kalibrering av givare.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Applikationsprogram och kretsscheman.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Verktyg och arbetsutrustning.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Scheman, ritningar och övrig dokumentation över komponenter och system.",
+      "type" : "BULLET"
+    } ],
+    "knowledgeRequirement" : [ {
+      "text" : "Eleven redogör <strong>________</strong>för uppbyggnad och funktion hos trafikövervakningssystem för spårfordon, spår och signalsystem samt för den kommunikationsplattform som förvaltar och kontrollerar informationsflöden.",
+      "no" : 0,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven redogör <strong>översiktligt </strong>för uppbyggnad och funktion hos trafikövervakningssystem för spårfordon, spår och signalsystem samt för den kommunikationsplattform som förvaltar och kontrollerar informationsflöden.",
+        "C" : "Eleven redogör <strong>utförligt </strong>för uppbyggnad och funktion hos trafikövervakningssystem för spårfordon, spår och signalsystem samt för den kommunikationsplattform som förvaltar och kontrollerar informationsflöden.",
+        "A" : "Eleven redogör <strong>utförligt och nyanserat </strong>för uppbyggnad och funktion hos trafikövervakningssystem för spårfordon, spår och signalsystem samt för den kommunikationsplattform som förvaltar och kontrollerar informationsflöden."
+      }
+    }, {
+      "text" : "Vidare redogör eleven <strong>________</strong> för övervakningssystemets delar och komponenter, applikationsprogram, hur data överförs samt systemets säkerhet och tillförlitlighet.",
+      "no" : 1,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Vidare redogör eleven <strong>översiktligt</strong> för övervakningssystemets delar och komponenter, applikationsprogram, hur data överförs samt systemets säkerhet och tillförlitlighet.",
+        "C" : "Vidare redogör eleven <strong>utförligt</strong> för övervakningssystemets delar och komponenter, applikationsprogram, hur data överförs samt systemets säkerhet och tillförlitlighet.",
+        "A" : "Vidare redogör eleven <strong>utförligt</strong> <strong>och nyanserat</strong> för övervakningssystemets delar och komponenter, applikationsprogram, hur data överförs samt systemets säkerhet och tillförlitlighet."
+      }
+    }, {
+      "text" : "Dessutom redogör eleven <strong>________</strong> för de system som övervakar trafikrörelser.",
+      "no" : 2,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för de system som övervakar trafikrörelser.",
+        "C" : "Dessutom redogör eleven <strong>utförligt</strong> för de system som övervakar trafikrörelser.",
+        "A" : "Dessutom redogör eleven <strong>utförligt</strong> <strong>och nyanserat</strong> för de system som övervakar trafikrörelser."
+      }
+    }, {
+      "text" : "Eleven planerar och utför<strong>________</strong>med handledare och med<strong>________</strong>resultat underhåll på övervakningssystemets ingående delar i enlighet med instruktioner och säkerhetsföreskrifter.",
+      "no" : 0,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven planerar och utför<strong> i samråd </strong>med handledare och med<strong> tillfredsställande </strong>resultat underhåll på övervakningssystemets ingående delar i enlighet med instruktioner och säkerhetsföreskrifter.",
+        "C" : "Eleven planerar och utför<strong> efter samråd </strong>med handledare underhåll med <strong>tillfredsställande</strong> resultat på övervakningssystemets ingående delar i enlighet med instruktioner och säkerhetsföreskrifter.",
+        "A" : "Eleven planerar och utför <strong>efter samråd </strong>med handledare underhåll med <strong>gott </strong>resultat på övervakningssystemets ingående delar i enlighet med instruktioner och säkerhetsföreskrifter."
+      }
+    }, {
+      "text" : "Eleven hanterar också <strong>________</strong> med handledare övervakningssystemet <strong>________</strong> enligt regler för in- och utpassage till depå.",
+      "no" : 1,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven hanterar också <strong>i samråd</strong> med handledare övervakningssystemet <strong>tillfredsställande</strong> enligt regler för in- och utpassage till depå.",
+        "C" : "Eleven hanterar också <strong>efter samråd</strong> med handledare övervakningssystemet <strong>tillfredsställande</strong> enligt regler för in- och utpassage till depå.",
+        "A" : "Eleven hanterar också <strong>efter samråd</strong> med handledare övervakningssystemet på ett <strong>gott</strong> sätt enligt regler för in- och utpassage till depå."
+      }
+    }, {
+      "text" : "I arbetet hanterar eleven <strong>________</strong> <strong>________</strong> verktyg och teknisk utrustning samt vårdar <strong>________</strong> dessa i enlighet med instruktioner.",
+      "no" : 0,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "I arbetet hanterar eleven <strong>med</strong> <strong>viss säkerhet</strong> verktyg och teknisk utrustning samt vårdar <strong>med viss säkerhet</strong> dessa i enlighet med instruktioner.",
+        "C" : "I arbetet hanterar eleven <strong>med säkerhet</strong> verktyg och teknisk utrustning samt vårdar <strong>med</strong> <strong>säkerhet</strong> dessa i enlighet med instruktioner.",
+        "A" : "I arbetet hanterar eleven <strong>med säkerhet</strong> verktyg och teknisk utrustning samt vårdar <strong>med säkerhet</strong> dessa i enlighet med instruktioner."
+      }
+    }, {
+      "text" : "Eleven gör en <strong>________</strong>dokumentation över utfört arbete enligt regler och branschstandard.",
+      "no" : 1,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven gör en <strong>enkel </strong>dokumentation över utfört arbete enligt regler och branschstandard.",
+        "C" : "Eleven gör en <strong>noggrann </strong>dokumentation över utfört arbete enligt regler och branschstandard.",
+        "A" : "Eleven gör en <strong>noggrann och utförlig</strong> dokumentation över utfört arbete enligt regler och branschstandard."
+      }
+    }, {
+      "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong>den egna förmågan och situationens krav.",
+      "no" : 0,
+      "paragraphNo" : 3,
+      "knowledgeRequirementChoice" : {
+        "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.",
+        "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.",
+        "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav."
+      }
+    } ]
+  } ]
+}
