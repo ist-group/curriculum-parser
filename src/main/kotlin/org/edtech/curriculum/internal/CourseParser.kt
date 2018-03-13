@@ -15,10 +15,35 @@ class CourseParser(private val courseElement: Element) {
                 courseElement.select("name").text(),
                 courseElement.select("description").text().removePrefix("<p>").removeSuffix("</p>"),
                 courseElement.select("code").text(),
-                courseElement.select("point").text().toIntOrNull() ?: 0,
+                courseElement.select("point").text().toIntOrNull(),
+                getGers(),
+                getYearGroup(),
                 this.getCentralContent(),
                 this.getKnowledgeRequirements()
-        )
+            )
+    }
+
+    private fun getGers(): String? {
+        val text = courseElement.select("gers").text()
+        return if (text.isNotEmpty()) {
+            text
+        } else {
+            null
+        }
+    }
+
+    private fun getYearGroup(): YearGroup? {
+        val text = courseElement.select("yearGroup").text()
+        return if (text.isNotEmpty()) {
+            val splitText = text.split("-")
+            if (splitText.size > 1) {
+                YearGroup(splitText[0].toIntOrNull(), splitText[1].toInt())
+            } else {
+                YearGroup(null, splitText[0].toIntOrNull() ?: 0)
+            }
+        } else {
+            null
+        }
     }
 
     internal fun extractKnowledgeRequirementForGradeStep(gradeStep: GradeStep): String {

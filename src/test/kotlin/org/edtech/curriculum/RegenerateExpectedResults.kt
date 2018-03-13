@@ -6,7 +6,7 @@ import java.io.File
 fun main(args : Array<String>) {
     val mapper = ObjectMapper()
 
-    for (skolverketFile in listOf(/*SkolverketFile.GY, SkolverketFile.VUXGR,*/ SkolverketFile.SFI)) {
+    for (skolverketFile in listOf(SkolverketFile.GY, SkolverketFile.VUXGR, SkolverketFile.SFI)) {
         val subjectMap: MutableMap<String, Subject> = HashMap()
         val coursesMap: MutableMap<String, Course> = HashMap()
 
