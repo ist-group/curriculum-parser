@@ -7,13 +7,14 @@ import org.edtech.curriculum.internal.getTextWithoutBoldWords
 import org.edtech.curriculum.internal.textMatches
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
-import org.jsoup.nodes.Element
 import org.junit.Assert.*
 import org.junit.Test
 import java.io.File
 
 
 class KnowledgeRequirementParserTest {
+
+    private val hasMissingRequirementsFromSkolverket = setOf("BYPRIT0", "RINRID02", "SPEIDT0", "TESPRO01", "TEYPRO01")
 
     @Test
     fun testTextMatches() {
@@ -29,6 +30,9 @@ class KnowledgeRequirementParserTest {
         assertFalse(textMatches(" Vid arbete i <strong>bekanta</strong> situationer använder eleven <strong>med säkerhet</strong> instruktioner och utrustningsbeskrivningar.",
                 " I arbetet använder eleven i <strong>nya</strong> situationer <strong>med säkerhet </strong>instruktioner och utrustningsbeskrivningar")
         )
+        assertFalse(textMatches(
+                "Eleven samarbetar <strong>med viss säkerhet </strong>med andra dansare och medverkande i konstnärliga gestaltande processer.",
+                "Eleven<strong> ger också förslag på hur både process och resultat kan förbättras</strong>"))
     }
 
     @Test
@@ -48,18 +52,16 @@ class KnowledgeRequirementParserTest {
         for (dir in File("./src/test/resources").listFiles()) {
             val skolverketFile = SkolverketFile.valueOf(dir.name)
             val subjectMap: MutableMap<String, Subject> = HashMap()
-            val coursesMap: MutableMap<String, Course> = HashMap()
 
             for (subjectName in skolverketFile.subjectNames()) {
                 val subjectParser = skolverketFile.openSubject(subjectName)
                 subjectMap[subjectName] = subjectParser.getSubject()
-                subjectParser.courses.forEach { coursesMap[it.code] = it }
             }
 
-            val subjectDir = File("./src/test/resources/${skolverketFile.name}/subjects")
+            val subjectDir = File("./src/test/resources/${skolverketFile.name}")
             if (!subjectDir.isDirectory) fail("${subjectDir.absolutePath} is not a directory")
 
-            for (file in File("./src/test/resources/${skolverketFile.name}/subjects").listFiles()) {
+            for (file in File("./src/test/resources/${skolverketFile.name}").listFiles()) {
                 if (!file.name.endsWith(".json")) continue
                 val subjectName = file.name.split(".").first()
                 val parsedSubject = subjectMap[subjectName]
@@ -71,57 +73,63 @@ class KnowledgeRequirementParserTest {
                     assertEquals("Difference for subject $subjectName", expected, actual)
                 }
             }
-
-            val courseDir = File("./src/test/resources/${skolverketFile.name}/courses")
-            if (!courseDir.isDirectory) fail("${courseDir.absolutePath} is not a directory")
-
-            for (file in courseDir.listFiles()) {
-                if (!file.name.endsWith(".json")) continue
-                val courseCode = file.name.split(".").first()
-                val parsedCourse = coursesMap[courseCode]
-                if (parsedCourse == null) {
-                    fail("No course $courseCode for file ${file.absolutePath}")
-                } else {
-                    val expected = file.readText()
-                    val actual = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(parsedCourse)
-                    assertEquals("Difference for course $courseCode", expected, actual)
-                }
-            }
         }
     }
 
     @Test
-    fun parseAllOpenDataStructures() {
+    fun matchParsedKnowledgeRequirementTextWithOriginal() {
          val skolverketFile = SkolverketFile.GY
          for (subjectName in skolverketFile.subjectNames()) {
-             val subject = skolverketFile.openSubject(subjectName)
+             val subjectParser = skolverketFile.openSubject(subjectName)
+             val subject = subjectParser.getSubject()
              for (course in subject.courses) {
                  // Get the fully parsed course
-                 val knList = course.knowledgeRequirement
-                 assertNotEquals("Knowledge Requirements cannot be empty", 0, knList?.size ?: 0)
                  val combined: MutableMap<GradeStep, StringBuilder> = HashMap()
-                 if (knList != null) {
-                     for(kn in knList) {
-                         for ( (g,s) in kn.knowledgeRequirementChoice) {
-                             if (combined.containsKey(g)) {
-                                 combined[g]?.append(" ")?.append(s)
-                             } else {
-                                 combined[g] = StringBuilder(s)
-                             }
+                 for(kn in course.knowledgeRequirement?: listOf()) {
+                     for ( (g,s) in kn.knowledgeRequirementChoice) {
+                         if (combined.containsKey(g)) {
+                             combined[g]?.append(" ")?.append(s)
+                         } else {
+                             combined[g] = StringBuilder(s)
                          }
                      }
                  }
-                 val cp = getCourseParser(subject.openDataDocument, course.code)
-                 for( (gradestep, text) in combined) {
-                     val textExpected = fixCurriculumErrors(Jsoup.parse(cp.extractKnowledgeRequirementForGradeStep(gradestep)).select("p").html())
-                             .replace("\n", " ")
+                 val cp = getCourseParser(subjectParser.openDataDocument, course.code)
+                 for( (gradeStep, text) in combined) {
+                     val textExpected = Jsoup.parse(fixCurriculumErrors(cp.extractKnowledgeRequirementForGradeStep(gradeStep)))
+                             .select("p")
+                             .text()
+                             .trim()
                              .replace("  ", " ")
-                             .replace("<strong> <italic>  .  </italic></strong>", ". ")
-                             .replace(".<strong> ", ". <strong> ")
-                             .replace(".</strong>", ". </strong>")
-                             .replace(Regex("[.]([^ ])"), ". \$1")
-                             .removeSuffix("<strong> </strong>")
-                     assertEquals("course: ${subject.name}/${course.name}", textExpected.trim(), text.toString().replace("  ", " ").trim())
+                             .replace(Regex("\\.([A-zåäö])"), ". \$1")
+                     val textActual =  Jsoup.parse(text.toString()).text().trim()
+                     assertEquals("course: ${subject.name}/${course.name} GradeStep: ${gradeStep.name}", textExpected, textActual)
+                 }
+             }
+         }
+    }
+
+    @Test
+    fun noEmptyKnowledgeRequirementChoices() {
+         val skolverketFile = SkolverketFile.GY
+         for (subjectName in skolverketFile.subjectNames()) {
+             val subjectParser = skolverketFile.openSubject(subjectName)
+             val subject = subjectParser.getSubject()
+             for (course in subject.courses) {
+                 // Get the fully parsed course
+                 assertNotEquals("Knowledge Requirements cannot be empty", 0, course.knowledgeRequirement?.size ?: 0)
+                 // Make sure tha all requirements are set, exclude errors from skolverket.
+                 if (!hasMissingRequirementsFromSkolverket.contains(course.code)) {
+                     course.knowledgeRequirement?.forEach {
+                         if (!it.knowledgeRequirementChoice.keys.containsAll(setOf(GradeStep.E,GradeStep.C, GradeStep.E)) &&
+                                 !it.knowledgeRequirementChoice.keys.contains(GradeStep.G)) {
+                             fail("Knowledge Requirement Choices should be either E,C,A or G failed for: ${subject.name}/${course.name}")
+                         }
+                         it.knowledgeRequirementChoice.forEach {
+                             if (it.value.isBlank())
+                                 fail("Found empty knowledge requirement critera in ${subject.name}/${course.name} [${course.code}]")
+                         }
+                     }
                  }
 
              }

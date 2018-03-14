@@ -1,0 +1,549 @@
+{
+  "name" : "Hälsa",
+  "description" : "Ämnet hälsa är tvärvetenskapligt och har sin grund i hälsovetenskap, socialmedicin och pedagogik. I ämnet behandlas hälsa och hälsofrämjande arbete utifrån ett individ-, grupp- och samhällsperspektiv. Ämnet utgår från ett helhetsperspektiv på människan som biologisk, psykisk och social varelse. ",
+  "code" : "HAL",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "content" : "Undervisningen i ämnet hälsa ska syfta till att eleverna utvecklar kunskaper om människors hälsa och om olika former av hälsofrämjande arbete. Eleverna ska ges möjlighet att utveckla kunskaper om folkhälsopolitiska mål och folkhälsoarbetets framväxt, innehåll och vad som styr detta. Undervisningen ska leda till att eleverna utvecklar förmåga att arbeta hälsofrämjande utifrån ett salutogent förhållningssätt vilket innebär att förstärka det friska och se människan som en resurs för eget välbefinnande.",
+    "type" : "SECTION"
+  }, {
+    "content" : "Eleverna ska ges möjlighet att utveckla kunskaper om arbetsmiljö och hur goda arbetsförhållanden kan skapas. De ska dessutom ges möjlighet att utveckla insikt om den egna livsstilen och förmåga att utföra handlingar för ett ökat välbefinnande och en positiv självbild.",
+    "type" : "SECTION"
+  }, {
+    "content" : "Problemlösning och handlingsberedskap ska stimuleras i undervisningen. Genom fältstudier och genom att medverka i olika verksamheter ska eleverna ges möjlighet att få inblick i och erfarenhet av sociala och pedagogiska sammanhang. Eleverna ska ges möjlighet att reflektera över och diskutera centrala begrepp samt egna och andras handlingar och attityder. I undervisningen ska eleverna också ges möjlighet att utveckla förmåga att kritiskt söka, bearbeta, värdera och använda information från olika källor.",
+    "type" : "SECTION"
+  }, {
+    "content" : "Undervisningen i ämnet hälsa ska ge eleverna förutsättningar att utveckla följande:",
+    "type" : "HEADING"
+  }, {
+    "content" : "Kunskaper om människors hälsa samt om hälsorelaterade levnadsvanor och livsvillkor och vilka konsekvenser de får för hälsan.",
+    "type" : "BULLET"
+  }, {
+    "content" : "Kunskaper om folkhälsoarbete och olika former av hälsofrämjande metoder och aktiviteter samt deras hälsoeffekter.",
+    "type" : "BULLET"
+  }, {
+    "content" : "Kunskaper om ergonomi samt förmåga att ergonomiskt anpassa sina rörelser till olika situationer och att bedöma hur miljöer kan anpassas till människan.",
+    "type" : "BULLET"
+  }, {
+    "content" : "Förmåga att använda begrepp och teorier inom hälsoområdet.",
+    "type" : "BULLET"
+  }, {
+    "content" : "Kunskaper om lagar och andra bestämmelser som styr hälsoarbetet samt förmåga att arbeta utifrån dessa.",
+    "type" : "BULLET"
+  }, {
+    "content" : "Förmåga att arbeta med hänsyn till arbetsmiljö och säkerhet samt på ett yrkesetiskt sätt.",
+    "type" : "BULLET"
+  }, {
+    "content" : "Färdigheter i att planera, genomföra, dokumentera och utvärdera olika former av hälsofrämjande arbete, metoder och aktiviteter samt undersökningar på individ-, grupp- och samhällsnivå.",
+    "type" : "BULLET"
+  }, {
+    "content" : "Förmåga att diskutera egna och andras attityder till och värderingar av hälsa och hälsofrämjande arbete.",
+    "type" : "BULLET"
+  }, {
+    "content" : "Förmåga att kommunicera, samarbeta och samverka för att möta och pedagogiskt leda människor i olika situationer.",
+    "type" : "BULLET"
+  } ],
+  "courses" : [ {
+    "name" : "Ergonomi",
+    "description" : "Kursen ergonomi omfattar punkterna 1, 3–7 och 9 under rubriken Ämnets syfte, med särskild betoning på punkt 3. ",
+    "code" : "HALERG0",
+    "point" : 100,
+    "centralContent" : [ {
+      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "type" : "HEADING"
+    }, {
+      "content" : "Begreppet ergonomi samt ergonomi som kunskapsområde.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Arbetets och arbetsmiljöns påverkan på hälsa och välbefinnande. Hur miljöer ergonomiskt kan anpassas till människan.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Yrkesetik i arbetet samt lagar och andra bestämmelser som reglerar arbetet.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Tekniker för ergonomiskt och säkert utfört arbete i olika situationer, såväl i vardags- som i arbetslivet. Riskanalys och konsekvenser vid rätt respektive felaktig teknik.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Ergonomiska verktyg och annan teknisk utrustning, deras funktion och underhåll.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Kommunikation, samarbete och samverkan i mötet med människor.",
+      "type" : "BULLET"
+    } ],
+    "knowledgeRequirement" : [ {
+      "text" : "Eleven redogör <strong>________</strong>för kunskapsområdet ergonomis betydelse för människors hälsa och välbefinnande.",
+      "no" : 0,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven redogör <strong>översiktligt </strong>för kunskapsområdet ergonomis betydelse för människors hälsa och välbefinnande.",
+        "C" : "Eleven redogör <strong>utförligt </strong>för kunskapsområdet ergonomis betydelse för människors hälsa och välbefinnande.",
+        "A" : "Eleven redogör <strong>utförligt och nyanserat </strong>för kunskapsområdet ergonomis betydelse för människors hälsa och välbefinnande."
+      }
+    }, {
+      "text" : "I redogörelsen använder eleven <strong>________</strong> centrala begrepp och teorier.",
+      "no" : 1,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "I redogörelsen använder eleven <strong>med viss säkerhet</strong> centrala begrepp och teorier.",
+        "C" : "I redogörelsen använder eleven <strong>med viss säkerhet</strong> centrala begrepp och teorier.",
+        "A" : "I redogörelsen använder eleven <strong>med säkerhet</strong> centrala begrepp och teorier."
+      }
+    }, {
+      "text" : "Eleven redogör <strong>________</strong>för lagar och andra bestämmelser inom aktuellt område och tar <strong>________</strong> <strong>________</strong>utgångspunkt i dessa i sitt arbete.",
+      "no" : 0,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven redogör <strong>översiktligt </strong>för lagar och andra bestämmelser inom aktuellt område och tar <strong>med</strong> <strong>viss säkerhet </strong>utgångspunkt i dessa i sitt arbete.",
+        "C" : "Eleven redogör <strong>utförligt </strong>för lagar och andra bestämmelser inom aktuellt område och tar <strong>med</strong> <strong>viss säkerhet </strong>utgångspunkt i dessa i sitt arbete.",
+        "A" : "Eleven redogör <strong>utförligt och nyanserat </strong>för lagar och andra bestämmelser inom aktuellt område och tar <strong>med</strong> <strong>säkerhet </strong>utgångspunkt i dessa i sitt arbete."
+      }
+    }, {
+      "text" : "Eleven redogör <strong>________</strong> för olika principer och tekniker för säkert och ergonomiskt utfört arbete samt visar, <strong>________</strong>med handledare, tekniker för säkert och ergonomiskt utfört arbete i olika situationer.",
+      "no" : 0,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven redogör <strong>översiktligt</strong> för olika principer och tekniker för säkert och ergonomiskt utfört arbete samt visar, <strong>i samråd </strong>med handledare, tekniker för säkert och ergonomiskt utfört arbete i olika situationer.",
+        "C" : "Eleven redogör <strong>utförligt </strong>för olika principer och tekniker för säkert och ergonomiskt utfört arbete samt visar, <strong>efter samråd </strong>med handledare, tekniker för säkert och ergonomiskt utfört arbete i olika situationer.",
+        "A" : "Eleven redogör <strong>utförligt och nyanserat </strong>för olika principer och tekniker för säkert och ergonomiskt utfört arbete samt visar, <strong>efter samråd </strong>med handledare, tekniker för säkert och ergonomiskt utfört arbete i olika situationer."
+      }
+    }, {
+      "text" : "Eleven identifierar <strong>________</strong> risker för skador i arbetet samt diskuterar <strong>________</strong>utifrån några exempel konsekvenser då rätt respektive felaktig teknik används.",
+      "no" : 1,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven identifierar <strong>med viss säkerhet</strong> risker för skador i arbetet samt diskuterar <strong>översiktligt </strong>utifrån några exempel konsekvenser då rätt respektive felaktig teknik används.",
+        "C" : "Eleven identifierar <strong>med viss säkerhet</strong> risker för skador i arbetet samt diskuterar <strong>utförligt </strong>utifrån några exempel konsekvenser då rätt respektive felaktig teknik används.",
+        "A" : "Eleven identifierar <strong>med säkerhet</strong> risker för skador i arbetet samt diskuterar <strong>utförligt och nyanserat </strong>utifrån några exempel konsekvenser då rätt respektive felaktig teknik används."
+      }
+    }, {
+      "text" : "Eleven använder och underhåller <strong>________</strong> ergonomiska verktyg och annan teknisk utrustning.",
+      "no" : 0,
+      "paragraphNo" : 3,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven använder och underhåller <strong>med viss säkerhet</strong> ergonomiska verktyg och annan teknisk utrustning.",
+        "C" : "Eleven använder och underhåller <strong>med viss säkerhet</strong> ergonomiska verktyg och annan teknisk utrustning.",
+        "A" : "Eleven använder och underhåller <strong>med säkerhet</strong> ergonomiska verktyg och annan teknisk utrustning."
+      }
+    }, {
+      "text" : "Eleven planerar <strong>________</strong> med handledare uppgifter och genomför dem <strong>________</strong>samt bedömer och motiverar, <strong>________</strong>, val av tekniker och utrustning utifrån situationens krav.",
+      "no" : 0,
+      "paragraphNo" : 4,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven planerar <strong>i samråd</strong> med handledare uppgifter och genomför dem <strong>med viss säkerhet </strong>samt bedömer och motiverar, <strong>med viss säkerhet</strong>, val av tekniker och utrustning utifrån situationens krav.",
+        "C" : "Eleven planerar <strong>efter samråd </strong>med handledare uppgifter och genomför dem <strong>med viss säkerhet </strong>samt bedömer och motiverar, <strong>med viss säkerhet</strong>, val av tekniker och utrustning utifrån situationens krav.",
+        "A" : "Eleven planerar <strong>efter samråd </strong>med handledare uppgifter och genomför dem <strong>med säkerhet </strong>samt bedömer och motiverar, <strong>med säkerhet</strong>, val av tekniker och utrustning utifrån situationens krav."
+      }
+    }, {
+      "text" : "Eleven utvärderar arbetet med<strong>________</strong>omdömen och diskuterar <strong>________</strong>möjliga alternativa lösningar.",
+      "no" : 1,
+      "paragraphNo" : 4,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven utvärderar arbetet med<strong> enkla </strong>omdömen och diskuterar <strong>översiktligt </strong>möjliga alternativa lösningar.",
+        "C" : "Eleven utvärderar arbetet med<strong> nyanserade </strong>omdömen och diskuterar <strong>utförligt </strong>möjliga alternativa lösningar.",
+        "A" : "Eleven utvärderar arbetet med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong> och diskuterar <strong>utförligt och nyanserat </strong>möjliga alternativa lösningar."
+      }
+    }, {
+      "text" : "Dessutom gör eleven en <strong>________</strong>dokumentation av sitt arbete.",
+      "no" : 2,
+      "paragraphNo" : 4,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom gör eleven en <strong>enkel </strong>dokumentation av sitt arbete.",
+        "C" : "Dessutom gör eleven en <strong>noggrann </strong>dokumentation av sitt arbete.",
+        "A" : "Dessutom gör eleven en <strong>noggrann och utförlig </strong>dokumentation av sitt arbete."
+      }
+    }, {
+      "text" : "Eleven kommunicerar <strong>________</strong> i samarbete och möten med människor.",
+      "no" : 0,
+      "paragraphNo" : 5,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kommunicerar <strong>med viss säkerhet</strong> i samarbete och möten med människor.",
+        "C" : "Eleven kommunicerar <strong>med viss säkerhet</strong> i samarbete och möten med människor.",
+        "A" : "Eleven kommunicerar <strong>med säkerhet</strong> i samarbete och möten med människor."
+      }
+    }, {
+      "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong>den egna förmågan och situationens krav.",
+      "no" : 0,
+      "paragraphNo" : 6,
+      "knowledgeRequirementChoice" : {
+        "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.",
+        "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.",
+        "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav."
+      }
+    } ]
+  }, {
+    "name" : "Hälsopedagogik",
+    "description" : "Kursen hälsopedagogik omfattar punkterna 1–2 och 4–9 under rubriken Ämnets syfte.",
+    "code" : "HALHAL0",
+    "point" : 100,
+    "centralContent" : [ {
+      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "type" : "HEADING"
+    }, {
+      "content" : "Människors hälsa, hälsorelaterade levnadsvanor och olika hälsoeffekter ur ett miljöperspektiv, historiskt perspektiv och internationellt perspektiv samt ur sociala och kulturella aspekter.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Olika former av folkhälsoarbete och hälsofrämjande arbetssätt på individ-, grupp- och samhällsnivå.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Innebörden av ett salutogent förhållningssätt.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Arbetets, arbetsmiljöns och fritidens påverkan på människors hälsa.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Innebörden av inflytande, delaktighet och jämställdhet för människors hälsa.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Frisk- och riskfaktorers påverkan på människors hälsa, till exempel motion, rekreation och kost, samt droger och stress.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Kriser och krishantering.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Lagar, mål, andra bestämmelser och överenskommelser för folkhälsoarbete på internationell, nationell och lokal nivå.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Metoder för att analysera människors hälsotillstånd.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Kritisk bearbetning av information från olika källor.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Interaktion och kommunikation i samarbete och möten med människor.",
+      "type" : "BULLET"
+    } ],
+    "knowledgeRequirement" : [ {
+      "text" : "Eleven beskriver <strong>________</strong> människors hälsa, hälsorelaterade levnadsvanor och livsvillkor ur olika perspektiv och aspekter. Eleven ger också exempel på faktorer som påverkar människors hälsa.",
+      "no" : 0,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven beskriver <strong>översiktligt</strong> människors hälsa, hälsorelaterade levnadsvanor och livsvillkor ur olika perspektiv och aspekter. Eleven ger också exempel på faktorer som påverkar människors hälsa.",
+        "C" : "Eleven beskriver <strong>utförligt</strong> människors hälsa, hälsorelaterade levnadsvanor och livsvillkor ur olika perspektiv och aspekter. Eleven ger också exempel på faktorer som påverkar människors hälsa.",
+        "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> människors hälsa, hälsorelaterade levnadsvanor och livsvillkor ur olika perspektiv och aspekter. Eleven ger också exempel på faktorer som påverkar människors hälsa."
+      }
+    }, {
+      "text" : "Dessutom beskriver eleven <strong>________</strong>folkhälsoarbete och hälsofrämjande arbetssätt på individ-, grupp- och samhällsnivå.",
+      "no" : 1,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom beskriver eleven <strong>översiktligt </strong>folkhälsoarbete och hälsofrämjande arbetssätt på individ-, grupp- och samhällsnivå.",
+        "C" : "Dessutom beskriver eleven <strong>utförligt </strong>folkhälsoarbete och hälsofrämjande arbetssätt på individ-, grupp- och samhällsnivå.",
+        "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>folkhälsoarbete och hälsofrämjande arbetssätt på individ-, grupp- och samhällsnivå."
+      }
+    }, {
+      "text" : "I beskrivningarna använder eleven <strong>________</strong>centrala begrepp och teorier samt förklarar <strong>________</strong> samband och drar <strong>________</strong> slutsatser.",
+      "no" : 2,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "I beskrivningarna använder eleven <strong>med viss säkerhet </strong>centrala begrepp och teorier samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.",
+        "C" : "I beskrivningarna använder eleven <strong>med viss säkerhet </strong>centrala begrepp och teorier samt förklarar <strong>enkla</strong> samband och drar <strong>välgrundade</strong> slutsatser.",
+        "A" : "I beskrivningarna använder eleven <strong>med säkerhet </strong>centrala begrepp och teorier samt förklarar <strong>komplexa</strong> samband och drar <strong>välgrundade och nyanserade</strong> slutsatser."
+      }
+    }, {
+      "text" : "Eleven redogör <strong>________</strong>för olika lagar och andra bestämmelser som styr verksamheter och tar <strong>________</strong> <strong>________</strong>utgångspunkt i dessa i sitt arbete.",
+      "no" : 0,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven redogör <strong>översiktligt </strong>för olika lagar och andra bestämmelser som styr verksamheter och tar <strong>med</strong> <strong>viss säkerhet </strong>utgångspunkt i dessa i sitt arbete.",
+        "C" : "Eleven redogör <strong>utförligt </strong>för olika lagar och andra bestämmelser som styr verksamheter och tar <strong>med</strong> <strong>viss säkerhet </strong>utgångspunkt i dessa i sitt arbete.",
+        "A" : "Eleven redogör <strong>utförligt och nyanserat </strong>för olika lagar och andra bestämmelser som styr verksamheter och tar <strong>med</strong> <strong>säkerhet </strong>utgångspunkt i dessa i sitt arbete."
+      }
+    }, {
+      "text" : "Eleven planerar, såväl självständigt som i samarbete med andra, uppgifter och aktiviteter utifrån syfte och mål.",
+      "no" : 0,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven planerar, såväl självständigt som i samarbete med andra, uppgifter och aktiviteter utifrån syfte och mål.",
+        "C" : "Eleven planerar, såväl självständigt som i samarbete med andra, uppgifter och aktiviteter utifrån syfte och mål.",
+        "A" : "Eleven planerar, såväl självständigt som i samarbete med andra, uppgifter och aktiviteter utifrån syfte och mål. <strong>I planeringen identifierar eleven kritiska moment och förebygger hinder som kan uppstå under genomförandet</strong>."
+      }
+    }, {
+      "text" : "Utifrån planeringen genomför eleven uppgifterna och aktiviteterna <strong>________</strong>.",
+      "no" : 1,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Utifrån planeringen genomför eleven uppgifterna och aktiviteterna <strong>med viss säkerhet</strong>.",
+        "C" : "Utifrån planeringen genomför eleven uppgifterna och aktiviteterna <strong>med viss säkerhet</strong>. <strong>Eleven diskuterar utförligt sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande</strong>.",
+        "A" : "Utifrån planeringen genomför eleven uppgifterna och aktiviteterna <strong>med viss säkerhet samt anpassar vid behov genomförandet till ändrade förutsättningar</strong>. <strong>Eleven diskuterar utförligt och nyanserat sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande</strong>."
+      }
+    }, {
+      "text" : "I arbetet söker och bearbetar eleven <strong>________</strong>information från olika källor samt värderar dem med <strong>________</strong>omdömen.",
+      "no" : 2,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "I arbetet söker och bearbetar eleven <strong>med viss säkerhet </strong>information från olika källor samt värderar dem med <strong>enkla </strong>omdömen.",
+        "C" : "I arbetet söker och bearbetar eleven <strong>med viss säkerhet </strong>information från olika källor samt värderar dem med <strong>nyanserade </strong>omdömen.",
+        "A" : "I arbetet söker och bearbetar eleven <strong>med säkerhet </strong>information från olika källor samt värderar dem med <strong>nyanserade </strong>omdömen."
+      }
+    }, {
+      "text" : "Eleven utvärderar uppgifterna och aktiviteterna med<strong>________</strong>omdömen utifrån uppsatta mål.",
+      "no" : 0,
+      "paragraphNo" : 3,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven utvärderar uppgifterna och aktiviteterna med<strong> enkla </strong>omdömen utifrån uppsatta mål.",
+        "C" : "Eleven utvärderar uppgifterna och aktiviteterna med<strong> nyanserade </strong>omdömen utifrån uppsatta mål.",
+        "A" : "Eleven utvärderar uppgifterna och aktiviteterna med<strong><strong> nyanserade</strong> </strong>omdömen utifrån uppsatta mål."
+      }
+    }, {
+      "text" : "I utvärderingen diskuterar eleven <strong>________</strong>möjliga alternativa lösningar och föreslår vid behov förbättringar.",
+      "no" : 1,
+      "paragraphNo" : 3,
+      "knowledgeRequirementChoice" : {
+        "E" : "I utvärderingen diskuterar eleven <strong>översiktligt </strong>möjliga alternativa lösningar och föreslår vid behov förbättringar.",
+        "C" : "I utvärderingen diskuterar eleven <strong>utförligt </strong>möjliga alternativa lösningar och föreslår vid behov förbättringar.",
+        "A" : "I utvärderingen diskuterar eleven <strong>utförligt och nyanserat </strong>möjliga alternativa lösningar och föreslår vid behov förbättringar."
+      }
+    }, {
+      "text" : "Dessutom gör eleven en <strong>________</strong>dokumentation av utförda uppgifter och aktiviteter.",
+      "no" : 2,
+      "paragraphNo" : 3,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom gör eleven en <strong>enkel </strong>dokumentation av utförda uppgifter och aktiviteter.",
+        "C" : "Dessutom gör eleven en <strong>noggrann </strong>dokumentation av utförda uppgifter och aktiviteter.",
+        "A" : "Dessutom gör eleven en <strong>noggrann och utförlig </strong>dokumentation av utförda uppgifter och aktiviteter."
+      }
+    }, {
+      "text" : "I dokumentationen använder eleven <strong>________</strong>relevanta begrepp.",
+      "no" : 3,
+      "paragraphNo" : 3,
+      "knowledgeRequirementChoice" : {
+        "E" : "I dokumentationen använder eleven <strong>med viss säkerhet </strong>relevanta begrepp.",
+        "C" : "I dokumentationen använder eleven <strong>med viss säkerhet </strong>relevanta begrepp.",
+        "A" : "I dokumentationen använder eleven <strong>med säkerhet </strong>relevanta begrepp."
+      }
+    }, {
+      "text" : "Eleven diskuterar <strong>________</strong>egna och andras attityder, värderingar och handlingar.",
+      "no" : 0,
+      "paragraphNo" : 4,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven diskuterar <strong>översiktligt </strong>egna och andras attityder, värderingar och handlingar.",
+        "C" : "Eleven diskuterar <strong>utförligt </strong>egna och andras attityder, värderingar och handlingar.",
+        "A" : "Eleven diskuterar <strong>utförligt och nyanserat </strong>egna och andras attityder, värderingar och handlingar."
+      }
+    }, {
+      "text" : "I diskussionen framför eleven <strong>________</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+      "no" : 1,
+      "paragraphNo" : 4,
+      "knowledgeRequirementChoice" : {
+        "E" : "I diskussionen framför eleven <strong>enkla</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+        "C" : "I diskussionen framför eleven <strong>välgrundade</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+        "A" : "I diskussionen framför eleven <strong>välgrundade och nyanserade</strong> argument för sina åsikter samt visar respekt för andras åsikter."
+      }
+    }, {
+      "text" : "Eleven interagerar, samt kommunicerar <strong>________</strong>, i samarbete och möten med människor.",
+      "no" : 2,
+      "paragraphNo" : 4,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven interagerar, samt kommunicerar <strong>med viss säkerhet</strong>, i samarbete och möten med människor.",
+        "C" : "Eleven interagerar, samt kommunicerar <strong>med viss säkerhet</strong>, i samarbete och möten med människor.",
+        "A" : "Eleven interagerar, samt kommunicerar <strong>med säkerhet</strong>, i samarbete och möten med människor."
+      }
+    } ]
+  }, {
+    "name" : "Kost och hälsa",
+    "description" : "Kursen kost och hälsa omfattar punkterna 1–2, 4–5, 8 och 9 under rubriken Ämnets syfte.",
+    "code" : "HALKOC0",
+    "point" : 100,
+    "centralContent" : [ {
+      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "type" : "HEADING"
+    }, {
+      "content" : "Kostens och måltidens betydelse för hälsa och välbefinnande.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Näringslära, livsmedelskvalitet och tillagning.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Betydelsen av fysisk aktivitet och vila för människors hälsa.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Hygien, smitta och smittspridning.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Olika allergier, deras konsekvenser och hur de kan hanteras.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Människors behov av specialkoster utifrån medicinska, kulturella och etiska skäl och hantering av detta.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Kritisk användning av information från olika källor.",
+      "type" : "BULLET"
+    } ],
+    "knowledgeRequirement" : [ {
+      "text" : "Eleven redogör <strong>________</strong> för hur kosten kan påverka människors hälsa och välbefinnande.",
+      "no" : 0,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven redogör <strong>översiktligt</strong> för hur kosten kan påverka människors hälsa och välbefinnande.",
+        "C" : "Eleven redogör <strong>utförligt</strong> för hur kosten kan påverka människors hälsa och välbefinnande.",
+        "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för hur kosten kan påverka människors hälsa och välbefinnande."
+      }
+    }, {
+      "text" : "Eleven ger exempel på <strong>________</strong> kost- och näringsrekommendationer och redogör <strong>________</strong> för dessa.",
+      "no" : 1,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven ger exempel på <strong>några</strong> kost- och näringsrekommendationer och redogör <strong>översiktligt</strong> för dessa.",
+        "C" : "Eleven ger exempel på <strong>flera</strong> kost- och näringsrekommendationer och redogör <strong>utförligt</strong> för dessa.",
+        "A" : "Eleven ger exempel på <strong>flera</strong> kost- och näringsrekommendationer och redogör <strong>utförligt och nyanserat</strong> för dessa."
+      }
+    }, {
+      "text" : "Dessutom beskriver eleven <strong>________</strong>utifrån egna exempel hur vardagslivet bör förändras för att påverka individens hälsa på ett positivt sätt.",
+      "no" : 2,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom beskriver eleven <strong>översiktligt </strong>utifrån egna exempel hur vardagslivet bör förändras för att påverka individens hälsa på ett positivt sätt.",
+        "C" : "Dessutom beskriver eleven <strong>utförligt </strong>utifrån egna exempel hur vardagslivet bör förändras för att påverka individens hälsa på ett positivt sätt.",
+        "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>utifrån egna exempel hur vardagslivet bör förändras för att påverka individens hälsa på ett positivt sätt."
+      }
+    }, {
+      "text" : "I redogörelsen och beskrivningen använder eleven <strong>________</strong>centrala begrepp och teorier samt förklarar <strong>________</strong> samband och drar <strong>________</strong> slutsatser.",
+      "no" : 3,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "I redogörelsen och beskrivningen använder eleven <strong>med viss säkerhet </strong>centrala begrepp och teorier samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.",
+        "C" : "I redogörelsen och beskrivningen använder eleven <strong>med viss säkerhet </strong>centrala begrepp och teorier samt förklarar <strong>enkla</strong> samband och drar <strong>välgrundade</strong> slutsatser.",
+        "A" : "I redogörelsen och beskrivningen använder eleven <strong>med säkerhet </strong>centrala begrepp och teorier samt förklarar <strong>komplexa</strong> samband och drar <strong>välgrundade och nyanserade</strong> slutsatser."
+      }
+    }, {
+      "text" : "Eleven söker och bearbetar <strong>________</strong>information från olika källor samt värderar den med <strong>________</strong>omdömen.",
+      "no" : 0,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven söker och bearbetar <strong>med viss säkerhet </strong>information från olika källor samt värderar den med <strong>enkla </strong>omdömen.",
+        "C" : "Eleven söker och bearbetar <strong>med viss säkerhet </strong>information från olika källor samt värderar den med <strong>enkla </strong>omdömen.",
+        "A" : "Eleven söker och bearbetar <strong>med säkerhet </strong>information från olika källor samt värderar den med <strong>nyanserade </strong>omdömen."
+      }
+    }, {
+      "text" : "Eleven diskuterar <strong>________</strong>egna och andras attityder, värderingar och handlingar.",
+      "no" : 0,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven diskuterar <strong>översiktligt </strong>egna och andras attityder, värderingar och handlingar.",
+        "C" : "Eleven diskuterar <strong>utförligt </strong>egna och andras attityder, värderingar och handlingar.",
+        "A" : "Eleven diskuterar <strong>utförligt och nyanserat </strong>egna och andras attityder, värderingar och handlingar."
+      }
+    }, {
+      "text" : "I diskussionen framför eleven <strong>________</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+      "no" : 1,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "I diskussionen framför eleven <strong>enkla</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+        "C" : "I diskussionen framför eleven <strong>välgrundade</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+        "A" : "I diskussionen framför eleven <strong>välgrundade och nyanserade</strong> argument för sina åsikter samt visar respekt för andras åsikter."
+      }
+    } ]
+  }, {
+    "name" : "Mental träning",
+    "description" : "Kursen mental träning omfattar punkterna 1–2, 4, 7 och 9 under rubriken Ämnets syfte.",
+    "code" : "HALMEN0",
+    "point" : 100,
+    "centralContent" : [ {
+      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "type" : "HEADING"
+    }, {
+      "content" : "Psykologiska faktorer i relation till prestation.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Olika stressorer i vardagen.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Teoretiska modeller för stresshantering.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Aktuell forskning inom området.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Motivation och målfokusering.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Mentala avslappnings- och träningsmetoder, till exempel mindfulness.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Pedagogiska modeller för instruktion och handledning.",
+      "type" : "BULLET"
+    } ],
+    "knowledgeRequirement" : [ {
+      "text" : "Eleven beskriver <strong>________</strong> olika faktorer i människors vardag som påverkar prestationsförmågan.",
+      "no" : 0,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven beskriver <strong>översiktligt</strong> olika faktorer i människors vardag som påverkar prestationsförmågan.",
+        "C" : "Eleven beskriver <strong>utförligt</strong> olika faktorer i människors vardag som påverkar prestationsförmågan.",
+        "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> olika faktorer i människors vardag som påverkar prestationsförmågan."
+      }
+    }, {
+      "text" : "I beskrivningen diskuterar eleven <strong>________</strong> olika fysiologiska och psykologiska effekter samt hur de påverkar människors prestationer och förmåga att hantera stress.",
+      "no" : 1,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "I beskrivningen diskuterar eleven <strong>översiktligt</strong> olika fysiologiska och psykologiska effekter samt hur de påverkar människors prestationer och förmåga att hantera stress.",
+        "C" : "I beskrivningen diskuterar eleven <strong>utförligt</strong> olika fysiologiska och psykologiska effekter samt hur de påverkar människors prestationer och förmåga att hantera stress.",
+        "A" : "I beskrivningen diskuterar eleven <strong>utförligt och nyanserat</strong> olika fysiologiska och psykologiska effekter samt hur de påverkar människors prestationer och förmåga att hantera stress."
+      }
+    }, {
+      "text" : "Eleven redogör även <strong>________</strong>för olika mentala tränings- och avslappningsmetoder samt beskriver <strong>________</strong> egna och andras stressorer.",
+      "no" : 2,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven redogör även <strong>översiktligt </strong>för olika mentala tränings- och avslappningsmetoder samt beskriver <strong>översiktligt</strong> egna och andras stressorer.",
+        "C" : "Eleven redogör även <strong>utförligt </strong>för olika mentala tränings- och avslappningsmetoder samt beskriver <strong>utförligt</strong> egna och andras stressorer.",
+        "A" : "Eleven redogör även <strong>utförligt och nyanserat </strong>för olika mentala tränings- och avslappningsmetoder samt beskriver också <strong>utförligt och nyanserat</strong> egna och andras stressorer."
+      }
+    }, {
+      "text" : "I beskrivningarna och redogörelsen använder eleven <strong>________</strong>centrala begrepp och teorier.",
+      "no" : 0,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "I beskrivningarna och redogörelsen använder eleven <strong>med viss säkerhet </strong>centrala begrepp och teorier.",
+        "C" : "I beskrivningarna och redogörelsen använder eleven <strong>med viss säkerhet </strong>centrala begrepp och teorier.",
+        "A" : "I beskrivningarna och redogörelsen använder eleven <strong>med säkerhet </strong>centrala begrepp och teorier."
+      }
+    }, {
+      "text" : "Eleven planerar och genomför <strong>________</strong> med handledare mentala tränings- och avslappningsmetoder för ökad motivation och målfokusering, med ett <strong>________</strong>resultat.",
+      "no" : 0,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven planerar och genomför <strong>i samråd</strong> med handledare mentala tränings- och avslappningsmetoder för ökad motivation och målfokusering, med ett <strong>tillfredsställande </strong>resultat.",
+        "C" : "Eleven planerar och genomför <strong>efter samråd </strong>med handledare mentala tränings- och avslappningsmetoder för ökad motivation och målfokusering, med ett <strong>tillfredsställande </strong>resultat.",
+        "A" : "Eleven planerar och genomför <strong>efter samråd </strong>med handledare mentala tränings- och avslappningsmetoder för ökad motivation och målfokusering, med ett <strong>gott </strong>resultat,<strong> och anpassar vid behov sitt arbete till ändrade förutsättningar</strong>."
+      }
+    }, {
+      "text" : "Eleven motiverar<strong>________</strong> sitt handlingssätt utifrån olika psykologiska teorier.",
+      "no" : 1,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven motiverar<strong> översiktligt</strong> sitt handlingssätt utifrån olika psykologiska teorier.",
+        "C" : "Eleven motiverar<strong> utförligt</strong> sitt handlingssätt utifrån olika psykologiska teorier.",
+        "A" : "Eleven motiverar<strong> utförligt och nyanserat</strong> sitt handlingssätt utifrån olika psykologiska teorier."
+      }
+    }, {
+      "text" : "Eleven gör även en <strong>________</strong>dokumentation av sitt arbete samt utvärderar det och sitt resultat med <strong>________</strong>omdömen.",
+      "no" : 2,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven gör även en <strong>enkel </strong>dokumentation av sitt arbete samt utvärderar det och sitt resultat med <strong>enkla </strong>omdömen.",
+        "C" : "Eleven gör även en <strong>noggrann </strong>dokumentation av sitt arbete samt utvärderar det och sitt resultat med <strong>nyanserade </strong>omdömen.",
+        "A" : "Eleven gör även en <strong>noggrann och utförlig </strong>dokumentation av sitt arbete samt utvärderar det och sitt resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+      }
+    }, {
+      "text" : "Dessutom samarbetar och kommunicerar eleven <strong>________</strong>med andra, i<strong>________</strong> situationer, på ett pedagogiskt sätt.",
+      "no" : 0,
+      "paragraphNo" : 3,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom samarbetar och kommunicerar eleven <strong>med viss säkerhet </strong>med andra, i<strong> bekanta</strong> situationer, på ett pedagogiskt sätt.",
+        "C" : "Dessutom samarbetar och kommunicerar eleven <strong>med viss säkerhet </strong>med andra, i<strong> nya</strong> situationer, på ett pedagogiskt sätt.",
+        "A" : "Dessutom samarbetar och kommunicerar eleven <strong>med säkerhet </strong>med andra, i<strong> nya</strong> situationer, på ett pedagogiskt sätt."
+      }
+    }, {
+      "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong>den egna förmågan och situationens krav.",
+      "no" : 0,
+      "paragraphNo" : 4,
+      "knowledgeRequirementChoice" : {
+        "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.",
+        "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.",
+        "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav."
+      }
+    } ]
+  } ]
+}

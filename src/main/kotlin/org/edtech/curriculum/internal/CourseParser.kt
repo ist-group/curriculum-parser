@@ -4,7 +4,7 @@ import org.edtech.curriculum.*
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Element
 
-class CourseParser(private val courseElement: Element) {
+internal class CourseParser(private val courseElement: Element) {
 
     /**
      * Return a Course entity from the supplied root element containing the course data

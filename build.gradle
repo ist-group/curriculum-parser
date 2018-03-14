@@ -17,7 +17,7 @@ apply plugin: 'org.jetbrains.dokka'
 apply plugin: 'maven-publish'
 
 group = "org.edtech"
-version = "0.0.2"
+version = "0.0.3"
 sourceCompatibility = 1.8
 
 compileKotlin {
