@@ -1,0 +1,506 @@
+{
+  "name" : "Tekniska system – el",
+  "description" : "Ämnet tekniska system – el behandlar den arbetsprocess där man projekterar och dokumenterar tekniska system och anläggningar inom teknikområdet elinstallation. I projektering ingår utrednings- och förberedelsearbete som föregår det operativa genomförandet av en insats. Ämnet tekniska system – el får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.",
+  "code" : "TEY",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "content" : "Undervisning i ämnet tekniska system – el ska syfta till att eleverna utvecklar förståelse av processen när anläggningar planeras, konstrueras och dokumenteras. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur installationer utförs och projekteras samt förståelse av den tekniska utvecklingen inom teknikområdet elinstallation och samspelet mellan teknik och människa.",
+    "type" : "SECTION"
+  }, {
+    "content" : "Undervisningen ska även belysa hur projektering genomförs med hänsyn till miljö, tillgänglighet och säkerhet. Dessutom ska den bidra till att eleverna utvecklar kunskaper om hur anläggningar utformas i enlighet med funktionskrav från beställaren. Därutöver ska eleverna ges möjlighet att utveckla kunskaper om bestämmelser, standarder och normer inom teknikområdet.",
+    "type" : "SECTION"
+  }, {
+    "content" : "Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att dokumentera installationer och anläggningar i olika miljöer samt att kommunicera kring förslag och lösningar i projekteringsarbeten.",
+    "type" : "SECTION"
+  }, {
+    "content" : "Undervisningen ska ge eleverna möjlighet att arbeta med datorstödda tillämpningar och kommunicerande system. Dessutom ska eleverna ges möjlighet att arbeta i projekt med koppling till planerade och pågående arbeten inom teknikområdet. Undervisningen ska även utveckla elevernas förståelse för betydelsen av samordning med närliggande yrkesgrupper.",
+    "type" : "SECTION"
+  }, {
+    "content" : "Undervisningen i ämnet tekniska system – el ska ge eleverna förutsättningar att utveckla följande:",
+    "type" : "HEADING"
+  }, {
+    "content" : "Förmåga att planera, projektera, konstruera och dokumentera anläggningar och tekniska system inom teknikområdet elinstallation.",
+    "type" : "BULLET"
+  }, {
+    "content" : "Kunskaper om hur anläggningar och tekniska system är uppbyggda med hänsyn till säkerhet, tillgänglighet och miljö.",
+    "type" : "BULLET"
+  }, {
+    "content" : "Kunskaper om författningar, föreskrifter, anvisningar och standarder inom teknikområdet elinstallation.",
+    "type" : "BULLET"
+  }, {
+    "content" : "Kunskaper om systemkomponenter och dimensionering av centrala storheter inom teknikområdet.",
+    "type" : "BULLET"
+  }, {
+    "content" : "Kunskaper om tekniska system som kommunicerar via dator- och medianät, eller genom telefoni och trådlös teknik.",
+    "type" : "BULLET"
+  }, {
+    "content" : "Kunskaper om installation, driftsättning och underhåll av anläggningar inom teknikområdet.",
+    "type" : "BULLET"
+  }, {
+    "content" : "Färdigheter i att framställa, tolka och använda ritningar och scheman.",
+    "type" : "BULLET"
+  }, {
+    "content" : "Färdigheter i att hantera datorbaserade tillämpningar inom området.",
+    "type" : "BULLET"
+  }, {
+    "content" : "Förmåga att kommunicera kring egna och andras förslag och lösningar i samband med projekteringsarbetet.",
+    "type" : "BULLET"
+  }, {
+    "content" : "Förståelse för betydelsen av samordning med närliggande yrkesgrupper.",
+    "type" : "BULLET"
+  } ],
+  "courses" : [ {
+    "name" : "Komponenter och system el",
+    "description" : "Kursen komponenter och system el omfattar punkterna 4–8 under rubriken Ämnets syfte.",
+    "code" : "TEYKOM0",
+    "centralContent" : [ {
+      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "type" : "HEADING"
+    }, {
+      "content" : "Teleinstallationer för till exempel drift och övervakning, passagekontroll och datanät.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Kommuniserande system, till exempel dator- och medienät, telefoni och trådlös kommunikation.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Komponent och materialkunskap, även kopplat till olika installationsmiljöer.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Montering av elmateriel inklusive förläggning och anslutning av ledningar.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Kopplingsutrustningar, apparatskåp och enklare styrutrustning.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Egenkontroller och idrifttagning.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Arbete med värmekamera.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Elscheman av olika typer med komponenters funktion och symbol.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Ritningskonstruktion.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Belysningsanläggningar, värmekabelsystem, smarta hem och solcellsanläggningar.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Elmotorer med enklare tillhörande startutrustningar.",
+      "type" : "BULLET"
+    } ],
+    "knowledgeRequirement" : [ {
+      "text" : "Eleven redogör <strong>________</strong> för olika komponentkategorier inom elbranschens olika verksamhetsområden.",
+      "no" : 0,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven redogör <strong>översiktligt </strong>för olika komponentkategorier inom elbranschens olika verksamhetsområden.",
+        "C" : "Eleven redogör <strong>utförligt</strong> för olika komponentkategorier inom elbranschens olika verksamhetsområden.",
+        "A" : "Eleven redogör <strong>utförligt och nyanserat </strong>för olika komponentkategorier inom elbranschens olika verksamhetsområden."
+      }
+    }, {
+      "text" : "Dessutom redogör eleven <strong>________</strong> för dessa komponenters funktion i de system där de ingår.",
+      "no" : 1,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom redogör eleven <strong>översiktligt </strong>för dessa komponenters funktion i de system där de ingår.",
+        "C" : "Dessutom redogör eleven <strong>utförligt</strong> för dessa komponenters funktion i de system där de ingår.",
+        "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för dessa komponenters funktion i de system där de ingår."
+      }
+    }, {
+      "text" : "Eleven väljer <strong>________</strong> med handledare komponenter till några system från olika kategorier och dimensionerar <strong>________</strong> <strong>________</strong> tillämpliga storheter.",
+      "no" : 2,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven väljer <strong>i samråd</strong> med handledare komponenter till några system från olika kategorier och dimensionerar <strong>med</strong> <strong>viss säkerhet </strong>tillämpliga storheter.",
+        "C" : "Eleven väljer <strong>efter samråd</strong> med handledare komponenter till några system från olika kategorier och dimensionerar <strong>med</strong> <strong>viss säkerhet</strong> tillämpliga storheter.",
+        "A" : "Eleven väljer <strong>efter samråd</strong> med handledare komponenter till några system från olika kategorier och dimensionerar <strong>med säkerhet </strong>tillämpliga storheter."
+      }
+    }, {
+      "text" : "Eleven redogör <strong>________</strong> för hur system för dator- och medianät, telefoni och trådlös kommunikation är uppbyggda och fungerar.",
+      "no" : 0,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven redogör <strong>översiktligt</strong> för hur system för dator- och medianät, telefoni och trådlös kommunikation är uppbyggda och fungerar.",
+        "C" : "Eleven redogör <strong>utförligt</strong> för hur system för dator- och medianät, telefoni och trådlös kommunikation är uppbyggda och fungerar.",
+        "A" : "Eleven redogör <strong>utförligt och nyanserat </strong>för hur system för dator- och medianät, telefoni och trådlös kommunikation är uppbyggda och fungerar."
+      }
+    }, {
+      "text" : "Dessutom redogör eleven <strong>________</strong> för hur några system installeras, driftsätts och underhålls.",
+      "no" : 1,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom redogör eleven <strong>översiktligt </strong>för hur några system installeras, driftsätts och underhålls.",
+        "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hur några system installeras, driftsätts och underhålls.",
+        "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för hur några system installeras, driftsätts och underhålls."
+      }
+    }, {
+      "text" : "Eleven framställer med datorhjälp och <strong>________</strong> med handledare ritningar och scheman.",
+      "no" : 0,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven framställer med datorhjälp och <strong>i samråd </strong>med handledare ritningar och scheman.",
+        "C" : "Eleven framställer med datorhjälp och <strong>efter samråd</strong> med handledare ritningar och scheman.",
+        "A" : "Eleven framställer med datorhjälp ritningar och scheman."
+      }
+    }, {
+      "text" : "Inför arbetet väljer eleven <strong>________</strong> lämpliga verktyg.",
+      "no" : 1,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Inför arbetet väljer eleven <strong>med viss säkerhet</strong> lämpliga verktyg.",
+        "C" : "Inför arbetet väljer eleven lämpliga verktyg.",
+        "A" : "Inför arbetet väljer eleven <strong>med säkerhet</strong> lämpliga verktyg."
+      }
+    }, {
+      "text" : "Eleven tolkar och använder <strong>________</strong> med handledare ritningar och scheman i både tryckt och digital form.",
+      "no" : 0,
+      "paragraphNo" : 3,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven tolkar och använder <strong>i samråd </strong>med handledare ritningar och scheman i både tryckt och digital form.",
+        "C" : "Eleven tolkar och använder <strong>efter samråd</strong> med handledare ritningar och scheman i både tryckt och digital form.",
+        "A" : "Eleven tolkar och använder <strong>efter samråd</strong> med handledare ritningar och scheman i både tryckt och digital form."
+      }
+    }, {
+      "text" : "Inför arbetet väljer eleven <strong>________</strong> lämpliga verktyg och metoder.",
+      "no" : 1,
+      "paragraphNo" : 3,
+      "knowledgeRequirementChoice" : {
+        "E" : "Inför arbetet väljer eleven <strong>med viss säkerhet</strong> lämpliga verktyg och metoder.",
+        "C" : "Inför arbetet väljer eleven <strong>med</strong> <strong>viss säkerhet </strong>lämpliga verktyg och metoder.",
+        "A" : "Inför arbetet väljer eleven <strong>med säkerhet</strong> lämpliga verktyg och metoder."
+      }
+    }, {
+      "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+      "no" : 0,
+      "paragraphNo" : 4,
+      "knowledgeRequirementChoice" : {
+        "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+        "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med</strong> <strong>viss säkerhet </strong>den egna förmågan och situationens krav.",
+        "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      }
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Projektering el 1",
+    "description" : "Kursen projektering el 1 omfattar punkterna 1, 5 och 7–10 under rubriken Ämnets syfte, med särskild betoning på punkt 8.",
+    "code" : "TEYPRO01",
+    "centralContent" : [ {
+      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "type" : "HEADING"
+    }, {
+      "content" : "Beskrivningsteknik, till exempel för att formulera beställarens krav på den färdiga produkten och dess delar samt gränsdragning mellan yrkeskategorier.",
+      "type" : "BULLET"
+    }, {
+      "content" : "AMA, dess struktur, användningsform och funktion i en teknisk beskrivning.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Elområdets regelverk och standarder och deras tillämpning i arbetet med planering, projektering, konstruktion och dokumentation.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Miljöns betydelse vid installationer med avseende på till exempel energieffektivitet, estetik, säkerhet och tillgänglighet. Arbetsmiljö.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Teknisk kommunikation, till exempel offerter och avtal.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Teknisk dokumentation, till exempel relationshandlingar och dokumentation kring besiktningar.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Energiprestanda med utgångspunkt i energieffektivitet.",
+      "type" : "BULLET"
+    }, {
+      "content" : "BIM – dess konsekvenser för projekteringsarbetet.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Datorstödda tillämpningar för till exempel kalkylering och tidplanering.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Ritningsläsning och mängdning, såväl manuellt som med datorstöd.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Säkerhet, till exempel heta arbeten, ställningsbyggande och arbete från stege.",
+      "type" : "BULLET"
+    } ],
+    "knowledgeRequirement" : [ {
+      "text" : "Eleven planerar, projekterar, konstruerar och dokumenterar med datorstöd och <strong>________</strong> med handledare anläggningar och tekniska system inom elområdet.",
+      "no" : 0,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven planerar, projekterar, konstruerar och dokumenterar med datorstöd och <strong>i samråd </strong>med handledare anläggningar och tekniska system inom elområdet.",
+        "C" : "Eleven planerar, projekterar, konstruerar och dokumenterar med datorstöd och <strong>efter samråd </strong>med handledare anläggningar och tekniska system inom elområdet.",
+        "A" : "Eleven planerar, projekterar, konstruerar och dokumenterar med datorstöd och <strong>efter samråd </strong>med handledare anläggningar och tekniska system inom elområdet."
+      }
+    }, {
+      "text" : "I planeringen tolkar eleven <strong>________</strong> instruktioner, ritningar och underlag.",
+      "no" : 1,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner, ritningar och underlag.",
+        "C" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner, ritningar och underlag.",
+        "A" : "I planeringen tolkar eleven <strong>med säkerhet</strong> instruktioner, ritningar och underlag."
+      }
+    }, {
+      "text" : "Eleven redogör <strong>________</strong> för hur ledningssystem och skydd dimensioneras.",
+      "no" : 0,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven redogör <strong>översiktligt</strong> för hur ledningssystem och skydd dimensioneras.",
+        "C" : "Eleven redogör <strong>utförligt</strong> för hur ledningssystem och skydd dimensioneras.",
+        "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för hur ledningssystem och skydd dimensioneras."
+      }
+    }, {
+      "text" : "Eleven utför med <strong>________</strong> handlag konstruktions- och projekteringsarbeten, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+      "no" : 0,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven utför med <strong>visst </strong>handlag konstruktions- och projekteringsarbeten, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+        "C" : "Eleven utför med <strong>gott </strong>handlag konstruktions- och projekteringsarbeten, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+        "A" : "Eleven utför med <strong>mycket gott </strong>handlag konstruktions- och projekteringsarbeten, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer."
+      }
+    }, {
+      "text" : "Resultatet av arbetet är <strong>________</strong> utifrån givna kvalitetskrav.",
+      "no" : 1,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+        "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+        "A" : "Resultatet av arbetet är <strong>gott</strong> utifrån givna kvalitetskrav."
+      }
+    }, {
+      "text" : "I arbetet använder eleven <strong>________</strong> instruktioner och tillverkningsunderlag och håller god ordning på arbetsplatsen.",
+      "no" : 2,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "I arbetet använder eleven <strong>med viss säkerhet </strong>instruktioner och tillverkningsunderlag och håller god ordning på arbetsplatsen.",
+        "C" : "I arbetet använder eleven <strong>med viss säkerhet </strong>instruktioner och tillverkningsunderlag och håller god ordning på arbetsplatsen.",
+        "A" : "I arbetet använder eleven <strong>med säkerhet </strong>instruktioner och tillverkningsunderlag och håller god ordning på arbetsplatsen."
+      }
+    }, {
+      "text" : "Dessutom använder eleven <strong>________</strong> datorbaserade tillämpningar.",
+      "no" : 3,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom använder eleven <strong>med viss säkerhet </strong>datorbaserade tillämpningar.",
+        "C" : "Dessutom använder eleven <strong>med viss säkerhet </strong>datorbaserade tillämpningar.",
+        "A" : "Dessutom använder eleven <strong>med säkerhet </strong>datorbaserade tillämpningar."
+      }
+    }, {
+      "text" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>________</strong> med handledare.",
+      "no" : 4,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>i samråd </strong>med handledare.",
+        "C" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd </strong>med handledare.",
+        "A" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd </strong>med handledare."
+      }
+    }, {
+      "text" : "När arbetsuppgiften är utförd gör eleven en <strong>________</strong> dokumentation av arbetsprocessen och resultatet.",
+      "no" : 5,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "När arbetsuppgiften är utförd gör eleven en <strong>enkel </strong>dokumentation av arbetsprocessen och resultatet.",
+        "C" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann </strong>dokumentation av arbetsprocessen och resultatet.",
+        "A" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann och utförlig </strong>dokumentation av arbetsprocessen och resultatet."
+      }
+    }, {
+      "text" : "Eleven samarbetar i sitt arbete med andra samt för <strong>________</strong> resonemang om andras lösningar i samband med projekteringsarbetet.",
+      "no" : 0,
+      "paragraphNo" : 3,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven samarbetar i sitt arbete med andra samt för <strong>enkla</strong> resonemang om andras lösningar i samband med projekteringsarbetet.",
+        "C" : "Eleven samarbetar i sitt arbete med andra samt för <strong>välgrundade</strong> resonemang om andras lösningar i samband med projekteringsarbetet.",
+        "A" : "Eleven samarbetar i sitt arbete med andra samt för <strong>välgrundade och nyanserade</strong> resonemang om andras lösningar i samband med projekteringsarbetet."
+      }
+    }, {
+      "text" : "Eleven redogör <strong>________</strong> för arbetsprocessen, resultatet, eventuella avvikelser från specifikationen samt den egna arbetsinsatsen.",
+      "no" : 0,
+      "paragraphNo" : 4,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven redogör <strong>översiktligt </strong>för arbetsprocessen, resultatet, eventuella avvikelser från specifikationen samt den egna arbetsinsatsen.",
+        "C" : "Eleven redogör <strong>utförligt </strong>för arbetsprocessen, resultatet, eventuella avvikelser från specifikationen samt den egna arbetsinsatsen.",
+        "A" : "Eleven redogör <strong>utförligt och nyanserat </strong>för arbetsprocessen, resultatet, eventuella avvikelser från specifikationen samt den egna arbetsinsatsen."
+      }
+    }, {
+      "text" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+      "no" : 1,
+      "paragraphNo" : 4,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen.",
+        "C" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen.",
+        "A" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+      }
+    }, {
+      "text" : "Eleven redogör <strong>________</strong> för problematiken kring gränsdragningen mellan olika aktörers ansvarsområden.",
+      "no" : 0,
+      "paragraphNo" : 5,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven redogör <strong>översiktligt</strong> för problematiken kring gränsdragningen mellan olika aktörers ansvarsområden.",
+        "C" : "",
+        "A" : ""
+      }
+    }, {
+      "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+      "no" : 0,
+      "paragraphNo" : 6,
+      "knowledgeRequirementChoice" : {
+        "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+        "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+        "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      }
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Projektering el 2",
+    "description" : "Kursen projektering el 2 omfattar punkterna 1, 3, 4, 7 och 8 under rubriken Ämnets syfte.",
+    "code" : "TEYPRO02",
+    "centralContent" : [ {
+      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "type" : "HEADING"
+    }, {
+      "content" : "Projektledarrollen i samband med projektering.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Abonnentanläggningar för såväl utom- som inomhusbruk.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Tillfälliga elanläggningar.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Datorstödda tillämpningar anpassade för elområdet, till exempel belysning och ledningsdimensionering.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Framställning av arbetsorder för montör.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Framställning av ritningar och scheman.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Dimensionering av ledningssystem och skydd.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Regelverk och standarder för specifika miljöer, till exempel våtrum och industri och dess tillämpning i arbetet med planering, projektering, konstruktion och dokumentation.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Handböcker för utförande av installationer och dess koppling till regelverk och standarder.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Besiktningar.",
+      "type" : "BULLET"
+    } ],
+    "knowledgeRequirement" : [ {
+      "text" : "Eleven redogör <strong>________</strong> för projektledarens roll i såväl konsult- som installationsbranschen.",
+      "no" : 0,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven redogör <strong>översiktligt</strong> för projektledarens roll i såväl konsult- som installationsbranschen.",
+        "C" : "Eleven redogör <strong>utförligt</strong> för projektledarens roll i såväl konsult- som installationsbranschen.",
+        "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för projektledarens roll i såväl konsult- som installationsbranschen."
+      }
+    }, {
+      "text" : "Eleven planerar, projekterar, konstruerar och dokumenterar tekniska system med datorstöd och <strong>________</strong> med handledare.",
+      "no" : 0,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven planerar, projekterar, konstruerar och dokumenterar tekniska system med datorstöd och <strong>i samråd</strong> med handledare.",
+        "C" : "Eleven planerar, projekterar och konstruerar tekniska system med datorstöd och <strong>efter samråd </strong>med handledare.",
+        "A" : "Eleven planerar, projekterar och konstruerar tekniska system med datorstöd och <strong>efter samråd </strong>med handledare."
+      }
+    }, {
+      "text" : "I planeringen tolkar eleven <strong>________</strong> instruktioner, ritningar och underlag.",
+      "no" : 1,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner, ritningar och underlag.",
+        "C" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner, ritningar och underlag.",
+        "A" : "I planeringen tolkar eleven <strong>med säkerhet</strong> instruktioner, ritningar och underlag."
+      }
+    }, {
+      "text" : "Eleven redogör <strong>________</strong> för hur ledningssystem och skydd dimensioneras och anpassas.",
+      "no" : 0,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven redogör <strong>översiktligt</strong> för hur ledningssystem och skydd dimensioneras och anpassas.",
+        "C" : "Eleven redogör <strong>utförligt</strong> för hur ledningssystem och skydd dimensioneras och anpassas.",
+        "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för hur ledningssystem och skydd dimensioneras och anpassas."
+      }
+    }, {
+      "text" : "Eleven utför med <strong>________</strong> handlag konstruktions- och projekteringsarbeten, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+      "no" : 0,
+      "paragraphNo" : 3,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven utför med <strong>visst </strong>handlag konstruktions- och projekteringsarbeten, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+        "C" : "Eleven utför med <strong>gott </strong>handlag konstruktions- och projekteringsarbeten, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+        "A" : "Eleven utför med <strong>mycket gott </strong>handlag konstruktions- och projekteringsarbeten, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer."
+      }
+    }, {
+      "text" : "Resultatet av arbetet är <strong>________</strong> utifrån givna kvalitetskrav.",
+      "no" : 1,
+      "paragraphNo" : 3,
+      "knowledgeRequirementChoice" : {
+        "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+        "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+        "A" : "Resultatet av arbetet är <strong>gott</strong> utifrån givna kvalitetskrav."
+      }
+    }, {
+      "text" : "I arbetet använder eleven <strong>________</strong> instruktioner och tillverkningsunderlag och håller god ordning på arbetsplatsen.",
+      "no" : 2,
+      "paragraphNo" : 3,
+      "knowledgeRequirementChoice" : {
+        "E" : "I arbetet använder eleven <strong>med viss säkerhet </strong>instruktioner och tillverkningsunderlag och håller god ordning på arbetsplatsen.",
+        "C" : "I arbetet använder eleven <strong>med viss säkerhet </strong>instruktioner och tillverkningsunderlag och håller god ordning på arbetsplatsen.",
+        "A" : "I arbetet använder eleven <strong>med säkerhet </strong>instruktioner och tillverkningsunderlag och håller god ordning på arbetsplatsen."
+      }
+    }, {
+      "text" : "Dessutom använder eleven <strong>________</strong> datorbaserade tillämpningar.",
+      "no" : 3,
+      "paragraphNo" : 3,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom använder eleven <strong>med viss säkerhet </strong>datorbaserade tillämpningar.",
+        "C" : "Dessutom använder eleven <strong>med viss säkerhet </strong>datorbaserade tillämpningar.",
+        "A" : "Dessutom använder eleven <strong>med säkerhet </strong>datorbaserade tillämpningar."
+      }
+    }, {
+      "text" : "Eventuella problem som uppkommer under arbetet åtgärdar eleven <strong>________</strong> med handledare.",
+      "no" : 4,
+      "paragraphNo" : 3,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eventuella problem som uppkommer under arbetet åtgärdar eleven <strong>i samråd </strong>med handledare.",
+        "C" : "Eventuella problem som uppkommer under arbetet åtgärdar eleven <strong>efter samråd </strong>med handledare.",
+        "A" : "Eventuella problem som uppkommer under arbetet åtgärdar eleven <strong>efter samråd </strong>med handledare."
+      }
+    }, {
+      "text" : "Eleven redogör <strong>________</strong> för arbetsprocessen, resultatet och eventuella avvikelser från specifikationen.",
+      "no" : 0,
+      "paragraphNo" : 4,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven redogör <strong>översiktligt </strong>för arbetsprocessen, resultatet och eventuella avvikelser från specifikationen.",
+        "C" : "Eleven redogör <strong>utförligt </strong>för arbetsprocessen, resultatet och eventuella avvikelser från specifikationen.",
+        "A" : "Eleven redogör <strong>utförligt och nyanserat </strong>för arbetsprocessen, resultatet och eventuella avvikelser från specifikationen."
+      }
+    }, {
+      "text" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+      "no" : 1,
+      "paragraphNo" : 4,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen.",
+        "C" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen.",
+        "A" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+      }
+    }, {
+      "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+      "no" : 0,
+      "paragraphNo" : 5,
+      "knowledgeRequirementChoice" : {
+        "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+        "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+        "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      }
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

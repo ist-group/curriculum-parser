@@ -1,0 +1,157 @@
+{
+  "name" : "Kursplan för kommunal vuxenutbildning i svenska för invandrare",
+  "description" : "",
+  "code" : "SFI",
+  "skolfsId" : "2017:91",
+  "purposes" : [ {
+    "content" : "Kommunal vuxenutbildning i svenska för invandrare är en kvalificerad språkutbildning som syftar till att ge vuxna invandrare grundläggande kunskaper i svenska språket. En elev med ett annat modersmål än svenska ska inom utbildningen få lära sig och utveckla ett funktionellt andraspråk. Utbildningen ska ge språkliga redskap för kommunikation och aktivt deltagande i vardags-, samhälls- och arbetsliv samt fortsatta studier. Utbildningen syftar också till att ge vuxna invandrare som saknar grundläggande läs- och skrivfärdigheter möjlighet att förvärva sådana färdigheter. En elev som inte är funktionellt litterat eller har ett annat skriftsystem än det latinska alfabetet ska få grundläggande läs- och skrivundervisning inom ramen för utbildningen.",
+    "type" : "SECTION"
+  }, {
+    "content" : "Utbildningen ska rikta sig till personer som har olika erfarenheter, livssituation, kunskaper och studiemål. Undervisningen ska planeras och utformas tillsammans med eleven och anpassas till elevens intressen, erfarenheter, allsidiga kunskaper och långsiktiga mål.",
+    "type" : "SECTION"
+  }, {
+    "content" : "Utbildningen ska, med utgångspunkt från individens behov, kunna kombineras med förvärvsarbete eller andra aktiviteter, till exempel arbetslivs- och samhällsorientering, validering, praktik eller annan utbildning. Undervisningen måste därför utformas så flexibelt som möjligt när det gäller tid, plats, innehåll och arbetsformer.",
+    "type" : "SECTION"
+  } ],
+  "courses" : [ {
+    "name" : "Kurs A",
+    "description" : "",
+    "code" : "SFIKUA9",
+    "centralContent" : [ ],
+    "knowledgeRequirement" : [ {
+      "text" : "Eleven berättar med <strong>________</strong> om personliga förhållanden och erfarenheter.",
+      "no" : 0,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven berättar med <strong>vanliga ord och enkla fraser</strong> om personliga förhållanden och erfarenheter.",
+        "C" : "Eleven förstår <strong>enkla fraser och meningar</strong> i korta återberättade vardagliga händelser samt anpassad och tydlig information som är av intresse för eleven.",
+        "A" : "Eleven berättar med <strong>sammanhängande fraser och meningar</strong> om personliga förhållanden och erfarenheter."
+      }
+    }, {
+      "text" : "Eleven väljer och använder på ett <strong>________</strong> sätt gester och andra strategier för att göra sig förstådd.",
+      "no" : 0,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven väljer och använder på ett <strong>i huvudsak fungerande</strong> sätt gester och andra strategier för att göra sig förstådd.",
+        "C" : "Eleven visar sin förståelse för enkla och vanligt förekommande muntliga instruktioner genom att på ett <strong>fungerande</strong> sätt agera utifrån dem.",
+        "A" : "Eleven väljer och använder på ett <strong>ändamålsenligt och effektivt</strong> sätt gester och andra strategier för att göra sig förstådd."
+      }
+    } ],
+    "point" : null,
+    "year" : null
+  }, {
+    "name" : "Kurs B",
+    "description" : "",
+    "code" : "SFIKUB9",
+    "centralContent" : [ ],
+    "knowledgeRequirement" : [ {
+      "text" : "Eleven berättar i <strong>________</strong> form om personliga erfarenheter och välbekanta personer, platser och händelser.",
+      "no" : 0,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven berättar i <strong>enkel</strong> form om personliga erfarenheter och välbekanta personer, platser och händelser.",
+        "C" : "Eleven visar sin förståelse för korta återberättade händelser, samtal, information och anpassade nyheter om välbekanta ämnen genom att göra enkla sammanfattningar av <strong>huvudinnehållet och kommentera väsentliga detaljer</strong>.",
+        "A" : "Eleven visar sin förståelse för korta återberättade händelser, samtal, information och anpassade nyheter om välbekanta ämnen genom att göra enkla sammanfattningar av <strong>huvudinnehållet och kommentera väsentliga detaljer och enstaka nyanser</strong>."
+      }
+    }, {
+      "text" : "Eleven uttrycker sig <strong>________</strong> och <strong>________</strong>.",
+      "no" : 0,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven uttrycker sig <strong>begripligt</strong> och <strong>till viss del sammanhängande</strong>.",
+        "C" : "",
+        "A" : ""
+      }
+    }, {
+      "text" : "Eleven väljer och använder på ett i <strong>________</strong> sätt några strategier för att göra sig förstådd.",
+      "no" : 0,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven väljer och använder på ett i <strong>huvudsak fungerande</strong> sätt några strategier för att göra sig förstådd.",
+        "C" : "Eleven visar sin förståelse för korta och tydliga muntliga meddelanden och instruktioner i vardagslivet genom att på ett <strong>fungerande</strong> sätt agera utifrån dem.",
+        "A" : "Eleven visar sin förståelse för korta och tydliga muntliga meddelanden och instruktioner i vardagslivet genom att på ett <strong>väl fungerande</strong> sätt agera utifrån dem."
+      }
+    } ],
+    "point" : null,
+    "year" : null
+  }, {
+    "name" : "Kurs C",
+    "description" : "",
+    "code" : "SFIKUC9",
+    "centralContent" : [ ],
+    "knowledgeRequirement" : [ {
+      "text" : "Eleven visar sin förståelse för återberättade händelser, beskrivningar, samtal, information och korta nyheter som rör bekanta ämnen genom att göra enkla sammanfattningar av <strong>________</strong>.",
+      "no" : 0,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven visar sin förståelse för återberättade händelser, beskrivningar, samtal, information och korta nyheter som rör bekanta ämnen genom att göra enkla sammanfattningar av <strong>huvudinnehållet</strong>.",
+        "C" : "Eleven berättar om och beskriver i <strong>utvecklad</strong> form personliga erfarenheter och åsikter om bekanta ämnen samt ger enkla råd och instruktioner. Eleven uttrycker sig <strong>relativt tydligt</strong> och <strong>sammanhängande</strong> samt visar prov på <strong>förhållandevis god</strong> språklig variation.",
+        "A" : "Eleven läser korta berättande och beskrivande texter om bekanta ämnen och visar sin förståelse genom att göra enkla sammanfattningar av <strong>huvudinnehållet och kommentera väsentliga detaljer och vissa nyanser</strong>. Eleven hämtar specifik information i enkla faktaorienterade texter, tabeller och diagram och för <strong>välutvecklade</strong> resonemang om informationen."
+      }
+    }, {
+      "text" : "Eleven visar sin förståelse för enkla och tydliga muntliga meddelanden och instruktioner genom att på ett <strong>________</strong> sätt agera utifrån dem.",
+      "no" : 0,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven visar sin förståelse för enkla och tydliga muntliga meddelanden och instruktioner genom att på ett <strong>i huvudsak fungerande</strong> sätt agera utifrån dem.",
+        "C" : "Eleven väljer och använder på ett <strong>ändamålsenligt</strong> sätt olika strategier för att förbättra kommunikationen.",
+        "A" : "Eleven visar sin förståelse för korta, tydliga instruktioner och föreskrifter genom att på ett <strong>väl fungerande</strong> sätt agera utifrån dem. Eleven väljer och använder på ett <strong>ändamålsenligt och effektivt</strong> sätt olika lässtrategier utifrån syftet med läsningen."
+      }
+    } ],
+    "point" : null,
+    "year" : null
+  }, {
+    "name" : "Kurs D",
+    "description" : "",
+    "code" : "SFIKUD9",
+    "centralContent" : [ ],
+    "knowledgeRequirement" : [ {
+      "text" : "Eleven skriver med <strong>________</strong> beskrivande, redogörande och argumenterande texter om bekanta ämnen.",
+      "no" : 0,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven skriver med <strong>visst flyt</strong> beskrivande, redogörande och argumenterande texter om bekanta ämnen.",
+        "C" : "Eleven visar sin förståelse för berättelser, beskrivningar, samtal, diskussioner, information och nyheter som rör bekanta ämnen genom att göra sammanfattningar av <strong>huvudinnehållet och kommentera väsentliga detaljer</strong>.",
+        "A" : "Eleven läser berättande, beskrivande och argumenterande texter om bekanta ämnen och visar sin förståelse genom att göra sammanfattningar av <strong>huvudinnehållet och kommentera väsentliga detaljer och vissa nyanser</strong>. Eleven hämtar specifik information i faktaorienterade texter och för <strong>välutvecklade</strong> resonemang om informationen."
+      }
+    }, {
+      "text" : "Eleven skapar <strong>________</strong> struktur i sina texter och visar <strong>________</strong> i ordförråd och meningsbyggnad.",
+      "no" : 0,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven skapar <strong>i huvudsak fungerande</strong> struktur i sina texter och visar <strong>viss variation</strong> i ordförråd och meningsbyggnad.",
+        "C" : "Eleven visar sin förståelse för detaljerade och tydliga muntliga instruktioner genom att på ett <strong>fungerande</strong> sätt agera utifrån dem.",
+        "A" : "Eleven visar sin förståelse för tydliga instruktioner och föreskrifter genom att på ett <strong>väl fungerande</strong> sätt agera utifrån dem."
+      }
+    }, {
+      "text" : "Eleven använder med <strong>________</strong> enkla och mer avancerade grammatiska strukturer i sina texter.",
+      "no" : 0,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven använder med <strong>viss säkerhet</strong> enkla och mer avancerade grammatiska strukturer i sina texter.",
+        "C" : "",
+        "A" : ""
+      }
+    }, {
+      "text" : "Eleven för och sammanställer på ett <strong>________</strong> sätt anteckningar för eget skrivande.",
+      "no" : 0,
+      "paragraphNo" : 3,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven för och sammanställer på ett <strong>i huvudsak fungerande</strong> sätt anteckningar för eget skrivande.",
+        "C" : "",
+        "A" : "Eleven väljer och använder på ett <strong>ändamålsenligt och effektivt</strong> sätt olika lässtrategier utifrån syftet med läsningen."
+      }
+    }, {
+      "text" : "Eleven väljer och använder på ett <strong>________</strong> sätt olika strategier för skrivande.",
+      "no" : 0,
+      "paragraphNo" : 4,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven väljer och använder på ett <strong>i huvudsak fungerande</strong> sätt olika strategier för skrivande.",
+        "C" : "",
+        "A" : ""
+      }
+    } ],
+    "point" : null,
+    "year" : null
+  } ]
+}

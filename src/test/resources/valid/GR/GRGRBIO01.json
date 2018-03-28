@@ -1,0 +1,653 @@
+{
+  "name" : "Biologi",
+  "description" : "Naturvetenskapen har sitt ursprung i människans nyfikenhet och behov av att veta mer om sig själv och sin omvärld. Kunskaper i biologi har stor betydelse för samhällsutvecklingen inom så skilda områden som hälsa, naturbruk och miljö. Med kunskaper om naturen och människan får människor redskap för att påverka sitt eget välbefinnande, men också för att kunna bidra till en hållbar utveckling.",
+  "code" : "GRGRBIO01",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "content" : "Undervisningen i ämnet biologi ska syfta till att eleverna utvecklar kunskaper om biologiska sammanhang och nyfikenhet på och intresse för att veta mer om sig själva och naturen. Genom undervisningen ska eleverna ges möjlighet att ställa frågor om naturen och människan utifrån egna upplevelser och aktuella händelser. Vidare ska undervisningen ge eleverna förutsättningar att söka svar på frågor med hjälp av både systematiska undersökningar och olika typer av källor. På så sätt ska undervisningen bidra till att eleverna utvecklar ett kritiskt tänkande kring sina egna resultat, andras argument och olika informationskällor. Genom undervisningen ska eleverna också utveckla förståelse för att påståenden kan prövas och värderas med hjälp av naturvetenskapliga arbetsmetoder.",
+    "type" : "SECTION"
+  }, {
+    "content" : "Undervisningen ska ge eleverna möjlighet att använda och utveckla kunskaper och redskap för att formulera egna och granska andras argument i sammanhang där kunskaper i biologi har betydelse. Därigenom ska eleverna ges förutsättningar att hantera praktiska, etiska och estetiska valsituationer som rör hälsa, naturbruk och ekologisk hållbarhet.",
+    "type" : "SECTION"
+  }, {
+    "content" : "Undervisningen ska även bidra till att eleverna utvecklar förtrogenhet med biologins begrepp, modeller och teorier samt förståelse för hur dessa utvecklas i samspel med erfarenheter från undersökningar av naturen och människan. Vidare ska undervisningen bidra till att eleverna utvecklar förmågan att samtala om, tolka och framställa texter och olika estetiska uttryck med naturvetenskapligt innehåll.",
+    "type" : "SECTION"
+  }, {
+    "content" : "Undervisningen ska skapa förutsättningar för eleverna att kunna skilja mellan naturvetenskapliga och andra sätt att skildra omvärlden. Genom undervisningen ska eleverna få inblick i naturvetenskapens världsbild med evolutionsteorin som grund samt få perspektiv på hur den har utvecklats och vilken kulturell påverkan den har haft.",
+    "type" : "SECTION"
+  }, {
+    "content" : "Genom undervisningen i ämnet biologi ska eleverna sammanfattningsvis ges förutsättningar att utveckla sin förmåga att",
+    "type" : "SECTION"
+  }, {
+    "content" : "använda kunskaper i biologi för att granska information, kommunicera och ta ställning i frågor som rör hälsa, naturbruk och ekologisk hållbarhet,",
+    "type" : "BULLET"
+  }, {
+    "content" : "genomföra systematiska undersökningar i biologi, och",
+    "type" : "BULLET"
+  }, {
+    "content" : "använda biologins begrepp, modeller och teorier för att beskriva och förklara biologiska samband i människokroppen, naturen och samhället.",
+    "type" : "BULLET"
+  } ],
+  "courses" : [ {
+    "name" : "Årskurs 1-3",
+    "description" : "",
+    "code" : "GRGRBIO01_1-3",
+    "centralContent" : [ {
+      "content" : "Undervisningen i de naturorienterande ämnena ska behandla följande centrala innehåll",
+      "type" : "HEADING"
+    }, {
+      "content" : "I årskurs 1-3",
+      "type" : "HEADING"
+    }, {
+      "content" : "Året runt i naturen",
+      "type" : "HEADING"
+    }, {
+      "content" : "Jordens, solens och månens rörelser i förhållande till varandra. Månens olika faser. Stjärnbilder och stjärnhimlens utseende vid olika tider på året.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Årstidsväxlingar i naturen och hur man känner igen årstider. Djurs och växters livscykler och anpassningar till olika årstider.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Djur och växter i närmiljön och hur de kan sorteras, grupperas och artbestämmas samt namn på några vanligt förekommande arter.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Enkla näringskedjor som beskriver samband mellan organismer i ekosystem.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Kropp och hälsa",
+      "type" : "HEADING"
+    }, {
+      "content" : "Betydelsen av mat, sömn, hygien, motion och sociala relationer för att må bra.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Människans kroppsdelar, deras namn och funktion.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Människans upplevelser av ljus, ljud, temperatur, smak och doft med hjälp av olika sinnen.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Kraft och rörelse",
+      "type" : "HEADING"
+    }, {
+      "content" : "Tyngdkraft och friktion som kan observeras vid lek och rörelse, till exempel i gungor och rutschbanor.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Balans, tyngdpunkt och jämvikt som kan observeras i lek och rörelse, till exempel vid balansgång och på gungbrädor.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Material och ämnen i vår omgivning",
+      "type" : "HEADING"
+    }, {
+      "content" : "Materials egenskaper och hur material och föremål kan sorteras efter egenskaperna utseende, magnetism, ledningsförmåga och om de flyter eller sjunker i vatten.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Människors användning och utveckling av olika material genom historien. Vilka material olika vardagliga föremål är tillverkade av och hur de kan källsorteras.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Vattnets olika former: fast, flytande och gas. Övergångar mellan formerna: avdunstning, kokning, kondensering, smältning och stelning.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Luftens grundläggande egenskaper och hur de kan observeras.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Enkla lösningar och blandningar och hur man kan dela upp dem i deras olika beståndsdelar, till exempel genom avdunstning och filtrering.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Berättelser om natur och naturvetenskap",
+      "type" : "HEADING"
+    }, {
+      "content" : "Skönlitteratur, myter och konst som handlar om naturen och människan.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Berättelser om äldre tiders naturvetenskap och om olika kulturers strävan att förstå och förklara fenomen i naturen.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Metoder och arbetssätt",
+      "type" : "HEADING"
+    }, {
+      "content" : "Enkla fältstudier och observationer i närmiljön.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Enkla naturvetenskapliga undersökningar.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Dokumentation av naturvetenskapliga undersökningar med text, bild och andra uttrycksformer.",
+      "type" : "BULLET"
+    } ],
+    "knowledgeRequirement" : [ {
+      "text" : "Eleven kan samtala om och diskutera frågor som rör hälsa, naturbruk och ekologisk hållbarhet och skiljer då fakta från värderingar och formulerar ställningstaganden med <strong>________</strong> motiveringar samt beskriver några tänkbara konsekvenser.",
+      "no" : 0,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan samtala om och diskutera frågor som rör hälsa, naturbruk och ekologisk hållbarhet och skiljer då fakta från värderingar och formulerar ställningstaganden med <strong>enkla </strong>motiveringar samt beskriver några tänkbara konsekvenser.",
+        "C" : "Eleven kan samtala om och diskutera frågor som rör hälsa, naturbruk och ekologisk hållbarhet och skiljer då fakta från värderingar och formulerar ställningstaganden med <strong>utvecklade </strong>motiveringar samt beskriver några tänkbara konsekvenser.",
+        "A" : "Eleven kan samtala om och diskutera frågor som rör hälsa, naturbruk och ekologisk hållbarhet och skiljer då fakta från värderingar och formulerar ställningstaganden med <strong>välutvecklade </strong>motiveringar samt beskriver några tänkbara konsekvenser."
+      }
+    }, {
+      "text" : "I diskussionerna ställer eleven frågor och framför och bemöter åsikter och argument på ett sätt som <strong>________</strong>.",
+      "no" : 1,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "I diskussionerna ställer eleven frågor och framför och bemöter åsikter och argument på ett sätt som <strong>till viss del för diskussionerna framåt</strong>.",
+        "C" : "I diskussionerna ställer eleven frågor och framför och bemöter åsikter och argument på ett sätt som<strong> för diskussionerna framåt</strong>.",
+        "A" : "I diskussionerna ställer eleven frågor och framför och bemöter åsikter och argument på ett sätt som<strong> för diskussionerna framåt och fördjupar eller breddar dem</strong>."
+      }
+    }, {
+      "text" : "Eleven kan söka naturvetenskaplig information och använder då olika källor och för <strong>________</strong> underbyggda resonemang om informationens och källornas trovärdighet och relevans.",
+      "no" : 2,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan söka naturvetenskaplig information och använder då olika källor och för <strong>enkla och till viss del </strong>underbyggda resonemang om informationens och källornas trovärdighet och relevans.",
+        "C" : "Eleven kan söka naturvetenskaplig information och använder då olika källor och för <strong>utvecklade och relativt väl </strong>underbyggda resonemang om informationens och källornas trovärdighet och relevans.",
+        "A" : "Eleven kan söka naturvetenskaplig information och använder då olika källor och för <strong>välutvecklade och väl </strong>underbyggda resonemang om informationens och källornas trovärdighet och relevans."
+      }
+    }, {
+      "text" : "Eleven kan använda informationen på ett <strong>________</strong> fungerande sätt i diskussioner och för att skapa <strong>________</strong> texter och andra framställningar med <strong>________</strong> anpassning till syfte och målgrupp.",
+      "no" : 3,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan använda informationen på ett <strong>i huvudsak </strong>fungerande sätt i diskussioner och för att skapa <strong>enkla</strong> texter och andra framställningar med <strong>viss </strong>anpassning till syfte och målgrupp.",
+        "C" : "Eleven kan använda informationen på ett <strong>relativt väl</strong> fungerande sätt i diskussioner och för att skapa<strong> utvecklade</strong> texter och andra framställningar med <strong>relativt</strong> <strong>god </strong>anpassning till syfte och målgrupp.",
+        "A" : "Eleven kan använda informationen på ett <strong>väl </strong>fungerande sätt i diskussioner och för att skapa<strong> välutvecklade</strong> texter och andra framställningar med <strong>god </strong>anpassning till syfte och målgrupp."
+      }
+    }, {
+      "text" : "Eleven kan genomföra fältstudier och andra undersökningar utifrån givna planeringar och även <strong>________</strong> enkla frågeställningar och planeringar som det går att arbeta systematiskt utifrån.",
+      "no" : 0,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan genomföra fältstudier och andra undersökningar utifrån givna planeringar och även <strong>bidra till att formulera</strong> enkla frågeställningar och planeringar som det går att arbeta systematiskt utifrån.",
+        "C" : "Eleven kan genomföra fältstudier och andra undersökningar utifrån givna planeringar och även <strong>formulera</strong> enkla frågeställningar och planeringar som det <strong>efter någon bearbetning</strong> går att arbeta systematiskt utifrån.",
+        "A" : "Eleven kan genomföra fältstudier och andra undersökningar utifrån givna planeringar och även <strong>formulera</strong> enkla frågeställningar och planeringar som det går att arbeta systematiskt utifrån."
+      }
+    }, {
+      "text" : "I undersökningarna använder eleven utrustning på ett säkert och <strong>________</strong> sätt.",
+      "no" : 1,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "I undersökningarna använder eleven utrustning på ett säkert och<strong> i huvudsak fungerande </strong>sätt.",
+        "C" : "I undersökningarna använder eleven utrustning på ett säkert och <strong>ändamålsenligt </strong>sätt.",
+        "A" : "I undersökningarna använder eleven utrustning på ett säkert, <strong>ändamålsenligt och</strong> <strong>effektivt </strong>sätt."
+      }
+    }, {
+      "text" : "Eleven kan jämföra resultaten med frågeställningarna och drar då <strong>________</strong> slutsatser med <strong>________</strong> koppling till biologiska modeller och teorier.",
+      "no" : 2,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan jämföra resultaten med frågeställningarna och drar då <strong>enkla</strong> slutsatser med<strong> viss </strong>koppling till biologiska modeller och teorier.",
+        "C" : "Eleven kan jämföra resultaten med frågeställningarna och drar då <strong>utvecklade </strong>slutsatser med<strong> relativt god </strong>koppling till biologiska modeller och teorier.",
+        "A" : "Eleven kan jämföra resultaten med frågeställningarna och drar då <strong>välutvecklade</strong> slutsatser med<strong> god </strong>koppling till biologiska modeller och teorier."
+      }
+    }, {
+      "text" : "Eleven för <strong>________</strong> resonemang kring resultatens rimlighet och <strong>________</strong> på hur undersökningarna kan förbättras.",
+      "no" : 3,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven för <strong>enkla</strong> resonemang kring resultatens rimlighet och <strong>bidrar till att ge förslag </strong>på hur undersökningarna kan förbättras.",
+        "C" : "Eleven för <strong>utvecklade</strong> resonemang kring resultatens rimlighet och<strong> ger förslag </strong>på hur undersökningarna kan förbättras.",
+        "A" : "Eleven för <strong>välutvecklade</strong> resonemang kring resultatens rimlighet <strong>i relation till möjliga felkällor </strong>och<strong> ger förslag </strong>på hur undersökningarna kan förbättras<strong> och visar på nya tänkbara frågeställningar att undersöka</strong>."
+      }
+    }, {
+      "text" : "Dessutom gör eleven <strong>________</strong> dokumentationer av undersökningarna med tabeller, diagram, bilder och skriftliga rapporter.",
+      "no" : 4,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom gör eleven <strong>enkla</strong> dokumentationer av undersökningarna med tabeller, diagram, bilder och skriftliga rapporter.",
+        "C" : "Dessutom gör eleven <strong>utvecklade</strong> dokumentationer av undersökningarna med tabeller, diagram, bilder och skriftliga rapporter.",
+        "A" : "Dessutom gör eleven <strong>välutvecklade</strong> dokumentationer av undersökningarna med tabeller, diagram, bilder och skriftliga rapporter."
+      }
+    }, {
+      "text" : "Eleven har <strong>________</strong> kunskaper om evolutionsteorin och andra biologiska sammanhang och visar det genom att <strong>________</strong> <strong>________</strong> dessa med <strong>________</strong> användning av biologins begrepp, modeller och teorier.",
+      "no" : 0,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven har <strong>grundläggande</strong> kunskaper om evolutionsteorin och andra biologiska sammanhang och visar det genom att <strong>ge exempel och</strong> <strong>beskriva</strong> dessa med <strong>viss </strong>användning av biologins begrepp, modeller och teorier.",
+        "C" : "Eleven har <strong>goda</strong> kunskaper om evolutionsteorin och andra biologiska sammanhang och visar det genom att <strong>förklara</strong> och <strong>visa på samband inom </strong>dessa med <strong>relativt god</strong> användning av biologins begrepp, modeller och teorier.",
+        "A" : "Eleven har <strong>mycket goda </strong>kunskaper om evolutionsteorin och andra biologiska sammanhang och visar det genom att <strong>förklara</strong> och <strong>visa på samband inom </strong>dessa <strong>och något generellt drag</strong> med <strong>god </strong>användning av biologins begrepp, modeller och teorier."
+      }
+    }, {
+      "text" : "Eleven kan föra <strong>________</strong> underbyggda resonemang om hälsa, sjukdom, sexualitet och ärftlighet och visar då på <strong>________</strong> samband som rör människokroppens byggnad och funktion.",
+      "no" : 1,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan föra <strong>enkla och till viss del </strong>underbyggda resonemang om hälsa, sjukdom, sexualitet och ärftlighet och visar då på <strong>enkelt identifierbara</strong> samband som rör människokroppens byggnad och funktion.",
+        "C" : "Eleven kan föra <strong>utvecklade och relativt väl </strong>underbyggda resonemang om hälsa, sjukdom, sexualitet och ärftlighet och visar då på <strong>förhållandevis komplexa</strong> samband som rör människokroppens byggnad och funktion.",
+        "A" : "Eleven kan föra <strong>välutvecklade och väl </strong>underbyggda resonemang om hälsa, sjukdom, sexualitet och ärftlighet och visar då på <strong>komplexa</strong> samband som rör människokroppens byggnad och funktion."
+      }
+    }, {
+      "text" : "Eleven undersöker olika faktorers inverkan på ekosystem och populationer och beskriver då <strong>________</strong> ekologiska samband och <strong>________</strong> <strong>________</strong> energiflöden och kretslopp.",
+      "no" : 2,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven undersöker olika faktorers inverkan på ekosystem och populationer och beskriver då <strong>enkelt identifierbara </strong>ekologiska samband och <strong>ger exempel</strong> <strong>på</strong> energiflöden och kretslopp.",
+        "C" : "Eleven undersöker olika faktorers inverkan på ekosystem och populationer och beskriver då <strong>förhållandevis komplexa </strong>ekologiska samband och <strong>förklarar</strong> och <strong>visar på samband kring </strong>energiflöden och kretslopp.",
+        "A" : "Eleven undersöker olika faktorers inverkan på ekosystem och populationer och beskriver då <strong>komplexa </strong>ekologiska samband och <strong>förklarar</strong> och <strong>generaliserar kring</strong> energiflöden och kretslopp."
+      }
+    }, {
+      "text" : "Dessutom för eleven <strong>________</strong> underbyggda resonemang kring hur människan påverkar naturen och <strong>________</strong> några åtgärder som kan bidra till en ekologiskt hållbar utveckling.",
+      "no" : 3,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom för eleven <strong>enkla och till viss del </strong>underbyggda resonemang kring hur människan påverkar naturen och <strong>visar på </strong>några åtgärder som kan bidra till en ekologiskt hållbar utveckling.",
+        "C" : "Dessutom för eleven <strong>utvecklade och relativt väl</strong> underbyggda resonemang kring hur människan påverkar naturen och <strong>visar på fördelar och begränsningar hos </strong>några åtgärder som kan bidra till en ekologiskt hållbar utveckling.",
+        "A" : "Dessutom för eleven <strong>välutvecklade och väl </strong>underbyggda resonemang kring hur människan påverkar naturen och <strong>visar ur olika perspektiv på fördelar och begränsningar hos </strong>några åtgärder som kan bidra till en ekologiskt hållbar utveckling."
+      }
+    }, {
+      "text" : "Eleven kan <strong>________</strong> <strong>________</strong> och <strong>________</strong> några centrala naturvetenskapliga upptäckter och deras betydelse för människors levnadsvillkor.",
+      "no" : 4,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan <strong>ge exempel</strong> <strong>på</strong> och <strong>beskriva</strong> några centrala naturvetenskapliga upptäckter och deras betydelse för människors levnadsvillkor.",
+        "C" : "Eleven kan <strong>förklara</strong> och <strong>visa på samband mellan </strong>några centrala naturvetenskapliga upptäckter och deras betydelse för människors levnadsvillkor.",
+        "A" : "Eleven kan <strong>förklara</strong> och <strong>generalisera kring </strong>några centrala naturvetenskapliga upptäckter och deras betydelse för människors levnadsvillkor."
+      }
+    } ],
+    "point" : null,
+    "year" : {
+      "start" : 1,
+      "end" : 3
+    }
+  }, {
+    "name" : "Årskurs 4-6",
+    "description" : "",
+    "code" : "GRGRBIO01_4-6",
+    "centralContent" : [ {
+      "content" : "Undervisningen i biologi ska behandla följande centrala innehåll",
+      "type" : "HEADING"
+    }, {
+      "content" : "I årskurs 4-6",
+      "type" : "HEADING"
+    }, {
+      "content" : "Natur och samhälle",
+      "type" : "HEADING"
+    }, {
+      "content" : "Människans beroende av och påverkan på naturen och vad detta innebär för en hållbar utveckling. Ekosystemtjänster, till exempel nedbrytning, pollinering och rening av vatten och luft.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Djurs, växters och andra organismers liv. Fotosyntes, förbränning och ekologiska samband och vilken betydelse kunskaper om detta har, till exempel för jordbruk och fiske.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Ekosystem i närmiljön, samband mellan olika organismer och namn på vanligt förekommande arter. Samband mellan organismer och den icke levande miljön.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Naturen som resurs för rekreation och upplevelser och vilket ansvar vi har när vi nyttjar den.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Kropp och hälsa",
+      "type" : "HEADING"
+    }, {
+      "content" : "Hur den psykiska och fysiska hälsan påverkas av sömn, kost, motion, sociala relationer och beroendeframkallande medel. Några vanliga sjukdomar och hur de kan förebyggas och behandlas.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Människans organsystem. Organens namn, utseende, placering, funktion och samverkan.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Människans pubertet, sexualitet och reproduktion samt frågor om identitet, jämställdhet, relationer, kärlek och ansvar.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Biologin och världsbilden",
+      "type" : "HEADING"
+    }, {
+      "content" : "Några historiska och nutida upptäckter inom biologiområdet och deras betydelse för människans levnadsvillkor och syn på naturen.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Olika kulturers beskrivningar och förklaringar av naturen i skönlitteratur, myter och konst och äldre tiders naturvetenskap.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Livets utveckling och organismers anpassningar till olika livsmiljöer.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Biologins metoder och arbetssätt",
+      "type" : "HEADING"
+    }, {
+      "content" : "Enkla fältstudier och experiment. Planering, utförande och utvärdering.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Hur djur, växter och andra organismer kan identifieras, sorteras och grupperas.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Dokumentation av enkla undersökningar med tabeller, bilder och enkla skriftliga rapporter.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Tolkning och granskning av information med koppling till biologi, till exempel i faktatexter och tidningsartiklar.",
+      "type" : "BULLET"
+    } ],
+    "knowledgeRequirement" : [ {
+      "text" : "Eleven kan samtala om och diskutera frågor som rör hälsa, naturbruk och ekologisk hållbarhet och skiljer då fakta från värderingar och formulerar ställningstaganden med <strong>________</strong> motiveringar samt beskriver några tänkbara konsekvenser.",
+      "no" : 0,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan samtala om och diskutera frågor som rör hälsa, naturbruk och ekologisk hållbarhet och skiljer då fakta från värderingar och formulerar ställningstaganden med <strong>enkla </strong>motiveringar samt beskriver några tänkbara konsekvenser.",
+        "C" : "Eleven kan samtala om och diskutera frågor som rör hälsa, naturbruk och ekologisk hållbarhet och skiljer då fakta från värderingar och formulerar ställningstaganden med <strong>utvecklade </strong>motiveringar samt beskriver några tänkbara konsekvenser.",
+        "A" : "Eleven kan samtala om och diskutera frågor som rör hälsa, naturbruk och ekologisk hållbarhet och skiljer då fakta från värderingar och formulerar ställningstaganden med <strong>välutvecklade </strong>motiveringar samt beskriver några tänkbara konsekvenser."
+      }
+    }, {
+      "text" : "I diskussionerna ställer eleven frågor och framför och bemöter åsikter och argument på ett sätt som <strong>________</strong>.",
+      "no" : 1,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "I diskussionerna ställer eleven frågor och framför och bemöter åsikter och argument på ett sätt som <strong>till viss del för diskussionerna framåt</strong>.",
+        "C" : "I diskussionerna ställer eleven frågor och framför och bemöter åsikter och argument på ett sätt som<strong> för diskussionerna framåt</strong>.",
+        "A" : "I diskussionerna ställer eleven frågor och framför och bemöter åsikter och argument på ett sätt som<strong> för diskussionerna framåt och fördjupar eller breddar dem</strong>."
+      }
+    }, {
+      "text" : "Eleven kan söka naturvetenskaplig information och använder då olika källor och för <strong>________</strong> underbyggda resonemang om informationens och källornas trovärdighet och relevans.",
+      "no" : 2,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan söka naturvetenskaplig information och använder då olika källor och för <strong>enkla och till viss del </strong>underbyggda resonemang om informationens och källornas trovärdighet och relevans.",
+        "C" : "Eleven kan söka naturvetenskaplig information och använder då olika källor och för <strong>utvecklade och relativt väl </strong>underbyggda resonemang om informationens och källornas trovärdighet och relevans.",
+        "A" : "Eleven kan söka naturvetenskaplig information och använder då olika källor och för <strong>välutvecklade och väl </strong>underbyggda resonemang om informationens och källornas trovärdighet och relevans."
+      }
+    }, {
+      "text" : "Eleven kan använda informationen på ett <strong>________</strong> fungerande sätt i diskussioner och för att skapa <strong>________</strong> texter och andra framställningar med <strong>________</strong> anpassning till syfte och målgrupp.",
+      "no" : 3,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan använda informationen på ett <strong>i huvudsak </strong>fungerande sätt i diskussioner och för att skapa <strong>enkla</strong> texter och andra framställningar med <strong>viss </strong>anpassning till syfte och målgrupp.",
+        "C" : "Eleven kan använda informationen på ett <strong>relativt väl</strong> fungerande sätt i diskussioner och för att skapa<strong> utvecklade</strong> texter och andra framställningar med <strong>relativt</strong> <strong>god </strong>anpassning till syfte och målgrupp.",
+        "A" : "Eleven kan använda informationen på ett <strong>väl </strong>fungerande sätt i diskussioner och för att skapa<strong> välutvecklade</strong> texter och andra framställningar med <strong>god </strong>anpassning till syfte och målgrupp."
+      }
+    }, {
+      "text" : "Eleven kan genomföra fältstudier och andra undersökningar utifrån givna planeringar och även <strong>________</strong> enkla frågeställningar och planeringar som det går att arbeta systematiskt utifrån.",
+      "no" : 0,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan genomföra fältstudier och andra undersökningar utifrån givna planeringar och även <strong>bidra till att formulera</strong> enkla frågeställningar och planeringar som det går att arbeta systematiskt utifrån.",
+        "C" : "Eleven kan genomföra fältstudier och andra undersökningar utifrån givna planeringar och även <strong>formulera</strong> enkla frågeställningar och planeringar som det <strong>efter någon bearbetning</strong> går att arbeta systematiskt utifrån.",
+        "A" : "Eleven kan genomföra fältstudier och andra undersökningar utifrån givna planeringar och även <strong>formulera</strong> enkla frågeställningar och planeringar som det går att arbeta systematiskt utifrån."
+      }
+    }, {
+      "text" : "I undersökningarna använder eleven utrustning på ett säkert och <strong>________</strong> sätt.",
+      "no" : 1,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "I undersökningarna använder eleven utrustning på ett säkert och<strong> i huvudsak fungerande </strong>sätt.",
+        "C" : "I undersökningarna använder eleven utrustning på ett säkert och <strong>ändamålsenligt </strong>sätt.",
+        "A" : "I undersökningarna använder eleven utrustning på ett säkert, <strong>ändamålsenligt och</strong> <strong>effektivt </strong>sätt."
+      }
+    }, {
+      "text" : "Eleven kan jämföra resultaten med frågeställningarna och drar då <strong>________</strong> slutsatser med <strong>________</strong> koppling till biologiska modeller och teorier.",
+      "no" : 2,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan jämföra resultaten med frågeställningarna och drar då <strong>enkla</strong> slutsatser med<strong> viss </strong>koppling till biologiska modeller och teorier.",
+        "C" : "Eleven kan jämföra resultaten med frågeställningarna och drar då <strong>utvecklade </strong>slutsatser med<strong> relativt god </strong>koppling till biologiska modeller och teorier.",
+        "A" : "Eleven kan jämföra resultaten med frågeställningarna och drar då <strong>välutvecklade</strong> slutsatser med<strong> god </strong>koppling till biologiska modeller och teorier."
+      }
+    }, {
+      "text" : "Eleven för <strong>________</strong> resonemang kring resultatens rimlighet och <strong>________</strong> på hur undersökningarna kan förbättras.",
+      "no" : 3,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven för <strong>enkla</strong> resonemang kring resultatens rimlighet och <strong>bidrar till att ge förslag </strong>på hur undersökningarna kan förbättras.",
+        "C" : "Eleven för <strong>utvecklade</strong> resonemang kring resultatens rimlighet och<strong> ger förslag </strong>på hur undersökningarna kan förbättras.",
+        "A" : "Eleven för <strong>välutvecklade</strong> resonemang kring resultatens rimlighet <strong>i relation till möjliga felkällor </strong>och<strong> ger förslag </strong>på hur undersökningarna kan förbättras<strong> och visar på nya tänkbara frågeställningar att undersöka</strong>."
+      }
+    }, {
+      "text" : "Dessutom gör eleven <strong>________</strong> dokumentationer av undersökningarna med tabeller, diagram, bilder och skriftliga rapporter.",
+      "no" : 4,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom gör eleven <strong>enkla</strong> dokumentationer av undersökningarna med tabeller, diagram, bilder och skriftliga rapporter.",
+        "C" : "Dessutom gör eleven <strong>utvecklade</strong> dokumentationer av undersökningarna med tabeller, diagram, bilder och skriftliga rapporter.",
+        "A" : "Dessutom gör eleven <strong>välutvecklade</strong> dokumentationer av undersökningarna med tabeller, diagram, bilder och skriftliga rapporter."
+      }
+    }, {
+      "text" : "Eleven har <strong>________</strong> kunskaper om evolutionsteorin och andra biologiska sammanhang och visar det genom att <strong>________</strong> <strong>________</strong> dessa med <strong>________</strong> användning av biologins begrepp, modeller och teorier.",
+      "no" : 0,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven har <strong>grundläggande</strong> kunskaper om evolutionsteorin och andra biologiska sammanhang och visar det genom att <strong>ge exempel och</strong> <strong>beskriva</strong> dessa med <strong>viss </strong>användning av biologins begrepp, modeller och teorier.",
+        "C" : "Eleven har <strong>goda</strong> kunskaper om evolutionsteorin och andra biologiska sammanhang och visar det genom att <strong>förklara</strong> och <strong>visa på samband inom </strong>dessa med <strong>relativt god</strong> användning av biologins begrepp, modeller och teorier.",
+        "A" : "Eleven har <strong>mycket goda </strong>kunskaper om evolutionsteorin och andra biologiska sammanhang och visar det genom att <strong>förklara</strong> och <strong>visa på samband inom </strong>dessa <strong>och något generellt drag</strong> med <strong>god </strong>användning av biologins begrepp, modeller och teorier."
+      }
+    }, {
+      "text" : "Eleven kan föra <strong>________</strong> underbyggda resonemang om hälsa, sjukdom, sexualitet och ärftlighet och visar då på <strong>________</strong> samband som rör människokroppens byggnad och funktion.",
+      "no" : 1,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan föra <strong>enkla och till viss del </strong>underbyggda resonemang om hälsa, sjukdom, sexualitet och ärftlighet och visar då på <strong>enkelt identifierbara</strong> samband som rör människokroppens byggnad och funktion.",
+        "C" : "Eleven kan föra <strong>utvecklade och relativt väl </strong>underbyggda resonemang om hälsa, sjukdom, sexualitet och ärftlighet och visar då på <strong>förhållandevis komplexa</strong> samband som rör människokroppens byggnad och funktion.",
+        "A" : "Eleven kan föra <strong>välutvecklade och väl </strong>underbyggda resonemang om hälsa, sjukdom, sexualitet och ärftlighet och visar då på <strong>komplexa</strong> samband som rör människokroppens byggnad och funktion."
+      }
+    }, {
+      "text" : "Eleven undersöker olika faktorers inverkan på ekosystem och populationer och beskriver då <strong>________</strong> ekologiska samband och <strong>________</strong> <strong>________</strong> energiflöden och kretslopp.",
+      "no" : 2,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven undersöker olika faktorers inverkan på ekosystem och populationer och beskriver då <strong>enkelt identifierbara </strong>ekologiska samband och <strong>ger exempel</strong> <strong>på</strong> energiflöden och kretslopp.",
+        "C" : "Eleven undersöker olika faktorers inverkan på ekosystem och populationer och beskriver då <strong>förhållandevis komplexa </strong>ekologiska samband och <strong>förklarar</strong> och <strong>visar på samband kring </strong>energiflöden och kretslopp.",
+        "A" : "Eleven undersöker olika faktorers inverkan på ekosystem och populationer och beskriver då <strong>komplexa </strong>ekologiska samband och <strong>förklarar</strong> och <strong>generaliserar kring</strong> energiflöden och kretslopp."
+      }
+    }, {
+      "text" : "Dessutom för eleven <strong>________</strong> underbyggda resonemang kring hur människan påverkar naturen och <strong>________</strong> några åtgärder som kan bidra till en ekologiskt hållbar utveckling.",
+      "no" : 3,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom för eleven <strong>enkla och till viss del </strong>underbyggda resonemang kring hur människan påverkar naturen och <strong>visar på </strong>några åtgärder som kan bidra till en ekologiskt hållbar utveckling.",
+        "C" : "Dessutom för eleven <strong>utvecklade och relativt väl</strong> underbyggda resonemang kring hur människan påverkar naturen och <strong>visar på fördelar och begränsningar hos </strong>några åtgärder som kan bidra till en ekologiskt hållbar utveckling.",
+        "A" : "Dessutom för eleven <strong>välutvecklade och väl </strong>underbyggda resonemang kring hur människan påverkar naturen och <strong>visar ur olika perspektiv på fördelar och begränsningar hos </strong>några åtgärder som kan bidra till en ekologiskt hållbar utveckling."
+      }
+    }, {
+      "text" : "Eleven kan <strong>________</strong> <strong>________</strong> och <strong>________</strong> några centrala naturvetenskapliga upptäckter och deras betydelse för människors levnadsvillkor.",
+      "no" : 4,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan <strong>ge exempel</strong> <strong>på</strong> och <strong>beskriva</strong> några centrala naturvetenskapliga upptäckter och deras betydelse för människors levnadsvillkor.",
+        "C" : "Eleven kan <strong>förklara</strong> och <strong>visa på samband mellan </strong>några centrala naturvetenskapliga upptäckter och deras betydelse för människors levnadsvillkor.",
+        "A" : "Eleven kan <strong>förklara</strong> och <strong>generalisera kring </strong>några centrala naturvetenskapliga upptäckter och deras betydelse för människors levnadsvillkor."
+      }
+    } ],
+    "point" : null,
+    "year" : {
+      "start" : 4,
+      "end" : 6
+    }
+  }, {
+    "name" : "Årskurs 7-9",
+    "description" : "",
+    "code" : "GRGRBIO01_7-9",
+    "centralContent" : [ {
+      "content" : "I årskurs 7-9",
+      "type" : "HEADING"
+    }, {
+      "content" : "Natur och samhälle",
+      "type" : "HEADING"
+    }, {
+      "content" : "Människans påverkan på naturen lokalt och globalt. Möjligheter att som konsument och samhällsmedborgare bidra till en hållbar utveckling.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Ekosystems energiflöde och kretslopp av materia. Fotosyntes, förbränning och andra ekosystemtjänster.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Biologisk mångfald och vad som gynnar respektive hotar den. Samhällsdiskussioner om biologisk mångfald, till exempel i samband med skogsbruk och jakt.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Lokala ekosystem och hur de kan undersökas utifrån ekologiska frågeställningar. Sambanden mellan populationer och tillgängliga resurser i ekosystem. De lokala ekosystemen i jämförelse med regionala eller globala ekosystem.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Aktuella samhällsfrågor som rör biologi.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Kropp och hälsa",
+      "type" : "HEADING"
+    }, {
+      "content" : "Hur den fysiska och psykiska hälsan påverkas av sömn, kost, motion, sociala relationer och beroendeframkallande medel. Vanligt förekommande sjukdomar och hur de kan förebyggas och behandlas. Virus, bakterier, infektioner och smittspridning. Antibiotika och resistenta bakterier.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Kroppens celler, organ och organsystem och deras uppbyggnad, funktion och samverkan. Evolutionära jämförelser mellan människan och andra organismer.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Människans sexualitet och reproduktion samt frågor om identitet, jämställdhet, relationer, kärlek och ansvar. Metoder för att förebygga sexuellt överförbara sjukdomar och oönskade graviditeter på individnivå, på global nivå och i ett historiskt perspektiv.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Evolutionens mekanismer och uttryck, samt ärftlighet och förhållandet mellan arv och miljö. Genteknikens möjligheter och risker och etiska frågor som tekniken väcker.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Biologin och världsbilden",
+      "type" : "HEADING"
+    }, {
+      "content" : "Historiska och nutida upptäckter inom biologiområdet och deras betydelse för samhället, människors levnadsvillkor samt synen på naturen och naturvetenskapen.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Aktuella forskningsområden inom biologi, till exempel bioteknik.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Naturvetenskapliga teorier om livets uppkomst. Livets utveckling och mångfald utifrån evolutionsteorin.",
+      "type" : "BULLET"
+    }, {
+      "content" : "De biologiska modellernas och teoriernas användbarhet, begränsningar, giltighet och föränderlighet.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Biologins metoder och arbetssätt",
+      "type" : "HEADING"
+    }, {
+      "content" : "Fältstudier och experiment. Formulering av enkla frågeställningar, planering, utförande och utvärdering.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Hur organismer identifieras, sorteras och grupperas utifrån släktskap och utveckling.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Sambandet mellan biologiska undersökningar och utvecklingen av begrepp, modeller och teorier.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Dokumentation av undersökningar med tabeller, diagram, bilder och skriftliga rapporter.",
+      "type" : "BULLET"
+    }, {
+      "content" : "Källkritisk granskning av information och argument som eleven möter i olika källor och samhällsdiskussioner med koppling till biologi.",
+      "type" : "BULLET"
+    } ],
+    "knowledgeRequirement" : [ {
+      "text" : "Eleven kan samtala om och diskutera frågor som rör hälsa, naturbruk och ekologisk hållbarhet och skiljer då fakta från värderingar och formulerar ställningstaganden med <strong>________</strong> motiveringar samt beskriver några tänkbara konsekvenser.",
+      "no" : 0,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan samtala om och diskutera frågor som rör hälsa, naturbruk och ekologisk hållbarhet och skiljer då fakta från värderingar och formulerar ställningstaganden med <strong>enkla </strong>motiveringar samt beskriver några tänkbara konsekvenser.",
+        "C" : "Eleven kan samtala om och diskutera frågor som rör hälsa, naturbruk och ekologisk hållbarhet och skiljer då fakta från värderingar och formulerar ställningstaganden med <strong>utvecklade </strong>motiveringar samt beskriver några tänkbara konsekvenser.",
+        "A" : "Eleven kan samtala om och diskutera frågor som rör hälsa, naturbruk och ekologisk hållbarhet och skiljer då fakta från värderingar och formulerar ställningstaganden med <strong>välutvecklade </strong>motiveringar samt beskriver några tänkbara konsekvenser."
+      }
+    }, {
+      "text" : "I diskussionerna ställer eleven frågor och framför och bemöter åsikter och argument på ett sätt som <strong>________</strong>.",
+      "no" : 1,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "I diskussionerna ställer eleven frågor och framför och bemöter åsikter och argument på ett sätt som <strong>till viss del för diskussionerna framåt</strong>.",
+        "C" : "I diskussionerna ställer eleven frågor och framför och bemöter åsikter och argument på ett sätt som<strong> för diskussionerna framåt</strong>.",
+        "A" : "I diskussionerna ställer eleven frågor och framför och bemöter åsikter och argument på ett sätt som<strong> för diskussionerna framåt och fördjupar eller breddar dem</strong>."
+      }
+    }, {
+      "text" : "Eleven kan söka naturvetenskaplig information och använder då olika källor och för <strong>________</strong> underbyggda resonemang om informationens och källornas trovärdighet och relevans.",
+      "no" : 2,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan söka naturvetenskaplig information och använder då olika källor och för <strong>enkla och till viss del </strong>underbyggda resonemang om informationens och källornas trovärdighet och relevans.",
+        "C" : "Eleven kan söka naturvetenskaplig information och använder då olika källor och för <strong>utvecklade och relativt väl </strong>underbyggda resonemang om informationens och källornas trovärdighet och relevans.",
+        "A" : "Eleven kan söka naturvetenskaplig information och använder då olika källor och för <strong>välutvecklade och väl </strong>underbyggda resonemang om informationens och källornas trovärdighet och relevans."
+      }
+    }, {
+      "text" : "Eleven kan använda informationen på ett <strong>________</strong> fungerande sätt i diskussioner och för att skapa <strong>________</strong> texter och andra framställningar med <strong>________</strong> anpassning till syfte och målgrupp.",
+      "no" : 3,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan använda informationen på ett <strong>i huvudsak </strong>fungerande sätt i diskussioner och för att skapa <strong>enkla</strong> texter och andra framställningar med <strong>viss </strong>anpassning till syfte och målgrupp.",
+        "C" : "Eleven kan använda informationen på ett <strong>relativt väl</strong> fungerande sätt i diskussioner och för att skapa<strong> utvecklade</strong> texter och andra framställningar med <strong>relativt</strong> <strong>god </strong>anpassning till syfte och målgrupp.",
+        "A" : "Eleven kan använda informationen på ett <strong>väl </strong>fungerande sätt i diskussioner och för att skapa<strong> välutvecklade</strong> texter och andra framställningar med <strong>god </strong>anpassning till syfte och målgrupp."
+      }
+    }, {
+      "text" : "Eleven kan genomföra fältstudier och andra undersökningar utifrån givna planeringar och även <strong>________</strong> enkla frågeställningar och planeringar som det går att arbeta systematiskt utifrån.",
+      "no" : 0,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan genomföra fältstudier och andra undersökningar utifrån givna planeringar och även <strong>bidra till att formulera</strong> enkla frågeställningar och planeringar som det går att arbeta systematiskt utifrån.",
+        "C" : "Eleven kan genomföra fältstudier och andra undersökningar utifrån givna planeringar och även <strong>formulera</strong> enkla frågeställningar och planeringar som det <strong>efter någon bearbetning</strong> går att arbeta systematiskt utifrån.",
+        "A" : "Eleven kan genomföra fältstudier och andra undersökningar utifrån givna planeringar och även <strong>formulera</strong> enkla frågeställningar och planeringar som det går att arbeta systematiskt utifrån."
+      }
+    }, {
+      "text" : "I undersökningarna använder eleven utrustning på ett säkert och <strong>________</strong> sätt.",
+      "no" : 1,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "I undersökningarna använder eleven utrustning på ett säkert och<strong> i huvudsak fungerande </strong>sätt.",
+        "C" : "I undersökningarna använder eleven utrustning på ett säkert och <strong>ändamålsenligt </strong>sätt.",
+        "A" : "I undersökningarna använder eleven utrustning på ett säkert, <strong>ändamålsenligt och</strong> <strong>effektivt </strong>sätt."
+      }
+    }, {
+      "text" : "Eleven kan jämföra resultaten med frågeställningarna och drar då <strong>________</strong> slutsatser med <strong>________</strong> koppling till biologiska modeller och teorier.",
+      "no" : 2,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan jämföra resultaten med frågeställningarna och drar då <strong>enkla</strong> slutsatser med<strong> viss </strong>koppling till biologiska modeller och teorier.",
+        "C" : "Eleven kan jämföra resultaten med frågeställningarna och drar då <strong>utvecklade </strong>slutsatser med<strong> relativt god </strong>koppling till biologiska modeller och teorier.",
+        "A" : "Eleven kan jämföra resultaten med frågeställningarna och drar då <strong>välutvecklade</strong> slutsatser med<strong> god </strong>koppling till biologiska modeller och teorier."
+      }
+    }, {
+      "text" : "Eleven för <strong>________</strong> resonemang kring resultatens rimlighet och <strong>________</strong> på hur undersökningarna kan förbättras.",
+      "no" : 3,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven för <strong>enkla</strong> resonemang kring resultatens rimlighet och <strong>bidrar till att ge förslag </strong>på hur undersökningarna kan förbättras.",
+        "C" : "Eleven för <strong>utvecklade</strong> resonemang kring resultatens rimlighet och<strong> ger förslag </strong>på hur undersökningarna kan förbättras.",
+        "A" : "Eleven för <strong>välutvecklade</strong> resonemang kring resultatens rimlighet <strong>i relation till möjliga felkällor </strong>och<strong> ger förslag </strong>på hur undersökningarna kan förbättras<strong> och visar på nya tänkbara frågeställningar att undersöka</strong>."
+      }
+    }, {
+      "text" : "Dessutom gör eleven <strong>________</strong> dokumentationer av undersökningarna med tabeller, diagram, bilder och skriftliga rapporter.",
+      "no" : 4,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom gör eleven <strong>enkla</strong> dokumentationer av undersökningarna med tabeller, diagram, bilder och skriftliga rapporter.",
+        "C" : "Dessutom gör eleven <strong>utvecklade</strong> dokumentationer av undersökningarna med tabeller, diagram, bilder och skriftliga rapporter.",
+        "A" : "Dessutom gör eleven <strong>välutvecklade</strong> dokumentationer av undersökningarna med tabeller, diagram, bilder och skriftliga rapporter."
+      }
+    }, {
+      "text" : "Eleven har <strong>________</strong> kunskaper om evolutionsteorin och andra biologiska sammanhang och visar det genom att <strong>________</strong> <strong>________</strong> dessa med <strong>________</strong> användning av biologins begrepp, modeller och teorier.",
+      "no" : 0,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven har <strong>grundläggande</strong> kunskaper om evolutionsteorin och andra biologiska sammanhang och visar det genom att <strong>ge exempel och</strong> <strong>beskriva</strong> dessa med <strong>viss </strong>användning av biologins begrepp, modeller och teorier.",
+        "C" : "Eleven har <strong>goda</strong> kunskaper om evolutionsteorin och andra biologiska sammanhang och visar det genom att <strong>förklara</strong> och <strong>visa på samband inom </strong>dessa med <strong>relativt god</strong> användning av biologins begrepp, modeller och teorier.",
+        "A" : "Eleven har <strong>mycket goda </strong>kunskaper om evolutionsteorin och andra biologiska sammanhang och visar det genom att <strong>förklara</strong> och <strong>visa på samband inom </strong>dessa <strong>och något generellt drag</strong> med <strong>god </strong>användning av biologins begrepp, modeller och teorier."
+      }
+    }, {
+      "text" : "Eleven kan föra <strong>________</strong> underbyggda resonemang om hälsa, sjukdom, sexualitet och ärftlighet och visar då på <strong>________</strong> samband som rör människokroppens byggnad och funktion.",
+      "no" : 1,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan föra <strong>enkla och till viss del </strong>underbyggda resonemang om hälsa, sjukdom, sexualitet och ärftlighet och visar då på <strong>enkelt identifierbara</strong> samband som rör människokroppens byggnad och funktion.",
+        "C" : "Eleven kan föra <strong>utvecklade och relativt väl </strong>underbyggda resonemang om hälsa, sjukdom, sexualitet och ärftlighet och visar då på <strong>förhållandevis komplexa</strong> samband som rör människokroppens byggnad och funktion.",
+        "A" : "Eleven kan föra <strong>välutvecklade och väl </strong>underbyggda resonemang om hälsa, sjukdom, sexualitet och ärftlighet och visar då på <strong>komplexa</strong> samband som rör människokroppens byggnad och funktion."
+      }
+    }, {
+      "text" : "Eleven undersöker olika faktorers inverkan på ekosystem och populationer och beskriver då <strong>________</strong> ekologiska samband och <strong>________</strong> <strong>________</strong> energiflöden och kretslopp.",
+      "no" : 2,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven undersöker olika faktorers inverkan på ekosystem och populationer och beskriver då <strong>enkelt identifierbara </strong>ekologiska samband och <strong>ger exempel</strong> <strong>på</strong> energiflöden och kretslopp.",
+        "C" : "Eleven undersöker olika faktorers inverkan på ekosystem och populationer och beskriver då <strong>förhållandevis komplexa </strong>ekologiska samband och <strong>förklarar</strong> och <strong>visar på samband kring </strong>energiflöden och kretslopp.",
+        "A" : "Eleven undersöker olika faktorers inverkan på ekosystem och populationer och beskriver då <strong>komplexa </strong>ekologiska samband och <strong>förklarar</strong> och <strong>generaliserar kring</strong> energiflöden och kretslopp."
+      }
+    }, {
+      "text" : "Dessutom för eleven <strong>________</strong> underbyggda resonemang kring hur människan påverkar naturen och <strong>________</strong> några åtgärder som kan bidra till en ekologiskt hållbar utveckling.",
+      "no" : 3,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom för eleven <strong>enkla och till viss del </strong>underbyggda resonemang kring hur människan påverkar naturen och <strong>visar på </strong>några åtgärder som kan bidra till en ekologiskt hållbar utveckling.",
+        "C" : "Dessutom för eleven <strong>utvecklade och relativt väl</strong> underbyggda resonemang kring hur människan påverkar naturen och <strong>visar på fördelar och begränsningar hos </strong>några åtgärder som kan bidra till en ekologiskt hållbar utveckling.",
+        "A" : "Dessutom för eleven <strong>välutvecklade och väl </strong>underbyggda resonemang kring hur människan påverkar naturen och <strong>visar ur olika perspektiv på fördelar och begränsningar hos </strong>några åtgärder som kan bidra till en ekologiskt hållbar utveckling."
+      }
+    }, {
+      "text" : "Eleven kan <strong>________</strong> <strong>________</strong> och <strong>________</strong> några centrala naturvetenskapliga upptäckter och deras betydelse för människors levnadsvillkor.",
+      "no" : 4,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan <strong>ge exempel</strong> <strong>på</strong> och <strong>beskriva</strong> några centrala naturvetenskapliga upptäckter och deras betydelse för människors levnadsvillkor.",
+        "C" : "Eleven kan <strong>förklara</strong> och <strong>visa på samband mellan </strong>några centrala naturvetenskapliga upptäckter och deras betydelse för människors levnadsvillkor.",
+        "A" : "Eleven kan <strong>förklara</strong> och <strong>generalisera kring </strong>några centrala naturvetenskapliga upptäckter och deras betydelse för människors levnadsvillkor."
+      }
+    } ],
+    "point" : null,
+    "year" : {
+      "start" : 7,
+      "end" : 9
+    }
+  } ]
+}
