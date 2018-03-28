@@ -1,6 +1,6 @@
 buildscript {
     ext {
-        kotlinVersion = '1.2.30'
+        kotlinVersion = '1.2.31'
     }
     repositories {
         jcenter()
@@ -17,7 +17,7 @@ apply plugin: 'org.jetbrains.dokka'
 apply plugin: 'maven-publish'
 
 group = "org.edtech"
-version = "0.0.3"
+version = "0.0.4"
 sourceCompatibility = 1.8
 
 compileKotlin {
@@ -34,7 +34,6 @@ repositories {
 dependencies {
     compile("org.jetbrains.kotlin:kotlin-stdlib-jdk8:${kotlinVersion}")
     compile("org.jsoup:jsoup:1.11.2")
-    compile("info.debatty:java-string-similarity:1.0.1")
     compile("org.apache.commons:commons-compress:1.16.1")
     testCompile("com.fasterxml.jackson.module:jackson-module-kotlin:2.9.4.1")
     testCompile('junit:junit:4.12')

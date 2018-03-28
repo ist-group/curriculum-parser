@@ -6,21 +6,21 @@ import java.io.File
 fun main(args : Array<String>) {
     val mapper = ObjectMapper()
 
-    for (skolverketFile in listOf(SkolverketFile.GY, SkolverketFile.VUXGR, SkolverketFile.SFI)) {
+    for (skolverketFile in SyllabusType.values()) {
         val subjectMap: MutableMap<String, Subject> = HashMap()
 
-        for (subjectName in skolverketFile.subjectNames()) {
-            val subjectParser = skolverketFile.openSubject(subjectName)
-            subjectMap[subjectName] = subjectParser.getSubject()
+        for (subject in Syllabus(skolverketFile).getSubjects()) {
+            subjectMap[subject.code] = subject
         }
-        val subjectDir = File("./src/test/resources/${skolverketFile.name}")
+        val subjectDir = File("./src/test/resources/valid/${skolverketFile.name}")
         if (subjectDir.isDirectory) {
-            for (file in File("./src/test/resources/${skolverketFile.name}").listFiles()) {
+            for (file in File("./src/test/resources/valid/${skolverketFile.name}").listFiles()) {
                 if (!file.name.endsWith(".json")) continue
-                val subjectName = file.name.split(".").first()
-                val parsedSubject = subjectMap[subjectName]
+
+                val subjectCode = file.nameWithoutExtension
+                val parsedSubject = subjectMap[subjectCode]
                 if (parsedSubject == null) {
-                    println("ERROR: No subject $subjectName for file ${file.absolutePath}")
+                    println("ERROR: No subject $subjectCode for file ${file.absolutePath}")
                     System.exit(1)
                 } else {
                     val json = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(parsedSubject)
