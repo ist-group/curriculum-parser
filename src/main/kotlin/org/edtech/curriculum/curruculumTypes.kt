@@ -1,10 +1,7 @@
 package org.edtech.curriculum
 
 enum class PurposeType {
-    SECTION, HEADING, BULLET
-}
-enum class CentralContentType {
-    HEADING, BULLET
+    PARAGRAPH, BULLET
 }
 
 enum class GradeStep {
@@ -21,8 +18,9 @@ data class Subject(
 )
 
 data class Purpose(
-    val content: String,
-    val type: PurposeType
+    val type: PurposeType,
+    val heading: String,
+    val lines: List<String>
 )
 
 data class Course(
@@ -37,11 +35,12 @@ data class Course(
 
 data class YearGroup(
     val start: Int?,
-    val end: Int)
+    val end: Int
+)
 
 data class CentralContent(
-    val content: String,
-    val type: CentralContentType
+    val heading: String,
+    val lines: List<String>
 )
 
 data class KnowledgeRequirement(

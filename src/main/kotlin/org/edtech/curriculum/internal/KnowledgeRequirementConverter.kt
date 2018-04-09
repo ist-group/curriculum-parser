@@ -26,7 +26,8 @@ class KnowledgeRequirementConverter {
         } else {
             throw Exception("Cannot parse KnowledgeRequirement with structure: " + knowledgeRequirementsHtml.keys)
         }
-        return mergeNoValueLines(knowledgeRequirementResult)
+        //return mergeNoValueLines(knowledgeRequirementResult)
+        return  fixNumbering(knowledgeRequirementResult)
     }
 
     /**

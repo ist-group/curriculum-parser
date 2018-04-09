@@ -1,7 +1,6 @@
 package org.edtech.curriculum.internal
 
 import org.edtech.curriculum.CentralContent
-import org.edtech.curriculum.CentralContentType
 import org.edtech.curriculum.YearGroup
 import org.junit.Assert.*
 import org.junit.Test
@@ -92,18 +91,21 @@ internal class HtmlUtilsTest {
     fun toCentralContentTest() {
         assertEquals(
                 listOf(
-                        CentralContent(content="I årskurs 1-3", type=CentralContentType.HEADING),
-                        CentralContent(content="Bildframställning", type=CentralContentType.HEADING),
-                        CentralContent(content="Framställning av berättande bilder, till exempel sagobilder.", type=CentralContentType.BULLET),
-                        CentralContent(content="Teckning, måleri, modellering och konstruktion.", type=CentralContentType.BULLET),
-                        CentralContent(content="Fotografering och överföring av bilder med hjälp av datorprogram.", type=CentralContentType.BULLET),
-                        CentralContent(content="Redskap för bildframställning", type=CentralContentType.HEADING),
-                        CentralContent(content="Olika element som bygger upp en bild: färg, form, linje, yta samt för- och bakgrund.", type=CentralContentType.BULLET),
-                        CentralContent(content="Några verktyg för teckning, måleri, modellering, konstruktioner och fotografering och hur dessa benämns.", type=CentralContentType.BULLET),
-                        CentralContent(content="Plana och formbara material, till exempel papper, lera, gips och naturmaterial och hur dessa kan användas i olika bildarbeten.", type=CentralContentType.BULLET),
-                        CentralContent(content="Bildanalys", type=CentralContentType.HEADING),
-                        CentralContent(content="Informativa bilder, till exempel läroboksbilder och hur de är utformade och fungerar.", type=CentralContentType.BULLET),
-                        CentralContent(content="Historiska och samtida bilder och vad bilderna berättar, till exempel dokumentära bilder från hemorten och konstbilder.", type=CentralContentType.BULLET)
+                        CentralContent("I årskurs 1-3", listOf()),
+                        CentralContent("Bildframställning", listOf(
+                             "Framställning av berättande bilder, till exempel sagobilder.",
+                             "Teckning, måleri, modellering och konstruktion.",
+                             "Fotografering och överföring av bilder med hjälp av datorprogram."
+                         )),
+                        CentralContent("Redskap för bildframställning", listOf(
+                            "Olika element som bygger upp en bild: färg, form, linje, yta samt för- och bakgrund.",
+                            "Några verktyg för teckning, måleri, modellering, konstruktioner och fotografering och hur dessa benämns.",
+                            "Plana och formbara material, till exempel papper, lera, gips och naturmaterial och hur dessa kan användas i olika bildarbeten."
+                        )),
+                        CentralContent("Bildanalys", listOf(
+                            "Informativa bilder, till exempel läroboksbilder och hur de är utformade och fungerar.",
+                            "Historiska och samtida bilder och vad bilderna berättar, till exempel dokumentära bilder från hemorten och konstbilder."
+                        ))
                 ),
                 toCentralContent("<h3>I årskurs 1-3</h3><h4> Bildframställning</h4><p> </p><ul> <li>Framställning av berättande bilder, till exempel sagobilder.</li> <li>Teckning, måleri, modellering och konstruktion.</li> <li>Fotografering och överföring av bilder med hjälp av datorprogram.</li> </ul><p> </p><h4> Redskap för bildframställning</h4><p> </p><ul> <li>Olika element som bygger upp en bild: färg, form, linje, yta samt för- och bakgrund.</li> <li>Några verktyg för teckning, måleri, modellering, konstruktioner och fotografering och hur dessa benämns.</li> <li>Plana och formbara material, till exempel papper, lera, gips och naturmaterial och hur dessa kan användas i olika bildarbeten.</li> </ul><p> </p><h4> Bildanalys</h4><p> </p><ul> <li>Informativa bilder, till exempel läroboksbilder och hur de är utformade och fungerar.</li> <li>Historiska och samtida bilder och vad bilderna berättar, till exempel dokumentära bilder från hemorten och konstbilder.</li> </ul><p></p>")
         )

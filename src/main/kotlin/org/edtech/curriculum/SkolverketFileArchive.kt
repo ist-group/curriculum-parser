@@ -21,26 +21,7 @@ class SkolverketFileArchive(private val archiveFile: File) {
         return SyllabusType.values().firstOrNull { it.filename == archiveFile.nameWithoutExtension  }
                 ?: throw Exception("Unknown file type")
     }
-
-    /**
-     * Return a list of all subject in the archive
-     */
-    fun getArchiveFileNames(): List<String> {
-        val result = mutableListOf<String>()
-
-        FileInputStream(archiveFile).use {
-            val tarInput = GzipCompressorInputStream(it)
-            val dataInput = ArchiveStreamFactory().createArchiveInputStream("tar", tarInput) as TarArchiveInputStream
-            var tarEntry = dataInput.nextEntry as TarArchiveEntry?
-            while (tarEntry != null ) {
-                result += tarEntry.name
-                tarEntry = dataInput.nextTarEntry
-            }
-        }
-        result.sort()
-        return result.toList()
-    }
-
+    
     /**
      * Return a file stream for the specified file
      */

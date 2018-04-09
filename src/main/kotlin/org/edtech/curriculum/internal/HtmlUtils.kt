@@ -3,7 +3,6 @@
 package org.edtech.curriculum.internal
 
 import org.edtech.curriculum.CentralContent
-import org.edtech.curriculum.CentralContentType
 import org.edtech.curriculum.YearGroup
 import org.jsoup.Jsoup
 import kotlin.math.abs
@@ -131,13 +130,31 @@ internal fun toYearGroup(year: String): YearGroup? {
  * Combine heading and bullets in one list
  */
 internal fun toCentralContent(html: String): List<CentralContent> {
-    return Jsoup.parse(html).select("strong, li, i, h1, h2, h3, h4, h5, h6")
-            .filter { it.text().isNotEmpty() }
-            .map {
-                val type = when (it.tagName()) {
-                    "li" -> CentralContentType.BULLET
-                    else -> CentralContentType.HEADING
+    val fragment = Jsoup.parseBodyFragment(html)
+    // Remove empty paragraphs
+    fragment.select("body > p")
+        .forEach {
+            if (it.text().trim().isEmpty()) {
+                it.remove()
+            }
+        }
+    return fragment
+            .select("body > *:not(:empty)")
+            .mapNotNull {
+                if (it.tagName() == "ul") {
+                    if (it.previousElementSibling() != null) {
+                        CentralContent(it.previousElementSibling().text(), it.children().map { it.text() })
+                    } else {
+                        CentralContent("",  it.children().map { it.text() })
+                    }
+                } else {
+                    // Just a heading
+                    if (it.nextElementSibling() != null && it.nextElementSibling().tagName() == "ul") {
+                        null
+                    } else {
+                    // Heading before
+                        CentralContent(it.text(),  listOf())
+                    }
                 }
-                CentralContent(it.text(), type)
             }
 }

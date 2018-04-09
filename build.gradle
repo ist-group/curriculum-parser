@@ -10,6 +10,8 @@ buildscript {
         classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:${kotlinVersion}")
         classpath("org.jetbrains.kotlin:kotlin-allopen:${kotlinVersion}")
         classpath("org.jetbrains.dokka:dokka-gradle-plugin:0.9.16")
+        classpath("org.jsoup:jsoup:1.11.2")
+        classpath("org.apache.commons:commons-compress:1.16.1")
     }
 }
 apply plugin: 'kotlin'
@@ -22,6 +24,7 @@ sourceCompatibility = 1.8
 
 compileKotlin {
     kotlinOptions.jvmTarget = "1.8"
+    kotlinOptions.noStdlib = false
 }
 compileTestKotlin {
     kotlinOptions.jvmTarget = "1.8"
