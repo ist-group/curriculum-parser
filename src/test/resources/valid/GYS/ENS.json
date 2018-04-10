@@ -4,88 +4,38 @@
   "code" : "ENS",
   "skolfsId" : "0000:00",
   "purposes" : [ {
-    "content" : "Undervisningen i ämnet engelska ska syfta till att eleverna utvecklar språk- och omvärldskunskaper så att de kan, vill och vågar använda engelska i olika situationer och sammanhang. Genom undervisningen ska eleverna ges möjlighet att utveckla kommunikativ förmåga. Denna förmåga innefattar både reception, vilket innebär att förstå talat och skrivet språk, samt produktion och interaktion, vilket innebär att formulera sig och samspela med andra i tal och skrift. Eleverna ska även ges möjlighet att utveckla förmåga att använda olika strategier för att stödja kommunikationen och för att lösa problem när språkkunskaperna inte räcker till.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet engelska ska syfta till att eleverna utvecklar språk- och omvärldskunskaper så att de kan, vill och vågar använda engelska i olika situationer och sammanhang.", " Genom undervisningen ska eleverna ges möjlighet att utveckla kommunikativ förmåga.", " Denna förmåga innefattar både reception, vilket innebär att förstå talat och skrivet språk, samt produktion och interaktion, vilket innebär att formulera sig och samspela med andra i tal och skrift.", " Eleverna ska även ges möjlighet att utveckla förmåga att använda olika strategier för att stödja kommunikationen och för att lösa problem när språkkunskaperna inte räcker till.", "" ]
   }, {
-    "content" : "Undervisningen ska bidra till att eleverna utvecklar kunskaper om livsvillkor, samhällsfrågor och kulturella företeelser i olika sammanhang och delar av världen där engelska används. Undervisningen ska också stimulera elevernas nyfikenhet på språk och kulturer och bidra till att eleverna utvecklar kunskaper om hur man lär sig språk i och utanför undervisningen.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar kunskaper om livsvillkor, samhällsfrågor och kulturella företeelser i olika sammanhang och delar av världen där engelska används.", " Undervisningen ska också stimulera elevernas nyfikenhet på språk och kulturer och bidra till att eleverna utvecklar kunskaper om hur man lär sig språk i och utanför undervisningen.", "" ]
   }, {
-    "content" : "I undervisningen ska eleverna få använda språket i funktionella och meningsfulla sammanhang. Undervisningen ska så långt som möjligt bedrivas på engelska. Eleverna ska få möta både talad och skriven engelska och få sätta det de möter i relation till egna erfarenheter och kunskaper. Undervisningen ska dra nytta av omvärlden som en resurs för kontakter, information och lärande. Undervisningen ska också ge eleverna möjlighet att samspela med andra i tal och skrift och med stöd av digitala verktyg.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna få använda språket i funktionella och meningsfulla sammanhang.", " Undervisningen ska så långt som möjligt bedrivas på engelska.", " Eleverna ska få möta både talad och skriven engelska och få sätta det de möter i relation till egna erfarenheter och kunskaper.", " Undervisningen ska dra nytta av omvärlden som en resurs för kontakter, information och lärande.", " Undervisningen ska också ge eleverna möjlighet att samspela med andra i tal och skrift och med stöd av digitala verktyg.", "" ]
   }, {
-    "content" : "Undervisningen i ämnet engelska ska ge eleverna förutsättningar att utveckla följande:",
-    "type" : "HEADING"
-  }, {
-    "content" : "Förståelse av talad och skriven engelska samt förmåga att tolka innehållet.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Förmåga att formulera sig och kommunicera på engelska i tal och skrift.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Förmåga att använda språkliga strategier i olika sammanhang.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Förmåga att reflektera över livsvillkor, samhällsfrågor och kulturella företeelser i olika sammanhang och delar av världen där engelska används.",
-    "type" : "BULLET"
+    "type" : "PARAGRAPH",
+    "heading" : "Undervisningen i ämnet engelska ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ ]
   } ],
   "courses" : [ {
     "name" : "Engelska 1",
     "description" : "Kursen engelska 1 omfattar punkterna 1–4 under rubriken Ämnets syfte.",
     "code" : "ENSENG51",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
     }, {
-      "content" : "Kommunikationens innehåll",
-      "type" : "HEADING"
+      "heading" : "Kommunikationens innehåll",
+      "lines" : [ "Ämnesområden som är välbekanta för eleverna, till exempel vardagliga situationer, intressen och personer. Ämnesområden med anknytning till elevernas utbildning.", "Vardagsliv, levnadssätt och sociala förhållanden i olika sammanhang och områden där engelska används. Engelska språkets utbredning i världen." ]
     }, {
-      "content" : "Ämnesområden som är välbekanta för eleverna, till exempel vardagliga situationer, intressen och personer. Ämnesområden med anknytning till elevernas utbildning.",
-      "type" : "BULLET"
+      "heading" : "Reception",
+      "lines" : [ "Tydligt talat språk och texter som är instruerande, beskrivande och kontaktskapande. Texter med bildstöd. Språk och texter via film och andra medier.", "Sammanhängande tydligt talat språk och samtal av olika slag, till exempel dialoger, intervjuer och samtal.", "Berättelser, sånger, dikter och annan fiktion i skriven, talad och dramatiserad form.", "Ord och fraser i närmiljön, till exempel på skyltar och i reklam.", "Strategier för att lyssna och läsa på olika sätt och med olika syften.", "Olika sätt att välja bland och orientera sig i texter och talat språk från internet och andra medier.", "Språkliga företeelser i det språk som eleverna möter, till exempel uttal, stavning och fasta språkliga uttryck.", "Hur ord, fasta språkliga uttryck och vardagsfraser används i talat språk och texter i olika situationer." ]
     }, {
-      "content" : "Vardagsliv, levnadssätt och sociala förhållanden i olika sammanhang och områden där engelska används. Engelska språkets utbredning i världen.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Reception",
-      "type" : "HEADING"
-    }, {
-      "content" : "Tydligt talat språk och texter som är instruerande, beskrivande och kontaktskapande. Texter med bildstöd. Språk och texter via film och andra medier.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Sammanhängande tydligt talat språk och samtal av olika slag, till exempel dialoger, intervjuer och samtal.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Berättelser, sånger, dikter och annan fiktion i skriven, talad och dramatiserad form.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Ord och fraser i närmiljön, till exempel på skyltar och i reklam.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Strategier för att lyssna och läsa på olika sätt och med olika syften.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Olika sätt att välja bland och orientera sig i texter och talat språk från internet och andra medier.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Språkliga företeelser i det språk som eleverna möter, till exempel uttal, stavning och fasta språkliga uttryck.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Hur ord, fasta språkliga uttryck och vardagsfraser används i talat språk och texter i olika situationer.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Produktion och interaktion",
-      "type" : "HEADING"
-    }, {
-      "content" : "Presentationer, instruktioner, meddelanden, berättelser och beskrivningar i sammanhängande tal och skrift.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Samtal och skrivande för kontakt och kommunikation i olika sammanhang.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Språkliga företeelser för att förtydliga och berika kommunikationen, till exempel uttal, fasta språkliga uttryck och grammatiska strukturer.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Strategier för att förstå och göra sig förstådd när språket inte räcker till, till exempel omformuleringar, gester och frågor.",
-      "type" : "BULLET"
+      "heading" : "Produktion och interaktion",
+      "lines" : [ "Presentationer, instruktioner, meddelanden, berättelser och beskrivningar i sammanhängande tal och skrift.", "Samtal och skrivande för kontakt och kommunikation i olika sammanhang.", "Språkliga företeelser för att förtydliga och berika kommunikationen, till exempel uttal, fasta språkliga uttryck och grammatiska strukturer.", "Strategier för att förstå och göra sig förstådd när språket inte räcker till, till exempel omformuleringar, gester och frågor." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven förstår <strong>________</strong> fraser i tydligt talad, enkel engelska i långsamt tempo samt i korta, enkla texter om vardagliga och välbekanta ämnen.",
@@ -158,47 +108,17 @@
     "description" : "Kursen engelska 2 omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
     "code" : "ENSENG52",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
     }, {
-      "content" : "Kommunikationens innehåll",
-      "type" : "HEADING"
+      "heading" : "Kommunikationens innehåll",
+      "lines" : [ "Ämnesområden som är välbekanta för eleverna, till exempel vardagliga situationer, intressen och personer. Ämnesområden med anknytning till elevernas utbildning.", "Levnadsvillkor, traditioner samt sociala och kulturella förhållanden i olika sammanhang och delar av världen där engelska används." ]
     }, {
-      "content" : "Ämnesområden som är välbekanta för eleverna, till exempel vardagliga situationer, intressen och personer. Ämnesområden med anknytning till elevernas utbildning.",
-      "type" : "BULLET"
+      "heading" : "Reception",
+      "lines" : [ "Tydligt talat språk, även med viss dialektal färgning. Texter som är instruerande, beskrivande, berättande och kontaktskapande. Språk och texter via film och andra medier.", "Sammanhängande talat språk och samtal, till exempel dialoger och intervjuer.", "Berättelser, sånger, dikter och annan fiktion i skriven, talad och dramatiserad form.", "Texter av olika slag och med olika syften, till exempel reportage och manualer.", "Hur olika formuleringar används för att inleda och avsluta olika typer av framställningar och samtal." ]
     }, {
-      "content" : "Levnadsvillkor, traditioner samt sociala och kulturella förhållanden i olika sammanhang och delar av världen där engelska används.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Reception",
-      "type" : "HEADING"
-    }, {
-      "content" : "Tydligt talat språk, även med viss dialektal färgning. Texter som är instruerande, beskrivande, berättande och kontaktskapande. Språk och texter via film och andra medier.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Sammanhängande talat språk och samtal, till exempel dialoger och intervjuer.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Berättelser, sånger, dikter och annan fiktion i skriven, talad och dramatiserad form.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Texter av olika slag och med olika syften, till exempel reportage och manualer.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Hur olika formuleringar används för att inleda och avsluta olika typer av framställningar och samtal.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Produktion och interaktion",
-      "type" : "HEADING"
-    }, {
-      "content" : "Instruktioner, berättelser och beskrivningar i sammanhängande tal och skrift. Diskussioner, samtal och skrivande för kontakt och kommunikation i olika sammanhang.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Bearbetning av egna och andras muntliga och skriftliga framställningar för att variera, tydliggöra och precisera.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Strategier för att förstå och göra sig förstådd när språket inte räcker till i samtal och skriftlig kommunikation, till exempel omformuleringar, frågor och stödjande fraser.",
-      "type" : "BULLET"
+      "heading" : "Produktion och interaktion",
+      "lines" : [ "Instruktioner, berättelser och beskrivningar i sammanhängande tal och skrift. Diskussioner, samtal och skrivande för kontakt och kommunikation i olika sammanhang.", "Bearbetning av egna och andras muntliga och skriftliga framställningar för att variera, tydliggöra och precisera.", "Strategier för att förstå och göra sig förstådd när språket inte räcker till i samtal och skriftlig kommunikation, till exempel omformuleringar, frågor och stödjande fraser." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven förstår <strong>________</strong> i tydligt talad, enkel engelska i lugnt tempo samt i enkla texter om vardagliga och välbekanta ämnen.",
@@ -271,44 +191,17 @@
     "description" : "Kursen engelska 3 omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
     "code" : "ENSENG53",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
     }, {
-      "content" : "Kommunikationens innehåll",
-      "type" : "HEADING"
+      "heading" : "Kommunikationens innehåll",
+      "lines" : [ "Ämnesområden som är välbekanta för eleverna. Ämnesområden med anknytning till elevernas utbildning samt samhälls- och arbetsliv.", "Levnadsvillkor, traditioner, samhällsfrågor samt kulturella, historiska, och sociala förhållanden i olika sammanhang och delar av världen där engelska används." ]
     }, {
-      "content" : "Ämnesområden som är välbekanta för eleverna. Ämnesområden med anknytning till elevernas utbildning samt samhälls- och arbetsliv.",
-      "type" : "BULLET"
+      "heading" : "Reception",
+      "lines" : [ "Tydligt talat språk, även med viss social och dialektal färgning. Texter som är instruerande, beskrivande, berättande, diskuterande och kontaktskapande. Språk och texter via film och andra medier.", "Sammanhängande talat språk och samtal av olika slag, till exempel dialoger, intervjuer och reportage.", "Skönlitteratur, sånger, dikter och annan fiktion i skriven, talad och dramatiserad form.", "Texter av olika slag och med olika syften, till exempel nyheter och reportage.", "Hur texter och talat språk kan varieras för olika syften och sammanhang." ]
     }, {
-      "content" : "Levnadsvillkor, traditioner, samhällsfrågor samt kulturella, historiska, och sociala förhållanden i olika sammanhang och delar av världen där engelska används.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Reception",
-      "type" : "HEADING"
-    }, {
-      "content" : "Tydligt talat språk, även med viss social och dialektal färgning. Texter som är instruerande, beskrivande, berättande, diskuterande och kontaktskapande. Språk och texter via film och andra medier.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Sammanhängande talat språk och samtal av olika slag, till exempel dialoger, intervjuer och reportage.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Skönlitteratur, sånger, dikter och annan fiktion i skriven, talad och dramatiserad form.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Texter av olika slag och med olika syften, till exempel nyheter och reportage.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Hur texter och talat språk kan varieras för olika syften och sammanhang.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Produktion och interaktion",
-      "type" : "HEADING"
-    }, {
-      "content" : "Muntlig och skriftlig framställning inom valt fördjupningsområde.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Bearbetning av egna och andras muntliga och skriftliga framställningar för att variera, tydliggöra och precisera.",
-      "type" : "BULLET"
+      "heading" : "Produktion och interaktion",
+      "lines" : [ "Muntlig och skriftlig framställning inom valt fördjupningsområde.", "Bearbetning av egna och andras muntliga och skriftliga framställningar för att variera, tydliggöra och precisera." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven förstår <strong>________</strong> i talad engelska i lugnt tempo samt i enkla texter om kända ämnen.",

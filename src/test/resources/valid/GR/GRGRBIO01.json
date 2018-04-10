@@ -4,115 +4,54 @@
   "code" : "GRGRBIO01",
   "skolfsId" : "0000:00",
   "purposes" : [ {
-    "content" : "Undervisningen i ämnet biologi ska syfta till att eleverna utvecklar kunskaper om biologiska sammanhang och nyfikenhet på och intresse för att veta mer om sig själva och naturen. Genom undervisningen ska eleverna ges möjlighet att ställa frågor om naturen och människan utifrån egna upplevelser och aktuella händelser. Vidare ska undervisningen ge eleverna förutsättningar att söka svar på frågor med hjälp av både systematiska undersökningar och olika typer av källor. På så sätt ska undervisningen bidra till att eleverna utvecklar ett kritiskt tänkande kring sina egna resultat, andras argument och olika informationskällor. Genom undervisningen ska eleverna också utveckla förståelse för att påståenden kan prövas och värderas med hjälp av naturvetenskapliga arbetsmetoder.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet biologi ska syfta till att eleverna utvecklar kunskaper om biologiska sammanhang och nyfikenhet på och intresse för att veta mer om sig själva och naturen.", " Genom undervisningen ska eleverna ges möjlighet att ställa frågor om naturen och människan utifrån egna upplevelser och aktuella händelser.", " Vidare ska undervisningen ge eleverna förutsättningar att söka svar på frågor med hjälp av både systematiska undersökningar och olika typer av källor.", " På så sätt ska undervisningen bidra till att eleverna utvecklar ett kritiskt tänkande kring sina egna resultat, andras argument och olika informationskällor.", " Genom undervisningen ska eleverna också utveckla förståelse för att påståenden kan prövas och värderas med hjälp av naturvetenskapliga arbetsmetoder.", "" ]
   }, {
-    "content" : "Undervisningen ska ge eleverna möjlighet att använda och utveckla kunskaper och redskap för att formulera egna och granska andras argument i sammanhang där kunskaper i biologi har betydelse. Därigenom ska eleverna ges förutsättningar att hantera praktiska, etiska och estetiska valsituationer som rör hälsa, naturbruk och ekologisk hållbarhet.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att använda och utveckla kunskaper och redskap för att formulera egna och granska andras argument i sammanhang där kunskaper i biologi har betydelse.", " Därigenom ska eleverna ges förutsättningar att hantera praktiska, etiska och estetiska valsituationer som rör hälsa, naturbruk och ekologisk hållbarhet.", "" ]
   }, {
-    "content" : "Undervisningen ska även bidra till att eleverna utvecklar förtrogenhet med biologins begrepp, modeller och teorier samt förståelse för hur dessa utvecklas i samspel med erfarenheter från undersökningar av naturen och människan. Vidare ska undervisningen bidra till att eleverna utvecklar förmågan att samtala om, tolka och framställa texter och olika estetiska uttryck med naturvetenskapligt innehåll.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska även bidra till att eleverna utvecklar förtrogenhet med biologins begrepp, modeller och teorier samt förståelse för hur dessa utvecklas i samspel med erfarenheter från undersökningar av naturen och människan.", " Vidare ska undervisningen bidra till att eleverna utvecklar förmågan att samtala om, tolka och framställa texter och olika estetiska uttryck med naturvetenskapligt innehåll.", "" ]
   }, {
-    "content" : "Undervisningen ska skapa förutsättningar för eleverna att kunna skilja mellan naturvetenskapliga och andra sätt att skildra omvärlden. Genom undervisningen ska eleverna få inblick i naturvetenskapens världsbild med evolutionsteorin som grund samt få perspektiv på hur den har utvecklats och vilken kulturell påverkan den har haft.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska skapa förutsättningar för eleverna att kunna skilja mellan naturvetenskapliga och andra sätt att skildra omvärlden.", " Genom undervisningen ska eleverna få inblick i naturvetenskapens världsbild med evolutionsteorin som grund samt få perspektiv på hur den har utvecklats och vilken kulturell påverkan den har haft.", "" ]
   }, {
-    "content" : "Genom undervisningen i ämnet biologi ska eleverna sammanfattningsvis ges förutsättningar att utveckla sin förmåga att",
-    "type" : "SECTION"
-  }, {
-    "content" : "använda kunskaper i biologi för att granska information, kommunicera och ta ställning i frågor som rör hälsa, naturbruk och ekologisk hållbarhet,",
-    "type" : "BULLET"
-  }, {
-    "content" : "genomföra systematiska undersökningar i biologi, och",
-    "type" : "BULLET"
-  }, {
-    "content" : "använda biologins begrepp, modeller och teorier för att beskriva och förklara biologiska samband i människokroppen, naturen och samhället.",
-    "type" : "BULLET"
+    "type" : "BULLET",
+    "heading" : "Genom undervisningen i ämnet biologi ska eleverna sammanfattningsvis ges förutsättningar att utveckla sin förmåga att",
+    "lines" : [ "använda kunskaper i biologi för att granska information, kommunicera och ta ställning i frågor som rör hälsa, naturbruk och ekologisk hållbarhet,", "genomföra systematiska undersökningar i biologi, och", "använda biologins begrepp, modeller och teorier för att beskriva och förklara biologiska samband i människokroppen, naturen och samhället." ]
   } ],
   "courses" : [ {
     "name" : "Årskurs 1-3",
     "description" : "",
     "code" : "GRGRBIO01_1-3",
     "centralContent" : [ {
-      "content" : "Undervisningen i de naturorienterande ämnena ska behandla följande centrala innehåll",
-      "type" : "HEADING"
+      "heading" : "Undervisningen i de naturorienterande ämnena ska behandla följande centrala innehåll",
+      "lines" : [ ]
     }, {
-      "content" : "I årskurs 1-3",
-      "type" : "HEADING"
+      "heading" : "I årskurs 1-3",
+      "lines" : [ ]
     }, {
-      "content" : "Året runt i naturen",
-      "type" : "HEADING"
+      "heading" : "Året runt i naturen",
+      "lines" : [ "Jordens, solens och månens rörelser i förhållande till varandra. Månens olika faser. Stjärnbilder och stjärnhimlens utseende vid olika tider på året.", "Årstidsväxlingar i naturen och hur man känner igen årstider. Djurs och växters livscykler och anpassningar till olika årstider.", "Djur och växter i närmiljön och hur de kan sorteras, grupperas och artbestämmas samt namn på några vanligt förekommande arter.", "Enkla näringskedjor som beskriver samband mellan organismer i ekosystem." ]
     }, {
-      "content" : "Jordens, solens och månens rörelser i förhållande till varandra. Månens olika faser. Stjärnbilder och stjärnhimlens utseende vid olika tider på året.",
-      "type" : "BULLET"
+      "heading" : "Kropp och hälsa",
+      "lines" : [ "Betydelsen av mat, sömn, hygien, motion och sociala relationer för att må bra.", "Människans kroppsdelar, deras namn och funktion.", "Människans upplevelser av ljus, ljud, temperatur, smak och doft med hjälp av olika sinnen." ]
     }, {
-      "content" : "Årstidsväxlingar i naturen och hur man känner igen årstider. Djurs och växters livscykler och anpassningar till olika årstider.",
-      "type" : "BULLET"
+      "heading" : "Kraft och rörelse",
+      "lines" : [ "Tyngdkraft och friktion som kan observeras vid lek och rörelse, till exempel i gungor och rutschbanor.", "Balans, tyngdpunkt och jämvikt som kan observeras i lek och rörelse, till exempel vid balansgång och på gungbrädor." ]
     }, {
-      "content" : "Djur och växter i närmiljön och hur de kan sorteras, grupperas och artbestämmas samt namn på några vanligt förekommande arter.",
-      "type" : "BULLET"
+      "heading" : "Material och ämnen i vår omgivning",
+      "lines" : [ "Materials egenskaper och hur material och föremål kan sorteras efter egenskaperna utseende, magnetism, ledningsförmåga och om de flyter eller sjunker i vatten.", "Människors användning och utveckling av olika material genom historien. Vilka material olika vardagliga föremål är tillverkade av och hur de kan källsorteras.", "Vattnets olika former: fast, flytande och gas. Övergångar mellan formerna: avdunstning, kokning, kondensering, smältning och stelning.", "Luftens grundläggande egenskaper och hur de kan observeras.", "Enkla lösningar och blandningar och hur man kan dela upp dem i deras olika beståndsdelar, till exempel genom avdunstning och filtrering." ]
     }, {
-      "content" : "Enkla näringskedjor som beskriver samband mellan organismer i ekosystem.",
-      "type" : "BULLET"
+      "heading" : "Berättelser om natur och naturvetenskap",
+      "lines" : [ "Skönlitteratur, myter och konst som handlar om naturen och människan.", "Berättelser om äldre tiders naturvetenskap och om olika kulturers strävan att förstå och förklara fenomen i naturen." ]
     }, {
-      "content" : "Kropp och hälsa",
-      "type" : "HEADING"
-    }, {
-      "content" : "Betydelsen av mat, sömn, hygien, motion och sociala relationer för att må bra.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Människans kroppsdelar, deras namn och funktion.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Människans upplevelser av ljus, ljud, temperatur, smak och doft med hjälp av olika sinnen.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Kraft och rörelse",
-      "type" : "HEADING"
-    }, {
-      "content" : "Tyngdkraft och friktion som kan observeras vid lek och rörelse, till exempel i gungor och rutschbanor.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Balans, tyngdpunkt och jämvikt som kan observeras i lek och rörelse, till exempel vid balansgång och på gungbrädor.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Material och ämnen i vår omgivning",
-      "type" : "HEADING"
-    }, {
-      "content" : "Materials egenskaper och hur material och föremål kan sorteras efter egenskaperna utseende, magnetism, ledningsförmåga och om de flyter eller sjunker i vatten.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Människors användning och utveckling av olika material genom historien. Vilka material olika vardagliga föremål är tillverkade av och hur de kan källsorteras.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Vattnets olika former: fast, flytande och gas. Övergångar mellan formerna: avdunstning, kokning, kondensering, smältning och stelning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Luftens grundläggande egenskaper och hur de kan observeras.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Enkla lösningar och blandningar och hur man kan dela upp dem i deras olika beståndsdelar, till exempel genom avdunstning och filtrering.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Berättelser om natur och naturvetenskap",
-      "type" : "HEADING"
-    }, {
-      "content" : "Skönlitteratur, myter och konst som handlar om naturen och människan.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Berättelser om äldre tiders naturvetenskap och om olika kulturers strävan att förstå och förklara fenomen i naturen.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Metoder och arbetssätt",
-      "type" : "HEADING"
-    }, {
-      "content" : "Enkla fältstudier och observationer i närmiljön.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Enkla naturvetenskapliga undersökningar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Dokumentation av naturvetenskapliga undersökningar med text, bild och andra uttrycksformer.",
-      "type" : "BULLET"
+      "heading" : "Metoder och arbetssätt",
+      "lines" : [ "Enkla fältstudier och observationer i närmiljön.", "Enkla naturvetenskapliga undersökningar.", "Dokumentation av naturvetenskapliga undersökningar med text, bild och andra uttrycksformer." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven kan samtala om och diskutera frågor som rör hälsa, naturbruk och ekologisk hållbarhet och skiljer då fakta från värderingar och formulerar ställningstaganden med <strong>________</strong> motiveringar samt beskriver några tänkbara konsekvenser.",
@@ -251,65 +190,23 @@
     "description" : "",
     "code" : "GRGRBIO01_4-6",
     "centralContent" : [ {
-      "content" : "Undervisningen i biologi ska behandla följande centrala innehåll",
-      "type" : "HEADING"
+      "heading" : "Undervisningen i biologi ska behandla följande centrala innehåll",
+      "lines" : [ ]
     }, {
-      "content" : "I årskurs 4-6",
-      "type" : "HEADING"
+      "heading" : "I årskurs 4-6",
+      "lines" : [ ]
     }, {
-      "content" : "Natur och samhälle",
-      "type" : "HEADING"
+      "heading" : "Natur och samhälle",
+      "lines" : [ "Människans beroende av och påverkan på naturen och vad detta innebär för en hållbar utveckling. Ekosystemtjänster, till exempel nedbrytning, pollinering och rening av vatten och luft.", "Djurs, växters och andra organismers liv. Fotosyntes, förbränning och ekologiska samband och vilken betydelse kunskaper om detta har, till exempel för jordbruk och fiske.", "Ekosystem i närmiljön, samband mellan olika organismer och namn på vanligt förekommande arter. Samband mellan organismer och den icke levande miljön.", "Naturen som resurs för rekreation och upplevelser och vilket ansvar vi har när vi nyttjar den." ]
     }, {
-      "content" : "Människans beroende av och påverkan på naturen och vad detta innebär för en hållbar utveckling. Ekosystemtjänster, till exempel nedbrytning, pollinering och rening av vatten och luft.",
-      "type" : "BULLET"
+      "heading" : "Kropp och hälsa",
+      "lines" : [ "Hur den psykiska och fysiska hälsan påverkas av sömn, kost, motion, sociala relationer och beroendeframkallande medel. Några vanliga sjukdomar och hur de kan förebyggas och behandlas.", "Människans organsystem. Organens namn, utseende, placering, funktion och samverkan.", "Människans pubertet, sexualitet och reproduktion samt frågor om identitet, jämställdhet, relationer, kärlek och ansvar." ]
     }, {
-      "content" : "Djurs, växters och andra organismers liv. Fotosyntes, förbränning och ekologiska samband och vilken betydelse kunskaper om detta har, till exempel för jordbruk och fiske.",
-      "type" : "BULLET"
+      "heading" : "Biologin och världsbilden",
+      "lines" : [ "Några historiska och nutida upptäckter inom biologiområdet och deras betydelse för människans levnadsvillkor och syn på naturen.", "Olika kulturers beskrivningar och förklaringar av naturen i skönlitteratur, myter och konst och äldre tiders naturvetenskap.", "Livets utveckling och organismers anpassningar till olika livsmiljöer." ]
     }, {
-      "content" : "Ekosystem i närmiljön, samband mellan olika organismer och namn på vanligt förekommande arter. Samband mellan organismer och den icke levande miljön.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Naturen som resurs för rekreation och upplevelser och vilket ansvar vi har när vi nyttjar den.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Kropp och hälsa",
-      "type" : "HEADING"
-    }, {
-      "content" : "Hur den psykiska och fysiska hälsan påverkas av sömn, kost, motion, sociala relationer och beroendeframkallande medel. Några vanliga sjukdomar och hur de kan förebyggas och behandlas.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Människans organsystem. Organens namn, utseende, placering, funktion och samverkan.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Människans pubertet, sexualitet och reproduktion samt frågor om identitet, jämställdhet, relationer, kärlek och ansvar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Biologin och världsbilden",
-      "type" : "HEADING"
-    }, {
-      "content" : "Några historiska och nutida upptäckter inom biologiområdet och deras betydelse för människans levnadsvillkor och syn på naturen.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Olika kulturers beskrivningar och förklaringar av naturen i skönlitteratur, myter och konst och äldre tiders naturvetenskap.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Livets utveckling och organismers anpassningar till olika livsmiljöer.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Biologins metoder och arbetssätt",
-      "type" : "HEADING"
-    }, {
-      "content" : "Enkla fältstudier och experiment. Planering, utförande och utvärdering.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Hur djur, växter och andra organismer kan identifieras, sorteras och grupperas.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Dokumentation av enkla undersökningar med tabeller, bilder och enkla skriftliga rapporter.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Tolkning och granskning av information med koppling till biologi, till exempel i faktatexter och tidningsartiklar.",
-      "type" : "BULLET"
+      "heading" : "Biologins metoder och arbetssätt",
+      "lines" : [ "Enkla fältstudier och experiment. Planering, utförande och utvärdering.", "Hur djur, växter och andra organismer kan identifieras, sorteras och grupperas.", "Dokumentation av enkla undersökningar med tabeller, bilder och enkla skriftliga rapporter.", "Tolkning och granskning av information med koppling till biologi, till exempel i faktatexter och tidningsartiklar." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven kan samtala om och diskutera frågor som rör hälsa, naturbruk och ekologisk hållbarhet och skiljer då fakta från värderingar och formulerar ställningstaganden med <strong>________</strong> motiveringar samt beskriver några tänkbara konsekvenser.",
@@ -448,74 +345,20 @@
     "description" : "",
     "code" : "GRGRBIO01_7-9",
     "centralContent" : [ {
-      "content" : "I årskurs 7-9",
-      "type" : "HEADING"
+      "heading" : "I årskurs 7-9",
+      "lines" : [ ]
     }, {
-      "content" : "Natur och samhälle",
-      "type" : "HEADING"
+      "heading" : "Natur och samhälle",
+      "lines" : [ "Människans påverkan på naturen lokalt och globalt. Möjligheter att som konsument och samhällsmedborgare bidra till en hållbar utveckling.", "Ekosystems energiflöde och kretslopp av materia. Fotosyntes, förbränning och andra ekosystemtjänster.", "Biologisk mångfald och vad som gynnar respektive hotar den. Samhällsdiskussioner om biologisk mångfald, till exempel i samband med skogsbruk och jakt.", "Lokala ekosystem och hur de kan undersökas utifrån ekologiska frågeställningar. Sambanden mellan populationer och tillgängliga resurser i ekosystem. De lokala ekosystemen i jämförelse med regionala eller globala ekosystem.", "Aktuella samhällsfrågor som rör biologi." ]
     }, {
-      "content" : "Människans påverkan på naturen lokalt och globalt. Möjligheter att som konsument och samhällsmedborgare bidra till en hållbar utveckling.",
-      "type" : "BULLET"
+      "heading" : "Kropp och hälsa",
+      "lines" : [ "Hur den fysiska och psykiska hälsan påverkas av sömn, kost, motion, sociala relationer och beroendeframkallande medel. Vanligt förekommande sjukdomar och hur de kan förebyggas och behandlas. Virus, bakterier, infektioner och smittspridning. Antibiotika och resistenta bakterier.", "Kroppens celler, organ och organsystem och deras uppbyggnad, funktion och samverkan. Evolutionära jämförelser mellan människan och andra organismer.", "Människans sexualitet och reproduktion samt frågor om identitet, jämställdhet, relationer, kärlek och ansvar. Metoder för att förebygga sexuellt överförbara sjukdomar och oönskade graviditeter på individnivå, på global nivå och i ett historiskt perspektiv.", "Evolutionens mekanismer och uttryck, samt ärftlighet och förhållandet mellan arv och miljö. Genteknikens möjligheter och risker och etiska frågor som tekniken väcker." ]
     }, {
-      "content" : "Ekosystems energiflöde och kretslopp av materia. Fotosyntes, förbränning och andra ekosystemtjänster.",
-      "type" : "BULLET"
+      "heading" : "Biologin och världsbilden",
+      "lines" : [ "Historiska och nutida upptäckter inom biologiområdet och deras betydelse för samhället, människors levnadsvillkor samt synen på naturen och naturvetenskapen.", "Aktuella forskningsområden inom biologi, till exempel bioteknik.", "Naturvetenskapliga teorier om livets uppkomst. Livets utveckling och mångfald utifrån evolutionsteorin.", "De biologiska modellernas och teoriernas användbarhet, begränsningar, giltighet och föränderlighet." ]
     }, {
-      "content" : "Biologisk mångfald och vad som gynnar respektive hotar den. Samhällsdiskussioner om biologisk mångfald, till exempel i samband med skogsbruk och jakt.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Lokala ekosystem och hur de kan undersökas utifrån ekologiska frågeställningar. Sambanden mellan populationer och tillgängliga resurser i ekosystem. De lokala ekosystemen i jämförelse med regionala eller globala ekosystem.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Aktuella samhällsfrågor som rör biologi.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Kropp och hälsa",
-      "type" : "HEADING"
-    }, {
-      "content" : "Hur den fysiska och psykiska hälsan påverkas av sömn, kost, motion, sociala relationer och beroendeframkallande medel. Vanligt förekommande sjukdomar och hur de kan förebyggas och behandlas. Virus, bakterier, infektioner och smittspridning. Antibiotika och resistenta bakterier.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Kroppens celler, organ och organsystem och deras uppbyggnad, funktion och samverkan. Evolutionära jämförelser mellan människan och andra organismer.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Människans sexualitet och reproduktion samt frågor om identitet, jämställdhet, relationer, kärlek och ansvar. Metoder för att förebygga sexuellt överförbara sjukdomar och oönskade graviditeter på individnivå, på global nivå och i ett historiskt perspektiv.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Evolutionens mekanismer och uttryck, samt ärftlighet och förhållandet mellan arv och miljö. Genteknikens möjligheter och risker och etiska frågor som tekniken väcker.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Biologin och världsbilden",
-      "type" : "HEADING"
-    }, {
-      "content" : "Historiska och nutida upptäckter inom biologiområdet och deras betydelse för samhället, människors levnadsvillkor samt synen på naturen och naturvetenskapen.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Aktuella forskningsområden inom biologi, till exempel bioteknik.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Naturvetenskapliga teorier om livets uppkomst. Livets utveckling och mångfald utifrån evolutionsteorin.",
-      "type" : "BULLET"
-    }, {
-      "content" : "De biologiska modellernas och teoriernas användbarhet, begränsningar, giltighet och föränderlighet.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Biologins metoder och arbetssätt",
-      "type" : "HEADING"
-    }, {
-      "content" : "Fältstudier och experiment. Formulering av enkla frågeställningar, planering, utförande och utvärdering.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Hur organismer identifieras, sorteras och grupperas utifrån släktskap och utveckling.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Sambandet mellan biologiska undersökningar och utvecklingen av begrepp, modeller och teorier.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Dokumentation av undersökningar med tabeller, diagram, bilder och skriftliga rapporter.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Källkritisk granskning av information och argument som eleven möter i olika källor och samhällsdiskussioner med koppling till biologi.",
-      "type" : "BULLET"
+      "heading" : "Biologins metoder och arbetssätt",
+      "lines" : [ "Fältstudier och experiment. Formulering av enkla frågeställningar, planering, utförande och utvärdering.", "Hur organismer identifieras, sorteras och grupperas utifrån släktskap och utveckling.", "Sambandet mellan biologiska undersökningar och utvecklingen av begrepp, modeller och teorier.", "Dokumentation av undersökningar med tabeller, diagram, bilder och skriftliga rapporter.", "Källkritisk granskning av information och argument som eleven möter i olika källor och samhällsdiskussioner med koppling till biologi." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven kan samtala om och diskutera frågor som rör hälsa, naturbruk och ekologisk hållbarhet och skiljer då fakta från värderingar och formulerar ställningstaganden med <strong>________</strong> motiveringar samt beskriver några tänkbara konsekvenser.",
