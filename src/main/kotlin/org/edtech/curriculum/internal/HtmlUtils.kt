@@ -104,6 +104,7 @@ internal fun removeBoldWords(htmlText: String): String {
             .replace(Regex("<strong> [^>]*</strong>"), " ")
             .replace(Regex("<strong>[^>]* </strong>"), " ")
             .replace(Regex("<strong>[^>]*</strong>"), "")
+            .replace(Regex("[ ][ ]+"),  " ")
 }
 
 /**
