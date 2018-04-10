@@ -4,79 +4,25 @@
   "code" : "TRV",
   "skolfsId" : "0000:00",
   "purposes" : [ {
-    "content" : "Undervisningen i ämnet travkunskap ska syfta till att eleverna utvecklar färdigheter i körning av travhästar. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att utrusta och köra travhästar med hästarnas välbefinnande i centrum. Undervisningen ska leda till att eleverna utvecklar förmåga att samspela med hästar. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om sambandet mellan ändamålsenlig utrustning, träning och hästars hälsa. Undervisningen ska också bidra till att eleverna utvecklar kunskaper om hästars mentala och kroppsliga utbildning.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet travkunskap ska syfta till att eleverna utvecklar färdigheter i körning av travhästar.", "Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att utrusta och köra travhästar med hästarnas välbefinnande i centrum.", "Undervisningen ska leda till att eleverna utvecklar förmåga att samspela med hästar.", "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om sambandet mellan ändamålsenlig utrustning, träning och hästars hälsa.", "Undervisningen ska också bidra till att eleverna utvecklar kunskaper om hästars mentala och kroppsliga utbildning." ]
   }, {
-    "content" : "Genom körövningar ska eleverna ges möjlighet att utveckla förmåga att köra travhästar samt att tyda hästars reaktioner. Genom observationer ska eleverna ges möjlighet att utveckla kunskaper om hästars rörelse.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom körövningar ska eleverna ges möjlighet att utveckla förmåga att köra travhästar samt att tyda hästars reaktioner.", "Genom observationer ska eleverna ges möjlighet att utveckla kunskaper om hästars rörelse." ]
   }, {
-    "content" : "Undervisningen i ämnet travkunskap ska ge eleverna förutsättningar att utveckla följande:",
-    "type" : "HEADING"
-  }, {
-    "content" : "Kunskaper om körlära samt om hästars olika gångarter.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Kunskaper om faktorer som påverkar hästars prestation och hållbarhet samt förmåga att tolka hästars reaktion på träning och bedöma dessa faktorer.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Förmåga att bedöma hästars allmäntillstånd samt kunskaper om träningsrelaterade skador och sjukdomar.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Kunskaper om hästars utbildning.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Förmåga att visitera, utrusta och hantera hästar för olika typer av arbete.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Förmåga att köra hästar under kontroll och i ett bestämt tempo.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Förmåga att sköta och vårda utrustning.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Förmåga att arbeta säkert och ergonomiskt.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Kunskaper om lagar och andra bestämmelser som rör arbete med hästar.",
-    "type" : "BULLET"
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet travkunskap ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om körlära samt om hästars olika gångarter.", "Kunskaper om faktorer som påverkar hästars prestation och hållbarhet samt förmåga att tolka hästars reaktion på träning och bedöma dessa faktorer.", "Förmåga att bedöma hästars allmäntillstånd samt kunskaper om träningsrelaterade skador och sjukdomar.", "Kunskaper om hästars utbildning.", "Förmåga att visitera, utrusta och hantera hästar för olika typer av arbete.", "Förmåga att köra hästar under kontroll och i ett bestämt tempo.", "Förmåga att sköta och vårda utrustning.", "Förmåga att arbeta säkert och ergonomiskt.", "Kunskaper om lagar och andra bestämmelser som rör arbete med hästar." ]
   } ],
   "courses" : [ {
     "name" : "Trav 1",
     "description" : "Kursen trav 1 omfattar punkterna 1–9 under rubriken Ämnets syfte, med särskild betoning på kunskaper om hästars olika gångarter samt punkterna 2 och 6.",
     "code" : "TRVTRA01",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
-    }, {
-      "content" : "Hästars gångarter och rörelsemekanik.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Bedömning av hästars hälsa och kondition i samband med olika typer av arbete.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Motionsträning och grundläggande intervallträning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Körning av skolade travhästar efter hästarnas individuella förutsättningar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Selning och anpassning av utrustning för travhästar för olika typer av arbete.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Skötsel och vård av utrustning, vagnar och redskap.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Ergonomi, arbetsmiljö och säkerhet i samband med arbete med hästar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Lagar och andra bestämmelser som rör arbete med hästar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Bestämmelser om körning på väg samt i skog och mark.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Travsportens organisation och regler.",
-      "type" : "BULLET"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Hästars gångarter och rörelsemekanik.", "Bedömning av hästars hälsa och kondition i samband med olika typer av arbete.", "Motionsträning och grundläggande intervallträning.", "Körning av skolade travhästar efter hästarnas individuella förutsättningar.", "Selning och anpassning av utrustning för travhästar för olika typer av arbete.", "Skötsel och vård av utrustning, vagnar och redskap.", "Ergonomi, arbetsmiljö och säkerhet i samband med arbete med hästar.", "Lagar och andra bestämmelser som rör arbete med hästar.", "Bestämmelser om körning på väg samt i skog och mark.", "Travsportens organisation och regler." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven redogör <strong>________</strong> för hästars olika gångarter och rörelsemekanik.",
@@ -151,26 +97,44 @@
         "A" : "Elevens körning är <strong>god</strong>."
       }
     }, {
-      "text" : "I körningen tolkar eleven <strong>________</strong> hästens reaktioner på arbetet. Dessutom tar eleven hänsyn till de faktorer som påverkar hästens prestation och hållbarhet.",
+      "text" : "I körningen tolkar eleven <strong>________</strong> hästens reaktioner på arbetet.",
       "no" : 4,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
-        "E" : "I körningen tolkar eleven <strong>med viss säkerhet </strong>hästens reaktioner på arbetet. Dessutom tar eleven hänsyn till de faktorer som påverkar hästens prestation och hållbarhet.",
-        "C" : "I körningen tolkar eleven <strong>med viss säkerhet </strong>hästens reaktioner på arbetet. Dessutom tar eleven hänsyn till de faktorer som påverkar hästens prestation och hållbarhet.",
-        "A" : "I körningen tolkar eleven <strong>med säkerhet </strong>hästens reaktioner på arbetet. Dessutom tar eleven hänsyn till de faktorer som påverkar hästens prestation och hållbarhet."
+        "E" : "I körningen tolkar eleven <strong>med viss säkerhet </strong>hästens reaktioner på arbetet.",
+        "C" : "I körningen tolkar eleven <strong>med viss säkerhet </strong>hästens reaktioner på arbetet.",
+        "A" : "I körningen tolkar eleven <strong>med säkerhet </strong>hästens reaktioner på arbetet."
       }
     }, {
-      "text" : "Eleven sköter och vårdar <strong>________</strong> med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med körning av travhästar.",
+      "text" : "Dessutom tar eleven hänsyn till de faktorer som påverkar hästens prestation och hållbarhet.",
       "no" : 5,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
-        "E" : "Eleven sköter och vårdar <strong>i samråd </strong>med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med körning av travhästar.",
-        "C" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med körning av travhästar.",
-        "A" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med körning av travhästar."
+        "E" : "Dessutom tar eleven hänsyn till de faktorer som påverkar hästens prestation och hållbarhet.",
+        "C" : "Dessutom tar eleven hänsyn till de faktorer som påverkar hästens prestation och hållbarhet.",
+        "A" : "Dessutom tar eleven hänsyn till de faktorer som påverkar hästens prestation och hållbarhet."
+      }
+    }, {
+      "text" : "Eleven sköter och vårdar <strong>________</strong> med handledare aktuell utrustning.",
+      "no" : 6,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven sköter och vårdar <strong>i samråd </strong>med handledare aktuell utrustning.",
+        "C" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning.",
+        "A" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning."
+      }
+    }, {
+      "text" : "Eleven arbetar säkert och ergonomiskt i samband med körning av travhästar.",
+      "no" : 7,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven arbetar säkert och ergonomiskt i samband med körning av travhästar.",
+        "C" : "Eleven arbetar säkert och ergonomiskt i samband med körning av travhästar.",
+        "A" : "Eleven arbetar säkert och ergonomiskt i samband med körning av travhästar."
       }
     }, {
       "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
-      "no" : 6,
+      "no" : 8,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
         "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
@@ -194,56 +158,8 @@
     "description" : "Kursen trav 2 omfattar punkterna 1–9 under rubriken Ämnets syfte.",
     "code" : "TRVTRA02",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
-    }, {
-      "content" : "Travhästars rörelsemekanik och avvikelser från normalt rörelsemönster.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Travhästars hälsa och kondition.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Träningsrelaterade skador på travhästar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Träningsmetoder och träningsprogram för olika typer av travhästar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Träning av travhästar för tävling.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Utbildningsgång för travhästar i olika åldrar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Hantering av travhästar i samband med träning och tävling.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Körning i grupp och individuellt.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Tempobedömning och tidtagarövningar på rak- och rundbana.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Tempokörning med pulsmätning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Utrustning samt balansering och balanseringens inverkan på travhästar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Ergonomi, arbetsmiljö och säkerhet i samband med arbete med travhästar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Lagar och andra bestämmelser som rör arbete med travhästar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Bestämmelser om körning på väg samt i skog och mark.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Etik i samband med träning och tävling.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Travsportens regler.",
-      "type" : "BULLET"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Travhästars rörelsemekanik och avvikelser från normalt rörelsemönster.", "Travhästars hälsa och kondition.", "Träningsrelaterade skador på travhästar.", "Träningsmetoder och träningsprogram för olika typer av travhästar.", "Träning av travhästar för tävling.", "Utbildningsgång för travhästar i olika åldrar.", "Hantering av travhästar i samband med träning och tävling.", "Körning i grupp och individuellt.", "Tempobedömning och tidtagarövningar på rak- och rundbana.", "Tempokörning med pulsmätning.", "Utrustning samt balansering och balanseringens inverkan på travhästar.", "Ergonomi, arbetsmiljö och säkerhet i samband med arbete med travhästar.", "Lagar och andra bestämmelser som rör arbete med travhästar.", "Bestämmelser om körning på väg samt i skog och mark.", "Etik i samband med träning och tävling.", "Travsportens regler." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven redogör <strong>________</strong> för travhästars rörelsemekanik och eventuella avvikelser från normalt rörelsemönster.",
@@ -336,17 +252,26 @@
         "A" : "Eleven genomför <strong>efter samråd </strong>med handledare tömkörning av skolade travhästar."
       }
     }, {
-      "text" : "Eleven sköter och vårdar <strong>________</strong> med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt med hästarna och utrustningen.",
+      "text" : "Eleven sköter och vårdar <strong>________</strong> med handledare aktuell utrustning.",
       "no" : 6,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
-        "E" : "Eleven sköter och vårdar <strong>i samråd </strong>med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt med hästarna och utrustningen.",
-        "C" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt med hästarna och utrustningen.",
-        "A" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt med hästarna och utrustningen."
+        "E" : "Eleven sköter och vårdar <strong>i samråd </strong>med handledare aktuell utrustning.",
+        "C" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning.",
+        "A" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning."
+      }
+    }, {
+      "text" : "Eleven arbetar säkert och ergonomiskt med hästarna och utrustningen.",
+      "no" : 7,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven arbetar säkert och ergonomiskt med hästarna och utrustningen.",
+        "C" : "Eleven arbetar säkert och ergonomiskt med hästarna och utrustningen.",
+        "A" : "Eleven arbetar säkert och ergonomiskt med hästarna och utrustningen."
       }
     }, {
       "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
-      "no" : 7,
+      "no" : 8,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
         "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",

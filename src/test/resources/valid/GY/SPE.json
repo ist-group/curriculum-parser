@@ -4,89 +4,51 @@
   "code" : "SPE",
   "skolfsId" : "0000:00",
   "purposes" : [ {
-    "content" : "Undervisningen i ämnet specialidrott ska syfta till att eleverna utvecklar den idrottsliga förmågan samt ett etiskt förhållningssätt till idrott och det egna idrottsutövandet. Den ska ge eleverna möjlighet att utveckla kunskaper om metoder och teorier för träning samt förmåga att planera, genomföra och utvärdera tränings- och tävlingsverksamhet. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om människokroppens byggnad och funktion samt om energigivande processer, kost, mentala aspekter och andra faktorer av betydelse för prestationsförmågan.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet specialidrott ska syfta till att eleverna utvecklar den idrottsliga förmågan samt ett etiskt förhållningssätt till idrott och det egna idrottsutövandet.", "Den ska ge eleverna möjlighet att utveckla kunskaper om metoder och teorier för träning samt förmåga att planera, genomföra och utvärdera tränings- och tävlingsverksamhet.", "Dessutom ska eleverna ges möjlighet att utveckla kunskaper om människokroppens byggnad och funktion samt om energigivande processer, kost, mentala aspekter och andra faktorer av betydelse för prestationsförmågan." ]
   }, {
-    "content" : "Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om idrottsrörelsens betydelse i samhället, dess framväxt, mål och omfattning nationellt och internationellt. Dessutom ska undervisningen bidra till att eleverna utvecklar förmåga till ledarskap i träningsverksamhet och i andra funktioner inom idrottsrörelsen.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om idrottsrörelsens betydelse i samhället, dess framväxt, mål och omfattning nationellt och internationellt.", "Dessutom ska undervisningen bidra till att eleverna utvecklar förmåga till ledarskap i träningsverksamhet och i andra funktioner inom idrottsrörelsen." ]
   }, {
-    "content" : "Eleverna ska genom att medverka i olika verksamheter få inblick i och erfarenhet av elitidrott och träningsutveckling samt av idrottsrörelsens roll i samhället och av ledarskap i olika idrottsliga sammanhang. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om människans beteende, som individ och som gruppmedlem, och om hur kroppsideal och andra värderingar baserade på kultur och kön framträder i miljöer som är kopplade till tränings- och tävlingsaktiviteter. Undervisningen ska motverka diskriminerande föreställningar och bidra till att olika fysiska förutsättningar respekteras.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Eleverna ska genom att medverka i olika verksamheter få inblick i och erfarenhet av elitidrott och träningsutveckling samt av idrottsrörelsens roll i samhället och av ledarskap i olika idrottsliga sammanhang.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om människans beteende, som individ och som gruppmedlem, och om hur kroppsideal och andra värderingar baserade på kultur och kön framträder i miljöer som är kopplade till tränings- och tävlingsaktiviteter.", "Undervisningen ska motverka diskriminerande föreställningar och bidra till att olika fysiska förutsättningar respekteras." ]
   }, {
-    "content" : "Undervisningen i ämnet specialidrott ska ge eleverna förutsättningar att utveckla följande:",
-    "type" : "HEADING"
-  }, {
-    "content" : "Förmåga att utöva vald idrott på elitnivå.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Kunskaper om hur den egna kroppen fungerar i tränings- och tävlingssammanhang utifrån idrottspsykologiska, idrottsfysiologiska och näringsfysiologiska teorier.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Kunskaper om ledarskap och idrottsrörelsens organisation.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Kunskaper om samt förmåga att använda och utvärdera träningsmetoder för att utveckla prestationsförmågan.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Kunskaper om idrotts- och träningsmiljöers betydelse för prestationsutveckling samt om hur skador och ohälsa förebyggs och behandlas.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Kunskaper om olika värderingar i tränings- och tävlingssammanhang samt förmåga att anpassa träning till etiska normer och regler för träning och idrottsliga aktiviteter.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Kunskaper om människors sätt att samverka och kommunicera i tränings- och tävlingssammanhang samt förmåga att leda, kommunicera, samarbeta och samverka.",
-    "type" : "BULLET"
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet specialidrott ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förmåga att utöva vald idrott på elitnivå.", "Kunskaper om hur den egna kroppen fungerar i tränings- och tävlingssammanhang utifrån idrottspsykologiska, idrottsfysiologiska och näringsfysiologiska teorier.", "Kunskaper om ledarskap och idrottsrörelsens organisation.", "Kunskaper om samt förmåga att använda och utvärdera träningsmetoder för att utveckla prestationsförmågan.", "Kunskaper om idrotts- och träningsmiljöers betydelse för prestationsutveckling samt om hur skador och ohälsa förebyggs och behandlas.", "Kunskaper om olika värderingar i tränings- och tävlingssammanhang samt förmåga att anpassa träning till etiska normer och regler för träning och idrottsliga aktiviteter.", "Kunskaper om människors sätt att samverka och kommunicera i tränings- och tävlingssammanhang samt förmåga att leda, kommunicera, samarbeta och samverka." ]
   } ],
   "courses" : [ {
     "name" : "Idrottsledarskap",
     "description" : "Kursen idrottsledarskap omfattar punkterna 3 och 5–7 under rubriken Ämnets syfte, med speciell betoning på punkt 7. I kursen behandlas grundläggande kunskaper i ämnet.",
     "code" : "SPEIDT0",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
-    }, {
-      "content" : "Funktionärskap och ledarskap inom idrotten.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Idrottsföreningars organisation och verksamhet.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Ledarskap och organisation utifrån olika teorier och modeller.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Ledarens påverkan på individerna, gruppen och det sociala sammanhanget samt individernas, gruppens och det sociala sammanhangets påverkan på ledaren.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Utvecklingsområden för idrottsledarskap inom barn- och ungdomsverksamhet.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Tränings- och tävlingsmiljöernas betydelse för prestationsutveckling.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Riskanalyser av tränings- och tävlingsmiljöer.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Värderingar kring ledarskap och idrottsverksamhet. Ledarskap ur ett genus- och jämställdhetsperspektiv.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Planering, genomförande, dokumentation och utvärdering av olika ledaraktiviteter.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Konflikthantering i tränings- och tävlingsmiljöer, till exemepel förhållningssätt till medspelare, motspelare och domare.",
-      "type" : "BULLET"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Funktionärskap och ledarskap inom idrotten.", "Idrottsföreningars organisation och verksamhet.", "Ledarskap och organisation utifrån olika teorier och modeller.", "Ledarens påverkan på individerna, gruppen och det sociala sammanhanget samt individernas, gruppens och det sociala sammanhangets påverkan på ledaren.", "Utvecklingsområden för idrottsledarskap inom barn- och ungdomsverksamhet.", "Tränings- och tävlingsmiljöernas betydelse för prestationsutveckling.", "Riskanalyser av tränings- och tävlingsmiljöer.", "Värderingar kring ledarskap och idrottsverksamhet. Ledarskap ur ett genus- och jämställdhetsperspektiv.", "Planering, genomförande, dokumentation och utvärdering av olika ledaraktiviteter.", "Konflikthantering i tränings- och tävlingsmiljöer, till exemepel förhållningssätt till medspelare, motspelare och domare." ]
     } ],
     "knowledgeRequirement" : [ {
-      "text" : "Eleven beskriver <strong>________</strong> ledarskapets villkor och förutsättningar samt organisationsformer inom vald idrott. Dessutom ger eleven exempel på vad som påverkar ledarskapet och organisationen.",
+      "text" : "Eleven beskriver <strong>________</strong> ledarskapets villkor och förutsättningar samt organisationsformer inom vald idrott.",
       "no" : 0,
       "paragraphNo" : 0,
       "knowledgeRequirementChoice" : {
-        "E" : "Eleven beskriver <strong>översiktligt</strong> ledarskapets villkor och förutsättningar samt organisationsformer inom vald idrott. Dessutom ger eleven exempel på vad som påverkar ledarskapet och organisationen.",
-        "C" : "Eleven beskriver <strong>utförligt</strong> ledarskapets villkor och förutsättningar samt organisationsformer inom vald idrott. Dessutom ger eleven exempel på vad som påverkar ledarskapet och organisationen.",
-        "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> ledarskapets villkor och förutsättningar samt organisationsformer inom vald idrott. Dessutom ger eleven exempel på vad som påverkar ledarskapet och organisationen."
+        "E" : "Eleven beskriver <strong>översiktligt</strong> ledarskapets villkor och förutsättningar samt organisationsformer inom vald idrott.",
+        "C" : "Eleven beskriver <strong>utförligt</strong> ledarskapets villkor och förutsättningar samt organisationsformer inom vald idrott.",
+        "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> ledarskapets villkor och förutsättningar samt organisationsformer inom vald idrott."
+      }
+    }, {
+      "text" : "Dessutom ger eleven exempel på vad som påverkar ledarskapet och organisationen.",
+      "no" : 1,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom ger eleven exempel på vad som påverkar ledarskapet och organisationen.",
+        "C" : "Dessutom ger eleven exempel på vad som påverkar ledarskapet och organisationen.",
+        "A" : "Dessutom ger eleven exempel på vad som påverkar ledarskapet och organisationen."
       }
     }, {
       "text" : "I beskrivningarna använder eleven <strong>________</strong> centrala begrepp och teorier samt förklarar <strong>________</strong> samband och drar <strong>________</strong> slutsatser.",
-      "no" : 1,
+      "no" : 2,
       "paragraphNo" : 0,
       "knowledgeRequirementChoice" : {
         "E" : "I beskrivningarna använder eleven <strong>med viss säkerhet </strong>centrala begrepp och teorier samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.",
@@ -191,38 +153,8 @@
     "description" : "Kursen idrottsspecialisering 1 omfattar punkterna 1–2 och 4–7 under rubriken Ämnets syfte.",
     "code" : "SPEIDS01",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
-    }, {
-      "content" : "Regler, taktik och teknik inom vald idrott.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Den valda idrottens utveckling nationellt och internationellt.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Faktorer i tränings- och tävlingssammanhang som påverkar såväl fysisk som psykisk prestationsförmåga.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Träningsmetoders betydelse för individuell utveckling.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Olika träningsmetoders kvaliteter i vald idrott, till exempel teknik- och konditionsträning samt mental träning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Planering av träning baserad på individuell utveckling.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Genomförande av träning baserad på individuell utveckling.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Värdering av träning baserad på individuell utveckling.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Skadeförebyggande aktiviteter och grundläggande behandling av skador samt agerande vid akut omhändertagande.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Olika syn på träning och tävlande, till exempel tränarens och utövarens förväntningar och mål.",
-      "type" : "BULLET"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Regler, taktik och teknik inom vald idrott.", "Den valda idrottens utveckling nationellt och internationellt.", "Faktorer i tränings- och tävlingssammanhang som påverkar såväl fysisk som psykisk prestationsförmåga.", "Träningsmetoders betydelse för individuell utveckling.", "Olika träningsmetoders kvaliteter i vald idrott, till exempel teknik- och konditionsträning samt mental träning.", "Planering av träning baserad på individuell utveckling.", "Genomförande av träning baserad på individuell utveckling.", "Värdering av träning baserad på individuell utveckling.", "Skadeförebyggande aktiviteter och grundläggande behandling av skador samt agerande vid akut omhändertagande.", "Olika syn på träning och tävlande, till exempel tränarens och utövarens förväntningar och mål." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven genomför, <strong>________</strong> och <strong>________</strong> med handledare, vald idrott tekniskt och taktiskt med <strong>________</strong> precision och kontroll.",
@@ -234,13 +166,22 @@
         "A" : "Eleven genomför, <strong>med säkerhet </strong>och <strong>efter</strong> <strong>samråd </strong>med handledare, vald idrott tekniskt och taktiskt med <strong>god </strong>precision och kontroll."
       }
     }, {
-      "text" : "I tävlingssituationer agerar eleven <strong>________</strong> i mötet med nya miljöer. Dessutom tar eleven i tävlandet ansvar för att förebygga skador och ohälsa.",
+      "text" : "I tävlingssituationer agerar eleven <strong>________</strong> i mötet med nya miljöer.",
       "no" : 1,
       "paragraphNo" : 0,
       "knowledgeRequirementChoice" : {
-        "E" : "I tävlingssituationer agerar eleven <strong>med viss säkerhet</strong> i mötet med nya miljöer. Dessutom tar eleven i tävlandet ansvar för att förebygga skador och ohälsa.",
-        "C" : "I tävlingssituationer agerar eleven <strong>med viss säkerhet</strong> i mötet med nya miljöer. Dessutom tar eleven i tävlandet ansvar för att förebygga skador och ohälsa.",
-        "A" : "I tävlingssituationer agerar eleven <strong>med säkerhet</strong> i mötet med nya miljöer. Dessutom tar eleven i tävlandet ansvar för att förebygga skador och ohälsa."
+        "E" : "I tävlingssituationer agerar eleven <strong>med viss säkerhet</strong> i mötet med nya miljöer.",
+        "C" : "I tävlingssituationer agerar eleven <strong>med viss säkerhet</strong> i mötet med nya miljöer.",
+        "A" : "I tävlingssituationer agerar eleven <strong>med säkerhet</strong> i mötet med nya miljöer."
+      }
+    }, {
+      "text" : "Dessutom tar eleven i tävlandet ansvar för att förebygga skador och ohälsa.",
+      "no" : 2,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom tar eleven i tävlandet ansvar för att förebygga skador och ohälsa.",
+        "C" : "Dessutom tar eleven i tävlandet ansvar för att förebygga skador och ohälsa.",
+        "A" : "Dessutom tar eleven i tävlandet ansvar för att förebygga skador och ohälsa."
       }
     }, {
       "text" : "Eleven beskriver <strong>________</strong>, utifrån tränings- och tävlingssituationer, träningsmetoder och teorier som kan användas för att utveckla idrottsutövandet.",
@@ -313,32 +254,8 @@
     "description" : "Kursen idrottsspecialisering 2 omfattar punkterna 1–2 och 4–7 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom vald idrott.",
     "code" : "SPEIDS02",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
-    }, {
-      "content" : "Regler, taktik och teknik inom vald idrott.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Val av träningsmetoder och sammansättning av individuellt anpassade träningsprogram.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Genomförande av individuellt anpassade träningsprogram baserad på individuell utveckling.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Värdering av olika träningsmetoders kvaliteter, till exempel teknik-, rörlighets- och snabbhetsträning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Värdering av individuellt anpassade träningsprogram baserad på individuell utveckling.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Skadeförebyggande träning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Olika kulturers värderingar av tävlingsvillkor ur ett jämställdhetsperspektiv.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Diskriminering inom idrotten och hur den kan motverkas samt hur olika kropps- och samhällsideal påverkar idrottsutövandet och samhället i övrigt.",
-      "type" : "BULLET"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Regler, taktik och teknik inom vald idrott.", "Val av träningsmetoder och sammansättning av individuellt anpassade träningsprogram.", "Genomförande av individuellt anpassade träningsprogram baserad på individuell utveckling.", "Värdering av olika träningsmetoders kvaliteter, till exempel teknik-, rörlighets- och snabbhetsträning.", "Värdering av individuellt anpassade träningsprogram baserad på individuell utveckling.", "Skadeförebyggande träning.", "Olika kulturers värderingar av tävlingsvillkor ur ett jämställdhetsperspektiv.", "Diskriminering inom idrotten och hur den kan motverkas samt hur olika kropps- och samhällsideal påverkar idrottsutövandet och samhället i övrigt." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven genomför, <strong>________</strong> med handledare, vald idrott tekniskt och taktiskt med precision och kontroll.",
@@ -350,13 +267,22 @@
         "A" : "Eleven genomför, <strong>efter samråd </strong>med handledare, vald idrott tekniskt och taktiskt med <strong>god </strong>precision och kontroll."
       }
     }, {
-      "text" : "I tävlingssituationer väljer eleven <strong>________</strong> insatsnivå efter kända förutsättningar samt agerar <strong>________</strong> i mötet med nya miljöer. Dessutom tar eleven i tävlandet ansvar för att förebygga skador och ohälsa.",
+      "text" : "I tävlingssituationer väljer eleven <strong>________</strong> insatsnivå efter kända förutsättningar samt agerar <strong>________</strong> i mötet med nya miljöer.",
       "no" : 1,
       "paragraphNo" : 0,
       "knowledgeRequirementChoice" : {
-        "E" : "I tävlingssituationer väljer eleven <strong>med viss säkerhet </strong>insatsnivå efter kända förutsättningar samt agerar <strong>med viss säkerhet</strong> i mötet med nya miljöer. Dessutom tar eleven i tävlandet ansvar för att förebygga skador och ohälsa.",
-        "C" : "I tävlingssituationer väljer eleven <strong>med viss säkerhet </strong>insatsnivå efter kända förutsättningar samt agerar <strong>med viss säkerhet</strong> i mötet med nya miljöer. Dessutom tar eleven i tävlandet ansvar för att förebygga skador och ohälsa.",
-        "A" : "I tävlingssituationer väljer eleven <strong>med säkerhet </strong>insatsnivå efter kända förutsättningar samt agerar <strong>med säkerhet</strong> i möter med nya miljöer. Dessutom tar eleven i tävlandet ansvar för att förebygga skador och ohälsa."
+        "E" : "I tävlingssituationer väljer eleven <strong>med viss säkerhet </strong>insatsnivå efter kända förutsättningar samt agerar <strong>med viss säkerhet</strong> i mötet med nya miljöer.",
+        "C" : "I tävlingssituationer väljer eleven <strong>med viss säkerhet </strong>insatsnivå efter kända förutsättningar samt agerar <strong>med viss säkerhet</strong> i mötet med nya miljöer.",
+        "A" : "I tävlingssituationer väljer eleven <strong>med säkerhet </strong>insatsnivå efter kända förutsättningar samt agerar <strong>med säkerhet</strong> i möter med nya miljöer."
+      }
+    }, {
+      "text" : "Dessutom tar eleven i tävlandet ansvar för att förebygga skador och ohälsa.",
+      "no" : 2,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom tar eleven i tävlandet ansvar för att förebygga skador och ohälsa.",
+        "C" : "Dessutom tar eleven i tävlandet ansvar för att förebygga skador och ohälsa.",
+        "A" : "Dessutom tar eleven i tävlandet ansvar för att förebygga skador och ohälsa."
       }
     }, {
       "text" : "Eleven väljer, utifrån tränings- och tävlingssituationer, <strong>________</strong> metoder som utvecklar idrottsutövandet.",
@@ -386,17 +312,26 @@
         "A" : "I beskrivningarna använder eleven <strong>med säkerhet </strong>centrala begrepp."
       }
     }, {
-      "text" : "Utifrån valda metoder planerar och genomför eleven <strong>________</strong> med handledare sin träning. I träningen väljer och prövar eleven andra metoder som kan vara av betydelse för att förbättra resultatet och för att förebygga skador.",
+      "text" : "Utifrån valda metoder planerar och genomför eleven <strong>________</strong> med handledare sin träning.",
       "no" : 3,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
-        "E" : "Utifrån valda metoder planerar och genomför eleven <strong>i samråd </strong>med handledare sin träning. I träningen väljer och prövar eleven andra metoder som kan vara av betydelse för att förbättra resultatet och för att förebygga skador.",
-        "C" : "Utifrån valda metoder planerar och genomför eleven <strong>efter samråd </strong>med handledare sin träning. I träningen väljer och prövar eleven andra metoder som kan vara av betydelse för att förbättra resultatet och för att förebygga skador.",
-        "A" : "Utifrån valda metoder planerar och genomför eleven <strong>efter samråd </strong>med handledare sin träning. I träningen väljer och prövar eleven andra metoder som kan vara av betydelse för att förbättra resultatet och för att förebygga skador."
+        "E" : "Utifrån valda metoder planerar och genomför eleven <strong>i samråd </strong>med handledare sin träning.",
+        "C" : "Utifrån valda metoder planerar och genomför eleven <strong>efter samråd </strong>med handledare sin träning.",
+        "A" : "Utifrån valda metoder planerar och genomför eleven <strong>efter samråd </strong>med handledare sin träning."
+      }
+    }, {
+      "text" : "I träningen väljer och prövar eleven andra metoder som kan vara av betydelse för att förbättra resultatet och för att förebygga skador.",
+      "no" : 4,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "I träningen väljer och prövar eleven andra metoder som kan vara av betydelse för att förbättra resultatet och för att förebygga skador.",
+        "C" : "I träningen väljer och prövar eleven andra metoder som kan vara av betydelse för att förbättra resultatet och för att förebygga skador.",
+        "A" : "I träningen väljer och prövar eleven andra metoder som kan vara av betydelse för att förbättra resultatet och för att förebygga skador."
       }
     }, {
       "text" : "Eleven utvärderar metoderna med <strong>________</strong> omdömen utifrån resultat och teorier.",
-      "no" : 4,
+      "no" : 5,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
         "E" : "Eleven utvärderar metoderna med <strong>enkla </strong>omdömen utifrån resultat och teorier.",
@@ -405,7 +340,7 @@
       }
     }, {
       "text" : "Dessutom diskuterar eleven <strong>________</strong> hur olika värderingar i tränings- och tävlingssammanhang har betydelse för prestationsförmåga och idrottsliga resultat.",
-      "no" : 5,
+      "no" : 6,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
         "E" : "Dessutom diskuterar eleven <strong>översiktligt </strong>hur olika värderingar i tränings- och tävlingssammanhang har betydelse för prestationsförmåga och idrottsliga resultat.",
@@ -438,32 +373,8 @@
     "description" : "Kursen idrottsspecialisering 3 omfattar punkterna 1–2 och 4–7 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom vald idrott.",
     "code" : "SPEIDS03",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
-    }, {
-      "content" : "Regler, taktik och teknik inom vald idrott.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Val av träningsmetoder och sammansättning av individuellt anpassade träningsprogram.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Planering, genomförande och utvärdering av individuellt anpassade tränings- och tävlingsprogram baserade på individuell utveckling.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Planering, genomförande och utvärdering av tränings- och tävlingsprogram för andra utövare inom elitidrott.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Skadeförebyggande träning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Idrottens tränings- och tävlingsverksamhet ur ett internationellt perspektiv.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Livsstil och omgivande miljöers påverkan för att prestera inom tränings- och tävlingsverksamhet.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Samhällsnyttan av tränings- och tävlingsaktiviteter samt elitidrott som förebild.",
-      "type" : "BULLET"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Regler, taktik och teknik inom vald idrott.", "Val av träningsmetoder och sammansättning av individuellt anpassade träningsprogram.", "Planering, genomförande och utvärdering av individuellt anpassade tränings- och tävlingsprogram baserade på individuell utveckling.", "Planering, genomförande och utvärdering av tränings- och tävlingsprogram för andra utövare inom elitidrott.", "Skadeförebyggande träning.", "Idrottens tränings- och tävlingsverksamhet ur ett internationellt perspektiv.", "Livsstil och omgivande miljöers påverkan för att prestera inom tränings- och tävlingsverksamhet.", "Samhällsnyttan av tränings- och tävlingsaktiviteter samt elitidrott som förebild." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven genomför, <strong>________</strong> med handledare, vald idrott tekniskt och taktiskt skickligt med precision och kontroll.",
@@ -484,13 +395,22 @@
         "A" : "I tävlingssituationer väljer eleven med säkerhet insatsnivå efter kända förutsättningar samt visar improvisationsförmåga genom att <strong>med säkerhet </strong>anpassa insatsnivå i oförutsedda situationer."
       }
     }, {
-      "text" : "I tävlingssituationer agerar eleven också <strong>________</strong> i mötet med nya miljöer. Dessutom tar eleven i tävlandet ansvar för att förebygga skador och ohälsa.",
+      "text" : "I tävlingssituationer agerar eleven också <strong>________</strong> i mötet med nya miljöer.",
       "no" : 2,
       "paragraphNo" : 0,
       "knowledgeRequirementChoice" : {
-        "E" : "I tävlingssituationer agerar eleven också <strong>med viss säkerhet</strong> i mötet med nya miljöer. Dessutom tar eleven i tävlandet ansvar för att förebygga skador och ohälsa.",
-        "C" : "I tävlingssituationer agerar eleven också <strong>med viss säkerhet</strong> i mötet med nya miljöer. Dessutom tar eleven i tävlandet ansvar för att förebygga skador och ohälsa.",
-        "A" : "I tävlingssituationer agerar eleven också <strong>med säkerhet</strong> i mötet med nya miljöer. Dessutom tar eleven i tävlandet ansvar för att förebygga skador och ohälsa."
+        "E" : "I tävlingssituationer agerar eleven också <strong>med viss säkerhet</strong> i mötet med nya miljöer.",
+        "C" : "I tävlingssituationer agerar eleven också <strong>med viss säkerhet</strong> i mötet med nya miljöer.",
+        "A" : "I tävlingssituationer agerar eleven också <strong>med säkerhet</strong> i mötet med nya miljöer."
+      }
+    }, {
+      "text" : "Dessutom tar eleven i tävlandet ansvar för att förebygga skador och ohälsa.",
+      "no" : 3,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom tar eleven i tävlandet ansvar för att förebygga skador och ohälsa.",
+        "C" : "Dessutom tar eleven i tävlandet ansvar för att förebygga skador och ohälsa.",
+        "A" : "Dessutom tar eleven i tävlandet ansvar för att förebygga skador och ohälsa."
       }
     }, {
       "text" : "Eleven använder tidigare tränings- och tävlingserfarenheter för att <strong>________</strong> med handledare långsiktigt planera tränings- och tävlingsaktiviteter.",
@@ -511,17 +431,26 @@
         "A" : "Eleven väljer <strong>med säkerhet </strong>metoder som utvecklar idrottsutövandet samt motiverar <strong>utförligt</strong> sina val med hänvisning till tidigare erfarenheter och relevanta teorier."
       }
     }, {
-      "text" : "Utifrån valda metoder planerar och genomför eleven <strong>________</strong> med handledare sin träning. I träningen väljer och prövar eleven andra metoder som kan vara av betydelse för att förbättra resultatet och för att förebygga skador.",
+      "text" : "Utifrån valda metoder planerar och genomför eleven <strong>________</strong> med handledare sin träning.",
       "no" : 2,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
-        "E" : "Utifrån valda metoder planerar och genomför eleven <strong>i samråd </strong>med handledare sin träning. I träningen väljer och prövar eleven andra metoder som kan vara av betydelse för att förbättra resultatet och för att förebygga skador.",
-        "C" : "Utifrån valda metoder planerar och genomför eleven <strong>efter samråd </strong>med handledare sin träning. I träningen väljer och prövar eleven andra metoder som kan vara av betydelse för att förbättra resultatet och för att förebygga skador.",
-        "A" : "Utifrån valda metoder planerar och genomför eleven <strong>efter samråd </strong>med handledare sin träning. I träningen väljer och prövar eleven andra metoder som kan vara av betydelse för att förbättra resultatet och för att förebygga skador."
+        "E" : "Utifrån valda metoder planerar och genomför eleven <strong>i samråd </strong>med handledare sin träning.",
+        "C" : "Utifrån valda metoder planerar och genomför eleven <strong>efter samråd </strong>med handledare sin träning.",
+        "A" : "Utifrån valda metoder planerar och genomför eleven <strong>efter samråd </strong>med handledare sin träning."
+      }
+    }, {
+      "text" : "I träningen väljer och prövar eleven andra metoder som kan vara av betydelse för att förbättra resultatet och för att förebygga skador.",
+      "no" : 3,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "I träningen väljer och prövar eleven andra metoder som kan vara av betydelse för att förbättra resultatet och för att förebygga skador.",
+        "C" : "I träningen väljer och prövar eleven andra metoder som kan vara av betydelse för att förbättra resultatet och för att förebygga skador.",
+        "A" : "I träningen väljer och prövar eleven andra metoder som kan vara av betydelse för att förbättra resultatet och för att förebygga skador."
       }
     }, {
       "text" : "Eleven utvärderar metoderna med <strong>________</strong> omdömen utifrån resultat och teorier.",
-      "no" : 3,
+      "no" : 4,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
         "E" : "Eleven utvärderar metoderna med <strong>enkla </strong>omdömen utifrån resultat och teorier.",
@@ -530,7 +459,7 @@
       }
     }, {
       "text" : "I utvärderingen använder eleven <strong>________</strong> centrala begrepp, hänvisar till teorier, förklarar <strong>________</strong> samband och drar <strong>________</strong> slutsatser.",
-      "no" : 4,
+      "no" : 5,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
         "E" : "I utvärderingen använder eleven <strong>med viss säkerhet </strong>centrala begrepp, hänvisar till teorier, förklarar <strong>enkla </strong>samband och drar <strong>enkla </strong>slutsatser.",
@@ -539,7 +468,7 @@
       }
     }, {
       "text" : "Dessutom diskuterar eleven <strong>________</strong> centrala faktorer i livsstilen som är betydelsefulla för att prestera optimalt i tränings- och tävlingsverksamhet.",
-      "no" : 5,
+      "no" : 6,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
         "E" : "Dessutom diskuterar eleven <strong>översiktligt </strong>centrala faktorer i livsstilen som är betydelsefulla för att prestera optimalt i tränings- och tävlingsverksamhet.",
@@ -548,7 +477,7 @@
       }
     }, {
       "text" : "Eleven samarbetar och kommunicerar <strong>________</strong> i tränings- och tävlingssituationer.",
-      "no" : 6,
+      "no" : 7,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
         "E" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> i tränings- och tävlingssituationer.",
@@ -572,47 +501,8 @@
     "description" : "Kursen tränings- och tävlingslära 1 omfattar punkterna 2 och 4–6 under rubriken Ämnets syfte, med särskild betoning på punkterna 2 och 4. I kursen behandlas grundläggande kunskaper i ämnet.",
     "code" : "SPETRÄ01",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
-    }, {
-      "content" : "Kroppens grundläggande anatomi och fysiologi samt grundläggande träningslära.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Grundläggande närings- och kostkunskap för tränings- och tävlingsverksamhet.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Idrottspsykologiska faktorer som påverkar prestationen i tränings- och tävlingssituationer.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Livsstil, stödjande nätverk och omgivande miljöers betydelse för prestation samt analyser av kritiska områden för skador relaterade till elitidrott och hur alternativ tränings- och tävlingsplanering kan utvecklas.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Analys av personliga kvaliteter för optimal tränings- och tävlingsaktivitet.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Träningsmetoder för uthållighet, styrka, rörlighet, snabbhet och koordination.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Planering, genomförande och utvärdering av anpassade träningsprogram för tävlingsverksamhet.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Människors olika förutsättningar för tränings- och tävlingsverksamhet.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Idrottsmiljöers betydelse för tränings- och tävlingsprestation.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Metoder för behandling av idrottsskador.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Etiska normer och regler för tränings- och tävlingsaktiviteter och för idrottslig aktivitet i övrigt.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Tränings- och tävlingsaktiviteter på lika villkor samt kulturella värderingar i tränings- och tävlingssammanhang.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Diskriminering i tränings- och tävlingssammanhang samt hur den kan motverkas.",
-      "type" : "BULLET"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Kroppens grundläggande anatomi och fysiologi samt grundläggande träningslära.", "Grundläggande närings- och kostkunskap för tränings- och tävlingsverksamhet.", "Idrottspsykologiska faktorer som påverkar prestationen i tränings- och tävlingssituationer.", "Livsstil, stödjande nätverk och omgivande miljöers betydelse för prestation samt analyser av kritiska områden för skador relaterade till elitidrott och hur alternativ tränings- och tävlingsplanering kan utvecklas.", "Analys av personliga kvaliteter för optimal tränings- och tävlingsaktivitet.", "Träningsmetoder för uthållighet, styrka, rörlighet, snabbhet och koordination.", "Planering, genomförande och utvärdering av anpassade träningsprogram för tävlingsverksamhet.", "Människors olika förutsättningar för tränings- och tävlingsverksamhet.", "Idrottsmiljöers betydelse för tränings- och tävlingsprestation.", "Metoder för behandling av idrottsskador.", "Etiska normer och regler för tränings- och tävlingsaktiviteter och för idrottslig aktivitet i övrigt.", "Tränings- och tävlingsaktiviteter på lika villkor samt kulturella värderingar i tränings- och tävlingssammanhang.", "Diskriminering i tränings- och tävlingssammanhang samt hur den kan motverkas." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven beskriver <strong>________</strong> kroppens byggnad och funktion och ger exempel på hur den påverkas av kost och träning.",
@@ -730,35 +620,8 @@
     "description" : "Kursen tränings- och tävlingslära 2 omfattar punkterna 2 och 4–6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
     "code" : "SPETRÄ02",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
-    }, {
-      "content" : "Fördjupning i kroppens anatomi och fysiologi, till exempel hur styrketräning påverkar kroppen ur anatomiskt och fysiologiskt perspektiv och ur prestationsperspektiv.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Kroppens energiomsättning samt näringsfysiologi. Energibehov och energibalans utifrån tränings- och tävlingsperspektiv.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Individers upplevelse av fysisk aktivitet, tävlings- och elitidrott samt hur tillstånd och karaktärsdrag spelar in och påverkar upplevelsen.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Fördjupning i träningsmetoder, till exempel uthållighet, styrka, rörlighet, snabbhet och koordination.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Planering, genomförande och utvärdering av egna och andras tränings- och tävlingsprogram.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Kostregistrering och kostdataprogram.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Tester för att mäta fysiska och psykiska kvaliteter, till exempel konditions- och rörlighetstester.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Idrottsmiljöers betydelse för tränings- och tävlingsprestation.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Metoder för skadeförebyggande träning och för behandling av skador. Alternativa behandlingsformer.",
-      "type" : "BULLET"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Fördjupning i kroppens anatomi och fysiologi, till exempel hur styrketräning påverkar kroppen ur anatomiskt och fysiologiskt perspektiv och ur prestationsperspektiv.", "Kroppens energiomsättning samt näringsfysiologi. Energibehov och energibalans utifrån tränings- och tävlingsperspektiv.", "Individers upplevelse av fysisk aktivitet, tävlings- och elitidrott samt hur tillstånd och karaktärsdrag spelar in och påverkar upplevelsen.", "Fördjupning i träningsmetoder, till exempel uthållighet, styrka, rörlighet, snabbhet och koordination.", "Planering, genomförande och utvärdering av egna och andras tränings- och tävlingsprogram.", "Kostregistrering och kostdataprogram.", "Tester för att mäta fysiska och psykiska kvaliteter, till exempel konditions- och rörlighetstester.", "Idrottsmiljöers betydelse för tränings- och tävlingsprestation.", "Metoder för skadeförebyggande träning och för behandling av skador. Alternativa behandlingsformer." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven beskriver <strong>________</strong> kroppens anatomi, näringsfysiologi och energigivande processer och ger exempel på hur dessa påverkas av kost och träning.",
@@ -903,35 +766,8 @@
     "description" : "Kursen tränings- och tävlingslära 3 omfattar punkterna 2 och 4–6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
     "code" : "SPETRÄ03",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
-    }, {
-      "content" : "Sambandet mellan prestationsförmåga, prestationsberedskap, prestationstillstånd och prestationsfaktorer.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Villkor för en internationell satsning i specialidrotten och tävlingsförberedelsens betydelse för prestationen.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Träningsvetenskaplig utvärdering av det egna specialidrottandet.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Inhämtning, bearbetning och analys av data från tävlingsprocessen.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Planering och förberedelse av strategiska handlingsplaner för tävlandet med hänsyn till tävlingsregler samt till styrkor och svagheter hos den egna aktiva eller laget i relation till styrkor, svagheter och möjliga förhållningssätt hos motståndare.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Målsättning och planering för det egna idrottsliga engagemanget efter avslutad studietid.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Taktiska val för individen eller kollektivet för att finna lösningar i tävlingssituationer, till exempel att göra taktiska eller tekniska förändringar för att uppnå bättre resultat.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Idrottsmiljöers betydelse för tränings- och tävlingsprestation.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Alternativa behandlingsformer för idrottsskador.",
-      "type" : "BULLET"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Sambandet mellan prestationsförmåga, prestationsberedskap, prestationstillstånd och prestationsfaktorer.", "Villkor för en internationell satsning i specialidrotten och tävlingsförberedelsens betydelse för prestationen.", "Träningsvetenskaplig utvärdering av det egna specialidrottandet.", "Inhämtning, bearbetning och analys av data från tävlingsprocessen.", "Planering och förberedelse av strategiska handlingsplaner för tävlandet med hänsyn till tävlingsregler samt till styrkor och svagheter hos den egna aktiva eller laget i relation till styrkor, svagheter och möjliga förhållningssätt hos motståndare.", "Målsättning och planering för det egna idrottsliga engagemanget efter avslutad studietid.", "Taktiska val för individen eller kollektivet för att finna lösningar i tävlingssituationer, till exempel att göra taktiska eller tekniska förändringar för att uppnå bättre resultat.", "Idrottsmiljöers betydelse för tränings- och tävlingsprestation.", "Alternativa behandlingsformer för idrottsskador." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven beskriver <strong>________</strong> principer för prestationsutveckling samt sambandet mellan prestationsförmåga, prestationsberedskap, prestationstillstånd och prestationsfaktorer.",

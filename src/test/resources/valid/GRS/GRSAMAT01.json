@@ -4,118 +4,51 @@
   "code" : "GRSAMAT01",
   "skolfsId" : "2010:255",
   "purposes" : [ {
-    "content" : "Undervisningen i ämnet matematik ska syfta till att eleverna utvecklar kunskaper om matematik och matematikens användning i vardagen. Den ska bidra till att eleverna utvecklar intresse för matematik och en tilltro till sin egen förmåga att använda matematik i olika sammanhang.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet matematik ska syfta till att eleverna utvecklar kunskaper om matematik och matematikens användning i vardagen.", "Den ska bidra till att eleverna utvecklar intresse för matematik och en tilltro till sin egen förmåga att använda matematik i olika sammanhang." ]
   }, {
-    "content" : "Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om grundläggande matematiska metoder och hur dessa kan användas för att besvara frågor i vardagliga situationer. Undervisningen ska också bidra till att eleverna får uppleva matematiken som en estetisk och kreativ aktivitet som kan användas vid problemlösning och matematiska undersökningar.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om grundläggande matematiska metoder och hur dessa kan användas för att besvara frågor i vardagliga situationer.", "Undervisningen ska också bidra till att eleverna får uppleva matematiken som en estetisk och kreativ aktivitet som kan användas vid problemlösning och matematiska undersökningar." ]
   }, {
-    "content" : "Undervisningen ska bidra till att eleverna utvecklar ett kritiskt förhållningssätt i situationer där det finns behov av att göra överväganden om matematisk rimlighet. Eleverna ska genom undervisningen ges möjligheter att utveckla kunskaper i att använda digital teknik för att undersöka problemställningar, göra beräkningar och för att presentera och tolka resultat.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar ett kritiskt förhållningssätt i situationer där det finns behov av att göra överväganden om matematisk rimlighet.", "Eleverna ska genom undervisningen ges möjligheter att utveckla kunskaper i att använda digital teknik för att undersöka problemställningar, göra beräkningar och för att presentera och tolka resultat." ]
   }, {
-    "content" : "Vidare ska undervisningen i matematik bidra till att eleverna utvecklar kunskaper om ämnesspecifika begrepp. På så sätt ska eleverna ges förutsättningar att samtala om matematik och presentera och utvärdera arbetsprocesser.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Vidare ska undervisningen i matematik bidra till att eleverna utvecklar kunskaper om ämnesspecifika begrepp.", "På så sätt ska eleverna ges förutsättningar att samtala om matematik och presentera och utvärdera arbetsprocesser." ]
   }, {
-    "content" : "Genom undervisningen i ämnet matematik ska eleverna sammanfattningsvis ges förutsättningar att utveckla sin förmåga att",
-    "type" : "SECTION"
-  }, {
-    "content" : "lösa matematiska problem,",
-    "type" : "BULLET"
-  }, {
-    "content" : "använda matematiska metoder för att göra beräkningar och lösa rutinuppgifter,",
-    "type" : "BULLET"
-  }, {
-    "content" : "reflektera över rimlighet i situationer med matematisk anknytning, och",
-    "type" : "BULLET"
-  }, {
-    "content" : "använda ämnesspecifika ord, begrepp och symboler.",
-    "type" : "BULLET"
+    "type" : "BULLET",
+    "heading" : "Genom undervisningen i ämnet matematik ska eleverna sammanfattningsvis ges förutsättningar att utveckla sin förmåga att",
+    "lines" : [ "lösa matematiska problem,", "använda matematiska metoder för att göra beräkningar och lösa rutinuppgifter,", "reflektera över rimlighet i situationer med matematisk anknytning, och", "använda ämnesspecifika ord, begrepp och symboler." ]
   } ],
   "courses" : [ {
     "name" : "Årskurs 1-6",
     "description" : "",
     "code" : "GRSAMAT01_1-6",
     "centralContent" : [ {
-      "content" : "I årskurs 1-6",
-      "type" : "HEADING"
+      "heading" : "I årskurs 1-6",
+      "lines" : [ ]
     }, {
-      "content" : "Problemlösning",
-      "type" : "HEADING"
+      "heading" : "Problemlösning",
+      "lines" : [ "Strategier för matematisk problemlösning i vardagliga situationer." ]
     }, {
-      "content" : "Strategier för matematisk problemlösning i vardagliga situationer.",
-      "type" : "BULLET"
+      "heading" : "Taluppfattning och tals användning",
+      "lines" : [ "Naturliga tal mellan 1 och 1000 och hur de storleksordnas, jämförs och delas upp. Hur de används för att ange antal och ordning.", "Naturliga tal och hur de uttrycks och visas med ord, konkret material, symboler, bilder och på tallinje.", "De fyra räknesätten och hur de kan uttryckas och visas med ord, konkreta material, bilder och symboler. Likhetstecknets innebörd.", "Centrala metoder för addition och subtraktion vid huvudräkning, skriftliga metoder och med hjälp av digital teknik.", "Tal i bråkform.", "Rimlighetsbedömning i vardagliga situationer." ]
     }, {
-      "content" : "Taluppfattning och tals användning",
-      "type" : "HEADING"
+      "heading" : "Tid och pengar",
+      "lines" : [ "Enheter och uttryck för tid, till exempel minut, igår och vecka.", "Mäta och uttrycka tid, till exempel med klocka.", "Sedlars och mynts namn och värde i relation till varandra." ]
     }, {
-      "content" : "Naturliga tal mellan 1 och 1000 och hur de storleksordnas, jämförs och delas upp. Hur de används för att ange antal och ordning.",
-      "type" : "BULLET"
+      "heading" : "Sannolikhet och statistik",
+      "lines" : [ "Begreppet slump och slumpmässiga händelser i experiment och spel.", "Undersökningar i för eleven bekanta situationer, till exempel prisjämförelser och temperaturmätningar." ]
     }, {
-      "content" : ".",
-      "type" : "HEADING"
+      "heading" : "Geometri",
+      "lines" : [ "Lägesord och hur de används för att beskriva placering i rummet, till exempel över, under, framför och bakom.", "De geometriska objekten cirkel, kvadrat, rektangel och triangel. Hur de benämns och hur de ser ut.", "Geometriska begrepp, till exempel längd, bredd och höjd.", "Mätning av längd, volym och massa samt vanliga måttenheter.", "Geometriska mönster.", "Proportionella samband, däribland begreppen dubbelt och hälften." ]
     }, {
-      "content" : "Naturliga tal och hur de uttrycks och visas med ord, konkret material, symboler, bilder och på tallinje.",
-      "type" : "BULLET"
-    }, {
-      "content" : "De fyra räknesätten och hur de kan uttryckas och visas med ord, konkreta material, bilder och symboler. Likhetstecknets innebörd.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Centrala metoder för addition och subtraktion vid huvudräkning, skriftliga metoder och med hjälp av digital teknik.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Tal i bråkform.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Rimlighetsbedömning i vardagliga situationer.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Tid och pengar",
-      "type" : "HEADING"
-    }, {
-      "content" : "Enheter och uttryck för tid, till exempel minut, igår och vecka.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Mäta och uttrycka tid, till exempel med klocka.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Sedlars och mynts namn och värde i relation till varandra.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Sannolikhet och statistik",
-      "type" : "HEADING"
-    }, {
-      "content" : "Begreppet slump och slumpmässiga händelser i experiment och spel.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Undersökningar i för eleven bekanta situationer, till exempel prisjämförelser och temperaturmätningar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Geometri",
-      "type" : "HEADING"
-    }, {
-      "content" : "Lägesord och hur de används för att beskriva placering i rummet, till exempel över, under, framför och bakom.",
-      "type" : "BULLET"
-    }, {
-      "content" : "De geometriska objekten cirkel, kvadrat, rektangel och triangel. Hur de benämns och hur de ser ut.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Geometriska begrepp, till exempel längd, bredd och höjd.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Mätning av längd, volym och massa samt vanliga måttenheter.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Geometriska mönster.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Proportionella samband, däribland begreppen dubbelt och hälften.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Ämnesspecifika begrepp",
-      "type" : "HEADING"
-    }, {
-      "content" : "Ord, begrepp och symboler inom ämnet matematik för att till exempel beskriva matematiska problem och utvärdera arbetsprocesser.",
-      "type" : "BULLET"
+      "heading" : "Ämnesspecifika begrepp",
+      "lines" : [ "Ord, begrepp och symboler inom ämnet matematik för att till exempel beskriva matematiska problem och utvärdera arbetsprocesser." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven kan <strong>________</strong> i att lösa problem i vardagliga situationer och anger egna förslag till lösningar.",
@@ -209,86 +142,26 @@
     "description" : "",
     "code" : "GRSAMAT01_7-9",
     "centralContent" : [ {
-      "content" : "I årskurs 7-9",
-      "type" : "HEADING"
+      "heading" : "I årskurs 7-9",
+      "lines" : [ ]
     }, {
-      "content" : "Problemlösning",
-      "type" : "HEADING"
+      "heading" : "Problemlösning",
+      "lines" : [ "Strategier för matematisk problemlösning i vardagliga situationer." ]
     }, {
-      "content" : "Strategier för matematisk problemlösning i vardagliga situationer.",
-      "type" : "BULLET"
+      "heading" : "Taluppfattning och tals användning",
+      "lines" : [ "Naturliga tal och hur de storleksordnas, jämförs och delas upp. Hur de används för att ange antal och ordning.", "Naturliga tal och enkla tal i decimal- och bråkform. Hur de uttrycks och visas med ord, konkreta material, symboler och bilder samt på tallinje.", "Hur de fyra räknesätten uttrycks och visas med hjälp av ord, konkreta material, bilder och symboler.", "Centrala metoder för de fyra räknesätten vid överslagsberäkning, huvudräkning, skriftliga metoder och digital teknik.", "Tal i decimal- och bråkform och deras användning i vardagliga situationer.", "Negativa tal och deras användning i konkreta och vardagliga situationer, till exempel vid mätning av temperatur.", "Begreppet procent och hur det används och uttrycks.", "Rimlighetsbedömning i vardagliga situationer." ]
     }, {
-      "content" : "Taluppfattning och tals användning",
-      "type" : "HEADING"
+      "heading" : "Tid och pengar",
+      "lines" : [ "Enheter för tid, till exempel timmar och minuter och hur de förhåller sig till varandra.", "Olika sätt att uppskatta och mäta tidsskillnader, till exempel med klocka.", "Pengars värde och användning och hur de kan växlas." ]
     }, {
-      "content" : "Naturliga tal och hur de storleksordnas, jämförs och delas upp. Hur de används för att ange antal och ordning.",
-      "type" : "BULLET"
+      "heading" : "Sannolikhet och statistik",
+      "lines" : [ "Begreppen chans, risk och slump i vardagliga situationer.", "Undersökningar i för eleven bekanta situationer. Hur information kan föras in i och avläsas ur tabeller och diagram, till exempel busstidtabeller samt stapel- och cirkeldiagram." ]
     }, {
-      "content" : "Naturliga tal och enkla tal i decimal- och bråkform. Hur de uttrycks och visas med ord, konkreta material, symboler och bilder samt på tallinje.",
-      "type" : "BULLET"
+      "heading" : "Geometri",
+      "lines" : [ "De geometriska objekten cirkel, kvadrat, rektangel och triangel. Hur de avbildas och beskrivs.", "Geometriska begrepp, till exempel hörn, sida, sträcka och vinkel.", "Mätning och uppskattning av längd, volym och massa med vanliga måttenheter.", "Proportionella samband samt enkel förstoring och förminskning.", "Geometriska mönster och hur de kan konstrueras." ]
     }, {
-      "content" : "Hur de fyra räknesätten uttrycks och visas med hjälp av ord, konkreta material, bilder och symboler.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Centrala metoder för de fyra räknesätten vid överslagsberäkning, huvudräkning, skriftliga metoder och digital teknik.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Tal i decimal- och bråkform och deras användning i vardagliga situationer.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Negativa tal och deras användning i konkreta och vardagliga situationer, till exempel vid mätning av temperatur.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Begreppet procent och hur det används och uttrycks.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Rimlighetsbedömning i vardagliga situationer.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Tid och pengar",
-      "type" : "HEADING"
-    }, {
-      "content" : "Enheter för tid, till exempel timmar och minuter och hur de förhåller sig till varandra.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Olika sätt att uppskatta och mäta tidsskillnader, till exempel med klocka.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Pengars värde och användning och hur de kan växlas.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Sannolikhet och statistik",
-      "type" : "HEADING"
-    }, {
-      "content" : "Begreppen chans, risk och slump i vardagliga situationer.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Undersökningar i för eleven bekanta situationer. Hur information kan föras in i och avläsas ur tabeller och diagram, till exempel busstidtabeller samt stapel- och cirkeldiagram.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Geometri",
-      "type" : "HEADING"
-    }, {
-      "content" : "De geometriska objekten cirkel, kvadrat, rektangel och triangel. Hur de avbildas och beskrivs.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Geometriska begrepp, till exempel hörn, sida, sträcka och vinkel.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Mätning och uppskattning av längd, volym och massa med vanliga måttenheter.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Proportionella samband samt enkel förstoring och förminskning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Geometriska mönster och hur de kan konstrueras.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Ämnesspecifika begrepp",
-      "type" : "HEADING"
-    }, {
-      "content" : "Ord, begrepp och symboler inom ämnet matematik för att till exempel beskriva matematiska problem och utvärdera arbetsprocesser.",
-      "type" : "BULLET"
+      "heading" : "Ämnesspecifika begrepp",
+      "lines" : [ "Ord, begrepp och symboler inom ämnet matematik för att till exempel beskriva matematiska problem och utvärdera arbetsprocesser." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven kan <strong>________</strong> i att lösa problem i vardagliga situationer och anger egna förslag till lösningar.",

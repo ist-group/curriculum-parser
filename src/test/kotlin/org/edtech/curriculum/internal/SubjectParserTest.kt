@@ -7,4 +7,9 @@ class SubjectParserTest {
     @Test
     fun testGetSubject() {
     }
+
+    @Test
+    fun testToPurposes() {
+
+    }
 }

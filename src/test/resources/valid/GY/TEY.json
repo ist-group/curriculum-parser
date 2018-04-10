@@ -4,91 +4,33 @@
   "code" : "TEY",
   "skolfsId" : "0000:00",
   "purposes" : [ {
-    "content" : "Undervisning i ämnet tekniska system – el ska syfta till att eleverna utvecklar förståelse av processen när anläggningar planeras, konstrueras och dokumenteras. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur installationer utförs och projekteras samt förståelse av den tekniska utvecklingen inom teknikområdet elinstallation och samspelet mellan teknik och människa.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisning i ämnet tekniska system – el ska syfta till att eleverna utvecklar förståelse av processen när anläggningar planeras, konstrueras och dokumenteras.", "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur installationer utförs och projekteras samt förståelse av den tekniska utvecklingen inom teknikområdet elinstallation och samspelet mellan teknik och människa." ]
   }, {
-    "content" : "Undervisningen ska även belysa hur projektering genomförs med hänsyn till miljö, tillgänglighet och säkerhet. Dessutom ska den bidra till att eleverna utvecklar kunskaper om hur anläggningar utformas i enlighet med funktionskrav från beställaren. Därutöver ska eleverna ges möjlighet att utveckla kunskaper om bestämmelser, standarder och normer inom teknikområdet.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska även belysa hur projektering genomförs med hänsyn till miljö, tillgänglighet och säkerhet.", "Dessutom ska den bidra till att eleverna utvecklar kunskaper om hur anläggningar utformas i enlighet med funktionskrav från beställaren.", "Därutöver ska eleverna ges möjlighet att utveckla kunskaper om bestämmelser, standarder och normer inom teknikområdet." ]
   }, {
-    "content" : "Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att dokumentera installationer och anläggningar i olika miljöer samt att kommunicera kring förslag och lösningar i projekteringsarbeten.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att dokumentera installationer och anläggningar i olika miljöer samt att kommunicera kring förslag och lösningar i projekteringsarbeten." ]
   }, {
-    "content" : "Undervisningen ska ge eleverna möjlighet att arbeta med datorstödda tillämpningar och kommunicerande system. Dessutom ska eleverna ges möjlighet att arbeta i projekt med koppling till planerade och pågående arbeten inom teknikområdet. Undervisningen ska även utveckla elevernas förståelse för betydelsen av samordning med närliggande yrkesgrupper.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att arbeta med datorstödda tillämpningar och kommunicerande system.", "Dessutom ska eleverna ges möjlighet att arbeta i projekt med koppling till planerade och pågående arbeten inom teknikområdet.", "Undervisningen ska även utveckla elevernas förståelse för betydelsen av samordning med närliggande yrkesgrupper." ]
   }, {
-    "content" : "Undervisningen i ämnet tekniska system – el ska ge eleverna förutsättningar att utveckla följande:",
-    "type" : "HEADING"
-  }, {
-    "content" : "Förmåga att planera, projektera, konstruera och dokumentera anläggningar och tekniska system inom teknikområdet elinstallation.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Kunskaper om hur anläggningar och tekniska system är uppbyggda med hänsyn till säkerhet, tillgänglighet och miljö.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Kunskaper om författningar, föreskrifter, anvisningar och standarder inom teknikområdet elinstallation.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Kunskaper om systemkomponenter och dimensionering av centrala storheter inom teknikområdet.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Kunskaper om tekniska system som kommunicerar via dator- och medianät, eller genom telefoni och trådlös teknik.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Kunskaper om installation, driftsättning och underhåll av anläggningar inom teknikområdet.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Färdigheter i att framställa, tolka och använda ritningar och scheman.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Färdigheter i att hantera datorbaserade tillämpningar inom området.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Förmåga att kommunicera kring egna och andras förslag och lösningar i samband med projekteringsarbetet.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Förståelse för betydelsen av samordning med närliggande yrkesgrupper.",
-    "type" : "BULLET"
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet tekniska system – el ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förmåga att planera, projektera, konstruera och dokumentera anläggningar och tekniska system inom teknikområdet elinstallation.", "Kunskaper om hur anläggningar och tekniska system är uppbyggda med hänsyn till säkerhet, tillgänglighet och miljö.", "Kunskaper om författningar, föreskrifter, anvisningar och standarder inom teknikområdet elinstallation.", "Kunskaper om systemkomponenter och dimensionering av centrala storheter inom teknikområdet.", "Kunskaper om tekniska system som kommunicerar via dator- och medianät, eller genom telefoni och trådlös teknik.", "Kunskaper om installation, driftsättning och underhåll av anläggningar inom teknikområdet.", "Färdigheter i att framställa, tolka och använda ritningar och scheman.", "Färdigheter i att hantera datorbaserade tillämpningar inom området.", "Förmåga att kommunicera kring egna och andras förslag och lösningar i samband med projekteringsarbetet.", "Förståelse för betydelsen av samordning med närliggande yrkesgrupper." ]
   } ],
   "courses" : [ {
     "name" : "Komponenter och system el",
     "description" : "Kursen komponenter och system el omfattar punkterna 4–8 under rubriken Ämnets syfte.",
     "code" : "TEYKOM0",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
-    }, {
-      "content" : "Teleinstallationer för till exempel drift och övervakning, passagekontroll och datanät.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Kommuniserande system, till exempel dator- och medienät, telefoni och trådlös kommunikation.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Komponent och materialkunskap, även kopplat till olika installationsmiljöer.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Montering av elmateriel inklusive förläggning och anslutning av ledningar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Kopplingsutrustningar, apparatskåp och enklare styrutrustning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Egenkontroller och idrifttagning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Arbete med värmekamera.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Elscheman av olika typer med komponenters funktion och symbol.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Ritningskonstruktion.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Belysningsanläggningar, värmekabelsystem, smarta hem och solcellsanläggningar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Elmotorer med enklare tillhörande startutrustningar.",
-      "type" : "BULLET"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Teleinstallationer för till exempel drift och övervakning, passagekontroll och datanät.", "Kommuniserande system, till exempel dator- och medienät, telefoni och trådlös kommunikation.", "Komponent och materialkunskap, även kopplat till olika installationsmiljöer.", "Montering av elmateriel inklusive förläggning och anslutning av ledningar.", "Kopplingsutrustningar, apparatskåp och enklare styrutrustning.", "Egenkontroller och idrifttagning.", "Arbete med värmekamera.", "Elscheman av olika typer med komponenters funktion och symbol.", "Ritningskonstruktion.", "Belysningsanläggningar, värmekabelsystem, smarta hem och solcellsanläggningar.", "Elmotorer med enklare tillhörande startutrustningar." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven redogör <strong>________</strong> för olika komponentkategorier inom elbranschens olika verksamhetsområden.",
@@ -188,41 +130,8 @@
     "description" : "Kursen projektering el 1 omfattar punkterna 1, 5 och 7–10 under rubriken Ämnets syfte, med särskild betoning på punkt 8.",
     "code" : "TEYPRO01",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
-    }, {
-      "content" : "Beskrivningsteknik, till exempel för att formulera beställarens krav på den färdiga produkten och dess delar samt gränsdragning mellan yrkeskategorier.",
-      "type" : "BULLET"
-    }, {
-      "content" : "AMA, dess struktur, användningsform och funktion i en teknisk beskrivning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Elområdets regelverk och standarder och deras tillämpning i arbetet med planering, projektering, konstruktion och dokumentation.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Miljöns betydelse vid installationer med avseende på till exempel energieffektivitet, estetik, säkerhet och tillgänglighet. Arbetsmiljö.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Teknisk kommunikation, till exempel offerter och avtal.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Teknisk dokumentation, till exempel relationshandlingar och dokumentation kring besiktningar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Energiprestanda med utgångspunkt i energieffektivitet.",
-      "type" : "BULLET"
-    }, {
-      "content" : "BIM – dess konsekvenser för projekteringsarbetet.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Datorstödda tillämpningar för till exempel kalkylering och tidplanering.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Ritningsläsning och mängdning, såväl manuellt som med datorstöd.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Säkerhet, till exempel heta arbeten, ställningsbyggande och arbete från stege.",
-      "type" : "BULLET"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Beskrivningsteknik, till exempel för att formulera beställarens krav på den färdiga produkten och dess delar samt gränsdragning mellan yrkeskategorier.", "AMA, dess struktur, användningsform och funktion i en teknisk beskrivning.", "Elområdets regelverk och standarder och deras tillämpning i arbetet med planering, projektering, konstruktion och dokumentation.", "Miljöns betydelse vid installationer med avseende på till exempel energieffektivitet, estetik, säkerhet och tillgänglighet. Arbetsmiljö.", "Teknisk kommunikation, till exempel offerter och avtal.", "Teknisk dokumentation, till exempel relationshandlingar och dokumentation kring besiktningar.", "Energiprestanda med utgångspunkt i energieffektivitet.", "BIM – dess konsekvenser för projekteringsarbetet.", "Datorstödda tillämpningar för till exempel kalkylering och tidplanering.", "Ritningsläsning och mängdning, såväl manuellt som med datorstöd.", "Säkerhet, till exempel heta arbeten, ställningsbyggande och arbete från stege." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven planerar, projekterar, konstruerar och dokumenterar med datorstöd och <strong>________</strong> med handledare anläggningar och tekniska system inom elområdet.",
@@ -358,38 +267,8 @@
     "description" : "Kursen projektering el 2 omfattar punkterna 1, 3, 4, 7 och 8 under rubriken Ämnets syfte.",
     "code" : "TEYPRO02",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
-    }, {
-      "content" : "Projektledarrollen i samband med projektering.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Abonnentanläggningar för såväl utom- som inomhusbruk.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Tillfälliga elanläggningar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Datorstödda tillämpningar anpassade för elområdet, till exempel belysning och ledningsdimensionering.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Framställning av arbetsorder för montör.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Framställning av ritningar och scheman.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Dimensionering av ledningssystem och skydd.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Regelverk och standarder för specifika miljöer, till exempel våtrum och industri och dess tillämpning i arbetet med planering, projektering, konstruktion och dokumentation.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Handböcker för utförande av installationer och dess koppling till regelverk och standarder.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Besiktningar.",
-      "type" : "BULLET"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Projektledarrollen i samband med projektering.", "Abonnentanläggningar för såväl utom- som inomhusbruk.", "Tillfälliga elanläggningar.", "Datorstödda tillämpningar anpassade för elområdet, till exempel belysning och ledningsdimensionering.", "Framställning av arbetsorder för montör.", "Framställning av ritningar och scheman.", "Dimensionering av ledningssystem och skydd.", "Regelverk och standarder för specifika miljöer, till exempel våtrum och industri och dess tillämpning i arbetet med planering, projektering, konstruktion och dokumentation.", "Handböcker för utförande av installationer och dess koppling till regelverk och standarder.", "Besiktningar." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven redogör <strong>________</strong> för projektledarens roll i såväl konsult- som installationsbranschen.",

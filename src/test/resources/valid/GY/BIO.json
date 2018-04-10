@@ -4,121 +4,41 @@
   "code" : "BIO",
   "skolfsId" : "2010:106",
   "purposes" : [ {
-    "content" : "Undervisningen i ämnet biologi ska syfta till att eleverna utvecklar kunskaper om biologins begrepp, teorier, modeller och arbetsmetoder. Den ska bidra till att eleverna utvecklar förståelse av biologins betydelse i samhället, till exempel för livskvalitet och hälsa genom medicinen, och för skyddandet av jordens ekosystem genom ekologin. Genom undervisningen ska eleverna ges möjlighet att utveckla ett naturvetenskapligt perspektiv på vår omvärld med evolutionsteorin som grund. I undervisningen ska aktuell forskning och elevernas upplevelser, nyfikenhet och kreativitet tas till vara. Undervisningen ska också bidra till att eleverna, från en naturvetenskaplig utgångspunkt, kan delta i samhällsdebatten och diskutera etiska frågor och ställningstaganden.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet biologi ska syfta till att eleverna utvecklar kunskaper om biologins begrepp, teorier, modeller och arbetsmetoder.", "Den ska bidra till att eleverna utvecklar förståelse av biologins betydelse i samhället, till exempel för livskvalitet och hälsa genom medicinen, och för skyddandet av jordens ekosystem genom ekologin.", "Genom undervisningen ska eleverna ges möjlighet att utveckla ett naturvetenskapligt perspektiv på vår omvärld med evolutionsteorin som grund.", "I undervisningen ska aktuell forskning och elevernas upplevelser, nyfikenhet och kreativitet tas till vara.", "Undervisningen ska också bidra till att eleverna, från en naturvetenskaplig utgångspunkt, kan delta i samhällsdebatten och diskutera etiska frågor och ställningstaganden." ]
   }, {
-    "content" : "Molekylärbiologin, liksom många andra områden inom biologin, utvecklas i snabb takt. Utvecklingen sker i ett samspel mellan teori och experiment, där hypoteser, teorier och modeller testas, omvärderas och förändras. Undervisningen ska därför behandla teoriers och modellers utveckling, begränsningar och giltighetsområden. Den ska bidra till att eleverna utvecklar förmåga att arbeta teoretiskt och experimentellt samt att kommunicera med hjälp av ett naturvetenskapligt språk. Undervisningen ska också bidra till att eleverna utvecklar förmåga att kritiskt värdera och skilja mellan påståenden som bygger på vetenskaplig respektive icke-vetenskaplig grund.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Molekylärbiologin, liksom många andra områden inom biologin, utvecklas i snabb takt.", "Utvecklingen sker i ett samspel mellan teori och experiment, där hypoteser, teorier och modeller testas, omvärderas och förändras.", "Undervisningen ska därför behandla teoriers och modellers utveckling, begränsningar och giltighetsområden.", "Den ska bidra till att eleverna utvecklar förmåga att arbeta teoretiskt och experimentellt samt att kommunicera med hjälp av ett naturvetenskapligt språk.", "Undervisningen ska också bidra till att eleverna utvecklar förmåga att kritiskt värdera och skilja mellan påståenden som bygger på vetenskaplig respektive icke-vetenskaplig grund." ]
   }, {
-    "content" : "Undervisningen ska innefatta naturvetenskapliga arbetsmetoder som att formulera och söka svar på frågor, göra systematiska observationer, planera och utföra experiment och fältstudier samt bearbeta, tolka och kritiskt granska resultat och information. I undervisningen ska eleverna ges tillfällen att argumentera kring och presentera analyser och slutsatser. De ska även ges möjlighet att använda datorstödd utrustning för insamling, simulering, beräkning, bearbetning och presentation av data.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska innefatta naturvetenskapliga arbetsmetoder som att formulera och söka svar på frågor, göra systematiska observationer, planera och utföra experiment och fältstudier samt bearbeta, tolka och kritiskt granska resultat och information.", "I undervisningen ska eleverna ges tillfällen att argumentera kring och presentera analyser och slutsatser.", "De ska även ges möjlighet att använda datorstödd utrustning för insamling, simulering, beräkning, bearbetning och presentation av data." ]
   }, {
-    "content" : "Undervisningen i ämnet biologi ska ge eleverna förutsättningar att utveckla följande:",
-    "type" : "HEADING"
-  }, {
-    "content" : "Kunskaper om biologins begrepp, modeller, teorier och arbetsmetoder samt förståelse av hur dessa utvecklas.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Förmåga att analysera och söka svar på ämnesrelaterade frågor samt att identifiera, formulera och lösa problem. Förmåga att reflektera över och värdera valda strategier, metoder och resultat.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Förmåga att planera, genomföra, tolka och redovisa fältstudier, experiment och observationer samt förmåga att hantera material och utrustning.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Kunskaper om biologins betydelse för individ och samhälle.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Förmåga att använda kunskaper i biologi för att kommunicera samt för att granska och använda information.",
-    "type" : "BULLET"
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet biologi ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om biologins begrepp, modeller, teorier och arbetsmetoder samt förståelse av hur dessa utvecklas.", "Förmåga att analysera och söka svar på ämnesrelaterade frågor samt att identifiera, formulera och lösa problem. Förmåga att reflektera över och värdera valda strategier, metoder och resultat.", "Förmåga att planera, genomföra, tolka och redovisa fältstudier, experiment och observationer samt förmåga att hantera material och utrustning.", "Kunskaper om biologins betydelse för individ och samhälle.", "Förmåga att använda kunskaper i biologi för att kommunicera samt för att granska och använda information." ]
   } ],
   "courses" : [ {
     "name" : "Biologi 1",
     "description" : "Kursen biologi 1 omfattar punkterna 1–5 under rubriken Ämnets syfte.",
     "code" : "BIOBIO01",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
     }, {
-      "content" : "Ekologi",
-      "type" : "HEADING"
+      "heading" : "Ekologi",
+      "lines" : [ "Ekosystemens struktur och dynamik. Energiflöden och kretslopp av materia samt ekosystemtjänster.", "Naturliga och av människan orsakade störningar i ekosystem med koppling till frågor om bärkraft och biologisk mångfald.", "Populationers storlek, samhällens artrikedom och artsammansättning samt faktorer som påverkar detta.", "Ekologiskt hållbar utveckling lokalt och globalt samt olika sätt att bidra till detta." ]
     }, {
-      "content" : "Ekosystemens struktur och dynamik. Energiflöden och kretslopp av materia samt ekosystemtjänster.",
-      "type" : "BULLET"
+      "heading" : "Genetik",
+      "lines" : [ "Eukaryota och prokaryota cellers egenskaper och funktion.", "Arvsmassans uppbyggnad samt ärftlighetens lagar och mekanismer. Celldelning, dna-replikation och mutationer.", "Genernas uttryck. Proteinsyntes, monogena och polygena egenskaper, arv och miljö.", "Genetikens användningsområden. Möjligheter, risker och etiska frågor." ]
     }, {
-      "content" : "Naturliga och av människan orsakade störningar i ekosystem med koppling till frågor om bärkraft och biologisk mångfald.",
-      "type" : "BULLET"
+      "heading" : "Evolution",
+      "lines" : [ "Naturvetenskapliga teorier om livets uppkomst och utveckling.", "Evolutionens mekanismer, till exempel naturligt urval och sexuell selektion samt deras betydelse för artbildning.", "Organismers beteende samt beteendets betydelse för överlevnad och reproduktiv framgång.", "Släktträd och principer för indelning av organismvärlden. Organismernas huvudgrupper och evolutionära historia.", "Biologins idéhistoria med tyngdpunkt på evolutionen." ]
     }, {
-      "content" : "Populationers storlek, samhällens artrikedom och artsammansättning samt faktorer som påverkar detta.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Ekologiskt hållbar utveckling lokalt och globalt samt olika sätt att bidra till detta.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Genetik",
-      "type" : "HEADING"
-    }, {
-      "content" : "Eukaryota och prokaryota cellers egenskaper och funktion.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Arvsmassans uppbyggnad samt ärftlighetens lagar och mekanismer. Celldelning, dna-replikation och mutationer.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Genernas uttryck. Proteinsyntes, monogena och polygena egenskaper, arv och miljö.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Genetikens användningsområden. Möjligheter, risker och etiska frågor.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Evolution",
-      "type" : "HEADING"
-    }, {
-      "content" : "Naturvetenskapliga teorier om livets uppkomst och utveckling.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Evolutionens mekanismer, till exempel naturligt urval och sexuell selektion samt deras betydelse för artbildning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Organismers beteende samt beteendets betydelse för överlevnad och reproduktiv framgång.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Släktträd och principer för indelning av organismvärlden. Organismernas huvudgrupper och evolutionära historia.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Biologins idéhistoria med tyngdpunkt på evolutionen.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Biologins karaktär och arbetsmetoder",
-      "type" : "HEADING"
-    }, {
-      "content" : "Vad som kännetecknar en naturvetenskaplig frågeställning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Modeller och teorier som förenklingar av verkligheten. Hur de förändras över tid.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Det experimentella arbetets betydelse för att testa, omvärdera och revidera hypoteser, teorier och modeller.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Avgränsningar och studier av problem och frågor med hjälp av biologiska resonemang.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Planering och genomförande av fältstudier, experiment och observationer samt formulering och prövning av hypoteser i samband med dessa.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Utvärdering av resultat och slutsatser genom analys av metodval, arbetsprocess och felkällor.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Fältstudier och undersökningar inom ekologi inklusive användning av modern utrustning. Simulering av evolutionära mekanismer, till exempel naturligt urval. Hur man identifierar organismer. Mikroskopering vid till exempel studier av celler eller celldelning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Bearbetning av biologiska data med enkla statistiska metoder.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Användning av genetiska data för studier av biologiska sammanhang.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Ställningstagande i samhällsfrågor utifrån biologiska förklaringsmodeller, till exempel frågor om hållbar utveckling.",
-      "type" : "BULLET"
+      "heading" : "Biologins karaktär och arbetsmetoder",
+      "lines" : [ "Vad som kännetecknar en naturvetenskaplig frågeställning.", "Modeller och teorier som förenklingar av verkligheten. Hur de förändras över tid.", "Det experimentella arbetets betydelse för att testa, omvärdera och revidera hypoteser, teorier och modeller.", "Avgränsningar och studier av problem och frågor med hjälp av biologiska resonemang.", "Planering och genomförande av fältstudier, experiment och observationer samt formulering och prövning av hypoteser i samband med dessa.", "Utvärdering av resultat och slutsatser genom analys av metodval, arbetsprocess och felkällor.", "Fältstudier och undersökningar inom ekologi inklusive användning av modern utrustning. Simulering av evolutionära mekanismer, till exempel naturligt urval. Hur man identifierar organismer. Mikroskopering vid till exempel studier av celler eller celldelning.", "Bearbetning av biologiska data med enkla statistiska metoder.", "Användning av genetiska data för studier av biologiska sammanhang.", "Ställningstagande i samhällsfrågor utifrån biologiska förklaringsmodeller, till exempel frågor om hållbar utveckling." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven redogör <strong>________</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
@@ -157,17 +77,26 @@
         "A" : "Eleven värderar också modellers och teoriers giltighet och begränsningar med <strong>nyanserade </strong>omdömen."
       }
     }, {
-      "text" : "Eleven analyserar och söker svar på <strong>________</strong> frågor i <strong>________</strong> med <strong>________</strong> resultat. Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+      "text" : "Eleven analyserar och söker svar på <strong>________</strong> frågor i <strong>________</strong> med <strong>________</strong> resultat.",
       "no" : 0,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
-        "E" : "Eleven analyserar och söker svar på <strong>enkla </strong>frågor i <strong>bekanta situationer </strong>med <strong>tillfredsställande </strong>resultat. Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
-        "C" : "Eleven analyserar och söker svar på <strong>komplexa </strong>frågor i <strong>bekanta situationer </strong>med <strong>tillfredsställande </strong>resultat. Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
-        "A" : "Eleven analyserar och söker svar på <strong>komplexa </strong>frågor i <strong>bekanta och nya situationer </strong>med <strong>gott</strong> resultat. Detta gäller såväl i det teoretiska som i det praktiska arbetet."
+        "E" : "Eleven analyserar och söker svar på <strong>enkla </strong>frågor i <strong>bekanta situationer </strong>med <strong>tillfredsställande </strong>resultat.",
+        "C" : "Eleven analyserar och söker svar på <strong>komplexa </strong>frågor i <strong>bekanta situationer </strong>med <strong>tillfredsställande </strong>resultat.",
+        "A" : "Eleven analyserar och söker svar på <strong>komplexa </strong>frågor i <strong>bekanta och nya situationer </strong>med <strong>gott</strong> resultat."
+      }
+    }, {
+      "text" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+      "no" : 1,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+        "C" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+        "A" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet."
       }
     }, {
       "text" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>________</strong> egna frågor.",
-      "no" : 1,
+      "no" : 2,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
         "E" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>med viss säkerhet enkla </strong>egna frågor.",
@@ -175,17 +104,26 @@
         "A" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>med säkerhet komplexa </strong>egna frågor."
       }
     }, {
-      "text" : "Eleven planerar och genomför <strong>________</strong> med handledare experiment och fältstudier på ett tillfredsställande sätt. Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
-      "no" : 2,
+      "text" : "Eleven planerar och genomför <strong>________</strong> med handledare experiment och fältstudier på ett tillfredsställande sätt.",
+      "no" : 3,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
-        "E" : "Eleven planerar och genomför <strong>i samråd </strong>med handledare experiment och fältstudier på ett tillfredsställande sätt. Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
-        "C" : "Eleven planerar och genomför <strong>efter samråd </strong>med handledare experiment och fältstudier på ett tillfredsställande sätt. Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
-        "A" : "Eleven planerar och genomför<strong> efter samråd </strong>med handledare experiment och fältstudier på ett tillfredsställande sätt. Dessutom hanterar eleven material och utrustning på ett säkert sätt."
+        "E" : "Eleven planerar och genomför <strong>i samråd </strong>med handledare experiment och fältstudier på ett tillfredsställande sätt.",
+        "C" : "Eleven planerar och genomför <strong>efter samråd </strong>med handledare experiment och fältstudier på ett tillfredsställande sätt.",
+        "A" : "Eleven planerar och genomför<strong> efter samråd </strong>med handledare experiment och fältstudier på ett tillfredsställande sätt."
+      }
+    }, {
+      "text" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+      "no" : 4,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+        "C" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+        "A" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt."
       }
     }, {
       "text" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>________</strong> omdömen och motiverar sina slutsatser med <strong>________</strong> resonemang.",
-      "no" : 3,
+      "no" : 5,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
         "E" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>enkla </strong>omdömen och motiverar sina slutsatser med <strong>enkla </strong>resonemang.",
@@ -245,71 +183,17 @@
     "description" : "Kursen biologi 2 omfattar punkterna 1–5 under rubriken Ämnets syfte.",
     "code" : "BIOBIO02",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
     }, {
-      "content" : "Cell- och molekylärbiologi",
-      "type" : "HEADING"
+      "heading" : "Cell- och molekylärbiologi",
+      "lines" : [ "Cellers livscykler och differentiering, utveckling från ägg till vuxen. Cellers kommunikation.", "Celldelars funktion. Livsprocesser och regleringen av dem, till exempel fotosyntes, metabolism och transport över membran. Evolutionärt perspektiv på molekylärbiologi.", "Cell- och molekylärbiologins användningsområden. Möjligheter, risker och etiska frågor." ]
     }, {
-      "content" : "Cellers livscykler och differentiering, utveckling från ägg till vuxen. Cellers kommunikation.",
-      "type" : "BULLET"
+      "heading" : "Organismens funktion",
+      "lines" : [ "Fysiologi hos människan och andra djur. Organsystem och deras uppbyggnad, funktion och samspel. Hormonsystemets och nervsystemets reglering av organismen.", "Samband mellan evolution och organismernas funktionella byggnad och livsprocesser.", "Immunsystem, smittspridning och infektion. Virus byggnad, funktion och reproduktion.", "Mikroorganismer och deras betydelse för hälsa och sjukdom. Antibiotika och evolutionära processer.", "Samband mellan levnadsförhållanden, hälsa och sjukdom. Etik i medicinska frågor.", "Vad som händer i kroppen under menstruation, förälskelse, sex och graviditet. Hur sexuellt överförbara sjukdomar och oönskade graviditeter kan förebyggas.", "Livscykler och fysiologi hos växter och svampar.", "Användning av modern utrustning vid fysiologiska undersökningar och laborationer." ]
     }, {
-      "content" : "Celldelars funktion. Livsprocesser och regleringen av dem, till exempel fotosyntes, metabolism och transport över membran. Evolutionärt perspektiv på molekylärbiologi.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Cell- och molekylärbiologins användningsområden. Möjligheter, risker och etiska frågor.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Organismens funktion",
-      "type" : "HEADING"
-    }, {
-      "content" : "Fysiologi hos människan och andra djur. Organsystem och deras uppbyggnad, funktion och samspel. Hormonsystemets och nervsystemets reglering av organismen.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Samband mellan evolution och organismernas funktionella byggnad och livsprocesser.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Immunsystem, smittspridning och infektion. Virus byggnad, funktion och reproduktion.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Mikroorganismer och deras betydelse för hälsa och sjukdom. Antibiotika och evolutionära processer.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Samband mellan levnadsförhållanden, hälsa och sjukdom. Etik i medicinska frågor.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Vad som händer i kroppen under menstruation, förälskelse, sex och graviditet. Hur sexuellt överförbara sjukdomar och oönskade graviditeter kan förebyggas.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Livscykler och fysiologi hos växter och svampar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Användning av modern utrustning vid fysiologiska undersökningar och laborationer.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Biologins karaktär och arbetsmetoder",
-      "type" : "HEADING"
-    }, {
-      "content" : "Modeller och teorier som idealiseringar av verkligheten. Modellers och teoriers giltighetsområden samt hur de kan utvecklas, generaliseras eller ersättas av andra modeller och teorier över tid.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Avgränsning och studier av problem och frågor med hjälp av biologiska resonemang.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Det experimentella arbetets betydelse för att testa, omvärdera och revidera hypoteser, teorier och modeller.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Planering och genomförande av fältstudier, experiment och observationer samt formulering och prövning av hypoteser i samband med dessa. Utvärdering av resultat och slutsatser genom analys av metodval, arbetsprocess och felkällor.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Fysiologiska undersökningar och laborationer inklusive användning av modern utrustning. Enklare molekylärbiologiska metoder. Sterilteknik och odling av bakterier.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Användning av genetiska data för studier av biologiska sammanhang.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Frågor om religion, etik och hållbar utveckling kopplade till biologins olika arbetssätt och verksamhetsområden.",
-      "type" : "BULLET"
+      "heading" : "Biologins karaktär och arbetsmetoder",
+      "lines" : [ "Modeller och teorier som idealiseringar av verkligheten. Modellers och teoriers giltighetsområden samt hur de kan utvecklas, generaliseras eller ersättas av andra modeller och teorier över tid.", "Avgränsning och studier av problem och frågor med hjälp av biologiska resonemang.", "Det experimentella arbetets betydelse för att testa, omvärdera och revidera hypoteser, teorier och modeller.", "Planering och genomförande av fältstudier, experiment och observationer samt formulering och prövning av hypoteser i samband med dessa. Utvärdering av resultat och slutsatser genom analys av metodval, arbetsprocess och felkällor.", "Fysiologiska undersökningar och laborationer inklusive användning av modern utrustning. Enklare molekylärbiologiska metoder. Sterilteknik och odling av bakterier.", "Användning av genetiska data för studier av biologiska sammanhang.", "Frågor om religion, etik och hållbar utveckling kopplade till biologins olika arbetssätt och verksamhetsområden." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven redogör <strong>________</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
@@ -348,17 +232,26 @@
         "A" : "Eleven värderar också modellers och teoriers giltighet och begränsningar med <strong>nyanserade </strong>omdömen."
       }
     }, {
-      "text" : "Eleven analyserar och söker svar på <strong>________</strong> frågor i <strong>________</strong> med <strong>________</strong> resultat. Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+      "text" : "Eleven analyserar och söker svar på <strong>________</strong> frågor i <strong>________</strong> med <strong>________</strong> resultat.",
       "no" : 0,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
-        "E" : "Eleven analyserar och söker svar på <strong>enkla </strong>frågor i <strong>bekanta situationer </strong>med <strong>tillfredsställande </strong>resultat. Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
-        "C" : "Eleven analyserar och söker svar på <strong>komplexa </strong>frågor i <strong>bekanta situationer </strong>med <strong>tillfredsställande </strong>resultat. Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
-        "A" : "Eleven analyserar och söker svar på <strong>komplexa </strong>frågor i <strong>bekanta och nya situationer </strong>med <strong>gott</strong> resultat. Detta gäller såväl i det teoretiska som i det praktiska arbetet."
+        "E" : "Eleven analyserar och söker svar på <strong>enkla </strong>frågor i <strong>bekanta situationer </strong>med <strong>tillfredsställande </strong>resultat.",
+        "C" : "Eleven analyserar och söker svar på <strong>komplexa </strong>frågor i <strong>bekanta situationer </strong>med <strong>tillfredsställande </strong>resultat.",
+        "A" : "Eleven analyserar och söker svar på <strong>komplexa </strong>frågor i <strong>bekanta och nya situationer </strong>med <strong>gott</strong> resultat."
+      }
+    }, {
+      "text" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+      "no" : 1,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+        "C" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+        "A" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet."
       }
     }, {
       "text" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>________</strong> egna frågor.",
-      "no" : 1,
+      "no" : 2,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
         "E" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>med viss säkerhet enkla </strong>egna frågor.",
@@ -366,17 +259,26 @@
         "A" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>med säkerhet komplexa </strong>egna frågor."
       }
     }, {
-      "text" : "Eleven planerar och genomför <strong>________</strong> med handledare experiment och fältstudier på ett tillfredsställande sätt. Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
-      "no" : 2,
+      "text" : "Eleven planerar och genomför <strong>________</strong> med handledare experiment och fältstudier på ett tillfredsställande sätt.",
+      "no" : 3,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
-        "E" : "Eleven planerar och genomför <strong>i samråd </strong>med handledare experiment och fältstudier på ett tillfredsställande sätt. Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
-        "C" : "Eleven planerar och genomför <strong>efter samråd </strong>med handledare experiment och fältstudier på ett tillfredsställande sätt. Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
-        "A" : "Eleven planerar och genomför<strong> efter samråd </strong>med handledare experiment och fältstudier på ett tillfredsställande sätt. Dessutom hanterar eleven material och utrustning på ett säkert sätt."
+        "E" : "Eleven planerar och genomför <strong>i samråd </strong>med handledare experiment och fältstudier på ett tillfredsställande sätt.",
+        "C" : "Eleven planerar och genomför <strong>efter samråd </strong>med handledare experiment och fältstudier på ett tillfredsställande sätt.",
+        "A" : "Eleven planerar och genomför<strong> efter samråd </strong>med handledare experiment och fältstudier på ett tillfredsställande sätt."
+      }
+    }, {
+      "text" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+      "no" : 4,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+        "C" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+        "A" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt."
       }
     }, {
       "text" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>________</strong> omdömen och motiverar sina slutsatser med <strong>________</strong> resonemang.",
-      "no" : 3,
+      "no" : 5,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
         "E" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>enkla </strong>omdömen och motiverar sina slutsatser med <strong>enkla </strong>resonemang.",
@@ -436,23 +338,8 @@
     "description" : "Kursen bioteknik omfattar punkterna 1–5 under rubriken Ämnets syfte.",
     "code" : "BIOBIT0",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
-    }, {
-      "content" : "Experimentellt arbete inom bioteknik inklusive genteknik. Sterilteknik, odlingsteknik och fermentationsteknik.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Biologiskt verksamma makromolekyler, deras funktion och interaktion inom och mellan celler.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Cellers användning inom industri, jordbruk, medicin och forskning. Bakterier, jästceller, cancerceller, stamceller och deras betydelse för bioteknikens utveckling.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Biotekniska inklusive gentekniska verktyg och metoder samt deras användning inom industri, jordbruk, medicin och forskning. Bioteknik och genteknik i frågor om ekologiskt hållbar utveckling.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Möjligheter och risker med bioteknik och genmodifierade organismer ur ett etiskt och samhälleligt perspektiv.",
-      "type" : "BULLET"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Experimentellt arbete inom bioteknik inklusive genteknik. Sterilteknik, odlingsteknik och fermentationsteknik.", "Biologiskt verksamma makromolekyler, deras funktion och interaktion inom och mellan celler.", "Cellers användning inom industri, jordbruk, medicin och forskning. Bakterier, jästceller, cancerceller, stamceller och deras betydelse för bioteknikens utveckling.", "Biotekniska inklusive gentekniska verktyg och metoder samt deras användning inom industri, jordbruk, medicin och forskning. Bioteknik och genteknik i frågor om ekologiskt hållbar utveckling.", "Möjligheter och risker med bioteknik och genmodifierade organismer ur ett etiskt och samhälleligt perspektiv." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven använder <strong>________</strong> begrepp, modeller, teorier och arbetsmetoder för att söka svar på frågor samt för att beskriva och <strong>________</strong> företeelser inom bioteknik.",
@@ -491,17 +378,26 @@
         "A" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet. <strong>I arbetet formulerar eleven med säkerhet egna frågor som för processen framåt och fördjupar resonemangen</strong>."
       }
     }, {
-      "text" : "Eleven planerar och genomför <strong>________</strong> med handledare det undersökande arbetet på ett tillfredsställande sätt. Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+      "text" : "Eleven planerar och genomför <strong>________</strong> med handledare det undersökande arbetet på ett tillfredsställande sätt.",
       "no" : 2,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
-        "E" : "Eleven planerar och genomför <strong>i samråd </strong>med handledare det undersökande arbetet på ett tillfredsställande sätt. Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
-        "C" : "Eleven planerar och genomför <strong>efter samråd </strong>med handledare det undersökande arbetet på ett tillfredsställande sätt. Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
-        "A" : "Eleven planerar och genomför<strong> efter samråd </strong>med handledare det undersökande arbetet på ett tillfredsställande sätt. Dessutom hanterar eleven material och utrustning på ett säkert sätt."
+        "E" : "Eleven planerar och genomför <strong>i samråd </strong>med handledare det undersökande arbetet på ett tillfredsställande sätt.",
+        "C" : "Eleven planerar och genomför <strong>efter samråd </strong>med handledare det undersökande arbetet på ett tillfredsställande sätt.",
+        "A" : "Eleven planerar och genomför<strong> efter samråd </strong>med handledare det undersökande arbetet på ett tillfredsställande sätt."
+      }
+    }, {
+      "text" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+      "no" : 3,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+        "C" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+        "A" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt."
       }
     }, {
       "text" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>________</strong> omdömen och motiverar sina slutsatser med <strong>________</strong> resonemang.",
-      "no" : 3,
+      "no" : 4,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
         "E" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>enkla </strong>omdömen och motiverar sina slutsatser med <strong>enkla </strong>resonemang.",

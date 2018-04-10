@@ -4,121 +4,52 @@
   "code" : "GRSANAT01",
   "skolfsId" : "2010:255",
   "purposes" : [ {
-    "content" : "Undervisningen i de naturorienterande ämnena ska syfta till att eleverna utvecklar kunskaper om naturvetenskapliga sammanhang och mönster. Genom undervisningen ska eleverna ges möjlighet att utveckla nyfikenhet på och intresse för de sammanhang och fenomen i naturen som hela tiden påverkar miljön och allt levande.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i de naturorienterande ämnena ska syfta till att eleverna utvecklar kunskaper om naturvetenskapliga sammanhang och mönster.", "Genom undervisningen ska eleverna ges möjlighet att utveckla nyfikenhet på och intresse för de sammanhang och fenomen i naturen som hela tiden påverkar miljön och allt levande." ]
   }, {
-    "content" : "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om människokroppen och om olika faktorer som påverkar hälsan. På så sätt ska eleverna stimuleras att reflektera över samband mellan olika val och deras konsekvenser.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om människokroppen och om olika faktorer som påverkar hälsan.", "På så sätt ska eleverna stimuleras att reflektera över samband mellan olika val och deras konsekvenser." ]
   }, {
-    "content" : "Vidare ska undervisningen bidra till att eleverna får möta etiska, estetiska och existentiella perspektiv på frågor som rör människa och natur. Därigenom syftar undervisningen till att eleverna utvecklar ett kritiskt förhållningssätt till såväl sina egna åsikter och andras argument som till information från olika källor. Eleverna ska på så sätt stärka tilltron till sin förmåga att vara delaktiga i samtal om aktuella samhällsfrågor.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Vidare ska undervisningen bidra till att eleverna får möta etiska, estetiska och existentiella perspektiv på frågor som rör människa och natur.", "Därigenom syftar undervisningen till att eleverna utvecklar ett kritiskt förhållningssätt till såväl sina egna åsikter och andras argument som till information från olika källor.", "Eleverna ska på så sätt stärka tilltron till sin förmåga att vara delaktiga i samtal om aktuella samhällsfrågor." ]
   }, {
-    "content" : "Undervisningen ska bidra till att eleverna utvecklar kunskap om hur naturvetenskapliga undersökningar kan göras. På så sätt ska eleverna ges möjligheter att ställa frågor om och undersöka ekosystem, fysikaliska företeelser och vardagliga kemiska processer utifrån personliga upplevelser och aktuella händelser.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar kunskap om hur naturvetenskapliga undersökningar kan göras.", "På så sätt ska eleverna ges möjligheter att ställa frågor om och undersöka ekosystem, fysikaliska företeelser och vardagliga kemiska processer utifrån personliga upplevelser och aktuella händelser." ]
   }, {
-    "content" : "Vidare ska undervisningen bidra till att eleverna utvecklar kunskaper om olika naturvetenskapliga begrepp. På så sätt ska eleverna ges förutsättningar att samtala om naturvetenskap och presentera och utvärdera arbetsprocesser.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Vidare ska undervisningen bidra till att eleverna utvecklar kunskaper om olika naturvetenskapliga begrepp.", "På så sätt ska eleverna ges förutsättningar att samtala om naturvetenskap och presentera och utvärdera arbetsprocesser." ]
   }, {
-    "content" : "Genom undervisningen i de naturorienterande ämnena ska eleverna sammanfattningsvis ges förutsättningar att utveckla sin förmåga att",
-    "type" : "SECTION"
-  }, {
-    "content" : "jämföra och reflektera över mönster och strukturer i naturen,",
-    "type" : "BULLET"
-  }, {
-    "content" : "jämföra och reflektera över samband mellan livsstil, miljö och hälsa,",
-    "type" : "BULLET"
-  }, {
-    "content" : "söka, granska och värdera information från olika källor och göra egna överväganden,",
-    "type" : "BULLET"
-  }, {
-    "content" : "genomföra undersökningar med naturvetenskaplig anknytning, och",
-    "type" : "BULLET"
-  }, {
-    "content" : "använda ämnesspecifika ord, begrepp och symboler.",
-    "type" : "BULLET"
+    "type" : "BULLET",
+    "heading" : "Genom undervisningen i de naturorienterande ämnena ska eleverna sammanfattningsvis ges förutsättningar att utveckla sin förmåga att",
+    "lines" : [ "jämföra och reflektera över mönster och strukturer i naturen,", "jämföra och reflektera över samband mellan livsstil, miljö och hälsa,", "söka, granska och värdera information från olika källor och göra egna överväganden,", "genomföra undersökningar med naturvetenskaplig anknytning, och", "använda ämnesspecifika ord, begrepp och symboler." ]
   } ],
   "courses" : [ {
     "name" : "Årskurs 1-6",
     "description" : "",
     "code" : "GRSANAT01_1-6",
     "centralContent" : [ {
-      "content" : "I årskurs 1-6",
-      "type" : "HEADING"
+      "heading" : "I årskurs 1-6",
+      "lines" : [ ]
     }, {
-      "content" : "Mönster och strukturer i naturen",
-      "type" : "HEADING"
+      "heading" : "Mönster och strukturer i naturen",
+      "lines" : [ "Sol, måne och planeter. Månens faser och några stjärnbilder.", "Olika vädertyper och väderfenomen. Hur de kan observeras och mätas över tid.", "Årstidsväxlingar och kännetecken för de olika årstiderna. Vilka konsekvenser årstidsväxlingarna får för människan.", "Djur och växter i närmiljön och hur de kan sorteras.", "Livscykler hos några växter och djur.", "Överlevnadsstrategier hos några växter och djur beroende på årstid.", "Vattnets olika former; fast, flytande och gas. Vattnets betydelse för liv på jorden." ]
     }, {
-      "content" : "Sol, måne och planeter. Månens faser och några stjärnbilder.",
-      "type" : "BULLET"
+      "heading" : "Naturvetenskap i vardagen",
+      "lines" : [ "Materials egenskaper och hur de kan sorteras och delas in efter till exempel hårdhet, struktur, färg, magnetism, ledningsförmåga och om de flyter eller sjunker i vatten.", "Källsortering och återvinning av vardagliga föremål. Kompostering av organiskt material.", "Energianvändning i hemmet, till exempel av förnybara och fossila bränslen.", "Verksamheter i närsamhället som rör naturvetenskap, till exempel odling, djurhållning och olika former av tillverkningsindustri. Deras betydelse för elevens dagliga liv.", "Aktuella samhällsfrågor som rör naturvetenskap.", "Berättelser, myter, sagor och konst med naturvetenskaplig anknytning." ]
     }, {
-      "content" : "Olika vädertyper och väderfenomen. Hur de kan observeras och mätas över tid.",
-      "type" : "BULLET"
+      "heading" : "Kropp och hälsa",
+      "lines" : [ "Människokroppen och kroppsdelarnas namn och funktion.", "Hur hälsan påverkas av kost, motion, sömn, sociala relationer och beroendeframkallande medel.", "Pubertet och hur den inverkar på individen. Sexualitet, reproduktion och olika slags relationer.", "Människans upplevelser av ljus, ljud, temperatur, smak och doft med hjälp av olika sinnen." ]
     }, {
-      "content" : "Årstidsväxlingar och kännetecken för de olika årstiderna. Vilka konsekvenser årstidsväxlingarna får för människan.",
-      "type" : "BULLET"
+      "heading" : "Metoder och arbetssätt",
+      "lines" : [ "Fältstudier, experiment och sorteringar. Hur de genomförs och används för att undersöka närmiljön.", "Dokumentation och redovisning av undersökningar och sorteringar med hjälp av skrift, bild och andra uttrycksformer." ]
     }, {
-      "content" : "Djur och växter i närmiljön och hur de kan sorteras.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Livscykler hos några växter och djur.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Överlevnadsstrategier hos några växter och djur beroende på årstid.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Vattnets olika former; fast, flytande och gas. Vattnets betydelse för liv på jorden.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Naturvetenskap i vardagen",
-      "type" : "HEADING"
-    }, {
-      "content" : "Materials egenskaper och hur de kan sorteras och delas in efter till exempel hårdhet, struktur, färg, magnetism, ledningsförmåga och om de flyter eller sjunker i vatten.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Källsortering och återvinning av vardagliga föremål. Kompostering av organiskt material.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Energianvändning i hemmet, till exempel av förnybara och fossila bränslen.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Verksamheter i närsamhället som rör naturvetenskap, till exempel odling, djurhållning och olika former av tillverkningsindustri. Deras betydelse för elevens dagliga liv.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Aktuella samhällsfrågor som rör naturvetenskap.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Berättelser, myter, sagor och konst med naturvetenskaplig anknytning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Kropp och hälsa",
-      "type" : "HEADING"
-    }, {
-      "content" : "Människokroppen och kroppsdelarnas namn och funktion.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Hur hälsan påverkas av kost, motion, sömn, sociala relationer och beroendeframkallande medel.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Pubertet och hur den inverkar på individen. Sexualitet, reproduktion och olika slags relationer.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Människans upplevelser av ljus, ljud, temperatur, smak och doft med hjälp av olika sinnen.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Metoder och arbetssätt",
-      "type" : "HEADING"
-    }, {
-      "content" : "Fältstudier, experiment och sorteringar. Hur de genomförs och används för att undersöka närmiljön.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Dokumentation och redovisning av undersökningar och sorteringar med hjälp av skrift, bild och andra uttrycksformer.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Ämnesspecifika begrepp",
-      "type" : "HEADING"
-    }, {
-      "content" : "Ord, begrepp och symboler inom de naturorienterande ämnena, till exempel för att samtala om människa, djur och natur och för att utvärdera arbetsprocesser.",
-      "type" : "BULLET"
+      "heading" : "Ämnesspecifika begrepp",
+      "lines" : [ "Ord, begrepp och symboler inom de naturorienterande ämnena, till exempel för att samtala om människa, djur och natur och för att utvärdera arbetsprocesser." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven kan <strong>________</strong> till resonemang om jordens, solens och månens rörelser i förhållande till varandra och <strong>________</strong> i att beskriva deras betydelse för dag, natt och årstider.",
@@ -221,98 +152,23 @@
     "description" : "",
     "code" : "GRSANAT01_7-9",
     "centralContent" : [ {
-      "content" : "I årskurs 7-9",
-      "type" : "HEADING"
+      "heading" : "I årskurs 7-9",
+      "lines" : [ ]
     }, {
-      "content" : "Mönster och strukturer i naturen",
-      "type" : "HEADING"
+      "heading" : "Mönster och strukturer i naturen",
+      "lines" : [ "Jordens, solens och månens rörelser i förhållande till varandra och deras betydelse för dygn, månader, år och årstider. Universums uppkomst, utveckling och uppbyggnad.", "Naturvetenskapliga teorier om livets uppkomst. Livets utveckling och mångfald enligt evolutionsteorin.", "Näringskedjor som beskriver samband mellan organismer i ekosystem.", "Ekosystem i närmiljön och hur växter och djur samspelar med varandra och med miljön. Fotosyntes och förbränning.", "Vattnets kretslopp i naturen och samhällets vattenanvändning.", "Människan beroende av och påverkan på naturen och vad detta innebär för en hållbar utveckling." ]
     }, {
-      "content" : "Jordens, solens och månens rörelser i förhållande till varandra och deras betydelse för dygn, månader, år och årstider. Universums uppkomst, utveckling och uppbyggnad.",
-      "type" : "BULLET"
+      "heading" : "Naturvetenskap i vardagen",
+      "lines" : [ "Materialutveckling och hur människan har använt och utvecklat nya material genom historien.", "Elektriska kretsar med batterier och hur de kan kopplas. Hur de kan användas i vardaglig elektrisk utrustning, till exempel i ficklampor.", "Magneters egenskaper och användning i hemmet och i samhället.", "Kärnkraft, fossila och förnybara bränslen. Deras betydelse för vår energianvändning i samhället och deras för- och nackdelar när det gäller miljön.", "Vanliga kemikalier i hemmet och i samhället, till exempel rengöringsmedel, kosmetika och färger. Hur de används och hanteras på ett säkert sätt samt hur de påverkar hälsa och miljö.", "Verksamheter i närsamhället som rör naturvetenskap, till exempel vattenverk, värmeverk och tillverkningsindustri.", "Människan i rymden och användningen av satelliter.", "Aktuella samhällsfrågor som rör naturvetenskap.", "Berättelser om naturvetenskapliga upptäckter och framsteg genom tiderna." ]
     }, {
-      "content" : "Naturvetenskapliga teorier om livets uppkomst. Livets utveckling och mångfald enligt evolutionsteorin.",
-      "type" : "BULLET"
+      "heading" : "Kropp och hälsa",
+      "lines" : [ "Människokroppens organ, deras namn, placering, utseende och funktion.", "Hur hälsan påverkas av kost, motion, sömn, sociala relationer och beroendeframkallande medel.", "Virus, bakterier, smittspridning och infektioner samt förebyggande hälsovård.", "Människans pubertet, sexualitet och reproduktion. Frågor om identitet, relationer, kärlek och ansvar.", "Preventivmetoder och sexuellt överförbara sjukdomar.", "Hur ljud uppstår, hur örat uppfattar ljud och hur ljudmiljöer påverkar hälsan.", "Ljusets utbredning och hur ögat uppfattar ljus." ]
     }, {
-      "content" : "Näringskedjor som beskriver samband mellan organismer i ekosystem.",
-      "type" : "BULLET"
+      "heading" : "Metoder och arbetssätt",
+      "lines" : [ "Fältstudier, experiment och sorteringar. Hur de genomförs och används för att undersöka närmiljön.", "Dokumentation och redovisning av undersökningar och sorteringar med hjälp av skrift, bild och andra uttrycksformer." ]
     }, {
-      "content" : "Ekosystem i närmiljön och hur växter och djur samspelar med varandra och med miljön. Fotosyntes och förbränning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Vattnets kretslopp i naturen och samhällets vattenanvändning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Människan beroende av och påverkan på naturen och vad detta innebär för en hållbar utveckling.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Naturvetenskap i vardagen",
-      "type" : "HEADING"
-    }, {
-      "content" : "Materialutveckling och hur människan har använt och utvecklat nya material genom historien.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Elektriska kretsar med batterier och hur de kan kopplas. Hur de kan användas i vardaglig elektrisk utrustning, till exempel i ficklampor.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Magneters egenskaper och användning i hemmet och i samhället.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Kärnkraft, fossila och förnybara bränslen. Deras betydelse för vår energianvändning i samhället och deras för- och nackdelar när det gäller miljön.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Vanliga kemikalier i hemmet och i samhället, till exempel rengöringsmedel, kosmetika och färger. Hur de används och hanteras på ett säkert sätt samt hur de påverkar hälsa och miljö.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Verksamheter i närsamhället som rör naturvetenskap, till exempel vattenverk, värmeverk och tillverkningsindustri.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Människan i rymden och användningen av satelliter.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Aktuella samhällsfrågor som rör naturvetenskap.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Berättelser om naturvetenskapliga upptäckter och framsteg genom tiderna.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Kropp och hälsa",
-      "type" : "HEADING"
-    }, {
-      "content" : "Människokroppens organ, deras namn, placering, utseende och funktion.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Hur hälsan påverkas av kost, motion, sömn, sociala relationer och beroendeframkallande medel.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Virus, bakterier, smittspridning och infektioner samt förebyggande hälsovård.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Människans pubertet, sexualitet och reproduktion. Frågor om identitet, relationer, kärlek och ansvar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Preventivmetoder och sexuellt överförbara sjukdomar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Hur ljud uppstår, hur örat uppfattar ljud och hur ljudmiljöer påverkar hälsan.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Ljusets utbredning och hur ögat uppfattar ljus.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Metoder och arbetssätt",
-      "type" : "HEADING"
-    }, {
-      "content" : "Fältstudier, experiment och sorteringar. Hur de genomförs och används för att undersöka närmiljön.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Dokumentation och redovisning av undersökningar och sorteringar med hjälp av skrift, bild och andra uttrycksformer.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Ämnesspecifika begrepp",
-      "type" : "HEADING"
-    }, {
-      "content" : "Ord, begrepp och symboler inom de naturorienterande ämnena, till exempel för att samtala om människa, djur och natur och för att utvärdera arbetsprocesser.",
-      "type" : "BULLET"
+      "heading" : "Ämnesspecifika begrepp",
+      "lines" : [ "Ord, begrepp och symboler inom de naturorienterande ämnena, till exempel för att samtala om människa, djur och natur och för att utvärdera arbetsprocesser." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven kan <strong>________</strong> till resonemang om jordens, solens och månens rörelser i förhållande till varandra och <strong>________</strong> i att beskriva deras betydelse för dag, natt och årstider.",

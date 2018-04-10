@@ -14,32 +14,51 @@ class KnowledgeRequirementParserTest {
     private val dataDir = File("./src/test/resources/opendata/")
 
 
-
     @Test
-    fun testAgainstJsonFiles() {
+    fun testAgainstJsonFilesGR() {
+        testAgainstJsonFiles(SyllabusType.GR)
+    }
+    @Test
+    fun testAgainstJsonFilesGRS() {
+        testAgainstJsonFiles(SyllabusType.GRS)
+    }
+    @Test
+    fun testAgainstJsonFilesGY() {
+        testAgainstJsonFiles(SyllabusType.GY)
+    }
+    @Test
+    fun testAgainstJsonFilesGYS() {
+        testAgainstJsonFiles(SyllabusType.GYS)
+    }
+    @Test
+    fun testAgainstJsonFilesVUXGR() {
+        testAgainstJsonFiles(SyllabusType.VUXGR)
+    }
+    @Test
+    fun testAgainstJsonFilesSFI() {
+        testAgainstJsonFiles(SyllabusType.SFI)
+    }
+
+    private fun testAgainstJsonFiles(syllabusType: SyllabusType) {
         val mapper = ObjectMapper()
+        val subjectMap: MutableMap<String, Subject> = HashMap()
 
-        for (dir in File("./src/test/resources/valid").listFiles()) {
-            val syllabusType = SyllabusType.valueOf(dir.name)
-            val subjectMap: MutableMap<String, Subject> = HashMap()
+        for (subject in Syllabus(syllabusType, dataDir).getSubjects()) {
+            subjectMap[subject.code] = subject
+        }
 
-            for (subject in Syllabus(syllabusType, dataDir).getSubjects()) {
-                subjectMap[subject.code] = subject
-            }
+        val subjectDir = File("./src/test/resources/valid/${syllabusType.name}")
+        if (!subjectDir.isDirectory) fail("${subjectDir.absolutePath} is not a directory")
 
-            val subjectDir = File("./src/test/resources/valid/${syllabusType.name}")
-            if (!subjectDir.isDirectory) fail("${subjectDir.absolutePath} is not a directory")
-
-            for (file in File("./src/test/resources/valid/${syllabusType.name}").listFiles()) {
-                if (!file.name.endsWith(".json")) continue
-                val parsedSubject = subjectMap[file.nameWithoutExtension]
-                if (parsedSubject == null) {
-                    fail("No subject ${file.nameWithoutExtension} for file ${file.absolutePath}")
-                } else {
-                    val expected = file.readText()
-                    val actual = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(parsedSubject)
-                    assertEquals("Difference for subject ${syllabusType.name}/${file.nameWithoutExtension}", expected, actual)
-                }
+        for (file in File("./src/test/resources/valid/${syllabusType.name}").listFiles()) {
+            if (!file.name.endsWith(".json")) continue
+            val parsedSubject = subjectMap[file.nameWithoutExtension]
+            if (parsedSubject == null) {
+                fail("No subject ${file.nameWithoutExtension} for file ${file.absolutePath}")
+            } else {
+                val expected = file.readText()
+                val actual = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(parsedSubject)
+                assertEquals("Difference for subject ${syllabusType.name}/${file.nameWithoutExtension}", expected, actual)
             }
         }
     }

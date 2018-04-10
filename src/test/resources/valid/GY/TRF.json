@@ -4,73 +4,25 @@
   "code" : "TRF",
   "skolfsId" : "0000:00",
   "purposes" : [ {
-    "content" : "Undervisningen i ämnet trafikövervakning och signalsystem – spårfordon ska syfta till att eleverna utvecklar förståelse av hur systemen för trafikövervakning är uppbyggda och fungerar för spårfordon och trafikledning. Undervisningen ska leda till att eleverna utvecklar förståelse av den kommunikationsplattform som förvaltar och kontrollerar informationsflödet inom övervakningssystemen och övriga system i spårfordon och dess trafikmiljö. Undervisningen ska dessutom bidra till att eleverna utvecklar kunskap om de krav som ställs på övervakningssystemen för effektiv och tillförlitlig drift samt kunskap om de system som övervakar trafikrörelser.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet trafikövervakning och signalsystem – spårfordon ska syfta till att eleverna utvecklar förståelse av hur systemen för trafikövervakning är uppbyggda och fungerar för spårfordon och trafikledning.", "Undervisningen ska leda till att eleverna utvecklar förståelse av den kommunikationsplattform som förvaltar och kontrollerar informationsflödet inom övervakningssystemen och övriga system i spårfordon och dess trafikmiljö.", "Undervisningen ska dessutom bidra till att eleverna utvecklar kunskap om de krav som ställs på övervakningssystemen för effektiv och tillförlitlig drift samt kunskap om de system som övervakar trafikrörelser." ]
   }, {
-    "content" : "Undervisningen i ämnet ska leda till att eleverna utvecklar färdigheter i att hantera övervakningssystemen vid inträde och utträde från underhållsdepåer. Vidare ska undervisningen leda till att eleverna utvecklar färdigheter i att planera och utföra underhåll på övervakningssystemens ingående delar i enlighet med säkerhetsföreskrifter.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet ska leda till att eleverna utvecklar färdigheter i att hantera övervakningssystemen vid inträde och utträde från underhållsdepåer.", "Vidare ska undervisningen leda till att eleverna utvecklar färdigheter i att planera och utföra underhåll på övervakningssystemens ingående delar i enlighet med säkerhetsföreskrifter." ]
   }, {
-    "content" : "Undervisningen i ämnet trafikövervakning och signalsystem – spårfordon ska ge eleverna förutsättningar att utveckla följande:",
-    "type" : "HEADING"
-  }, {
-    "content" : "Förståelse av uppbyggnad och funktion hos trafikövervakningssystem för spårfordon, spår och signalsystem.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Kunskap om övervakningssystemens säkerhet och tillförlitlighet.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Kunskap om övervakningssystemens förebyggande och avhjälpande underhåll.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Kunskap om övervakningssystemens ingående delar och komponenter.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Kunskap om applikationsprogram i trafikövervakningssystem.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Färdighet i att hantera och vårda verktyg och teknisk utrustning.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Färdigheter i att tolka systemdokumentation, instruktioner och att dokumentera genomfört arbete.",
-    "type" : "BULLET"
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet trafikövervakning och signalsystem – spårfordon ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förståelse av uppbyggnad och funktion hos trafikövervakningssystem för spårfordon, spår och signalsystem.", "Kunskap om övervakningssystemens säkerhet och tillförlitlighet.", "Kunskap om övervakningssystemens förebyggande och avhjälpande underhåll.", "Kunskap om övervakningssystemens ingående delar och komponenter.", "Kunskap om applikationsprogram i trafikövervakningssystem.", "Färdighet i att hantera och vårda verktyg och teknisk utrustning.", "Färdigheter i att tolka systemdokumentation, instruktioner och att dokumentera genomfört arbete." ]
   } ],
   "courses" : [ {
     "name" : "Trafikövervakning och signalsystem – spårfordon",
     "description" : "Kursen omfattar punkterna 1–7 under rubriken Ämnets syfte.",
     "code" : "TRFTRA0",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
-    }, {
-      "content" : "Uppbyggnad och syftet med trafikövervakningssystem.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Förekommande övervakning och kontrollsystem, till exempel ERTMS och ATC.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Övervakningssystemens komponenter och dess uppbyggnads roll och funktion inom fordon och infrastruktur.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Kommunikationsplattformen hos trafikövervakningssystem.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Loggningssystem för trafikhändelser.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Övervakning och säkerhetssystemens funktion, effektivitet och tillförlitlighet.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Övervakningssystemets betydelse för systemtester och kalibrering av givare.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Applikationsprogram och kretsscheman.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Verktyg och arbetsutrustning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Scheman, ritningar och övrig dokumentation över komponenter och system.",
-      "type" : "BULLET"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Uppbyggnad och syftet med trafikövervakningssystem.", "Förekommande övervakning och kontrollsystem, till exempel ERTMS och ATC.", "Övervakningssystemens komponenter och dess uppbyggnads roll och funktion inom fordon och infrastruktur.", "Kommunikationsplattformen hos trafikövervakningssystem.", "Loggningssystem för trafikhändelser.", "Övervakning och säkerhetssystemens funktion, effektivitet och tillförlitlighet.", "Övervakningssystemets betydelse för systemtester och kalibrering av givare.", "Applikationsprogram och kretsscheman.", "Verktyg och arbetsutrustning.", "Scheman, ritningar och övrig dokumentation över komponenter och system." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven redogör <strong>________</strong> för uppbyggnad och funktion hos trafikövervakningssystem för spårfordon, spår och signalsystem samt för den kommunikationsplattform som förvaltar och kontrollerar informationsflöden.",

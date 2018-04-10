@@ -1,6 +1,8 @@
 package org.edtech.curriculum.internal
 
 import org.edtech.curriculum.CentralContent
+import org.edtech.curriculum.Purpose
+import org.edtech.curriculum.PurposeType
 import org.edtech.curriculum.YearGroup
 import org.junit.Assert.*
 import org.junit.Test
@@ -111,4 +113,38 @@ internal class HtmlUtilsTest {
         )
     }
 
+    @Test
+    fun toPurposesTest() {
+        assertEquals(
+                listOf(
+                        Purpose(PurposeType.PARAGRAPH,"", listOf(
+                                "Undervisningen i ämnet biologi ska syfta till att eleverna utvecklar kunskaper om biologins begrepp, teorier, modeller och arbetsmetoder.",
+                                "Den ska bidra till att eleverna utvecklar förståelse av biologins betydelse i samhället, till exempel för livskvalitet och hälsa genom medicinen, och för skyddandet av jordens ekosystem genom ekologin.",
+                                "Genom undervisningen ska eleverna ges möjlighet att utveckla ett naturvetenskapligt perspektiv på vår omvärld med evolutionsteorin som grund.",
+                                "I undervisningen ska aktuell forskning och elevernas upplevelser, nyfikenhet och kreativitet tas till vara.",
+                                "Undervisningen ska också bidra till att eleverna, från en naturvetenskaplig utgångspunkt, kan delta i samhällsdebatten och diskutera etiska frågor och ställningstaganden."
+                        )),
+                        Purpose(PurposeType.PARAGRAPH,"", listOf(
+                                "Molekylärbiologin, liksom många andra områden inom biologin, utvecklas i snabb takt.",
+                                "Utvecklingen sker i ett samspel mellan teori och experiment, där hypoteser, teorier och modeller testas, omvärderas och förändras.",
+                                "Undervisningen ska därför behandla teoriers och modellers utveckling, begränsningar och giltighetsområden.",
+                                "Den ska bidra till att eleverna utvecklar förmåga att arbeta teoretiskt och experimentellt samt att kommunicera med hjälp av ett naturvetenskapligt språk.",
+                                "Undervisningen ska också bidra till att eleverna utvecklar förmåga att kritiskt värdera och skilja mellan påståenden som bygger på vetenskaplig respektive icke-vetenskaplig grund."
+                        )),
+                        Purpose(PurposeType.PARAGRAPH, "", listOf(
+                                "Undervisningen ska innefatta naturvetenskapliga arbetsmetoder som att formulera och söka svar på frågor, göra systematiska observationer, planera och utföra experiment och fältstudier samt bearbeta, tolka och kritiskt granska resultat och information.",
+                                "I undervisningen ska eleverna ges tillfällen att argumentera kring och presentera analyser och slutsatser.",
+                                "De ska även ges möjlighet att använda datorstödd utrustning för insamling, simulering, beräkning, bearbetning och presentation av data."
+                        )),
+                        Purpose(PurposeType.BULLET, "Undervisningen i ämnet biologi ska ge eleverna förutsättningar att utveckla följande:", listOf(
+                                "Kunskaper om biologins begrepp, modeller, teorier och arbetsmetoder samt förståelse av hur dessa utvecklas.",
+                                "Förmåga att analysera och söka svar på ämnesrelaterade frågor samt att identifiera, formulera och lösa problem. Förmåga att reflektera över och värdera valda strategier, metoder och resultat.",
+                                "Förmåga att planera, genomföra, tolka och redovisa fältstudier, experiment och observationer samt förmåga att hantera material och utrustning.",
+                                "Kunskaper om biologins betydelse för individ och samhälle.",
+                                "Förmåga att använda kunskaper i biologi för att kommunicera samt för att granska och använda information."
+                        ))
+                ),
+                toPurposes("<p>Undervisningen i ämnet biologi ska syfta till att eleverna utvecklar kunskaper om biologins begrepp, teorier, modeller och arbetsmetoder. Den ska bidra till att eleverna utvecklar förståelse av biologins betydelse i samhället, till exempel för livskvalitet och hälsa genom medicinen, och för skyddandet av jordens ekosystem genom ekologin. Genom undervisningen ska eleverna ges möjlighet att utveckla ett naturvetenskapligt perspektiv på vår omvärld med evolutionsteorin som grund. I undervisningen ska aktuell forskning och elevernas upplevelser, nyfikenhet och kreativitet tas till vara. Undervisningen ska också bidra till att eleverna, från en naturvetenskaplig utgångspunkt, kan delta i samhällsdebatten och diskutera etiska frågor och ställningstaganden.</p><p>Molekylärbiologin, liksom många andra områden inom biologin, utvecklas i snabb takt. Utvecklingen sker i ett samspel mellan teori och experiment, där hypoteser, teorier och modeller testas, omvärderas och förändras. Undervisningen ska därför behandla teoriers och modellers utveckling, begränsningar och giltighetsområden. Den ska bidra till att eleverna utvecklar förmåga att arbeta teoretiskt och experimentellt samt att kommunicera med hjälp av ett naturvetenskapligt språk. Undervisningen ska också bidra till att eleverna utvecklar förmåga att kritiskt värdera och skilja mellan påståenden som bygger på vetenskaplig respektive icke-vetenskaplig grund.</p><p>Undervisningen ska innefatta naturvetenskapliga arbetsmetoder som att formulera och söka svar på frågor, göra systematiska observationer, planera och utföra experiment och fältstudier samt bearbeta, tolka och kritiskt granska resultat och information. I undervisningen ska eleverna ges tillfällen att argumentera kring och presentera analyser och slutsatser. De ska även ges möjlighet att använda datorstödd utrustning för insamling, simulering, beräkning, bearbetning och presentation av data.</p><h4>Undervisningen i ämnet biologi ska ge eleverna förutsättningar att utveckla följande:</h4><p> </p><ol> <li>Kunskaper om biologins begrepp, modeller, teorier och arbetsmetoder samt förståelse av hur dessa utvecklas.</li> <li>Förmåga att analysera och söka svar på ämnesrelaterade frågor samt att identifiera, formulera och lösa problem. Förmåga att reflektera över och värdera valda strategier, metoder och resultat.</li> <li>Förmåga att planera, genomföra, tolka och redovisa<br/>fältstudier, experiment och observationer samt förmåga att hantera material och utrustning.</li> <li>Kunskaper om biologins betydelse för individ och samhälle.</li> <li>Förmåga att använda kunskaper i biologi för att kommunicera samt för att granska och använda information.</li> </ol><p></p><h3>Kurser i ämnet</h3><p></p><ol> <li>Biologi 1, 100 poäng, som bygger på grundskolans kunskaper eller motsvarande.</li> <li>Biologi 2, 100 poäng, som bygger på kursen biologi 1.</li> <li>Bioteknik, 100 poäng, som bygger på kursen biologi 1.</li> </ol><p></p>")
+        )
+    }
 }

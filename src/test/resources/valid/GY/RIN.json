@@ -4,100 +4,25 @@
   "code" : "RIN",
   "skolfsId" : "0000:00",
   "purposes" : [ {
-    "content" : "Undervisningen i ämnet ridning och körning ska syfta till att eleverna utvecklar färdigheter i ridning och körning av hästar. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att utrusta, rida och köra hästar med hästarnas välbefinnande i centrum. Undervisningen ska leda till att eleverna utvecklar förmåga att samspela med hästar. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om sambandet mellan ändamålsenlig utrustning, träning och hästars hälsa. Undervisningen ska också bidra till att eleverna utvecklar kunskaper om hästars mentala och kroppsliga utbildning.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet ridning och körning ska syfta till att eleverna utvecklar färdigheter i ridning och körning av hästar.", "Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att utrusta, rida och köra hästar med hästarnas välbefinnande i centrum.", "Undervisningen ska leda till att eleverna utvecklar förmåga att samspela med hästar.", "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om sambandet mellan ändamålsenlig utrustning, träning och hästars hälsa.", "Undervisningen ska också bidra till att eleverna utvecklar kunskaper om hästars mentala och kroppsliga utbildning." ]
   }, {
-    "content" : "Genom rid- och körövningar ska eleverna ges möjlighet att utveckla förmåga att rida och köra hästar i olika åldrar och utbildningsstadier samt att tyda hästars reaktioner. Genom observationer ska eleverna ges möjlighet att utveckla kunskaper om hästars rörelse.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom rid- och körövningar ska eleverna ges möjlighet att utveckla förmåga att rida och köra hästar i olika åldrar och utbildningsstadier samt att tyda hästars reaktioner.", "Genom observationer ska eleverna ges möjlighet att utveckla kunskaper om hästars rörelse." ]
   }, {
-    "content" : "Undervisningen i ämnet ridning och körning ska ge eleverna förutsättningar att utveckla följande:",
-    "type" : "HEADING"
-  }, {
-    "content" : "Kunskaper om rid- och körlära samt om hästars olika gångarter.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Kunskaper om faktorer som påverkar hästars prestation och hållbarhet samt förmåga att tolka hästars reaktion på träning och bedöma dessa faktorer.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Förmåga att bedöma hästars allmäntillstånd samt kunskaper om träningsrelaterade skador och sjukdomar.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Kunskaper om hästars utbildning.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Förmåga att visitera, utrusta och hantera hästar för olika typer av arbete.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Förmåga att rida hästar i olika sitsar, i balans och i ändamålsenlig form.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Förmåga att köra hästar under kontroll och i ett bestämt tempo.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Förmåga att sköta och vårda utrustning.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Förmåga att arbeta säkert och ergonomiskt.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Kunskaper om lagar och andra bestämmelser som rör arbete med hästar.",
-    "type" : "BULLET"
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet ridning och körning ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om rid- och körlära samt om hästars olika gångarter.", "Kunskaper om faktorer som påverkar hästars prestation och hållbarhet samt förmåga att tolka hästars reaktion på träning och bedöma dessa faktorer.", "Förmåga att bedöma hästars allmäntillstånd samt kunskaper om träningsrelaterade skador och sjukdomar.", "Kunskaper om hästars utbildning.", "Förmåga att visitera, utrusta och hantera hästar för olika typer av arbete.", "Förmåga att rida hästar i olika sitsar, i balans och i ändamålsenlig form.", "Förmåga att köra hästar under kontroll och i ett bestämt tempo.", "Förmåga att sköta och vårda utrustning.", "Förmåga att arbeta säkert och ergonomiskt.", "Kunskaper om lagar och andra bestämmelser som rör arbete med hästar." ]
   } ],
   "courses" : [ {
     "name" : "Körning 1",
     "description" : "Kursen körning 1 omfattar punkterna 1–5 och 7–10 under rubriken Ämnets syfte, med särskild betoning på kunskaper om hästars olika gångarter samt punkterna 2 och 7.",
     "code" : "RINKOR01",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
-    }, {
-      "content" : "Hästars gångarter och rörelsemekanik.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Hästars beteende med betoning på deras avspänning, rakriktning, takt och balans.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Bedömning av hästars hälsa och kondition i samband med olika typer av arbete.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Hästars utbildning och arbete i olika åldrar utifrån deras individuella förutsättningar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Motionsträning och intervallträning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Tempobedömning och tidtagarövningar inom körningens discipliner.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Körning av hästar för olika användningsområden efter hästarnas individuella förutsättningar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Tömfattningar, kuskens position och hjälper.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Grunderna i tömkörning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Selning och utrustning av hästar för körning och för olika typer av arbete.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Skötsel och vård av utrustning, vagnar och redskap.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Klädsel och utrustning för olika situationer.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Ergonomi, arbetsmiljö och säkerhet i samband med körning av hästar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Lagar och andra bestämmelser som rör arbete med hästar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Bestämmelser om körning på väg samt i skog och mark.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Branschens etiska regler i samband med arbete med hästar.",
-      "type" : "BULLET"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Hästars gångarter och rörelsemekanik.", "Hästars beteende med betoning på deras avspänning, rakriktning, takt och balans.", "Bedömning av hästars hälsa och kondition i samband med olika typer av arbete.", "Hästars utbildning och arbete i olika åldrar utifrån deras individuella förutsättningar.", "Motionsträning och intervallträning.", "Tempobedömning och tidtagarövningar inom körningens discipliner.", "Körning av hästar för olika användningsområden efter hästarnas individuella förutsättningar.", "Tömfattningar, kuskens position och hjälper.", "Grunderna i tömkörning.", "Selning och utrustning av hästar för körning och för olika typer av arbete.", "Skötsel och vård av utrustning, vagnar och redskap.", "Klädsel och utrustning för olika situationer.", "Ergonomi, arbetsmiljö och säkerhet i samband med körning av hästar.", "Lagar och andra bestämmelser som rör arbete med hästar.", "Bestämmelser om körning på väg samt i skog och mark.", "Branschens etiska regler i samband med arbete med hästar." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven redogör <strong>________</strong> för hästars olika gångarter och rörelsemekanik.",
@@ -181,26 +106,44 @@
         "A" : "Dessutom genomför eleven <strong>efter samråd </strong>med handledare tömkörning av skolade hästar."
       }
     }, {
-      "text" : "I körningen tolkar eleven <strong>________</strong> hästens reaktioner på arbetet. Eleven tar också hänsyn till de faktorer som påverkar hästens prestation och hållbarhet.",
+      "text" : "I körningen tolkar eleven <strong>________</strong> hästens reaktioner på arbetet.",
       "no" : 5,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
-        "E" : "I körningen tolkar eleven <strong>med viss säkerhet </strong>hästens reaktioner på arbetet. Eleven tar också hänsyn till de faktorer som påverkar hästens prestation och hållbarhet.",
-        "C" : "I körningen tolkar eleven <strong>med viss säkerhet </strong>hästens reaktioner på arbetet. Eleven tar också hänsyn till de faktorer som påverkar hästens prestation och hållbarhet.",
-        "A" : "I körningen tolkar eleven <strong>med säkerhet </strong>hästens reaktioner på arbetet. Eleven tar också hänsyn till de faktorer som påverkar hästens prestation och hållbarhet."
+        "E" : "I körningen tolkar eleven <strong>med viss säkerhet </strong>hästens reaktioner på arbetet.",
+        "C" : "I körningen tolkar eleven <strong>med viss säkerhet </strong>hästens reaktioner på arbetet.",
+        "A" : "I körningen tolkar eleven <strong>med säkerhet </strong>hästens reaktioner på arbetet."
       }
     }, {
-      "text" : "Eleven sköter och vårdar <strong>________</strong> med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med körning.",
+      "text" : "Eleven tar också hänsyn till de faktorer som påverkar hästens prestation och hållbarhet.",
       "no" : 6,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
-        "E" : "Eleven sköter och vårdar <strong>i samråd </strong>med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med körning.",
-        "C" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med körning.",
-        "A" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med körning."
+        "E" : "Eleven tar också hänsyn till de faktorer som påverkar hästens prestation och hållbarhet.",
+        "C" : "Eleven tar också hänsyn till de faktorer som påverkar hästens prestation och hållbarhet.",
+        "A" : "Eleven tar också hänsyn till de faktorer som påverkar hästens prestation och hållbarhet."
+      }
+    }, {
+      "text" : "Eleven sköter och vårdar <strong>________</strong> med handledare aktuell utrustning.",
+      "no" : 7,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven sköter och vårdar <strong>i samråd </strong>med handledare aktuell utrustning.",
+        "C" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning.",
+        "A" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning."
+      }
+    }, {
+      "text" : "Eleven arbetar säkert och ergonomiskt i samband med körning.",
+      "no" : 8,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven arbetar säkert och ergonomiskt i samband med körning.",
+        "C" : "Eleven arbetar säkert och ergonomiskt i samband med körning.",
+        "A" : "Eleven arbetar säkert och ergonomiskt i samband med körning."
       }
     }, {
       "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
-      "no" : 7,
+      "no" : 9,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
         "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
@@ -224,53 +167,8 @@
     "description" : "Kursen körning 2 omfattar punkterna 1–5 och 7–10 under rubriken Ämnets syfte.",
     "code" : "RINKOR02",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
-    }, {
-      "content" : "Hästars rörelsemekanik och avvikelser från normalt rörelsemönster.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Observation av hästars hälsa och kondition.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Observation för att förutse vanligt förekommande träningsrelaterade skador.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Arbetsplaner och träningsprogram inom olika arbetsområden för körhästar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Träning av hästar för arbetskörning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Utbildning av körhästar i olika åldrar och utvecklingsstadier.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Hantering av hästar i samband med träning och tävling.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Tömkörning av skolade hästar efter deras individuella förutsättningar med betoning på hästarnas avspänning, rakriktning, takt och balans.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Grunderna i parkörning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Utrustning av hästar för olika arbete och anspänningar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Skötsel och vård av utrustning, vagnar och redskap.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Ergonomi, arbetsmiljö och säkerhet i samband med arbete med hästar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Lagar och andra bestämmelser som rör arbete med hästar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Bestämmelser om körning på väg samt i skog och mark.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Etik i samband med träning och tävling.",
-      "type" : "BULLET"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Hästars rörelsemekanik och avvikelser från normalt rörelsemönster.", "Observation av hästars hälsa och kondition.", "Observation för att förutse vanligt förekommande träningsrelaterade skador.", "Arbetsplaner och träningsprogram inom olika arbetsområden för körhästar.", "Träning av hästar för arbetskörning.", "Utbildning av körhästar i olika åldrar och utvecklingsstadier.", "Hantering av hästar i samband med träning och tävling.", "Tömkörning av skolade hästar efter deras individuella förutsättningar med betoning på hästarnas avspänning, rakriktning, takt och balans.", "Grunderna i parkörning.", "Utrustning av hästar för olika arbete och anspänningar.", "Skötsel och vård av utrustning, vagnar och redskap.", "Ergonomi, arbetsmiljö och säkerhet i samband med arbete med hästar.", "Lagar och andra bestämmelser som rör arbete med hästar.", "Bestämmelser om körning på väg samt i skog och mark.", "Etik i samband med träning och tävling." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven redogör <strong>________</strong> för hästars rörelsemekanik och eventuella avvikelser från normalt rörelsemönster.",
@@ -363,17 +261,26 @@
         "A" : "Eleven genomför <strong>efter samråd </strong>med handledare tömkörning av skolade hästar."
       }
     }, {
-      "text" : "Eleven sköter och vårdar <strong>________</strong> med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med körning.",
+      "text" : "Eleven sköter och vårdar <strong>________</strong> med handledare aktuell utrustning.",
       "no" : 6,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
-        "E" : "Eleven sköter och vårdar <strong>i samråd </strong>med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med körning.",
-        "C" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med körning.",
-        "A" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med körning."
+        "E" : "Eleven sköter och vårdar <strong>i samråd </strong>med handledare aktuell utrustning.",
+        "C" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning.",
+        "A" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning."
+      }
+    }, {
+      "text" : "Eleven arbetar säkert och ergonomiskt i samband med körning.",
+      "no" : 7,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven arbetar säkert och ergonomiskt i samband med körning.",
+        "C" : "Eleven arbetar säkert och ergonomiskt i samband med körning.",
+        "A" : "Eleven arbetar säkert och ergonomiskt i samband med körning."
       }
     }, {
       "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
-      "no" : 7,
+      "no" : 8,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
         "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
@@ -397,47 +304,8 @@
     "description" : "Kursen ridning 1 omfattar punkterna 1–6 och 8–10 under rubriken Ämnets syfte, med särskild betoning på kunskaper om hästars olika gångarter samt punkterna 2 och 6.",
     "code" : "RINRID01",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
-    }, {
-      "content" : "Hästars gångarter och rörelsemekanik.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Hästars svar på träning med tanke på takt, balans, lösgjordhet, kontakt, stöd, schvung, rakriktning och samling.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Bedömning av hästars hälsa och kondition i samband med olika typer av arbete.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Träningslära.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Ridning av hästar samt träning av ryttarens sits och ryttarens inverkan på hästen.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Longering av skolad häst i ändamålsenlig form och i avvägt tempo.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Grundläggande banhoppning och grundläggande hoppning i terräng.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Val och anpassning av hästars utrustning för ridning i olika situationer.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Val av ryttarklädsel och ryttarutrustning för olika situationer.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Ergonomi, arbetsmiljö och säkerhet i samband med arbete med hästar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Lagar och andra bestämmelser som rör arbete med hästar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Bestämmelser om ridning på väg samt i skog och mark.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Branschens etiska regler i samband med träning av och tävling med hästar.",
-      "type" : "BULLET"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Hästars gångarter och rörelsemekanik.", "Hästars svar på träning med tanke på takt, balans, lösgjordhet, kontakt, stöd, schvung, rakriktning och samling.", "Bedömning av hästars hälsa och kondition i samband med olika typer av arbete.", "Träningslära.", "Ridning av hästar samt träning av ryttarens sits och ryttarens inverkan på hästen.", "Longering av skolad häst i ändamålsenlig form och i avvägt tempo.", "Grundläggande banhoppning och grundläggande hoppning i terräng.", "Val och anpassning av hästars utrustning för ridning i olika situationer.", "Val av ryttarklädsel och ryttarutrustning för olika situationer.", "Ergonomi, arbetsmiljö och säkerhet i samband med arbete med hästar.", "Lagar och andra bestämmelser som rör arbete med hästar.", "Bestämmelser om ridning på väg samt i skog och mark.", "Branschens etiska regler i samband med träning av och tävling med hästar." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven redogör <strong>________</strong> för hästars olika gångarter och rörelsemekanik.",
@@ -512,26 +380,44 @@
         "A" : "Dessutom genomför eleven <strong>efter samråd </strong>med handledare longering av skolade hästar."
       }
     }, {
-      "text" : "I ridningen tolkar eleven <strong>________</strong> hästens reaktioner på arbetet. Eleven tar också hänsyn till de faktorer som påverkar hästens prestation och hållbarhet.",
+      "text" : "I ridningen tolkar eleven <strong>________</strong> hästens reaktioner på arbetet.",
       "no" : 4,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
-        "E" : "I ridningen tolkar eleven <strong>med viss säkerhet </strong>hästens reaktioner på arbetet. Eleven tar också hänsyn till de faktorer som påverkar hästens prestation och hållbarhet.",
-        "C" : "I ridningen tolkar eleven <strong>med viss säkerhet </strong>hästens reaktioner på arbetet. Eleven tar också hänsyn till de faktorer som påverkar hästens prestation och hållbarhet.",
-        "A" : "I ridningen tolkar eleven <strong>med säkerhet </strong>hästens reaktioner på arbetet. Eleven tar också hänsyn till de faktorer som påverkar hästens prestation och hållbarhet."
+        "E" : "I ridningen tolkar eleven <strong>med viss säkerhet </strong>hästens reaktioner på arbetet.",
+        "C" : "I ridningen tolkar eleven <strong>med viss säkerhet </strong>hästens reaktioner på arbetet.",
+        "A" : "I ridningen tolkar eleven <strong>med säkerhet </strong>hästens reaktioner på arbetet."
       }
     }, {
-      "text" : "Eleven sköter och vårdar <strong>________</strong> med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med ridning.",
+      "text" : "Eleven tar också hänsyn till de faktorer som påverkar hästens prestation och hållbarhet.",
       "no" : 5,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
-        "E" : "Eleven sköter och vårdar <strong>i samråd </strong>med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med ridning.",
-        "C" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med ridning.",
-        "A" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med ridning."
+        "E" : "Eleven tar också hänsyn till de faktorer som påverkar hästens prestation och hållbarhet.",
+        "C" : "Eleven tar också hänsyn till de faktorer som påverkar hästens prestation och hållbarhet.",
+        "A" : "Eleven tar också hänsyn till de faktorer som påverkar hästens prestation och hållbarhet."
+      }
+    }, {
+      "text" : "Eleven sköter och vårdar <strong>________</strong> med handledare aktuell utrustning.",
+      "no" : 6,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven sköter och vårdar <strong>i samråd </strong>med handledare aktuell utrustning.",
+        "C" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning.",
+        "A" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning."
+      }
+    }, {
+      "text" : "Eleven arbetar säkert och ergonomiskt i samband med ridning.",
+      "no" : 7,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven arbetar säkert och ergonomiskt i samband med ridning.",
+        "C" : "Eleven arbetar säkert och ergonomiskt i samband med ridning.",
+        "A" : "Eleven arbetar säkert och ergonomiskt i samband med ridning."
       }
     }, {
       "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
-      "no" : 6,
+      "no" : 8,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
         "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
@@ -555,50 +441,8 @@
     "description" : "Kursen ridning 2 omfattar punkterna 1–6 och 8–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 2 och 3.",
     "code" : "RINRID02",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
-    }, {
-      "content" : "Hästars gångarter och hoppteknik.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Hästars utveckling, till exempel muskelsättning, kondition, utseende och beteende.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Observation av hästars hälsa och kondition samt hästars reaktioner på träning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Arbetsplaner och träningsprogram för ridhästar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Visitering av, utrustning för och ridning av olika typer av hästar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Träning av hästar för någon eller några av ridsportens olika grenar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Hantering av hästar i samband med träning och tävling.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Assistans vid löshoppning samt byggande av bana för löshoppning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Tömkörning av skolad häst i ändamålsenlig form.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Val och vård av utrustning till hästar för olika slags arbete.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Ergonomi, arbetsmiljö och säkerhet i samband med arbete med hästar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Lagar och andra bestämmelser som rör arbete med hästar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Bestämmelser om ridning på väg samt i skog och mark.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Etik i samband med träning och tävling.",
-      "type" : "BULLET"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Hästars gångarter och hoppteknik.", "Hästars utveckling, till exempel muskelsättning, kondition, utseende och beteende.", "Observation av hästars hälsa och kondition samt hästars reaktioner på träning.", "Arbetsplaner och träningsprogram för ridhästar.", "Visitering av, utrustning för och ridning av olika typer av hästar.", "Träning av hästar för någon eller några av ridsportens olika grenar.", "Hantering av hästar i samband med träning och tävling.", "Assistans vid löshoppning samt byggande av bana för löshoppning.", "Tömkörning av skolad häst i ändamålsenlig form.", "Val och vård av utrustning till hästar för olika slags arbete.", "Ergonomi, arbetsmiljö och säkerhet i samband med arbete med hästar.", "Lagar och andra bestämmelser som rör arbete med hästar.", "Bestämmelser om ridning på väg samt i skog och mark.", "Etik i samband med träning och tävling." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven redogör <strong>________</strong> för hästars olika gångarter och hoppteknik.",
@@ -691,17 +535,26 @@
         "A" : "Eleven genomför <strong>efter samråd </strong>med handledare tömkörning av skolade hästar samt assisterar vid löshoppning."
       }
     }, {
-      "text" : "Eleven sköter och vårdar <strong>________</strong> med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med ridning.",
+      "text" : "Eleven sköter och vårdar <strong>________</strong> med handledare aktuell utrustning.",
       "no" : 6,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
-        "E" : "Eleven sköter och vårdar <strong>i samråd </strong>med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med ridning.",
-        "C" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med ridning.",
-        "A" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med ridning."
+        "E" : "Eleven sköter och vårdar <strong>i samråd </strong>med handledare aktuell utrustning.",
+        "C" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning.",
+        "A" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning."
+      }
+    }, {
+      "text" : "Eleven arbetar säkert och ergonomiskt i samband med ridning.",
+      "no" : 7,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven arbetar säkert och ergonomiskt i samband med ridning.",
+        "C" : "Eleven arbetar säkert och ergonomiskt i samband med ridning.",
+        "A" : "Eleven arbetar säkert och ergonomiskt i samband med ridning."
       }
     }, {
       "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
-      "no" : 7,
+      "no" : 8,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
         "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
@@ -725,59 +578,8 @@
     "description" : "Kursen ridning och körning omfattar punkterna 1–3 och 5–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 6 och 7.",
     "code" : "RINRID0",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
-    }, {
-      "content" : "Hästars gångarter, renhet och takt med variationer av tempo.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Hästars gångarter på körplan och motionsslinga.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Sjukdomar och skador hos hästar i samband med ridning och körning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Visitering av hästar med blick och hand.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Hantering och träning av hästar i samband med ridning och körning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Ridning och körning av hästar med utgångspunkt från rid- och körlärans riktlinjer.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Ridning av skolad häst på ridbana samt i skog och mark.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Ryttarens sits med balans, stadga och följsamhet genom inverkan av vikt-, skänkel- och tygelhjälp.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Körning av skolad häst på bana samt i skog och mark.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Kuskens följsamhet och inverkan på hästen.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Motions- och konkörning av skolad häst.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Visning vid hand av skolad häst.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Användning och skötsel av utrustning i samband med ridning och körning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Val av klädsel och personlig utrustning för olika situationer.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Ergonomi, arbetsmiljö och säkerhet i samband med arbete med hästar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Lagar och andra bestämmelser som rör arbete med hästar.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Bestämmelser om ridning och körning på väg samt i skog och mark.",
-      "type" : "BULLET"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Hästars gångarter, renhet och takt med variationer av tempo.", "Hästars gångarter på körplan och motionsslinga.", "Sjukdomar och skador hos hästar i samband med ridning och körning.", "Visitering av hästar med blick och hand.", "Hantering och träning av hästar i samband med ridning och körning.", "Ridning och körning av hästar med utgångspunkt från rid- och körlärans riktlinjer.", "Ridning av skolad häst på ridbana samt i skog och mark.", "Ryttarens sits med balans, stadga och följsamhet genom inverkan av vikt-, skänkel- och tygelhjälp.", "Körning av skolad häst på bana samt i skog och mark.", "Kuskens följsamhet och inverkan på hästen.", "Motions- och konkörning av skolad häst.", "Visning vid hand av skolad häst.", "Användning och skötsel av utrustning i samband med ridning och körning.", "Val av klädsel och personlig utrustning för olika situationer.", "Ergonomi, arbetsmiljö och säkerhet i samband med arbete med hästar.", "Lagar och andra bestämmelser som rör arbete med hästar.", "Bestämmelser om ridning och körning på väg samt i skog och mark." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven redogör <strong>________</strong> för rid- och körlärarens riktlinjer samt för hästars olika gångarter.",
@@ -843,17 +645,26 @@
         "A" : "Dessutom väljer eleven <strong>efter samråd </strong>med handledare lämplig utrustning för häst, ryttare och kusk."
       }
     }, {
-      "text" : "Eleven sköter och vårdar <strong>________</strong> med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med ridning och körning.",
+      "text" : "Eleven sköter och vårdar <strong>________</strong> med handledare aktuell utrustning.",
       "no" : 3,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
-        "E" : "Eleven sköter och vårdar <strong>i samråd </strong>med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med ridning och körning.",
-        "C" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med ridning och körning.",
-        "A" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med ridning och körning."
+        "E" : "Eleven sköter och vårdar <strong>i samråd </strong>med handledare aktuell utrustning.",
+        "C" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning.",
+        "A" : "Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning."
+      }
+    }, {
+      "text" : "Eleven arbetar säkert och ergonomiskt i samband med ridning och körning.",
+      "no" : 4,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven arbetar säkert och ergonomiskt i samband med ridning och körning.",
+        "C" : "Eleven arbetar säkert och ergonomiskt i samband med ridning och körning.",
+        "A" : "Eleven arbetar säkert och ergonomiskt i samband med ridning och körning."
       }
     }, {
       "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
-      "no" : 4,
+      "no" : 5,
       "paragraphNo" : 1,
       "knowledgeRequirementChoice" : {
         "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",

@@ -4,70 +4,29 @@
   "code" : "HAL",
   "skolfsId" : "0000:00",
   "purposes" : [ {
-    "content" : "Undervisningen i ämnet hälsa ska syfta till att eleverna utvecklar kunskaper om människors hälsa och om olika former av hälsofrämjande arbete. Eleverna ska ges möjlighet att utveckla kunskaper om folkhälsopolitiska mål och folkhälsoarbetets framväxt, innehåll och vad som styr detta. Undervisningen ska leda till att eleverna utvecklar förmåga att arbeta hälsofrämjande utifrån ett salutogent förhållningssätt vilket innebär att förstärka det friska och se människan som en resurs för eget välbefinnande.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet hälsa ska syfta till att eleverna utvecklar kunskaper om människors hälsa och om olika former av hälsofrämjande arbete.", "Eleverna ska ges möjlighet att utveckla kunskaper om folkhälsopolitiska mål och folkhälsoarbetets framväxt, innehåll och vad som styr detta.", "Undervisningen ska leda till att eleverna utvecklar förmåga att arbeta hälsofrämjande utifrån ett salutogent förhållningssätt vilket innebär att förstärka det friska och se människan som en resurs för eget välbefinnande." ]
   }, {
-    "content" : "Eleverna ska ges möjlighet att utveckla kunskaper om arbetsmiljö och hur goda arbetsförhållanden kan skapas. De ska dessutom ges möjlighet att utveckla insikt om den egna livsstilen och förmåga att utföra handlingar för ett ökat välbefinnande och en positiv självbild.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Eleverna ska ges möjlighet att utveckla kunskaper om arbetsmiljö och hur goda arbetsförhållanden kan skapas.", "De ska dessutom ges möjlighet att utveckla insikt om den egna livsstilen och förmåga att utföra handlingar för ett ökat välbefinnande och en positiv självbild." ]
   }, {
-    "content" : "Problemlösning och handlingsberedskap ska stimuleras i undervisningen. Genom fältstudier och genom att medverka i olika verksamheter ska eleverna ges möjlighet att få inblick i och erfarenhet av sociala och pedagogiska sammanhang. Eleverna ska ges möjlighet att reflektera över och diskutera centrala begrepp samt egna och andras handlingar och attityder. I undervisningen ska eleverna också ges möjlighet att utveckla förmåga att kritiskt söka, bearbeta, värdera och använda information från olika källor.",
-    "type" : "SECTION"
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Problemlösning och handlingsberedskap ska stimuleras i undervisningen.", "Genom fältstudier och genom att medverka i olika verksamheter ska eleverna ges möjlighet att få inblick i och erfarenhet av sociala och pedagogiska sammanhang.", "Eleverna ska ges möjlighet att reflektera över och diskutera centrala begrepp samt egna och andras handlingar och attityder.", "I undervisningen ska eleverna också ges möjlighet att utveckla förmåga att kritiskt söka, bearbeta, värdera och använda information från olika källor." ]
   }, {
-    "content" : "Undervisningen i ämnet hälsa ska ge eleverna förutsättningar att utveckla följande:",
-    "type" : "HEADING"
-  }, {
-    "content" : "Kunskaper om människors hälsa samt om hälsorelaterade levnadsvanor och livsvillkor och vilka konsekvenser de får för hälsan.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Kunskaper om folkhälsoarbete och olika former av hälsofrämjande metoder och aktiviteter samt deras hälsoeffekter.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Kunskaper om ergonomi samt förmåga att ergonomiskt anpassa sina rörelser till olika situationer och att bedöma hur miljöer kan anpassas till människan.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Förmåga att använda begrepp och teorier inom hälsoområdet.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Kunskaper om lagar och andra bestämmelser som styr hälsoarbetet samt förmåga att arbeta utifrån dessa.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Förmåga att arbeta med hänsyn till arbetsmiljö och säkerhet samt på ett yrkesetiskt sätt.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Färdigheter i att planera, genomföra, dokumentera och utvärdera olika former av hälsofrämjande arbete, metoder och aktiviteter samt undersökningar på individ-, grupp- och samhällsnivå.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Förmåga att diskutera egna och andras attityder till och värderingar av hälsa och hälsofrämjande arbete.",
-    "type" : "BULLET"
-  }, {
-    "content" : "Förmåga att kommunicera, samarbeta och samverka för att möta och pedagogiskt leda människor i olika situationer.",
-    "type" : "BULLET"
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet hälsa ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om människors hälsa samt om hälsorelaterade levnadsvanor och livsvillkor och vilka konsekvenser de får för hälsan.", "Kunskaper om folkhälsoarbete och olika former av hälsofrämjande metoder och aktiviteter samt deras hälsoeffekter.", "Kunskaper om ergonomi samt förmåga att ergonomiskt anpassa sina rörelser till olika situationer och att bedöma hur miljöer kan anpassas till människan.", "Förmåga att använda begrepp och teorier inom hälsoområdet.", "Kunskaper om lagar och andra bestämmelser som styr hälsoarbetet samt förmåga att arbeta utifrån dessa.", "Förmåga att arbeta med hänsyn till arbetsmiljö och säkerhet samt på ett yrkesetiskt sätt.", "Färdigheter i att planera, genomföra, dokumentera och utvärdera olika former av hälsofrämjande arbete, metoder och aktiviteter samt undersökningar på individ-, grupp- och samhällsnivå.", "Förmåga att diskutera egna och andras attityder till och värderingar av hälsa och hälsofrämjande arbete.", "Förmåga att kommunicera, samarbeta och samverka för att möta och pedagogiskt leda människor i olika situationer." ]
   } ],
   "courses" : [ {
     "name" : "Ergonomi",
     "description" : "Kursen ergonomi omfattar punkterna 1, 3–7 och 9 under rubriken Ämnets syfte, med särskild betoning på punkt 3. ",
     "code" : "HALERG0",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
-    }, {
-      "content" : "Begreppet ergonomi samt ergonomi som kunskapsområde.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Arbetets och arbetsmiljöns påverkan på hälsa och välbefinnande. Hur miljöer ergonomiskt kan anpassas till människan.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Yrkesetik i arbetet samt lagar och andra bestämmelser som reglerar arbetet.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Tekniker för ergonomiskt och säkert utfört arbete i olika situationer, såväl i vardags- som i arbetslivet. Riskanalys och konsekvenser vid rätt respektive felaktig teknik.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Ergonomiska verktyg och annan teknisk utrustning, deras funktion och underhåll.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Kommunikation, samarbete och samverkan i mötet med människor.",
-      "type" : "BULLET"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Begreppet ergonomi samt ergonomi som kunskapsområde.", "Arbetets och arbetsmiljöns påverkan på hälsa och välbefinnande. Hur miljöer ergonomiskt kan anpassas till människan.", "Yrkesetik i arbetet samt lagar och andra bestämmelser som reglerar arbetet.", "Tekniker för ergonomiskt och säkert utfört arbete i olika situationer, såväl i vardags- som i arbetslivet. Riskanalys och konsekvenser vid rätt respektive felaktig teknik.", "Ergonomiska verktyg och annan teknisk utrustning, deras funktion och underhåll.", "Kommunikation, samarbete och samverkan i mötet med människor." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven redogör <strong>________</strong> för kunskapsområdet ergonomis betydelse för människors hälsa och välbefinnande.",
@@ -176,54 +135,30 @@
     "description" : "Kursen hälsopedagogik omfattar punkterna 1–2 och 4–9 under rubriken Ämnets syfte.",
     "code" : "HALHAL0",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
-    }, {
-      "content" : "Människors hälsa, hälsorelaterade levnadsvanor och olika hälsoeffekter ur ett miljöperspektiv, historiskt perspektiv och internationellt perspektiv samt ur sociala och kulturella aspekter.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Olika former av folkhälsoarbete och hälsofrämjande arbetssätt på individ-, grupp- och samhällsnivå.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Innebörden av ett salutogent förhållningssätt.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Arbetets, arbetsmiljöns och fritidens påverkan på människors hälsa.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Innebörden av inflytande, delaktighet och jämställdhet för människors hälsa.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Frisk- och riskfaktorers påverkan på människors hälsa, till exempel motion, rekreation och kost, samt droger och stress.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Kriser och krishantering.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Lagar, mål, andra bestämmelser och överenskommelser för folkhälsoarbete på internationell, nationell och lokal nivå.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Metoder för att analysera människors hälsotillstånd.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Kritisk bearbetning av information från olika källor.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Interaktion och kommunikation i samarbete och möten med människor.",
-      "type" : "BULLET"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Människors hälsa, hälsorelaterade levnadsvanor och olika hälsoeffekter ur ett miljöperspektiv, historiskt perspektiv och internationellt perspektiv samt ur sociala och kulturella aspekter.", "Olika former av folkhälsoarbete och hälsofrämjande arbetssätt på individ-, grupp- och samhällsnivå.", "Innebörden av ett salutogent förhållningssätt.", "Arbetets, arbetsmiljöns och fritidens påverkan på människors hälsa.", "Innebörden av inflytande, delaktighet och jämställdhet för människors hälsa.", "Frisk- och riskfaktorers påverkan på människors hälsa, till exempel motion, rekreation och kost, samt droger och stress.", "Kriser och krishantering.", "Lagar, mål, andra bestämmelser och överenskommelser för folkhälsoarbete på internationell, nationell och lokal nivå.", "Metoder för att analysera människors hälsotillstånd.", "Kritisk bearbetning av information från olika källor.", "Interaktion och kommunikation i samarbete och möten med människor." ]
     } ],
     "knowledgeRequirement" : [ {
-      "text" : "Eleven beskriver <strong>________</strong> människors hälsa, hälsorelaterade levnadsvanor och livsvillkor ur olika perspektiv och aspekter. Eleven ger också exempel på faktorer som påverkar människors hälsa.",
+      "text" : "Eleven beskriver <strong>________</strong> människors hälsa, hälsorelaterade levnadsvanor och livsvillkor ur olika perspektiv och aspekter.",
       "no" : 0,
       "paragraphNo" : 0,
       "knowledgeRequirementChoice" : {
-        "E" : "Eleven beskriver <strong>översiktligt</strong> människors hälsa, hälsorelaterade levnadsvanor och livsvillkor ur olika perspektiv och aspekter. Eleven ger också exempel på faktorer som påverkar människors hälsa.",
-        "C" : "Eleven beskriver <strong>utförligt</strong> människors hälsa, hälsorelaterade levnadsvanor och livsvillkor ur olika perspektiv och aspekter. Eleven ger också exempel på faktorer som påverkar människors hälsa.",
-        "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> människors hälsa, hälsorelaterade levnadsvanor och livsvillkor ur olika perspektiv och aspekter. Eleven ger också exempel på faktorer som påverkar människors hälsa."
+        "E" : "Eleven beskriver <strong>översiktligt</strong> människors hälsa, hälsorelaterade levnadsvanor och livsvillkor ur olika perspektiv och aspekter.",
+        "C" : "Eleven beskriver <strong>utförligt</strong> människors hälsa, hälsorelaterade levnadsvanor och livsvillkor ur olika perspektiv och aspekter.",
+        "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> människors hälsa, hälsorelaterade levnadsvanor och livsvillkor ur olika perspektiv och aspekter."
+      }
+    }, {
+      "text" : "Eleven ger också exempel på faktorer som påverkar människors hälsa.",
+      "no" : 1,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven ger också exempel på faktorer som påverkar människors hälsa.",
+        "C" : "Eleven ger också exempel på faktorer som påverkar människors hälsa.",
+        "A" : "Eleven ger också exempel på faktorer som påverkar människors hälsa."
       }
     }, {
       "text" : "Dessutom beskriver eleven <strong>________</strong> folkhälsoarbete och hälsofrämjande arbetssätt på individ-, grupp- och samhällsnivå.",
-      "no" : 1,
+      "no" : 2,
       "paragraphNo" : 0,
       "knowledgeRequirementChoice" : {
         "E" : "Dessutom beskriver eleven <strong>översiktligt </strong>folkhälsoarbete och hälsofrämjande arbetssätt på individ-, grupp- och samhällsnivå.",
@@ -232,7 +167,7 @@
       }
     }, {
       "text" : "I beskrivningarna använder eleven <strong>________</strong> centrala begrepp och teorier samt förklarar <strong>________</strong> samband och drar <strong>________</strong> slutsatser.",
-      "no" : 2,
+      "no" : 3,
       "paragraphNo" : 0,
       "knowledgeRequirementChoice" : {
         "E" : "I beskrivningarna använder eleven <strong>med viss säkerhet </strong>centrala begrepp och teorier samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.",
@@ -346,29 +281,8 @@
     "description" : "Kursen kost och hälsa omfattar punkterna 1–2, 4–5, 8 och 9 under rubriken Ämnets syfte.",
     "code" : "HALKOC0",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
-    }, {
-      "content" : "Kostens och måltidens betydelse för hälsa och välbefinnande.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Näringslära, livsmedelskvalitet och tillagning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Betydelsen av fysisk aktivitet och vila för människors hälsa.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Hygien, smitta och smittspridning.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Olika allergier, deras konsekvenser och hur de kan hanteras.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Människors behov av specialkoster utifrån medicinska, kulturella och etiska skäl och hantering av detta.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Kritisk användning av information från olika källor.",
-      "type" : "BULLET"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Kostens och måltidens betydelse för hälsa och välbefinnande.", "Näringslära, livsmedelskvalitet och tillagning.", "Betydelsen av fysisk aktivitet och vila för människors hälsa.", "Hygien, smitta och smittspridning.", "Olika allergier, deras konsekvenser och hur de kan hanteras.", "Människors behov av specialkoster utifrån medicinska, kulturella och etiska skäl och hantering av detta.", "Kritisk användning av information från olika källor." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven redogör <strong>________</strong> för hur kosten kan påverka människors hälsa och välbefinnande.",
@@ -441,29 +355,8 @@
     "description" : "Kursen mental träning omfattar punkterna 1–2, 4, 7 och 9 under rubriken Ämnets syfte.",
     "code" : "HALMEN0",
     "centralContent" : [ {
-      "content" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
-      "type" : "HEADING"
-    }, {
-      "content" : "Psykologiska faktorer i relation till prestation.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Olika stressorer i vardagen.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Teoretiska modeller för stresshantering.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Aktuell forskning inom området.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Motivation och målfokusering.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Mentala avslappnings- och träningsmetoder, till exempel mindfulness.",
-      "type" : "BULLET"
-    }, {
-      "content" : "Pedagogiska modeller för instruktion och handledning.",
-      "type" : "BULLET"
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Psykologiska faktorer i relation till prestation.", "Olika stressorer i vardagen.", "Teoretiska modeller för stresshantering.", "Aktuell forskning inom området.", "Motivation och målfokusering.", "Mentala avslappnings- och träningsmetoder, till exempel mindfulness.", "Pedagogiska modeller för instruktion och handledning." ]
     } ],
     "knowledgeRequirement" : [ {
       "text" : "Eleven beskriver <strong>________</strong> olika faktorer i människors vardag som påverkar prestationsförmågan.",
