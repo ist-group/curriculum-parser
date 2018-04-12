@@ -37,55 +37,57 @@ Other dependencies used for building the parser is:
 The library is not yet published to maven central or similar, to be able to include it in your project, first add it to a local maven repository by typing:
 ``gradle publishToMavenLocal``
 
-To the project to be using the library add 
+To the project is not yet published to maven central or similar. 
+To include it to your project use [Jitpack ](https://jitpack.io/) to include the latest release directly from GitHub. 
 ```
 repositories {
     ...
-    mavenLocal()
+    maven { url 'https://jitpack.io' }
 }
 dependencies {
     ...
-    compile("org.edtech:curriculum-parser:0.0.1")
+    compile 'com.github.stefan-jonasson:curriculum-parser:<release>'    
 ```
 
-When the library is included in your dependencies use it by loading a file for skolverkets opendata and extract the information with the `SubjectParser`
+The entry point to the parser is the Syllabus class.
+The class takes two constructor parameters, a syllabus type and a directory reference (java.io.File).
+The if no directory is supplied the current temporary directory will be used and the necessary files will automatically be downloaded from skolverket. 
+If you would like to use a fixed version of skolverkets files just put the opendata files in a directory and supply a reference to that directory.
+Get the representation of the parsed subjects and courses by invoking the getSubjects() method.  
+ ```$kotlin
+    val syllabus = Syllabus(<SyllabusType>, <File representing a workind directory for storing the opendata archive files>)
+    // Get all subjects in for the loaded syllabys type
+    sullabus.getSubjects()
+ ```
+ 
+Example code in Java for loading the parsed representation for "Grundskolan": 
 ```$java
 package com.company.xxx
 import org.edtech.curriculum.*;
 
-import java.io.File;
 import java.util.List;
 
 public class MyApp {
 
     public static void main (String[] args) {
-        if (args.length > 0) {
-            SubjectParser sp = new SubjectParser(new File(args[0]));
-            Subject subject = sp.getSubject();
-
-            List<Course> courses = sp.getCourses();
-            System.out.println("Subject name: " + subject.getName() );
-            if (courses != null) {
-                for (Course course: courses) {
-                    System.out.println("Course: " + course.getName());
-
-                    course.getKnowledgeRequirement().forEach(kn -> {
-                        System.out.println(String.format("Knowledge requirement(%d): %s", kn.getNo(), kn.getText()));
-                        kn.getKnowledgeRequirementChoice().forEach((gradeStep, text) -> {
-                            System.out.println(String.format("[%s]: %s", gradeStep.name(), text));
-                        });
+        List<Subject> subjects = new Syllabus(syllabusType.GR).getSubjects()
+        subjects.forEach(subject -> {                 
+            System.out.println("Subject name: " + subject.getName() );                
+            subject.getCourses().forEach(course -> {
+                System.out.println("Course: " + course.getName());
+                course.getKnowledgeRequirement().forEach(kn -> {
+                    System.out.println(String.format("Knowledge requirement(%d): %s", kn.getNo(), kn.getText()));
+                    kn.getKnowledgeRequirementChoice().forEach((gradeStep, text) -> {
+                        System.out.println(String.format("[%s]: %s", gradeStep.name(), text));
                     });
-                }
-            }
-        } else {
-            System.out.println("You have to supply an subject xml file as the first parameter");
-        }
+                });                    
+            });
+        });        
     }
 }
-
 ```
 ### Generating to java docs
-Javadoc is generated with dokka, to build your local version of the api dokumentation just run:
+Javadoc is generated with dokka, to build your local version of the api documentation just run:
 ``gradle dokka``
 ### Running the unittests
 To run the included tests: `gradle test`
