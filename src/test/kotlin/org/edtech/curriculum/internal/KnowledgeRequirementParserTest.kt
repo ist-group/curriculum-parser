@@ -1,7 +1,10 @@
-package org.edtech.curriculum
+package org.edtech.curriculum.internal
 
 import com.fasterxml.jackson.databind.ObjectMapper
-import org.edtech.curriculum.internal.*
+import org.edtech.curriculum.GradeStep
+import org.edtech.curriculum.Subject
+import org.edtech.curriculum.Syllabus
+import org.edtech.curriculum.SyllabusType
 import org.jsoup.Jsoup
 import org.junit.Assert.*
 import org.junit.Test
@@ -10,7 +13,7 @@ import java.io.File
 
 class KnowledgeRequirementParserTest {
 
-    private val hasMissingRequirementsFromSkolverket = setOf("BYPRIT0", "RINRID02", "SPEIDT0", "TESPRO01", "TEYPRO01", "HAVFIN05S")
+    private val hasMissingRequirementsFromSkolverket = setOf("BYPRIT0", "RINRID02", "SPEIDT0", "TESPRO01", "TEYPRO01", "HAVFIN05S", "SVESVE02")
     private val dataDir = File("./src/test/resources/opendata/")
 
 
@@ -143,11 +146,11 @@ class KnowledgeRequirementParserTest {
     fun noEmptyKnowledgeRequirementChoicesVUXGR() {
         testSubjects(Syllabus(SyllabusType.VUXGR, dataDir).getSubjects())
     }
-    @Test
+/*    @Test
     fun noEmptyKnowledgeRequirementChoicesSFI() {
         testSubjects(Syllabus(SyllabusType.SFI, dataDir).getSubjects())
     }
-
+*/
     private fun testSubjects(subjects: List<Subject>) {
         for (subject in subjects) {
             for (course in subject.courses) {
@@ -156,7 +159,7 @@ class KnowledgeRequirementParserTest {
                 // Make sure tha all requirements are set, exclude errors from skolverket.
                 if (!hasMissingRequirementsFromSkolverket.contains(course.code)) {
                     course.knowledgeRequirement.forEach {
-                        if (!it.knowledgeRequirementChoice.keys.containsAll(setOf(GradeStep.E,GradeStep.C, GradeStep.E)) &&
+                        if (!it.knowledgeRequirementChoice.keys.containsAll(setOf(GradeStep.E, GradeStep.C, GradeStep.E)) &&
                                 !it.knowledgeRequirementChoice.keys.contains(GradeStep.G)) {
                             fail("Knowledge Requirement Choices should be either E,C,A or G failed for: ${subject.name}/${course.name}")
                         }

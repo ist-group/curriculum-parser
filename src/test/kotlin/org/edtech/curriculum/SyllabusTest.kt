@@ -26,10 +26,10 @@ class SyllabusTest {
     fun testGetSubjectsHtmlVUXGR() {
         testGetSubjectsHtml(SyllabusType.VUXGR)
     }
-    @Test
+/*    @Test
     fun testGetSubjectsHtmlSFI() {
         testGetSubjectsHtml(SyllabusType.SFI)
-    }
+    }*/
     @Test
     fun testGetSubjectsGR() {
         testGetSubjects(SyllabusType.GR)
@@ -50,11 +50,11 @@ class SyllabusTest {
     fun testGetSubjectsVUXGR() {
         testGetSubjects(SyllabusType.VUXGR)
     }
-    @Test
+/*    @Test
     fun testGetSubjectsSFI() {
         testGetSubjects(SyllabusType.SFI)
     }
-
+*/
     private fun testGetSubjectsHtml(syllabusType: SyllabusType) {
         Syllabus(syllabusType, File("./src/test/resources/opendata/")).subjectHtml.forEach {
             assertTrue("${syllabusType.name}/${it.code} has no name", it.name.isNotEmpty())
@@ -81,20 +81,40 @@ class SyllabusTest {
         }
     }
 
+    private fun testPurpose(name: String, purposes: List<Purpose>) {
+        assertTrue("$name has no purpose", purposes.isNotEmpty() )
+
+        purposes.forEach {
+            assertTrue( "Found empty purpose in $name", it.lines.isNotEmpty() || it.heading.isNotEmpty())
+            assertNull( "Found empty purpose line in $name", it.lines.firstOrNull { it.trim().isEmpty() })
+            if (it.type == PurposeType.BULLET) {
+                assertTrue( "Bullet lists always needs a heading $name", it.heading.isNotEmpty())
+            }
+        }
+    }
+
+    private fun testCentralContent(name: String, centralContents: List<CentralContent>) {
+        assertTrue("$name has no central contents", centralContents.isNotEmpty() )
+
+        centralContents.forEach {
+            assertTrue( "Found empty central contents in $name", it.lines.isNotEmpty() || it.heading.isNotEmpty())
+            assertNull( "Found empty central contents line in $name", it.lines.firstOrNull { it.trim().isEmpty() })
+        }
+    }
+
     private fun testGetSubjects(syllabusType: SyllabusType) {
         Syllabus(syllabusType, File("./src/test/resources/opendata/")).getSubjects().forEach {
             assertTrue("${syllabusType.name}/${it.name} has no name", it.name.isNotEmpty())
             assertTrue("${syllabusType.name}/${it.name} has no skolfsId", it.skolfsId.isNotEmpty())
             assertTrue("${syllabusType.name}/${it.name} has no code", it.code.isNotEmpty())
             assertTrue("${syllabusType.name}/${it.name} has no courses", it.courses.isNotEmpty())
-            assertTrue("${syllabusType.name}/${it.name} has no purpose", it.purposes.isNotEmpty() )
+            testPurpose("${syllabusType.name}/${it.name}", it.purposes)
 
             it.courses.forEach { course ->
+                testCentralContent("${course.code}/${course.name}", course.centralContent)
                 assertTrue("${course.code}/${course.name} has no knowledgeRequirements", course.knowledgeRequirement.isNotEmpty())
-                assertTrue("${course.code}/${course.name} has no centralContent", course.centralContent.isNotEmpty())
                 assertTrue("${course.code}/${course.name} has no code", course.code.isNotEmpty())
                 assertTrue("${course.code}/${course.name} has no name", course.name.isNotEmpty())
-
                 // Only check real courses
                 if (course.year == null ) {
                     if (course.point == null) {

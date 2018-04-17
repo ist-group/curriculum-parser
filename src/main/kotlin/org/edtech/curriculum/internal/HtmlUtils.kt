@@ -45,11 +45,13 @@ internal fun fixCurriculumErrors(text: String): String {
     return fixHtmlEncoding(text)
             .replace(Regex("(?<=[a-zåäö]) (Vidare|Eleven|Dessutom)"), ". $1")
             .replace("</strong><strong>", "")
-            .replace(Regex("<strong> </strong>"), "")
-            .replace("<strong><italic>. </italic></strong>", ". ")
-            .replace("<strong> <italic>  .  </italic></strong>", ". ")
             .replace("<br/>", " ")
             .replace("<br>", " ")
+            .replace("<strong> </strong>", " ")
+            .replace("<strong></strong>", "")
+            .replace("<strong><italic>. </italic></strong>", ". ")
+            .replace("<strong> <italic>  .  </italic></strong>", ". ")
+            .replace("<p>.</p>", "")
             .replace("<p>.</p>", "")
             .trim()
 }
@@ -168,6 +170,15 @@ internal fun toCentralContent(html: String): List<CentralContent> {
  */
 internal fun toPurposes(html: String): List<Purpose> {
     val fragment = Jsoup.parseBodyFragment(html)
+    // Some subjects do not have real paragraphs, convert <br> tags to <p></p>
+    fragment.select("body > p")
+            .forEach {
+                val paragraphHtml = it.html()
+                if (paragraphHtml.contains("<br>")) {
+                    it.before("<p>${paragraphHtml.replace("<br>", "</p><p>")}</p>")
+                    it.remove()
+                }
+            }
     // Remove empty paragraphs
     fragment.select("body > p")
             .forEach {
@@ -206,7 +217,18 @@ internal fun toPurposes(html: String): List<Purpose> {
                         }
                     }
                 // Bullet list, pick the previous element as heading
-                    "ul", "ol" -> Purpose(PurposeType.BULLET, it.previousElementSibling().text(), it.children().map { it.text().trim() })
+                    "ul", "ol" -> {
+                        Purpose(PurposeType.BULLET,
+                                if (it.previousElementSibling() != null) {
+                                    it.previousElementSibling().text()
+                                } else {
+                                    ""
+                                },
+                                it.children().map {
+                                    it.text().trim()
+                                }
+                        )
+                    }
                 // Heading
                     "h1","h2","h3","h4","h5","h6","i" -> {
                         // Only create a "loose" header if there is another header element following this one
