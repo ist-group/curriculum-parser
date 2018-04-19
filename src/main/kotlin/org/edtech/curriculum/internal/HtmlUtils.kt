@@ -47,12 +47,12 @@ internal fun fixCurriculumErrors(text: String): String {
             .replace("</strong><strong>", "")
             .replace("<br/>", " ")
             .replace("<br>", " ")
-            .replace("<strong> </strong>", " ")
-            .replace("<strong></strong>", "")
-            .replace("<strong><italic>. </italic></strong>", ". ")
-            .replace("<strong> <italic>  .  </italic></strong>", ". ")
-            .replace("<p>.</p>", "")
-            .replace("<p>.</p>", "")
+            .replace(Regex("<italic>([^<]*)</italic>"), "$1")
+            .replace(Regex("<strong>([ ]*)</strong>"), "$1")
+            .replace(".</p><p>.</p>", ".</p>")
+            .replace("</p><p>.</p>", ".</p>")
+            // Remove double spacing
+            .replace(Regex("[ ][ ]+"),  " ")
             .trim()
 }
 

@@ -69,6 +69,46 @@ internal class HtmlUtilsTest {
         assertEquals(listOf("elev", "elev", "elev"), removeInflections(listOf("eleven", "elever", "elevens")))
     }
 
+    @Test fun fixCurriculumErrorsText() {
+        assertEquals(
+            "<h4>Betyget A</h4><p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare olika arbetsuppgifter i matsal eller lokal utifrån de tidsramar som ska gälla för arbetets utförande. I planeringen väljer eleven <strong>efter samråd </strong>med handledare metoder, material, redskap och annan utrustning utifrån olika teman och högtider. Eleven skapar <strong>med säkerhet </strong>bordsdekorationer för olika arrangemang och ceremoniella måltider.</p><p>Eleven kombinerar, presenterar och rekommenderar <strong>med säkerhet </strong>mat och dryck utifrån meny och dryckeslista samt sätter samman promemorior, olika arrangé och matsedlar för gästers räkning. Eleven utför med<strong> mycket gott </strong>handlag servering av mat och dryck vid olika beställningsarrangemang med tanke på tidsåtgång, ekonomi och miljö samt sätter <strong>efter samråd </strong>med handledare samman körscheman för detta. Dessutom bemöter eleven gästen och utför <strong>efter samråd </strong>med handledare arbetet på ett serviceinriktat sätt. Eleven utför också kalkylering, prissättning och lönsamhetsberäkningar av olika beställningsarrangemang <strong>efter samråd </strong>med handledare. </p><p>Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>. När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+            fixCurriculumErrors("<h4>Betyget A</h4><p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare olika arbetsuppgifter i matsal eller lokal utifrån de tidsramar som ska gälla för arbetets utförande. I planeringen väljer eleven <strong>efter samråd </strong>med handledare metoder, material, redskap och annan utrustning utifrån olika teman och högtider. Eleven skapar <strong>med säkerhet </strong>bordsdekorationer för olika arrangemang och ceremoniella måltider.</p><p>Eleven kombinerar, presenterar och rekommenderar <strong>med säkerhet </strong>mat och dryck utifrån meny och dryckeslista samt sätter samman promemorior, olika arrangé och matsedlar för gästers räkning. Eleven utför med<strong> mycket gott </strong>handlag servering av mat och dryck vid olika beställningsarrangemang med tanke på tidsåtgång, ekonomi och miljö samt sätter <strong>efter samråd </strong>med handledare<strong> </strong>samman körscheman för detta. Dessutom bemöter eleven gästen och utför <strong>efter samråd </strong>med handledare arbetet på ett serviceinriktat sätt. Eleven utför också kalkylering, prissättning och lönsamhetsberäkningar av olika beställningsarrangemang <strong>efter samråd </strong>med handledare. </p><p>Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>. När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>")
+        )
+        assertEquals(
+            "<p>Text text.</p>",
+            fixCurriculumErrors("<p>Text <italic>text</italic>.</p>")
+        )
+        assertEquals(
+            "<p>Text text.</p>",
+            fixCurriculumErrors("<p>Text<strong> </strong>text.</p>")
+        )
+        assertEquals(
+            "<p>Text<strong> text</strong>.</p>",
+            fixCurriculumErrors("<p>Text<strong> <italic> text</italic></strong>.</p>")
+        )
+        assertEquals(
+            "<p><strong>Text text</strong>. </p>",
+            fixCurriculumErrors("<p><strong>Text</strong><strong> text</strong>.<br></p>")
+        )
+        assertEquals(
+            "<p>Text<strong> text</strong>. </p>",
+            fixCurriculumErrors("<p>Text<strong> text</strong>.<br/></p>")
+        )
+        assertEquals(
+            "<p>Text<strong> text</strong>. </p>",
+            fixCurriculumErrors("<p>Text<strong> text</strong>.<br/></p>")
+        )
+        assertEquals(
+            "<p>Text text.</p>",
+            fixCurriculumErrors("<p>Text text</p><p>.</p>")
+        )
+        assertEquals(
+            "<p>Text text.</p>",
+            fixCurriculumErrors("<p>Text text.</p><p>.</p>")
+        )
+    }
+
+
     @Test
     fun removeBoldWords() {
         assertEquals("Eleven förhåller sig konstnärligt till rörelsevokabulär samt varierar och utvecklar rörelseuttryck utifrån ",
