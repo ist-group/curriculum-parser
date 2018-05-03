@@ -15,11 +15,6 @@ class Syllabus(private val syllabusType: SyllabusType, archiveDir: File = File(S
     }
 
     private fun loadSubjectsHtml(): List<SubjectHtml> {
-        val extractor = if (syllabusType.filename == "compulsory") {
-            CompulsorySubjectsDataExtractor(currentSkolverketFileArchive, syllabusType)
-        } else {
-            IndividualFiledSubjectsDataExtractor(currentSkolverketFileArchive)
-        }
-        return extractor.getSubjectData()
+        return IndividualFiledSubjectDataExtractor(currentSkolverketFileArchive, syllabusType).getSubjectData()
     }
 }

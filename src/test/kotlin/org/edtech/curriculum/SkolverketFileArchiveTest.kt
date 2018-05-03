@@ -11,7 +11,7 @@ class SkolverketFileArchiveTest {
     fun testGR() {
         val sf = SkolverketFileArchive( File("./src/test/resources/opendata/compulsory.tgz"))
         Assert.assertEquals(sf.getType(), SyllabusType.GR)
-        Assert.assertEquals(sf.getFileStreams("").size, 8)
+        Assert.assertEquals(105, sf.getFileStreams("").size)
 
     }
 

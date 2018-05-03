@@ -1,0 +1,436 @@
+{
+  "name" : "Modersmål",
+  "description" : "<h2>Kursplan - Modersmål utom nationella minoritetsspråk</h2> <p>Språk är människans främsta redskap för att tänka, kommunicera och lära. Genom språket utvecklar människor sin identitet, uttrycker känslor och tankar och förstår hur andra känner och tänker. Att ha ett rikt och varierat språk är betydelsefullt för att kunna förstå och verka i ett samhälle där kulturer, livsåskådningar, generationer och språk möts. Att ha tillgång till sitt modersmål underlättar också språkutveckling och lärande inom olika områden.",
+  "code" : "GRGRMOD01",
+  "designation" : "ML",
+  "skolfsId" : "2010:37",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet modersmål ska syfta till att eleverna utvecklar kunskaper i och om sitt modersmål.", "Genom undervisningen ska eleverna ges möjlighet att utveckla sitt tal- och skriftspråk så att de får tilltro till sin språkförmåga och kan uttrycka sig i olika sammanhang och för skilda syften.", "Undervisningen ska bidra till att eleverna erövrar kunskaper om modersmålets uppbyggnad och blir medvetna om modersmålets betydelse för det egna lärandet i olika skolämnen." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska stimulera elevernas intresse för att läsa och skriva på modersmålet.", "I undervisningen ska eleverna möta och få kunskaper om skönlitteratur, annat estetiskt berättande och olika former av sakprosa på modersmålet.", "Därigenom ska eleverna ges möjlighet att utveckla sitt språk, sin identitet och förståelse för omvärlden.", "Undervisningen ska också bidra till att eleverna utvecklar kunskaper om hur man formulerar egna åsikter och tankar i olika slags texter.", "De ska även stimuleras till att uttrycka sig genom andra estetiska uttrycksformer." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna förutsättningar att utveckla sin kulturella identitet och bli flerspråkiga.", "Genom undervisningen ska eleverna därför ges möjligheter att utveckla sina kunskaper om kulturer och samhällen där modersmålet talas.", "Undervisningen ska också bidra till att eleverna utvecklar ett jämförande förhållningssätt till kulturer och språk." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Genom undervisningen i ämnet modersmål ska eleverna sammanfattningsvis ges förutsättningar att utveckla sin förmåga att",
+    "lines" : [ "formulera sig och kommunicera i tal och skrift,", "använda sitt modersmål som ett medel för sin språkutveckling och sitt lärande,", "anpassa språket efter olika syften, mottagare och sammanhang,", "urskilja språkliga strukturer och följa språkliga normer,", "läsa och analysera skönlitteratur och andra texter för olika syften, och", "reflektera över traditioner, kulturella företeelser och samhällsfrågor i områden där modersmålet talas utifrån jämförelser med svenska förhållanden." ]
+  } ],
+  "courses" : [ {
+    "name" : "Årskurs 1-3",
+    "description" : "",
+    "code" : "GRGRMOD01_1-3",
+    "centralContent" : [ {
+      "heading" : "I årskurs 1-3",
+      "lines" : [ ]
+    }, {
+      "heading" : "Läsa och skriva",
+      "lines" : [ "Lässtrategier för att förstå och tolka texter samt för att anpassa läsningen efter textens form och innehåll.", "Strategier för att skriva olika typer av texter om för eleven välbekanta ämnen.", "Läsriktning och skrivteckens form och ljud i jämförelse med svenska.", "Ordföljd och interpunktion samt stavningsregler för vanligt förekommande ord i elevnära texter. Jämförelser med svenskans ordföljd, interpunktion och stavningsregler." ]
+    }, {
+      "heading" : "Tala, lyssna och samtala",
+      "lines" : [ "Muntligt berättande för olika mottagare.", "Uttal, betoning och satsmelodi och uttalets betydelse för att göra sig förstådd.", "Modersmålets uttal i jämförelse med svenskans." ]
+    }, {
+      "heading" : "Berättande texter och sakprosatexter",
+      "lines" : [ "Berättande texter och poetiska texter för barn i form av bilderböcker, kapitelböcker, lyrik, sagor och myter från olika tider och områden där modersmålet talas. Berättande och poetiska texter som belyser människors upplevelser och erfarenheter.", "Rim, ramsor och gåtor ur modersmålets tradition.", "Beskrivande och förklarande texter för barn med anknytning till traditioner, företeelser och språkliga uttryckssätt i områden där modersmålet talas." ]
+    }, {
+      "heading" : "Språkbruk",
+      "lines" : [ "Ord och begrepp för att uttrycka känslor, kunskaper och åsikter." ]
+    }, {
+      "heading" : "Kultur och samhälle",
+      "lines" : [ "Traditioner och högtider som eleven möter i olika sammanhang.", "Lekar och musik från områden där modersmålet talas." ]
+    } ],
+    "knowledgeRequirement" : [ {
+      "text" : "Eleven kan läsa olika texter med <strong>________</strong> genom att, på ett <strong>________</strong> sätt, välja och använda lässtrategier utifrån olika texters särdrag.",
+      "no" : 0,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan läsa olika texter med <strong>flyt </strong>genom att, på ett <strong>i huvudsak fungerande </strong>sätt, välja och använda lässtrategier utifrån olika texters särdrag.",
+        "C" : "Eleven kan läsa olika texter med <strong>gott</strong> <strong>flyt </strong>genom att, på ett <strong>ändamålsenligt </strong>sätt, använda lässtrategier utifrån olika texters särdrag.",
+        "A" : "Eleven kan läsa olika texter med <strong>mycket gott</strong> <strong>flyt </strong>genom att, på ett <strong>ändamålsenligt och effektivt </strong>sätt, använda lässtrategier utifrån olika texters särdrag."
+      }
+    }, {
+      "text" : "Genom att göra <strong>________</strong> sammanfattningar av olika texters innehåll och kommentera centrala delar med <strong>________</strong> koppling till tidsaspekter och orsakssamband visar eleven <strong>________</strong> läsförståelse.",
+      "no" : 1,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Genom att göra <strong>enkla</strong> sammanfattningar av olika texters innehåll och kommentera centrala delar med<strong> viss </strong>koppling till tidsaspekter och orsakssamband visar eleven <strong>grundläggande </strong>läsförståelse.",
+        "C" : "Genom att göra <strong>utvecklade</strong> sammanfattningar av olika texters innehåll och kommentera centrala delar med<strong> relativt god </strong>koppling till tidsaspekter och orsakssamband visar eleven <strong>god </strong>läsförståelse.",
+        "A" : "Genom att göra <strong>välutvecklade</strong> sammanfattningar av olika texters innehåll och kommentera centrala delar med<strong> god </strong>koppling till tidsaspekter och orsakssamband visar eleven <strong>mycket god </strong>läsförståelse."
+      }
+    }, {
+      "text" : "Dessutom kan eleven utifrån egna erfarenheter och referensramar tolka och föra <strong>________</strong> underbyggda resonemang om tydligt framträdande budskap i olika verk.",
+      "no" : 2,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom kan eleven utifrån egna erfarenheter och referensramar tolka och föra <strong>enkla och till viss del </strong>underbyggda resonemang om tydligt framträdande budskap i olika verk.",
+        "C" : "Dessutom kan eleven utifrån egna erfarenheter och referensramar tolka och föra <strong>utvecklade och relativt väl </strong>underbyggda resonemang om budskap som är<strong> tydligt framträdande och budskap som kan läsas mellan raderna</strong> i olika verk.",
+        "A" : "Dessutom kan eleven utifrån egna erfarenheter och referensramar tolka och föra <strong>utvecklade och relativt väl </strong>underbyggda resonemang om budskap som är <strong>tydligt framträdande och budskap som kan läsas mellan raderna eller är dolda</strong> i olika verk."
+      }
+    }, {
+      "text" : "Eleven kan, utifrån sitt modersmåls särdrag, skriva olika texter med <strong>________</strong> innehåll och <strong>________</strong> språklig variation med en i huvudsak fungerande kombination av vardagsrelaterade och ämnesrelaterade ord och begrepp.",
+      "no" : 0,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan, utifrån sitt modersmåls särdrag, skriva olika texter med <strong>begripligt</strong> innehåll och <strong>viss </strong>språklig variation med en i huvudsak fungerande kombination av vardagsrelaterade och ämnesrelaterade ord och begrepp.",
+        "C" : "Eleven kan, utifrån sitt modersmåls särdrag, skriva olika texter med <strong>relativt tydligt</strong> innehåll och <strong>relativt god</strong> språklig variation med en i huvudsak fungerande kombination av vardagsrelaterade och ämnesrelaterade ord och begrepp.",
+        "A" : "Eleven kan, utifrån sitt modersmåls särdrag, skriva olika texter med <strong>tydligt</strong> innehåll och <strong>god</strong> språklig variation med en i huvudsak fungerande kombination av vardagsrelaterade och ämnesrelaterade ord och begrepp."
+      }
+    }, {
+      "text" : "Texterna kännetecknas av <strong>________</strong> beskrivningar och <strong>________</strong> berättarstruktur.",
+      "no" : 1,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Texterna kännetecknas av <strong>enkla</strong> beskrivningar och <strong>enkel</strong> berättarstruktur.",
+        "C" : "Texterna kännetecknas av <strong>utvecklade </strong>beskrivningar och <strong>utvecklad</strong> berättarstruktur.",
+        "A" : "Texterna kännetecknas av <strong>välutvecklade</strong> beskrivningar och <strong>välutvecklad</strong> berättarstruktur."
+      }
+    }, {
+      "text" : "Eleven anpassar på ett <strong>________</strong> sätt sina texters innehåll och språk så att de <strong>________</strong> fungerar i de situationer som skrivandet avser.",
+      "no" : 2,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven anpassar på ett <strong>enkelt</strong> sätt sina texters innehåll och språk så att de <strong>i huvudsak </strong>fungerar i de situationer som skrivandet avser.",
+        "C" : "Eleven anpassar på ett <strong>utvecklat</strong> sätt sina texters innehåll och språk så att de fungerar <strong>relativt väl </strong>i de situationer som skrivandet avser.",
+        "A" : "Eleven anpassar på ett <strong>välutvecklat</strong> sätt sina texters innehåll och språk så att de fungerar <strong>väl </strong>i de situationer som skrivandet avser."
+      }
+    }, {
+      "text" : "Genom att på ett <strong>________</strong> fungerande sätt jämföra och översätta ord, begrepp och fraser mellan modersmålet och svenska kan eleven föra <strong>________</strong> underbyggda resonemang om likheter och skillnader mellan modersmålet och svenska.",
+      "no" : 3,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Genom att på ett<strong> i huvudsak </strong>fungerande sätt jämföra och översätta ord, begrepp och fraser mellan modersmålet och svenska kan eleven föra <strong>enkla och till viss del </strong>underbyggda resonemang om likheter och skillnader mellan modersmålet och svenska.",
+        "C" : "Genom att på ett <strong>relativt väl </strong>fungerande sätt jämföra och översätta ord, begrepp och fraser mellan modersmålet och svenska kan eleven föra <strong>utvecklade och relativt väl </strong>underbyggda resonemang om likheter och skillnader mellan modersmålet och svenska.",
+        "A" : "Genom att <strong>på ett väl </strong>fungerande sätt jämföra och översätta ord, begrepp och fraser mellan modersmålet och svenska kan eleven föra <strong>välutvecklade och väl </strong>underbyggda resonemang om likheter och skillnader mellan modersmålet och svenska."
+      }
+    }, {
+      "text" : "Eleven kan med en <strong>________</strong> kombination av vardagsrelaterat och ämnesrelaterat språk samtala om och diskutera varierande ämnen på ett <strong>________</strong> sätt.",
+      "no" : 0,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan med en <strong>i huvudsak fungerande</strong> kombination av vardagsrelaterat och ämnesrelaterat språk samtala om och diskutera varierande ämnen på ett <strong>enkelt </strong>sätt.",
+        "C" : "Eleven kan med en <strong>ändamålsenlig</strong> kombination av vardagsrelaterat och ämnesrelaterat språk samtala om och diskutera varierande ämnen på ett <strong>utvecklat </strong>sätt.",
+        "A" : "Eleven kan med en <strong>ändamålsenlig och effektiv</strong> kombination av vardagsrelaterat och ämnesrelaterat språk samtala om och diskutera varierande ämnen på ett <strong>välutvecklat </strong>sätt."
+      }
+    }, {
+      "text" : "I sådana situationer kan eleven ställa frågor och framföra åsikter med <strong>________</strong> underbyggda argument på ett sätt som <strong>________</strong> <strong>________</strong>.",
+      "no" : 1,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "I sådana situationer kan eleven ställa frågor och framföra åsikter med <strong>enkla och till viss del </strong>underbyggda argument på ett sätt som <strong>till viss del för samtalen och diskussionerna</strong> <strong>framåt</strong>.",
+        "C" : "I sådana situationer kan eleven ställa frågor och framföra åsikter med <strong>utvecklade </strong>och <strong>relativt väl</strong> underbyggda argument på ett sätt som <strong>för samtalen och diskussionerna framåt</strong>.",
+        "A" : "I sådana situationer kan eleven ställa frågor och framföra åsikter med <strong>välutvecklade och väl </strong>underbyggda argument på ett sätt som <strong>för samtalen och diskussionerna framåt och fördjupar eller breddar dem</strong>."
+      }
+    }, {
+      "text" : "Dessutom kan eleven förbereda och genomföra <strong>________</strong> muntliga redogörelser med <strong>________</strong> fungerande inledning, innehåll och avslutning och <strong>________</strong> anpassning till syfte, mottagare och sammanhang.",
+      "no" : 2,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom kan eleven förbereda och genomföra <strong>enkla </strong>muntliga redogörelser med <strong>i huvudsak </strong>fungerande inledning, innehåll och avslutning och <strong>viss </strong>anpassning till syfte, mottagare och sammanhang.",
+        "C" : "Dessutom kan eleven förbereda och genomföra <strong>utvecklade </strong>muntliga redogörelser med <strong>relativt väl </strong>fungerande inledning, innehåll och avslutning och <strong>relativt god </strong>anpassning till syfte, mottagare och sammanhang.",
+        "A" : "Dessutom kan eleven förbereda och genomföra <strong>välutvecklade </strong>muntliga redogörelser med<strong> väl </strong>fungerande inledning, innehåll och avslutning och<strong> god </strong>anpassning till syfte, mottagare och sammanhang."
+      }
+    }, {
+      "text" : "Eleven kan föra <strong>________</strong> underbyggda resonemang kring några kunskapsområden och samhällsfrågor med anknytning till modersmålet och områden där modersmålet talas.",
+      "no" : 3,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan föra <strong>enkla och till viss del </strong>underbyggda resonemang kring några kunskapsområden och samhällsfrågor med anknytning till modersmålet och områden där modersmålet talas.",
+        "C" : "Eleven kan föra <strong>utvecklade </strong>och <strong>relativt väl</strong> underbyggda resonemang kring några kunskapsområden och samhällsfrågor med anknytning till modersmålet och områden där modersmålet talas.",
+        "A" : "Eleven kan föra <strong>välutvecklade och väl </strong>underbyggda resonemang kring några kunskapsområden och samhällsfrågor med anknytning till modersmålet och områden där modersmålet talas."
+      }
+    }, {
+      "text" : "Eleven gör då <strong>________</strong> jämförelser med egna erfarenheter och förhållanden i Sverige och drar <strong>________</strong> underbyggda slutsatser om vad dessa kan bero på och leda till.",
+      "no" : 4,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven gör då <strong>enkla</strong> jämförelser med egna erfarenheter och förhållanden i Sverige och drar <strong>enkla och till viss del </strong>underbyggda slutsatser om vad dessa kan bero på och leda till.",
+        "C" : "Eleven gör då <strong>utvecklade </strong>jämförelser med egna erfarenheter och förhållanden i Sverige och drar <strong>utvecklade </strong>och <strong>relativt väl</strong> underbyggda slutsatser om vad dessa kan bero på och leda till.",
+        "A" : "Eleven gör då <strong>välutvecklade</strong> jämförelser med egna erfarenheter och förhållanden i Sverige och drar <strong>välutvecklade och väl </strong>underbyggda slutsatser om vad dessa kan bero på och leda till."
+      }
+    } ],
+    "point" : null,
+    "year" : {
+      "start" : 1,
+      "end" : 3
+    }
+  }, {
+    "name" : "Årskurs 4-6",
+    "description" : "",
+    "code" : "GRGRMOD01_4-6",
+    "centralContent" : [ {
+      "heading" : "I årskurs 4-6",
+      "lines" : [ ]
+    }, {
+      "heading" : "Läsa och skriva",
+      "lines" : [ "Lässtrategier för att förstå och tolka texter från olika medier samt för att urskilja texters budskap, både det uttalade och sådant som står mellan raderna.", "Strategier för att skriva olika typer av texter med anpassning till deras typiska uppbyggnad och språkliga drag.", "Modersmålets grundläggande struktur i jämförelse med svenskans.", "Ordböcker och andra hjälpmedel för stavning och ordförståelse." ]
+    }, {
+      "heading" : "Tala, lyssna och samtala",
+      "lines" : [ "Muntliga presentationer för olika mottagare.", "Uttal, betoning och satsmelodi samt uttalets betydelse för att göra sig förstådd.", "Modersmålets uttal i jämförelse med svenskans." ]
+    }, {
+      "heading" : "Berättande texter och sakprosatexter",
+      "lines" : [ "Berättande texter och poetiska texter för barn och unga i form av skönlitteratur, lyrik, sagor och myter från olika tider och områden där modersmålet talas. Berättande och poetiska texter som belyser människors villkor, identitets- och livsfrågor.", "Berättande och poetiska texters typiska språkliga drag samt deras ord och begrepp.", "Beskrivande, förklarande och instruerande texter för barn och unga med anknytning till traditioner, företeelser och språkliga uttryckssätt i områden där modersmålet talas.", "Texternas innehåll och deras typiska ord och begrepp." ]
+    }, {
+      "heading" : "Språkbruk",
+      "lines" : [ "Ord och begrepp för att uttrycka känslor, kunskaper och åsikter. Ords och begrepps nyanser och värdeladdning.", "Synonymer och motsatsord." ]
+    }, {
+      "heading" : "Kultur och samhälle",
+      "lines" : [ "Seder, bruk och traditioner i områden där modersmålet talas i jämförelse med svenska seder, bruk och traditioner.", "Skolgång i områden där modersmålet talas i jämförelse med skolgång i Sverige." ]
+    } ],
+    "knowledgeRequirement" : [ {
+      "text" : "Eleven kan läsa olika texter med <strong>________</strong> genom att, på ett <strong>________</strong> sätt, välja och använda lässtrategier utifrån olika texters särdrag.",
+      "no" : 0,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan läsa olika texter med <strong>flyt </strong>genom att, på ett <strong>i huvudsak fungerande </strong>sätt, välja och använda lässtrategier utifrån olika texters särdrag.",
+        "C" : "Eleven kan läsa olika texter med <strong>gott</strong> <strong>flyt </strong>genom att, på ett <strong>ändamålsenligt </strong>sätt, använda lässtrategier utifrån olika texters särdrag.",
+        "A" : "Eleven kan läsa olika texter med <strong>mycket gott</strong> <strong>flyt </strong>genom att, på ett <strong>ändamålsenligt och effektivt </strong>sätt, använda lässtrategier utifrån olika texters särdrag."
+      }
+    }, {
+      "text" : "Genom att göra <strong>________</strong> sammanfattningar av olika texters innehåll och kommentera centrala delar med <strong>________</strong> koppling till tidsaspekter och orsakssamband visar eleven <strong>________</strong> läsförståelse.",
+      "no" : 1,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Genom att göra <strong>enkla</strong> sammanfattningar av olika texters innehåll och kommentera centrala delar med<strong> viss </strong>koppling till tidsaspekter och orsakssamband visar eleven <strong>grundläggande </strong>läsförståelse.",
+        "C" : "Genom att göra <strong>utvecklade</strong> sammanfattningar av olika texters innehåll och kommentera centrala delar med<strong> relativt god </strong>koppling till tidsaspekter och orsakssamband visar eleven <strong>god </strong>läsförståelse.",
+        "A" : "Genom att göra <strong>välutvecklade</strong> sammanfattningar av olika texters innehåll och kommentera centrala delar med<strong> god </strong>koppling till tidsaspekter och orsakssamband visar eleven <strong>mycket god </strong>läsförståelse."
+      }
+    }, {
+      "text" : "Dessutom kan eleven utifrån egna erfarenheter och referensramar tolka och föra <strong>________</strong> underbyggda resonemang om tydligt framträdande budskap i olika verk.",
+      "no" : 2,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom kan eleven utifrån egna erfarenheter och referensramar tolka och föra <strong>enkla och till viss del </strong>underbyggda resonemang om tydligt framträdande budskap i olika verk.",
+        "C" : "Dessutom kan eleven utifrån egna erfarenheter och referensramar tolka och föra <strong>utvecklade och relativt väl </strong>underbyggda resonemang om budskap som är<strong> tydligt framträdande och budskap som kan läsas mellan raderna</strong> i olika verk.",
+        "A" : "Dessutom kan eleven utifrån egna erfarenheter och referensramar tolka och föra <strong>utvecklade och relativt väl </strong>underbyggda resonemang om budskap som är <strong>tydligt framträdande och budskap som kan läsas mellan raderna eller är dolda</strong> i olika verk."
+      }
+    }, {
+      "text" : "Eleven kan, utifrån sitt modersmåls särdrag, skriva olika texter med <strong>________</strong> innehåll och <strong>________</strong> språklig variation med en i huvudsak fungerande kombination av vardagsrelaterade och ämnesrelaterade ord och begrepp.",
+      "no" : 0,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan, utifrån sitt modersmåls särdrag, skriva olika texter med <strong>begripligt</strong> innehåll och <strong>viss </strong>språklig variation med en i huvudsak fungerande kombination av vardagsrelaterade och ämnesrelaterade ord och begrepp.",
+        "C" : "Eleven kan, utifrån sitt modersmåls särdrag, skriva olika texter med <strong>relativt tydligt</strong> innehåll och <strong>relativt god</strong> språklig variation med en i huvudsak fungerande kombination av vardagsrelaterade och ämnesrelaterade ord och begrepp.",
+        "A" : "Eleven kan, utifrån sitt modersmåls särdrag, skriva olika texter med <strong>tydligt</strong> innehåll och <strong>god</strong> språklig variation med en i huvudsak fungerande kombination av vardagsrelaterade och ämnesrelaterade ord och begrepp."
+      }
+    }, {
+      "text" : "Texterna kännetecknas av <strong>________</strong> beskrivningar och <strong>________</strong> berättarstruktur.",
+      "no" : 1,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Texterna kännetecknas av <strong>enkla</strong> beskrivningar och <strong>enkel</strong> berättarstruktur.",
+        "C" : "Texterna kännetecknas av <strong>utvecklade </strong>beskrivningar och <strong>utvecklad</strong> berättarstruktur.",
+        "A" : "Texterna kännetecknas av <strong>välutvecklade</strong> beskrivningar och <strong>välutvecklad</strong> berättarstruktur."
+      }
+    }, {
+      "text" : "Eleven anpassar på ett <strong>________</strong> sätt sina texters innehåll och språk så att de <strong>________</strong> fungerar i de situationer som skrivandet avser.",
+      "no" : 2,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven anpassar på ett <strong>enkelt</strong> sätt sina texters innehåll och språk så att de <strong>i huvudsak </strong>fungerar i de situationer som skrivandet avser.",
+        "C" : "Eleven anpassar på ett <strong>utvecklat</strong> sätt sina texters innehåll och språk så att de fungerar <strong>relativt väl </strong>i de situationer som skrivandet avser.",
+        "A" : "Eleven anpassar på ett <strong>välutvecklat</strong> sätt sina texters innehåll och språk så att de fungerar <strong>väl </strong>i de situationer som skrivandet avser."
+      }
+    }, {
+      "text" : "Genom att på ett <strong>________</strong> fungerande sätt jämföra och översätta ord, begrepp och fraser mellan modersmålet och svenska kan eleven föra <strong>________</strong> underbyggda resonemang om likheter och skillnader mellan modersmålet och svenska.",
+      "no" : 3,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Genom att på ett<strong> i huvudsak </strong>fungerande sätt jämföra och översätta ord, begrepp och fraser mellan modersmålet och svenska kan eleven föra <strong>enkla och till viss del </strong>underbyggda resonemang om likheter och skillnader mellan modersmålet och svenska.",
+        "C" : "Genom att på ett <strong>relativt väl </strong>fungerande sätt jämföra och översätta ord, begrepp och fraser mellan modersmålet och svenska kan eleven föra <strong>utvecklade och relativt väl </strong>underbyggda resonemang om likheter och skillnader mellan modersmålet och svenska.",
+        "A" : "Genom att <strong>på ett väl </strong>fungerande sätt jämföra och översätta ord, begrepp och fraser mellan modersmålet och svenska kan eleven föra <strong>välutvecklade och väl </strong>underbyggda resonemang om likheter och skillnader mellan modersmålet och svenska."
+      }
+    }, {
+      "text" : "Eleven kan med en <strong>________</strong> kombination av vardagsrelaterat och ämnesrelaterat språk samtala om och diskutera varierande ämnen på ett <strong>________</strong> sätt.",
+      "no" : 0,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan med en <strong>i huvudsak fungerande</strong> kombination av vardagsrelaterat och ämnesrelaterat språk samtala om och diskutera varierande ämnen på ett <strong>enkelt </strong>sätt.",
+        "C" : "Eleven kan med en <strong>ändamålsenlig</strong> kombination av vardagsrelaterat och ämnesrelaterat språk samtala om och diskutera varierande ämnen på ett <strong>utvecklat </strong>sätt.",
+        "A" : "Eleven kan med en <strong>ändamålsenlig och effektiv</strong> kombination av vardagsrelaterat och ämnesrelaterat språk samtala om och diskutera varierande ämnen på ett <strong>välutvecklat </strong>sätt."
+      }
+    }, {
+      "text" : "I sådana situationer kan eleven ställa frågor och framföra åsikter med <strong>________</strong> underbyggda argument på ett sätt som <strong>________</strong> <strong>________</strong>.",
+      "no" : 1,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "I sådana situationer kan eleven ställa frågor och framföra åsikter med <strong>enkla och till viss del </strong>underbyggda argument på ett sätt som <strong>till viss del för samtalen och diskussionerna</strong> <strong>framåt</strong>.",
+        "C" : "I sådana situationer kan eleven ställa frågor och framföra åsikter med <strong>utvecklade </strong>och <strong>relativt väl</strong> underbyggda argument på ett sätt som <strong>för samtalen och diskussionerna framåt</strong>.",
+        "A" : "I sådana situationer kan eleven ställa frågor och framföra åsikter med <strong>välutvecklade och väl </strong>underbyggda argument på ett sätt som <strong>för samtalen och diskussionerna framåt och fördjupar eller breddar dem</strong>."
+      }
+    }, {
+      "text" : "Dessutom kan eleven förbereda och genomföra <strong>________</strong> muntliga redogörelser med <strong>________</strong> fungerande inledning, innehåll och avslutning och <strong>________</strong> anpassning till syfte, mottagare och sammanhang.",
+      "no" : 2,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom kan eleven förbereda och genomföra <strong>enkla </strong>muntliga redogörelser med <strong>i huvudsak </strong>fungerande inledning, innehåll och avslutning och <strong>viss </strong>anpassning till syfte, mottagare och sammanhang.",
+        "C" : "Dessutom kan eleven förbereda och genomföra <strong>utvecklade </strong>muntliga redogörelser med <strong>relativt väl </strong>fungerande inledning, innehåll och avslutning och <strong>relativt god </strong>anpassning till syfte, mottagare och sammanhang.",
+        "A" : "Dessutom kan eleven förbereda och genomföra <strong>välutvecklade </strong>muntliga redogörelser med<strong> väl </strong>fungerande inledning, innehåll och avslutning och<strong> god </strong>anpassning till syfte, mottagare och sammanhang."
+      }
+    }, {
+      "text" : "Eleven kan föra <strong>________</strong> underbyggda resonemang kring några kunskapsområden och samhällsfrågor med anknytning till modersmålet och områden där modersmålet talas.",
+      "no" : 3,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan föra <strong>enkla och till viss del </strong>underbyggda resonemang kring några kunskapsområden och samhällsfrågor med anknytning till modersmålet och områden där modersmålet talas.",
+        "C" : "Eleven kan föra <strong>utvecklade </strong>och <strong>relativt väl</strong> underbyggda resonemang kring några kunskapsområden och samhällsfrågor med anknytning till modersmålet och områden där modersmålet talas.",
+        "A" : "Eleven kan föra <strong>välutvecklade och väl </strong>underbyggda resonemang kring några kunskapsområden och samhällsfrågor med anknytning till modersmålet och områden där modersmålet talas."
+      }
+    }, {
+      "text" : "Eleven gör då <strong>________</strong> jämförelser med egna erfarenheter och förhållanden i Sverige och drar <strong>________</strong> underbyggda slutsatser om vad dessa kan bero på och leda till.",
+      "no" : 4,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven gör då <strong>enkla</strong> jämförelser med egna erfarenheter och förhållanden i Sverige och drar <strong>enkla och till viss del </strong>underbyggda slutsatser om vad dessa kan bero på och leda till.",
+        "C" : "Eleven gör då <strong>utvecklade </strong>jämförelser med egna erfarenheter och förhållanden i Sverige och drar <strong>utvecklade </strong>och <strong>relativt väl</strong> underbyggda slutsatser om vad dessa kan bero på och leda till.",
+        "A" : "Eleven gör då <strong>välutvecklade</strong> jämförelser med egna erfarenheter och förhållanden i Sverige och drar <strong>välutvecklade och väl </strong>underbyggda slutsatser om vad dessa kan bero på och leda till."
+      }
+    } ],
+    "point" : null,
+    "year" : {
+      "start" : 4,
+      "end" : 6
+    }
+  }, {
+    "name" : "Årskurs 7-9",
+    "description" : "",
+    "code" : "GRGRMOD01_7-9",
+    "centralContent" : [ {
+      "heading" : "I årskurs 7-9",
+      "lines" : [ ]
+    }, {
+      "heading" : "Läsa och skriva",
+      "lines" : [ "Lässtrategier för att förstå och tolka skönlitterära texter. Att utläsa texters budskap, både det uttalade och sådant som står mellan raderna.", "Strategier för att skriva olika typer av texter med anpassning till deras typiska uppbyggnad och språkliga drag. Skapande av texter där ord och bild samspelar.", "Modersmålets grundläggande struktur i jämförelse med svenskan. Ordbildning och meningsbyggnad på modersmålet i jämförelse med svenskan.", "Ordböcker och andra hjälpmedel för stavning och ordförståelse." ]
+    }, {
+      "heading" : "Tala, lyssna och samtala",
+      "lines" : [ "Muntliga presentationer och muntligt berättande för olika mottagare. Anpassning av språk, innehåll och disposition efter syfte och mottagare.", "Uttal, betoning och satsmelodi i jämförelse med svenskan samt olika talade variationer av modersmålet." ]
+    }, {
+      "heading" : "Berättande texter och sakprosatexter",
+      "lines" : [ "Skönlitteratur för ungdomar och vuxna, lyrik, dramatik, sagor och myter från olika tider och områden där modersmålet talas. Skönlitteratur som belyser människors villkor, identitets- och livsfrågor.", "Språkliga drag, ord och begrepp i skönlitteratur för ungdomar och vuxna.", "Beskrivande, förklarande, instruerande och argumenterande texter, till exempel tidningsartiklar och arbetsbeskrivningar. Texternas innehåll, typiska språkliga drag samt deras ord och begrepp.", "Texter som kombinerar ord, bild och ljud och deras språkliga och dramaturgiska komponenter. Hur uttrycken kan samspela med varandra, till exempel i tv-serier, teaterföreställningar och webbtexter." ]
+    }, {
+      "heading" : "Språkbruk",
+      "lines" : [ "Översättning av och jämförelser mellan texter på modersmålet och på svenska.", "Ord och begrepp för att uttrycka känslor, kunskaper och åsikter. Ords och begrepps nyanser och värdeladdning. Bildspråk och idiomatiska uttryck.", "Skillnader i språkanvändning beroende på i vilket sammanhang, med vem och med vilket syfte man kommunicerar." ]
+    }, {
+      "heading" : "Kultur och samhälle",
+      "lines" : [ "Aktuella samhällsfrågor i områden där modersmålet talas, i jämförelse med liknande frågor i Sverige.", "Kulturella uttrycksformer från områden där modersmålet talas, till exempel bildkonst, musik och arkitektur." ]
+    } ],
+    "knowledgeRequirement" : [ {
+      "text" : "Eleven kan läsa olika texter med <strong>________</strong> genom att, på ett <strong>________</strong> sätt, välja och använda lässtrategier utifrån olika texters särdrag.",
+      "no" : 0,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan läsa olika texter med <strong>flyt </strong>genom att, på ett <strong>i huvudsak fungerande </strong>sätt, välja och använda lässtrategier utifrån olika texters särdrag.",
+        "C" : "Eleven kan läsa olika texter med <strong>gott</strong> <strong>flyt </strong>genom att, på ett <strong>ändamålsenligt </strong>sätt, använda lässtrategier utifrån olika texters särdrag.",
+        "A" : "Eleven kan läsa olika texter med <strong>mycket gott</strong> <strong>flyt </strong>genom att, på ett <strong>ändamålsenligt och effektivt </strong>sätt, använda lässtrategier utifrån olika texters särdrag."
+      }
+    }, {
+      "text" : "Genom att göra <strong>________</strong> sammanfattningar av olika texters innehåll och kommentera centrala delar med <strong>________</strong> koppling till tidsaspekter och orsakssamband visar eleven <strong>________</strong> läsförståelse.",
+      "no" : 1,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Genom att göra <strong>enkla</strong> sammanfattningar av olika texters innehåll och kommentera centrala delar med<strong> viss </strong>koppling till tidsaspekter och orsakssamband visar eleven <strong>grundläggande </strong>läsförståelse.",
+        "C" : "Genom att göra <strong>utvecklade</strong> sammanfattningar av olika texters innehåll och kommentera centrala delar med<strong> relativt god </strong>koppling till tidsaspekter och orsakssamband visar eleven <strong>god </strong>läsförståelse.",
+        "A" : "Genom att göra <strong>välutvecklade</strong> sammanfattningar av olika texters innehåll och kommentera centrala delar med<strong> god </strong>koppling till tidsaspekter och orsakssamband visar eleven <strong>mycket god </strong>läsförståelse."
+      }
+    }, {
+      "text" : "Dessutom kan eleven utifrån egna erfarenheter och referensramar tolka och föra <strong>________</strong> underbyggda resonemang om tydligt framträdande budskap i olika verk.",
+      "no" : 2,
+      "paragraphNo" : 0,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom kan eleven utifrån egna erfarenheter och referensramar tolka och föra <strong>enkla och till viss del </strong>underbyggda resonemang om tydligt framträdande budskap i olika verk.",
+        "C" : "Dessutom kan eleven utifrån egna erfarenheter och referensramar tolka och föra <strong>utvecklade och relativt väl </strong>underbyggda resonemang om budskap som är<strong> tydligt framträdande och budskap som kan läsas mellan raderna</strong> i olika verk.",
+        "A" : "Dessutom kan eleven utifrån egna erfarenheter och referensramar tolka och föra <strong>utvecklade och relativt väl </strong>underbyggda resonemang om budskap som är <strong>tydligt framträdande och budskap som kan läsas mellan raderna eller är dolda</strong> i olika verk."
+      }
+    }, {
+      "text" : "Eleven kan, utifrån sitt modersmåls särdrag, skriva olika texter med <strong>________</strong> innehåll och <strong>________</strong> språklig variation med en i huvudsak fungerande kombination av vardagsrelaterade och ämnesrelaterade ord och begrepp.",
+      "no" : 0,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan, utifrån sitt modersmåls särdrag, skriva olika texter med <strong>begripligt</strong> innehåll och <strong>viss </strong>språklig variation med en i huvudsak fungerande kombination av vardagsrelaterade och ämnesrelaterade ord och begrepp.",
+        "C" : "Eleven kan, utifrån sitt modersmåls särdrag, skriva olika texter med <strong>relativt tydligt</strong> innehåll och <strong>relativt god</strong> språklig variation med en i huvudsak fungerande kombination av vardagsrelaterade och ämnesrelaterade ord och begrepp.",
+        "A" : "Eleven kan, utifrån sitt modersmåls särdrag, skriva olika texter med <strong>tydligt</strong> innehåll och <strong>god</strong> språklig variation med en i huvudsak fungerande kombination av vardagsrelaterade och ämnesrelaterade ord och begrepp."
+      }
+    }, {
+      "text" : "Texterna kännetecknas av <strong>________</strong> beskrivningar och <strong>________</strong> berättarstruktur.",
+      "no" : 1,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Texterna kännetecknas av <strong>enkla</strong> beskrivningar och <strong>enkel</strong> berättarstruktur.",
+        "C" : "Texterna kännetecknas av <strong>utvecklade </strong>beskrivningar och <strong>utvecklad</strong> berättarstruktur.",
+        "A" : "Texterna kännetecknas av <strong>välutvecklade</strong> beskrivningar och <strong>välutvecklad</strong> berättarstruktur."
+      }
+    }, {
+      "text" : "Eleven anpassar på ett <strong>________</strong> sätt sina texters innehåll och språk så att de <strong>________</strong> fungerar i de situationer som skrivandet avser.",
+      "no" : 2,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven anpassar på ett <strong>enkelt</strong> sätt sina texters innehåll och språk så att de <strong>i huvudsak </strong>fungerar i de situationer som skrivandet avser.",
+        "C" : "Eleven anpassar på ett <strong>utvecklat</strong> sätt sina texters innehåll och språk så att de fungerar <strong>relativt väl </strong>i de situationer som skrivandet avser.",
+        "A" : "Eleven anpassar på ett <strong>välutvecklat</strong> sätt sina texters innehåll och språk så att de fungerar <strong>väl </strong>i de situationer som skrivandet avser."
+      }
+    }, {
+      "text" : "Genom att på ett <strong>________</strong> fungerande sätt jämföra och översätta ord, begrepp och fraser mellan modersmålet och svenska kan eleven föra <strong>________</strong> underbyggda resonemang om likheter och skillnader mellan modersmålet och svenska.",
+      "no" : 3,
+      "paragraphNo" : 1,
+      "knowledgeRequirementChoice" : {
+        "E" : "Genom att på ett<strong> i huvudsak </strong>fungerande sätt jämföra och översätta ord, begrepp och fraser mellan modersmålet och svenska kan eleven föra <strong>enkla och till viss del </strong>underbyggda resonemang om likheter och skillnader mellan modersmålet och svenska.",
+        "C" : "Genom att på ett <strong>relativt väl </strong>fungerande sätt jämföra och översätta ord, begrepp och fraser mellan modersmålet och svenska kan eleven föra <strong>utvecklade och relativt väl </strong>underbyggda resonemang om likheter och skillnader mellan modersmålet och svenska.",
+        "A" : "Genom att <strong>på ett väl </strong>fungerande sätt jämföra och översätta ord, begrepp och fraser mellan modersmålet och svenska kan eleven föra <strong>välutvecklade och väl </strong>underbyggda resonemang om likheter och skillnader mellan modersmålet och svenska."
+      }
+    }, {
+      "text" : "Eleven kan med en <strong>________</strong> kombination av vardagsrelaterat och ämnesrelaterat språk samtala om och diskutera varierande ämnen på ett <strong>________</strong> sätt.",
+      "no" : 0,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan med en <strong>i huvudsak fungerande</strong> kombination av vardagsrelaterat och ämnesrelaterat språk samtala om och diskutera varierande ämnen på ett <strong>enkelt </strong>sätt.",
+        "C" : "Eleven kan med en <strong>ändamålsenlig</strong> kombination av vardagsrelaterat och ämnesrelaterat språk samtala om och diskutera varierande ämnen på ett <strong>utvecklat </strong>sätt.",
+        "A" : "Eleven kan med en <strong>ändamålsenlig och effektiv</strong> kombination av vardagsrelaterat och ämnesrelaterat språk samtala om och diskutera varierande ämnen på ett <strong>välutvecklat </strong>sätt."
+      }
+    }, {
+      "text" : "I sådana situationer kan eleven ställa frågor och framföra åsikter med <strong>________</strong> underbyggda argument på ett sätt som <strong>________</strong> <strong>________</strong>.",
+      "no" : 1,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "I sådana situationer kan eleven ställa frågor och framföra åsikter med <strong>enkla och till viss del </strong>underbyggda argument på ett sätt som <strong>till viss del för samtalen och diskussionerna</strong> <strong>framåt</strong>.",
+        "C" : "I sådana situationer kan eleven ställa frågor och framföra åsikter med <strong>utvecklade </strong>och <strong>relativt väl</strong> underbyggda argument på ett sätt som <strong>för samtalen och diskussionerna framåt</strong>.",
+        "A" : "I sådana situationer kan eleven ställa frågor och framföra åsikter med <strong>välutvecklade och väl </strong>underbyggda argument på ett sätt som <strong>för samtalen och diskussionerna framåt och fördjupar eller breddar dem</strong>."
+      }
+    }, {
+      "text" : "Dessutom kan eleven förbereda och genomföra <strong>________</strong> muntliga redogörelser med <strong>________</strong> fungerande inledning, innehåll och avslutning och <strong>________</strong> anpassning till syfte, mottagare och sammanhang.",
+      "no" : 2,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Dessutom kan eleven förbereda och genomföra <strong>enkla </strong>muntliga redogörelser med <strong>i huvudsak </strong>fungerande inledning, innehåll och avslutning och <strong>viss </strong>anpassning till syfte, mottagare och sammanhang.",
+        "C" : "Dessutom kan eleven förbereda och genomföra <strong>utvecklade </strong>muntliga redogörelser med <strong>relativt väl </strong>fungerande inledning, innehåll och avslutning och <strong>relativt god </strong>anpassning till syfte, mottagare och sammanhang.",
+        "A" : "Dessutom kan eleven förbereda och genomföra <strong>välutvecklade </strong>muntliga redogörelser med<strong> väl </strong>fungerande inledning, innehåll och avslutning och<strong> god </strong>anpassning till syfte, mottagare och sammanhang."
+      }
+    }, {
+      "text" : "Eleven kan föra <strong>________</strong> underbyggda resonemang kring några kunskapsområden och samhällsfrågor med anknytning till modersmålet och områden där modersmålet talas.",
+      "no" : 3,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven kan föra <strong>enkla och till viss del </strong>underbyggda resonemang kring några kunskapsområden och samhällsfrågor med anknytning till modersmålet och områden där modersmålet talas.",
+        "C" : "Eleven kan föra <strong>utvecklade </strong>och <strong>relativt väl</strong> underbyggda resonemang kring några kunskapsområden och samhällsfrågor med anknytning till modersmålet och områden där modersmålet talas.",
+        "A" : "Eleven kan föra <strong>välutvecklade och väl </strong>underbyggda resonemang kring några kunskapsområden och samhällsfrågor med anknytning till modersmålet och områden där modersmålet talas."
+      }
+    }, {
+      "text" : "Eleven gör då <strong>________</strong> jämförelser med egna erfarenheter och förhållanden i Sverige och drar <strong>________</strong> underbyggda slutsatser om vad dessa kan bero på och leda till.",
+      "no" : 4,
+      "paragraphNo" : 2,
+      "knowledgeRequirementChoice" : {
+        "E" : "Eleven gör då <strong>enkla</strong> jämförelser med egna erfarenheter och förhållanden i Sverige och drar <strong>enkla och till viss del </strong>underbyggda slutsatser om vad dessa kan bero på och leda till.",
+        "C" : "Eleven gör då <strong>utvecklade </strong>jämförelser med egna erfarenheter och förhållanden i Sverige och drar <strong>utvecklade </strong>och <strong>relativt väl</strong> underbyggda slutsatser om vad dessa kan bero på och leda till.",
+        "A" : "Eleven gör då <strong>välutvecklade</strong> jämförelser med egna erfarenheter och förhållanden i Sverige och drar <strong>välutvecklade och väl </strong>underbyggda slutsatser om vad dessa kan bero på och leda till."
+      }
+    } ],
+    "point" : null,
+    "year" : {
+      "start" : 7,
+      "end" : 9
+    }
+  } ]
+}

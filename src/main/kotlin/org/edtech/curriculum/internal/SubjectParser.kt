@@ -9,6 +9,7 @@ class SubjectParser {
                 subjectData.name,
                 subjectData.description.removePrefix("<p>").removeSuffix("</p>"),
                 subjectData.code,
+                subjectData.designation,
                 subjectData.skolfsId,
                 toPurposes(subjectData.purposes),
                 subjectData.courses.map { CourseParser(it).getCourse() }

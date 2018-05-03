@@ -2,6 +2,6 @@ package org.edtech.curriculum.internal
 
 import org.edtech.curriculum.SubjectHtml
 
-interface SubjectsDataExtractor {
+interface SubjectDataExtractor {
     fun getSubjectData(): List<SubjectHtml>
 }

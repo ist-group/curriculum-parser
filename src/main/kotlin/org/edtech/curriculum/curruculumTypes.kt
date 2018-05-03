@@ -12,6 +12,7 @@ data class Subject(
     val name: String,
     val description: String,
     val code: String,
+    val designation: String?,
     val skolfsId: String,
     val purposes: List<Purpose>,
     val courses: List<Course>

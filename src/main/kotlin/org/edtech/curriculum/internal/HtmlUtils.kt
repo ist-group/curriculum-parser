@@ -7,6 +7,8 @@ import org.edtech.curriculum.Purpose
 import org.edtech.curriculum.PurposeType
 import org.edtech.curriculum.YearGroup
 import org.jsoup.Jsoup
+import org.jsoup.nodes.Document
+import org.jsoup.nodes.Element
 import kotlin.math.abs
 import kotlin.math.max
 
@@ -54,6 +56,41 @@ internal fun fixCurriculumErrors(text: String): String {
             // Remove double spacing
             .replace(Regex("[ ][ ]+"),  " ")
             .trim()
+}
+
+/**
+ * Converts a html-snippet with
+ * <p>- lourum</p>
+ * <p>- lourum</p>
+ * <p>- lourum</p>
+ *
+ * to
+ *
+ * <ul>
+ *     <li>lourum</li>
+ *     <li>lourum</li>
+ *     <li>lourum</li>
+ * </ul>
+ */
+internal fun convertDashListToList(stringHtml: String): String {
+    var listElement: Element? = null
+    val fragment =  Jsoup.parseBodyFragment(stringHtml)
+    fragment.body().children()
+        .forEach {
+            if (it.tagName() == "p" && it.text().startsWith("–")) {
+                val liTag = Element("li").html(it.html().removePrefix("–").trim())
+                if (listElement == null) {
+                    listElement = Element("ul").appendChild(liTag)
+                    it.replaceWith(listElement)
+                } else {
+                    listElement?.appendChild(liTag)
+                    it.remove()
+                }
+            } else {
+                listElement = null
+            }
+        }
+    return fragment.body().html()
 }
 
 private fun splitWords(line: String): List<String> {
@@ -170,6 +207,7 @@ internal fun toCentralContent(html: String): List<CentralContent> {
  */
 internal fun toPurposes(html: String): List<Purpose> {
     val fragment = Jsoup.parseBodyFragment(html)
+
     // Some subjects do not have real paragraphs, convert <br> tags to <p></p>
     fragment.select("body > p")
             .forEach {

@@ -6,23 +6,23 @@ import java.net.URL
 /**
  * A file at http://opendata.skolverket.se/data/ containing subject and course information.
  */
-enum class SyllabusType(val filename: String, val schoolType: String? = null) {
+enum class SyllabusType(val filename: String, val archivePath: String) {
     /** https://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/...
      * The same file is used for thiese
      */
-    GR("compulsory", "grundskolan"),
-    GRSAM("compulsory", "sameskolan"),
-    GRS("compulsory", "sarskolan"),
-    GRSPEC("compulsory", "specialskolan"),
+    GR("compulsory", "compulsory/subject-compulsory-S2_0/grundskolan/"),
+    GRSAM("compulsory", "compulsory/subject-compulsory-S2_0/sameskolan/"),
+    GRS("compulsory", "compulsory/subject-compulsory-S2_0/grundsarskolan/"),
+    GRSPEC("compulsory", "compulsory/subject-compulsory-S2_0/specialskolan/"),
 
     /** https://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/gymnasieskola */
-    GY("syllabus"),
+    GY("syllabus", "gyP1_7_S1_4/subject/"),
     /** https://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/... */
-    GYS("gys"),
+    GYS("gys", "gysP1_7_S1_4/subject/"),
     /** https://www.skolverket.se/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/grundlaggande */
-    VUXGR("vuxgr"),
+    VUXGR("vuxgr", "vuxgrP1_7_S1_4/subject/"),
     /** https://www.skolverket.se/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/sfi */
-    SFI("sfi");
+    SFI("sfi", "sfiP1_7_S1_4/subject/");
 
 
     private fun getDownloadFileStream(): InputStream {

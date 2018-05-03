@@ -19,7 +19,7 @@ class SkolverketFileArchive(private val archiveFile: File) {
      */
     fun getType(): SyllabusType {
         return SyllabusType.values().firstOrNull { it.filename == archiveFile.nameWithoutExtension  }
-                ?: throw Exception("Unknown file type")
+                ?: throw SkolverketFileArchiveFileNotFound("Unknown file type")
     }
     
     /**
@@ -37,7 +37,7 @@ class SkolverketFileArchive(private val archiveFile: File) {
                 tarEntry = dataInput.nextTarEntry
             }
         }
-        throw IllegalArgumentException("File not found: $fileName")
+        throw SkolverketFileArchiveFileNotFound("Archive file: ${archiveFile.name} does not contain: $fileName")
     }
 
     /**
@@ -79,3 +79,5 @@ class SkolverketFileArchive(private val archiveFile: File) {
         return ByteArrayInputStream(content)
     }
 }
+
+class SkolverketFileArchiveFileNotFound(override var message:String): Exception(message)
