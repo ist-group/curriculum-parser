@@ -2,6 +2,8 @@
 
 This is a tool for parsing the public open data from [opendata.skolverket.se](http://opendata.skolverket.se/)
  
+If you just want to see the parsed result, use the [curriculum-parser-service](https://github.com/stefan-jonasson/curriculum-parser-service) directly.  
+ 
 The parser works by parsing the HTML contained in the XML files from skolverket. 
 It tries to match the HTML structure into usable types that can be imported into other applications. 
 Non trivial parts is the knowledge requirement parsing, where the parser matches the requirement between the grade levels into logical blocks. 
@@ -29,15 +31,12 @@ This library is based on [Kotlin](https://kotlinlang.org/) so it needs to be dow
 [Gralde](https://gradle.org/) is used for dependency/build management.  
 You can download released versions and nightly build artifacts from: https://gradle.org/downloads
 
-Other dependencies used for building the parser is: 
--  [jsoup](https://jsoup.org/)
--  [java-string-similarity](https://github.com/tdebatty/java-string-similarity)
+Other dependencies used in the parser is: 
+- [jsoup](https://jsoup.org/)
+- [Apache Commons Compress](http://commons.apache.org/proper/commons-compress/)
 
 ## Usage
-The library is not yet published to maven central or similar, to be able to include it in your project, first add it to a local maven repository by typing:
-``gradle publishToMavenLocal``
-
-To the project is not yet published to maven central or similar. 
+This project is not yet published to maven central or similar. 
 To include it to your project use [Jitpack ](https://jitpack.io/) to include the latest release directly from GitHub. 
 ```
 repositories {
@@ -52,10 +51,12 @@ dependencies {
 The entry point to the parser is the Syllabus class.
 The class takes two constructor parameters, a syllabus type and a directory reference (java.io.File).
 The if no directory is supplied the current temporary directory will be used and the necessary files will automatically be downloaded from skolverket. 
+
 If you would like to use a fixed version of skolverkets files just put the opendata files in a directory and supply a reference to that directory.
+
 Get the representation of the parsed subjects and courses by invoking the getSubjects() method.  
  ```$kotlin
-    val syllabus = Syllabus(<SyllabusType>, <File representing a workind directory for storing the opendata archive files>)
+    val syllabus = Syllabus(<SyllabusType>, [<workdir, defaults to system temp dir>])
     // Get all subjects in for the loaded syllabys type
     sullabus.getSubjects()
  ```
@@ -89,5 +90,6 @@ public class MyApp {
 ### Generating to java docs
 Javadoc is generated with dokka, to build your local version of the api documentation just run:
 ``gradle dokka``
+
 ### Running the unittests
 To run the included tests: `gradle test`
