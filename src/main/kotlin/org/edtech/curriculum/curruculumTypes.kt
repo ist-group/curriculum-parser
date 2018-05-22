@@ -25,13 +25,13 @@ data class Purpose(
 )
 
 data class Course(
-    val name: String,
-    val description: String,
-    val code: String,
-    val centralContent: List<CentralContent>,
-    val knowledgeRequirement: List<KnowledgeRequirementParagraph>,
-    val point: Int? = null,
-    val year: YearGroup? = null
+        val name: String,
+        val description: String,
+        val code: String,
+        val centralContent: List<CentralContent>,
+        val knowledgeRequirementParagraphs: List<KnowledgeRequirementParagraph>,
+        val point: Int? = null,
+        val year: YearGroup? = null
 )
 
 data class YearGroup(

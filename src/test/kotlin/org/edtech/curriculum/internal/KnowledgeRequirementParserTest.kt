@@ -157,10 +157,10 @@ class KnowledgeRequirementParserTest {
         for (subject in subjects) {
             for (course in subject.courses) {
                 // Get the fully parsed course
-                assertNotEquals("Knowledge Requirements is empty in  ${subject.name}/${course.name}", 0, course.knowledgeRequirement.size)
+                assertNotEquals("Knowledge Requirements is empty in  ${subject.name}/${course.name}", 0, course.knowledgeRequirementParagraphs.size)
                 // Make sure tha all requirements are set, exclude errors from skolverket.
                 if (!hasMissingRequirementsFromSkolverket.contains(course.code)) {
-                    course.knowledgeRequirement.forEach {
+                    course.knowledgeRequirementParagraphs.forEach {
                         it.knowledgeRequirements.forEach {
                             if (!it.knowledgeRequirementChoice.keys.containsAll(setOf(GradeStep.E, GradeStep.C, GradeStep.E)) &&
                                     !it.knowledgeRequirementChoice.keys.contains(GradeStep.G)) {

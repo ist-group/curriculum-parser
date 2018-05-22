@@ -41,7 +41,7 @@ enum class SyllabusType(val filename: String, val archivePath: String) {
 
         val currentFile = File(cacheDir, "$filename.tgz")
         if (currentFile.isFile && cache) {
-            currentFile.delete()
+            return currentFile
         }
 
         val tmpFile = File(currentFile.absolutePath + ".download")

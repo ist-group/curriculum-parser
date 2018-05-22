@@ -6,8 +6,12 @@ import java.io.File
 /**
  * Extract the information from Skolverket
  */
-class Syllabus(private val syllabusType: SyllabusType, archiveDir: File = File(System.getProperty("java.io.tmpdir"))) {
-    private val currentSkolverketFileArchive = syllabusType.getFileArchive(archiveDir)
+class Syllabus(
+        private val syllabusType: SyllabusType,
+        archiveDir: File = File(System.getProperty("java.io.tmpdir")),
+        cache: Boolean = true
+) {
+    private val currentSkolverketFileArchive = syllabusType.getFileArchive(archiveDir, cache)
     val subjectHtml: List<SubjectHtml> = loadSubjectsHtml()
 
     fun getSubjects(): List<Subject> {

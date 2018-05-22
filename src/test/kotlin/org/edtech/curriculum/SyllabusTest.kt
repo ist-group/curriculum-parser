@@ -112,7 +112,7 @@ class SyllabusTest {
 
             it.courses.forEach { course ->
                 testCentralContent("${course.code}/${course.name}", course.centralContent)
-                assertTrue("${course.code}/${course.name} has no knowledgeRequirements", course.knowledgeRequirement.isNotEmpty())
+                assertTrue("${course.code}/${course.name} has no knowledgeRequirements", course.knowledgeRequirementParagraphs.isNotEmpty())
                 assertTrue("${course.code}/${course.name} has no code", course.code.isNotEmpty())
                 assertTrue("${course.code}/${course.name} has no name", course.name.isNotEmpty())
                 // Only check real courses
