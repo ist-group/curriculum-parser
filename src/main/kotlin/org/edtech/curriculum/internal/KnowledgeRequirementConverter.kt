@@ -2,13 +2,14 @@ package org.edtech.curriculum.internal
 
 import org.edtech.curriculum.GradeStep
 import org.edtech.curriculum.KnowledgeRequirement
+import org.edtech.curriculum.KnowledgeRequirementParagraph
 
 class KnowledgeRequirementConverter {
 
     /**
      * Parse the grade-step html text into an KnowledgeRequirement
      */
-    fun getKnowledgeRequirements(knowledgeRequirementsHtml: Map<GradeStep, String>): List<KnowledgeRequirement> {
+    fun getKnowledgeRequirements(knowledgeRequirementsHtml: Map<GradeStep, String>): List<KnowledgeRequirementParagraph> {
         if (knowledgeRequirementsHtml.isEmpty()) {
             return listOf()
         }
@@ -26,15 +27,35 @@ class KnowledgeRequirementConverter {
         } else {
             throw Exception("Cannot parse KnowledgeRequirement with structure: " + knowledgeRequirementsHtml.keys)
         }
-        //return mergeNoValueLines(knowledgeRequirementResult)
-        return  fixNumbering(knowledgeRequirementResult)
+        return  structureParagraphs(knowledgeRequirementResult)
+    }
+
+    /**
+     * Return a list of paragraphs
+     */
+    private fun structureParagraphs(knowledgeRequirementList: List<KnowledgeRequirementData>): List<KnowledgeRequirementParagraph> {
+        var paragraphNo = 0
+        val structuredRequirements = mutableListOf<KnowledgeRequirementParagraph>()
+        val requirementsInParagraph = mutableListOf<KnowledgeRequirement>()
+        for (kn in knowledgeRequirementList) {
+            if (kn.paragraphNo != paragraphNo) {
+                paragraphNo = kn.paragraphNo
+                structuredRequirements.add(KnowledgeRequirementParagraph("", requirementsInParagraph.toList()))
+                requirementsInParagraph.clear()
+            }
+            requirementsInParagraph.add(KnowledgeRequirement(kn.text, kn.knowledgeRequirementChoice))
+        }
+        if (requirementsInParagraph.isNotEmpty()) {
+            structuredRequirements.add(KnowledgeRequirementParagraph("", requirementsInParagraph.toList()))
+        }
+        return structuredRequirements
     }
 
     /**
      * Create a working structure based on the e-level paragraphs and lines
      */
-    private fun baseKnowledgeRequirements(html: String, gradeStep: GradeStep): List<KnowledgeRequirement> {
-        val knowledgeRequirements = ArrayList<KnowledgeRequirement>()
+    private fun baseKnowledgeRequirements(html: String, gradeStep: GradeStep): List<KnowledgeRequirementData> {
+        val knowledgeRequirements = ArrayList<KnowledgeRequirementData>()
         val eLevelParagraphs = getParagraphs(fixCurriculumErrors(html))
 
         for ((paragraphNo, eParagraph) in eLevelParagraphs.withIndex()) {
@@ -42,7 +63,7 @@ class KnowledgeRequirementConverter {
             splitParagraph(eParagraph)
                     .toList()
                     .mapIndexedTo(knowledgeRequirements) { kkrNo, krText ->
-                        KnowledgeRequirement(
+                        KnowledgeRequirementData(
                                 // Generate Placeholder from E level
                                 getPlaceHolderText(krText),
                                 kkrNo,
@@ -54,80 +75,7 @@ class KnowledgeRequirementConverter {
         return knowledgeRequirements
     }
 
-
-    /**
-     * Merges two knowledge requirements
-     */
-    private fun mergeKnowledgeRequirements(kn1: KnowledgeRequirement, kn2: KnowledgeRequirement): KnowledgeRequirement {
-        return KnowledgeRequirement(
-                kn1.text + " " + kn2.text,
-                kn1.no,
-                kn1.paragraphNo,
-                kn1.knowledgeRequirementChoice.mapValues {
-                    it.value + " " + kn2.knowledgeRequirementChoice.getOrDefault(it.key, "")
-                }.toMutableMap()
-        )
-    }
-
-    /**
-     * Some lines do not carry any value (they are the same for all options) these can be merged with the previous line.
-     * If the first line needs to be merged, it will be merged with the next line instead
-     */
-    private fun mergeNoValueLines(knowledgeRequirements: List<KnowledgeRequirement>): List<KnowledgeRequirement> {
-        val mergedKnowledgeRequirements = mutableListOf<KnowledgeRequirement>()
-        var lastRequirement: KnowledgeRequirement? = null
-        var mergeNextRequirement = false
-        for (kn in knowledgeRequirements) {
-            // If all values are equals merge to previous kn
-            if (kn.knowledgeRequirementChoice.filterNot {
-                        it.value == kn.knowledgeRequirementChoice[GradeStep.E]
-                    }.isEmpty()) {
-                if(lastRequirement != null) {
-                    lastRequirement = mergeKnowledgeRequirements(lastRequirement, kn)
-                } else {
-                    if (mergedKnowledgeRequirements.isEmpty()) {
-                        mergeNextRequirement = true
-                    }
-                    lastRequirement = kn
-                }
-            } else {
-                if (mergeNextRequirement && lastRequirement != null) {
-                    lastRequirement = mergeKnowledgeRequirements(lastRequirement, kn)
-                    mergeNextRequirement = false
-                } else {
-                    if (lastRequirement != null) {
-                        mergedKnowledgeRequirements.add(lastRequirement)
-                    }
-                    lastRequirement = kn
-                }
-
-            }
-        }
-        if (lastRequirement != null) {
-            mergedKnowledgeRequirements.add(lastRequirement)
-        }
-        return fixNumbering(mergedKnowledgeRequirements)
-    }
-
-    /**
-     * Add Numbering according to paragraph shifts.
-     */
-    private fun fixNumbering(knowledgeRequirements: List<KnowledgeRequirement>): List<KnowledgeRequirement> {
-        var no = 0
-        var paragraphNo = 0
-        val fixedRequirements = mutableListOf<KnowledgeRequirement>()
-        for (kn in knowledgeRequirements) {
-            if (kn.paragraphNo != paragraphNo) {
-                paragraphNo = kn.paragraphNo
-                no = 0
-            }
-            fixedRequirements.add(KnowledgeRequirement(kn.text, no++, kn.paragraphNo, kn.knowledgeRequirementChoice))
-
-        }
-        return fixedRequirements
-    }
-
-    private fun addLevelToKnowledgeRequirement(requirement: KnowledgeRequirement, gradeStep: GradeStep, line: String): KnowledgeRequirement {
+    private fun addLevelToKnowledgeRequirement(requirement: KnowledgeRequirementData, gradeStep: GradeStep, line: String): KnowledgeRequirementData {
         val choices = requirement.knowledgeRequirementChoice.toMutableMap()
         if (choices.containsKey(gradeStep)) {
             choices[gradeStep] = (choices[gradeStep] + " " + line.trim()).trim()
@@ -135,13 +83,13 @@ class KnowledgeRequirementConverter {
             choices[gradeStep] = line.trim()
         }
 
-        return KnowledgeRequirement(
+        return KnowledgeRequirementData(
                 requirement.text,
                 requirement.no,
                 requirement.paragraphNo, choices)
     }
 
-    private fun matchRatio(knowledgeRequirement: KnowledgeRequirement?, line: String?): Double {
+    private fun matchRatio(knowledgeRequirement: KnowledgeRequirementData?, line: String?): Double {
         if (knowledgeRequirement != null && line != null) {
             return knowledgeRequirement.knowledgeRequirementChoice.map {
                 similarLineRatio(it.value, line)
@@ -153,8 +101,8 @@ class KnowledgeRequirementConverter {
     /**
      * Add new grade-step values to a list of knowledge requirements
      */
-    private fun addGradeStep(knowledgeRequirements: List<KnowledgeRequirement>, html: String, gradeStep: GradeStep, lookahead: Int = 3 ): List<KnowledgeRequirement> {
-        val result = mutableListOf<KnowledgeRequirement>()
+    private fun addGradeStep(knowledgeRequirements: List<KnowledgeRequirementData>, html: String, gradeStep: GradeStep, lookahead: Int = 3 ): List<KnowledgeRequirementData> {
+        val result = mutableListOf<KnowledgeRequirementData>()
 
         // Convert all html paragraphs to a flat line of texts
         val lines = getParagraphs(html)
@@ -213,4 +161,11 @@ class KnowledgeRequirementConverter {
         }
         return result
     }
+
+    private data class KnowledgeRequirementData(
+        val text: String,
+        val no: Int,
+        val paragraphNo: Int,
+        val knowledgeRequirementChoice: Map<GradeStep, String>
+    )
 }

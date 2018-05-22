@@ -31,7 +31,7 @@ enum class SyllabusType(val filename: String, val archivePath: String) {
         return connection.getInputStream()
     }
 
-    private fun getLocallyCachedFile(cacheDir: File): File {
+    private fun getLocallyCachedFile(cacheDir: File, cache: Boolean): File {
         if (!cacheDir.isDirectory) {
             if (!cacheDir.mkdir()) {
                 System.err.println("ERROR: Unable to create cache dir: " + cacheDir.absolutePath)
@@ -40,7 +40,9 @@ enum class SyllabusType(val filename: String, val archivePath: String) {
         }
 
         val currentFile = File(cacheDir, "$filename.tgz")
-        if (currentFile.isFile) return currentFile
+        if (currentFile.isFile && cache) {
+            currentFile.delete()
+        }
 
         val tmpFile = File(currentFile.absolutePath + ".download")
         val inStream = getDownloadFileStream()
@@ -51,13 +53,19 @@ enum class SyllabusType(val filename: String, val archivePath: String) {
                 it.write(bytes, 0, bytesRead)
             }
         }
-
+        // Remove the old version if exists
+        if (currentFile.isFile) {
+            currentFile.delete()
+        }
         tmpFile.renameTo(currentFile)
 
         return currentFile
     }
 
-    fun getFileArchive(cacheDir: File = File(System.getProperty("java.io.tmpdir"))): SkolverketFileArchive {
-        return SkolverketFileArchive(getLocallyCachedFile(cacheDir))
+    /**
+     * Load the SkolverketFileArchive
+     */
+    fun getFileArchive(fileDir: File = File(System.getProperty("java.io.tmpdir")), cache: Boolean = true): SkolverketFileArchive {
+        return SkolverketFileArchive(getLocallyCachedFile(fileDir, cache))
     }
 }

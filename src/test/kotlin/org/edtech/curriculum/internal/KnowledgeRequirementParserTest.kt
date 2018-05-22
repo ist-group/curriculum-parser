@@ -102,12 +102,14 @@ class KnowledgeRequirementParserTest {
                 val combined: MutableMap<GradeStep, StringBuilder> = HashMap()
                 val knowledgeRequirements = KnowledgeRequirementConverter()
                         .getKnowledgeRequirements(course.knowledgeRequirement)
-                for (kn in knowledgeRequirements) {
-                    for ((g, s) in kn.knowledgeRequirementChoice) {
-                        if (combined.containsKey(g)) {
-                            combined[g]?.append(" ")?.append(s)
-                        } else {
-                            combined[g] = StringBuilder(s)
+                for (knp in knowledgeRequirements) {
+                    for (kn in knp.knowledgeRequirements) {
+                        for ((g, s) in kn.knowledgeRequirementChoice) {
+                            if (combined.containsKey(g)) {
+                                combined[g]?.append(" ")?.append(s)
+                            } else {
+                                combined[g] = StringBuilder(s)
+                            }
                         }
                     }
                 }
@@ -159,13 +161,15 @@ class KnowledgeRequirementParserTest {
                 // Make sure tha all requirements are set, exclude errors from skolverket.
                 if (!hasMissingRequirementsFromSkolverket.contains(course.code)) {
                     course.knowledgeRequirement.forEach {
-                        if (!it.knowledgeRequirementChoice.keys.containsAll(setOf(GradeStep.E, GradeStep.C, GradeStep.E)) &&
-                                !it.knowledgeRequirementChoice.keys.contains(GradeStep.G)) {
-                            fail("Knowledge Requirement Choices should be either E,C,A or G failed for: ${subject.name}/${course.name}")
-                        }
-                        it.knowledgeRequirementChoice.forEach {
-                            if (it.value.isBlank())
-                                fail("Found empty knowledge requirement critera in ${subject.name}/${course.name} [${course.code}]")
+                        it.knowledgeRequirements.forEach {
+                            if (!it.knowledgeRequirementChoice.keys.containsAll(setOf(GradeStep.E, GradeStep.C, GradeStep.E)) &&
+                                    !it.knowledgeRequirementChoice.keys.contains(GradeStep.G)) {
+                                fail("Knowledge Requirement Choices should be either E,C,A or G failed for: ${subject.name}/${course.name}")
+                            }
+                            it.knowledgeRequirementChoice.forEach {
+                                if (it.value.isBlank())
+                                    fail("Found empty knowledge requirement critera in ${subject.name}/${course.name} [${course.code}]")
+                            }
                         }
                     }
                 }

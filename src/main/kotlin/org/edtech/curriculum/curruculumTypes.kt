@@ -29,7 +29,7 @@ data class Course(
     val description: String,
     val code: String,
     val centralContent: List<CentralContent>,
-    val knowledgeRequirement: List<KnowledgeRequirement>,
+    val knowledgeRequirement: List<KnowledgeRequirementParagraph>,
     val point: Int? = null,
     val year: YearGroup? = null
 )
@@ -44,9 +44,12 @@ data class CentralContent(
     val lines: List<String>
 )
 
+data class KnowledgeRequirementParagraph(
+    val heading: String,
+    val knowledgeRequirements: List<KnowledgeRequirement>
+)
+
 data class KnowledgeRequirement(
     val text: String,
-    val no: Int,
-    val paragraphNo: Int,
     val knowledgeRequirementChoice: Map<GradeStep, String>
 )

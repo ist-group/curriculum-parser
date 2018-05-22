@@ -49,77 +49,70 @@
       "lines" : [ "Metoder för att söka information från olika källor: intervjuer, observationer och mätningar. Hur man kan värdera och bearbeta källor och information.", "Rumsuppfattning med hjälp av mentala kartor och fysiska kartor över till exempel närområdet och skolvägar. Storleksrelationer och väderstreck samt rumsliga begrepp, till exempel plats, läge och gräns.", "Tidslinjer och tidsbegreppen dåtid, nutid och framtid." ]
     } ],
     "knowledgeRequirement" : [ {
-      "text" : "Eleven har <strong>________</strong> kunskaper om samspelet mellan människa, samhälle och natur, och visar det genom att föra <strong>________</strong> underbyggda resonemang om orsaker till och konsekvenser av befolkningsfördelning, migration, klimat, vegetation och klimatförändringar i olika delar av världen.",
-      "no" : 0,
-      "paragraphNo" : 0,
-      "knowledgeRequirementChoice" : {
-        "E" : "Eleven har <strong>grundläggande </strong>kunskaper om samspelet mellan människa, samhälle och natur, och visar det genom att föra<strong> enkla och till viss del </strong>underbyggda resonemang om orsaker till och konsekvenser av befolkningsfördelning, migration, klimat, vegetation och klimatförändringar i olika delar av världen.",
-        "C" : "Eleven har <strong>goda </strong>kunskaper om samspelet mellan människa, samhälle och natur, och visar det genom att föra<strong> utvecklade och relativt väl </strong>underbyggda resonemang om orsaker till och konsekvenser av befolkningsfördelning, migration, klimat, vegetation och klimatförändringar i olika delar av världen.",
-        "A" : "Eleven har <strong>mycket goda </strong>kunskaper om samspelet mellan människa, samhälle och natur, och visar det genom att föra<strong> välutvecklade och väl </strong>underbyggda resonemang om orsaker till och konsekvenser av befolkningsfördelning, migration, klimat, vegetation och klimatförändringar i olika delar av världen."
-      }
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven har <strong>________</strong> kunskaper om samspelet mellan människa, samhälle och natur, och visar det genom att föra <strong>________</strong> underbyggda resonemang om orsaker till och konsekvenser av befolkningsfördelning, migration, klimat, vegetation och klimatförändringar i olika delar av världen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven har <strong>grundläggande </strong>kunskaper om samspelet mellan människa, samhälle och natur, och visar det genom att föra<strong> enkla och till viss del </strong>underbyggda resonemang om orsaker till och konsekvenser av befolkningsfördelning, migration, klimat, vegetation och klimatförändringar i olika delar av världen.",
+          "C" : "Eleven har <strong>goda </strong>kunskaper om samspelet mellan människa, samhälle och natur, och visar det genom att föra<strong> utvecklade och relativt väl </strong>underbyggda resonemang om orsaker till och konsekvenser av befolkningsfördelning, migration, klimat, vegetation och klimatförändringar i olika delar av världen.",
+          "A" : "Eleven har <strong>mycket goda </strong>kunskaper om samspelet mellan människa, samhälle och natur, och visar det genom att föra<strong> välutvecklade och väl </strong>underbyggda resonemang om orsaker till och konsekvenser av befolkningsfördelning, migration, klimat, vegetation och klimatförändringar i olika delar av världen."
+        }
+      }, {
+        "text" : "Eleven kan även använda geografiska begrepp på ett <strong>________</strong> fungerande sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kan även använda geografiska begrepp på ett<strong> i huvudsak </strong>fungerande sätt.",
+          "C" : "Eleven kan även använda geografiska begrepp på ett<strong> relativt väl </strong>fungerande sätt.",
+          "A" : "Eleven kan även använda geografiska begrepp på ett<strong> väl </strong>fungerande sätt."
+        }
+      }, {
+        "text" : "Eleven kan undersöka var olika varor och tjänster produceras och konsumeras, och beskriver då <strong>________</strong> geografiska mönster av handel och kommunikation samt för <strong>________</strong> underbyggda resonemang om hur dessa mönster ser ut och hur de har förändrats över tid samt orsaker till och konsekvenser av detta.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kan undersöka var olika varor och tjänster produceras och konsumeras, och beskriver då <strong>enkla </strong>geografiska mönster av handel och kommunikation samt för <strong>enkla och till viss del </strong>underbyggda resonemang om hur dessa mönster ser ut och hur de har förändrats över tid samt orsaker till och konsekvenser av detta.",
+          "C" : "Eleven kan undersöka var olika varor och tjänster produceras och konsumeras, och beskriver då <strong>förhållandevis komplexa </strong>geografiska mönster av handel och kommunikation samt för <strong>utvecklade och relativt väl </strong>underbyggda resonemang om hur dessa mönster ser ut och hur de har förändrats över tid samt orsaker till och konsekvenser av detta.",
+          "A" : "Eleven kan undersöka var olika varor och tjänster produceras och konsumeras, och beskriver då <strong>komplexa </strong>geografiska mönster av handel och kommunikation samt för <strong>välutvecklade och väl </strong>underbyggda resonemang om hur dessa mönster ser ut och hur de har förändrats över tid samt orsaker till och konsekvenser av detta."
+        }
+      }, {
+        "text" : "Eleven för <strong>________</strong> underbyggda resonemang om klimatförändringar och olika förklaringar till dessa samt deras konsekvenser för människa, samhälle och miljö i olika delar av världen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven för <strong>enkla och till viss del </strong>underbyggda resonemang om klimatförändringar och olika förklaringar till dessa samt deras konsekvenser för människa, samhälle och miljö i olika delar av världen.",
+          "C" : "Eleven för <strong>utvecklade och relativt väl </strong>underbyggda resonemang om klimatförändringar och olika förklaringar till dessa samt deras konsekvenser för människa, samhälle och miljö i olika delar av världen.",
+          "A" : "Eleven för <strong>välutvecklade och väl </strong>underbyggda resonemang om klimatförändringar och olika förklaringar till dessa samt deras konsekvenser för människa, samhälle och miljö i olika delar av världen."
+        }
+      } ]
     }, {
-      "text" : "Eleven kan även använda geografiska begrepp på ett <strong>________</strong> fungerande sätt.",
-      "no" : 1,
-      "paragraphNo" : 0,
-      "knowledgeRequirementChoice" : {
-        "E" : "Eleven kan även använda geografiska begrepp på ett<strong> i huvudsak </strong>fungerande sätt.",
-        "C" : "Eleven kan även använda geografiska begrepp på ett<strong> relativt väl </strong>fungerande sätt.",
-        "A" : "Eleven kan även använda geografiska begrepp på ett<strong> väl </strong>fungerande sätt."
-      }
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kan undersöka omvärlden och använder då kartor och andra geografiska källor, teorier, metoder och tekniker på ett <strong>________</strong> fungerande sätt, samt för <strong>________</strong> underbyggda resonemang om olika källors trovärdighet och relevans.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kan undersöka omvärlden och använder då kartor och andra geografiska källor, teorier, metoder och tekniker på ett <strong>i huvudsak </strong>fungerande sätt, samt för <strong>enkla och till viss del </strong>underbyggda resonemang om olika källors trovärdighet och relevans.",
+          "C" : "Eleven kan undersöka omvärlden och använder då kartor och andra geografiska källor, teorier, metoder och tekniker på ett <strong>relativt väl </strong>fungerande sätt, samt för <strong>utvecklade och relativt väl </strong>underbyggda resonemang om olika källors trovärdighet och relevans.",
+          "A" : "Eleven kan undersöka omvärlden och använder då kartor och andra geografiska källor, teorier, metoder och tekniker på ett <strong>väl </strong>fungerande sätt, samt för <strong>välutvecklade och väl </strong>underbyggda resonemang om olika källors trovärdighet och relevans."
+        }
+      }, {
+        "text" : "Vid fältstudier använder eleven kartor och andra verktyg på ett <strong>________</strong> sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vid fältstudier använder eleven kartor och andra verktyg på ett<strong> i huvudsak fungerande </strong>sätt.",
+          "C" : "Vid fältstudier använder eleven kartor och andra verktyg på ett<strong> relativt ändamålsenligt </strong>sätt.",
+          "A" : "Vid fältstudier använder eleven kartor och andra verktyg på ett<strong> ändamålsenligt och</strong> <strong>effektivt </strong>sätt."
+        }
+      }, {
+        "text" : "Eleven har <strong>________</strong> kunskaper om världsdelarnas namngeografi och visar det genom att med <strong>________</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven har <strong>grundläggande </strong>kunskaper om världsdelarnas namngeografi och visar det genom att med <strong>viss</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt.",
+          "C" : "Eleven har <strong>goda </strong>kunskaper om världsdelarnas namngeografi och visar det genom att med <strong>relativt god</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt.",
+          "A" : "Eleven har <strong>mycket goda </strong>kunskaper om världsdelarnas namngeografi och visar det genom att med <strong>god</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt."
+        }
+      } ]
     }, {
-      "text" : "Eleven kan undersöka var olika varor och tjänster produceras och konsumeras, och beskriver då <strong>________</strong> geografiska mönster av handel och kommunikation samt för <strong>________</strong> underbyggda resonemang om hur dessa mönster ser ut och hur de har förändrats över tid samt orsaker till och konsekvenser av detta.",
-      "no" : 2,
-      "paragraphNo" : 0,
-      "knowledgeRequirementChoice" : {
-        "E" : "Eleven kan undersöka var olika varor och tjänster produceras och konsumeras, och beskriver då <strong>enkla </strong>geografiska mönster av handel och kommunikation samt för <strong>enkla och till viss del </strong>underbyggda resonemang om hur dessa mönster ser ut och hur de har förändrats över tid samt orsaker till och konsekvenser av detta.",
-        "C" : "Eleven kan undersöka var olika varor och tjänster produceras och konsumeras, och beskriver då <strong>förhållandevis komplexa </strong>geografiska mönster av handel och kommunikation samt för <strong>utvecklade och relativt väl </strong>underbyggda resonemang om hur dessa mönster ser ut och hur de har förändrats över tid samt orsaker till och konsekvenser av detta.",
-        "A" : "Eleven kan undersöka var olika varor och tjänster produceras och konsumeras, och beskriver då <strong>komplexa </strong>geografiska mönster av handel och kommunikation samt för <strong>välutvecklade och väl </strong>underbyggda resonemang om hur dessa mönster ser ut och hur de har förändrats över tid samt orsaker till och konsekvenser av detta."
-      }
-    }, {
-      "text" : "Eleven för <strong>________</strong> underbyggda resonemang om klimatförändringar och olika förklaringar till dessa samt deras konsekvenser för människa, samhälle och miljö i olika delar av världen.",
-      "no" : 3,
-      "paragraphNo" : 0,
-      "knowledgeRequirementChoice" : {
-        "E" : "Eleven för <strong>enkla och till viss del </strong>underbyggda resonemang om klimatförändringar och olika förklaringar till dessa samt deras konsekvenser för människa, samhälle och miljö i olika delar av världen.",
-        "C" : "Eleven för <strong>utvecklade och relativt väl </strong>underbyggda resonemang om klimatförändringar och olika förklaringar till dessa samt deras konsekvenser för människa, samhälle och miljö i olika delar av världen.",
-        "A" : "Eleven för <strong>välutvecklade och väl </strong>underbyggda resonemang om klimatförändringar och olika förklaringar till dessa samt deras konsekvenser för människa, samhälle och miljö i olika delar av världen."
-      }
-    }, {
-      "text" : "Eleven kan undersöka omvärlden och använder då kartor och andra geografiska källor, teorier, metoder och tekniker på ett <strong>________</strong> fungerande sätt, samt för <strong>________</strong> underbyggda resonemang om olika källors trovärdighet och relevans.",
-      "no" : 0,
-      "paragraphNo" : 1,
-      "knowledgeRequirementChoice" : {
-        "E" : "Eleven kan undersöka omvärlden och använder då kartor och andra geografiska källor, teorier, metoder och tekniker på ett <strong>i huvudsak </strong>fungerande sätt, samt för <strong>enkla och till viss del </strong>underbyggda resonemang om olika källors trovärdighet och relevans.",
-        "C" : "Eleven kan undersöka omvärlden och använder då kartor och andra geografiska källor, teorier, metoder och tekniker på ett <strong>relativt väl </strong>fungerande sätt, samt för <strong>utvecklade och relativt väl </strong>underbyggda resonemang om olika källors trovärdighet och relevans.",
-        "A" : "Eleven kan undersöka omvärlden och använder då kartor och andra geografiska källor, teorier, metoder och tekniker på ett <strong>väl </strong>fungerande sätt, samt för <strong>välutvecklade och väl </strong>underbyggda resonemang om olika källors trovärdighet och relevans."
-      }
-    }, {
-      "text" : "Vid fältstudier använder eleven kartor och andra verktyg på ett <strong>________</strong> sätt.",
-      "no" : 1,
-      "paragraphNo" : 1,
-      "knowledgeRequirementChoice" : {
-        "E" : "Vid fältstudier använder eleven kartor och andra verktyg på ett<strong> i huvudsak fungerande </strong>sätt.",
-        "C" : "Vid fältstudier använder eleven kartor och andra verktyg på ett<strong> relativt ändamålsenligt </strong>sätt.",
-        "A" : "Vid fältstudier använder eleven kartor och andra verktyg på ett<strong> ändamålsenligt och</strong> <strong>effektivt </strong>sätt."
-      }
-    }, {
-      "text" : "Eleven har <strong>________</strong> kunskaper om världsdelarnas namngeografi och visar det genom att med <strong>________</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt.",
-      "no" : 2,
-      "paragraphNo" : 1,
-      "knowledgeRequirementChoice" : {
-        "E" : "Eleven har <strong>grundläggande </strong>kunskaper om världsdelarnas namngeografi och visar det genom att med <strong>viss</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt.",
-        "C" : "Eleven har <strong>goda </strong>kunskaper om världsdelarnas namngeografi och visar det genom att med <strong>relativt god</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt.",
-        "A" : "Eleven har <strong>mycket goda </strong>kunskaper om världsdelarnas namngeografi och visar det genom att med <strong>god</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt."
-      }
-    }, {
-      "text" : "Eleven kan resonera om olika ekologiska, ekonomiska och sociala hållbarhetsfrågor och redogör då för <strong>________</strong> underbyggda förslag på lösningar där några konsekvenser för människa, samhälle och natur vägs in.",
-      "no" : 0,
-      "paragraphNo" : 2,
-      "knowledgeRequirementChoice" : {
-        "E" : "Eleven kan resonera om olika ekologiska, ekonomiska och sociala hållbarhetsfrågor och redogör då för <strong>enkla och till viss del </strong>underbyggda förslag på lösningar där några konsekvenser för människa, samhälle och natur vägs in.",
-        "C" : "Eleven kan resonera om olika ekologiska, ekonomiska och sociala hållbarhetsfrågor och redogör då för <strong>utvecklade och relativt väl </strong>underbyggda förslag på lösningar där några konsekvenser för människa, samhälle och natur vägs in.",
-        "A" : "Eleven kan resonera om olika ekologiska, ekonomiska och sociala hållbarhetsfrågor och redogör då för <strong>välutvecklade och väl </strong>underbyggda förslag på lösningar där några konsekvenser för människa, samhälle och natur vägs in."
-      }
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kan resonera om olika ekologiska, ekonomiska och sociala hållbarhetsfrågor och redogör då för <strong>________</strong> underbyggda förslag på lösningar där några konsekvenser för människa, samhälle och natur vägs in.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kan resonera om olika ekologiska, ekonomiska och sociala hållbarhetsfrågor och redogör då för <strong>enkla och till viss del </strong>underbyggda förslag på lösningar där några konsekvenser för människa, samhälle och natur vägs in.",
+          "C" : "Eleven kan resonera om olika ekologiska, ekonomiska och sociala hållbarhetsfrågor och redogör då för <strong>utvecklade och relativt väl </strong>underbyggda förslag på lösningar där några konsekvenser för människa, samhälle och natur vägs in.",
+          "A" : "Eleven kan resonera om olika ekologiska, ekonomiska och sociala hållbarhetsfrågor och redogör då för <strong>välutvecklade och väl </strong>underbyggda förslag på lösningar där några konsekvenser för människa, samhälle och natur vägs in."
+        }
+      } ]
     } ],
     "point" : null,
     "year" : {
@@ -147,77 +140,70 @@
       "lines" : [ "Hur val och prioriteringar i vardagen kan påverka miljön och bidra till en hållbar utveckling.", "Ojämlika levnadsvillkor i världen, till exempel olika tillgång till utbildning, hälsovård och naturresurser samt några bakomliggande orsaker till detta. Enskilda människors och organisationers arbete för att förbättra människors levnadsvillkor." ]
     } ],
     "knowledgeRequirement" : [ {
-      "text" : "Eleven har <strong>________</strong> kunskaper om samspelet mellan människa, samhälle och natur, och visar det genom att föra <strong>________</strong> underbyggda resonemang om orsaker till och konsekvenser av befolkningsfördelning, migration, klimat, vegetation och klimatförändringar i olika delar av världen.",
-      "no" : 0,
-      "paragraphNo" : 0,
-      "knowledgeRequirementChoice" : {
-        "E" : "Eleven har <strong>grundläggande </strong>kunskaper om samspelet mellan människa, samhälle och natur, och visar det genom att föra<strong> enkla och till viss del </strong>underbyggda resonemang om orsaker till och konsekvenser av befolkningsfördelning, migration, klimat, vegetation och klimatförändringar i olika delar av världen.",
-        "C" : "Eleven har <strong>goda </strong>kunskaper om samspelet mellan människa, samhälle och natur, och visar det genom att föra<strong> utvecklade och relativt väl </strong>underbyggda resonemang om orsaker till och konsekvenser av befolkningsfördelning, migration, klimat, vegetation och klimatförändringar i olika delar av världen.",
-        "A" : "Eleven har <strong>mycket goda </strong>kunskaper om samspelet mellan människa, samhälle och natur, och visar det genom att föra<strong> välutvecklade och väl </strong>underbyggda resonemang om orsaker till och konsekvenser av befolkningsfördelning, migration, klimat, vegetation och klimatförändringar i olika delar av världen."
-      }
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven har <strong>________</strong> kunskaper om samspelet mellan människa, samhälle och natur, och visar det genom att föra <strong>________</strong> underbyggda resonemang om orsaker till och konsekvenser av befolkningsfördelning, migration, klimat, vegetation och klimatförändringar i olika delar av världen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven har <strong>grundläggande </strong>kunskaper om samspelet mellan människa, samhälle och natur, och visar det genom att föra<strong> enkla och till viss del </strong>underbyggda resonemang om orsaker till och konsekvenser av befolkningsfördelning, migration, klimat, vegetation och klimatförändringar i olika delar av världen.",
+          "C" : "Eleven har <strong>goda </strong>kunskaper om samspelet mellan människa, samhälle och natur, och visar det genom att föra<strong> utvecklade och relativt väl </strong>underbyggda resonemang om orsaker till och konsekvenser av befolkningsfördelning, migration, klimat, vegetation och klimatförändringar i olika delar av världen.",
+          "A" : "Eleven har <strong>mycket goda </strong>kunskaper om samspelet mellan människa, samhälle och natur, och visar det genom att föra<strong> välutvecklade och väl </strong>underbyggda resonemang om orsaker till och konsekvenser av befolkningsfördelning, migration, klimat, vegetation och klimatförändringar i olika delar av världen."
+        }
+      }, {
+        "text" : "Eleven kan även använda geografiska begrepp på ett <strong>________</strong> fungerande sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kan även använda geografiska begrepp på ett<strong> i huvudsak </strong>fungerande sätt.",
+          "C" : "Eleven kan även använda geografiska begrepp på ett<strong> relativt väl </strong>fungerande sätt.",
+          "A" : "Eleven kan även använda geografiska begrepp på ett<strong> väl </strong>fungerande sätt."
+        }
+      }, {
+        "text" : "Eleven kan undersöka var olika varor och tjänster produceras och konsumeras, och beskriver då <strong>________</strong> geografiska mönster av handel och kommunikation samt för <strong>________</strong> underbyggda resonemang om hur dessa mönster ser ut och hur de har förändrats över tid samt orsaker till och konsekvenser av detta.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kan undersöka var olika varor och tjänster produceras och konsumeras, och beskriver då <strong>enkla </strong>geografiska mönster av handel och kommunikation samt för <strong>enkla och till viss del </strong>underbyggda resonemang om hur dessa mönster ser ut och hur de har förändrats över tid samt orsaker till och konsekvenser av detta.",
+          "C" : "Eleven kan undersöka var olika varor och tjänster produceras och konsumeras, och beskriver då <strong>förhållandevis komplexa </strong>geografiska mönster av handel och kommunikation samt för <strong>utvecklade och relativt väl </strong>underbyggda resonemang om hur dessa mönster ser ut och hur de har förändrats över tid samt orsaker till och konsekvenser av detta.",
+          "A" : "Eleven kan undersöka var olika varor och tjänster produceras och konsumeras, och beskriver då <strong>komplexa </strong>geografiska mönster av handel och kommunikation samt för <strong>välutvecklade och väl </strong>underbyggda resonemang om hur dessa mönster ser ut och hur de har förändrats över tid samt orsaker till och konsekvenser av detta."
+        }
+      }, {
+        "text" : "Eleven för <strong>________</strong> underbyggda resonemang om klimatförändringar och olika förklaringar till dessa samt deras konsekvenser för människa, samhälle och miljö i olika delar av världen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven för <strong>enkla och till viss del </strong>underbyggda resonemang om klimatförändringar och olika förklaringar till dessa samt deras konsekvenser för människa, samhälle och miljö i olika delar av världen.",
+          "C" : "Eleven för <strong>utvecklade och relativt väl </strong>underbyggda resonemang om klimatförändringar och olika förklaringar till dessa samt deras konsekvenser för människa, samhälle och miljö i olika delar av världen.",
+          "A" : "Eleven för <strong>välutvecklade och väl </strong>underbyggda resonemang om klimatförändringar och olika förklaringar till dessa samt deras konsekvenser för människa, samhälle och miljö i olika delar av världen."
+        }
+      } ]
     }, {
-      "text" : "Eleven kan även använda geografiska begrepp på ett <strong>________</strong> fungerande sätt.",
-      "no" : 1,
-      "paragraphNo" : 0,
-      "knowledgeRequirementChoice" : {
-        "E" : "Eleven kan även använda geografiska begrepp på ett<strong> i huvudsak </strong>fungerande sätt.",
-        "C" : "Eleven kan även använda geografiska begrepp på ett<strong> relativt väl </strong>fungerande sätt.",
-        "A" : "Eleven kan även använda geografiska begrepp på ett<strong> väl </strong>fungerande sätt."
-      }
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kan undersöka omvärlden och använder då kartor och andra geografiska källor, teorier, metoder och tekniker på ett <strong>________</strong> fungerande sätt, samt för <strong>________</strong> underbyggda resonemang om olika källors trovärdighet och relevans.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kan undersöka omvärlden och använder då kartor och andra geografiska källor, teorier, metoder och tekniker på ett <strong>i huvudsak </strong>fungerande sätt, samt för <strong>enkla och till viss del </strong>underbyggda resonemang om olika källors trovärdighet och relevans.",
+          "C" : "Eleven kan undersöka omvärlden och använder då kartor och andra geografiska källor, teorier, metoder och tekniker på ett <strong>relativt väl </strong>fungerande sätt, samt för <strong>utvecklade och relativt väl </strong>underbyggda resonemang om olika källors trovärdighet och relevans.",
+          "A" : "Eleven kan undersöka omvärlden och använder då kartor och andra geografiska källor, teorier, metoder och tekniker på ett <strong>väl </strong>fungerande sätt, samt för <strong>välutvecklade och väl </strong>underbyggda resonemang om olika källors trovärdighet och relevans."
+        }
+      }, {
+        "text" : "Vid fältstudier använder eleven kartor och andra verktyg på ett <strong>________</strong> sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vid fältstudier använder eleven kartor och andra verktyg på ett<strong> i huvudsak fungerande </strong>sätt.",
+          "C" : "Vid fältstudier använder eleven kartor och andra verktyg på ett<strong> relativt ändamålsenligt </strong>sätt.",
+          "A" : "Vid fältstudier använder eleven kartor och andra verktyg på ett<strong> ändamålsenligt och</strong> <strong>effektivt </strong>sätt."
+        }
+      }, {
+        "text" : "Eleven har <strong>________</strong> kunskaper om världsdelarnas namngeografi och visar det genom att med <strong>________</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven har <strong>grundläggande </strong>kunskaper om världsdelarnas namngeografi och visar det genom att med <strong>viss</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt.",
+          "C" : "Eleven har <strong>goda </strong>kunskaper om världsdelarnas namngeografi och visar det genom att med <strong>relativt god</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt.",
+          "A" : "Eleven har <strong>mycket goda </strong>kunskaper om världsdelarnas namngeografi och visar det genom att med <strong>god</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt."
+        }
+      } ]
     }, {
-      "text" : "Eleven kan undersöka var olika varor och tjänster produceras och konsumeras, och beskriver då <strong>________</strong> geografiska mönster av handel och kommunikation samt för <strong>________</strong> underbyggda resonemang om hur dessa mönster ser ut och hur de har förändrats över tid samt orsaker till och konsekvenser av detta.",
-      "no" : 2,
-      "paragraphNo" : 0,
-      "knowledgeRequirementChoice" : {
-        "E" : "Eleven kan undersöka var olika varor och tjänster produceras och konsumeras, och beskriver då <strong>enkla </strong>geografiska mönster av handel och kommunikation samt för <strong>enkla och till viss del </strong>underbyggda resonemang om hur dessa mönster ser ut och hur de har förändrats över tid samt orsaker till och konsekvenser av detta.",
-        "C" : "Eleven kan undersöka var olika varor och tjänster produceras och konsumeras, och beskriver då <strong>förhållandevis komplexa </strong>geografiska mönster av handel och kommunikation samt för <strong>utvecklade och relativt väl </strong>underbyggda resonemang om hur dessa mönster ser ut och hur de har förändrats över tid samt orsaker till och konsekvenser av detta.",
-        "A" : "Eleven kan undersöka var olika varor och tjänster produceras och konsumeras, och beskriver då <strong>komplexa </strong>geografiska mönster av handel och kommunikation samt för <strong>välutvecklade och väl </strong>underbyggda resonemang om hur dessa mönster ser ut och hur de har förändrats över tid samt orsaker till och konsekvenser av detta."
-      }
-    }, {
-      "text" : "Eleven för <strong>________</strong> underbyggda resonemang om klimatförändringar och olika förklaringar till dessa samt deras konsekvenser för människa, samhälle och miljö i olika delar av världen.",
-      "no" : 3,
-      "paragraphNo" : 0,
-      "knowledgeRequirementChoice" : {
-        "E" : "Eleven för <strong>enkla och till viss del </strong>underbyggda resonemang om klimatförändringar och olika förklaringar till dessa samt deras konsekvenser för människa, samhälle och miljö i olika delar av världen.",
-        "C" : "Eleven för <strong>utvecklade och relativt väl </strong>underbyggda resonemang om klimatförändringar och olika förklaringar till dessa samt deras konsekvenser för människa, samhälle och miljö i olika delar av världen.",
-        "A" : "Eleven för <strong>välutvecklade och väl </strong>underbyggda resonemang om klimatförändringar och olika förklaringar till dessa samt deras konsekvenser för människa, samhälle och miljö i olika delar av världen."
-      }
-    }, {
-      "text" : "Eleven kan undersöka omvärlden och använder då kartor och andra geografiska källor, teorier, metoder och tekniker på ett <strong>________</strong> fungerande sätt, samt för <strong>________</strong> underbyggda resonemang om olika källors trovärdighet och relevans.",
-      "no" : 0,
-      "paragraphNo" : 1,
-      "knowledgeRequirementChoice" : {
-        "E" : "Eleven kan undersöka omvärlden och använder då kartor och andra geografiska källor, teorier, metoder och tekniker på ett <strong>i huvudsak </strong>fungerande sätt, samt för <strong>enkla och till viss del </strong>underbyggda resonemang om olika källors trovärdighet och relevans.",
-        "C" : "Eleven kan undersöka omvärlden och använder då kartor och andra geografiska källor, teorier, metoder och tekniker på ett <strong>relativt väl </strong>fungerande sätt, samt för <strong>utvecklade och relativt väl </strong>underbyggda resonemang om olika källors trovärdighet och relevans.",
-        "A" : "Eleven kan undersöka omvärlden och använder då kartor och andra geografiska källor, teorier, metoder och tekniker på ett <strong>väl </strong>fungerande sätt, samt för <strong>välutvecklade och väl </strong>underbyggda resonemang om olika källors trovärdighet och relevans."
-      }
-    }, {
-      "text" : "Vid fältstudier använder eleven kartor och andra verktyg på ett <strong>________</strong> sätt.",
-      "no" : 1,
-      "paragraphNo" : 1,
-      "knowledgeRequirementChoice" : {
-        "E" : "Vid fältstudier använder eleven kartor och andra verktyg på ett<strong> i huvudsak fungerande </strong>sätt.",
-        "C" : "Vid fältstudier använder eleven kartor och andra verktyg på ett<strong> relativt ändamålsenligt </strong>sätt.",
-        "A" : "Vid fältstudier använder eleven kartor och andra verktyg på ett<strong> ändamålsenligt och</strong> <strong>effektivt </strong>sätt."
-      }
-    }, {
-      "text" : "Eleven har <strong>________</strong> kunskaper om världsdelarnas namngeografi och visar det genom att med <strong>________</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt.",
-      "no" : 2,
-      "paragraphNo" : 1,
-      "knowledgeRequirementChoice" : {
-        "E" : "Eleven har <strong>grundläggande </strong>kunskaper om världsdelarnas namngeografi och visar det genom att med <strong>viss</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt.",
-        "C" : "Eleven har <strong>goda </strong>kunskaper om världsdelarnas namngeografi och visar det genom att med <strong>relativt god</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt.",
-        "A" : "Eleven har <strong>mycket goda </strong>kunskaper om världsdelarnas namngeografi och visar det genom att med <strong>god</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt."
-      }
-    }, {
-      "text" : "Eleven kan resonera om olika ekologiska, ekonomiska och sociala hållbarhetsfrågor och redogör då för <strong>________</strong> underbyggda förslag på lösningar där några konsekvenser för människa, samhälle och natur vägs in.",
-      "no" : 0,
-      "paragraphNo" : 2,
-      "knowledgeRequirementChoice" : {
-        "E" : "Eleven kan resonera om olika ekologiska, ekonomiska och sociala hållbarhetsfrågor och redogör då för <strong>enkla och till viss del </strong>underbyggda förslag på lösningar där några konsekvenser för människa, samhälle och natur vägs in.",
-        "C" : "Eleven kan resonera om olika ekologiska, ekonomiska och sociala hållbarhetsfrågor och redogör då för <strong>utvecklade och relativt väl </strong>underbyggda förslag på lösningar där några konsekvenser för människa, samhälle och natur vägs in.",
-        "A" : "Eleven kan resonera om olika ekologiska, ekonomiska och sociala hållbarhetsfrågor och redogör då för <strong>välutvecklade och väl </strong>underbyggda förslag på lösningar där några konsekvenser för människa, samhälle och natur vägs in."
-      }
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kan resonera om olika ekologiska, ekonomiska och sociala hållbarhetsfrågor och redogör då för <strong>________</strong> underbyggda förslag på lösningar där några konsekvenser för människa, samhälle och natur vägs in.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kan resonera om olika ekologiska, ekonomiska och sociala hållbarhetsfrågor och redogör då för <strong>enkla och till viss del </strong>underbyggda förslag på lösningar där några konsekvenser för människa, samhälle och natur vägs in.",
+          "C" : "Eleven kan resonera om olika ekologiska, ekonomiska och sociala hållbarhetsfrågor och redogör då för <strong>utvecklade och relativt väl </strong>underbyggda förslag på lösningar där några konsekvenser för människa, samhälle och natur vägs in.",
+          "A" : "Eleven kan resonera om olika ekologiska, ekonomiska och sociala hållbarhetsfrågor och redogör då för <strong>välutvecklade och väl </strong>underbyggda förslag på lösningar där några konsekvenser för människa, samhälle och natur vägs in."
+        }
+      } ]
     } ],
     "point" : null,
     "year" : {
@@ -242,77 +228,70 @@
       "lines" : [ "Sårbara platser och naturgivna risker och hot, till exempel översvämningar, torka och jordbävningar, och vilka konsekvenser det får för natur- och kulturlandskapet.", "På vilka sätt sårbara platser kan identifieras och hur individer, grupper och samhällen kan förebygga risker.", "Intressekonflikter om naturresurser, till exempel om tillgång till vatten och mark.", "Förnybara energitillgångar, till exempel sol- och vindenergi och alternativa drivmedel.", "Förekomst av och orsaker till fattigdom och ohälsa i olika delar av världen.", "Samband mellan fattigdom, ohälsa och faktorer som befolkningstäthet, klimat och naturresurser." ]
     } ],
     "knowledgeRequirement" : [ {
-      "text" : "Eleven har <strong>________</strong> kunskaper om samspelet mellan människa, samhälle och natur, och visar det genom att föra <strong>________</strong> underbyggda resonemang om orsaker till och konsekvenser av befolkningsfördelning, migration, klimat, vegetation och klimatförändringar i olika delar av världen.",
-      "no" : 0,
-      "paragraphNo" : 0,
-      "knowledgeRequirementChoice" : {
-        "E" : "Eleven har <strong>grundläggande </strong>kunskaper om samspelet mellan människa, samhälle och natur, och visar det genom att föra<strong> enkla och till viss del </strong>underbyggda resonemang om orsaker till och konsekvenser av befolkningsfördelning, migration, klimat, vegetation och klimatförändringar i olika delar av världen.",
-        "C" : "Eleven har <strong>goda </strong>kunskaper om samspelet mellan människa, samhälle och natur, och visar det genom att föra<strong> utvecklade och relativt väl </strong>underbyggda resonemang om orsaker till och konsekvenser av befolkningsfördelning, migration, klimat, vegetation och klimatförändringar i olika delar av världen.",
-        "A" : "Eleven har <strong>mycket goda </strong>kunskaper om samspelet mellan människa, samhälle och natur, och visar det genom att föra<strong> välutvecklade och väl </strong>underbyggda resonemang om orsaker till och konsekvenser av befolkningsfördelning, migration, klimat, vegetation och klimatförändringar i olika delar av världen."
-      }
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven har <strong>________</strong> kunskaper om samspelet mellan människa, samhälle och natur, och visar det genom att föra <strong>________</strong> underbyggda resonemang om orsaker till och konsekvenser av befolkningsfördelning, migration, klimat, vegetation och klimatförändringar i olika delar av världen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven har <strong>grundläggande </strong>kunskaper om samspelet mellan människa, samhälle och natur, och visar det genom att föra<strong> enkla och till viss del </strong>underbyggda resonemang om orsaker till och konsekvenser av befolkningsfördelning, migration, klimat, vegetation och klimatförändringar i olika delar av världen.",
+          "C" : "Eleven har <strong>goda </strong>kunskaper om samspelet mellan människa, samhälle och natur, och visar det genom att föra<strong> utvecklade och relativt väl </strong>underbyggda resonemang om orsaker till och konsekvenser av befolkningsfördelning, migration, klimat, vegetation och klimatförändringar i olika delar av världen.",
+          "A" : "Eleven har <strong>mycket goda </strong>kunskaper om samspelet mellan människa, samhälle och natur, och visar det genom att föra<strong> välutvecklade och väl </strong>underbyggda resonemang om orsaker till och konsekvenser av befolkningsfördelning, migration, klimat, vegetation och klimatförändringar i olika delar av världen."
+        }
+      }, {
+        "text" : "Eleven kan även använda geografiska begrepp på ett <strong>________</strong> fungerande sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kan även använda geografiska begrepp på ett<strong> i huvudsak </strong>fungerande sätt.",
+          "C" : "Eleven kan även använda geografiska begrepp på ett<strong> relativt väl </strong>fungerande sätt.",
+          "A" : "Eleven kan även använda geografiska begrepp på ett<strong> väl </strong>fungerande sätt."
+        }
+      }, {
+        "text" : "Eleven kan undersöka var olika varor och tjänster produceras och konsumeras, och beskriver då <strong>________</strong> geografiska mönster av handel och kommunikation samt för <strong>________</strong> underbyggda resonemang om hur dessa mönster ser ut och hur de har förändrats över tid samt orsaker till och konsekvenser av detta.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kan undersöka var olika varor och tjänster produceras och konsumeras, och beskriver då <strong>enkla </strong>geografiska mönster av handel och kommunikation samt för <strong>enkla och till viss del </strong>underbyggda resonemang om hur dessa mönster ser ut och hur de har förändrats över tid samt orsaker till och konsekvenser av detta.",
+          "C" : "Eleven kan undersöka var olika varor och tjänster produceras och konsumeras, och beskriver då <strong>förhållandevis komplexa </strong>geografiska mönster av handel och kommunikation samt för <strong>utvecklade och relativt väl </strong>underbyggda resonemang om hur dessa mönster ser ut och hur de har förändrats över tid samt orsaker till och konsekvenser av detta.",
+          "A" : "Eleven kan undersöka var olika varor och tjänster produceras och konsumeras, och beskriver då <strong>komplexa </strong>geografiska mönster av handel och kommunikation samt för <strong>välutvecklade och väl </strong>underbyggda resonemang om hur dessa mönster ser ut och hur de har förändrats över tid samt orsaker till och konsekvenser av detta."
+        }
+      }, {
+        "text" : "Eleven för <strong>________</strong> underbyggda resonemang om klimatförändringar och olika förklaringar till dessa samt deras konsekvenser för människa, samhälle och miljö i olika delar av världen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven för <strong>enkla och till viss del </strong>underbyggda resonemang om klimatförändringar och olika förklaringar till dessa samt deras konsekvenser för människa, samhälle och miljö i olika delar av världen.",
+          "C" : "Eleven för <strong>utvecklade och relativt väl </strong>underbyggda resonemang om klimatförändringar och olika förklaringar till dessa samt deras konsekvenser för människa, samhälle och miljö i olika delar av världen.",
+          "A" : "Eleven för <strong>välutvecklade och väl </strong>underbyggda resonemang om klimatförändringar och olika förklaringar till dessa samt deras konsekvenser för människa, samhälle och miljö i olika delar av världen."
+        }
+      } ]
     }, {
-      "text" : "Eleven kan även använda geografiska begrepp på ett <strong>________</strong> fungerande sätt.",
-      "no" : 1,
-      "paragraphNo" : 0,
-      "knowledgeRequirementChoice" : {
-        "E" : "Eleven kan även använda geografiska begrepp på ett<strong> i huvudsak </strong>fungerande sätt.",
-        "C" : "Eleven kan även använda geografiska begrepp på ett<strong> relativt väl </strong>fungerande sätt.",
-        "A" : "Eleven kan även använda geografiska begrepp på ett<strong> väl </strong>fungerande sätt."
-      }
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kan undersöka omvärlden och använder då kartor och andra geografiska källor, teorier, metoder och tekniker på ett <strong>________</strong> fungerande sätt, samt för <strong>________</strong> underbyggda resonemang om olika källors trovärdighet och relevans.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kan undersöka omvärlden och använder då kartor och andra geografiska källor, teorier, metoder och tekniker på ett <strong>i huvudsak </strong>fungerande sätt, samt för <strong>enkla och till viss del </strong>underbyggda resonemang om olika källors trovärdighet och relevans.",
+          "C" : "Eleven kan undersöka omvärlden och använder då kartor och andra geografiska källor, teorier, metoder och tekniker på ett <strong>relativt väl </strong>fungerande sätt, samt för <strong>utvecklade och relativt väl </strong>underbyggda resonemang om olika källors trovärdighet och relevans.",
+          "A" : "Eleven kan undersöka omvärlden och använder då kartor och andra geografiska källor, teorier, metoder och tekniker på ett <strong>väl </strong>fungerande sätt, samt för <strong>välutvecklade och väl </strong>underbyggda resonemang om olika källors trovärdighet och relevans."
+        }
+      }, {
+        "text" : "Vid fältstudier använder eleven kartor och andra verktyg på ett <strong>________</strong> sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vid fältstudier använder eleven kartor och andra verktyg på ett<strong> i huvudsak fungerande </strong>sätt.",
+          "C" : "Vid fältstudier använder eleven kartor och andra verktyg på ett<strong> relativt ändamålsenligt </strong>sätt.",
+          "A" : "Vid fältstudier använder eleven kartor och andra verktyg på ett<strong> ändamålsenligt och</strong> <strong>effektivt </strong>sätt."
+        }
+      }, {
+        "text" : "Eleven har <strong>________</strong> kunskaper om världsdelarnas namngeografi och visar det genom att med <strong>________</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven har <strong>grundläggande </strong>kunskaper om världsdelarnas namngeografi och visar det genom att med <strong>viss</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt.",
+          "C" : "Eleven har <strong>goda </strong>kunskaper om världsdelarnas namngeografi och visar det genom att med <strong>relativt god</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt.",
+          "A" : "Eleven har <strong>mycket goda </strong>kunskaper om världsdelarnas namngeografi och visar det genom att med <strong>god</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt."
+        }
+      } ]
     }, {
-      "text" : "Eleven kan undersöka var olika varor och tjänster produceras och konsumeras, och beskriver då <strong>________</strong> geografiska mönster av handel och kommunikation samt för <strong>________</strong> underbyggda resonemang om hur dessa mönster ser ut och hur de har förändrats över tid samt orsaker till och konsekvenser av detta.",
-      "no" : 2,
-      "paragraphNo" : 0,
-      "knowledgeRequirementChoice" : {
-        "E" : "Eleven kan undersöka var olika varor och tjänster produceras och konsumeras, och beskriver då <strong>enkla </strong>geografiska mönster av handel och kommunikation samt för <strong>enkla och till viss del </strong>underbyggda resonemang om hur dessa mönster ser ut och hur de har förändrats över tid samt orsaker till och konsekvenser av detta.",
-        "C" : "Eleven kan undersöka var olika varor och tjänster produceras och konsumeras, och beskriver då <strong>förhållandevis komplexa </strong>geografiska mönster av handel och kommunikation samt för <strong>utvecklade och relativt väl </strong>underbyggda resonemang om hur dessa mönster ser ut och hur de har förändrats över tid samt orsaker till och konsekvenser av detta.",
-        "A" : "Eleven kan undersöka var olika varor och tjänster produceras och konsumeras, och beskriver då <strong>komplexa </strong>geografiska mönster av handel och kommunikation samt för <strong>välutvecklade och väl </strong>underbyggda resonemang om hur dessa mönster ser ut och hur de har förändrats över tid samt orsaker till och konsekvenser av detta."
-      }
-    }, {
-      "text" : "Eleven för <strong>________</strong> underbyggda resonemang om klimatförändringar och olika förklaringar till dessa samt deras konsekvenser för människa, samhälle och miljö i olika delar av världen.",
-      "no" : 3,
-      "paragraphNo" : 0,
-      "knowledgeRequirementChoice" : {
-        "E" : "Eleven för <strong>enkla och till viss del </strong>underbyggda resonemang om klimatförändringar och olika förklaringar till dessa samt deras konsekvenser för människa, samhälle och miljö i olika delar av världen.",
-        "C" : "Eleven för <strong>utvecklade och relativt väl </strong>underbyggda resonemang om klimatförändringar och olika förklaringar till dessa samt deras konsekvenser för människa, samhälle och miljö i olika delar av världen.",
-        "A" : "Eleven för <strong>välutvecklade och väl </strong>underbyggda resonemang om klimatförändringar och olika förklaringar till dessa samt deras konsekvenser för människa, samhälle och miljö i olika delar av världen."
-      }
-    }, {
-      "text" : "Eleven kan undersöka omvärlden och använder då kartor och andra geografiska källor, teorier, metoder och tekniker på ett <strong>________</strong> fungerande sätt, samt för <strong>________</strong> underbyggda resonemang om olika källors trovärdighet och relevans.",
-      "no" : 0,
-      "paragraphNo" : 1,
-      "knowledgeRequirementChoice" : {
-        "E" : "Eleven kan undersöka omvärlden och använder då kartor och andra geografiska källor, teorier, metoder och tekniker på ett <strong>i huvudsak </strong>fungerande sätt, samt för <strong>enkla och till viss del </strong>underbyggda resonemang om olika källors trovärdighet och relevans.",
-        "C" : "Eleven kan undersöka omvärlden och använder då kartor och andra geografiska källor, teorier, metoder och tekniker på ett <strong>relativt väl </strong>fungerande sätt, samt för <strong>utvecklade och relativt väl </strong>underbyggda resonemang om olika källors trovärdighet och relevans.",
-        "A" : "Eleven kan undersöka omvärlden och använder då kartor och andra geografiska källor, teorier, metoder och tekniker på ett <strong>väl </strong>fungerande sätt, samt för <strong>välutvecklade och väl </strong>underbyggda resonemang om olika källors trovärdighet och relevans."
-      }
-    }, {
-      "text" : "Vid fältstudier använder eleven kartor och andra verktyg på ett <strong>________</strong> sätt.",
-      "no" : 1,
-      "paragraphNo" : 1,
-      "knowledgeRequirementChoice" : {
-        "E" : "Vid fältstudier använder eleven kartor och andra verktyg på ett<strong> i huvudsak fungerande </strong>sätt.",
-        "C" : "Vid fältstudier använder eleven kartor och andra verktyg på ett<strong> relativt ändamålsenligt </strong>sätt.",
-        "A" : "Vid fältstudier använder eleven kartor och andra verktyg på ett<strong> ändamålsenligt och</strong> <strong>effektivt </strong>sätt."
-      }
-    }, {
-      "text" : "Eleven har <strong>________</strong> kunskaper om världsdelarnas namngeografi och visar det genom att med <strong>________</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt.",
-      "no" : 2,
-      "paragraphNo" : 1,
-      "knowledgeRequirementChoice" : {
-        "E" : "Eleven har <strong>grundläggande </strong>kunskaper om världsdelarnas namngeografi och visar det genom att med <strong>viss</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt.",
-        "C" : "Eleven har <strong>goda </strong>kunskaper om världsdelarnas namngeografi och visar det genom att med <strong>relativt god</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt.",
-        "A" : "Eleven har <strong>mycket goda </strong>kunskaper om världsdelarnas namngeografi och visar det genom att med <strong>god</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt."
-      }
-    }, {
-      "text" : "Eleven kan resonera om olika ekologiska, ekonomiska och sociala hållbarhetsfrågor och redogör då för <strong>________</strong> underbyggda förslag på lösningar där några konsekvenser för människa, samhälle och natur vägs in.",
-      "no" : 0,
-      "paragraphNo" : 2,
-      "knowledgeRequirementChoice" : {
-        "E" : "Eleven kan resonera om olika ekologiska, ekonomiska och sociala hållbarhetsfrågor och redogör då för <strong>enkla och till viss del </strong>underbyggda förslag på lösningar där några konsekvenser för människa, samhälle och natur vägs in.",
-        "C" : "Eleven kan resonera om olika ekologiska, ekonomiska och sociala hållbarhetsfrågor och redogör då för <strong>utvecklade och relativt väl </strong>underbyggda förslag på lösningar där några konsekvenser för människa, samhälle och natur vägs in.",
-        "A" : "Eleven kan resonera om olika ekologiska, ekonomiska och sociala hållbarhetsfrågor och redogör då för <strong>välutvecklade och väl </strong>underbyggda förslag på lösningar där några konsekvenser för människa, samhälle och natur vägs in."
-      }
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kan resonera om olika ekologiska, ekonomiska och sociala hållbarhetsfrågor och redogör då för <strong>________</strong> underbyggda förslag på lösningar där några konsekvenser för människa, samhälle och natur vägs in.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kan resonera om olika ekologiska, ekonomiska och sociala hållbarhetsfrågor och redogör då för <strong>enkla och till viss del </strong>underbyggda förslag på lösningar där några konsekvenser för människa, samhälle och natur vägs in.",
+          "C" : "Eleven kan resonera om olika ekologiska, ekonomiska och sociala hållbarhetsfrågor och redogör då för <strong>utvecklade och relativt väl </strong>underbyggda förslag på lösningar där några konsekvenser för människa, samhälle och natur vägs in.",
+          "A" : "Eleven kan resonera om olika ekologiska, ekonomiska och sociala hållbarhetsfrågor och redogör då för <strong>välutvecklade och väl </strong>underbyggda förslag på lösningar där några konsekvenser för människa, samhälle och natur vägs in."
+        }
+      } ]
     } ],
     "point" : null,
     "year" : {

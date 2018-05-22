@@ -13,13 +13,9 @@ internal class CourseParser(private val courseData: CourseHtml) {
                 courseData.description,
                 courseData.code,
                 toCentralContent(courseData.centralContent),
-                getKnowledgeRequirements(courseData.knowledgeRequirement)?: listOf(),
+                KnowledgeRequirementConverter().getKnowledgeRequirements(courseData.knowledgeRequirement),
                 courseData.point.toIntOrNull(),
                 toYearGroup(courseData.year)
         )
-    }
-
-    private fun getKnowledgeRequirements(knowledgeRequirementData: Map<GradeStep, String>): List<KnowledgeRequirement>? {
-        return KnowledgeRequirementConverter().getKnowledgeRequirements(knowledgeRequirementData)
     }
 }
