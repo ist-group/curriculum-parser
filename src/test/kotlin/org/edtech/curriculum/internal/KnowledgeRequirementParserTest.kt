@@ -142,7 +142,7 @@ class KnowledgeRequirementParserTest {
     }
     @Test
     fun noEmptyKnowledgeRequirementChoicesGYS() {
-        testSubjects(Syllabus(SyllabusType.GR, dataDir).getSubjects())
+        testSubjects(Syllabus(SyllabusType.GYS, dataDir).getSubjects())
     }
     @Test
     fun noEmptyKnowledgeRequirementChoicesVUXGR() {
