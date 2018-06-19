@@ -1,10 +1,6 @@
 package org.edtech.curriculum.internal
 
-import org.edtech.curriculum.CentralContent
-import org.edtech.curriculum.Purpose
-import org.edtech.curriculum.PurposeType
-import org.edtech.curriculum.YearGroup
-import org.jsoup.Jsoup
+import org.edtech.curriculum.*
 import org.junit.Assert.*
 import org.junit.Test
 
