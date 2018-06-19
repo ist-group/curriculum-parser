@@ -92,6 +92,10 @@ internal class HtmlUtilsTest {
             fixCurriculumErrors("<p><strong>Text</strong><strong> text</strong>.<br></p>")
         )
         assertEquals(
+            "<strong>Text text</strong>",
+            fixCurriculumErrors("<strong>Text</strong> <strong>text</strong>")
+        )
+        assertEquals(
             "<p>Text<strong> text</strong>. </p>",
             fixCurriculumErrors("<p>Text<strong> text</strong>.<br/></p>")
         )
