@@ -37,10 +37,11 @@ class KnowledgeRequirementParserTest {
     fun testAgainstJsonFilesVUXGR() {
         testAgainstJsonFiles(SyllabusType.VUXGR)
     }
-    @Test
+/*    @Test
     fun testAgainstJsonFilesSFI() {
         testAgainstJsonFiles(SyllabusType.SFI)
     }
+*/
 
     private fun testAgainstJsonFiles(syllabusType: SyllabusType) {
         val mapper = ObjectMapper()
