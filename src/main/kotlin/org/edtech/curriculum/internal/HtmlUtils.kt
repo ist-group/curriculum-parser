@@ -46,6 +46,10 @@ internal fun fixCurriculumErrors(text: String): String {
             .trim()
 }
 
+internal fun fixDescriptions(text: String) : String {
+    return Jsoup.parse(text).text()
+}
+
 /**
  * Converts a html-snippet with
  * <p>- lourum</p>

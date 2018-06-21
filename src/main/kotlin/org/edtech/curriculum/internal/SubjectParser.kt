@@ -9,7 +9,7 @@ class SubjectParser {
     fun getSubject(subjectData: SubjectHtml): Subject {
         return Subject(
                 subjectData.name,
-                subjectData.description.removePrefix("<p>").removeSuffix("</p>"),
+                fixDescriptions(subjectData.description),
                 subjectData.code,
                 subjectData.designation,
                 subjectData.skolfsId,
