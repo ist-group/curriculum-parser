@@ -89,7 +89,7 @@ class SyllabusTest {
 
             it.courses.forEach { courseHtml ->
                 courseHtml.knowledgeRequirement.forEach {entry ->
-                    assertFalse("duplicate knowledge requirement found in ${it.name}/${courseHtml.name}" , it.courses.filter { c -> courseHtml != c }.map{ c -> c.knowledgeRequirement[entry.key]}.contains(entry.value))
+                    assertFalse("duplicate knowledge requirement found in ${it.name}[${it.code}]/${courseHtml.name}[${courseHtml.code}]" , it.courses.filter { c -> courseHtml != c }.map{ c -> c.knowledgeRequirement[entry.key]}.contains(entry.value))
                 }
             }
         }
@@ -126,7 +126,9 @@ class SyllabusTest {
 
             it.courses.forEach { course ->
                 testCentralContent("${course.code}/${course.name}", course.centralContent)
-                assertTrue("${course.code}/${course.name} has no knowledgeRequirements", course.knowledgeRequirementParagraphs.isNotEmpty())
+                if (course.year?.end ?: 0 > 3) {
+                    assertTrue("${course.code}/${course.name} has no knowledgeRequirements", course.knowledgeRequirementParagraphs.isNotEmpty())
+                }
                 assertTrue("${course.code}/${course.name} has no code", course.code.isNotEmpty())
                 assertTrue("${course.code}/${course.name} has no name", course.name.isNotEmpty())
                 // Only check real courses

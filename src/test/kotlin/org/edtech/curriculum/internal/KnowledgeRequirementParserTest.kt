@@ -1,10 +1,7 @@
 package org.edtech.curriculum.internal
 
 import com.fasterxml.jackson.databind.ObjectMapper
-import org.edtech.curriculum.GradeStep
-import org.edtech.curriculum.Subject
-import org.edtech.curriculum.Syllabus
-import org.edtech.curriculum.SyllabusType
+import org.edtech.curriculum.*
 import org.jsoup.Jsoup
 import org.junit.Assert.*
 import org.junit.Test
@@ -157,7 +154,9 @@ class KnowledgeRequirementParserTest {
         for (subject in subjects) {
             for (course in subject.courses) {
                 // Get the fully parsed course
-                assertNotEquals("Knowledge Requirements is empty in  ${subject.name}/${course.name}", 0, course.knowledgeRequirementParagraphs.size)
+                if (course.year != YearGroup(1, 3)) {
+                    assertNotEquals("Knowledge Requirements is empty in  ${subject.name}/${course.name}", 0, course.knowledgeRequirementParagraphs.size)
+                }
                 // Make sure tha all requirements are set, exclude errors from skolverket.
                 if (!hasMissingRequirementsFromSkolverket.contains(course.code)) {
                     course.knowledgeRequirementParagraphs.forEach {
@@ -168,7 +167,7 @@ class KnowledgeRequirementParserTest {
                             }
                             it.knowledgeRequirementChoice.forEach {
                                 if (it.value.isBlank())
-                                    fail("Found empty knowledge requirement critera in ${subject.name}/${course.name} [${course.code}]")
+                                    fail("Found empty knowledge requirement critera in ${subject.name}[${subject.code}]/${course.name}[${course.code}]")
                             }
                         }
                     }

@@ -7,7 +7,6 @@ import org.edtech.curriculum.Purpose
 import org.edtech.curriculum.PurposeType
 import org.edtech.curriculum.YearGroup
 import org.jsoup.Jsoup
-import org.jsoup.nodes.Document
 import org.jsoup.nodes.Element
 import kotlin.math.abs
 import kotlin.math.max
@@ -55,6 +54,7 @@ internal fun fixCurriculumErrors(text: String): String {
             .replace("</p><p>.</p>", ".</p>")
             // Remove double spacing
             .replace(Regex("[ ][ ]+"),  " ")
+            .replace(".</strong>", "</strong>.")
             .trim()
 }
 
@@ -109,22 +109,20 @@ internal fun similarLineRatio(line1: String, line2:String): Double {
     if (wordList2.isEmpty() || wordList1.isEmpty()) {
         return 0.0
     }
+    val maxLength =  max(wordList1.size,  wordList2.size).toDouble()
+    var matchValue = 0.0
+    var index = 0
+    wordList1.forEach { word ->
+        val matchPos = wordList2.indexOf(word)
+        if (matchPos != -1) {
+            val distance = abs(matchPos - index).toDouble()
+            matchValue += 1.0 - (distance * 0.5 / maxLength)
+            // Adjust index
+            index = matchPos + 1
+        }
+    }
 
-    val maxLength = max(wordList1.size, wordList2.size)
-
-    // Match words by position, allow +-2 positions
-    val matchesWordCount = wordList1
-            .mapIndexed {
-                index, word ->
-                val matchPos = wordList2.indexOf(word)
-                if (matchPos != -1) {
-                    val distance = abs(matchPos - index).toDouble()
-                    1.0 - (distance / maxLength.toDouble())
-                } else
-                    0.0
-            }.sumByDouble { it }
-
-    return  matchesWordCount / maxLength.toDouble()
+    return  matchValue / wordList1.size.toDouble()
 }
 
 /**
