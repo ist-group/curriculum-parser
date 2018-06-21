@@ -28,8 +28,13 @@ private fun splitWords(line: String): List<String> {
  * where 1 is representing the exact same line and 0 when the lines has nothing incommon
  */
 fun similarLineRatio(line1: String, line2:String): Double {
-    val wordList1  = removeInflections(splitWords(removeBoldWords(line1.toLowerCase())))
-    val wordList2  = removeInflections(splitWords(removeBoldWords(line2.toLowerCase())))
+    var wordList1  = removeInflections(splitWords(removeBoldWords(line1.toLowerCase())))
+    var wordList2  = removeInflections(splitWords(removeBoldWords(line2.toLowerCase())))
+
+    if(wordList1.isEmpty())
+        wordList1 = removeInflections(splitWords(removeBoldTags(line1.toLowerCase())))
+    if(wordList2.isEmpty())
+        wordList2 = removeInflections(splitWords(removeBoldTags(line2.toLowerCase())))
 
     if (wordList2.isEmpty() || wordList1.isEmpty()) {
         return 0.0
@@ -71,4 +76,13 @@ internal fun removeBoldWords(htmlText: String): String {
             .replace(Regex("<strong>[^>]* </strong>"), " ")
             .replace(Regex("<strong>[^>]*</strong>"), "")
             .replace(Regex("[ ][ ]+"),  " ")
+}
+
+/**
+ * Removes all bold tags
+ */
+internal fun removeBoldTags(htmlText: String): String {
+    return htmlText
+            .replace(Regex("</?strong>"), "")
+            .replace(Regex("[ ][ ]+"), " ")
 }
