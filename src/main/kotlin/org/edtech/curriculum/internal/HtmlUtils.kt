@@ -42,8 +42,7 @@ internal fun fixCurriculumErrors(text: String): String {
             // Remove double spacing
             .replace(Regex("[ ][ ]+"),  " ")
             .replace("<strong> ",  " <strong>")
-            .replace(" </strong>",  "</strong> ")
-            .replace(".</strong>",  "</strong>.")
+            .replace(Regex("([. ]+)</strong>"),  "</strong>$1")
             .trim()
 }
 
