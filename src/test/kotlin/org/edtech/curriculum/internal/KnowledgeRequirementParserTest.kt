@@ -10,7 +10,7 @@ import java.io.File
 
 class KnowledgeRequirementParserTest {
 
-    private val hasMissingRequirementsFromSkolverket = setOf("BYPRIT0", "RINRID02", "SPEIDT0", "TESPRO01", "TEYPRO01", "HAVFIN05S", "SVESVE02")
+    private val hasMissingRequirementsFromSkolverket = setOf("BYPRIT0", "RINRID02", "SPEIDT0", "TESPRO01", "TEYPRO01", "HAVFIN05S")
     private val dataDir = File("./src/test/resources/opendata/")
 
 
