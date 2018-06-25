@@ -59,7 +59,7 @@ class KnowledgeRequirementParserTest {
             } else {
                 val expected = file.readText()
                 val actual = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(parsedSubject)
-                assertEquals("Difference for subject ${syllabusType.name}/${file.nameWithoutExtension}", expected, actual)
+                assertEquals("Difference for subject ${syllabusType.name}/${file.nameWithoutExtension}", expected, actual.lines().joinToString("\n"))
             }
         }
     }

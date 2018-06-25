@@ -49,5 +49,6 @@ fun getSubjectCodeMap(syllabusType: SyllabusType): Map<String, Subject> {
 }
 
 fun writeSubjectToFile(subject: Subject, file: File) {
-    file.writeText(ObjectMapper().writerWithDefaultPrettyPrinter().writeValueAsString(subject))
+    // Force \n as line breaks
+    file.writeText(ObjectMapper().writerWithDefaultPrettyPrinter().writeValueAsString(subject).lines().joinToString("\n"))
 }
