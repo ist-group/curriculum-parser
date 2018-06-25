@@ -43,6 +43,7 @@ internal fun fixCurriculumErrors(text: String): String {
             .replace(Regex("[ ][ ]+"),  " ")
             .replace("<strong> ",  " <strong>")
             .replace(" </strong>",  "</strong> ")
+            .replace(".</strong>",  "</strong>.")
             .trim()
 }
 
