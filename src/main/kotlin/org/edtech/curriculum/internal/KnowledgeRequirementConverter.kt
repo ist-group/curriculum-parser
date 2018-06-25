@@ -100,6 +100,8 @@ class KnowledgeRequirementConverter {
      * Add new grade-step values to a list of knowledge requirements
      */
     private fun addGradeStep(knowledgeRequirements: List<KnowledgeRequirementData>, html: String, gradeStep: GradeStep, lookahead: Int = 3 ): List<KnowledgeRequirementData> {
+        // Prefer a match with the current line if they are too similar.
+        val currentLineBias = 0.15
         val result = mutableListOf<KnowledgeRequirementData>()
 
         // Convert all html paragraphs to a flat line of texts
@@ -120,7 +122,7 @@ class KnowledgeRequirementConverter {
                  *  - The next line matches the current slot better
                  *  - The line matches the next slot better ( will create an empty block in the matrix )
                  */
-                val currentLine = matchRatio(knowledgeRequirements[mappedLineNo], line)
+                val currentLine = matchRatio(knowledgeRequirements[mappedLineNo], line) + currentLineBias
                 val nextLine = matchRatio(knowledgeRequirements.getOrNull(mappedLineNo + 1), line)
 
                 // Check of any future lines will match better

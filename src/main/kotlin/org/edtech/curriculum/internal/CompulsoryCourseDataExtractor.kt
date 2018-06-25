@@ -32,41 +32,35 @@ class CompulsoryCourseDataExtractor(private val subjectDocument: Document): Cour
                     it.first,
                     "",
                     it.second,
-                    getKnowledgeRequirements(it.first.toIntOrNull() ?: 0))
+                    getKnowledgeRequirements(stringToRange(it.first)))
         }
     }
 
-    private fun getKnowledgeRequirements(targetYear: Int): Map<GradeStep, String> {
+    internal fun getKnowledgeRequirements(range: IntRange): Map<GradeStep, String> {
         return subjectDocument
-                // Get the subject code element
-                .select("knowledgeRequirement")
-                .filter {
-                    compareYearString(
-                            targetYear,
-                            it.select("year").text()
-                    )
-                }
-                .map {
-                    val gradeStepText = it.select("gradeStep").text()
-                    // Lower years has not grade steps, convert to G level
-                    val gradeStep = if (gradeStepText.isEmpty()) GradeStep.G else GradeStep.valueOf(gradeStepText)
-                    Pair(
-                            gradeStep,
-                            it.select("text").text())
+            // Get the subject code element
+            .select("knowledgeRequirement")
+            .filter {
+                (it.select("year").text().toIntOrNull() ?: 0) in range
+            }
+            .map {
+                val gradeStepText = it.select("gradeStep").text()
+                // Lower years has not grade steps, convert to G level
+                val gradeStep = if (gradeStepText.isEmpty()) GradeStep.G else GradeStep.valueOf(gradeStepText)
+                Pair(
+                        gradeStep,
+                        it.select("text").text())
 
-                }.toMap()
+            }.toMap()
     }
 
-    /**
-     * Check if the supplied targetYear is equal or in the range [min]-[max] as described by the string.
-     */
-    private fun compareYearString(targetYear: Int, year: String): Boolean {
-        val yearParts = year.split("-")
-        return if (yearParts.size > 1) {
-            yearParts.getOrNull(0)?.toIntOrNull() ?: 0 <= targetYear
-            yearParts.getOrNull(1)?.toIntOrNull() ?: 0 >= targetYear
-           } else {
-            yearParts.getOrNull(0)?.toIntOrNull() ?: 0 >= targetYear
+    companion object {
+        internal fun stringToRange(rangeString: String): IntRange {
+            val rangeText= rangeString.split("-")
+            if (rangeText.size != 2) {
+                throw NumberFormatException("The string `$rangeString` cannot be interpreted as an range")
+            }
+            return rangeText[0].trim().toInt()..rangeText[1].trim().toInt()
         }
     }
 }

@@ -63,8 +63,11 @@ class SyllabusTest {
             assertTrue("${syllabusType.name}/${it.name} has no courses", it.courses.isNotEmpty())
             assertTrue("${syllabusType.name}/${it.name} has no purposes", it.purposes.isNotEmpty())
 
-            it.courses.forEach {courseHtml ->
-                assertTrue("${courseHtml.code}/${courseHtml.name} has no knowledgeRequirements", courseHtml.knowledgeRequirement.isNotEmpty())
+            it.courses.forEach { courseHtml ->
+                // Only require kr when passed the lowest grades
+                if (!courseHtml.year.startsWith("1-")) {
+                    assertTrue("${courseHtml.code}/${courseHtml.name} has no knowledgeRequirements", courseHtml.knowledgeRequirement.isNotEmpty())
+                }
                 assertTrue("${courseHtml.code}/${courseHtml.name} has no centralContents", courseHtml.centralContent.isNotEmpty())
                 assertTrue("${courseHtml.code}/${courseHtml.name} has malformed centralContents", courseHtml.centralContent.contains("<li>"))
                 assertTrue("${courseHtml.code}/${courseHtml.name} has no code", courseHtml.code.isNotEmpty())
@@ -76,6 +79,17 @@ class SyllabusTest {
                         fail("${courseHtml.code}/${courseHtml.name} has no points/year group")
                     }
                     assertTrue("${courseHtml.code}/${courseHtml.name} has no description", courseHtml.description.isNotEmpty())
+                }
+            }
+        }
+    }
+    @Test
+    fun testDuplicateRequirementsGR() {
+        Syllabus(SyllabusType.GR, File("./src/test/resources/opendata/")).subjectHtml.forEach {
+
+            it.courses.forEach { courseHtml ->
+                courseHtml.knowledgeRequirement.forEach {entry ->
+                    assertFalse("duplicate knowledge requirement found in ${it.name}[${it.code}]/${courseHtml.name}[${courseHtml.code}]" , it.courses.filter { c -> courseHtml != c }.map{ c -> c.knowledgeRequirement[entry.key]}.contains(entry.value))
                 }
             }
         }
@@ -112,7 +126,9 @@ class SyllabusTest {
 
             it.courses.forEach { course ->
                 testCentralContent("${course.code}/${course.name}", course.centralContent)
-                assertTrue("${course.code}/${course.name} has no knowledgeRequirements", course.knowledgeRequirementParagraphs.isNotEmpty())
+                if (course.year?.end ?: 0 > 3) {
+                    assertTrue("${course.code}/${course.name} has no knowledgeRequirements", course.knowledgeRequirementParagraphs.isNotEmpty())
+                }
                 assertTrue("${course.code}/${course.name} has no code", course.code.isNotEmpty())
                 assertTrue("${course.code}/${course.name} has no name", course.name.isNotEmpty())
                 // Only check real courses

@@ -1,10 +1,7 @@
 package org.edtech.curriculum.internal
 
 import com.fasterxml.jackson.databind.ObjectMapper
-import org.edtech.curriculum.GradeStep
-import org.edtech.curriculum.Subject
-import org.edtech.curriculum.Syllabus
-import org.edtech.curriculum.SyllabusType
+import org.edtech.curriculum.*
 import org.jsoup.Jsoup
 import org.junit.Assert.*
 import org.junit.Test
@@ -13,7 +10,7 @@ import java.io.File
 
 class KnowledgeRequirementParserTest {
 
-    private val hasMissingRequirementsFromSkolverket = setOf("BYPRIT0", "RINRID02", "SPEIDT0", "TESPRO01", "TEYPRO01", "HAVFIN05S", "SVESVE02")
+    private val hasMissingRequirementsFromSkolverket = setOf("BYPRIT0", "RINRID02", "SPEIDT0", "TESPRO01", "TEYPRO01", "HAVFIN05S")
     private val dataDir = File("./src/test/resources/opendata/")
 
 
@@ -62,7 +59,7 @@ class KnowledgeRequirementParserTest {
             } else {
                 val expected = file.readText()
                 val actual = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(parsedSubject)
-                assertEquals("Difference for subject ${syllabusType.name}/${file.nameWithoutExtension}", expected, actual)
+                assertEquals("Difference for subject ${syllabusType.name}/${file.nameWithoutExtension}", expected, actual.lines().joinToString("\n"))
             }
         }
     }
@@ -143,7 +140,7 @@ class KnowledgeRequirementParserTest {
     }
     @Test
     fun noEmptyKnowledgeRequirementChoicesGYS() {
-        testSubjects(Syllabus(SyllabusType.GR, dataDir).getSubjects())
+        testSubjects(Syllabus(SyllabusType.GYS, dataDir).getSubjects())
     }
     @Test
     fun noEmptyKnowledgeRequirementChoicesVUXGR() {
@@ -158,7 +155,9 @@ class KnowledgeRequirementParserTest {
         for (subject in subjects) {
             for (course in subject.courses) {
                 // Get the fully parsed course
-                assertNotEquals("Knowledge Requirements is empty in  ${subject.name}/${course.name}", 0, course.knowledgeRequirementParagraphs.size)
+                if (course.year != YearGroup(1, 3)) {
+                    assertNotEquals("Knowledge Requirements is empty in  ${subject.name}/${course.name}", 0, course.knowledgeRequirementParagraphs.size)
+                }
                 // Make sure tha all requirements are set, exclude errors from skolverket.
                 if (!hasMissingRequirementsFromSkolverket.contains(course.code)) {
                     course.knowledgeRequirementParagraphs.forEach {

@@ -47,26 +47,17 @@ internal class HtmlUtilsTest {
 
     }
 
-    @Test
-    fun similarLineRatioTest() {
-        assertTrue(
-                similarLineRatio(
-                        "Dessutom utforskar eleven <strong>med viss säkerhet </strong>rörelsevokabulär.",
-                        "Eleven <strong>utforskar</strong> <strong>med god säkerhet </strong>rörelsevokabulär<strong> och rörelsekvaliteter samtidigt som hon eller han fördjupar improvisationen genom att stanna kvar i rörelsen</strong>."
-                )
-                        >
-                        similarLineRatio(
-                                "Eleven interagerar <strong>med viss säkerhet </strong>med andra och tar ansvar för det egna och det gemensamma arbetet genom att följa instruktioner.",
-                                "Eleven <strong>utforskar</strong> <strong>med god säkerhet </strong>rörelsevokabulär<strong> och rörelsekvaliteter samtidigt som hon eller han fördjupar improvisationen genom att stanna kvar i rörelsen</strong>.")
-        )
-    }
-
-    @Test
-    fun removeInflectionsTest() {
-        assertEquals(listOf("elev", "elev", "elev"), removeInflections(listOf("eleven", "elever", "elevens")))
-    }
 
     @Test fun fixCurriculumErrorsText() {
+
+        assertEquals(
+                "I muntliga framställningar av olika slag formulerar sig eleven enkelt, <strong>relativt varierat, tydligt och relativt</strong> sammanhängande. <strong>Eleven formulerar sig även med visst flyt och i någon mån anpassat till syfte, mottagare och situation</strong>. För att förtydliga och variera sin kommunikation bearbetar eleven, och gör <strong>välgrundade</strong> förbättringar av, egna framställningar.",
+                fixCurriculumErrors("I muntliga framställningar av olika slag formulerar sig eleven enkelt, <strong>relativt varierat, tydligt och relativt </strong>sammanhängande.<strong> Eleven formulerar sig även med visst flyt och i någon mån anpassat till syfte, mottagare och situation.</strong> För att förtydliga och variera sin kommunikation bearbetar eleven, och gör <strong>välgrundade</strong> förbättringar av, egna framställningar.")
+        )
+        assertEquals(
+                "Genom att svara på frågor om och återge delar av innehållet på ett <strong>relevant</strong> sätt visar eleven sin förståelse för texterna.",
+                fixCurriculumErrors("Genom att svara på frågor om och återge delar av innehållet på ett <strong>relevant</strong> sätt visar eleven sin förståelse för texterna<strong>. </strong>")
+        )
         assertEquals(
             "<h4>Betyget A</h4><p>Eleven planerar och organiserar <strong>efter samråd</strong> med handledare olika arbetsuppgifter i matsal eller lokal utifrån de tidsramar som ska gälla för arbetets utförande. I planeringen väljer eleven <strong>efter samråd</strong> med handledare metoder, material, redskap och annan utrustning utifrån olika teman och högtider. Eleven skapar <strong>med säkerhet</strong> bordsdekorationer för olika arrangemang och ceremoniella måltider.</p><p>Eleven kombinerar, presenterar och rekommenderar <strong>med säkerhet</strong> mat och dryck utifrån meny och dryckeslista samt sätter samman promemorior, olika arrangé och matsedlar för gästers räkning. Eleven utför med <strong>mycket gott</strong> handlag servering av mat och dryck vid olika beställningsarrangemang med tanke på tidsåtgång, ekonomi och miljö samt sätter <strong>efter samråd</strong> med handledare samman körscheman för detta. Dessutom bemöter eleven gästen och utför <strong>efter samråd</strong> med handledare arbetet på ett serviceinriktat sätt. Eleven utför också kalkylering, prissättning och lönsamhetsberäkningar av olika beställningsarrangemang <strong>efter samråd</strong> med handledare. </p><p>Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>. När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
             fixCurriculumErrors("<h4>Betyget A</h4><p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare olika arbetsuppgifter i matsal eller lokal utifrån de tidsramar som ska gälla för arbetets utförande. I planeringen väljer eleven <strong>efter samråd </strong>med handledare metoder, material, redskap och annan utrustning utifrån olika teman och högtider. Eleven skapar <strong>med säkerhet </strong>bordsdekorationer för olika arrangemang och ceremoniella måltider.</p><p>Eleven kombinerar, presenterar och rekommenderar <strong>med säkerhet </strong>mat och dryck utifrån meny och dryckeslista samt sätter samman promemorior, olika arrangé och matsedlar för gästers räkning. Eleven utför med<strong> mycket gott </strong>handlag servering av mat och dryck vid olika beställningsarrangemang med tanke på tidsåtgång, ekonomi och miljö samt sätter <strong>efter samråd </strong>med handledare<strong> </strong>samman körscheman för detta. Dessutom bemöter eleven gästen och utför <strong>efter samråd </strong>med handledare arbetet på ett serviceinriktat sätt. Eleven utför också kalkylering, prissättning och lönsamhetsberäkningar av olika beställningsarrangemang <strong>efter samråd </strong>med handledare. </p><p>Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>. När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>")
