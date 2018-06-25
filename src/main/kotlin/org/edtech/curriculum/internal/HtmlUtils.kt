@@ -32,17 +32,17 @@ internal fun fixHtmlEncoding(htmlText: String): String {
 internal fun fixCurriculumErrors(text: String): String {
     return fixHtmlEncoding(text)
             .replace(Regex("(?<=[a-zåäö]) (Vidare|Eleven|Dessutom)"), ". $1")
-            .replace(Regex("</strong>(\\s*)<strong>"), "$1")
             .replace("<br/>", " ")
             .replace("<br>", " ")
             .replace(Regex("<italic>([^<]*)</italic>"), "$1")
-            .replace(Regex("<strong>([ ]*)</strong>"), "$1")
             .replace(".</p><p>.</p>", ".</p>")
             .replace("</p><p>.</p>", ".</p>")
             // Remove double spacing
             .replace(Regex("[ ][ ]+"),  " ")
             .replace("<strong> ",  " <strong>")
             .replace(Regex("([. ]+)</strong>"),  "</strong>$1")
+            .replace(Regex("</strong>(\\s*)<strong>"), "$1")
+            .replace(Regex("<strong>(\\s*)</strong>"), "$1")
             .trim()
 }
 

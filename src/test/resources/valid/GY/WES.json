@@ -46,14 +46,14 @@
         "knowledgeRequirementChoice" : {
           "E" : "Eleven gör en <strong>enkel</strong> projektplan för en tänkt webbapplikation.",
           "C" : "Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt webbapplikation.",
-          "A" : "Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt webbapplikation. <strong>Vid behov reviderar eleven planen."
+          "A" : "Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt webbapplikation. <strong>Vid behov reviderar eleven planen</strong>."
         }
       }, {
         "text" : "I projektplanen beskriver eleven <strong>________</strong> applikationens funktion.",
         "knowledgeRequirementChoice" : {
           "E" : "I projektplanen beskriver eleven <strong>översiktligt</strong> applikationens funktion.",
           "C" : "I projektplanen beskriver eleven <strong>utförligt</strong> applikationens funktion <strong>och arkitektur</strong>.",
-          "A" : "</strong> I projektplanen beskriver eleven <strong>utförligt och nyanserat</strong> applikationens funktion, <strong>arkitektur och mjukvarugränssnitt</strong>."
+          "A" : "I projektplanen beskriver eleven <strong>utförligt och nyanserat</strong> applikationens funktion, <strong>arkitektur och mjukvarugränssnitt</strong>."
         }
       }, {
         "text" : "Utifrån projektplanen utvecklar eleven <strong>________</strong> med handledare applikationen där presentationslogiken <strong>________</strong> är skild från applikationens övriga logik.",
@@ -80,8 +80,8 @@
         "text" : "Produkten är av <strong>________</strong> kvalitet och följer etablerad god praxis.",
         "knowledgeRequirementChoice" : {
           "E" : "Produkten är av <strong>tillfredsställande</strong> kvalitet och följer etablerad god praxis.",
-          "C" : "Produkten är av <strong>tillfredsställande</strong> kvalitet och följer etablerad god praxis. <strong>Detta kontrollerar eleven med hjälp av några tester. </strong>",
-          "A" : "Produkten är av <strong>god</strong> kvalitet och följer etablerad god praxis. <strong>Detta kontrollerar eleven med hjälp av flera tester, även manuella. </strong>"
+          "C" : "Produkten är av <strong>tillfredsställande</strong> kvalitet och följer etablerad god praxis. <strong>Detta kontrollerar eleven med hjälp av några tester</strong>.",
+          "A" : "Produkten är av <strong>god</strong> kvalitet och följer etablerad god praxis. <strong>Detta kontrollerar eleven med hjälp av flera tester, även manuella</strong>."
         }
       } ]
     }, {
@@ -136,28 +136,28 @@
         "knowledgeRequirementChoice" : {
           "E" : "Eleven gör en <strong>enkel</strong> projektplan för en tänkt produkt.",
           "C" : "Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt produkt.",
-          "A" : "Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt produkt. <strong>Vid behov reviderar eleven planen."
+          "A" : "Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt produkt. <strong>Vid behov reviderar eleven planen</strong>."
         }
       }, {
         "text" : "I projektplanen beskriver eleven <strong>________</strong> produktens funktion.",
         "knowledgeRequirementChoice" : {
           "E" : "I projektplanen beskriver eleven <strong>översiktligt</strong> produktens funktion.",
           "C" : "I projektplanen beskriver eleven <strong>utförligt</strong> produktens funktion <strong>och arkitektur</strong>.",
-          "A" : "</strong> I projektplanen beskriver eleven <strong>utförligt och nyanserat</strong> produktens funktion, <strong>arkitektur och mjukvarugränssnitt</strong>."
+          "A" : "I projektplanen beskriver eleven <strong>utförligt och nyanserat</strong> produktens funktion, <strong>arkitektur och mjukvarugränssnitt</strong>."
         }
       }, {
         "text" : "Utifrån projektplanen utvecklar eleven <strong>________</strong> med handledare produkten där presentationslogiken <strong>________</strong> är skild från produktens övriga logik.",
         "knowledgeRequirementChoice" : {
           "E" : "Utifrån projektplanen utvecklar eleven <strong>i samråd</strong> med handledare produkten där presentationslogiken <strong>huvudsakligen</strong> är skild från produktens övriga logik.",
-          "C" : "Utifrån projektplanen utvecklar eleven <strong>efter samråd</strong> med handledare produkten där presentationslogiken är skild från produktens övriga logik. <strong>Produkten är i begränsad utsträckning skapad med objektorienterad eller funktionell programmering.",
-          "A" : "Utifrån projektplanen utvecklar eleven <strong>efter samråd</strong> med handledare produkten där presentationslogiken är skild från produktens övriga logik. <strong>Produkten är i <strong>omfattande</strong> utsträckning skapad med objektorienterad eller funktionell programmering och uppvisar användning av ett eller flera enkla designmönster."
+          "C" : "Utifrån projektplanen utvecklar eleven <strong>efter samråd</strong> med handledare produkten där presentationslogiken är skild från produktens övriga logik. <strong>Produkten är i begränsad utsträckning skapad med objektorienterad eller funktionell programmering</strong>.",
+          "A" : "Utifrån projektplanen utvecklar eleven <strong>efter samråd</strong> med handledare produkten där presentationslogiken är skild från produktens övriga logik. <strong>Produkten är i <strong>omfattande</strong> utsträckning skapad med objektorienterad eller funktionell programmering och uppvisar användning av ett eller flera enkla designmönster</strong>."
         }
       }, {
         "text" : "I arbetet utvecklar eleven kod som är <strong>________</strong> och <strong>________</strong> kommenterad.",
         "knowledgeRequirementChoice" : {
           "E" : "I arbetet utvecklar eleven kod som är <strong>läsbar</strong> och <strong>översiktligt</strong> kommenterad.",
-          "C" : "</strong> I arbetet utvecklar eleven kod som <strong>följer en given kodningsstandard</strong> och är <strong>utförligt</strong> kommenterad.",
-          "A" : "</strong> I arbetet utvecklar eleven kod som <strong>följer en given kodningsstandard</strong> och är <strong>utförligt och nyanserat</strong> kommenterad."
+          "C" : "I arbetet utvecklar eleven kod som <strong>följer en given kodningsstandard</strong> och är <strong>utförligt</strong> kommenterad.",
+          "A" : "I arbetet utvecklar eleven kod som <strong>följer en given kodningsstandard</strong> och är <strong>utförligt och nyanserat</strong> kommenterad."
         }
       }, {
         "text" : "Produkten uppvisar <strong>________</strong> funktionalitet med ett eller flera språk för webbserverprogrammering och tillhandahåller ett <strong>________</strong> informationshanteringssystem som också hämtar eller lämnar data via <strong>________</strong> webbtjänst.",
@@ -195,14 +195,14 @@
         "knowledgeRequirementChoice" : {
           "E" : "Eleven identifierar hot och sårbarheter mot produkten och vidtar <strong>någon</strong> åtgärd för att förhindra att denna utnyttjas.",
           "C" : "Eleven identifierar hot och sårbarheter mot produkten och vidtar <strong>några</strong> åtgärder för att förhindra att dessa utnyttjas.",
-          "A" : "Eleven identifierar hot och sårbarheter mot produkten och vidtar <strong>flera</strong> åtgärder för att förhindra att dessa utnyttjas. <strong>Dessutom kontrollerar eleven produktens säkerhet med några tester."
+          "A" : "Eleven identifierar hot och sårbarheter mot produkten och vidtar <strong>flera</strong> åtgärder för att förhindra att dessa utnyttjas. <strong>Dessutom kontrollerar eleven produktens säkerhet med några tester</strong>."
         }
       }, {
         "text" : "När eleven kommunicerar med andra använder hon eller han <strong>________</strong> terminologi.",
         "knowledgeRequirementChoice" : {
           "E" : "När eleven kommunicerar med andra använder hon eller han <strong>med viss säkerhet enkel</strong> terminologi.",
           "C" : "När eleven kommunicerar med andra använder hon eller han <strong>med viss säkerhet</strong> terminologi.",
-          "A" : "</strong> När eleven kommunicerar med andra använder hon eller han <strong>med säkerhet</strong> terminologi."
+          "A" : "När eleven kommunicerar med andra använder hon eller han <strong>med säkerhet</strong> terminologi."
         }
       } ]
     } ],
@@ -233,14 +233,14 @@
         "knowledgeRequirementChoice" : {
           "E" : "Eleven gör en <strong>enkel</strong> projektplan för en tänkt produkt.",
           "C" : "Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt produkt.",
-          "A" : "Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt produkt. <strong>Vid behov reviderar eleven planen."
+          "A" : "Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt produkt. <strong>Vid behov reviderar eleven planen</strong>."
         }
       }, {
         "text" : "I projektplanen beskriver eleven <strong>________</strong> produktens funktion.",
         "knowledgeRequirementChoice" : {
           "E" : "I projektplanen beskriver eleven <strong>översiktligt</strong> produktens funktion.",
           "C" : "I projektplanen beskriver eleven <strong>utförligt</strong> produktens funktion.",
-          "A" : "</strong> I projektplanen beskriver eleven <strong>utförligt och nyanserat</strong> produktens funktion, <strong>arkitektur och mjukvarugränssnitt</strong>."
+          "A" : "I projektplanen beskriver eleven <strong>utförligt och nyanserat</strong> produktens funktion, <strong>arkitektur och mjukvarugränssnitt</strong>."
         }
       }, {
         "text" : "Utifrån projektplanen utvecklar eleven <strong>________</strong> med handledare produkten där olika sorters logik <strong>________</strong> är skild från varandra.",
@@ -289,7 +289,7 @@
         "knowledgeRequirementChoice" : {
           "E" : "Detta kontrollerar eleven med <strong>någon</strong> test.",
           "C" : "Detta kontrollerar eleven med <strong>några</strong> tester.",
-          "A" : "<strong>Detta kontrollerar eleven med omfattande manuella och automatiserade tester. </strong>"
+          "A" : "<strong>Detta kontrollerar eleven med omfattande manuella och automatiserade tester</strong>."
         }
       } ]
     }, {
@@ -306,14 +306,14 @@
         "knowledgeRequirementChoice" : {
           "E" : "Eleven identifierar <strong>något</strong> hot eller sårbarhet mot produkten och vidtar <strong>någon</strong> åtgärd för att förhindra att den utnyttjas.",
           "C" : "Eleven identifierar hot och sårbarheter mot produkten och vidtar <strong>några åtgärder</strong> för att förhindra att dessa utnyttjas.",
-          "A" : "Eleven identifierar hot och sårbarheter mot produkten och vidtar <strong>flera åtgärder</strong> för att förhindra att dessa utnyttjas. <strong>Dessutom kontrollerar eleven produktens säkerhet med <strong>flera</strong> tester."
+          "A" : "Eleven identifierar hot och sårbarheter mot produkten och vidtar <strong>flera åtgärder</strong> för att förhindra att dessa utnyttjas. <strong>Dessutom kontrollerar eleven produktens säkerhet med <strong>flera</strong> tester</strong>."
         }
       }, {
         "text" : "När eleven kommunicerar med andra använder hon eller han <strong>________</strong> terminologi.",
         "knowledgeRequirementChoice" : {
           "E" : "När eleven kommunicerar med andra använder hon eller han <strong>med viss säkerhet enkel</strong> terminologi.",
           "C" : "När eleven kommunicerar med andra använder hon eller han <strong>med viss säkerhet</strong> terminologi.",
-          "A" : "</strong> När eleven kommunicerar med andra använder hon eller han <strong>med säkerhet</strong> terminologi."
+          "A" : "När eleven kommunicerar med andra använder hon eller han <strong>med säkerhet</strong> terminologi."
         }
       } ]
     } ],
