@@ -1,8 +1,6 @@
 package org.edtech.curriculum.internal
 
-import org.edtech.curriculum.GradeStep
-import org.edtech.curriculum.KnowledgeRequirement
-import org.edtech.curriculum.KnowledgeRequirementParagraph
+import org.edtech.curriculum.*
 
 class KnowledgeRequirementConverter {
 

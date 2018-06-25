@@ -1,10 +1,6 @@
 package org.edtech.curriculum.internal
 
-import org.edtech.curriculum.CentralContent
-import org.edtech.curriculum.Purpose
-import org.edtech.curriculum.PurposeType
-import org.edtech.curriculum.YearGroup
-import org.jsoup.Jsoup
+import org.edtech.curriculum.*
 import org.junit.Assert.*
 import org.junit.Test
 
@@ -98,7 +94,7 @@ internal class HtmlUtilsTest {
 
     @Test fun fixCurriculumErrorsText() {
         assertEquals(
-            "<h4>Betyget A</h4><p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare olika arbetsuppgifter i matsal eller lokal utifrån de tidsramar som ska gälla för arbetets utförande. I planeringen väljer eleven <strong>efter samråd </strong>med handledare metoder, material, redskap och annan utrustning utifrån olika teman och högtider. Eleven skapar <strong>med säkerhet </strong>bordsdekorationer för olika arrangemang och ceremoniella måltider.</p><p>Eleven kombinerar, presenterar och rekommenderar <strong>med säkerhet </strong>mat och dryck utifrån meny och dryckeslista samt sätter samman promemorior, olika arrangé och matsedlar för gästers räkning. Eleven utför med<strong> mycket gott </strong>handlag servering av mat och dryck vid olika beställningsarrangemang med tanke på tidsåtgång, ekonomi och miljö samt sätter <strong>efter samråd </strong>med handledare samman körscheman för detta. Dessutom bemöter eleven gästen och utför <strong>efter samråd </strong>med handledare arbetet på ett serviceinriktat sätt. Eleven utför också kalkylering, prissättning och lönsamhetsberäkningar av olika beställningsarrangemang <strong>efter samråd </strong>med handledare. </p><p>Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>. När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+            "<h4>Betyget A</h4><p>Eleven planerar och organiserar <strong>efter samråd</strong> med handledare olika arbetsuppgifter i matsal eller lokal utifrån de tidsramar som ska gälla för arbetets utförande. I planeringen väljer eleven <strong>efter samråd</strong> med handledare metoder, material, redskap och annan utrustning utifrån olika teman och högtider. Eleven skapar <strong>med säkerhet</strong> bordsdekorationer för olika arrangemang och ceremoniella måltider.</p><p>Eleven kombinerar, presenterar och rekommenderar <strong>med säkerhet</strong> mat och dryck utifrån meny och dryckeslista samt sätter samman promemorior, olika arrangé och matsedlar för gästers räkning. Eleven utför med <strong>mycket gott</strong> handlag servering av mat och dryck vid olika beställningsarrangemang med tanke på tidsåtgång, ekonomi och miljö samt sätter <strong>efter samråd</strong> med handledare samman körscheman för detta. Dessutom bemöter eleven gästen och utför <strong>efter samråd</strong> med handledare arbetet på ett serviceinriktat sätt. Eleven utför också kalkylering, prissättning och lönsamhetsberäkningar av olika beställningsarrangemang <strong>efter samråd</strong> med handledare. </p><p>Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>. När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
             fixCurriculumErrors("<h4>Betyget A</h4><p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare olika arbetsuppgifter i matsal eller lokal utifrån de tidsramar som ska gälla för arbetets utförande. I planeringen väljer eleven <strong>efter samråd </strong>med handledare metoder, material, redskap och annan utrustning utifrån olika teman och högtider. Eleven skapar <strong>med säkerhet </strong>bordsdekorationer för olika arrangemang och ceremoniella måltider.</p><p>Eleven kombinerar, presenterar och rekommenderar <strong>med säkerhet </strong>mat och dryck utifrån meny och dryckeslista samt sätter samman promemorior, olika arrangé och matsedlar för gästers räkning. Eleven utför med<strong> mycket gott </strong>handlag servering av mat och dryck vid olika beställningsarrangemang med tanke på tidsåtgång, ekonomi och miljö samt sätter <strong>efter samråd </strong>med handledare<strong> </strong>samman körscheman för detta. Dessutom bemöter eleven gästen och utför <strong>efter samråd </strong>med handledare arbetet på ett serviceinriktat sätt. Eleven utför också kalkylering, prissättning och lönsamhetsberäkningar av olika beställningsarrangemang <strong>efter samråd </strong>med handledare. </p><p>Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>. När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>")
         )
         assertEquals(
@@ -110,7 +106,7 @@ internal class HtmlUtilsTest {
             fixCurriculumErrors("<p>Text<strong> </strong>text.</p>")
         )
         assertEquals(
-            "<p>Text<strong> text</strong>.</p>",
+            "<p>Text <strong>text</strong>.</p>",
             fixCurriculumErrors("<p>Text<strong> <italic> text</italic></strong>.</p>")
         )
         assertEquals(
@@ -118,11 +114,11 @@ internal class HtmlUtilsTest {
             fixCurriculumErrors("<p><strong>Text</strong><strong> text</strong>.<br></p>")
         )
         assertEquals(
-            "<p>Text<strong> text</strong>. </p>",
-            fixCurriculumErrors("<p>Text<strong> text</strong>.<br/></p>")
+            "<strong>Text text</strong>",
+            fixCurriculumErrors("<strong>Text</strong> <strong>text</strong>")
         )
         assertEquals(
-            "<p>Text<strong> text</strong>. </p>",
+            "<p>Text <strong>text</strong>. </p>",
             fixCurriculumErrors("<p>Text<strong> text</strong>.<br/></p>")
         )
         assertEquals(
@@ -132,6 +128,23 @@ internal class HtmlUtilsTest {
         assertEquals(
             "<p>Text text.</p>",
             fixCurriculumErrors("<p>Text text.</p><p>.</p>")
+        )
+    }
+
+
+    @Test
+    fun fixDescriptionsTest() {
+        assertEquals(
+            "Text text.",
+            fixDescriptions("<p>Text text.</p>")
+        )
+        assertEquals(
+            "Text text.",
+            fixDescriptions("<p align=\"left\">Text text.</p>")
+        )
+        assertEquals(
+            "Text text.",
+            fixDescriptions("<p align=\"left\">Text <i>text</i>.</p>")
         )
     }
 

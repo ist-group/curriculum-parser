@@ -8,20 +8,7 @@ import org.edtech.curriculum.PurposeType
 import org.edtech.curriculum.YearGroup
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Element
-import kotlin.math.abs
-import kotlin.math.max
 
-/**
- * Replaces the bold words with ________
- * Whole sentences that are bold will be set to an empty string
- */
-fun getPlaceHolderText(htmlText: String): String {
-    if (htmlText.matches(Regex("([ ]*)<strong>.*?</strong>([. ]*)"))) return ""
-    return htmlText
-            .replace(Regex("<strong>( )?.*?( )?</strong>"), "\$1<strong>________</strong>\$2")
-            .replace("  ", " ")
-            .trim()
-}
 /**
  * Get all top level paragraphs from an html string
  */
@@ -45,7 +32,7 @@ internal fun fixHtmlEncoding(htmlText: String): String {
 internal fun fixCurriculumErrors(text: String): String {
     return fixHtmlEncoding(text)
             .replace(Regex("(?<=[a-zåäö]) (Vidare|Eleven|Dessutom)"), ". $1")
-            .replace("</strong><strong>", "")
+            .replace(Regex("</strong>(\\s*)<strong>"), "$1")
             .replace("<br/>", " ")
             .replace("<br>", " ")
             .replace(Regex("<italic>([^<]*)</italic>"), "$1")
@@ -54,8 +41,13 @@ internal fun fixCurriculumErrors(text: String): String {
             .replace("</p><p>.</p>", ".</p>")
             // Remove double spacing
             .replace(Regex("[ ][ ]+"),  " ")
-            .replace(".</strong>", "</strong>.")
+            .replace("<strong> ",  " <strong>")
+            .replace(" </strong>",  "</strong> ")
             .trim()
+}
+
+internal fun fixDescriptions(text: String) : String {
+    return Jsoup.parse(text).text()
 }
 
 /**
@@ -91,59 +83,6 @@ internal fun convertDashListToList(stringHtml: String): String {
             }
         }
     return fragment.body().html()
-}
-
-private fun splitWords(line: String): List<String> {
-    val r = Regex("[\\s,.-]+")
-    return line.trim().split(r).filter { it.isNotEmpty() }
-}
-
-/**
- * Compares words and their positions and return a value between 0-1
- * where 1 is representing the exact same line and 0 when the lines has nothing incommon
- */
-internal fun similarLineRatio(line1: String, line2:String): Double {
-    val wordList1  = removeInflections(splitWords(removeBoldWords(line1.toLowerCase())))
-    val wordList2  = removeInflections(splitWords(removeBoldWords(line2.toLowerCase())))
-
-    if (wordList2.isEmpty() || wordList1.isEmpty()) {
-        return 0.0
-    }
-    val maxLength =  max(wordList1.size,  wordList2.size).toDouble()
-    var matchValue = 0.0
-    var index = 0
-    wordList1.forEach { word ->
-        val matchPos = wordList2.indexOf(word)
-        if (matchPos != -1) {
-            val distance = abs(matchPos - index).toDouble()
-            matchValue += 1.0 - (distance * 0.5 / maxLength)
-            // Adjust index
-            index = matchPos + 1
-        }
-    }
-
-    return  matchValue / wordList1.size.toDouble()
-}
-
-/**
- * Remove some common infliction to make comparisons easier
- */
-internal fun removeInflections(wordList: List<String>): List<String> {
-    return wordList.map {
-        // Noun
-        it.replace(Regex("(an|or|orna|en|ar|arna|er|erna|t|et|ena|ens)$"), "")
-    }
-}
-
-/**
- * Removes all delimiters and bold words
- */
-internal fun removeBoldWords(htmlText: String): String {
-    return htmlText
-            .replace(Regex("<strong> [^>]*</strong>"), " ")
-            .replace(Regex("<strong>[^>]* </strong>"), " ")
-            .replace(Regex("<strong>[^>]*</strong>"), "")
-            .replace(Regex("[ ][ ]+"),  " ")
 }
 
 /**
