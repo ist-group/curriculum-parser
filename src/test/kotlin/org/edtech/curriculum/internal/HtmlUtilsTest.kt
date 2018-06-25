@@ -105,6 +105,23 @@ internal class HtmlUtilsTest {
         )
     }
 
+
+    @Test
+    fun fixDescriptionsTest() {
+        assertEquals(
+            "Text text.",
+            fixDescriptions("<p>Text text.</p>")
+        )
+        assertEquals(
+            "Text text.",
+            fixDescriptions("<p align=\"left\">Text text.</p>")
+        )
+        assertEquals(
+            "Text text.",
+            fixDescriptions("<p align=\"left\">Text <i>text</i>.</p>")
+        )
+    }
+
     @Test
     fun convertDashListToListTest(){
         assertEquals(
