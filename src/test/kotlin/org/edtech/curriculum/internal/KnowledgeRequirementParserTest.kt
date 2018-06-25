@@ -163,12 +163,13 @@ class KnowledgeRequirementParserTest {
                 if (!hasMissingRequirementsFromSkolverket.contains(course.code)) {
                     course.knowledgeRequirementParagraphs.forEach {
                         it.knowledgeRequirements.forEach {
-                            if (!it.knowledgeRequirementChoice.keys.containsAll(setOf(GradeStep.E, GradeStep.C, GradeStep.E)) &&
-                                    !it.knowledgeRequirementChoice.keys.contains(GradeStep.G)) {
+                            val gradeSteps = it.knowledgeRequirementChoice
+                            if (!gradeSteps.keys.containsAll(setOf(GradeStep.A, GradeStep.C, GradeStep.E)) &&
+                                    !gradeSteps.keys.contains(GradeStep.G)) {
                                 fail("Knowledge Requirement Choices should be either E,C,A or G failed for: ${subject.name}/${course.name}")
                             }
-                            it.knowledgeRequirementChoice.forEach {
-                                if (it.value.isBlank())
+                            gradeSteps.forEach { gradeStep ->
+                                if (gradeStep.value.isBlank())
                                     fail("Found empty knowledge requirement critera in ${subject.name}/${course.name} [${course.code}]")
                             }
                         }
