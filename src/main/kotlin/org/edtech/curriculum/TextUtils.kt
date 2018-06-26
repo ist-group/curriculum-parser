@@ -86,3 +86,14 @@ internal fun removeBoldTags(htmlText: String): String {
             .replace(Regex("</?strong>"), "")
             .replace(Regex("[ ][ ]+"), " ")
 }
+
+/**
+ * Converts a string 1-3 to an int range
+ */
+internal fun stringToRange(rangeString: String): IntRange {
+    val rangeText= rangeString.split("-")
+    if (rangeText.size != 2) {
+        throw NumberFormatException("The string `$rangeString` cannot be interpreted as an range")
+    }
+    return rangeText[0].trim().toInt()..rangeText[1].trim().toInt()
+}
