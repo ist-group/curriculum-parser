@@ -37,7 +37,7 @@ class CompulsoryCourseDataExtractor(private val subjectDocument: Document): Cour
     }
 
     internal fun getCourses(): List<CourseCondition> {
-        val yearRange =  subjectDocument.select("centralContent year").map { it.text() }
+        val yearRange =  subjectDocument.select("centralContent year").map { it.text() }.toSet()
         val types =  subjectDocument.select("typeOfCentralContent, typeOfRequirement").map { it.text() }.filter { it.isNotEmpty() }.toSet()
 
         // Combine the types with year ranges
