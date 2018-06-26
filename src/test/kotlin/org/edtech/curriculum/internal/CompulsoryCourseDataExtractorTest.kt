@@ -42,6 +42,17 @@ internal class CompulsoryCourseDataExtractorTest {
     }
 
     @Test
+    fun testGetCourses() {
+        assertArrayEquals(arrayListOf(
+                CompulsoryCourseDataExtractor.CourseCondition("4-9", "WITHIN_STUDENT_CHOICE"),
+                CompulsoryCourseDataExtractor.CourseCondition("4-9", "WITHIN_LANGUAGE_CHOICE"),
+                CompulsoryCourseDataExtractor.CourseCondition("4-9", "WITHIN_STUDENT_CHOICE_CHINESE"),
+                CompulsoryCourseDataExtractor.CourseCondition("4-9", "WITHIN_LANGUAGE_CHOICE_CHINESE")
+                ).toTypedArray(),
+                courseDataExtractorMod.getCourses().toTypedArray())
+    }
+
+    @Test
     fun testRangeConverter() {
         assertEquals(stringToRange("1-3"), 1..3)
         assertEquals(stringToRange("0-3"), 0..3)
