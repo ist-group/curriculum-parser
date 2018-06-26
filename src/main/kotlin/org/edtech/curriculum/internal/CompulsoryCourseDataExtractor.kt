@@ -2,10 +2,6 @@ package org.edtech.curriculum.internal
 
 import org.edtech.curriculum.*
 import org.jsoup.nodes.Document
-import java.time.Instant
-import java.time.LocalDateTime
-import java.time.ZoneOffset
-import java.time.format.DateTimeFormatter
 
 /**
  * Parses the open data supplied by skolverket for the compulsory subjects
@@ -18,30 +14,47 @@ import java.time.format.DateTimeFormatter
  */
 class CompulsoryCourseDataExtractor(private val subjectDocument: Document): CourseDataExtractor {
 
+    data class CourseCondition(val year: String, val type: String)
+
     override fun getCourseData(): List<CourseHtml> {
         val code = subjectDocument.select("code").first().text()
-        val centralContents = subjectDocument.select("centralContent")
-                .map {
-                    Pair(it.select("year").text(),
-                            convertDashListToList(fixHtmlEncoding(it.select("text").text())))
-                }.toList()
-        return centralContents.map {
-            CourseHtml("Årskurs ${it.first}",
-                    "",
-                    "${code}_${it.first}",
-                    it.first,
-                    "",
-                    it.second,
-                    getKnowledgeRequirements(stringToRange(it.first)))
+        return getCourses().mapNotNull {
+            val centralContent = getCentralContent(it.year, it.type)
+            val knowledgeRequirement = getKnowledgeRequirements(stringToRange(it.year), it.type)
+            // Return the courses where we got content
+            if (centralContent != null || knowledgeRequirement.isNotEmpty()) {
+                CourseHtml("Årskurs ${it.year}  ${it.type}".trim(),
+                        "",
+                        "${code}_${it.year}-${it.type}".trim('-'),
+                        it.year,
+                        "",
+                        centralContent ?: "",
+                        knowledgeRequirement)
+            } else {
+                null
+            }
         }
     }
 
-    internal fun getKnowledgeRequirements(range: IntRange): Map<GradeStep, String> {
+    internal fun getCourses(): List<CourseCondition> {
+        val yearRange =  subjectDocument.select("centralContent year").map { it.text() }
+        val types =  subjectDocument.select("typeOfCentralContent, typeOfRequirement").map { it.text() }.filter { it.isNotEmpty() }.toSet()
+
+        // Combine the types with year ranges
+        return if (types.isNotEmpty()) {
+           types.flatMap { yearRange.map { year -> CourseCondition(year, it) } }.toList()
+        } else {
+           yearRange.map { year -> CourseCondition(year, "") }.toList()
+        }
+    }
+
+    internal fun getKnowledgeRequirements(range: IntRange, type: String): Map<GradeStep, String> {
         return subjectDocument
             // Get the subject code element
             .select("knowledgeRequirement")
             .filter {
-                (it.select("year").text().toIntOrNull() ?: 0) in range
+                (it.select("year").text().toIntOrNull() ?: 0) in range &&
+                (it.select("typeOfRequirement").text() == type)
             }
             .map {
                 val gradeStepText = it.select("gradeStep").text()
@@ -54,14 +67,16 @@ class CompulsoryCourseDataExtractor(private val subjectDocument: Document): Cour
             }.toMap()
     }
 
-    companion object {
-        internal fun stringToRange(rangeString: String): IntRange {
-            val rangeText= rangeString.split("-")
-            if (rangeText.size != 2) {
-                throw NumberFormatException("The string `$rangeString` cannot be interpreted as an range")
-            }
-            return rangeText[0].trim().toInt()..rangeText[1].trim().toInt()
-        }
+    internal fun getCentralContent(range: String, type: String): String? {
+        return subjectDocument
+                // Get the subject code element
+                .select("centralContent")
+                .filter {
+                    val elementType = it.select("typeOfCentralContent").text()
+                    (it.select("year").text() == range &&
+                            (elementType.isEmpty() || elementType == type))
+                }.map { it.select("text").text() }
+                .firstOrNull()
     }
 }
 

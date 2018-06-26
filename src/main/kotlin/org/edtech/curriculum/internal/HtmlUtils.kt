@@ -106,40 +106,6 @@ internal fun toYearGroup(year: String): YearGroup? {
 }
 
 /**
- * Combine heading and bullets in one list
- */
-internal fun toCentralContent(html: String): List<CentralContent> {
-    val fragment = Jsoup.parseBodyFragment(html)
-    // Remove empty paragraphs
-    fragment.select("body > p")
-        .forEach {
-            if (it.text().trim().isEmpty()) {
-                it.remove()
-            }
-        }
-    return fragment
-            .select("body > *:not(:empty)")
-            .mapNotNull {
-                if (it.tagName() == "ul") {
-                    if (it.previousElementSibling() != null) {
-                        CentralContent(it.previousElementSibling().text(), it.children().map { it.text() })
-                    } else {
-                        CentralContent("",  it.children().map { it.text() })
-                    }
-                } else {
-                    // Just a heading
-                    if (it.nextElementSibling() != null && it.nextElementSibling().tagName() == "ul") {
-                        null
-                    } else {
-                    // Heading before
-                        CentralContent(it.text(),  listOf())
-                    }
-                }
-            }
-}
-
-
-/**
  * Convert the Purpose html to Entities depending on tag type
  */
 internal fun toPurposes(html: String): List<Purpose> {

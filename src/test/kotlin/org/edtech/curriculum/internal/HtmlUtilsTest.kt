@@ -172,30 +172,6 @@ internal class HtmlUtilsTest {
     }
 
     @Test
-    fun toCentralContentTest() {
-        assertEquals(
-                listOf(
-                        CentralContent("I årskurs 1-3", listOf()),
-                        CentralContent("Bildframställning", listOf(
-                             "Framställning av berättande bilder, till exempel sagobilder.",
-                             "Teckning, måleri, modellering och konstruktion.",
-                             "Fotografering och överföring av bilder med hjälp av datorprogram."
-                         )),
-                        CentralContent("Redskap för bildframställning", listOf(
-                            "Olika element som bygger upp en bild: färg, form, linje, yta samt för- och bakgrund.",
-                            "Några verktyg för teckning, måleri, modellering, konstruktioner och fotografering och hur dessa benämns.",
-                            "Plana och formbara material, till exempel papper, lera, gips och naturmaterial och hur dessa kan användas i olika bildarbeten."
-                        )),
-                        CentralContent("Bildanalys", listOf(
-                            "Informativa bilder, till exempel läroboksbilder och hur de är utformade och fungerar.",
-                            "Historiska och samtida bilder och vad bilderna berättar, till exempel dokumentära bilder från hemorten och konstbilder."
-                        ))
-                ),
-                toCentralContent("<h3>I årskurs 1-3</h3><h4> Bildframställning</h4><p> </p><ul> <li>Framställning av berättande bilder, till exempel sagobilder.</li> <li>Teckning, måleri, modellering och konstruktion.</li> <li>Fotografering och överföring av bilder med hjälp av datorprogram.</li> </ul><p> </p><h4> Redskap för bildframställning</h4><p> </p><ul> <li>Olika element som bygger upp en bild: färg, form, linje, yta samt för- och bakgrund.</li> <li>Några verktyg för teckning, måleri, modellering, konstruktioner och fotografering och hur dessa benämns.</li> <li>Plana och formbara material, till exempel papper, lera, gips och naturmaterial och hur dessa kan användas i olika bildarbeten.</li> </ul><p> </p><h4> Bildanalys</h4><p> </p><ul> <li>Informativa bilder, till exempel läroboksbilder och hur de är utformade och fungerar.</li> <li>Historiska och samtida bilder och vad bilderna berättar, till exempel dokumentära bilder från hemorten och konstbilder.</li> </ul><p></p>")
-        )
-    }
-
-    @Test
     fun toPurposesTest() {
         assertEquals(
                 listOf(

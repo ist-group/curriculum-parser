@@ -12,7 +12,7 @@ internal class CourseParser(private val courseData: CourseHtml) {
                 courseData.name,
                 courseData.description,
                 courseData.code,
-                toCentralContent(courseData.centralContent),
+                CentralContentConverter().getCentralContents(courseData.centralContent),
                 KnowledgeRequirementConverter().getKnowledgeRequirements(courseData.knowledgeRequirement),
                 courseData.point.toIntOrNull(),
                 toYearGroup(courseData.year)

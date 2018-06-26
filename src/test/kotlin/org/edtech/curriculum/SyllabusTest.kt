@@ -69,7 +69,7 @@ class SyllabusTest {
                     assertTrue("${courseHtml.code}/${courseHtml.name} has no knowledgeRequirements", courseHtml.knowledgeRequirement.isNotEmpty())
                 }
                 assertTrue("${courseHtml.code}/${courseHtml.name} has no centralContents", courseHtml.centralContent.isNotEmpty())
-                assertTrue("${courseHtml.code}/${courseHtml.name} has malformed centralContents", courseHtml.centralContent.contains("<li>"))
+                assertTrue("${courseHtml.code}/${courseHtml.name} has malformed centralContents:\n ${courseHtml.centralContent}", courseHtml.centralContent.contains(Regex("<li>|<p>–")))
                 assertTrue("${courseHtml.code}/${courseHtml.name} has no code", courseHtml.code.isNotEmpty())
                 assertTrue("${courseHtml.code}/${courseHtml.name} has no name", courseHtml.name.isNotEmpty())
 
@@ -83,13 +83,26 @@ class SyllabusTest {
             }
         }
     }
+
     @Test
     fun testDuplicateRequirementsGR() {
         Syllabus(SyllabusType.GR, File("./src/test/resources/opendata/")).subjectHtml.forEach {
-
             it.courses.forEach { courseHtml ->
-                courseHtml.knowledgeRequirement.forEach {entry ->
-                    assertFalse("duplicate knowledge requirement found in ${it.name}[${it.code}]/${courseHtml.name}[${courseHtml.code}]" , it.courses.filter { c -> courseHtml != c }.map{ c -> c.knowledgeRequirement[entry.key]}.contains(entry.value))
+                courseHtml.knowledgeRequirement.filter { entry -> entry.key != GradeStep.D && entry.key != GradeStep.B }.forEach { entry ->
+                    val matchingCourse = it.courses.firstOrNull { c -> courseHtml != c && c.knowledgeRequirement[entry.key]?.contains(entry.value) ?: false }
+                    assertNull("duplicate knowledge requirement found in ${it.name}[${it.code}] ${courseHtml.name}[${courseHtml.code}] => ${matchingCourse?.code}:\n${entry.value}" , matchingCourse)
+                }
+            }
+        }
+    }
+
+    @Test
+    fun testDuplicateRequirementsGRS() {
+        Syllabus(SyllabusType.GRS, File("./src/test/resources/opendata/")).subjectHtml.forEach {
+            it.courses.forEach { courseHtml ->
+                courseHtml.knowledgeRequirement.filter { entry -> entry.key != GradeStep.D && entry.key != GradeStep.B }.forEach { entry ->
+                    val matchingCourse = it.courses.firstOrNull { c -> courseHtml != c && c.knowledgeRequirement[entry.key]?.contains(entry.value) ?: false }
+                    assertNull("duplicate knowledge requirement found in ${it.name}[${it.code}] ${courseHtml.name}[${courseHtml.code}] => ${matchingCourse?.code}:\n${entry.value}" , matchingCourse)
                 }
             }
         }
