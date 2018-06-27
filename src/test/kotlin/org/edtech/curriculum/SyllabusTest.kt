@@ -15,6 +15,14 @@ class SyllabusTest {
         testGetSubjectsHtml(SyllabusType.GRS)
     }
     @Test
+    fun testGetSubjectsHtmlGRSAM() {
+        testGetSubjectsHtml(SyllabusType.GRSAM)
+    }
+    @Test
+    fun testGetSubjectsHtmlGRSPEC() {
+        testGetSubjectsHtml(SyllabusType.GRSPEC)
+    }
+    @Test
     fun testGetSubjectsHtmlGY() {
         testGetSubjectsHtml(SyllabusType.GY)
     }

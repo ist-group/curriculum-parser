@@ -48,7 +48,7 @@ class IndividualFiledSubjectDataExtractor(private val skolverketFileArchive: Sko
                 SyllabusCourseDataExtractor(openDataDocument).getCourseData()
             SyllabusType.VUXGR ->
                 VuxCourseDataExtractor(openDataDocument).getCourseData()
-            SyllabusType.GR, SyllabusType.GRS ->
+            SyllabusType.GR, SyllabusType.GRS, SyllabusType.GRSPEC, SyllabusType.GRSAM ->
                 CompulsoryCourseDataExtractor(openDataDocument).getCourseData()
             else -> SyllabusCourseDataExtractor(openDataDocument).getCourseData()
         }
