@@ -11,7 +11,7 @@ import java.io.File
 class KnowledgeRequirementParserTest {
 
     private val hasMissingRequirementsFromSkolverket = setOf("BYPRIT0", "RINRID02", "SPEIDT0", "TESPRO01", "TEYPRO01", "HAVFIN05S")
-    private val dataDir = File("./src/test/resources/opendata/")
+    private val dataDir = File(DOWNLOADED_ARCHIVES_PATH)
 
 
     @Test
@@ -48,10 +48,10 @@ class KnowledgeRequirementParserTest {
             subjectMap[subject.code] = subject
         }
 
-        val subjectDir = File("./src/test/resources/valid/${syllabusType.name}")
+        val subjectDir = File(VALID_JSONS_PATH + syllabusType.name)
         if (!subjectDir.isDirectory) fail("${subjectDir.absolutePath} is not a directory")
 
-        for (file in File("./src/test/resources/valid/${syllabusType.name}").listFiles()) {
+        for (file in subjectDir.listFiles()) {
             if (!file.name.endsWith(".json")) continue
             val parsedSubject = subjectMap[file.nameWithoutExtension]
             if (parsedSubject == null) {

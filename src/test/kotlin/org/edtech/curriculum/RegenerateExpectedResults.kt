@@ -7,9 +7,9 @@ fun main(args : Array<String>) {
     if (args.isEmpty()) {
         for (syllabusType in SyllabusType.values()) {
             val subjectMap = getSubjectCodeMap(syllabusType)
-            val subjectDir = File("./src/test/resources/valid/${syllabusType.name}")
+            val subjectDir = File(VALID_JSONS_PATH + syllabusType.name)
             if (subjectDir.isDirectory) {
-                for (file in File("./src/test/resources/valid/${syllabusType.name}").listFiles()) {
+                for (file in subjectDir.listFiles()) {
                     if (!file.name.endsWith(".json")) continue
 
                     val subjectCode = file.nameWithoutExtension
@@ -28,7 +28,7 @@ fun main(args : Array<String>) {
             val subjectMap = getSubjectCodeMap(SyllabusType.valueOf(args[0]))
             val subject= subjectMap[args[1]]
             if (subject != null) {
-                writeSubjectToFile(subject, File("./src/test/resources/valid/${args[0]}/${args[1]}.json"))
+                writeSubjectToFile(subject, File("$VALID_JSONS_PATH${args[0]}/${args[1]}.json"))
             } else {
                 println("ERROR: cannot find subject ${args[1]} in syllabus ${args[0]}.")
                 System.exit(1)
@@ -42,7 +42,7 @@ fun main(args : Array<String>) {
 }
 
 fun getSubjectCodeMap(syllabusType: SyllabusType): Map<String, Subject> {
-    return Syllabus(syllabusType, File("./src/test/resources/opendata/"))
+    return Syllabus(syllabusType, File(DOWNLOADED_ARCHIVES_PATH))
             .getSubjects()
             .map { Pair(it.code, it) }
             .toMap()

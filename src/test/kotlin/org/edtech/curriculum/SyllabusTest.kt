@@ -4,6 +4,10 @@ import org.junit.Assert.*
 import org.junit.Test
 import java.io.File
 
+const val TEST_RESOURCES_PATH = "./src/test/resources/"
+const val VALID_JSONS_PATH = TEST_RESOURCES_PATH + "valid/"
+const val DOWNLOADED_ARCHIVES_PATH = TEST_RESOURCES_PATH + "opendata/"
+
 class SyllabusTest {
 
     @Test
@@ -64,7 +68,7 @@ class SyllabusTest {
     }
 */
     private fun testGetSubjectsHtml(syllabusType: SyllabusType) {
-        Syllabus(syllabusType, File("./src/test/resources/opendata/")).subjectHtml.forEach {
+        Syllabus(syllabusType, File(DOWNLOADED_ARCHIVES_PATH)).subjectHtml.forEach {
             assertTrue("${syllabusType.name}/${it.code} has no name", it.name.isNotEmpty())
             assertTrue("${syllabusType.name}/${it.name} has no code", it.code.isNotEmpty())
             assertTrue("${syllabusType.name}/${it.skolfsId} has no skolfsId", it.skolfsId.isNotEmpty())
@@ -94,7 +98,7 @@ class SyllabusTest {
 
     @Test
     fun testDuplicateRequirementsGR() {
-        Syllabus(SyllabusType.GR, File("./src/test/resources/opendata/")).subjectHtml.forEach {
+        Syllabus(SyllabusType.GR, File(DOWNLOADED_ARCHIVES_PATH)).subjectHtml.forEach {
             it.courses.forEach { courseHtml ->
                 courseHtml.knowledgeRequirement.filter { entry -> entry.key != GradeStep.D && entry.key != GradeStep.B }.forEach { entry ->
                     val matchingCourse = it.courses.firstOrNull { c -> courseHtml != c && c.knowledgeRequirement[entry.key]?.contains(entry.value) ?: false }
@@ -106,7 +110,7 @@ class SyllabusTest {
 
     @Test
     fun testDuplicateRequirementsGRS() {
-        Syllabus(SyllabusType.GRS, File("./src/test/resources/opendata/")).subjectHtml.forEach {
+        Syllabus(SyllabusType.GRS, File(DOWNLOADED_ARCHIVES_PATH)).subjectHtml.forEach {
             it.courses.forEach { courseHtml ->
                 courseHtml.knowledgeRequirement.filter { entry -> entry.key != GradeStep.D && entry.key != GradeStep.B }.forEach { entry ->
                     val matchingCourse = it.courses.firstOrNull { c -> courseHtml != c && c.knowledgeRequirement[entry.key]?.contains(entry.value) ?: false }
@@ -138,7 +142,7 @@ class SyllabusTest {
     }
 
     private fun testGetSubjects(syllabusType: SyllabusType) {
-        Syllabus(syllabusType, File("./src/test/resources/opendata/")).getSubjects().forEach {
+        Syllabus(syllabusType, File(DOWNLOADED_ARCHIVES_PATH)).getSubjects().forEach {
             assertTrue("${syllabusType.name}/${it.name} has no name", it.name.isNotEmpty())
             assertTrue("${syllabusType.name}/${it.name} has no skolfsId", it.skolfsId.isNotEmpty())
             assertTrue("${syllabusType.name}/${it.name} has no code", it.code.isNotEmpty())

@@ -1,5 +1,6 @@
 package org.edtech.curriculum.internal
 
+import org.edtech.curriculum.DOWNLOADED_ARCHIVES_PATH
 import org.edtech.curriculum.GradeStep
 import org.edtech.curriculum.stringToRange
 import org.jsoup.Jsoup
@@ -12,8 +13,8 @@ import java.io.File
 
 
 internal class CompulsoryCourseDataExtractorTest {
-    private val courseDataExtractor: CompulsoryCourseDataExtractor = CompulsoryCourseDataExtractor(Jsoup.parse(File("./src/test/resources/opendata/extracted/Biologi.xml").inputStream(), null, "", Parser.xmlParser()))
-    private val courseDataExtractorMod: CompulsoryCourseDataExtractor = CompulsoryCourseDataExtractor(Jsoup.parse(File("./src/test/resources/opendata/extracted/Moderna sprak.xml").inputStream(), null, "", Parser.xmlParser()))
+    private val courseDataExtractor: CompulsoryCourseDataExtractor = CompulsoryCourseDataExtractor(Jsoup.parse(File(DOWNLOADED_ARCHIVES_PATH + "extracted/Biologi.xml").inputStream(), null, "", Parser.xmlParser()))
+    private val courseDataExtractorMod: CompulsoryCourseDataExtractor = CompulsoryCourseDataExtractor(Jsoup.parse(File(DOWNLOADED_ARCHIVES_PATH + "extracted/Moderna sprak.xml").inputStream(), null, "", Parser.xmlParser()))
 
     @Test
     fun getCourseData() {
