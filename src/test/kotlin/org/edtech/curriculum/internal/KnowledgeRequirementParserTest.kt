@@ -17,39 +17,39 @@ class KnowledgeRequirementParserTest {
 
     @Test
     fun testAgainstJsonFilesGR() {
-        testAgainstJsonFiles(SyllabusType.GR)
+        testAgainstJsonFiles(SchoolType.GR)
     }
     @Test
     fun testAgainstJsonFilesGRS() {
-        testAgainstJsonFiles(SyllabusType.GRS)
+        testAgainstJsonFiles(SchoolType.GRS)
     }
     @Test
     fun testAgainstJsonFilesGY() {
-        testAgainstJsonFiles(SyllabusType.GY)
+        testAgainstJsonFiles(SchoolType.GY)
     }
     @Test
     fun testAgainstJsonFilesGYS() {
-        testAgainstJsonFiles(SyllabusType.GYS)
+        testAgainstJsonFiles(SchoolType.GYS)
     }
     @Test
     fun testAgainstJsonFilesVUXGR() {
-        testAgainstJsonFiles(SyllabusType.VUXGR)
+        testAgainstJsonFiles(SchoolType.VUXGR)
     }
 /*    @Test
     fun testAgainstJsonFilesSFI() {
-        testAgainstJsonFiles(SyllabusType.SFI)
+        testAgainstJsonFiles(org.edtech.curriculum.SchoolType.SFI)
     }
 */
 
-    private fun testAgainstJsonFiles(syllabusType: SyllabusType) {
+    private fun testAgainstJsonFiles(schoolType: SchoolType) {
         val mapper = ObjectMapper()
         val subjectMap: MutableMap<String, Subject> = HashMap()
 
         File("$validDataDir/").listFiles().forEach { versionDir ->
-            for (subject in Syllabus(syllabusType, dataDir.resolve(versionDir.name)).getSubjects()) {
+            for (subject in Curriculum(schoolType, dataDir.resolve(versionDir.name)).getSubjects()) {
                 subjectMap[subject.code] = subject
             }
-            val subjectDir = versionDir.resolve(syllabusType.name)
+            val subjectDir = versionDir.resolve(schoolType.name)
             if (!subjectDir.isDirectory) fail("${subjectDir.absolutePath} is not a directory")
 
             subjectDir.listFiles()
@@ -61,7 +61,7 @@ class KnowledgeRequirementParserTest {
                     } else {
                         val expected = file.readText()
                         val actual = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(parsedSubject)
-                        assertEquals("Difference for subject ${versionDir.name} - ${syllabusType.name}/${file.nameWithoutExtension}", expected, actual)
+                        assertEquals("Difference for subject ${versionDir.name} - ${schoolType.name}/${file.nameWithoutExtension}", expected, actual)
                     }
                 }
         }
@@ -69,36 +69,36 @@ class KnowledgeRequirementParserTest {
 
     @Test
     fun matchParsedKnowledgeRequirementTextWithOriginalGR() {
-        matchParsedKnowledgeRequirementTextWithOriginal(SyllabusType.GR)
+        matchParsedKnowledgeRequirementTextWithOriginal(SchoolType.GR)
     }
     @Test
     fun matchParsedKnowledgeRequirementTextWithOriginalGRS() {
-        matchParsedKnowledgeRequirementTextWithOriginal(SyllabusType.GRS)
+        matchParsedKnowledgeRequirementTextWithOriginal(SchoolType.GRS)
     }
     @Test
     fun matchParsedKnowledgeRequirementTextWithOriginalGRSAM() {
-        matchParsedKnowledgeRequirementTextWithOriginal(SyllabusType.GRSAM)
+        matchParsedKnowledgeRequirementTextWithOriginal(SchoolType.GRSAM)
     }
     @Test
     fun matchParsedKnowledgeRequirementTextWithOriginalGY() {
-        matchParsedKnowledgeRequirementTextWithOriginal(SyllabusType.GY)
+        matchParsedKnowledgeRequirementTextWithOriginal(SchoolType.GY)
     }
     @Test
     fun matchParsedKnowledgeRequirementTextWithOriginalGYS() {
-        matchParsedKnowledgeRequirementTextWithOriginal(SyllabusType.GYS)
+        matchParsedKnowledgeRequirementTextWithOriginal(SchoolType.GYS)
     }
     @Test
     fun matchParsedKnowledgeRequirementTextWithOriginalVUXGR() {
-        matchParsedKnowledgeRequirementTextWithOriginal(SyllabusType.VUXGR)
+        matchParsedKnowledgeRequirementTextWithOriginal(SchoolType.VUXGR)
     }
     @Test
     fun matchParsedKnowledgeRequirementTextWithOriginalSFI() {
-        matchParsedKnowledgeRequirementTextWithOriginal(SyllabusType.SFI)
+        matchParsedKnowledgeRequirementTextWithOriginal(SchoolType.SFI)
     }
 
-    private fun matchParsedKnowledgeRequirementTextWithOriginal(syllabusType: SyllabusType) {
+    private fun matchParsedKnowledgeRequirementTextWithOriginal(schoolType: SchoolType) {
         dataDir.listFiles().forEach { versionDir ->
-            Syllabus(syllabusType, versionDir).subjectHtml.forEach { subject ->
+            Curriculum(schoolType, versionDir).subjectHtml.forEach { subject ->
                 for (course in subject.courses) {
                     if (!coursesWithSwitchedLines.contains(course.code)) {
                         // Get the fully parsed course
@@ -135,28 +135,28 @@ class KnowledgeRequirementParserTest {
 
     @Test
     fun noEmptyKnowledgeRequirementChoicesGR() {
-        testSubjects(SyllabusType.GR)
+        testSubjects(SchoolType.GR)
     }
     @Test
     fun noEmptyKnowledgeRequirementChoicesGRS() {
-        testSubjects(SyllabusType.GRS)
+        testSubjects(SchoolType.GRS)
     }
     @Test
     fun noEmptyKnowledgeRequirementChoicesGY() {
-        testSubjects(SyllabusType.GY)
+        testSubjects(SchoolType.GY)
     }
     @Test
     fun noEmptyKnowledgeRequirementChoicesGYS() {
-        testSubjects(SyllabusType.GYS)
+        testSubjects(SchoolType.GYS)
     }
     @Test
     fun noEmptyKnowledgeRequirementChoicesVUXGR() {
-        testSubjects(SyllabusType.VUXGR)
+        testSubjects(SchoolType.VUXGR)
     }
 
-    private fun testSubjects(syllabusType: SyllabusType) {
+    private fun testSubjects(schoolType: SchoolType) {
         dataDir.listFiles().forEach { versionDir ->
-            Syllabus(syllabusType, versionDir).getSubjects()
+            Curriculum(schoolType, versionDir).getSubjects()
                     .forEach { subject ->
                         for (course in subject.courses) {
                             // Get the fully parsed course

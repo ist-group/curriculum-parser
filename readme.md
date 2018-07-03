@@ -48,17 +48,17 @@ dependencies {
     compile 'com.github.stefan-jonasson:curriculum-parser:<release>'    
 ```
 
-The entry point to the parser is the Syllabus class.
-The class takes two constructor parameters, a syllabus type and a directory reference (java.io.File).
+The entry point to the parser is the Curriculum class.
+The class takes two constructor parameters, a school type and a directory reference (java.io.File).
 The if no directory is supplied the current temporary directory will be used and the necessary files will automatically be downloaded from skolverket. 
 
 If you would like to use a fixed version of skolverkets files just put the opendata files in a directory and supply a reference to that directory.
 
 Get the representation of the parsed subjects and courses by invoking the getSubjects() method.  
  ```$kotlin
-    val syllabus = Syllabus(<SyllabusType>, [<workdir, defaults to system temp dir>])
-    // Get all subjects in for the loaded syllabys type
-    sullabus.getSubjects()
+    val curriculum = Curriculum(<SchoolType>, [<workdir, defaults to system temp dir>])
+    // Get all subjects in for the loaded school type
+    curriculum.getSubjects()
  ```
  
 Example code in Java for loading the parsed representation for "Grundskolan": 
@@ -71,7 +71,7 @@ import java.util.List;
 public class MyApp {
 
     public static void main (String[] args) {
-        List<Subject> subjects = new Syllabus(syllabusType.GR).getSubjects()
+        List<Subject> subjects = new Curriculum(schoolType.GR).getSubjects()
         subjects.forEach(subject -> {                 
             System.out.println("Subject name: " + subject.getName() );                
             subject.getCourses().forEach(course -> {

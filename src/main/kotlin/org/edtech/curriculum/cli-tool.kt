@@ -18,14 +18,14 @@ fun main(args : Array<String>) {
                     File(System.getProperty("java.io.tmpdir"))
                 }, false).regenerate()
             args.size > 2 -> {
-                if (SyllabusType.values().any { it.name == args[0] }) {
+                if (SchoolType.values().any { it.name == args[0] }) {
                     SubjectFileGenerator(File(args[2]), if (args.size > 3) {
                         File(args[3])
                     } else {
                         File(System.getProperty("java.io.tmpdir"))
-                    }, false).generateOneSubject(SyllabusType.valueOf(args[0]), args[1])
+                    }, false).generateOneSubject(SchoolType.valueOf(args[0]), args[1])
                 } else {
-                    println("ERROR: unknown syllabus type ${args[0]}.")
+                    println("ERROR: unknown school type ${args[0]}.")
                     printHelp()
                     System.exit(1)
                 }
@@ -44,7 +44,7 @@ fun main(args : Array<String>) {
 }
 
 fun printHelp() {
-    println("Usage: GenerateResult [<syllabusType> <subjectCode> | --all | --regenerate] <dest-dir> [<source-dir>]")
+    println("Usage: GenerateResult [<schoolType> <subjectCode> | --all | --regenerate] <dest-dir> [<source-dir>]")
     println("\tThree modes are available: to the tool, either generate a specific file by generating syllabus/subject code or generate all files with the --all flag, ")
     println("\t- Generate a specific file by generating syllabus/subject code")
     println("\t- Use --all to generate all subjects for all school forms")

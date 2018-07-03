@@ -15,10 +15,10 @@ import org.apache.commons.compress.archivers.ArchiveInputStream
  */
 class SkolverketFileArchive(private val archiveFile: File) {
     /**
-     * Analyze the file structure to figure out the corresponding SyllabusType type
+     * Analyze the file structure to figure out the corresponding SchoolType type
      */
-    fun getType(): SyllabusType {
-        return SyllabusType.values().firstOrNull { it.filename == archiveFile.nameWithoutExtension  }
+    fun getType(): SchoolType {
+        return SchoolType.values().firstOrNull { it.filename == archiveFile.nameWithoutExtension  }
                 ?: throw SkolverketFileArchiveFileNotFound("Unknown file type")
     }
     

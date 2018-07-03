@@ -18,7 +18,7 @@ class CompulsoryCourseDataExtractor(private val subjectDocument: Document): Cour
 
     override fun getCourseData(): List<CourseHtml> {
         val code = subjectDocument.select("code").first().text()
-        return getCourses().mapNotNull {
+        return getCoursesConditions().mapNotNull {
             val centralContent = getCentralContent(it.year, it.type)
             val knowledgeRequirement = getKnowledgeRequirements(stringToRange(it.year), it.type)
             // Return the courses where we got content
@@ -36,7 +36,7 @@ class CompulsoryCourseDataExtractor(private val subjectDocument: Document): Cour
         }
     }
 
-    internal fun getCourses(): List<CourseCondition> {
+    internal fun getCoursesConditions(): List<CourseCondition> {
         val yearRange =  subjectDocument.select("centralContent year").map { it.text() }.toSet()
         val types =  subjectDocument.select("typeOfCentralContent, typeOfRequirement").map { it.text() }.filter { it.isNotEmpty() }.toSet()
 

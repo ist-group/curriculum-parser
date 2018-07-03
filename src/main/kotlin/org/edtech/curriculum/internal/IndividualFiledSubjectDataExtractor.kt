@@ -3,9 +3,7 @@ package org.edtech.curriculum.internal
 import org.edtech.curriculum.*
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
-import org.jsoup.nodes.Element
 import org.jsoup.parser.Parser
-import org.jsoup.select.Elements
 import java.io.InputStream
 import java.time.Instant
 import java.time.format.DateTimeParseException
@@ -13,9 +11,9 @@ import java.time.format.DateTimeParseException
 /**
  * Extracts the data from skolverket files when the curriculum data is stored in one file per subject
  */
-class IndividualFiledSubjectDataExtractor(private val skolverketFileArchive: SkolverketFileArchive, private val syllabusType: SyllabusType): SubjectDataExtractor {
+class IndividualFiledSubjectDataExtractor(private val skolverketFileArchive: SkolverketFileArchive, private val schoolType: SchoolType): SubjectDataExtractor {
     override fun getSubjectData(): List<SubjectHtml> {
-        return skolverketFileArchive.getFileStreams(syllabusType.archivePath).map {
+        return skolverketFileArchive.getFileStreams(schoolType.archivePath).map {
             getSubject(it)
         }.toList()
     }
@@ -43,14 +41,14 @@ class IndividualFiledSubjectDataExtractor(private val skolverketFileArchive: Sko
 
     private fun extractCourses(openDataDocument: Document): List<CourseHtml> {
         // Get the list of courses and return as CoursePOJOs
-        return when (syllabusType) {
-            SyllabusType.GY, SyllabusType.GYS ->
-                SyllabusCourseDataExtractor(openDataDocument).getCourseData()
-            SyllabusType.VUXGR ->
+        return when (schoolType) {
+            SchoolType.GY, SchoolType.GYS ->
+                UpperSecondaryCourseDataExtractor(openDataDocument).getCourseData()
+            SchoolType.VUXGR ->
                 VuxCourseDataExtractor(openDataDocument).getCourseData()
-            SyllabusType.GR, SyllabusType.GRS, SyllabusType.GRSPEC, SyllabusType.GRSAM ->
+            SchoolType.GR, SchoolType.GRS, SchoolType.GRSPEC, SchoolType.GRSAM ->
                 CompulsoryCourseDataExtractor(openDataDocument).getCourseData()
-            else -> SyllabusCourseDataExtractor(openDataDocument).getCourseData()
+            else -> UpperSecondaryCourseDataExtractor(openDataDocument).getCourseData()
         }
     }
 }

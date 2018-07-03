@@ -9,19 +9,19 @@ enum class GradeStep {
 }
 
 data class Subject(
-    val name: String,
-    val description: String,
-    val code: String,
-    val designation: String?,
-    val skolfsId: String,
-    val purposes: List<Purpose>,
-    val courses: List<Course>
+        val name: String,
+        val description: String,
+        val code: String,
+        val designation: String?,
+        val skolfsId: String,
+        val purposes: List<Purpose>,
+        val courses: List<Course>
 )
 
 data class Purpose(
-    val type: PurposeType,
-    val heading: String,
-    val lines: List<String>
+        val type: PurposeType,
+        val heading: String,
+        val lines: List<String>
 )
 
 data class Course(
@@ -35,21 +35,21 @@ data class Course(
 )
 
 data class YearGroup(
-    val start: Int?,
-    val end: Int
+        val start: Int?,
+        val end: Int
 )
 
 data class CentralContent(
-    val heading: String,
-    val lines: List<String>
+        val heading: String,
+        val lines: List<String>
 )
 
 data class KnowledgeRequirementParagraph(
-    val heading: String,
-    val knowledgeRequirements: List<KnowledgeRequirement>
+        val heading: String,
+        val knowledgeRequirements: List<KnowledgeRequirement>
 )
 
 data class KnowledgeRequirement(
-    val text: String,
-    val knowledgeRequirementChoice: Map<GradeStep, String>
+        val text: String,
+        val knowledgeRequirementChoice: Map<GradeStep, String>
 )
