@@ -3,7 +3,6 @@ package org.edtech.curriculum
 import com.fasterxml.jackson.databind.ObjectMapper
 import java.io.File
 
-
 class SubjectFileGenerator(private val destDir: File, private val archiveDir: File) {
     /**
      * Generates json files for all syllabi
@@ -11,12 +10,12 @@ class SubjectFileGenerator(private val destDir: File, private val archiveDir: Fi
     fun generateAll() {
         // Generate all curriculum files
         for (syllabusType in SyllabusType.values()) {
-            val subjectDir = File("${destDir.absolutePath}/${syllabusType.name}")
+            val subjectDir = destDir.resolve(syllabusType.name)
             if (!subjectDir.exists()) {
                 subjectDir.mkdirs()
             }
             Syllabus(syllabusType, archiveDir).getSubjects().forEach {
-                writeSubjectToFile(it, File("$subjectDir/${it.code}.json"))
+                writeSubjectToFile(it, subjectDir.resolve("${it.code}.json"))
             }
         }
     }
@@ -30,7 +29,7 @@ class SubjectFileGenerator(private val destDir: File, private val archiveDir: Fi
                     .getSubjects()
                     .map { Pair(it.code, it) }
                     .toMap()
-            val subjectDir = File("${destDir.absolutePath}/${syllabusType.name}")
+            val subjectDir = destDir.resolve(syllabusType.name)
             if (subjectDir.isDirectory) {
                 for (file in subjectDir.listFiles()) {
                     if (!file.name.endsWith(".json")) continue
@@ -56,7 +55,7 @@ class SubjectFileGenerator(private val destDir: File, private val archiveDir: Fi
                 .firstOrNull { it.code == subjectCode }
         if (subject != null) {
 
-            writeSubjectToFile(subject, File("$destDir/$syllabusType/$subjectCode.json"))
+            writeSubjectToFile(subject,  destDir.resolve("/$syllabusType/$subjectCode.json"))
         } else {
             throw RuntimeException("ERROR: cannot find subject $String in syllabus $syllabusType.")
         }

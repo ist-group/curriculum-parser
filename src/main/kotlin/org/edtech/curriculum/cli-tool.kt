@@ -3,7 +3,7 @@ package org.edtech.curriculum
 import java.io.File
 
 fun main(args : Array<String>) {
-    if (args.size > 2) {
+    if (args.size >= 2) {
         when {
             args[0] == "--all" ->
                 SubjectFileGenerator(File(args[1]), if (args.size > 2) {
