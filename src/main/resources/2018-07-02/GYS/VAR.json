@@ -1,0 +1,137 @@
+{
+  "name" : "Vård och omsorg",
+  "description" : "Ämnet vård och omsorg behandlar olika former av service, vård och omsorg av människor som är i behov av stöd i vardagen. Ämnet handlar om vårdtagarens behov samt möjligheter att kunna delta i samhället och i en social gemenskap. Centralt i ämnet är ett etiskt och demokratiskt förhållningssätt.",
+  "code" : "VAR",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet vård och omsorg ska syfta till att eleverna utvecklar kunskaper om olika former av vård och omsorg samt förmåga att utföra arbetsuppgifter inom området.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om samhällets ansvar samt insatser för människor som är i behov av stöd i vardagen för att kunna delta i samhället och i en social gemenskap.", "Eleverna ska ges möjlighet att utveckla kunskaper om den enskilde vårdtagarens livssituation, behov av service, vård och omsorg.", "Undervisningen ska leda till att eleverna utvecklar förmåga att möta samt stödja människor på ett etiskt och demokratiskt sätt." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om olika former av vård- och omsorgsarbete samt den utrustning som används för att utföra arbetet.", "Eleverna ska ges möjlighet att utveckla kunskaper om hygien, smitta och smittspridning.", "Undervisningen ska också bidra till att eleverna utvecklar kunskaper om lagar och andra bestämmelser inom området samt om arbetsmiljön i vård- och omsorgsarbetet.", "Undervisningen ska leda till att eleverna utvecklar förmåga att utföra arbetsuppgifter på ett etiskt, hygieniskt, ergonomiskt och säkert sätt." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Praktiskt arbete och ett problemlösande arbetssätt ska ingå i undervisningen.", "I undervisningen ska eleverna ges möjlighet att reflektera över och samtala om innebörden av ett etiskt och demokratiskt förhållningssätt." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet vård och omsorg ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om olika former av vård- och omsorgsarbete.", "Kunskaper om vårdtagarens behov av stöd i vardagen.", "Kunskaper om hygien, smitta och smittspridning.", "Förmåga att utföra arbetsuppgifter på ett etiskt, hygieniskt, ergonomiskt och säkert sätt." ]
+  } ],
+  "courses" : [ {
+    "name" : "Vård och omsorg 1",
+    "description" : "Kursen vård och omsorg 1 omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "VARVAR51",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika former av service, vård och omsorg i samhället.", "Vårdtagarens behov och livssituation samt möjligheter att delta i samhället och i en social gemenskap, till exempel läsa tidningen, promenera samt träffa släkt och vänner.", "Vårdtagarens integritet och rätt att själv bestämma.", "Personliga omsorgsuppgifter, till exempel beröring, hårtvätt och hjälp vid måltider.", "Sociala aktiviteter för personer i behov av vård och omsorg, till exempel samtal, promenad och högläsning.", "Service för personer i behov av vård och omsorg, till exempel tvätt, städning och inköp.", "Smitta, smittspridning och hygien. Vanliga smittsamma sjukdomar som förkylning och magsjuka.", "Tystnadsplikt i vård- och omsorgsarbetet.", "Kommunikation med och bemötande av personer i behov av vård och omsorg utifrån ett etiskt förhållningssätt.", "Ergonomi och säkerhet i vård- och omsorgsarbete." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva olika former av vård- och omsorgsarbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva olika former av vård- och omsorgsarbete.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> olika former av vård- och omsorgsarbete.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> olika former av vård- och omsorgsarbete."
+        }
+      }, {
+        "text" : "Dessutom <strong>________</strong> eleven i samtal om vårdtagarens behov av stöd i vardagen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom <strong>medverkar</strong> eleven i samtal om vårdtagarens behov av stöd i vardagen.",
+          "C" : "Dessutom samtalar eleven <strong>på ett enkelt sätt</strong> om vårdtagarens behov av stöd i vardagen.",
+          "A" : "Dessutom samtalar eleven <strong>på ett utvecklat sätt</strong> om vårdtagarens behov av stöd i vardagen."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att redogöra för hygien, smitta och smittspridning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att redogöra för hygien, smitta och smittspridning.",
+          "C" : "Eleven redogör också <strong>på ett enkelt sätt</strong> för hygien, smitta och smittspridning.",
+          "A" : "Eleven redogör också <strong>på ett utvecklat sätt</strong> för hygien, smitta och smittspridning."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att utföra arbetsmoment på ett etiskt, hygieniskt, ergonomiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att utföra arbetsmoment på ett etiskt, hygieniskt, ergonomiskt och säkert sätt.",
+          "C" : "Eleven utför också <strong>med tillfredsställande resultat</strong> arbetsmoment på ett etiskt, hygieniskt, ergonomiskt och säkert sätt.",
+          "A" : "Eleven utför också <strong>med gott resultat</strong> arbetsmoment på ett etiskt, hygieniskt, ergonomiskt och säkert sätt."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Vård och omsorg 2",
+    "description" : "Kursen vård och omsorg 2 omfattar punkterna 2–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "VARVAR52",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Personliga omsorgsuppgifter, till exempel beröring, hårtvätt och hjälp vid måltider.", "Äldres livssituation, till exempel boende, hälsa och sociala relationer. Människors åldrande.", "Sociala aktiviteter för personer i behov av vård och omsorg, till exempel samtal, promenad och högläsning.", "Service för personer i behov av vård och omsorg, till exempel tvätt, städning och inköp.", "Hjälpmedel och annan utrustning i vård- och omsorgsarbete, till exempel lyfthjälpmedel, rullator och hörapparat.", "Smitta, smittspridning och hygien.", "Tystnadsplikt i vård- och omsorgsarbetet.", "Kommunikation med och bemötande av personer i behov av vård och omsorg utifrån ett etiskt förhållningssätt.", "Ergonomi och säkerhet i vård- och omsorgsarbete." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i samtal om vårdtagarens behov av stöd i vardagen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i samtal om vårdtagarens behov av stöd i vardagen.",
+          "C" : "Eleven samtalar <strong>på ett enkelt sätt</strong> om vårdtagarens behov av stöd i vardagen.",
+          "A" : "Eleven samtalar <strong>på ett utvecklat sätt</strong> om vårdtagarens behov av stöd i vardagen."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att redogöra för hygien, smitta och smittspridning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att redogöra för hygien, smitta och smittspridning.",
+          "C" : "Eleven redogör också <strong>på ett enkelt sätt</strong> för hygien, smitta och smittspridning.",
+          "A" : "Eleven redogör också <strong>på ett utvecklat sätt</strong> för hygien, smitta och smittspridning."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att utföra arbetsmoment på ett etiskt, hygieniskt, ergonomiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att utföra arbetsmoment på ett etiskt, hygieniskt, ergonomiskt och säkert sätt.",
+          "C" : "Eleven utför också <strong>med tillfredsställande resultat</strong> arbetsmoment på ett etiskt, hygieniskt, ergonomiskt och säkert sätt.",
+          "A" : "Eleven utför också <strong>med gott resultat</strong> arbetsmoment på ett etiskt, hygieniskt, ergonomiskt och säkert sätt."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Vård och omsorg 3",
+    "description" : "Kursen vård och omsorg 3 omfattar punkterna 2–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "VARVAR53",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Fördjupning inom något eller några av ämnets kunskapsområden.", "Vårdtagarens integritet och rätt att själv bestämma.", "Hjälpmedel och annan utrustning i vård- och omsorgsarbete, till exempel lyfthjälpmedel, rullator och hörapparat.", "Smitta, smittspridning och hygien.", "Tystnadsplikt i vård- och omsorgsarbetet.", "Kommunikation med och bemötande av personer i behov av vård och omsorg utifrån ett etiskt förhållningssätt.", "Ergonomi och säkerhet i vård- och omsorgsarbete." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i samtal om vårdtagarens behov av stöd i vardagen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i samtal om vårdtagarens behov av stöd i vardagen.",
+          "C" : "Eleven samtalar <strong>på ett enkelt sätt</strong> om vårdtagarens behov av stöd i vardagen.",
+          "A" : "Eleven samtalar <strong>på ett utvecklat sätt</strong> om vårdtagarens behov av stöd i vardagen."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att redogöra för hygien, smitta och smittspridning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att redogöra för hygien, smitta och smittspridning.",
+          "C" : "Eleven redogör också <strong>på ett enkelt sätt</strong> för hygien, smitta och smittspridning.",
+          "A" : "Eleven redogör också <strong>på ett utvecklat sätt</strong> för hygien, smitta och smittspridning."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att utföra arbetsmoment på ett etiskt, hygieniskt, ergonomiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att utföra arbetsmoment på ett etiskt, hygieniskt, ergonomiskt och säkert sätt.",
+          "C" : "Eleven utför också <strong>med tillfredsställande resultat</strong> arbetsmoment på ett etiskt, hygieniskt, ergonomiskt och säkert sätt.",
+          "A" : "Eleven utför också <strong>med gott resultat</strong> arbetsmoment på ett etiskt, hygieniskt, ergonomiskt och säkert sätt."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

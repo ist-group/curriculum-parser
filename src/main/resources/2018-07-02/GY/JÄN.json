@@ -1,0 +1,267 @@
+{
+  "name" : "Järnvägsteknik",
+  "description" : "Ämnet järnvägsteknik behandlar underhåll, ombyggnation, nybyggnation och felsökning av järnvägsanläggningars el- och signalsystem. I ämnet ställs höga krav på både trafik- och elsäkerhet eftersom det utgör grunden för allt arbete på och bredvid järnvägsanläggningar.",
+  "code" : "JÄN",
+  "designation" : "",
+  "skolfsId" : "2010:158",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet järnvägsteknik ska syfta till att eleverna utvecklar kunskaper i underhåll, installation och reparation av befintliga anläggningar.", "I undervisningen ska eleverna ges möjlighet att utveckla färdigheter i att lösa problem som uppstår under arbetets gång samt i att felsöka och reparera fel i järnvägsanläggningars el- och signalsystem.", "Undervisningen ska bidra till att eleverna utvecklar förståelse av den tekniska utvecklingen inom branschen.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om säkerhet, föreskrifter, standarder och andra bestämmelser inom området." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att arbeta praktiskt och i laborationsmiljö och därigenom utveckla förmåga att använda verktyg och material på rätt sätt.", "Vidare ska undervisningen leda till att eleverna utvecklar förmåga att hantera instrument och dokumentation, till exempel ritningar och arbetsbeskrivningar." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet järnvägsteknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om de olika teknik- och anläggningssystem som finns inom järnvägsbranschen.", "Kunskaper om kontaktledningssystemets uppbyggnad och konstruktion.", "Kunskaper om signalsystemets uppbyggnad och konstruktion.", "Förmåga att planera sitt arbete samt att montera, felsöka och reparera anläggningar.", "Kunskaper om begrepp, föreskrifter, standarder och andra bestämmelser inom området.", "Förmåga att arbeta säkert och förebygga skador på personer och egendom.", "Förmåga att dokumentera sitt arbete." ]
+  } ],
+  "courses" : [ {
+    "name" : "Allmän järnvägsteknik",
+    "description" : "Kursen allmän järnvägsteknik omfattar punkterna 1 och 4–7 under rubriken Ämnets syfte, med särskild betoning på punkt 6. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "JÄNALM0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Uppbyggnad och funktion av teknik- och anläggningssystem inom järnvägsbranschen.", "Föreskrifter om heta arbeten.", "Avstängning av vägar samt regelverket kring säkerhet på väg.", "Vistelse i spårmiljö.", "Arbete med spänning.", "Rutiner för olyckshantering inom järnvägsbranschen.", "Hjärt-lungräddning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för uppbyggnad och funktion av teknik- och anläggningssystem som finns inom järnvägsbranschen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för uppbyggnad och funktion av teknik- och anläggningssystem som finns inom järnvägsbranschen.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för uppbyggnad och funktion av teknik- och anläggningssystem som finns inom järnvägsbranschen.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för uppbyggnad och funktion av teknik- och anläggningssystem som finns inom järnvägsbranschen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare sitt arbete utifrån de begrepp, föreskrifter, standarder och andra bestämmelser som finns inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare sitt arbete utifrån de begrepp, föreskrifter, standarder och andra bestämmelser som finns inom området.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete utifrån de begrepp, föreskrifter, standarder och andra bestämmelser som finns inom området.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete utifrån de begrepp, föreskrifter, standarder och andra bestämmelser som finns inom området."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare <strong>________</strong> montering, felsökning och reparation av teknik- och anläggningssystem inom järnvägsbranschen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare <strong>enkel</strong> montering, felsökning och reparation av teknik- och anläggningssystem inom järnvägsbranschen.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare montering, felsökning och reparation av teknik- och anläggningssystem inom järnvägsbranschen.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare <strong>avancerad</strong> montering, felsökning och reparation av teknik- och anläggningssystem inom järnvägsbranschen."
+        }
+      }, {
+        "text" : "I arbetet väljer eleven <strong>________</strong> material, verktyg, instrument och övrig utrustning avsedd för uppgiften samt använder dem med <strong>________</strong> handlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet väljer eleven <strong>med viss säkerhet</strong> material, verktyg, instrument och övrig utrustning avsedd för uppgiften samt använder dem med <strong>visst</strong> handlag.",
+          "C" : "I arbetet väljer eleven <strong>med viss säkerhet</strong> material, verktyg, instrument och övrig utrustning avsedd för uppgiften samt använder dem med <strong>gott</strong> handlag.",
+          "A" : "I arbetet väljer eleven <strong>med säkerhet</strong> material, verktyg, instrument och övrig utrustning avsedd för uppgiften samt använder dem med <strong>mycket gott</strong> handlag."
+        }
+      }, {
+        "text" : "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt så att skador på personer och egendom förebyggs.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt så att skador på personer och egendom förebyggs.",
+          "C" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt så att skador på personer och egendom förebyggs.",
+          "A" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt så att skador på personer och egendom förebyggs."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Elteknik",
+    "description" : "Kursen elteknik omfattar punkterna 2 och 4–7 under rubriken Ämnets syfte.",
+    "code" : "JÄNELN0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Kontaktledningssystemets uppbyggnad och konstruktion.", "Föreskrifter inom järnvägstekniken.", "Scheman, ritningar och handböcker.", "Statisk och roterande omformarteknik.", "Montage- och pressverktyg.", "Handhavande av de vanligaste hydraul- och tryckluftsverktygen vid kontaktledningsmontage.", "Hantering av kontaktledningsmaterial.", "Hjälpmedel för att avlasta ledningar vid byte av utliggare och liknande arbeten.", "Kraftverkan i strävor och stag som uppkommer vid avspänningar.", "Jordning i kontaktledningsanläggningar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för kontaktledningssystemets uppbyggnad och konstruktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för kontaktledningssystemets uppbyggnad och konstruktion.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för kontaktledningssystemets uppbyggnad och konstruktion.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för kontaktledningssystemets uppbyggnad och konstruktion."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare sitt arbete utifrån de begrepp, föreskrifter, standarder och andra bestämmelser som finns inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare sitt arbete utifrån de begrepp, föreskrifter, standarder och andra bestämmelser som finns inom området.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete utifrån de begrepp, föreskrifter, standarder och andra bestämmelser som finns inom området.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete utifrån de begrepp, föreskrifter, standarder och andra bestämmelser som finns inom området."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare <strong>________</strong> montering, felsökning och reparation av kontaktledningsanläggningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare <strong>enkel</strong> montering, felsökning och reparation av kontaktledningsanläggningar.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare montering, felsökning och reparation av kontaktledningsanläggningar.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare <strong>avancerad</strong> montering, felsökning och reparation av kontaktledningsanläggningar."
+        }
+      }, {
+        "text" : "I arbetet väljer eleven <strong>________</strong> material, verktyg, instrument och övrig utrustning avsedd för uppgiften samt använder dem med <strong>________</strong> handlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet väljer eleven <strong>med viss säkerhet</strong> material, verktyg, instrument och övrig utrustning avsedd för uppgiften samt använder dem med <strong>visst</strong> handlag.",
+          "C" : "I arbetet väljer eleven <strong>med viss säkerhet</strong> material, verktyg, instrument och övrig utrustning avsedd för uppgiften samt använder dem med <strong>gott</strong> handlag.",
+          "A" : "I arbetet väljer eleven <strong>med säkerhet</strong> material, verktyg, instrument och övrig utrustning avsedd för uppgiften samt använder dem med <strong>mycket gott</strong> handlag."
+        }
+      }, {
+        "text" : "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt så att skador på personer och egendom förebyggs.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt så att skador på personer och egendom förebyggs.",
+          "C" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt så att skador på personer och egendom förebyggs.",
+          "A" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt så att skador på personer och egendom förebyggs."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 300,
+    "year" : null
+  }, {
+    "name" : "Signalteknik",
+    "description" : "Kursen signalteknik omfattar punkterna 3–7 under rubriken Ämnets syfte.",
+    "code" : "JÄNSIG0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Automatic train control-systemets uppbyggnad och konstruktion.", "Grundläggande trafikeringsregler och signalering.", "Signaltekniska grundbegrepp samt deras definitioner.", "Regler om signalarbete samt begreppet signalsäkerhetskontrollant.", "Föreskrifter om arbete med spänning.", "Montering och underhåll av de vanligast förekommande signalsäkerhetsobjekten på bangårdar.", "Montering, injustering och skarvning av spårledningskretsar.", "Skarvning och terminering av förekommande kabeltyper.", "Funktion och felavhjälpning av vägskydd på linjen.", "Jordning i signalanläggningar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för signalsystemets uppbyggnad och konstruktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för signalsystemets uppbyggnad och konstruktion.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för signalsystemets uppbyggnad och konstruktion.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för signalsystemets uppbyggnad och konstruktion."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare sitt arbete utifrån de begrepp, föreskrifter, standarder och andra bestämmelser som finns inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare sitt arbete utifrån de begrepp, föreskrifter, standarder och andra bestämmelser som finns inom området.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete utifrån de begrepp, föreskrifter, standarder och andra bestämmelser som finns inom området.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete utifrån de begrepp, föreskrifter, standarder och andra bestämmelser som finns inom området."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare <strong>________</strong> montering, felsökning och reparation av signalanläggningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare <strong>enkel</strong> montering, felsökning och reparation av signalanläggningar.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare montering, felsökning och reparation av signalanläggningar.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare <strong>avancerad</strong> montering, felsökning och reparation av signalanläggningar."
+        }
+      }, {
+        "text" : "I arbetet väljer eleven <strong>________</strong> material, verktyg, instrument och övrig utrustning avsedd för uppgiften samt använder dem med <strong>________</strong> handlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet väljer eleven <strong>med viss säkerhet</strong> material, verktyg, instrument och övrig utrustning avsedd för uppgiften samt använder dem med <strong>visst</strong> handlag.",
+          "C" : "I arbetet väljer eleven <strong>med viss säkerhet</strong> material, verktyg, instrument och övrig utrustning avsedd för uppgiften samt använder dem med <strong>gott</strong> handlag.",
+          "A" : "I arbetet väljer eleven <strong>med säkerhet</strong> material, verktyg, instrument och övrig utrustning avsedd för uppgiften samt använder dem med <strong>mycket gott</strong> handlag."
+        }
+      }, {
+        "text" : "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt så att skador på personer och egendom förebyggs.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt så att skador på personer och egendom förebyggs.",
+          "C" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt så att skador på personer och egendom förebyggs.",
+          "A" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt så att skador på personer och egendom förebyggs."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 300,
+    "year" : null
+  } ]
+}

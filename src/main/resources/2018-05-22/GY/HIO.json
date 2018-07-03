@@ -1,0 +1,385 @@
+{
+  "name" : "Hippologi",
+  "description" : "Ämnet hippologi behandlar hästen som biologisk varelse, samspelet mellan häst och människa samt hästens användning inom till exempel hästsport, fritidsverksamhet, rehabilitering och natur- och landskapsvård. Ämnet behandlar också hästens domesticering och historiska utveckling och användning. I ämnet ingår hästens etologi, anatomi, fysiologi, näringsbehov, hälsa samt reproduktion och avel. Dessutom behandlas etiska ställningstaganden samt lagar och andra bestämmelser som reglerar hästhållning.",
+  "code" : "HIO",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet hippologi ska syfta till att eleverna utvecklar kunskaper för vidare naturvetenskapliga studier inom de vetenskapsområden som rör djur.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hästens biologi och naturliga beteende.", "Undervisningen ska bidra till att eleverna utvecklar förmåga att iaktta och tolka hästars beteende, utveckling, välmående och hälsa.", "Undervisningen ska också bidra till att eleverna utvecklar kunskaper om hästens träning och träningsfysiologi samt kunskaper om samspelet mellan människa och häst." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna kan analysera och värdera etiska frågor och ställningstaganden kring hästhållning ur både naturvetenskapligt och samhällsvetenskapligt perspektiv." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska innefatta naturvetenskapliga arbetsmetoder som att formulera och söka svar på frågor, göra systematiska observationer, planera och utföra experiment och fältstudier samt bearbeta, tolka och kritiskt granska resultat och information.", "I undervisningen ska eleverna ges tillfälle att presentera och argumentera kring resultat och slutsatser.", "Eleverna ska även ges möjligheter att använda datorstödd utrustning för insamling, simulering, beräkning, bearbetning och presentation av data." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet hippologi ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om hästen som biologisk varelse omfattande etologi, anatomi och fysiologi, näringsbehov, hälsa samt reproduktion och avel. Kunskaper om vilka krav på miljön hästen som biologisk varelse ställer.", "Kunskaper om samspelet mellan människa och häst samt hästens roll i samhället.", "Förmåga att iaktta och tolka hästars utveckling, rörelse, utseende och beteende.", "Förmåga att använda begrepp, tillämpa teorier, modeller och metoder inom hippologi.", "Förmåga att analysera och söka svar på ämnesrelaterade frågor samt att identifiera, formulera och lösa problem. Förmåga att reflektera över och värdera valda strategier, metoder och resultat.", "Förmåga att planera, genomföra, tolka och redovisa fältstudier, experiment och observationer samt förmåga att hantera det material och den utrustning som används.", "Kunskaper om lagar och andra bestämmelser som rör hästar." ]
+  } ],
+  "courses" : [ {
+    "name" : "Hippologi – anatomi och fysiologi",
+    "description" : "Kursen hippologi – anatomi och fysiologi omfattar punkterna 1–7 under rubriken Ämnets syfte, med betoning på hästens näringsfysiologi, utfodring och träningsfysiologi. ",
+    "code" : "HIOHIP0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Hästens exteriör och signalement.", "Hästens anatomi och fysiologi. Organsystem och deras byggnad, funktion och samspel hos hästen. Hormonsystemets och nervsystemets reglering av hästen. Hovens anatomi och fysiologi. Hästens tillväxt och utveckling från föl till fullvuxen individ. Hästens rörelsemekanik.", "Näringsfysiologi, näringslära och hästens utfodring.", "Fodermedel, sammansättning, sorter, kvalitet och hygien samt foderstater.", "Grovfoder från vall till utfodring, näringsinnehåll och foderkvalitet.", "Kraftfoder, sammansättning, näringsämnenas funktion och kvalitet.", "Strömedel, funktion, kvalitet och sammansättning.", "Olika raser och rasegenskaper samt deras användningsområden.", "Hästens reaktion på träning – träningsfysiologi.", "Begrepp, teorier, modeller och metoder inom kunskapsområdet och hur dessa har vuxit fram.", "Planering, genomförande och utvärdering av experiment och undersökningar. Prövning av hypoteser. Analys av metodval, arbetsprocess och felkällor.", "Naturvetenskapliga presentationer, till exempel rapporter, reportage och seminarier.", "Lagar och andra bestämmelser, till exempel djurskydds-, arbetsmiljö- och miljölagstiftning relevant för verksamheten." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för hästen som biologisk varelse och för samspelet mellan människa och häst.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för hästen som biologisk varelse och för samspelet mellan människa och häst.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för hästen som biologisk varelse och för samspelet mellan människa och häst.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för hästen som biologisk varelse och för samspelet mellan människa och häst."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven iakttar och tolkar hästars utveckling, rörelse och utseende med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven iakttar och tolkar hästars utveckling, rörelse och utseende med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven iakttar och tolkar hästars utveckling, rörelse och utseende med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven iakttar och tolkar hästars utveckling, rörelse och utseende med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "Eleven analyserar och söker svar på <strong>________</strong> frågor med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven analyserar och söker svar på <strong>enkla</strong> frågor med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven analyserar och söker svar på frågor med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven analyserar och söker svar på <strong>komplexa</strong> frågor med <strong>gott</strong> resultat."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> begrepp, modeller, teorier och arbetsmetoder för att söka svar på frågor samt för att beskriva och <strong>________</strong> företeelser inom hästens anatomi och fysiologi.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> begrepp, modeller, teorier och arbetsmetoder för att söka svar på frågor samt för att beskriva och <strong>exemplifiera</strong> företeelser inom hästens anatomi och fysiologi.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> begrepp, modeller, teorier och arbetsmetoder för att söka svar på frågor och för att beskriva och <strong>exemplifiera</strong> företeelser inom hästens anatomi och fysiologi.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> begrepp, modeller, teorier och arbetsmetoder för att söka svar på frågor samt för att beskriva och <strong>generalisera kring</strong> företeelser inom hästens anatomi och fysiologi."
+        }
+      }, {
+        "text" : "Utifrån <strong>________</strong> exempel redogör eleven <strong>________</strong> för hur modeller och teorier inom området utvecklas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Utifrån <strong>något</strong> exempel redogör eleven <strong>översiktligt</strong> för hur modeller och teorier inom området utvecklas.",
+          "C" : "Utifrån <strong>några</strong> exempel redogör eleven <strong>utförligt</strong> för hur modeller och teorier inom området utvecklas.",
+          "A" : "Utifrån <strong>flera</strong> exempel redogör eleven <strong>utförligt och nyanserat</strong> för hur modeller och teorier inom området utvecklas."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och genomför <strong>________</strong> med handledare fältstudier och undersökande arbete på ett tillfredsställande sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och genomför <strong>i samråd</strong> med handledare fältstudier och undersökande arbete på ett tillfredsställande sätt.",
+          "C" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare fältstudier och undersökande arbete på ett tillfredsställande sätt.",
+          "A" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare fältstudier och undersökande arbete på ett tillfredsställande sätt."
+        }
+      }, {
+        "text" : "I arbetet hanterar eleven hästar, material och utrustning på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet hanterar eleven hästar, material och utrustning på ett säkert sätt.",
+          "C" : "I arbetet hanterar eleven hästar, material och utrustning på ett säkert sätt.",
+          "A" : "Dessutom hanterar eleven hästar, material och utrustning på ett säkert sätt."
+        }
+      }, {
+        "text" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>________</strong> omdömen och motiverar sina slutsatser med <strong>________</strong> resonemang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>enkla</strong> omdömen och motiverar sina slutsatser med <strong>enkla</strong> resonemang.",
+          "C" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>nyanserade</strong> omdömen och motiverar sina slutsatser med <strong>välgrundade</strong> resonemang.",
+          "A" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>nyanserade</strong> omdömen och motiverar sina slutsatser med <strong>välgrundade och nyanserade</strong> resonemang. <strong>Vid behov föreslår eleven också förändringar</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven diskuterar <strong>________</strong> frågor som rör hippologi.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> frågor som rör hippologi.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> frågor som rör hippologi.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat komplexa</strong> frågor som rör hippologi."
+        }
+      }, {
+        "text" : "I diskussionerna för eleven fram <strong>________</strong> argument och redogör <strong>________</strong> för konsekvenser av <strong>________</strong> tänkbart ställningstagande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I diskussionerna för eleven fram <strong>enkla</strong> argument och redogör <strong>översiktligt</strong> för konsekvenser av <strong>något</strong> tänkbart ställningstagande.",
+          "C" : "I diskussionerna för eleven fram <strong>välgrundade</strong> argument och redogör <strong>utförligt</strong> för konsekvenser av <strong>några</strong> tänkbara ställningstaganden.",
+          "A" : "I diskussionerna för eleven fram <strong>välgrundade och nyanserade</strong> argument och redogör <strong>utförligt och nyanserat</strong> för konsekvenser av <strong>flera</strong> tänkbara ställningstaganden. <strong>Eleven föreslår också nya frågeställningar att diskutera</strong>."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> naturvetenskapliga uttrycks- och presentationsformer och anpassar till <strong>________</strong> del sin kommunikation till syfte och sammanhang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> naturvetenskapliga uttrycks- och presentationsformer och anpassar till <strong>viss</strong> del sin kommunikation till syfte och sammanhang.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> naturvetenskapliga uttrycks- och presentationsformer och anpassar till <strong>stor</strong> del sin kommunikation till syfte och sammanhang.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> naturvetenskapliga uttrycks- och presentationsformer och anpassar till <strong>stor</strong> del sin kommunikation till syfte och sammanhang."
+        }
+      }, {
+        "text" : "Dessutom använder eleven olika typer av källor och gör <strong>________</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven olika typer av källor och gör <strong>enkla</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+          "C" : "Dessutom använder eleven olika typer av källor och gör <strong>välgrundade</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+          "A" : "Dessutom använder eleven olika typer av källor och gör <strong>välgrundade och nyanserade</strong> bedömningar av informationens och källornas trovärdighet och relevans."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Hippologi – avel och hästens hälsa",
+    "description" : "Kursen hippologi – avel och hästens hälsa omfattar punkterna 1–7 under rubriken Ämnets syfte, med betoning på avelsarbete och hästens hälsa. ",
+    "code" : "HIOHIO0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Reproduktionsbiologi, genetik och nedärvning av olika egenskaper.", "Avelsarbete.", "Hästens hälsa, hälsofrämjande åtgärder som val av foder, träningsmetoder för muskeluppbyggnad och smittskydd.", "Mikroorganismer och virus som förorsakar sjukdomar hos hästen, sjukdomssymtom och behandling.", "Smittspridning, smittskydd och hygien samt förebyggande hälsovård.", "Skador, hästens reaktion på skador och lämpliga behandlingsmetoder.", "Observationer av hästars välbefinnande och hälsa.", "Veterinärmedicinska termer och begrepp, teorier, modeller och metoder inom kunskapsområdet och hur dessa har vuxit fram.", "Naturvetenskapliga presentationer, till exempel rapporter, reportage och seminarier.", "Lagar och andra bestämmelser, till exempel djurskydds-, arbetsmiljö- och miljölagstiftning relevant för verksamheten." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för hästen som biologisk varelse och för samspelet mellan människa och häst.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för hästen som biologisk varelse och för samspelet mellan människa och häst.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för hästen som biologisk varelse och för samspelet mellan människa och häst.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för hästen som biologisk varelse och för samspelet mellan människa och häst."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven iakttar, undersöker och tolkar hästars välbefinnande och hälsa med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven iakttar, undersöker och tolkar hästars välbefinnande och hälsa med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven iakttar och tolkar hästars utveckling, rörelse och utseende med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven iakttar och tolkar hästars utveckling, rörelse och utseende med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "Eleven analyserar och söker svar på <strong>________</strong> frågor med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven analyserar och söker svar på <strong>enkla</strong> frågor med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven analyserar och söker svar på frågor med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven analyserar och söker svar på <strong>komplexa</strong> frågor med <strong>gott</strong> resultat."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> begrepp, modeller, teorier och arbetsmetoder för att söka svar på frågor samt för att beskriva och <strong>________</strong> företeelser inom hästavel och hästars hälsa.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> begrepp, modeller, teorier och arbetsmetoder för att söka svar på frågor samt för att beskriva och <strong>exemplifiera</strong> företeelser inom hästavel och hästars hälsa.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> begrepp, modeller, teorier och arbetsmetoder för att söka svar på frågor och för att beskriva och <strong>exemplifiera</strong> företeelser inom hästavel och hästars hälsa.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> begrepp, modeller, teorier och arbetsmetoder för att söka svar på frågor samt för att beskriva och <strong>generalisera kring</strong> företeelser inom hästavel och hästars hälsa."
+        }
+      }, {
+        "text" : "Utifrån <strong>________</strong> exempel redogör eleven <strong>________</strong> för hur modeller och teorier inom området utvecklas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Utifrån <strong>något</strong> exempel redogör eleven <strong>översiktligt</strong> för hur modeller och teorier inom området utvecklas.",
+          "C" : "Utifrån <strong>några</strong> exempel redogör eleven <strong>utförligt</strong> för hur modeller och teorier inom området utvecklas.",
+          "A" : "Utifrån <strong>flera</strong> exempel redogör eleven <strong>utförligt och nyanserat</strong> för hur modeller och teorier inom området utvecklas."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och genomför <strong>________</strong> med handledare fältstudier och undersökande arbete på ett tillfredsställande sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och genomför <strong>i samråd</strong> med handledare fältstudier och undersökande arbete på ett tillfredsställande sätt.",
+          "C" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare fältstudier och undersökande arbetet på ett tillfredsställande sätt.",
+          "A" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare fältstudier och undersökande arbete på ett tillfredsställande sätt."
+        }
+      }, {
+        "text" : "I arbetet hanterar eleven hästar, material och utrustning på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet hanterar eleven hästar, material och utrustning på ett säkert sätt.",
+          "C" : "I arbetet hanterar eleven hästar, material och utrustning på ett säkert sätt.",
+          "A" : "Dessutom hanterar eleven hästar, material och utrustning på ett säkert sätt."
+        }
+      }, {
+        "text" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>________</strong> omdömen och motiverar sina slutsatser med <strong>________</strong> resonemang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>enkla</strong> omdömen och motiverar sina slutsatser med <strong>enkla</strong> resonemang.",
+          "C" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>nyanserade</strong> omdömen och motiverar sina slutsatser med <strong>välgrundade</strong> resonemang.",
+          "A" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>nyanserade</strong> omdömen och motiverar sina slutsatser med <strong>välgrundade och nyanserade</strong> resonemang. <strong>Vid behov föreslår eleven också förändringar</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven diskuterar <strong>________</strong> frågor inom hästavel och hästars hälsa.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> frågor inom hästavel och hästars hälsa.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> frågor som rör hästavel och hästars hälsa.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat komplexa</strong> frågor som rör hästavel och hästars hälsa."
+        }
+      }, {
+        "text" : "I diskussionerna för eleven fram <strong>________</strong> argument och redogör <strong>________</strong> för konsekvenser av <strong>________</strong> tänkbart ställningstagande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I diskussionerna för eleven fram <strong>enkla</strong> argument och redogör <strong>översiktligt</strong> för konsekvenser av <strong>något</strong> tänkbart ställningstagande.",
+          "C" : "I diskussionerna för eleven fram <strong>välgrundade</strong> argument och redogör <strong>utförligt</strong> för konsekvenser av <strong>några</strong> tänkbara ställningstaganden.",
+          "A" : "I diskussionerna för eleven fram <strong>välgrundade och nyanserade</strong> argument och redogör <strong>utförligt och nyanserat</strong> för konsekvenser av <strong>flera</strong> tänkbara ställningstaganden. <strong>Eleven föreslår också nya frågeställningar att diskutera</strong>."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> naturvetenskapliga uttrycks- och presentationsformer och anpassar till <strong>________</strong> del sin kommunikation till syfte och sammanhang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> naturvetenskapliga uttrycks- och presentationsformer och anpassar till <strong>viss</strong> del sin kommunikation till syfte och sammanhang.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> naturvetenskapliga uttrycks- och presentationsformer och anpassar till <strong>stor</strong> del sin kommunikation till syfte och sammanhang.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> naturvetenskapliga uttrycks- och presentationsformer och anpassar till <strong>stor</strong> del sin kommunikation till syfte och sammanhang."
+        }
+      }, {
+        "text" : "Dessutom använder eleven olika typer av källor och gör <strong>________</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven olika typer av källor och gör <strong>enkla</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+          "C" : "Dessutom använder eleven olika typer av källor och gör <strong>välgrundade</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+          "A" : "Dessutom använder eleven olika typer av källor och gör <strong>välgrundade och nyanserade</strong> bedömningar av informationens och källornas trovärdighet och relevans."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Hippologi – etologi",
+    "description" : "Kursen hippologi – etologi omfattar punkterna 1–7 under rubriken Ämnets syfte, med betoning på hästens etologi och samspelet mellan människa och häst. ",
+    "code" : "HIOHIL0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Hästens ursprung, hästens domesticering, dagens hästraser, deras exteriör och signalement samt hästens evolution.", "Biologisk fördjupning inom vetenskapsområdet etologi med utgångspunkt från hästens etologi samt jämförande studier inom området.", "Organisationer inom hästnäringen, hästens ekonomiska och sociala betydelse i dagens samhälle samt hästens historiska användning och betydelse.", "Diskussioner om hästens betydelse i dagens och morgondagens samhälle. Utvecklingtendenser, hinder och möjligheter.", "Tolkning av hästens beteende med utgångspunkt från kunskaper i etologi. Samspel mellan människa och häst. Hantering av hästar.", "Begrepp, teorier, modeller och metoder inom kunskapsområdet och hur dessa har vuxit fram.", "Källkritisk granskning, tolkning och värdering av information från olika medier och källor.", "Planering och genomförande av fältstudier och observationer inom etologi samt formulering och prövning av hypoteser i samband med detta.", "Naturvetenskapliga presentationer, till exempel rapporter, reportage och seminarier.", "Lagar och andra bestämmelser, till exempel djurskydds-, arbetsmiljö- och miljölagstiftning samt lagstiftning som rör lastning och transport av hästar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för hästen som biologisk varelse samt för hästens roll i samhället.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för hästen som biologisk varelse samt för hästens roll i samhället.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för hästen som biologisk varelse samt för hästens roll i samhället.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för hästen som biologisk varelse samt för hästens roll i samhället."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven iakttar och tolkar hästars beteende med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven iakttar och tolkar hästars beteende med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven iakttar och tolkar hästars beteende med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven iakttar och tolkar hästars beteende med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "Eleven analyserar och söker svar på <strong>________</strong> frågor med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven analyserar och söker svar på <strong>enkla</strong> frågor med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven analyserar och söker svar på frågor med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven analyserar och söker svar på <strong>komplexa</strong> frågor med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> begrepp, modeller, teorier och arbetsmetoder för att söka svar på frågor samt för att beskriva och <strong>________</strong> företeelser inom etologi.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> begrepp, modeller, teorier och arbetsmetoder för att söka svar på frågor samt för att beskriva och <strong>exemplifiera</strong> företeelser inom etologi.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> begrepp, modeller, teorier och arbetsmetoder för att söka svar på frågor och för att beskriva och <strong>exemplifiera</strong> företeelser inom etologi.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> begrepp, modeller, teorier och arbetsmetoder för att söka svar på frågor samt för att beskriva och <strong>generalisera kring</strong> företeelser inom etologi."
+        }
+      }, {
+        "text" : "Utifrån <strong>________</strong> exempel redogör eleven <strong>________</strong> för hur modeller och teorier inom området utvecklas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Utifrån <strong>något</strong> exempel redogör eleven <strong>översiktligt</strong> för hur modeller och teorier inom området utvecklas.",
+          "C" : "Utifrån <strong>några</strong> exempel redogör eleven <strong>utförligt</strong> för hur modeller och teorier inom området utvecklas.",
+          "A" : "Utifrån <strong>flera</strong> exempel redogör eleven <strong>utförligt och nyanserat</strong> för hur modeller och teorier inom området utvecklas."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och genomför <strong>________</strong> med handledare fältstudier och undersökande arbete på ett tillfredsställande sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och genomför <strong>i samråd</strong> med handledare fältstudier och undersökande arbete på ett tillfredsställande sätt.",
+          "C" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare fältstudier och undersökande arbete på ett tillfredsställande sätt.",
+          "A" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare fältstudier och undersökande arbete på ett tillfredsställande sätt."
+        }
+      }, {
+        "text" : "I arbetet hanterar eleven hästar, material och utrustning på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet hanterar eleven hästar, material och utrustning på ett säkert sätt.",
+          "C" : "I arbetet hanterar eleven hästar, material och utrustning på ett säkert sätt.",
+          "A" : "Dessutom hanterar eleven hästar, material och utrustning på ett säkert sätt."
+        }
+      }, {
+        "text" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>________</strong> omdömen och motiverar sina slutsatser med <strong>________</strong> resonemang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>enkla</strong> omdömen och motiverar sina slutsatser med <strong>enkla</strong> resonemang.",
+          "C" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>nyanserade</strong> omdömen och motiverar sina slutsatser med <strong>välgrundade</strong> resonemang.",
+          "A" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>nyanserade</strong> omdömen och motiverar sina slutsatser med <strong>välgrundade och nyanserade</strong> resonemang. <strong>Vid behov föreslår eleven också förändringar</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven diskuterar <strong>________</strong> frågor som rör hippologi.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> frågor som rör hippologi.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> frågor som rör hippologi.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat komplexa</strong> frågor som rör hippologi."
+        }
+      }, {
+        "text" : "I diskussionerna för eleven fram <strong>________</strong> argument och redogör <strong>________</strong> för konsekvenser av <strong>________</strong> tänkbart ställningstagande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I diskussionerna för eleven fram <strong>enkla</strong> argument och redogör <strong>översiktligt</strong> för konsekvenser av <strong>något</strong> tänkbart ställningstagande.",
+          "C" : "I diskussionerna för eleven fram <strong>välgrundade</strong> argument och redogör <strong>utförligt</strong> för konsekvenser av <strong>några</strong> tänkbara ställningstaganden.",
+          "A" : "I diskussionerna för eleven fram <strong>välgrundade och nyanserade</strong> argument och redogör <strong>utförligt och nyanserat</strong> för konsekvenser av <strong>flera</strong> tänkbara ställningstaganden. <strong>Eleven föreslår också nya frågeställningar att diskutera</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> vetenskapliga uttrycks- och presentationsformer och anpassar till <strong>________</strong> del sin kommunikation till syfte och sammanhang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> vetenskapliga uttrycks- och presentationsformer och anpassar till <strong>viss</strong> del sin kommunikation till syfte och sammanhang.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> vetenskapliga uttrycks- och presentationsformer och anpassar till <strong>stor</strong> del sin kommunikation till syfte och sammanhang.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> vetenskapliga uttrycks- och presentationsformer och anpassar till <strong>stor</strong> del sin kommunikation till syfte och sammanhang."
+        }
+      }, {
+        "text" : "Dessutom använder eleven olika typer av källor och gör <strong>________</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven olika typer av källor och gör <strong>enkla</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+          "C" : "Dessutom använder eleven olika typer av källor och gör <strong>välgrundade</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+          "A" : "Dessutom använder eleven olika typer av källor och gör <strong>välgrundade och nyanserade</strong> bedömningar av informationens och källornas trovärdighet och relevans."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

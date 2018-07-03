@@ -1,0 +1,141 @@
+{
+  "name" : "Industriell produktion",
+  "description" : "Ämnet industriell produktion behandlar produktionen inom industrin. Ämnet handlar om produktions- och arbetsprocessen samt om driftens krav på skötsel och underhåll. Centralt i ämnet är arbetsmiljö och säkerhet.",
+  "code" : "INE",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet industriell produktion ska syfta till att eleverna utvecklar kunskaper om produktion inom industrin samt förmåga att utföra arbetsuppgifter inom drift och underhåll.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om produktions- och arbetsprocessen, från idé till färdig produkt.", "Eleverna ska också ges möjlighet att utveckla kunskaper om industrin i ett historiskt, nationellt och internationellt perspektiv.", "Undervisningen ska bidra till att eleverna utvecklar kunskaper om industrins användning av naturresurser och påverkan på miljön.", "Genom undervisningen ska eleverna ges möjlighet att utveckla förståelse av vad det innebär att arbeta inom industriell verksamhet." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om metoder, tekniker och säkerhetssystem som tillämpas inom industriell verksamhet.", "Undervisningen ska bidra till att eleverna utvecklar kunskaper om skötsel och underhåll av material och utrustning.", "Eleverna ska också ges möjlighet att utveckla förståelse av underhållsarbetets betydelse för optimal drift och produktionens kvalitet.", "Vidare ska undervisningen bidra till att eleverna utvecklar förståelse för individens och arbetslagets betydelse och ansvar inom produktionen.", "Undervisningen ska leda till att eleverna utvecklar förmåga att utföra olika arbetsuppgifter inom drift och underhåll." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Eleverna ska också ges möjlighet att utveckla kunskaper om arbetsmiljö och säkerhet.", "Det kan handla om brand och elsäkerhet, olycksrisker och förebyggande åtgärder samt skyddsutrustning.", "Eleverna ska ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser inom området.", "Undervisningen ska också bidra till att eleverna utvecklar förståelse om återvinningens och avfallshanteringens betydelse för en hållbar utveckling." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Praktiskt arbete och fältstudier ska ingå i undervisningen.", "I undervisningen ska eleverna ges möjlighet att reflektera över samt samtala om säkerhet, arbetsmiljö, miljöhänsyn och hållbar utveckling." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet industriell produktion ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om produktions- och arbetsprocesser inom industriell verksamhet.", "Förståelse av vad det innebär att arbeta inom industriell verksamhet.", "Kunskaper om tekniker, metoder och säkerhetssystem inom industriell produktion.", "Förmåga att utföra arbetsuppgifter inom drift och underhåll på ett ergonomiskt och säkert sätt samt med hänsyn till miljön." ]
+  } ],
+  "courses" : [ {
+    "name" : "Industriell produktion 1",
+    "description" : "Kursen industriell produktion 1 omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "INEIND51",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Industriell produktion, historiskt, nationellt och internationellt.", "Industrins roll och betydelse i samhället.", "Produktions- och arbetsprocessen, från idé till färdig produkt.", "Verktyg och annan teknisk utrustning inom industriell produktion.", "Säkerhetssystem.", "Arbetsuppgifter inom drift.", "Arbetsmiljö och säkerhet. Säkerheten kring produktionen, till exempel säkerhet runt maskiner, hantering av kemikalier, varma och heta objekt.", "Brandskydd, elsäkerhet och första hjälpen.", "Lagar och andra bestämmelser, till exempel arbetsmiljölagen och miljölagar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva produktions- och arbetsprocesser inom industriell verksamhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva produktions- och arbetsprocesser inom industriell verksamhet.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> produktions- och arbetsprocesser inom industriell verksamhet.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> produktions- och arbetsprocesser inom industriell verksamhet."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i samtal om vad det innebär att arbeta inom industriell verksamhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i samtal om vad det innebär att arbeta inom industriell verksamhet.",
+          "C" : "Eleven samtalar om vad det innebär att arbeta inom industriell verksamhet <strong>på ett sätt som till viss del för samtalet framåt</strong>.",
+          "A" : "Eleven samtalar om vad det innebär att arbeta inom industriell verksamhet <strong>på ett sätt som för samtalet framåt</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att beskriva tekniker, metoder och säkerhetssystem inom industriell produktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att beskriva tekniker, metoder och säkerhetssystem inom industriell produktion.",
+          "C" : "Eleven beskriver också <strong>på ett enkelt sätt</strong> tekniker, metoder och säkerhetssystem inom industriell produktion.",
+          "A" : "Eleven beskriver också <strong>på ett utvecklat sätt</strong> tekniker, metoder och säkerhetssystem inom industriell produktion."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> dessutom i att utföra arbetsmoment inom drift och underhåll på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> dessutom i att utföra arbetsmoment inom drift och underhåll på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "C" : "Eleven utför dessutom <strong>med tillfredsställande resultat</strong> arbetsmoment inom drift och underhåll på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "A" : "Eleven utför dessutom <strong>med gott resultat</strong> arbetsmoment inom drift och underhåll på ett ergonomiskt och säkert sätt samt med hänsyn till miljön."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Industriell produktion 2",
+    "description" : "Kursen industriell produktion 2 omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "INEIND52",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Produktions- och arbetsprocessen, från idé till färdig produkt.", "Industrins användning av naturresurser och påverkan på miljön.", "Verktyg och annan teknisk utrustning inom industriell produktion.", "Metoder, tekniker och säkerhetssystem.", "Arbetsuppgifter inom drift.", "Arbetsmiljö och säkerhet. Säkerheten kring produktionen, till exempel säkerhet runt maskiner, hantering av kemikalier, varma och heta objekt.", "Brandskydd, elsäkerhet och första hjälpen.", "Lagar och andra bestämmelser, till exempel arbetsmiljölagen och miljölagar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i samtal om vad det innebär att arbeta inom industriell verksamhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i samtal om vad det innebär att arbeta inom industriell verksamhet.",
+          "C" : "Eleven samtalar om vad det innebär att arbeta inom industriell verksamhet <strong>på ett sätt som till viss del för samtalet framåt</strong>.",
+          "A" : "Eleven samtalar om vad det innebär att arbeta inom industriell verksamhet <strong>på ett sätt som för samtalet framåt</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att beskriva tekniker, metoder och säkerhetssystem inom industriell produktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att beskriva tekniker, metoder och säkerhetssystem inom industriell produktion.",
+          "C" : "Eleven beskriver också <strong>på ett enkelt sätt</strong> tekniker, metoder och säkerhetssystem inom industriell produktion.",
+          "A" : "Eleven beskriver också <strong>på ett utvecklat sätt</strong> tekniker, metoder och säkerhetssystem inom industriell produktion."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> dessutom i att utföra arbetsmoment inom drift och underhåll på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> dessutom i att utföra arbetsmoment inom drift och underhåll på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "C" : "Eleven utför dessutom <strong>med tillfredsställande resultat</strong> arbetsmoment inom drift och underhåll på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "A" : "Eleven utför dessutom <strong>med gott resultat</strong> arbetsmoment inom drift och underhåll på ett ergonomiskt och säkert sätt samt med hänsyn till miljön."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Industriell produktion 3",
+    "description" : "Kursen industriell produktion 3 omfattar punkterna 1–4 under rubriken Ämnets syfte, med särskild betoning på punkt 3. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "INEIND53",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Produktions- och arbetsprocessen, från idé till färdig produkt.", "Industrins användning av naturresurser och påverkan på miljön.", "Verktyg och annan teknisk utrustning inom industriell produktion. Konstruktion, funktion och användningsområden.", "Metoder, tekniker och säkerhetssystem.", "Funktionskontroller, skötsel och underhåll av produktions- och kringutrustning.", "Arbetsuppgifter inom drift och underhåll.", "Arbetsmiljö och säkerhet. Säkerheten kring produktionen, till exempel säkerhet runt maskiner, hantering av kemikalier, varma och heta objekt.", "Brandskydd, elsäkerhet och första hjälpen.", "Lagar och andra bestämmelser, till exempel arbetsmiljölagen och miljölagar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i samtal om vad det innebär att arbeta inom industriell verksamhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i samtal om vad det innebär att arbeta inom industriell verksamhet.",
+          "C" : "Eleven samtalar om vad det innebär att arbeta inom industriell verksamhet <strong>på ett sätt som till viss del för samtalet framåt</strong>.",
+          "A" : "Eleven samtalar om vad det innebär att arbeta inom industriell verksamhet <strong>på ett sätt som för samtalet framåt</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att beskriva tekniker, metoder och säkerhetssystem inom industriell produktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att beskriva tekniker, metoder och säkerhetssystem inom industriell produktion.",
+          "C" : "Eleven beskriver också <strong>på ett enkelt sätt</strong> tekniker, metoder och säkerhetssystem inom industriell produktion.",
+          "A" : "Eleven beskriver också <strong>på ett utvecklat sätt</strong> tekniker, metoder och säkerhetssystem inom industriell produktion."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> dessutom i att utföra arbetsmoment inom drift och underhåll på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> dessutom i att utföra arbetsmoment inom drift och underhåll på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "C" : "Eleven utför dessutom <strong>med tillfredsställande resultat</strong> arbetsmoment inom drift och underhåll på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "A" : "Eleven utför dessutom <strong>med gott resultat</strong> arbetsmoment inom drift och underhåll på ett ergonomiskt och säkert sätt samt med hänsyn till miljön."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

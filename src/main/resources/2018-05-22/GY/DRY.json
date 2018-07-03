@@ -1,0 +1,436 @@
+{
+  "name" : "Dryckeskunskap",
+  "description" : "Ämnet dryckeskunskap behandlar tillredning och servering av varma, kalla, alkoholfria och alkoholhaltiga drycker. Ämnet tar även upp dryckestraditioner och behandlar lagar och andra bestämmelser som gäller för servering av alkoholhaltiga drycker.",
+  "code" : "DRY",
+  "designation" : "",
+  "skolfsId" : "2010:65",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet dryckeskunskap ska syfta till att eleverna utvecklar kunskaper om kalla och varma drycker, deras ursprung, egenskaper, användningsområden och karaktär.", "Eleverna ska även ges möjlighet att utveckla kunskaper om odlingsområden, framställningsmetoder, olika tillverkningsprocesser och råvaror samt hur detta påverkar slutproduktens kvalitet och pris." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Eleverna ska ges möjlighet att utveckla förmåga att servera drycker, utforma dryckeslistor samt att identifiera och bedöma kvaliteten på olika drycker.", "Dessutom ska eleverna ges möjlighet att utveckla kunskaper om sinnenas betydelse för bedömningen.", "Undervisningen ska även leda till att eleverna utvecklar kunskaper om svenska och internationella dryckestraditioner ur ett nutida och historiskt perspektiv.", "Undervisningen ska även leda till att eleverna utvecklar förståelse av olika gästers behov och krav." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska leda till att eleverna utvecklar kunskaper om vad som avses med ansvarsfull alkoholservering samt om alkoholens skadeverkningar.", "Den ska även leda till att eleverna utvecklar kunskaper om alkoholpolitiska och etiska frågor inom området samt om lagar och andra bestämmelser som rör hantering av olika drycker." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att praktiskt tillämpa sina kunskaper om servering, blandning och beredning av drycker.", "Eleverna ska även ges möjlighet att praktiskt träna upp sin förmåga att bedöma och identifiera drycker." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet dryckeskunskap ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om ansvarsfull alkoholservering, alkoholpolitik, etiska frågor och lagar och andra bestämmelser inom området samt om alkoholens skadeverkningar.", "Kunskaper om varma och kalla drycker.", "Kunskaper om dryckestraditioner och olika dryckers historia.", "Förmåga att planera, organisera och utföra arbetsuppgifter inom området.", "Förmåga att använda redskap och utrustning samt att välja och använda arbetsmetoder.", "Förmåga att arbeta hygieniskt, ergonomisk och säkert.", "Förmåga att utvärdera sitt arbete och resultat.", "Förmåga att samarbeta med andra och använda fackspråk." ]
+  } ],
+  "courses" : [ {
+    "name" : "Barteknik",
+    "description" : "Kursen barteknik omfattar punkterna 2 och 4–8 under rubriken Ämnets syfte, med särskild betoning på punkt 5.",
+    "code" : "DRYBAT0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika drycker: deras råvaror, ursprung, karaktär och användningsområde.", "Drinkgrupper och drinkrecept.", "Dryckesbaren som arbetsplats. Arbetsplanering och organisation.", "Metoder vid drinkblandning.", "Hur man använder råvaror, produkter, material, redskap och utrustning.", "Hygieniskt, ergonomiskt och säkert arbetssätt.", "Hygien och ändamålsenlig klädsel.", "Provningsmetoder.", "Identifiering och bedömning av olika dryckers kvalitet.", "Utformning av dryckeslistor.", "Prisberäkningar av olika dryckesalternativ.", "Kundbemötande och fackspråk." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> hur olika drycker framställs och ska hanteras samt deras ursprung, karaktär och användningsområde.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur olika drycker framställs och ska hanteras samt deras ursprung, karaktär och användningsområde.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur olika drycker framställs och ska hanteras samt deras ursprung, karaktär och användningsområde.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur olika drycker framställs och ska hanteras samt deras ursprung, karaktär och användningsområde."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> olika drinkgrupper och drinkrecept.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> olika drinkgrupper och drinkrecept.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> olika drinkgrupper och drinkrecept.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> olika drinkgrupper och drinkrecept."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar, organiserar och utför <strong>________</strong> med handledare arbetsuppgifter inom dryckesbarer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar, organiserar och utför <strong>i samråd</strong> med handledare arbetsuppgifter inom dryckesbarer.",
+          "C" : "Eleven planerar, organiserar och utför <strong>efter samråd</strong> med handledare arbetsuppgifter inom dryckesbarer.",
+          "A" : "Eleven planerar, organiserar och utför <strong>efter samråd</strong> med handledare arbetsuppgifter inom dryckesbarer."
+        }
+      }, {
+        "text" : "I arbetet väljer och använder eleven med <strong>________</strong> handlag relevanta serveringsmetoder, redskap och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet väljer och använder eleven med <strong>visst</strong> handlag relevanta serveringsmetoder, redskap och utrustning.",
+          "C" : "I arbetet väljer och använder eleven med <strong>gott</strong> handlag relevanta serveringsmetoder, redskap och utrustning.",
+          "A" : "I arbetet väljer och använder eleven med <strong>mycket gott</strong> handlag relevanta serveringsmetoder, redskap och utrustning."
+        }
+      }, {
+        "text" : "Dessutom väljer och använder eleven <strong>________</strong> med handledare lämpliga råvaror och produkter vid drinkblandning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom väljer och använder eleven <strong>i samråd</strong> med handledare lämpliga råvaror och produkter vid drinkblandning.",
+          "C" : "Dessutom väljer och använder eleven <strong>efter samråd</strong> med handledare lämpliga råvaror och produkter vid drinkblandning.",
+          "A" : "Dessutom väljer och använder eleven <strong>efter samråd</strong> med handledare lämpliga råvaror och produkter vid drinkblandning."
+        }
+      }, {
+        "text" : "Resultatet är <strong>________</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet är <strong>tillfredsställande</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert.",
+          "C" : "Resultatet är <strong>tillfredsställande</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert.",
+          "A" : "Resultatet är <strong>gott</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> med handledare någon provningsmetod och beskriver <strong>________</strong> olika faktorers påverkan på sinnena vid provning av drycker.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>i samråd</strong> med handledare någon provningsmetod och beskriver <strong>översiktligt</strong> olika faktorers påverkan på sinnena vid provning av drycker.",
+          "C" : "Eleven använder <strong>i samråd</strong> med handledare någon provningsmetod och beskriver <strong>utförligt</strong> olika faktorers påverkan på sinnena vid provning av drycker.",
+          "A" : "Eleven använder <strong>efter samråd</strong> med handledare någon provningsmetod och beskriver <strong>utförligt och nyanserat</strong> olika faktorers påverkan på sinnena vid provning av drycker."
+        }
+      }, {
+        "text" : "Dessutom identifierar eleven <strong>________</strong> olika drycker och bedömer deras kvalitet med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom identifierar eleven <strong>med viss säkerhet</strong> olika drycker och bedömer deras kvalitet med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom identifierar eleven <strong>med viss säkerhet</strong> olika drycker och bedömer deras kvalitet med <strong>enkla</strong> omdömen.",
+          "A" : "Dessutom identifierar eleven <strong>med säkerhet</strong> olika drycker och bedömer deras kvalitet med <strong>nyanserade</strong> omdömen."
+        }
+      }, {
+        "text" : "Eleven utformar också <strong>________</strong> med handledare dryckeslistor och beskriver <strong>________</strong> vilka produkter som behövs i dryckesbarer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utformar också <strong>i samråd</strong> med handledare dryckeslistor och beskriver <strong>översiktligt</strong> vilka produkter som behövs i dryckesbarer.",
+          "C" : "Eleven utformar också <strong>efter samråd</strong> med handledare dryckeslistor och beskriver <strong>översiktligt</strong> vilka produkter som behövs i dryckesbarer.",
+          "A" : "Eleven utformar också <strong>efter samråd</strong> med handledare dryckeslistor och beskriver <strong>utförligt</strong> vilka produkter som behövs i dryckesbarer."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare prisberäkningar av olika dryckesalternativ.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare prisberäkningar av olika dryckesalternativ.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare prisberäkningar av olika dryckesalternativ.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare prisberäkningar av olika dryckesalternativ."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Eleven samarbetar med andra och använder <strong>________</strong> fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar med andra och använder <strong>med viss säkerhet</strong> fackspråk.",
+          "C" : "Eleven samarbetar med andra och använder <strong>med viss säkerhet</strong> fackspråk.",
+          "A" : "Eleven samarbetar med andra och använder <strong>med säkerhet</strong> fackspråk."
+        }
+      }, {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Drycker",
+    "description" : "Kursen drycker omfattar punkterna 2 och 4–8 under rubriken Ämnets syfte.",
+    "code" : "DRYDRY0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Kalla och varma drycker: deras råvaror, odlingsområden, ursprung, framställningsmetoder, karaktär, tillverkningsprocesser och användningsområde. Hur dessa faktorer påverkar slutproduktens kvalitet och pris.", "Tillverkning av vin, öl och spritdrycker.", "Serveringsmetoder för vin, öl och måltidsdrycker.", "Hur man använder redskap och utrustning vid hantering och servering av drycker.", "Hygieniskt, ergonomiskt och säkert arbetssätt.", "Provningsmetoder och sensorik.", "Identifiering och bedömning av olika alkoholhaltiga och alkoholfria dryckers kvalitet.", "Utformning av dryckeslistor.", "Kundbemötande och fackspråk." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> hur olika drycker framställs och ska hanteras samt deras ursprung, karaktär och användningsområde.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur olika drycker framställs och ska hanteras samt deras ursprung, karaktär och användningsområde.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur olika drycker framställs och ska hanteras samt deras ursprung, karaktär och användningsområde.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur olika drycker framställs och ska hanteras samt deras ursprung, karaktär och användningsområde."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar, organiserar och utför <strong>________</strong> med handledare arbetsuppgifter inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar, organiserar och utför <strong>i samråd</strong> med handledare arbetsuppgifter inom området.",
+          "C" : "Eleven planerar, organiserar och utför <strong>efter samråd</strong> med handledare arbetsuppgifter inom området.",
+          "A" : "Eleven planerar, organiserar och utför <strong>efter samråd</strong> med handledare arbetsuppgifter inom området."
+        }
+      }, {
+        "text" : "I arbetet väljer och använder eleven med <strong>________</strong> handlag relevanta serveringsmetoder, redskap och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet väljer och använder eleven med <strong>visst</strong> handlag relevanta serveringsmetoder, redskap och utrustning.",
+          "C" : "I arbetet väljer och använder eleven med <strong>gott</strong> handlag relevanta serveringsmetoder, redskap och utrustning.",
+          "A" : "I arbetet väljer och använder eleven med <strong>mycket gott</strong> handlag relevanta serveringsmetoder, redskap och utrustning."
+        }
+      }, {
+        "text" : "Resultatet är <strong>________</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet är <strong>tillfredsställande</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert.",
+          "C" : "Resultatet är <strong>tillfredsställande</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert.",
+          "A" : "Resultatet är <strong>gott</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> med handledare någon provningsmetod och beskriver <strong>________</strong> olika faktorers påverkan på sinnena vid provning av drycker.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>i samråd</strong> med handledare någon provningsmetod och beskriver <strong>översiktligt</strong> olika faktorers påverkan på sinnena vid provning av drycker.",
+          "C" : "Eleven använder <strong>efter samråd</strong> med handledare någon provningsmetod och beskriver <strong>utförligt</strong> olika faktorers påverkan på sinnena vid provning av drycker.",
+          "A" : "Eleven använder <strong>efter samråd</strong> med handledare någon provningsmetod och beskriver <strong>utförligt och nyanserat</strong> olika faktorers påverkan på sinnena vid provning av drycker."
+        }
+      }, {
+        "text" : "Dessutom identifierar eleven <strong>________</strong> olika drycker och bedömer deras kvalitet med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom identifierar eleven <strong>med viss säkerhet</strong> olika drycker och bedömer deras kvalitet med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom identifierar eleven <strong>med viss säkerhet</strong> olika drycker och bedömer deras kvalitet med <strong>enkla</strong> omdömen.",
+          "A" : "Dessutom identifierar eleven <strong>med säkerhet</strong> olika drycker och bedömer deras kvalitet med <strong>nyanserade</strong> omdömen."
+        }
+      }, {
+        "text" : "Eleven utformar också <strong>________</strong> med handledare dryckeslistor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utformar också <strong>i samråd</strong> med handledare dryckeslistor.",
+          "C" : "Eleven utformar också <strong>efter samråd</strong> med handledare dryckeslistor.",
+          "A" : "Eleven utformar också <strong>efter samråd</strong> med handledare dryckeslistor."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Eleven samarbetar med andra och använder <strong>________</strong> fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar med andra och använder <strong>med viss säkerhet</strong> fackspråk.",
+          "C" : "Eleven samarbetar med andra och använder <strong>med viss säkerhet</strong> fackspråk.",
+          "A" : "Eleven samarbetar med andra och använder <strong>med säkerhet</strong> fackspråk."
+        }
+      }, {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Drycker och ansvarsfull alkoholservering",
+    "description" : "Kursen drycker och ansvarsfull alkoholservering omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1–3.",
+    "code" : "DRYDRC0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Svensk alkohollagstiftning.", "Fysiska, psykiska och sociala skadeverkningar av alkohol samt risker kopplade till alkoholkonsumtion.", "Etiska frågeställningar med anknytning till alkoholservering.", "Kalla och varma drycker: deras råvaror, ursprung, karaktär och användningsområde.", "Tillverkning av vin, öl och spritdrycker.", "Svenska och internationella dryckestraditioner samt hur olika drycker har utvecklats över tid.", "Serveringsmetoder för vin, öl och måltidsdrycker.", "Användning av redskap och utrustning vid hantering och servering av drycker.", "Hygieniskt, ergonomiskt och säkert arbetssätt.", "Kundbemötande och fackspråk." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> vad som menas med ansvarsfull alkoholservering samt redogör <strong>________</strong> för lagar och andra bestämmelser som gäller vid alkoholservering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> vad som menas med ansvarsfull alkoholservering samt redogör <strong>översiktligt</strong> för lagar och andra bestämmelser som gäller vid alkoholservering.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> vad som menas med ansvarsfull alkoholservering samt redogör <strong>utförligt</strong> för lagar och andra bestämmelser som gäller vid alkoholservering.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> vad som menas med ansvarsfull alkoholservering samt redogör <strong>utförligt och nyanserat</strong> för lagar och andra bestämmelser som gäller vid alkoholservering."
+        }
+      }, {
+        "text" : "Eleven diskuterar <strong>________</strong> etik- och moralfrågor med anknytning till alkohol samt redogör <strong>________</strong> för <strong>________</strong> alkoholpolitisk fråga.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> etik- och moralfrågor med anknytning till alkohol samt redogör <strong>översiktligt</strong> för <strong>någon</strong> alkoholpolitisk fråga.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> etik- och moralfrågor med anknytning till alkohol samt redogör <strong>utförligt</strong> för <strong>några</strong> alkoholpolitiska frågor.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat</strong> etik- och moralfrågor med anknytning till alkohol samt redogör <strong>utförligt och nyanserat</strong> för <strong>flera</strong> alkoholpolitiska frågor."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> alkoholens skadeverkningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> alkoholens skadeverkningar.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> alkoholens skadeverkningar.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> alkoholens skadeverkningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> hur olika drycker framställs och ska hanteras samt deras ursprung, karaktär, och användningsområde.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur olika drycker framställs och ska hanteras samt deras ursprung, karaktär, och användningsområde.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur olika drycker framställs och ska hanteras samt deras ursprung, karaktär, och användningsområde.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur olika drycker framställs och ska hanteras samt deras ursprung, karaktär, och användningsområde."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> svenska och internationella dryckestraditioner samt olika dryckers historia.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> svenska och internationella dryckestraditioner samt olika dryckers historia.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> svenska och internationella dryckestraditioner samt olika dryckers historia.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> svenska och internationella dryckestraditioner samt olika dryckers historia."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar, organiserar och utför <strong>________</strong> med handledare arbetsuppgifter inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar, organiserar och utför <strong>i samråd</strong> med handledare arbetsuppgifter inom området.",
+          "C" : "Eleven planerar, organiserar och utför <strong>efter samråd</strong> med handledare arbetsuppgifter inom området.",
+          "A" : "Eleven planerar, organiserar och utför <strong>efter samråd</strong> med handledare arbetsuppgifter inom området."
+        }
+      }, {
+        "text" : "I arbetet väljer och använder eleven med <strong>________</strong> handlag relevanta serveringsmetoder, redskap och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet väljer och använder eleven med <strong>visst</strong> handlag relevanta serveringsmetoder, redskap och utrustning.",
+          "C" : "I arbetet väljer och använder eleven med <strong>gott</strong> handlag relevanta serveringsmetoder, redskap och utrustning.",
+          "A" : "I arbetet väljer och använder eleven med <strong>mycket gott</strong> handlag relevanta serveringsmetoder, redskap och utrustning."
+        }
+      }, {
+        "text" : "Resultatet är <strong>________</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet är <strong>tillfredsställande</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert.",
+          "C" : "Resultatet är <strong>tillfredsställande</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert.",
+          "A" : "Resultatet är <strong>gott</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Eleven samarbetar med andra och använder <strong>________</strong> fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar med andra och använder <strong>med viss säkerhet</strong> fackspråk.",
+          "C" : "Eleven samarbetar med andra och använder <strong>med viss säkerhet</strong> fackspråk.",
+          "A" : "Eleven samarbetar med andra och använder <strong>med säkerhet</strong> fackspråk."
+        }
+      }, {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Drycker – specialisering",
+    "description" : "Kursen drycker – specialisering omfattar punkterna 2–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom valt specialiseringsområde.",
+    "code" : "DRYDRY00S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Drycker inom valt specialiseringsområde: deras råvaror, odlingsområden, ursprung, framställningsmetoder, karaktär, tillverkningsprocesser och användningsområde. Hur dessa faktorer påverkar slutproduktens kvalitet och pris. Exempel på specialiseringsområden kan vara kaffe, öl, champagne, barteknik, viner från olika delar av världen, vintillverkning och vinprovning.", "Trender, traditioner och utveckling inom valt specialiseringsområde.", "Påverkan från olika kulturer inom valt specialiseringsområde.", "Yrkesmässiga och experimentella metoder och tekniker inom valt specialiseringsområde.", "Material, redskap och utrustning för arbete med drycker.", "Hygieniskt, ergonomiskt och säkert arbetssätt.", "Provningsmetoder och sensorik.", "Identifiering och bedömning av dryckers kvalitet.", "Utformning av dryckeslistor inom valt specialiseringsområde.", "Kundbemötande och fackspråk." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> hur drycker inom valt specialiseringsområde framställs och ska hanteras samt deras ursprung, karaktär, och användningsområde.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur drycker inom valt specialiseringsområde framställs och ska hanteras samt deras ursprung, karaktär, och användningsområde.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur drycker inom valt specialiseringsområde framställs och ska hanteras samt deras ursprung, karaktär, och användningsområde.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur drycker inom valt specialiseringsområde framställs och ska hanteras samt deras ursprung, karaktär, och användningsområde."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> trender, traditioner, utveckling och påverkan från olika kulturer inom valt specialiseringsområde.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> trender, traditioner, utveckling och påverkan från olika kulturer inom valt specialiseringsområde.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> trender, traditioner, utveckling och påverkan från olika kulturer inom valt specialiseringsområde.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> trender, traditioner, utveckling och påverkan från olika kulturer inom valt specialiseringsområde."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar, organiserar och utför <strong>________</strong> med handledare arbetsuppgifter inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar, organiserar och utför <strong>i samråd</strong> med handledare arbetsuppgifter inom området.",
+          "C" : "Eleven planerar, organiserar och utför <strong>efter samråd</strong> med handledare arbetsuppgifter inom området.",
+          "A" : "Eleven planerar, organiserar och utför <strong>efter samråd</strong> med handledare arbetsuppgifter inom området."
+        }
+      }, {
+        "text" : "I arbetet väljer och använder eleven med <strong>________</strong> handlag yrkesmässiga och experimentella metoder, tekniker, material, redskap och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet väljer och använder eleven med <strong>visst</strong> handlag yrkesmässiga och experimentella metoder, tekniker, material, redskap och utrustning.",
+          "C" : "I arbetet väljer och använder eleven med <strong>gott</strong> handlag yrkesmässiga och experimentella metoder, tekniker, material, redskap och utrustning.",
+          "A" : "I arbetet väljer och använder eleven med <strong>mycket gott</strong> handlag yrkesmässiga och experimentella metoder, tekniker, material, redskap och utrustning."
+        }
+      }, {
+        "text" : "Resultatet är <strong>________</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet är <strong>tillfredsställande</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert.",
+          "C" : "Resultatet är <strong>tillfredsställande</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert.",
+          "A" : "Resultatet är <strong>gott</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> med handledare någon provningsmetod och beskriver <strong>________</strong> olika faktorers påverkan på sinnena vid provning av drycker.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>i samråd</strong> med handledare någon provningsmetod och beskriver <strong>översiktligt</strong> olika faktorers påverkan på sinnena vid provning av drycker.",
+          "C" : "Eleven använder <strong>efter samråd</strong> med handledare någon provningsmetod och beskriver <strong>utförligt</strong> olika faktorers påverkan på sinnena vid provning av drycker.",
+          "A" : "Eleven använder <strong>efter samråd</strong> med handledare någon provningsmetod och beskriver <strong>utförligt och nyanserat</strong> olika faktorers påverkan på sinnena vid provning av drycker."
+        }
+      }, {
+        "text" : "Dessutom identifierar eleven <strong>________</strong> drycker inom valt specialiseringsområde och bedömer deras kvalitet med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom identifierar eleven <strong>med viss säkerhet</strong> drycker inom valt specialiseringsområde och bedömer deras kvalitet med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom identifierar eleven <strong>med viss säkerhet</strong> drycker inom valt specialiseringsområde och bedömer deras kvalitet med <strong>enkla</strong> omdömen.",
+          "A" : "Dessutom identifierar eleven <strong>med säkerhet</strong> drycker inom valt specialiseringsområde och bedömer deras kvalitet med <strong>nyanserade</strong> omdömen."
+        }
+      }, {
+        "text" : "Eleven utformar också <strong>________</strong> med handledare dryckeslistor inom valt specialiseringsområde.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utformar också <strong>i samråd</strong> med handledare dryckeslistor inom valt specialiseringsområde.",
+          "C" : "Eleven utformar också <strong>efter samråd</strong> med handledare dryckeslistor inom valt specialiseringsområde.",
+          "A" : "Eleven utformar också <strong>efter samråd</strong> med handledare dryckeslistor inom valt specialiseringsområde."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Eleven samarbetar med andra och använder <strong>________</strong> fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar med andra och använder <strong>med viss säkerhet</strong> fackspråk.",
+          "C" : "Eleven samarbetar med andra och använder <strong>med viss säkerhet</strong> fackspråk.",
+          "A" : "Eleven samarbetar med andra och använder <strong>med säkerhet</strong> fackspråk."
+        }
+      }, {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

@@ -1,0 +1,109 @@
+{
+  "name" : "Växtkunskap",
+  "description" : "Ämnet växtkunskap behandlar de växter som används i olika trädgårdsmiljöer såväl utomhus som inomhus. I ämnet ingår artkunskap, växternas funktion och behov av skötsel i olika miljöer samt växtkvalitet. Ämnet handlar också om växternas byggnad och livsprocesser.",
+  "code" : "VAX",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet växtkunskap ska syfta till att eleverna utvecklar kunskaper om trädgårdsväxter och deras användningsområden.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om växternas byggnad, livsprocesser och utvecklingsfaser.", "Eleverna ska också ges möjlighet att utveckla kunskaper om växtkvalitet och om bestämmelser i samband med handel med växter." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska leda till att eleverna utvecklar förmåga att identifiera, beskriva och namnge växter med hjälp av yrkesmässiga termer.", "Undervisningen ska också leda till att eleverna utvecklar förmåga att arbeta med växter på ett yrkesmässigt sätt.", "Vidare ska eleverna ges möjlighet att utveckla förmåga att kombinera och välja växter för olika miljöer, funktioner och klimat samt med hänsyn till estetiskt uttryck och ekonomi." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Praktiskt arbete, fältstudier och ett undersökande arbetssätt ska ingå i undervisningen.", "I undervisningen ska eleverna ges möjlighet att kombinera, arrangera och sköta trädgårdsväxter." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet växtkunskap ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förmåga att identifiera och namnge trädgårdsväxter.", "Kunskaper om växternas byggnad, livsprocesser och utvecklingsfaser.", "Förmåga att arbeta med växter samt bedöma växters kondition och kvalitet.", "Förmåga att välja växter för olika miljöer och funktioner." ]
+  } ],
+  "courses" : [ {
+    "name" : "Växtkunskap 1",
+    "description" : "Kursen växtkunskap 1 omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "VAXVAX51",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Sortiment. Identifiering, beskrivning och namngivning av trädgårdsväxter samt ogräs i olika utvecklingsstadier.", "Växternas byggnad, livsprocesser och utvecklingsfaser.", "Växternas vattenupptagning, fotosyntes, andning och näringsupptagning.", "Trädgårdsväxters miljökrav, till exempel jord, vatten och ljusförhållanden.", "Trädgårdväxters härdighet.", "Växternas funktion i olika miljöer, till exempel som rumsbildare, vindskydd och som estetiskt uttryck.", "Lagar och andra bestämmelser som reglerar handel med växter. Kvalitetsmärkning.", "Arbetsuppgifter med växter, till exempel förökning, plantering och putsning av rabatter." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att identifiera och namnge trädgårdsväxter samt i att beskriva deras egenskaper och användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att identifiera och namnge trädgårdsväxter samt i att beskriva deras egenskaper och användningsområden.",
+          "C" : "Eleven identifierar och namnger <strong>med viss säkerhet</strong> trädgårdsväxter samt beskriver <strong>på ett enkelt sätt</strong> deras egenskaper och användningsområden.",
+          "A" : "Eleven identifierar och namnger <strong>med säkerhet</strong> trädgårdsväxter samt beskriver <strong>på ett utvecklat sätt</strong> deras egenskaper och användningsområden."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att utföra arbetsmoment med trädgårdsväxter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att utföra arbetsmoment med trädgårdsväxter.",
+          "C" : "Eleven utför arbetsmoment med trädgårdsväxter <strong>med visst handlag</strong>.",
+          "A" : "Eleven utför arbetsmoment med trädgårdsväxter <strong>med gott handlag</strong>."
+        }
+      }, {
+        "text" : "I arbetet <strong>________</strong> eleven i att ge omdömen om växters kondition och kvalitet samt i att anpassa skötseln och miljön efter växternas byggnad, livsprocesser och utvecklingsfaser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet <strong>medverkar</strong> eleven i att ge omdömen om växters kondition och kvalitet samt i att anpassa skötseln och miljön efter växternas byggnad, livsprocesser och utvecklingsfaser.",
+          "C" : "I arbetet ger eleven <strong>enkla</strong> omdömen om växters kondition och kvalitet samt anpassar delvis skötseln och miljön efter växternas byggnad, livsprocesser och utvecklingsfaser.",
+          "A" : "I arbetet ger eleven <strong>utvecklade</strong> omdömen om växters kondition och kvalitet samt anpassar skötseln och miljön efter växternas byggnad, livsprocesser och utvecklingsfaser."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att välja växter för olika platser, miljöer och funktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att välja växter för olika platser, miljöer och funktioner.",
+          "C" : "Eleven väljer växter för olika platser, miljöer och funktioner <strong>med tillfredsställande resultat</strong>.",
+          "A" : "Eleven väljer växter för olika platser, miljöer och funktioner <strong>med gott resultat</strong>."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Växtkunskap 2",
+    "description" : "Kursen växtkunskap 2 omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "VAXVAX52",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Sortiment. Identifiering, beskrivning och namngivning av trädgårdsväxter och ogräs i olika utvecklingsstadier.", "Grässorter, deras egenskaper och lämplighet för olika typer av gräsytor.", "Växternas byggnad, livsprocesser och utvecklingsfaser.", "Trädgårdsväxters miljökrav, till exempel jord, vatten och ljusförhållanden.", "Växtval och växtkomposition med hänsyn till miljö, funktion och växternas egenskaper. Beräkningar av plantåtgång och kostnader för olika växtkompositioner.", "Inventering av växter i park- och trädgårdsmiljöer.", "Lagar och andra bestämmelser som reglerar handel med växter. Kvalitetsmärkning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att identifiera och namnge trädgårdsväxter samt i att beskriva deras egenskaper och användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att identifiera och namnge trädgårdsväxter samt i att beskriva deras egenskaper och användningsområden.",
+          "C" : "Eleven identifierar och namnger <strong>med viss säkerhet</strong> trädgårdsväxter samt beskriver <strong>på ett enkelt sätt</strong> deras egenskaper och användningsområden.",
+          "A" : "Eleven identifierar och namnger <strong>med säkerhet</strong> trädgårdsväxter samt beskriver <strong>på ett utvecklat sätt</strong> deras egenskaper och användningsområden."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att utföra arbetsmoment med trädgårdsväxter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att utföra arbetsmoment med trädgårdsväxter.",
+          "C" : "Eleven utför arbetsmoment med trädgårdsväxter <strong>med visst handlag</strong>.",
+          "A" : "Eleven utför arbetsmoment med trädgårdsväxter <strong>med gott handlag</strong>."
+        }
+      }, {
+        "text" : "I arbetet <strong>________</strong> eleven i att ge omdömen om växters kondition och kvalitet samt i att anpassa skötseln och miljön efter växternas byggnad, livsprocesser och utvecklingsfaser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet <strong>medverkar</strong> eleven i att ge omdömen om växters kondition och kvalitet samt i att anpassa skötseln och miljön efter växternas byggnad, livsprocesser och utvecklingsfaser.",
+          "C" : "I arbetet ger eleven <strong>enkla</strong> omdömen om växters kondition och kvalitet samt anpassar delvis skötseln och miljön efter växternas byggnad, livsprocesser och utvecklingsfaser.",
+          "A" : "I arbetet ger eleven <strong>utvecklade</strong> omdömen om växters kondition och kvalitet samt anpassar skötseln och miljön efter växternas byggnad, livsprocesser och utvecklingsfaser."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att välja växter för olika platser, miljöer och funktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att välja växter för olika platser, miljöer och funktioner.",
+          "C" : "Eleven väljer växter för olika platser, miljöer och funktioner <strong>med tillfredsställande resultat</strong>.",
+          "A" : "Eleven väljer växter för olika platser, miljöer och funktioner <strong>med gott resultat</strong>."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

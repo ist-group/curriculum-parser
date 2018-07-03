@@ -1,0 +1,1518 @@
+{
+  "name" : "Musik",
+  "description" : "Musik finns i alla kulturer och den berör oss såväl kroppsligt som tankemässigt och känslomässigt. Musik är en estetisk uttrycksform som används i en mängd sammanhang, som har olika funktioner och som betyder olika saker för var och en av oss. Ämnet musik har sin grund i konstnärligt uttryck, musikaliskt hantverk och musikvetenskap.",
+  "code" : "MUS",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet musik ska syfta till att eleverna utvecklar kunskaper i musik och förmåga att gestalta musik, både solistiskt och i ensemble.", "Eleverna ska också ges möjlighet att utveckla förmåga att kommunicera med medmusicerande och publik.", "Undervisningen ska bidra till att eleverna utvecklar förmåga att analysera och tolka musikupplevelser.", "Genom undervisningen ska eleverna ges möjlighet att reflektera över och värdera sin egen och andras musikaliska gestaltning, i syfte att öka det konstnärliga skapandet.", "Undervisningen ska bidra till att eleverna utvecklar kreativitet och förståelse av samband mellan detalj och helhet." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska också ge eleverna möjlighet att genom sitt musikutövande aktivt bidra till ett rikt kulturliv i samhället.", "Genom undervisningen ska eleverna ges möjlighet att pröva olika metoder för musikinstudering.", "Genom att arbeta med musiken från både teknik- och tolkningsperspektiv ska eleverna ges möjlighet att utveckla ett personligt uttryck med en hög konstnärlig kvalitet.", "Undervisningen ska ta fasta på att stärka elevernas motivation och självförtroende i musikutövandet." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Samarbetsförmåga och ansvarstagande för arbete i grupp är viktigt i musiken.", "Därför ska eleverna ges möjlighet att musicera tillsammans med andra." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om musikinstrumentens konstruktion och egenskaper samt röstens fysiologi.", "Undervisningen ska också bidra till att eleverna utvecklar kunskaper i arbetsmiljöns betydelse för individ och samhälle.", "Genom att studera och utöva musik från olika tider, kulturer och stilarter ska eleverna ges möjlighet till genrebreddning." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet musik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Färdigheter i att musicera instrumentalt eller vokalt, såväl efter noter som på gehör, samt färdigheter i att använda ett konstnärligt och musikaliskt uttryck.", "Kunskaper om musik, begrepp och stildrag från olika tider och kulturer.", "Förmåga att improvisera.", "Kunskaper om musikinstudering, enskilt och i grupp, samt förmåga att ta ansvar för sin musikaliska färdighetsutveckling.", "Kunskaper om instrumentets konstruktion och egenskaper, röstfysiologi och röstvård.", "Förmåga att skapa musik och arrangera för en eller flera valda ensembletyper.", "Förmåga att värdera, samarbeta och ta ansvar i musikalisk gestaltning och musicerande inför och i kommunikation med publik.", "Färdigheter i att använda musikteknisk utrustning samt kunskaper om hur musik kan framställas och hanteras digitalt.", "Kunskaper om arbetsmiljöfrågor." ]
+  } ],
+  "courses" : [ {
+    "name" : "Bruksspel och ackompanjemang",
+    "description" : "Kursen bruksspel och ackompanjemang omfattar punkterna 1–5, 7 och 9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1–2 och 7. I kursen behandlas grundläggande färdigheter i ämnet.",
+    "code" : "MUSBRU0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Spel på ett eller flera ackordinstrument i gehörsbaserad och noterad musik på en grundläggande nivå.", "Ackordläggningar och ackordfärgningar.", "Ackompanjemangsmodeller.", "Transponering till näraliggande och vanliga tonarter.", "Musikstilar från olika tider och genrer samt typiska stildrag.", "Improvisation – ackompanjemang på gehör.", "Instrument, deras egenskaper och musikaliska användningsområden.", "Samarbete i musikalisk gestaltning och strategier för instudering.", "Framförande av musik inför publik, i mindre, slutna sammanhang såväl som i större och öppna, offentliga sammanhang i eller utanför skolan.", "Arbetsmiljö med avseende på ergonomi och hörselvård vid musikutövning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven ackompanjerar på ett tillfredsställande sätt efter noter och på gehör med ett <strong>________</strong> spel i <strong>________</strong> vanlig kompositionsstil och efter <strong>________</strong> ackordanalys med <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven ackompanjerar på ett tillfredsställande sätt efter noter och på gehör med ett <strong>enkelt</strong> spel i <strong>någon</strong> vanlig kompositionsstil och efter <strong>enkel</strong> ackordanalys med <strong>mestadels treklanger i grundläge</strong>.",
+          "C" : "Eleven ackompanjerar på ett tillfredsställande sätt efter noter och på gehör med ett <strong>varierat</strong> spel i <strong>några</strong> vanliga kompositionsstilar och efter ackordanalys med <strong>vanliga färgningar, med både tre- och fyrklanger och med variation i ackordläggningar</strong>.",
+          "A" : "Eleven ackompanjerar på ett tillfredsställande sätt efter noter och på gehör med ett <strong>varierat</strong> spel i <strong>flera</strong> vanliga kompositionsstilar och efter ackordanalys med <strong>utvecklad harmonik och väljer mellan olika alternativa ackordläggningar</strong>."
+        }
+      }, {
+        "text" : "Eleven har <strong>________</strong> följsamhet i sitt spel.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven har <strong>viss</strong> följsamhet i sitt spel.",
+          "C" : "Eleven har <strong>tillfredsställande</strong> följsamhet i sitt spel.",
+          "A" : "Eleven har <strong>god</strong> följsamhet i sitt spel."
+        }
+      }, {
+        "text" : "Eleven reducerar och transponerar med ett <strong>________</strong> resultat en enkel notbild <strong>________</strong> ackordföljd, i tonarter <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven reducerar och transponerar med ett <strong>tillfredsställande</strong> resultat en enkel notbild <strong>eller</strong> ackordföljd, i tonarter <strong>utan eller med få fasta förtecken</strong>.",
+          "C" : "Eleven reducerar och transponerar med <strong>gott</strong> resultat en enkel notbild <strong>och</strong> ackordföljd, i <strong>de vanligaste tonarterna</strong>.",
+          "A" : "Eleven reducerar och transponerar med <strong>gott</strong> resultat en notbild <strong>och</strong> ackordföljd med <strong>komplexa ackord</strong>, i <strong>de vanligaste tonarterna</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför ett <strong>________</strong> ackompanjemang på ett tillfredsställande sätt på gehör, till egen <strong>________</strong> andras sång eller spel i <strong>________</strong> vanlig genre.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför ett <strong>enkelt</strong> ackompanjemang på ett tillfredsställande sätt på gehör, till egen <strong>eller</strong> andras sång eller spel i <strong>någon</strong> vanlig genre.",
+          "C" : "Eleven utför ett <strong>nyanserat</strong> ackompanjemang på ett tillfredsställande sätt på gehör, till egen <strong>eller</strong> andras sång eller spel i <strong>några</strong> vanliga genrer.",
+          "A" : "Eleven utför ett <strong>nyanserat</strong> ackompanjemang på ett tillfredsställande sätt på gehör, till <strong>såväl</strong> egen <strong>som</strong> andras sång eller spel i <strong>flera</strong> vanliga genrer."
+        }
+      }, {
+        "text" : "Eleven använder på ett tillfredsställande sätt grundläggande drag i <strong>________</strong> vanliga musikstilar och improviserar <strong>________</strong> intro, mellanspel och avslutning i <strong>________</strong> valda genrer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder på ett tillfredsställande sätt grundläggande drag i <strong>några</strong> vanliga musikstilar och improviserar <strong>enkelt och kort</strong> intro, mellanspel och avslutning i <strong>några</strong> valda genrer.",
+          "C" : "Eleven använder på ett tillfredsställande sätt grundläggande drag i <strong>flera</strong> vanliga musikstilar och improviserar intro, <strong>vers</strong>, mellanspel och avslutning i <strong>flera</strong> valda genrer.",
+          "A" : "Eleven använder på ett tillfredsställande sätt grundläggande drag i <strong>flera</strong> vanliga musikstilar och improviserar intro, <strong>vers</strong>, mellanspel och avslutning i <strong>flera</strong> valda genrer och <strong>någon given genre</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven prövar strategier för egen instudering, eller för instudering tillsammans med andra, vilket leder till <strong>________</strong> musikaliskt resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven prövar strategier för egen instudering, eller för instudering tillsammans med andra, vilket leder till <strong>tillfredsställande</strong> musikaliskt resultat.",
+          "C" : "Eleven <strong>föreslår och</strong> prövar <strong>alternativa</strong> strategier för egen instudering, eller för instudering tillsammans med andra, vilket leder till <strong>tillfredsställande</strong> musikaliskt resultat.",
+          "A" : "Eleven <strong>föreslår och</strong> prövar <strong>alternativa</strong> strategier för egen instudering, eller för instudering tillsammans med andra, vilket leder till <strong>ett gott</strong> musikaliskt resultat."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för framträdande egenskaper hos instrumentet och dess musikaliska användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för framträdande egenskaper hos instrumentet och dess musikaliska användningsområden.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för framträdande egenskaper hos instrumentet och dess musikaliska användningsområden.",
+          "A" : "Eleven redogör <strong>utförligt</strong> för framträdande egenskaper hos instrumentet och dess musikaliska användningsområden."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar <strong>________</strong> i musikframförande och kommunikation med publik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar <strong>med viss säkerhet</strong> i musikframförande och kommunikation med publik.",
+          "C" : "Eleven samarbetar <strong>med viss säkerhet</strong> i musikframförande och kommunikation med publik.",
+          "A" : "Eleven samarbetar <strong>med säkerhet</strong> i musikframförande och kommunikation med publik."
+        }
+      }, {
+        "text" : "Eleven medverkar på ett tillfredsställande sätt vid framförande av hela musikstycken i slutna sammanhang inför lärare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven medverkar på ett tillfredsställande sätt vid framförande av hela musikstycken i slutna sammanhang inför lärare.",
+          "C" : "Eleven medverkar på ett tillfredsställande sätt vid framförande av hela musikstycken i slutna sammanhang inför lärare <strong>och andra elever</strong>.",
+          "A" : "Eleven medverkar på ett tillfredsställande sätt vid framförande av hela musikstycken i slutna sammanhang inför lärare <strong>och andra elever samt i öppna, offentliga sammanhang</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven musicerar på ett sätt som inte riskerar att orsaka belastnings- eller hörselskada.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven musicerar på ett sätt som inte riskerar att orsaka belastnings- eller hörselskada.",
+          "C" : "Eleven musicerar på ett sätt som inte riskerar att orsaka belastnings- eller hörselskada.",
+          "A" : "Eleven musicerar på ett sätt som inte riskerar att orsaka belastnings- eller hörselskada."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Ensemble 1",
+    "description" : "Kursen ensemble 1 omfattar punkterna 1–2, 4–5, 7 och 9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1–2 och 7. Kursen behandlar grundläggande färdigheter i ämnet.",
+    "code" : "MUSENS01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Grundläggande ensemblemusicerande och repertoarkännedom.", "Musicerande i gehörsbaserad och noterad musik.", "Konstnärlighet och genrer i olika tider och kulturer. Stildrag och kännetecken.", "Samarbetsförmåga och metoder för instudering, enskilt och i grupp, repetitionsmetodik.", "Instrument och deras karaktär och grundläggande egenskaper.", "Grundläggande musikalisk gestaltning och kommunikation vid framträdande inför publik och i samarbete med andra.", "Grundläggande arbetsmiljöaspekter på musicerande – hörselvård, ergonomi och elsäkerhet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven musicerar <strong>________</strong> efter enkla notbilder och på gehör.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven musicerar <strong>med viss säkerhet</strong> efter enkla notbilder och på gehör.",
+          "C" : "Eleven musicerar <strong>med viss säkerhet</strong> efter enkla notbilder och på gehör.",
+          "A" : "Eleven musicerar <strong>med säkerhet</strong> efter enkla notbilder och på gehör."
+        }
+      }, {
+        "text" : "I sitt musicerande uppvisar eleven ett <strong>________</strong> konstnärligt uttryck och följer <strong>________</strong> genrespecifika krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt musicerande uppvisar eleven ett <strong>visst</strong> konstnärligt uttryck och följer <strong>med viss säkerhet</strong> genrespecifika krav.",
+          "C" : "I sitt musicerande uppvisar eleven ett konstnärligt uttryck och följer <strong>med viss säkerhet</strong> genrespecifika krav.",
+          "A" : "I sitt musicerande uppvisar eleven ett <strong>gott</strong> konstnärligt uttryck och följer <strong>med säkerhet</strong> genrespecifika krav."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för <strong>________</strong> exempel på repertoar i olika stilar för ensemblen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för <strong>något</strong> exempel på repertoar i olika stilar för ensemblen.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för <strong>några</strong> exempel på repertoar i olika stilar för ensemblen.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för <strong>flera</strong> exempel på repertoar i olika stilar för ensemblen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tar ansvar för instudering av stämmaterial inför repetition, och det musikaliska resultatet är tillfredsställande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för instudering av stämmaterial inför repetition, och det musikaliska resultatet är tillfredsställande.",
+          "C" : "Eleven tar ansvar för instudering av stämmaterial inför repetition, och det musikaliska resultatet är tillfredsställande. <strong>Dessutom ger eleven välgrundade förslag på hur arbetet kan förbättras</strong>.",
+          "A" : "Eleven tar ansvar för instudering av stämmaterial inför repetition, och det musikaliska resultatet är tillfredsställande. <strong>Dessutom ger eleven välgrundade och nyanserade förslag på hur arbetet kan förbättras och upptäcker</strong>, <strong>analyserar och föreslår lösningar på olika instuderingsproblem</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör för <strong>________</strong> grundläggande egenskap hos <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör för <strong>någon</strong> grundläggande egenskap hos <strong>sitt instrument</strong>.",
+          "C" : "Eleven redogör för <strong>några</strong> grundläggande egenskap hos <strong>sin instrumentgrupp</strong>.",
+          "A" : "Eleven redogör för <strong>karaktär och flera</strong> grundläggande egenskaper hos <strong>instrumentgruppen och övriga instrument i ensemblen</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar <strong>________</strong> samt tar ansvar vid gruppens musikframförande och i kommunikation med publik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar <strong>med viss säkerhet</strong> samt tar ansvar vid gruppens musikframförande och i kommunikation med publik.",
+          "C" : "Eleven samarbetar <strong>med viss säkerhet</strong> samt tar ansvar vid gruppens musikframförande och i kommunikation med publik.",
+          "A" : "Eleven samarbetar <strong>med säkerhet</strong> samt tar ansvar vid gruppens musikframförande och i kommunikation med publik."
+        }
+      }, {
+        "text" : "Eleven värderar med <strong>________</strong> omdömen innehållet i och dispositionen av musikframförandet och kommunikationen med publiken.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven värderar med <strong>enkla</strong> omdömen innehållet i och dispositionen av musikframförandet och kommunikationen med publiken.",
+          "C" : "Eleven värderar med <strong>nyanserade</strong> omdömen innehållet i och dispositionen av musikframförandet och kommunikationen med publiken.",
+          "A" : "Eleven värderar med <strong>nyanserade</strong> omdömen innehållet i och dispositionen av musikframförandet och kommunikationen med publiken <strong>samt ger förslag på hur detta kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för förutsättningar för god arbetsmiljö avseende hörselvård, ergonomi och elsäkerhet, och tar hänsyn till detta i musicerandet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för förutsättningar för god arbetsmiljö avseende hörselvård, ergonomi och elsäkerhet, och tar hänsyn till detta i musicerandet.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för förutsättningar för god arbetsmiljö avseende hörselvård, ergonomi och elsäkerhet, och tar hänsyn till detta i musicerandet.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för förutsättningar för god arbetsmiljö avseende hörselvård, ergonomi och elsäkerhet, och tar hänsyn till detta i musicerandet."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Ensemble 2",
+    "description" : "Kursen ensemble 2 omfattar samtliga mål under rubriken Ämnets syfte, med särskild betoning på punkterna 1–4 och 7. I kursen behandlas fördjupade kunskaper inom vald eller valda ensembleformer och genrer.",
+    "code" : "MUSENS02S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Instrumentalt eller vokalt ensemblemusicerande i gehörsbaserad eller noterad musik i en eller flera valda genrer.", "Rytm, melodi, harmonik och form.", "Personligt, konstnärligt och musikaliskt uttryck.", "Fördjupad kunskap om stildrag och repertoar inom valda ensembleformer och genrer.", "Grundläggande improvisation inom valda ensembleformer och genrer.", "Fördjupad instudering, enskilt och i grupp, och repetitionsarbete samt metoder för detta. Grundläggande ensembleledning.", "Fördjupad musikalisk värdering, tolkning och gestaltning samt musikalisk kommunikation vid framträdande inför publik och i samarbete med andra." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven musicerar på ett nyanserat sätt i ensemble, efter komplexa och varierade former av notbilder eller i fri gehörsbaserad musik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven musicerar på ett nyanserat sätt i ensemble, efter komplexa och varierade former av notbilder eller i fri gehörsbaserad musik.",
+          "C" : "Eleven musicerar <strong>med viss teknisk skicklighet</strong> på ett nyanserat sätt i ensemble, efter komplexa och varierade former av notbilder eller i fri gehörsbaserad musik.",
+          "A" : "Eleven musicerar <strong>med teknisk skicklighet</strong> på ett nyanserat sätt i ensemble, efter komplexa och varierade former av notbilder eller i fri gehörsbaserad musik."
+        }
+      }, {
+        "text" : "I sitt musicerande uppvisar eleven ett <strong>________</strong> personligt, konstnärligt och musikaliskt uttryck och följer <strong>________</strong> den valda genrens, alternativt valda genrers, krav på rytm, melodi, harmonik och form.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt musicerande uppvisar eleven ett <strong>visst</strong> personligt, konstnärligt och musikaliskt uttryck och följer <strong>med viss säkerhet</strong> den valda genrens, alternativt valda genrers, krav på rytm, melodi, harmonik och form.",
+          "C" : "I sitt musicerande uppvisar eleven ett personligt, konstnärligt och musikaliskt uttryck och följer <strong>med säkerhet</strong> den valda genrens, alternativt valda genrers, krav på rytm, melodi, harmonik och form.",
+          "A" : "I sitt musicerande uppvisar eleven ett <strong>gott</strong> personligt, konstnärligt och musikaliskt uttryck och följer <strong>med säkerhet</strong> den valda genrens, alternativt valda genrers, krav på rytm, melodi, harmonik och form."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för grundläggande repertoar och stildrag inom valda genrer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för grundläggande repertoar och stildrag inom valda genrer.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för grundläggande repertoar och stildrag inom valda genrer.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för grundläggande repertoar och stildrag inom valda genrer."
+        }
+      }, {
+        "text" : "Eleven gör <strong>________</strong>, <strong>________</strong> improvisationer i den valda genrens stil, alternativt de valda genrernas stilar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör <strong>styrda</strong>, <strong>korta</strong> improvisationer i den valda genrens stil, alternativt de valda genrernas stilar.",
+          "C" : "Eleven gör <strong>styrda</strong>, <strong>längre</strong> improvisationer i den valda genrens stil, alternativt de valda genrernas stilar.",
+          "A" : "Eleven gör <strong>fria</strong>, <strong>längre</strong> improvisationer i den valda genrens stil, alternativt de valda genrernas stilar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven diskuterar <strong>________</strong> relevanta metoder för instudering av aktuellt musikaliskt material.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> relevanta metoder för instudering av aktuellt musikaliskt material.",
+          "C" : "Eleven diskuterar <strong>utförligt och föreslår</strong> relevanta metoder för instudering av aktuellt musikaliskt material.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat och föreslår</strong> relevanta metoder för instudering av aktuellt musikaliskt material."
+        }
+      }, {
+        "text" : "Eleven förbereder och leder instudering av en <strong>________</strong> repertoar i styrda situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven förbereder och leder instudering av en <strong>enkel</strong> repertoar i styrda situationer.",
+          "C" : "Eleven förbereder och leder instudering av <strong>komplex</strong> repertoar i styrda situationer.",
+          "A" : "Eleven förbereder och leder instudering av <strong>komplex</strong> repertoar i styrda situationer."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för gruppens övriga stämmaterial.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för gruppens övriga stämmaterial.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för gruppens övriga stämmaterial.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för gruppens övriga stämmaterial."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven värderar det musikaliska resultatet med <strong>________</strong> omdömen och diskuterar <strong>________</strong> åtgärder för att utveckla repetitionsarbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven värderar det musikaliska resultatet med <strong>enkla</strong> omdömen och diskuterar <strong>översiktligt</strong> åtgärder för att utveckla repetitionsarbetet.",
+          "C" : "Eleven värderar det musikaliska resultatet med <strong>nyanserade</strong> omdömen och diskuterar <strong>utförligt</strong> åtgärder för att utveckla repetitionsarbetet <strong>och kommer med förslag på åtgärder för att utveckla repetitionsarbetet</strong>.",
+          "A" : "Eleven värderar det musikaliska resultatet med <strong>nyanserade</strong> omdömen och <strong>ger förslag på hur arbetet kan förbättras</strong> samt diskuterar <strong>utförligt och nyanserat</strong> åtgärder för att utveckla repetitionsarbetet <strong>och kommer med välgrundade och motiverade förslag på åtgärder för att utveckla repetitionsarbetet</strong>."
+        }
+      }, {
+        "text" : "Eleven diskuterar <strong>________</strong> och föreslår <strong>________</strong> tolkningsalternativ.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> och föreslår <strong>något</strong> tolkningsalternativ.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> och föreslår <strong>några</strong> tolkningsalternativ.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat</strong> samt föreslår <strong>flera</strong> tolkningsalternativ."
+        }
+      }, {
+        "text" : "Eleven kommunicerar med och anpassar sin kommunikation <strong>________</strong> till publiken.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kommunicerar med och anpassar sin kommunikation <strong>med viss säkerhet</strong> till publiken.",
+          "C" : "Eleven kommunicerar med och anpassar sin kommunikation <strong>med säkerhet</strong> till publiken. <strong>Eleven uppvisar ledighet i sin kommunikation med publiken</strong>.",
+          "A" : "Eleven kommunicerar med och anpassar sin kommunikation <strong>med säkerhet</strong> till publiken. <strong>Eleven uppvisar ledighet och personligt uttryck i sin kommunikation med publiken</strong>."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Ensemble med körsång",
+    "description" : "Kursen ensemble med körsång omfattar punkterna 1–2 och 4–9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1, 4 och 6–9.",
+    "code" : "MUSENS0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Spel eller sång i ensemble på en grundläggande nivå.", "Körsång på en grundläggande nivå.", "Musicerande i noterad och gehörsbaserad musik.", "Konstnärlighet och genrer i olika tider och kulturer. Stildrag och kännetecken.", "Instudering i grupp, till exempel stämövning, intonationsövning och repetitionsmetodik.", "Grundläggande röstvård och metoder för det.", "Grundläggande musikalisk bearbetning, till exempel att göra en andrastämma, välja instrumentering, kompstil, musikalisk form och disposition.", "Grundläggande musikalisk gestaltning och kommunikation vid framträdande inför publik och i samarbete med andra.", "Grundläggande hantering av musikteknisk utrustning med grundläggande begrepp inom ljudteknik och rumsakustik. Ljudanläggning för repetition och konsert. Mikrofonteknik och kabelhantering. Analogt och digitalt ljud samt midi. Digital bearbetning av musikaliskt material med olika inspelningstekniker.", "Arbetsmiljö vid musikutövning, till exempel elsäkerhet, ergonomi, hörselvård och belysning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven musicerar <strong>________</strong> i ensemble och kör, efter <strong>________</strong> notbilder och i <strong>________</strong> styrd gehörsbaserad musik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven musicerar <strong>med viss säkerhet</strong> i ensemble och kör, efter <strong>enkla och kända</strong> notbilder och i <strong>enkel och</strong> styrd gehörsbaserad musik.",
+          "C" : "Eleven musicerar <strong>nyanserat och med viss säkerhet</strong> i ensemble och kör, efter notbilder och i styrd gehörsbaserad musik.",
+          "A" : "Eleven musicerar <strong>nyanserat och med säkerhet</strong> i ensemble och kör, efter <strong>komplexa</strong> notbilder och i styrd <strong>och fri</strong> gehörsbaserad musik."
+        }
+      }, {
+        "text" : "I sitt musicerande uppvisar eleven ett <strong>________</strong> konstnärligt uttryck och följer <strong>________</strong> genrespecifika krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt musicerande uppvisar eleven ett <strong>visst</strong> konstnärligt uttryck och följer <strong>med viss säkerhet</strong> genrespecifika krav.",
+          "C" : "I sitt musicerande uppvisar eleven ett konstnärligt uttryck och följer <strong>med viss säkerhet</strong> genrespecifika krav.",
+          "A" : "I sitt musicerande uppvisar eleven ett konstnärligt uttryck och följer <strong>med säkerhet</strong> genrespecifika krav."
+        }
+      }, {
+        "text" : "Eleven tar ansvar för instuderingen, och det musikaliska resultatet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för instuderingen, och det musikaliska resultatet är <strong>tillfredsställande</strong>.",
+          "C" : "Eleven tar ansvar för instuderingen, och det musikaliska resultatet är <strong>tillfredsställande</strong>. <strong>Dessutom ger eleven välgrundade förslag på hur arbetet kan förbättras</strong>.",
+          "A" : "Eleven tar ansvar för instuderingen, och det musikaliska resultatet är <strong>gott</strong>. <strong>Dessutom ger eleven välgrundade och nyanserade förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven deltar i och redogör <strong>________</strong> för <strong>________</strong> metod för röstvård.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven deltar i och redogör <strong>översiktligt</strong> för <strong>någon</strong> metod för röstvård.",
+          "C" : "Eleven deltar i och redogör <strong>utförligt</strong> för <strong>någon</strong> metod för röstvård.",
+          "A" : "Eleven deltar i och redogör <strong>utförligt och nyanserat</strong> för <strong>några</strong> metoder för röstvård. <strong>Dessutom tar eleven initiativ till röstvård som utvecklar rösten</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör en <strong>________</strong> bearbetning av <strong>________</strong> musikaliskt material för den egna gruppen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> bearbetning av <strong>enkelt</strong> musikaliskt material för den egna gruppen.",
+          "C" : "Eleven gör en bearbetning av musikaliskt material för den egna gruppen.",
+          "A" : "Eleven gör en <strong>avancerad</strong> bearbetning av <strong>komplext</strong> musikaliskt material för den egna gruppen."
+        }
+      }, {
+        "text" : "Eleven samarbetar <strong>________</strong> samt tar ansvar vid gruppens musikframförande och i kommunikation med publik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar <strong>med viss säkerhet</strong> samt tar ansvar vid gruppens musikframförande och i kommunikation med publik.",
+          "C" : "Eleven samarbetar <strong>med viss säkerhet</strong> samt tar ansvar vid gruppens musikframförande och i kommunikation med publik.",
+          "A" : "Eleven samarbetar <strong>med säkerhet</strong> samt tar ansvar vid gruppens musikframförande och i kommunikation med publik."
+        }
+      }, {
+        "text" : "Eleven värderar med <strong>________</strong> omdömen innehållet i och dispositionen av musikframförandet och kommunikationen med publiken.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven värderar med <strong>enkla</strong> omdömen innehållet i och dispositionen av musikframförandet och kommunikationen med publiken.",
+          "C" : "Eleven värderar med <strong>nyanserade</strong> omdömen innehållet i och dispositionen av musikframförandet och kommunikationen med publiken.",
+          "A" : "Eleven värderar med <strong>nyanserade</strong> omdömen innehållet i och dispositionen av musikframförandet och kommunikationen med publiken <strong>samt ger förslag på hur detta kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> enkel musikteknisk utrustning för det egna musicerandet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> enkel musikteknisk utrustning för det egna musicerandet.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> enkel musikteknisk utrustning för det egna musicerandet <strong>samt ger välgrundade förslag på hur gruppen bättre kan utnyttja musikteknisk utrustning</strong>.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> enkel musikteknisk utrustning för det egna musicerandet <strong>samt ger välgrundade och nyanserade förslag på hur gruppen bättre kan utnyttja musikteknisk utrustning även i olika konsertsituationer</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för några arbetsmiljöfrågor som rör ensemblemusicerande och körsång.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för några arbetsmiljöfrågor som rör ensemblemusicerande och körsång.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för några arbetsmiljöfrågor som rör ensemblemusicerande och körsång.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för några arbetsmiljöfrågor som rör ensemblemusicerande och körsång <strong>samt ger välgrundade och nyanserade förslag på hur arbetsmiljön kan förbättras</strong>."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Ensembleledning och dirigering",
+    "description" : "Kursen ensembleledning och dirigering omfattar punkterna 1–2, 4–5 och 7 under rubriken Ämnets syfte, med särskild betoning på färdigheter i att använda ett konstnärligt och musikaliskt uttryck samt punkterna 4 och 7.",
+    "code" : "MUSENE0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Musikaliskt ledarskap samt konstnärligt och personligt uttryck, i två eller flera genrer.", "Repertoar och stildrag i olika genrer.", "Repetitionsmetodik för olika ensembletyper. Studium av partitur från olika stilar och tider.", "Slagteknik och taktartsfigurer.", "Förmedling och gestaltning av konstnärliga intentioner, muntligt och med gester.", "Olika ensembletyper och deras konventioner för ledning.", "Rösten, akustiska och elektriska instrument och deras egenskaper och musikaliska användningsområden. Röstvård och metoder för det, till exempel uppsjungningsövningar.", "Musikalisk kommunikation och samarbetsförmåga.", "Kommunikation med publik. Presentation av program.", "Kvalitetsbedömning av musikframföranden, vilket innebär musikalisk värdering, analys och tolkning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven leder <strong>________</strong> körens eller ensemblens musicerande <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven leder <strong>med viss säkerhet</strong> körens eller ensemblens musicerande <strong>i styrda situationer i samråd</strong> med handledare.",
+          "C" : "Eleven leder <strong>med viss säkerhet</strong> körens eller ensemblens musicerande <strong>i styrda situationer efter samråd</strong> med handledare.",
+          "A" : "Eleven leder <strong>med säkerhet</strong> körens eller ensemblens musicerande <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "I sitt musicerande uppvisar eleven ett <strong>________</strong> konstnärligt uttryck och följer <strong>________</strong> genrespecifika krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt musicerande uppvisar eleven ett <strong>visst</strong> konstnärligt uttryck och följer <strong>med viss säkerhet</strong> genrespecifika krav.",
+          "C" : "I sitt musicerande uppvisar eleven ett konstnärligt uttryck och följer <strong>med säkerhet</strong> genrespecifika krav.",
+          "A" : "I sitt musicerande uppvisar eleven ett konstnärligt uttryck och följer <strong>med säkerhet</strong> genrespecifika krav."
+        }
+      }, {
+        "text" : "Eleven är <strong>________</strong> till partituret.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven är <strong>bunden</strong> till partituret.",
+          "C" : "Eleven är <strong>delvis obunden</strong> till partituret <strong>och uppvisar ett visst personligt uttryck i framförandet</strong>.",
+          "A" : "Eleven är <strong>obunden</strong> till partituret <strong>och uppvisar ett personligt uttryck och en spontanitet i framförandet</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för grundläggande repertoar och stildrag inom valda genrer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för grundläggande repertoar och stildrag inom valda genrer.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för grundläggande repertoar och stildrag inom valda genrer.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för grundläggande repertoar och stildrag inom valda genrer."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för olika ensembletyper och deras instrument samt för konventioner för musikalisk ledning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för olika ensembletyper och deras instrument samt för konventioner för musikalisk ledning.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för olika ensembletyper och deras instrument samt för konventioner för musikalisk ledning.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för olika ensembletyper och deras instrument samt för konventioner för musikalisk ledning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tar ansvar för eget förberedelsearbete, och resultatet av instudering och tolkning av partitur är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för eget förberedelsearbete, och resultatet av instudering och tolkning av partitur är <strong>tillfredsställande</strong>.",
+          "C" : "Eleven tar ansvar <strong>och diskuterar relevanta metoder</strong> för eget förberedelsearbete, och resultatet av instudering och tolkning av partitur är <strong>tillfredsställande</strong>.",
+          "A" : "Eleven tar ansvar <strong>och diskuterar relevanta metoder</strong> för eget förberedelsearbete, och resultatet av instudering och tolkning av partitur är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven uppvisar en <strong>________</strong> och <strong>________</strong> slagteknik i <strong>________</strong> taktartsfigurer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven uppvisar en <strong>statisk gestik</strong> och <strong>begränsad</strong> slagteknik i <strong>några</strong> taktartsfigurer.",
+          "C" : "Eleven uppvisar en <strong>dynamisk gestik</strong> och <strong>tillfredsställande</strong> slagteknik i <strong>några</strong> taktartsfigurer.",
+          "A" : "Eleven uppvisar en <strong>dynamisk</strong> och <strong>plastisk gestik</strong> samt <strong>god</strong> slagteknik i <strong>flera</strong> taktartsfigurer."
+        }
+      }, {
+        "text" : "Elevens förmedlar <strong>________</strong> musikalisk intention i förebildning, gestik och instruktion samt använder <strong>________</strong> repetitionsmetod <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Elevens förmedlar <strong>med viss säkerhet</strong> musikalisk intention i förebildning, gestik och instruktion samt använder <strong>någon</strong> repetitionsmetod <strong>i samråd</strong> med handledare.",
+          "C" : "Elevens förmedlar <strong>med viss säkerhet</strong> musikalisk intention i förebildning, gestik och instruktion samt använder <strong>några</strong> repetitionsmetoder <strong>efter samråd</strong> med handledare.",
+          "A" : "Elevens förmedlar <strong>med säkerhet</strong> musikalisk intention i förebildning, gestik och instruktion samt använder <strong>flera</strong> repetitionsmetoder <strong>efter samråd</strong> med handledare."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> egenskaper hos <strong>________</strong> instrument och deras användningsområden, redogör översiktligt för grundläggande röstfysiologi och använder <strong>________</strong> relevant metod för uppsjungning av kör och uppvärmning av ensemble.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> egenskaper hos <strong>några</strong> instrument och deras användningsområden, redogör översiktligt för grundläggande röstfysiologi och använder <strong>någon</strong> relevant metod för uppsjungning av kör och uppvärmning av ensemble.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> egenskaper hos <strong>några</strong> instrument och deras användningsområden, redogör översiktligt för grundläggande röstfysiologi och använder <strong>flera</strong> relevanta metoder för uppsjungning av kör och uppvärmning av ensemble.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> egenskaper hos <strong>flera elektriska och akustiska</strong> instrument och deras användningsområden, redogör översiktligt för grundläggande röstfysiologi och använder <strong>flera</strong> relevanta metoder för uppsjungning av kör och uppvärmning av ensemble."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar <strong>________</strong> i musikalisk gestaltning och leder <strong>________</strong> ett musikframförande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar <strong>med viss säkerhet</strong> i musikalisk gestaltning och leder <strong>med viss säkerhet</strong> ett musikframförande.",
+          "C" : "Eleven samarbetar <strong>med viss säkerhet</strong> i musikalisk gestaltning och leder <strong>med viss säkerhet</strong> musikframförande.",
+          "A" : "Eleven samarbetar <strong>med säkerhet</strong> i musikalisk gestaltning och leder <strong>med säkerhet</strong> musikframförande."
+        }
+      }, {
+        "text" : "Eleven kommunicerar med och anpassar sin kommunikation <strong>________</strong> till publiken och uppvisar <strong>________</strong> ledighet i sin kommunikation med gruppen och publiken.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kommunicerar med och anpassar sin kommunikation <strong>med viss säkerhet</strong> till publiken och uppvisar <strong>viss</strong> ledighet i sin kommunikation med gruppen och publiken.",
+          "C" : "Eleven kommunicerar med och anpassar sin kommunikation <strong>med viss säkerhet</strong> till publiken och uppvisar <strong>viss</strong> ledighet i sin kommunikation med gruppen och publiken.",
+          "A" : "Eleven kommunicerar med och anpassar sin kommunikation <strong>med säkerhet</strong> till publiken och uppvisar ledighet i sin kommunikation med gruppen och publiken."
+        }
+      }, {
+        "text" : "Eleven presenterar program <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven presenterar program <strong>med viss säkerhet</strong>.",
+          "C" : "Eleven presenterar program <strong>med viss säkerhet</strong>.",
+          "A" : "Eleven presenterar program <strong>med säkerhet</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utvärderar med <strong>________</strong> omdömen repetitionsarbete och konsert samt värderar med <strong>________</strong> omdömen det konstnärliga resultatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar med <strong>enkla</strong> omdömen repetitionsarbete och konsert samt värderar med <strong>enkla</strong> omdömen det konstnärliga resultatet.",
+          "C" : "Eleven utvärderar med <strong>nyanserade</strong> omdömen repetitionsarbete och konsert samt värderar med <strong>nyanserade</strong> omdömen det konstnärliga resultatet.",
+          "A" : "Eleven utvärderar med <strong>nyanserade</strong> omdömen repetitionsarbete och konsert samt värderar med <strong>nyanserade</strong> omdömen det konstnärliga resultatet <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Instrument eller sång 1",
+    "description" : "Kursen instrument eller sång 1 omfattar punkterna 1–2, 4–5 och 9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 4–5 samt musicerande inför publik. I kursen behandlas grundläggande färdigheter inom valt instrument eller i sång.",
+    "code" : "MUSINS01S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Grundläggande instrumental spelteknik, alternativt sångteknik.", "Spel eller sång efter noter och på gehör.", "Grundläggande musikalisk tolkning, stil och form.", "Grundläggande repertoar för det egna instrumentet.", "Musikaliska instuderingsmetoder och övningsmetoder.", "Instruments konstruktion, grundläggande egenskaper och instrumentvård, alternativt grundläggande röstfysiologi och röstvård och metoder för detta.", "Grundläggande principer för att möta publik, till exempel presentation av program och medverkande, scennärvaro.", "Arbetsmiljö vid musikutövning, till exempel ergonomi, hörselvård och elsäkerhet vid instrumentalspel eller sång." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven spelar eller sjunger, avkodar och realiserar en enkel notbild på sitt instrument eller med rösten <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven spelar eller sjunger, avkodar och realiserar en enkel notbild på sitt instrument eller med rösten <strong>med viss säkerhet</strong>.",
+          "C" : "Eleven spelar eller sjunger, avkodar och realiserar en enkel notbild på sitt instrument eller med rösten <strong>med viss säkerhet</strong>.",
+          "A" : "Eleven spelar eller sjunger, avkodar <strong>a prima vista</strong> och realiserar en enkel notbild på sitt instrument eller med rösten <strong>med säkerhet</strong>."
+        }
+      }, {
+        "text" : "Eleven uppfattar <strong>________</strong> en enkel musikalisk figur via gehöret och återger den på sitt instrument eller med rösten med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven uppfattar <strong>med viss säkerhet</strong> en enkel musikalisk figur via gehöret och återger den på sitt instrument eller med rösten med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven uppfattar <strong>med viss säkerhet</strong> en enkel musikalisk figur via gehöret och återger den på sitt instrument eller med rösten med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven uppfattar <strong>med säkerhet</strong> en enkel musikalisk figur via gehöret och återger den på sitt instrument eller med rösten med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "Eleven diskuterar och redogör <strong>________</strong> för <strong>________</strong> stildrag i <strong>________</strong> musikstil, med <strong>________</strong> resonemang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar och redogör <strong>översiktligt</strong> för <strong>grundläggande</strong> stildrag i <strong>någon</strong> musikstil, med <strong>enkla</strong> resonemang.",
+          "C" : "Eleven diskuterar och redogör <strong>utförligt</strong> för <strong>grundläggande</strong> stildrag i <strong>några</strong> musikstilar <strong>och hur de kan påverka interpretationen</strong>, med <strong>välgrundade</strong> resonemang.",
+          "A" : "Eleven diskuterar och redogör <strong>utförligt</strong> för <strong>varierade</strong> stildrag i <strong>flera</strong> musikstilar <strong>och hur de kan påverka interpretationen</strong>, med <strong>välgrundade och nyanserade</strong> resonemang."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven spelar eller sjunger <strong>________</strong> enkla musikstycken med ett <strong>________</strong> personligt uttryck.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven spelar eller sjunger <strong>några</strong> enkla musikstycken med ett <strong>visst</strong> personligt uttryck.",
+          "C" : "Eleven spelar eller sjunger <strong>några</strong> enkla musikstycken med ett <strong>visst</strong> personligt uttryck.",
+          "A" : "Eleven spelar eller sjunger <strong>några</strong> enkla musikstycken med ett personligt uttryck."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tar, med <strong>________</strong> musikaliskt resultat, ansvar för instudering av musik, prövar <strong>________</strong> strategi för musikalisk instudering och arbetar efter lärarens instruktioner i sitt eget övande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar, med <strong>tillfredsställande</strong> musikaliskt resultat, ansvar för instudering av musik, prövar <strong>någon</strong> strategi för musikalisk instudering och arbetar efter lärarens instruktioner i sitt eget övande.",
+          "C" : "Eleven tar, med <strong>tillfredsställande</strong> musikaliskt resultat, ansvar för instudering av musik, prövar <strong>några</strong> strategier för musikalisk instudering, <strong>upptäcker speltekniska områden i sitt eget övande som behöver särskild uppmärksamhet</strong> och arbetar efter lärarens instruktioner i sitt eget övande.",
+          "A" : "Eleven tar, med <strong>tillfredsställande</strong> musikaliskt resultat, ansvar för instudering av musik, prövar <strong>flera</strong> strategier för musikalisk instudering, <strong>utarbetar egna strategier, upptäcker och analyserar speltekniska områden i sitt eget övande som behöver särskild uppmärksamhet</strong> och arbetar <strong>såväl</strong> efter lärarens instruktioner i sitt eget övande <strong>som med egna övningar</strong>."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för <strong>________</strong> delar av instrumentets konstruktion, funktion och vård, alternativt för <strong>________</strong> röstfysiologi och röstvård.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för <strong>grundläggande</strong> delar av instrumentets konstruktion, funktion och vård, alternativt för <strong>grundläggande</strong> röstfysiologi och röstvård.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för delar av instrumentets konstruktion och funktion, alternativt för röstfysiologi och röstvård.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för delar av instrumentets konstruktion och funktion, alternativt för röstfysiologi och röstvård."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven medverkar med tillfredsställande resultat vid framförande av hela musikstycken i <strong>________</strong> sammanhang <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven medverkar med tillfredsställande resultat vid framförande av hela musikstycken i <strong>slutna</strong> sammanhang <strong>inför undervisande lärare</strong>.",
+          "C" : "Eleven medverkar med tillfredsställande resultat vid framförande av hela musikstycken i <strong>slutna</strong> sammanhang <strong>inför undervisande lärare och andra elever</strong>.",
+          "A" : "Eleven medverkar med tillfredsställande resultat vid framförande av hela musikstycken i <strong>öppna, offentliga</strong> sammanhang."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för förutsättningar för god arbetsmiljö avseende rörelseapparat och hörsel.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för förutsättningar för god arbetsmiljö avseende rörelseapparat och hörsel.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för förutsättningar för god arbetsmiljö avseende rörelseapparat och hörsel.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för förutsättningar för god arbetsmiljö avseende rörelseapparat och hörsel."
+        }
+      }, {
+        "text" : "Eleven förebygger belastningsskador genom övningar och musicerar på ett sätt som motverkar belastningsskador.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven förebygger belastningsskador genom övningar och musicerar på ett sätt som motverkar belastningsskador.",
+          "C" : "Eleven förebygger belastningsskador genom övningar och musicerar på ett sätt som motverkar belastningsskador.",
+          "A" : "Eleven förebygger belastningsskador genom övningar och musicerar på ett sätt som motverkar belastningsskador."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Instrument eller sång 2",
+    "description" : "Kursen instrument eller sång 2 omfattar punkterna 1–2, 4–5 och 7 under rubriken Ämnets syfte, med särskild betoning på punkterna 1–2, 4 och 7. I kursen behandlas fördjupade färdigheter inom valt instrument eller i sång.",
+    "code" : "MUSINS02S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Fördjupad instrumental spelteknik, alternativt sångteknik.", "Spel eller sång efter noter och på gehör.", "Musikalitet, konstnärlighet och personligt uttryck.", "Repertoar för det egna instrumentet.", "Musikalisk tolkning, stil och form.", "Musikalisk instudering.", "Konserter och andra former av publikframträdanden, scennärvaro.", "Musikalisk kommunikation." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tar ansvar för att studera in och framföra musikverk av <strong>________</strong> omfattning med tillfredsställande resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för att studera in och framföra musikverk av <strong>mindre</strong> omfattning med tillfredsställande resultat.",
+          "C" : "Eleven tar ansvar för att studera in och framföra musikverk av <strong>en viss</strong> omfattning med tillfredsställande resultat.",
+          "A" : "Eleven tar ansvar för att studera in och framföra musikverk av <strong>större</strong> omfattning med tillfredsställande resultat."
+        }
+      }, {
+        "text" : "I sitt musicerande, efter noter och på gehör, uppvisar eleven ett <strong>________</strong> konstnärligt uttryck och följer <strong>________</strong> genrespecifika krav utifrån musikens historiska och kulturella sammanhang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt musicerande, efter noter och på gehör, uppvisar eleven ett <strong>visst</strong> konstnärligt uttryck och följer <strong>med viss säkerhet</strong> genrespecifika krav utifrån musikens historiska och kulturella sammanhang.",
+          "C" : "I sitt musicerande, efter noter och på gehör, uppvisar eleven ett konstnärligt uttryck och följer <strong>med säkerhet</strong> genrespecifika krav utifrån musikens historiska och kulturella sammanhang.",
+          "A" : "I sitt musicerande, efter noter och på gehör, uppvisar eleven ett <strong>gott</strong> konstnärligt <strong>och personligt</strong> uttryck och följer <strong>med säkerhet</strong> genrespecifika krav utifrån musikens historiska och kulturella sammanhang."
+        }
+      }, {
+        "text" : "Dessutom gör eleven <strong>________</strong> musikaliska tolkningar utifrån genre och praxis.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven <strong>enkla</strong> musikaliska tolkningar utifrån genre och praxis.",
+          "C" : "Dessutom gör eleven <strong>välgrundade</strong> musikaliska tolkningar utifrån genre och praxis.",
+          "A" : "Dessutom gör eleven <strong>välgrundade och nyanserade</strong> musikaliska tolkningar utifrån genre och praxis."
+        }
+      }, {
+        "text" : "Eleven uppvisar en <strong>________</strong> spel- eller sångteknik och anpassar den <strong>________</strong> till olika musikaliska uttryck.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven uppvisar en <strong>något utvecklad</strong> spel- eller sångteknik och anpassar den <strong>delvis</strong> till olika musikaliska uttryck.",
+          "C" : "Eleven uppvisar en <strong>utvecklad</strong> spel- eller sångteknik och anpassar den till olika musikaliska uttryck.",
+          "A" : "Eleven uppvisar en väl <strong>utvecklad</strong> spel- eller sångteknik och anpassar den <strong>väl</strong> till olika musikaliska uttryck."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven spelar eller sjunger en <strong>________</strong> grundläggande repertoar med tillfredsställande musikaliskt resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven spelar eller sjunger en <strong>begränsad</strong> grundläggande repertoar med tillfredsställande musikaliskt resultat.",
+          "C" : "Eleven spelar eller sjunger en grundläggande repertoar med tillfredsställande musikaliskt resultat.",
+          "A" : "Eleven spelar eller sjunger en <strong>omfattande</strong> grundläggande repertoar med tillfredsställande musikaliskt resultat."
+        }
+      }, {
+        "text" : "Eleven tar ansvar för instudering av musik, prövar <strong>________</strong> strategi för musikalisk instudering och arbetar efter lärarens instruktioner i sitt eget övande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för instudering av musik, prövar <strong>någon</strong> strategi för musikalisk instudering och arbetar efter lärarens instruktioner i sitt eget övande.",
+          "C" : "Eleven tar ansvar för instudering av musik, prövar <strong>några</strong> strategier för musikalisk instudering, <strong>upptäcker spel- eller sångtekniska områden som behöver särskild uppmärksamhet</strong> och arbetar efter lärarens instruktioner i sitt eget övande.",
+          "A" : "Eleven tar ansvar för instudering av musik, prövar <strong>några</strong> strategier för musikalisk instudering, <strong>upptäcker och analyserar spel- eller sångtekniska områden som behöver särskild uppmärksamhet</strong> samt arbetar efter lärarens instruktioner <strong>och egna väl fungerande övningar</strong> i sitt eget övande."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för instrumentets konstruktion och funktion, alternativt för röstfysiologi och röstvård.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för instrumentets konstruktion och funktion, alternativt för röstfysiologi och röstvård.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för instrumentets konstruktion, funktion och vård, alternativt för röstfysiologi och röstvård.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för instrumentets konstruktion, funktion och vård, alternativt för röstfysiologi och röstvård."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kommunicerar med och anpassar sitt musikaliska uttryck med tillfredsställande resultat till publik vid konsertframförande och anpassar sitt musikaliska uttryck till publik och medmusiker med <strong>________</strong> lyhördhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kommunicerar med och anpassar sitt musikaliska uttryck med tillfredsställande resultat till publik vid konsertframförande och anpassar sitt musikaliska uttryck till publik och medmusiker med <strong>viss</strong> lyhördhet.",
+          "C" : "Eleven kommunicerar med och anpassar sitt musikaliska uttryck med tillfredsställande resultat till publik vid konsertframförande och anpassar sitt musikaliska uttryck till publik och medmusiker med <strong>viss</strong> lyhördhet.",
+          "A" : "Eleven kommunicerar med och anpassar sitt musikaliska uttryck med tillfredsställande resultat till publik vid konsertframförande och anpassar sitt musikaliska uttryck till publik och medmusiker med lyhördhet."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Instrument eller sång 3",
+    "description" : "Kursen instrument eller sång 3 omfattar punkterna 1–2, 4, och 7 under rubriken Ämnets syfte, med särskild betoning på punkterna 1–2 samt musicerande inför och kommunikation med publik. I kursen behandlas avancerade färdigheter inom valt instrument eller i sång.",
+    "code" : "MUSINS03S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Avancerad instrumental spelteknik, alternativt avancerad sångteknik.", "Musikalisk tolkning, uppförandepraxis och form.", "Genrer, stilar och epoker.", "Konstnärligt uttryck och tolkning vid musikframförande.", "Repertoar för det egna instrumentet.", "Musikaliska instuderingsmetoder.", "Musikalisk kommunikation med publik och medmusiker, scennärvaro.", "Solistiskt framträdande." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tar ansvar för att studera in och framföra omfattande musikverk i valda stilar med <strong>________</strong> resultat och visar i sitt musicerande ett <strong>________</strong> personligt uttryck.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för att studera in och framföra omfattande musikverk i valda stilar med <strong>tillfredsställande</strong> resultat och visar i sitt musicerande ett <strong>visst</strong> personligt uttryck.",
+          "C" : "Eleven tar ansvar för att studera in och framföra omfattande musikverk i valda stilar med <strong>tillfredsställande</strong> resultat och visar i sitt musicerande ett personligt uttryck.",
+          "A" : "Eleven tar ansvar för att studera in och framföra omfattande musikverk i valda stilar med <strong>gott</strong> resultat och visar i sitt musicerande ett personligt, <strong>konstnärligt</strong> uttryck."
+        }
+      }, {
+        "text" : "Eleven prövar olika musikaliska uttryck, och i sitt musicerande anpassar eleven sin spel- eller sångteknik till dem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven prövar olika musikaliska uttryck, och i sitt musicerande anpassar eleven sin spel- eller sångteknik till dem.",
+          "C" : "Eleven prövar olika musikaliska uttryck <strong>med tillfredsställande resultat</strong>, och i sitt musicerande anpassar eleven sin spel- eller sångteknik till dem.",
+          "A" : "Eleven prövar olika musikaliska uttryck <strong>med gott resultat</strong>, och i sitt musicerande anpassar eleven sin spel- eller sångteknik till dem <strong>och till olikartade musikaliska situationer</strong>."
+        }
+      }, {
+        "text" : "I sina framföranden följer eleven konventioner för aktuell genre, stil och epok <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sina framföranden följer eleven konventioner för aktuell genre, stil och epok <strong>med viss säkerhet</strong>.",
+          "C" : "I sina framföranden följer eleven konventioner för aktuell genre, stil och epok <strong>med säkerhet</strong>.",
+          "A" : "I sina framföranden följer eleven konventioner för aktuell genre, stil och epok <strong>med säkerhet</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för uppförandepraxis och musikalisk form samt resonerar <strong>________</strong> om interpretation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för uppförandepraxis och musikalisk form samt resonerar <strong>översiktligt</strong> om interpretation.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för uppförandepraxis och musikalisk form samt resonerar <strong>utförligt och gör välgrundade ställningstaganden</strong> om interpretation.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för uppförandepraxis och musikalisk form samt resonerar <strong>utförligt och nyanserat och gör välgrundade ställningstaganden</strong> om interpretation."
+        }
+      }, {
+        "text" : "Eleven uppvisar i sitt musicerande <strong>________</strong> en varierad repertoar avseende stil samt spelteknisk, alternativt sångteknisk, nivå.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven uppvisar i sitt musicerande <strong>med viss säkerhet</strong> en varierad repertoar avseende stil samt spelteknisk, alternativt sångteknisk, nivå.",
+          "C" : "Eleven uppvisar i sitt musicerande <strong>med viss säkerhet</strong> en varierad repertoar avseende stil samt spelteknisk, alternativt sångteknisk, nivå.",
+          "A" : "Eleven uppvisar i sitt musicerande <strong>med viss säkerhet</strong> en varierad <strong>och omfattande</strong> repertoar avseende stil samt spelteknisk, alternativt sångteknisk, nivå."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Med <strong>________</strong> musikaliskt resultat tar eleven ansvar för instudering, prioriterar speltekniska områden och arbetar efter lärarens instruktioner i sitt eget övande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Med <strong>tillfredsställande</strong> musikaliskt resultat tar eleven ansvar för instudering, prioriterar speltekniska områden och arbetar efter lärarens instruktioner i sitt eget övande.",
+          "C" : "Med <strong>gott</strong> musikaliskt resultat tar eleven ansvar för instudering, prioriterar speltekniska områden och arbetar efter lärarens instruktioner i sitt eget övande.",
+          "A" : "Med <strong>mycket gott</strong> musikaliskt resultat tar eleven ansvar för instudering, prioriterar speltekniska områden, <strong>utarbetar egna strategier</strong> och arbetar efter lärarens instruktioner i sitt eget övande."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och genomför <strong>________</strong> konsertframträdande med tillfredsställande resultat och anpassar sitt uttryck efter situation och publik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och genomför <strong>något</strong> konsertframträdande med tillfredsställande resultat och anpassar sitt uttryck efter situation och publik.",
+          "C" : "Eleven planerar och genomför något konsertframträdande med tillfredsställande resultat <strong>och anpassar sitt uttryck efter medmusiker</strong>, situation och publik.",
+          "A" : "Eleven planerar och genomför <strong>några</strong> konsertframträdanden med tillfredsställande resultat och anpassar sitt uttryck efter <strong>medmusiker</strong>, situation och publik."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Körsång 1",
+    "description" : "Kursen körsång 1 omfattar punkterna 1–2, 4–5 och 7 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 7. I kursen behandlas grundläggande färdigheter i ämnet.",
+    "code" : "MUSKÖS01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Körmusicerande i flerstämmig körmusik på en grundläggande nivå från olika repertoarområden.", "Musicerande i gehörsbaserad och noterad musik.", "Genrer i olika tider och kulturer. Stildrag och kännetecken.", "Samarbetsförmåga och metoder för instudering, enskilt och i grupp.", "Grundläggande röstvård och metoder för det.", "Grundläggande musikalisk gestaltning och kommunikation vid framträdande inför publik och i samarbete med andra." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven musicerar <strong>________</strong> i kör, efter <strong>________</strong> och <strong>________</strong> notbilder samt i <strong>________</strong> och styrd gehörsbaserad musik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven musicerar <strong>med viss säkerhet</strong> i kör, efter <strong>enkla</strong> och <strong>kända</strong> notbilder samt i <strong>enkel</strong> och styrd gehörsbaserad musik.",
+          "C" : "Eleven musicerar <strong>med säkerhet</strong> i kör, efter notbilder samt i styrd gehörsbaserad musik.",
+          "A" : "Eleven musicerar <strong>med säkerhet</strong> i kör, efter <strong>komplexa</strong> notbilder samt i styrd <strong>och fri</strong> gehörsbaserad musik."
+        }
+      }, {
+        "text" : "I sitt musicerande uppvisar eleven ett <strong>________</strong> konstnärligt uttryck och följer <strong>________</strong> genrespecifika krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt musicerande uppvisar eleven ett <strong>visst</strong> konstnärligt uttryck och följer <strong>med viss säkerhet</strong> genrespecifika krav.",
+          "C" : "I sitt musicerande uppvisar eleven ett konstnärligt uttryck och följer <strong>med viss säkerhet</strong> genrespecifika krav.",
+          "A" : "I sitt musicerande uppvisar eleven ett <strong>gott</strong> konstnärligt uttryck och följer <strong>med säkerhet</strong> genrespecifika krav."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tar ansvar för instudering av stämmaterial inför repetition, och det musikaliska resultatet är tillfredsställande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för instudering av stämmaterial inför repetition, och det musikaliska resultatet är tillfredsställande.",
+          "C" : "Eleven tar ansvar för instudering av stämmaterial inför repetition, och det musikaliska resultatet är tillfredsställande. <strong>Dessutom ger eleven välgrundade förslag på hur arbetet kan förbättras</strong>.",
+          "A" : "Eleven tar ansvar för instudering av stämmaterial inför repetition, och det musikaliska resultatet är tillfredsställande. <strong>Dessutom ger eleven välgrundade förslag på hur arbetet kan förbättras och upptäcker</strong>, <strong>analyserar och föreslår lösningar på olika instuderingsproblem</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för något grundläggande inslag i röstvård.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för något grundläggande inslag i röstvård.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för några grundläggande metoder för röstvård.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för några metoder för röstvård."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar <strong>________</strong> samt tar ansvar vid gruppens musikframförande och i kommunikation med publik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar <strong>med viss säkerhet</strong> samt tar ansvar vid gruppens musikframförande och i kommunikation med publik.",
+          "C" : "Eleven samarbetar <strong>med säkerhet</strong> samt tar ansvar vid gruppens musikframförande och i kommunikation med publik.",
+          "A" : "Eleven samarbetar <strong>med säkerhet</strong> samt tar ansvar vid gruppens musikframförande och i kommunikation med publik <strong>samt ger förslag på hur detta kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Eleven värderar med <strong>________</strong> omdömen innehållet i och dispositionen av musikframförandet och kommunikationen med publiken.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven värderar med <strong>enkla</strong> omdömen innehållet i och dispositionen av musikframförandet och kommunikationen med publiken.",
+          "C" : "Eleven värderar med <strong>nyanserade</strong> omdömen innehållet i och dispositionen av musikframförandet och kommunikationen med publiken.",
+          "A" : "Eleven värderar med <strong>nyanserade</strong> omdömen innehållet i och dispositionen av musikframförandet och kommunikationen med publiken <strong>samt ger förslag på hur detta kan förbättras</strong>."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Körsång 2",
+    "description" : "Kursen körsång 2 omfattar punkterna 1–2, 4–5 och 7 under rubriken Ämnets syfte, med särskild betoning på punkterna 1, 4–5 och 7. I kursen behandlas fördjupade kunskaper inom vald körtyp.",
+    "code" : "MUSKÖS02S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Körmusicerande i olika körtyper från olika repertoarområden och tidsepoker, med ett konstnärligt musikaliskt och sceniskt uttryck.", "Rytm, melodi, harmonik och form.", "Körmusicerande i gehörsbaserad och noterad musik.", "Klangideal, stildrag och uppförandepraxis i repertoar från olika tider.", "Samarbetsförmåga och fördjupade metoder för instudering, enskilt och i grupp, med textanalys och grundläggande körledning. Initiativtagande i instudering.", "Grundläggande röstfysiologi och fördjupad röstvård samt metoder för det.", "Fördjupad musikalisk gestaltning och kommunikation i samarbete med andra vid framträdanden inför publik." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven musicerar på ett nyanserat sätt i kör och följer <strong>________</strong> genrers krav på rytm, melodi, harmonik och form, innantill efter komplexa och varierade former av notbilder och <strong>________</strong> utantill.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven musicerar på ett nyanserat sätt i kör och följer <strong>med viss säkerhet</strong> genrers krav på rytm, melodi, harmonik och form, innantill efter komplexa och varierade former av notbilder och <strong>till viss del</strong> utantill.",
+          "C" : "Eleven musicerar på ett nyanserat sätt i kör och följer <strong>med viss säkerhet</strong> genrers krav på rytm, melodi, harmonik och form, innantill efter komplexa och varierade former av notbilder och utantill.",
+          "A" : "Eleven musicerar på ett nyanserat sätt i kör och följer <strong>med säkerhet</strong> genrers krav på rytm, melodi, harmonik och form, innantill efter komplexa och varierade former av notbilder och utantill."
+        }
+      }, {
+        "text" : "Eleven håller sin stämma i <strong>________</strong> musikaliska situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven håller sin stämma i <strong>bekanta</strong> musikaliska situationer.",
+          "C" : "Eleven håller sin stämma i <strong>obekanta</strong> musikaliska situationer.",
+          "A" : "Eleven håller sin stämma i <strong>obekanta och komplexa</strong> musikaliska situationer."
+        }
+      }, {
+        "text" : "I sitt musicerande bidrar eleven med <strong>________</strong> resultat till körens musikaliska och sceniska gestaltning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt musicerande bidrar eleven med <strong>tillfredsställande</strong> resultat till körens musikaliska och sceniska gestaltning.",
+          "C" : "I sitt musicerande bidrar eleven med <strong>tillfredsställande</strong> resultat till körens musikaliska och sceniska gestaltning.",
+          "A" : "I sitt musicerande bidrar eleven med <strong>gott</strong> resultat till körens musikaliska och sceniska gestaltning."
+        }
+      }, {
+        "text" : "I sitt musicerande följer eleven <strong>________</strong> klangideal, stildrag och uppförandepraxis i aktuell repertoar och redogör <strong>________</strong> för dem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt musicerande följer eleven <strong>med viss säkerhet</strong> klangideal, stildrag och uppförandepraxis i aktuell repertoar och redogör <strong>översiktligt</strong> för dem.",
+          "C" : "I sitt musicerande följer eleven <strong>med viss säkerhet</strong> klangideal, stildrag och uppförandepraxis i aktuell repertoar och redogör <strong>utförligt</strong> för dem.",
+          "A" : "I sitt musicerande följer eleven <strong>med säkerhet</strong> klangideal, stildrag och uppförandepraxis i aktuell repertoar och redogör <strong>utförligt och nyanserat</strong> för dem."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven diskuterar <strong>________</strong> relevanta metoder för instudering av aktuellt musikaliskt material.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> relevanta metoder för instudering av aktuellt musikaliskt material.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> relevanta metoder för instudering av aktuellt musikaliskt material.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat</strong> relevanta metoder för instudering av aktuellt musikaliskt material."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för körens övriga stämmaterial.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för körens övriga stämmaterial.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för körens övriga stämmaterial.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för körens övriga stämmaterial."
+        }
+      }, {
+        "text" : "Eleven gör <strong>________</strong> analyser av repetitionsarbetet och presenterar <strong>________</strong> förslag på hur det kan förbättras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör <strong>enkla</strong> analyser av repetitionsarbetet och presenterar <strong>enkla</strong> förslag på hur det kan förbättras.",
+          "C" : "Eleven gör <strong>välgrundade</strong> analyser av repetitionsarbetet och presenterar <strong>välgrundade</strong> förslag på hur det kan förbättras.",
+          "A" : "Eleven gör <strong>välgrundade och nyanserade</strong> analyser av repetitionsarbetet och presenterar <strong>välgrundade</strong> förslag på hur det kan förbättras."
+        }
+      }, {
+        "text" : "Eleven gör en <strong>________</strong> textanalys av ett givet körstycke och diskuterar <strong>________</strong> hur det kan påverka styckets interpretation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> textanalys av ett givet körstycke och diskuterar <strong>översiktligt</strong> hur det kan påverka styckets interpretation.",
+          "C" : "Eleven gör en <strong>välgrundad</strong> textanalys av ett givet körstycke och diskuterar <strong>utförligt</strong> hur det kan påverka styckets interpretation.",
+          "A" : "Eleven gör en <strong>välgrundad och nyanserad</strong> textanalys av ett givet körstycke och diskuterar <strong>utförligt och nyanserat</strong> hur det kan påverka styckets interpretation."
+        }
+      }, {
+        "text" : "Eleven förbereder och leder <strong>________</strong> med handledare instudering av enkel repertoar i sin egen körstämma.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven förbereder och leder <strong>i samråd</strong> med handledare instudering av enkel repertoar i sin egen körstämma.",
+          "C" : "Eleven förbereder och leder <strong>efter samråd</strong> med handledare instudering av enkel repertoar i sin egen körstämma.",
+          "A" : "Eleven förbereder och leder <strong>efter samråd</strong> med handledare instudering av enkel repertoar i sin egen körstämma."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för grundläggande röstfysiologi.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för grundläggande röstfysiologi.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för grundläggande röstfysiologi.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för grundläggande röstfysiologi."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för röstvård för sin egen röst och använder med <strong>________</strong> resultat <strong>________</strong> relevant metod för uppsjungning av sin körstämma.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för röstvård för sin egen röst och använder med <strong>tillfredsställande</strong> resultat <strong>någon</strong> relevant metod för uppsjungning av sin körstämma.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för röstvård för sin egen röst och använder <strong>med tillfredsställande</strong> resultat <strong>några</strong> relevanta metoder för uppsjungning av sin körstämma.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för röstvård för sin egen röst och använder med <strong>gott</strong> resultat <strong>flera</strong> relevanta metoder för uppsjungning av sin körstämma <strong>och kören</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kommunicerar med och anpassar sin kommunikation <strong>________</strong> till medsångare och publik i musikalisk gestaltning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kommunicerar med och anpassar sin kommunikation <strong>med viss säkerhet</strong> till medsångare och publik i musikalisk gestaltning.",
+          "C" : "Eleven kommunicerar med och anpassar sin kommunikation <strong>med säkerhet</strong> till medsångare och publik i musikalisk gestaltning.",
+          "A" : "Eleven kommunicerar med och anpassar sin kommunikation <strong>med säkerhet</strong> till medsångare och publik i musikalisk gestaltning."
+        }
+      }, {
+        "text" : "Eleven presenterar program <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven presenterar program <strong>med viss säkerhet</strong>.",
+          "C" : "Eleven presenterar program <strong>med viss säkerhet</strong>.",
+          "A" : "Eleven presenterar program <strong>med säkerhet</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Musik",
+    "description" : "Kursen musik omfattar punkterna 1–9 under rubriken Ämnets syfte, med särskild betoning på 1–2 och röstvård. Kursen behandlar grundläggande färdigheter i ämnet.",
+    "code" : "MUSMUS0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Musicerande i gehörsbaserad och noterad musik med röst eller instrument.", "Musikalisk kommunikation med röst och rörelse i musik och danser från olika tider eller kulturer. Stildrag och kännetecken.", "Sånger, alternativt låtar och danser, från olika tider eller kulturer.", "Instudering i grupp.", "Instrument och deras grundläggande egenskaper, kvaliteter och inbördes relationer. Grundläggande röstvård och metoder för det.", "Grundläggande musikskapande och bearbetning av musikaliskt material, till exempel att göra en andrastämma, välja instrumentering, kompstil, musikalisk form och disposition.", "Grundläggande musikalisk gestaltning och kommunikation vid framträdande inför publik och i samarbete med andra.", "Programvaror för musikbearbetning och grundläggande hantering av musikteknisk utrustning och digital bearbetning av musikaliskt material.", "Grundläggande arbetsmiljö vid musikutövning, till exempel elsäkerhet, ergonomi och hörselvård." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven musicerar efter enkel ackordanalys och på gehör.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven musicerar efter enkel ackordanalys och på gehör.",
+          "C" : "Eleven musicerar efter enkel ackordanalys och på gehör.",
+          "A" : "Eleven musicerar efter enkel ackordanalys och på gehör."
+        }
+      }, {
+        "text" : "I sitt musicerande följer eleven <strong>________</strong> genrespecifika krav och uppvisar ett <strong>________</strong> konstnärligt uttryck.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt musicerande följer eleven <strong>med viss säkerhet</strong> genrespecifika krav och uppvisar ett <strong>visst</strong> konstnärligt uttryck.",
+          "C" : "I sitt musicerande följer eleven <strong>med viss säkerhet</strong> genrespecifika krav och uppvisar ett konstnärligt uttryck.",
+          "A" : "I sitt musicerande följer eleven <strong>med säkerhet</strong> genrespecifika krav och uppvisar ett <strong>gott</strong> konstnärligt uttryck."
+        }
+      }, {
+        "text" : "Det musikaliska resultatet av elevens bidrag till den musikaliska gestaltningen är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Det musikaliska resultatet av elevens bidrag till den musikaliska gestaltningen är <strong>tillfredsställande</strong>.",
+          "C" : "Det musikaliska resultatet av elevens bidrag till den musikaliska gestaltningen är <strong>tillfredsställande</strong>.",
+          "A" : "Det musikaliska resultatet av elevens bidrag till den musikaliska gestaltningen är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för grundläggande instrumental och vokal repertoar i olika stilar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för grundläggande instrumental och vokal repertoar i olika stilar.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för grundläggande instrumental och vokal repertoar i olika stilar.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för grundläggande instrumental och vokal repertoar i olika stilar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tar ansvar för instuderingen av enkla sånger, alternativt låtar och danser, i grupp och kan framföra dem inom gruppen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för instuderingen av enkla sånger, alternativt låtar och danser, i grupp och kan framföra dem inom gruppen.",
+          "C" : "Eleven tar ansvar för instuderingen av enkla sånger, alternativt låtar och danser, både i grupp <strong>och självständigt</strong> och kan framföra dem inom gruppen.",
+          "A" : "Eleven tar ansvar för instuderingen av enkla sånger, alternativt låtar och danser, både i grupp <strong>och självständigt</strong> och kan framföra dem inom gruppen."
+        }
+      }, {
+        "text" : "Dessutom ger eleven <strong>________</strong> förslag på hur arbetet kan förbättras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom ger eleven <strong>enkla</strong> förslag på hur arbetet kan förbättras.",
+          "C" : "Dessutom ger eleven <strong>välgrundade</strong> förslag på hur arbetet kan förbättras.",
+          "A" : "Dessutom ger eleven <strong>välgrundade och nyanserade</strong> förslag på hur arbetet kan förbättras."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för de vanligaste musikinstrumenten och för grundläggande röstvård.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för de vanligaste musikinstrumenten och för grundläggande röstvård.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för de vanligaste musikinstrumenten och för grundläggande röstvård.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för de vanligaste musikinstrumenten och för grundläggande röstvård."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Tillsammans med andra kan eleven med tillfredsställande resultat anpassa en sång, alternativt en låt, till den egna gruppens särdrag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Tillsammans med andra kan eleven med tillfredsställande resultat anpassa en sång, alternativt en låt, till den egna gruppens särdrag.",
+          "C" : "Tillsammans med andra kan eleven med tillfredsställande resultat anpassa en sång, alternativt en låt, till den egna gruppens särdrag.",
+          "A" : "Tillsammans med andra kan eleven med tillfredsställande resultat anpassa en sång, alternativt en låt, till den egna gruppens särdrag."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för programvara för musikbearbetning och kan <strong>________</strong> med handledare koppla upp en ljudanläggning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för programvara för musikbearbetning och kan <strong>i samråd</strong> med handledare koppla upp en ljudanläggning.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för programvara för musikbearbetning och kan <strong>efter samråd</strong> med handledare koppla upp en ljudanläggning.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för programvara för musikbearbetning och kan <strong>efter samråd</strong> med handledare koppla upp en ljudanläggning."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för några arbetsmiljöfrågor som rör musicerande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för några arbetsmiljöfrågor som rör musicerande.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för några arbetsmiljöfrågor som rör musicerande.",
+          "A" : "Eleven redogör <strong>utförligt</strong> för några arbetsmiljöfrågor som rör musicerande."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Musik för yrkesdansare",
+    "description" : "Kursen musik för yrkesdansare omfattar punkterna 1–3 och 5 under rubriken Ämnets syfte, med särskild betoning på punkterna 2–3 samt kunskaper om röstvård. I kursen behandlas grundläggande färdigheter i ämnet. Kursen musik för yrkesdansare får bara anordnas på yrkesdansarutbildningen enligt förordningen (2011:7) om dansarutbildning.",
+    "code" : "MUSMUK0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Musikalisk kommunikation med rörelse och röst från olika tider eller kulturer.", "Musicerande i gehörsbaserad och noterad musik med röst eller instrument.", "Sånger, alternativt låtar, från olika tider eller kulturer.", "Instudering i grupp.", "Grundläggande improvisation. Musikalisk frasering och rörelsefrasering.", "Grundläggande musikkunskap, till exempel kompositörer, instrument, orkester och dirigentens roll.", "Dansens relation till musik. Hur man visualiserar, interagerar, kontrasterar, kompletterar eller arbetar parallellt med det musikaliska uttrycket.", "Grundläggande musiklära, till exempel musikens beståndsdelar, elementära formbegrepp.", "Repertoarkännedom i relation till scenkonstnärlig dans. Musikhistoria, epoker, genrer, musik- och dansstilar med betoning på konstnärliga gestaltningsidéer och det musikaliska uttrycket.", "Analys av levande och inspelad musik.", "Sång eller röstträning. Grundläggande röstvård och metoder för det. Grundläggande formbegrepp och musikens beståndsdelar, till exempel, puls, rytm, taktarter, frasering och polyrytmik.", "Grundläggande arbetsmiljö vid musikutövning, till exempel hörselvård." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven musicerar <strong>________</strong> med kroppen och med rösten eller instrument, efter både enklare noter och på gehör.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven musicerar <strong>med viss säkerhet</strong> med kroppen och med rösten eller instrument, efter både enklare noter och på gehör.",
+          "C" : "Eleven musicerar <strong>med viss säkerhet</strong> med kroppen och med rösten eller instrument, efter både enklare noter och på gehör.",
+          "A" : "Eleven musicerar <strong>med säkerhet</strong> med kroppen och med rösten eller instrument, efter både enklare noter och på gehör."
+        }
+      }, {
+        "text" : "I sitt musicerande följer eleven <strong>________</strong> genrespecifika krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt musicerande följer eleven <strong>med viss säkerhet</strong> genrespecifika krav.",
+          "C" : "I sitt musicerande följer eleven <strong>med viss säkerhet</strong> genrespecifika krav.",
+          "A" : "I sitt musicerande följer eleven <strong>med säkerhet</strong> genrespecifika krav."
+        }
+      }, {
+        "text" : "Eleven tar ansvar för instuderingen av enkla sånger, alternativt låtar i grupp och kan framföra dem inom gruppen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för instuderingen av enkla sånger, alternativt låtar i grupp och kan framföra dem inom gruppen.",
+          "C" : "Eleven tar ansvar för instuderingen av enkla sånger, alternativt låtar i grupp och kan framföra dem inom gruppen.",
+          "A" : "Eleven tar ansvar för instuderingen av enkla sånger, alternativt låtar i grupp och kan framföra dem inom gruppen."
+        }
+      }, {
+        "text" : "Dessutom ger eleven <strong>________</strong> förslag på hur arbetet kan förbättras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom ger eleven <strong>enkla</strong> förslag på hur arbetet kan förbättras.",
+          "C" : "Dessutom ger eleven <strong>välgrundade</strong> förslag på hur arbetet kan förbättras.",
+          "A" : "Dessutom ger eleven <strong>välgrundade och nyanserade</strong> förslag på hur arbetet kan förbättras."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Med <strong>________</strong> resultat prövar eleven <strong>________</strong> rytmer och danser från olika kulturer eller tider samt improviserad gestaltning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Med <strong>tillfredsställande</strong> resultat prövar eleven <strong>några enkla</strong> rytmer och danser från olika kulturer eller tider samt improviserad gestaltning.",
+          "C" : "Med <strong>tillfredsställande</strong> resultat prövar eleven <strong>några</strong> rytmer och danser från olika kulturer eller tider samt improviserad gestaltning <strong>med några olika karaktärsdrag</strong>.",
+          "A" : "Med <strong>gott</strong> resultat prövar eleven <strong>flera</strong> rytmer och danser från olika kulturer eller tider samt improviserad gestaltning <strong>med några olika karaktärsdrag</strong>."
+        }
+      }, {
+        "text" : "Eleven återger på gehör melodiska, harmoniska eller rytmiska element med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven återger på gehör melodiska, harmoniska eller rytmiska element med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven återger på gehör melodiska, harmoniska eller rytmiska element med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven återger på gehör melodiska, harmoniska eller rytmiska element med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "I sitt musicerande lyssnar eleven till de övriga i gruppen och anpassar sina insatser till impulser från dem, och det musikaliska resultatet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt musicerande lyssnar eleven till de övriga i gruppen och anpassar sina insatser till impulser från dem, och det musikaliska resultatet är <strong>tillfredsställande</strong>.",
+          "C" : "I sitt musicerande lyssnar eleven till de övriga i gruppen och anpassar sina insatser till impulser från dem, och det musikaliska resultatet är <strong>tillfredsställande. Dessutom ger eleven impulser som påverkar det musikaliska förloppet</strong>.",
+          "A" : "I sitt musicerande lyssnar eleven till de övriga i gruppen och anpassar sina insatser till impulser från dem, och det musikaliska resultatet är <strong>gott. Dessutom ger eleven impulser som påverkar det musikaliska förloppet, styr och leder det musikaliska förloppet</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för musiklära.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för musiklära.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för musiklära.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för musiklära."
+        }
+      }, {
+        "text" : "Dessutom identifierar eleven <strong>________</strong> och redogör <strong>________</strong> för några enkla musikaliska former.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom identifierar eleven <strong>med viss säkerhet</strong> och redogör <strong>översiktligt</strong> för några enkla musikaliska former.",
+          "C" : "Dessutom identifierar eleven <strong>med viss säkerhet</strong> och redogör <strong>utförligt</strong> för några enkla musikaliska former.",
+          "A" : "Dessutom identifierar eleven <strong>med säkerhet</strong> och redogör <strong>utförligt och nyanserat</strong> för några enkla musikaliska former."
+        }
+      }, {
+        "text" : "I redogörelserna använder eleven <strong>________</strong> vanliga musikteoretiska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I redogörelserna använder eleven <strong>med viss säkerhet</strong> vanliga musikteoretiska begrepp.",
+          "C" : "I redogörelserna använder eleven <strong>med viss säkerhet</strong> vanliga musikteoretiska begrepp.",
+          "A" : "I redogörelserna använder eleven <strong>med säkerhet</strong> vanliga musikteoretiska begrepp."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för grundläggande instrumental och vokal repertoar i olika stilar, genrer och epoker samt <strong>________</strong> för hur de konstnärliga idéerna relaterar till det musikaliska uttrycket.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för grundläggande instrumental och vokal repertoar i olika stilar, genrer och epoker samt <strong>översiktligt</strong> för hur de konstnärliga idéerna relaterar till det musikaliska uttrycket.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för grundläggande instrumental och vokal repertoar i olika stilar, genrer och epoker och <strong>välgrundat</strong> för hur de konstnärliga idéerna relaterar till det musikaliska uttrycket.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för grundläggande instrumental och vokal repertoar i olika stilar, genrer och epoker samt <strong>välgrundat och nyanserat</strong> för hur de konstnärliga idéerna relaterar till det musikaliska uttrycket."
+        }
+      }, {
+        "text" : "I redogörelsen identifierar eleven <strong>________</strong> olika sätt som dans förhåller sig till musik på.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I redogörelsen identifierar eleven <strong>med viss säkerhet</strong> olika sätt som dans förhåller sig till musik på.",
+          "C" : "I redogörelsen identifierar eleven <strong>med viss säkerhet</strong> olika sätt som dans förhåller sig till musik på.",
+          "A" : "I redogörelsen identifierar eleven <strong>med säkerhet</strong> olika sätt som dans förhåller sig till musik på."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för de vanligaste musikinstrumenten och för grundläggande röstvård.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för de vanligaste musikinstrumenten och för grundläggande röstvård.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för de vanligaste musikinstrumenten och för grundläggande röstvård.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för de vanligaste musikinstrumenten och för grundläggande röstvård."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 50,
+    "year" : null
+  }, {
+    "name" : "Musikimprovisation",
+    "description" : "Kursen musikimprovisation omfattar punkterna 1–3 och 7 under rubriken Ämnets syfte, med särskild betoning på punkt 3.",
+    "code" : "MUSMUI0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Musikskapande på det egna instrumentet, alternativt med den egna rösten.", "Spel, alternativt sång, i gehörsbaserad musik.", "Musikaliska stilar och musikaliska strukturer, melodiska, harmoniska och rytmiska element. Musikteoretiska begrepp till grund för improvisation.", "Fria improvisationer, musikalisk lek och spontanitet.", "Experimenterande med musikaliskt material.", "Byggstenar för improvisation, till exempel modus, skalor och musikaliska former.", "Fri improvisation.", "Interaktion, samspel och kommunikation med medmusiker." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven återger på gehör <strong>________</strong> melodiska, harmoniska eller rytmiska element, och det musikaliska resultatet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven återger på gehör <strong>enkla</strong> melodiska, harmoniska eller rytmiska element, och det musikaliska resultatet är <strong>tillfredsställande</strong>.",
+          "C" : "Eleven återger på gehör melodiska, harmoniska eller rytmiska element, och det musikaliska resultatet är <strong>tillfredsställande</strong>.",
+          "A" : "Eleven återger på gehör <strong>komplexa</strong> melodiska, harmoniska eller rytmiska element, och det musikaliska resultatet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "Eleven gestaltar <strong>________</strong> ett musikaliskt material, frångår det på förhand givna samt varierar melodik och rytmik inom <strong>________</strong> på förhand given harmonisk och rytmisk struktur med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gestaltar <strong>med viss säkerhet</strong> ett musikaliskt material, frångår det på förhand givna samt varierar melodik och rytmik inom <strong>någon</strong> på förhand given harmonisk och rytmisk struktur med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven gestaltar <strong>med viss säkerhet</strong> ett musikaliskt material, frångår det på förhand givna samt varierar melodik och rytmik inom <strong>några</strong> på förhand givna harmoniska och rytmiska strukturer med <strong>tillfredsställande</strong> resultat. <strong>Dessutom improviserar eleven fritt med tillfredsställande resultat</strong>.",
+          "A" : "Eleven gestaltar <strong>med säkerhet och utvecklar</strong> ett musikaliskt material, frångår det på förhand givna samt varierar melodik, rytmik <strong>och harmoni</strong> inom <strong>flera</strong> på förhand givna <strong>och spontana</strong> harmoniska och rytmiska strukturer med <strong>gott</strong> resultat. <strong>Dessutom improviserar eleven fritt med gott resultat</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tar ansvar för sin del av musicerandet i grupp med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för sin del av musicerandet i grupp med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven tar ansvar för sin del av musicerandet i grupp med <strong>gott</strong> resultat.",
+          "A" : "Eleven tar ansvar för sin del av musicerandet i grupp med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "I sitt musicerande uppvisar eleven ett <strong>________</strong> konstnärligt uttryck och anpassar <strong>________</strong> sitt musicerande till <strong>________</strong> på förhand given musikalisk situation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt musicerande uppvisar eleven ett <strong>visst</strong> konstnärligt uttryck och anpassar <strong>med viss säkerhet</strong> sitt musicerande till <strong>någon</strong> på förhand given musikalisk situation.",
+          "C" : "I sitt musicerande uppvisar eleven ett konstnärligt uttryck och anpassar <strong>med viss säkerhet</strong> sitt musicerande till <strong>flera</strong> på förhand givna musikaliska situationer.",
+          "A" : "I sitt musicerande uppvisar eleven ett <strong>gott</strong> konstnärligt <strong>och nyanserat</strong> uttryck och anpassar <strong>med viss säkerhet</strong> sitt musicerande till <strong>flera</strong> på förhand givna <strong>och fria</strong> musikaliska situationer."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för <strong>________</strong> musikteoretiska begrepp, och följer i sitt musicerande <strong>________</strong> stilar inom improvisation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för <strong>några</strong> musikteoretiska begrepp, och följer i sitt musicerande <strong>med viss säkerhet</strong> stilar inom improvisation.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för <strong>några</strong> musikteoretiska begrepp, och följer i sitt musicerande <strong>med viss säkerhet</strong> stilar inom improvisation.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för <strong>flera</strong> musikteoretiska begrepp, och följer i sitt musicerande <strong>med säkerhet</strong> stilar inom improvisation."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I sitt musicerande lyssnar eleven till de övriga i gruppen och anpassar sina insatser till impulser från dem, och det musikaliska resultatet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt musicerande lyssnar eleven till de övriga i gruppen och anpassar sina insatser till impulser från dem, och det musikaliska resultatet är <strong>tillfredsställande</strong>.",
+          "C" : "I sitt musicerande lyssnar eleven till de övriga i gruppen och anpassar sina insatser till impulser från dem, och det musikaliska resultatet är <strong>tillfredsställande</strong>. <strong>Dessutom ger eleven impulser som påverkar det musikaliska förloppet</strong>.",
+          "A" : "I sitt musicerande lyssnar eleven till de övriga i gruppen och anpassar sina insatser till impulser från dem, och det musikaliska resultatet är <strong>gott</strong>. <strong>Dessutom ger eleven impulser som påverkar det musikaliska förloppet, styr och leder det musikaliska förloppet</strong>."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Musikproduktion 1",
+    "description" : "Kursen musikproduktion 1 omfattar punkterna 8–9 under rubriken Ämnets syfte, med särskild betoning på punkt 9. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "MUSMUS01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Grundläggande bearbetning av ljud med analog och digital teknik.", "Medier för spridning av musikaliska produktioner.", "Koppling och styrning av ljudutrustning vid inspelningar och scenframföranden.", "Grundläggande ljuddesign och teknik vid livemusik.", "Rumsakustik och ljudlära.", "Planering och genomförande av ett musikaliskt produktionsprojekt i samarbete med andra, till exempel vid inspelning av sång eller av akustiska eller elektriska instrument.", "Lagar och regler som gäller konstnärliga produktioner, till exempel upphovsrätt.", "Arbetsmiljöfrågor med fokus på elsäkerhet, ergonomi, hörselvård, belysning, arbetstidsregler och arbetsmiljöregler." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven bearbetar såväl analoga som digitala signaler och hanterar teknik för det med tillfredsställande resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven bearbetar såväl analoga som digitala signaler och hanterar teknik för det med tillfredsställande resultat.",
+          "C" : "Eleven bearbetar såväl analoga som digitala signaler och hanterar teknik för det med tillfredsställande resultat.",
+          "A" : "Eleven bearbetar såväl analoga som digitala signaler och hanterar teknik för det med tillfredsställande resultat."
+        }
+      }, {
+        "text" : "Eleven beskriver grundläggande egenskaper hos <strong>________</strong> medium som vanligen används för att sprida musik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver grundläggande egenskaper hos <strong>något</strong> medium som vanligen används för att sprida musik.",
+          "C" : "Eleven beskriver grundläggande egenskaper hos <strong>några</strong> medier som vanligen används för att sprida musik.",
+          "A" : "Eleven beskriver grundläggande egenskaper hos <strong>flera</strong> medium som vanligen används för att sprida musik."
+        }
+      }, {
+        "text" : "Eleven kopplar ihop och styr en <strong>________</strong> ljudteknik för scenbruk och utför en ljuddesign <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kopplar ihop och styr en <strong>given enkel</strong> ljudteknik för scenbruk och utför en ljuddesign <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven <strong>väljer</strong>, kopplar ihop och styr en <strong>sammansatt</strong> ljudteknik för scenbruk och utför en ljuddesign <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven <strong>väljer</strong>, kopplar ihop och styr en <strong>sammansatt</strong> ljudteknik för scenbruk och utför en ljuddesign <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Eleven beskriver <strong>________</strong> inspelningsteknik, hanterar inspelningsutrustning i <strong>________</strong> och drar <strong>________</strong> slutsatser om faktorer som påverkar det ljudtekniska resultatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt någon</strong> inspelningsteknik, hanterar inspelningsutrustning i <strong>styrda situationer</strong> och drar <strong>enkla</strong> slutsatser om faktorer som påverkar det ljudtekniska resultatet.",
+          "C" : "Eleven beskriver <strong>uförligt</strong> några inspelningstekniker, hanterar inspelningsutrustning i <strong>styrda situationer</strong> och drar <strong>välgrundade</strong> slutsatser om faktorer som påverkar det ljudtekniska resultatet.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat flera</strong> inspelningstekniker, <strong>väljer</strong> och hanterar inspelningsutrustning i <strong>fria situationer</strong> och drar <strong>välgrundade och nyansanserade</strong> slutsatser om faktorer som påverkar det ljudtekniska resultatet. <strong>Dessutom förutser eleven svårigheter och anpassar sig för att utveckla resultatet</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för och använder <strong>________</strong> grundläggande begrepp för rumsakustik och ljudlära samt redogör <strong>________</strong> för rumsakustiska förutsättningar i <strong>________</strong> känd musikmiljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för och använder <strong>något</strong> grundläggande begrepp för rumsakustik och ljudlära samt redogör <strong>översiktligt</strong> för rumsakustiska förutsättningar i <strong>någon</strong> känd musikmiljö.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för och använder <strong>några</strong> grundläggande begrepp för rumsakustik och ljudlära samt redogör <strong>utförligt</strong> för rumsakustiska förutsättningar i <strong>några</strong> kända musikmiljöer.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för och använder <strong>flera</strong> grundläggande begrepp för rumsakustik och ljudlära samt redogör <strong>utförligt</strong> och nyanserat för rumsakustiska förutsättningar i <strong>flera</strong> kända musikmiljöer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och genomför en musikproduktion i samarbete med andra, och resultatet är tillfredsställande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och genomför en musikproduktion i samarbete med andra, och resultatet är tillfredsställande.",
+          "C" : "Eleven planerar och genomför en musikproduktion i samarbete med andra, och resultatet är tillfredsställande. <strong>Dessutom tar eleven något initiativ som utvecklar resultatet</strong>.",
+          "A" : "Eleven planerar och genomför en musikproduktion i samarbete med andra och resultatet är tillfredsställande. <strong>Dessutom tar eleven några initiativ som utvecklar resultatet</strong>."
+        }
+      }, {
+        "text" : "Eleven uppvisar ett <strong>________</strong> konstnärligt uttryck.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven uppvisar ett <strong>visst</strong> konstnärligt uttryck.",
+          "C" : "Eleven uppvisar ett konstnärligt uttryck.",
+          "A" : "Eleven uppvisar ett <strong>gott</strong> konstnärligt uttryck."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för upphovsrätt för konstnärliga verk och beskriver <strong>________</strong> viktig förutsättning för en säker arbetsmiljö vid musikproduktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för upphovsrätt för konstnärliga verk och beskriver <strong>översiktligt någon</strong> viktig förutsättning för en säker arbetsmiljö vid musikproduktion.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för upphovsrätt för konstnärliga verk och <strong>identifierar och</strong> beskriver <strong>utförligt några</strong> viktiga förutsättningar för en säker arbetsmiljö vid musikproduktion.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för upphovsrätt för konstnärliga verk och <strong>identifierar och</strong> beskriver <strong>utförligt och nyanserat några</strong> viktiga förutsättningar för en säker arbetsmiljö vid musikproduktion samt <strong>ger förslag på åtgärder för att förbättra arbetsmiljön vid musikproduktion</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Musikproduktion 2",
+    "description" : "Kursen musikproduktion 2 omfattar punkterna 5 och 8–9 under rubriken Ämnets syfte, med särskild betoning på punkt 8. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "MUSMUS02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Akustiska och elektriska instrument och deras konstruktion, funktion och egenskaper samt röstens fysiologi.", "Fördjupad bearbetning av ljud med analog och digital teknik. Teknik och metoder för musiksampling samt bearbetning av midisignaler.", "Fördjupad ljuddesign för publik och scen, till exempel enklare beräkningar av ljudtryck och spridningsområde, planering och val av utrustning.", "Koppling, synkronisering och styrning av ljudutrustning vid inspelningar och scenframföranden, både avseende publikljud och scenljud med monitormixning. Ljudnivåmätning.", "Fördjupad liveteknik, till exempel digital signaldistribution, förinställning och intrimning av ljudutrustning.", "Interaktion mellan musikproduktion och andra medier, till exempel film och tv.", "Ellära som är relevant för musikproduktion.", "Felsökning, underhåll och enkel reparation av musikteknisk utrustning.", "Planering och genomförande av ett musikaliskt produktionsprojekt i samarbete med andra och med ett konstnärligt kvalitativt resultat." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> konstruktion och egenskaper hos några vanliga instrument och ger <strong>________</strong> exempel på hur rösten fungerar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> konstruktion och egenskaper hos några vanliga instrument och ger <strong>något</strong> exempel på hur rösten fungerar.",
+          "C" : "Eleven beskriver <strong>översiktligt</strong> konstruktion, <strong>funktion</strong> och egenskaper hos några vanliga <strong>akustiska och elektriska</strong> instrument och ger <strong>några</strong> exempel på hur rösten fungerar <strong>och hanteras i musikproduktion</strong>.",
+          "A" : "Eleven beskriver <strong>utförligt</strong> konstruktion, <strong>funktion</strong> och egenskaper hos några vanliga <strong>akustiska och elektriska</strong> instrument och ger <strong>flera</strong> exempel på hur rösten fungerar <strong>och hur olika rösttyper skiljer sig åt och hanteras i musikproduktion</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven hanterar och bearbetar med <strong>________</strong> resultat såväl analoga som digitala ljudsignaler, samplar musik och hanterar teknik för detta.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar och bearbetar med <strong>tillfredsställande</strong> resultat såväl analoga som digitala ljudsignaler, samplar musik och hanterar teknik för detta.",
+          "C" : "Eleven hanterar och bearbetar med <strong>gott</strong> resultat såväl analoga som digitala ljudsignaler, samplar musik och hanterar teknik för detta.",
+          "A" : "Eleven hanterar och bearbetar med <strong>gott</strong> resultat såväl analoga som digitala ljudsignaler, samplar musik och hanterar <strong>kvalificerad</strong> teknik för detta."
+        }
+      }, {
+        "text" : "Eleven gör <strong>________</strong> bearbetningar av midisignaler.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör <strong>enkla</strong> bearbetningar av midisignaler.",
+          "C" : "Eleven gör bearbetningar av midisignaler.",
+          "A" : "Eleven gör <strong>avancerade</strong> bearbetningar av midisignaler."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven designar ljud för publik och scen i bekanta situationer med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven designar ljud för publik och scen i bekanta situationer med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven designar ljud för publik och scen i bekanta <strong>och nya</strong> situationer med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven designar ljud för publik och scen i bekanta <strong>och nya</strong> situationer med <strong>gott</strong> resultat. <strong>Eleven väljer efter samråd med handledare lämplig teknik."
+        }
+      }, {
+        "text" : "<strong>________</strong> med handledare och med <strong>________</strong> handlag kopplar eleven ihop, synkroniserar och styr ljudteknisk utrustning vid inspelning och scenframförande – både avseende publikljud och monitormixning för scenen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "<strong>I samråd</strong> med handledare och med <strong>visst</strong> handlag kopplar eleven ihop, synkroniserar och styr ljudteknisk utrustning vid inspelning och scenframförande – både avseende publikljud och monitormixning för scenen.",
+          "C" : "<strong>Efter samråd</strong> med handledare och med <strong>gott</strong> handlag kopplar eleven ihop, synkroniserar och styr ljudteknisk utrustning vid inspelning och scenframförande – både avseende publikljud och monitormixning för scenen.",
+          "A" : "Efter samråd</strong> med handledare och med <strong>mycket gott</strong> handlag kopplar eleven ihop, synkroniserar och styr ljudteknisk utrustning vid inspelning och scenframförande – både avseende publikljud och monitormixning för scenen."
+        }
+      }, {
+        "text" : "Resultatet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet är <strong>gott</strong>.",
+          "A" : "Resultatet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för den teknik som använts.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för den teknik som använts.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för den teknik som använts.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för den teknik som använts. <strong>Eleven ger även förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven diskuterar <strong>________</strong> utifrån <strong>________</strong> exempel hur inspelad musik kan användas tillsammans med andra medier.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> utifrån <strong>några</strong> exempel hur inspelad musik kan användas tillsammans med andra medier.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> utifrån <strong>några</strong> exempel hur inspelad musik kan användas tillsammans med andra medier.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat</strong> utifrån <strong>flera</strong> exempel hur inspelad musik kan användas tillsammans med andra medier."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för grundläggande ellära relaterad till musikproduktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för grundläggande ellära relaterad till musikproduktion.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för grundläggande ellära relaterad till musikproduktion.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för grundläggande ellära relaterad till musikproduktion."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> underhåll av musikteknisk utrustning med tillfredsställande resultat, identifierar <strong>________</strong> fel och ger <strong>________</strong> adekvat förslag på hur felen kan avhjälpas eller repareras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>enkelt</strong> underhåll av musikteknisk utrustning med tillfredsställande resultat, identifierar <strong>uppenbara</strong> fel och ger <strong>något</strong> adekvat förslag på hur felen kan avhjälpas eller repareras.",
+          "C" : "Dessutom utför eleven underhåll av musikteknisk utrustning med tillfredsställande resultat, identifierar fel och ger <strong>några</strong> adekvata förslag på hur felen kan avhjälpas eller repareras.",
+          "A" : "Dessutom utför eleven underhåll av musikteknisk utrustning med tillfredsställande resultat, identifierar fel och ger <strong>flera</strong> adekvata förslag på hur felen kan avhjälpas eller repareras."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och genomför en större musikproduktion i samarbete med andra, och resultatet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och genomför en större musikproduktion i samarbete med andra, och resultatet är <strong>tillfredsställande</strong>.",
+          "C" : "Eleven planerar och genomför en större musikproduktion i samarbete med andra, och resultatet är <strong>tillfredsställande</strong>.",
+          "A" : "Eleven planerar och genomför en större musikproduktion i samarbete med andra och resultatet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "Eleven uppvisar ett <strong>________</strong> konstnärligt uttryck.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven uppvisar ett <strong>visst</strong> konstnärligt uttryck.",
+          "C" : "Eleven uppvisar ett <strong>visst</strong> konstnärligt uttryck. <strong>Dessutom tar eleven i arbetet något initiativ som utvecklar resultatet</strong>.",
+          "A" : "Eleven uppvisar ett <strong>gott</strong> konstnärligt uttryck. <strong>Dessutom tar eleven i arbetet något initiativ som utvecklar resultatet</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Rytmik",
+    "description" : "Kursen rytmik omfattar punkterna 1–7 under rubriken Ämnets syfte, med särskild betoning på punkterna 1, 3 och 7.",
+    "code" : "MUSRYT0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Musikalisk kommunikation med rörelse och röst. Puls, taktarter, frasering och polyrytmik.", "Rytmer och danser från olika kulturer.", "Improvisation.", "Kroppens fysiologi och kroppen i rörelse som instrument för att uttrycka musikaliska intentioner.", "Rörelsekompositioner.", "Omsättande av musikaliska grundelement till rörelse.", "Kreativitet, fantasi och samarbetsförmåga.", "Musikalisk kommunikation med medspelare och publik." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven musicerar och gestaltar musik <strong>________</strong> med kroppen och rösten efter både noter och på gehör.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven musicerar och gestaltar musik <strong>med viss säkerhet</strong> med kroppen och rösten efter både noter och på gehör.",
+          "C" : "Eleven musicerar och gestaltar musik <strong>med viss säkerhet</strong> med kroppen och rösten efter både noter och på gehör.",
+          "A" : "Eleven musicerar och gestaltar musik <strong>med säkerhet</strong> med kroppen och rösten efter både noter och på gehör."
+        }
+      }, {
+        "text" : "I sitt musicerande uppvisar eleven ett <strong>________</strong> konstnärligt uttryck och följer <strong>________</strong> genrespecifika krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt musicerande uppvisar eleven ett <strong>visst</strong> konstnärligt uttryck och följer <strong>med viss säkerhet</strong> genrespecifika krav.",
+          "C" : "I sitt musicerande uppvisar eleven ett konstnärligt uttryck och följer <strong>med viss säkerhet</strong> genrespecifika krav.",
+          "A" : "I sitt musicerande uppvisar eleven ett <strong>gott</strong> konstnärligt uttryck och följer <strong>med säkerhet</strong> genrespecifika krav."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Med <strong>________</strong> resultat prövar eleven <strong>________</strong> rytmer och danser från olika kulturer samt improviserad gestaltning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Med <strong>tillfredsställande</strong> resultat prövar eleven <strong>några enkla</strong> rytmer och danser från olika kulturer samt improviserad gestaltning.",
+          "C" : "Med <strong>tillfredsställande</strong> resultat prövar eleven <strong>några</strong> rytmer och danser från olika kulturer samt improviserad gestaltning <strong>med några olika karaktärsdrag</strong>.",
+          "A" : "Med <strong>gott</strong> resultat prövar eleven <strong>flera</strong> rytmer och danser från olika kulturer samt improviserad gestaltning <strong>med flera olika karaktärsdrag</strong>."
+        }
+      }, {
+        "text" : "Dessutom memorerar eleven musik och rörelse med tillfredsställande resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom memorerar eleven musik och rörelse med tillfredsställande resultat.",
+          "C" : "Dessutom memorerar eleven musik och rörelse med tillfredsställande resultat.",
+          "A" : "Dessutom memorerar <strong>och varierar</strong> eleven musik och rörelse med tillfredsställande resultat."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför rörelseövningar med <strong>________</strong> koordination och kroppskontroll.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför rörelseövningar med <strong>tillfredsställande</strong> koordination och kroppskontroll.",
+          "C" : "Eleven utför rörelseövningar med <strong>god</strong> koordination och kroppskontroll <strong>och viss tajmning</strong>.",
+          "A" : "Eleven utför rörelseövningar med <strong>god</strong> koordination, kroppskontroll <strong>och tajmning</strong>."
+        }
+      }, {
+        "text" : "Eleven skapar musik och rörelse för rytmikgruppen i <strong>________</strong> styrda situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven skapar musik och rörelse för rytmikgruppen i <strong>enkla och</strong> styrda situationer.",
+          "C" : "Eleven skapar musik och rörelse för rytmikgruppen i styrda situationer.",
+          "A" : "Eleven skapar musik och rörelse för rytmikgruppen i styrda situationer."
+        }
+      }, {
+        "text" : "Eleven samarbetar i gruppen med <strong>________</strong> uppmärksamhet på de övriga medlemmarna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar i gruppen med <strong>viss</strong> uppmärksamhet på de övriga medlemmarna.",
+          "C" : "Eleven samarbetar i gruppen med <strong>god</strong> uppmärksamhet på de övriga medlemmarna.",
+          "A" : "Eleven samarbetar i gruppen med <strong>god</strong> uppmärksamhet på de övriga medlemmarna."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

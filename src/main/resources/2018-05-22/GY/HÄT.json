@@ -1,0 +1,838 @@
+{
+  "name" : "Hästkunskap",
+  "description" : "Hästen har i dag ett stort värde för många människor och används i många olika sammanhang, till exempel inom hästsport, fritidsverksamhet och rehabilitering samt som arbetshäst inom natur- och landskapsvård. Ämnet hästkunskap behandlar skötsel av hästar, utrustning och tillhörande anläggningar. Det behandlar också hästars foderbehov, hästars miljö och hälsa samt avel. Dessutom behandlas etiska ställningstaganden och lagar och andra bestämmelser som reglerar hästhållning.",
+  "code" : "HÄT",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet hästkunskap ska syfta till att eleverna utvecklar kunskaper för yrkesarbete som hästskötare.", "Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att sköta och utfodra hästar, sköta stall och anläggningar samt utrusta hästar för olika ändamål.", "Eleverna ska ges möjlighet att utveckla kunskaper om hästars biologi och naturliga beteende.", "Undervisningen ska leda till att eleverna utvecklar förmåga att iaktta och tolka hästars beteende, utveckling, välmående och hälsa.", "I undervisningen ska eleverna ges möjlighet att utveckla förmåga att arbeta med hästar på ett säkert och etiskt sätt.", "Praktiska övningar och praktiskt arbete ska ingå i undervisningen.", "Genom laborationer och undersökande arbetssätt ska eleverna ges möjlighet att utveckla kunskaper om hästars exteriör och rörelse, fysiologi, genetik och avel.", "Genom stallturer och observationer i fält ska eleverna ges möjlighet att utveckla kunskaper om hästars beteende och hälsa." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet hästkunskap ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om hästars biologi och livscykler samt om dagens hästraser, deras exteriör och signalement.", "Kunskaper om hästars näringsbehov och om olika fodermedel.", "Förmåga att iaktta och tolka hästars utveckling, rörelse, utseende och beteende.", "Kunskaper om vanligt förekommande sjukdomar, om smittspridning, smittskydd och hygien samt förmåga att arbeta med förebyggande hälsovård.", "Kunskaper om hästavel och reproduktion.", "Förmåga att planera arbetsuppgifter samt att sköta och hantera hästar på ett ansvarsfullt, etiskt och säkert sätt.", "Förmåga att sköta och hantera stallar och utrustning.", "Förmåga att upprätta foderstater och att utfodra hästar med utgångspunkt från deras näringsbehov.", "Förmåga att arbeta ergonomiskt.", "Kunskaper om lagar och andra bestämmelser som rör arbete med hästar.", "Kunskaper om lagar och andra bestämmelser för marknadsföring och försäljning av unghästar." ]
+  } ],
+  "courses" : [ {
+    "name" : "Den unga hästens utveckling 1a",
+    "description" : "Kursen den unga hästens utveckling 1a omfattar punkterna 3–7 och 9–10 under rubriken Ämnets syfte.",
+    "code" : "HÄTDEN01a",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Biologisk grund",
+      "lines" : [ "Dräktiga ston och unghästars primära behov i olika utvecklingsfaser.", "Sjukdomar hos dräktiga ston och föl.", "Fortplantningsorganen hos hingst och sto, brunstcykeln hos sto, betäckning, befruktning, dräktighet samt eventuella komplikationer i samband med detta.", "Smittskydd och hygien." ]
+    }, {
+      "heading" : "Arbetsuppgifter",
+      "lines" : [ "Fölvaka, medverkan och assistans vid fölets första dygn.", "Assistera vid seminverksamhet och praktiskt avelsarbete.", "Behandling av dräktiga ston och föl vid sjukdomstillstånd, till exempel sjukbandagering och sårvård.", "Hantering av ston och föl.", "Inkörning av unghästar.", "Planering och genomförande av häst- och stallskötsel under dräktighet samt före och efter fölning.", "Visning vid hand av ston och föl.", "Förebyggande åtgärder för skador och sjukdomar på ston och föl.", "Hantering av teknisk utrustning." ]
+    }, {
+      "heading" : "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+      "lines" : [ "Ergonomi, arbetsmiljö och säkerhet i samband med hästskötsel.", "Lagar och andra bestämmelser i samband med hästskötsel." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven observerar i samband med stallturer dräktiga ston och unghästars utseende och beteende samt drar utifrån sina observationer <strong>________</strong> slutsatser om hästarnas kondition och välbefinnande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven observerar i samband med stallturer dräktiga ston och unghästars utseende och beteende samt drar utifrån sina observationer <strong>enkla</strong> slutsatser om hästarnas kondition och välbefinnande.",
+          "C" : "Eleven observerar i samband med stallturer dräktiga ston och unghästars utseende och beteende samt drar utifrån sina observationer <strong>välgrundade</strong> slutsatser om hästarnas kondition och välbefinnande.",
+          "A" : "Eleven observerar i samband med stallturer dräktiga ston och unghästars utseende och beteende samt drar utifrån sina observationer <strong>välgrundade och nyanserade</strong> slutsatser om hästarnas kondition och välbefinnande."
+        }
+      }, {
+        "text" : "Vidare redogör eleven <strong>________</strong> för arbetsgång och metoder vid inkörning av unghästar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare redogör eleven <strong>översiktligt</strong> för arbetsgång och metoder vid inkörning av unghästar.",
+          "C" : "Vidare redogör eleven <strong>utförligt</strong> för arbetsgång och metoder vid inkörning av unghästar.",
+          "A" : "Vidare redogör eleven <strong>utförligt och nyanserat</strong> för arbetsgång och metoder vid inkörning av unghästar."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för faktorer som bidrar till en god miljö för dräktiga ston och unghästar samt för hur miljön kan förbättras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för faktorer som bidrar till en god miljö för dräktiga ston och unghästar samt för hur miljön kan förbättras.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för faktorer som bidrar till en god miljö för dräktiga ston och unghästar samt för hur miljön kan förbättras.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för faktorer som bidrar till en god miljö för dräktiga ston och unghästar samt för hur miljön kan förbättras."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för skador och sjukdomar hos dräktiga ston och unghästar samt för hur de kan förebyggas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för skador och sjukdomar hos dräktiga ston och unghästar samt för hur de kan förebyggas.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för skador och sjukdomar hos dräktiga ston och unghästar samt för hur de kan förebyggas.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för skador och sjukdomar hos dräktiga ston och unghästar samt för hur de kan förebyggas."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för hygien och smittskyddsarbete i stallar och anläggningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för hygien och smittskyddsarbete i stallar och anläggningar.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för hygien och smittskyddsarbete i stallar och anläggningar.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för hygien och smittskyddsarbete i stallar och anläggningar."
+        }
+      }, {
+        "text" : "Dessutom ger eleven <strong>________</strong> förslag på förebyggande åtgärder för att undvika smittspridning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom ger eleven <strong>enkla</strong> förslag på förebyggande åtgärder för att undvika smittspridning.",
+          "C" : "Dessutom ger eleven <strong>välgrundade</strong> förslag på förebyggande åtgärder för att undvika smittspridning.",
+          "A" : "Dessutom ger eleven <strong>välgrundade och nyanserade</strong> förslag på förebyggande åtgärder för att undvika smittspridning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för hästars reproduktionsbiologi samt för hur avelsarbete går till.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för hästars reproduktionsbiologi samt för hur avelsarbete går till.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för hästars reproduktionsbiologi samt för hur avelsarbete går till.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för hästars reproduktionsbiologi samt för hur avelsarbete går till."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hur arbetet på seminstation går till.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hur arbetet på seminstation går till.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hur arbetet på seminstation går till.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur arbetet på seminstation går till."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare arbetsuppgifter med hästar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare arbetsuppgifter med hästar.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare arbetsuppgifter med hästar.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare arbetsuppgifter med hästar."
+        }
+      }, {
+        "text" : "I planeringen upprättar eleven en <strong>________</strong> skötselplan med utgångspunkt i dräktiga ston och unghästars behov och verksamhetens omfattning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen upprättar eleven en <strong>enkel</strong> skötselplan med utgångspunkt i dräktiga ston och unghästars behov och verksamhetens omfattning.",
+          "C" : "I planeringen upprättar eleven en <strong>genomarbetad</strong> skötselplan med utgångspunkt i dräktiga ston och unghästars behov och verksamhetens omfattning.",
+          "A" : "I planeringen upprättar eleven en <strong>genomarbetad</strong> skötselplan med utgångspunkt i dräktiga ston och unghästars behov och verksamhetens omfattning."
+        }
+      }, {
+        "text" : "Vidare gör eleven <strong>________</strong> bedömningar av när och hur arbetsuppgifterna ska genomföras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare gör eleven <strong>enkla</strong> bedömningar av när och hur arbetsuppgifterna ska genomföras.",
+          "C" : "Vidare gör eleven <strong>välgrundade</strong> bedömningar av när och hur arbetsuppgifterna i stallarna ska genomföras.",
+          "A" : "Vidare gör eleven <strong>välgrundade och nyanserade</strong> bedömningar av när och hur arbetsuppgifterna i stallarna ska genomföras."
+        }
+      }, {
+        "text" : "Eleven sköter och hanterar <strong>________</strong> med handledare dräktiga ston och unghästar på ett ansvarsfullt, etiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven sköter och hanterar <strong>i samråd</strong> med handledare dräktiga ston och unghästar på ett ansvarsfullt, etiskt och säkert sätt.",
+          "C" : "Eleven sköter och hanterar <strong>efter samråd</strong> med handledare dräktiga ston och unghästar på ett ansvarsfullt, etiskt och säkert sätt.",
+          "A" : "Eleven sköter och hanterar <strong>efter samråd</strong> med handledare dräktiga ston och unghästar på ett ansvarsfullt, etiskt och säkert sätt."
+        }
+      }, {
+        "text" : "Dessutom sköter och hanterar eleven <strong>________</strong> med handledare stall och utrustning på ett ansvarsfullt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom sköter och hanterar eleven <strong>i samråd</strong> med handledare stall och utrustning på ett ansvarsfullt och säkert sätt.",
+          "C" : "Dessutom sköter och hanterar eleven <strong>efter samråd</strong> med handledare stall och utrustning på ett ansvarsfullt och säkert sätt.",
+          "A" : "Dessutom sköter och hanterar eleven <strong>efter samråd</strong> med handledare stall och utrustning på ett ansvarsfullt och säkert sätt."
+        }
+      }, {
+        "text" : "I arbetet hanterar eleven med <strong>________</strong> handlag ston och unghästar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet hanterar eleven med <strong>visst</strong> handlag ston och unghästar.",
+          "C" : "I arbetet hanterar eleven med <strong>gott</strong> handlag ston och unghästar.",
+          "A" : "I arbetet hanterar eleven med <strong>mycket gott</strong> handlag ston och unghästar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "I arbetet utför eleven <strong>________</strong> med handledare dagliga rutiner samt daglig och periodisk tillsyn och kontroll av den tekniska utrustningens funktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet utför eleven <strong>i samråd</strong> med handledare dagliga rutiner samt daglig och periodisk tillsyn och kontroll av den tekniska utrustningens funktion.",
+          "C" : "I arbetet utför eleven <strong>efter samråd</strong> med handledare dagliga rutiner samt daglig och periodisk tillsyn och kontroll av den tekniska utrustningens funktion.",
+          "A" : "I arbetet utför eleven <strong>efter samråd</strong> med handledare dagliga rutiner samt daglig och periodisk tillsyn och kontroll av den tekniska utrustningens funktion."
+        }
+      }, {
+        "text" : "Eleven löser också <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven löser också <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "Eleven löser också <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "Eleven löser också <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Vidare arbetar eleven ergonomiskt med hästar, tillhörande utrustning och stall.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare arbetar eleven ergonomiskt med hästar, tillhörande utrustning och stall.",
+          "C" : "Vidare arbetar eleven ergonomiskt med hästar, tillhörande utrustning och stall.",
+          "A" : "Vidare arbetar eleven ergonomiskt med hästar, tillhörande utrustning och stall."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Den unga hästens utveckling 1b",
+    "description" : "Kursen den unga hästens utveckling 1b omfattar punkterna 2–10 under rubriken Ämnets syfte.",
+    "code" : "HÄTDEN01b",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Unghästars näringsbehov.", "Samband mellan unghästens exteriör, prestation och hållbarhet.", "Avelsmål, avelsvärde, arvbarhet och nedärvning.", "Hantering av unghästar vid visitering, sjukdom och besiktning.", "Tolkning och bedömning av olika reaktioner utifrån unghästars naturliga beteende och individuella förutsättningar.", "Träningsmetoder och arbete med unghästar i åldern 3–5 år, häst vid hand, longering, tömkörning, löshoppning, inridning, inhoppning.", "Ridning i olika miljöer.", "Träningsplanering.", "Planering och genomförande av häst- och stallskötsel utifrån dags-, vecko- och årsrutiner.", "Användning och skötsel av utrustning och hjälpmedel som används under unghästars utbildning.", "Journalföring och rapportering.", "Beräkning av foderåtgång samt upprättande av foderstat.", "Ergonomi, arbetsmiljö och säkerhet i samband med hästskötsel.", "Lagar och andra bestämmelser i samband med hästskötsel." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för unghästens näringsbehov.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för unghästens näringsbehov.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för unghästens näringsbehov.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för unghästens näringsbehov."
+        }
+      }, {
+        "text" : "Vidare redogör eleven <strong>________</strong> för sambandet mellan unghästens exteriör, prestation och hållbarhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare redogör eleven <strong>översiktligt</strong> för sambandet mellan unghästens exteriör, prestation och hållbarhet.",
+          "C" : "Vidare redogör eleven <strong>utförligt</strong> för sambandet mellan unghästens exteriör, prestation och hållbarhet.",
+          "A" : "Vidare redogör eleven <strong>utförligt och nyanserat</strong> för sambandet mellan unghästens exteriör, prestation och hållbarhet."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för avelsmål, avelsvärde, arvbarhet och nedärvning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för avelsmål, avelsvärde, arvbarhet och nedärvning.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för avelsmål, avelsvärde, arvbarhet och nedärvning.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för avelsmål, avelsvärde, arvbarhet och nedärvning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare arbetsuppgifter med hästar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare arbetsuppgifter med hästar.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare arbetsuppgifter med hästar.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare arbetsuppgifter med hästar."
+        }
+      }, {
+        "text" : "I planeringen upprättar eleven en <strong>________</strong> skötsel- och träningsplan med utgångspunkt i unghästars behov och verksamhetens omfattning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen upprättar eleven en <strong>enkel</strong> skötsel- och träningsplan med utgångspunkt i unghästars behov och verksamhetens omfattning.",
+          "C" : "I planeringen upprättar eleven en <strong>genomarbetad</strong> skötsel- och träningsplan med utgångspunkt i unghästars behov och verksamhetens omfattning.",
+          "A" : "I planeringen upprättar eleven en <strong>genomarbetad</strong> skötsel- och träningsplan med utgångspunkt i unghästars behov och verksamhetens omfattning."
+        }
+      }, {
+        "text" : "Vidare gör eleven <strong>________</strong> bedömningar av när och hur arbetsuppgifterna ska genomföras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare gör eleven <strong>enkla</strong> bedömningar av när och hur arbetsuppgifterna ska genomföras.",
+          "C" : "Vidare gör eleven <strong>välgrundade</strong> bedömningar av när och hur arbetsuppgifterna ska genomföras.",
+          "A" : "Vidare gör eleven <strong>välgrundade och nyanserade</strong> bedömningar av när och hur arbetsuppgifterna ska genomföras."
+        }
+      }, {
+        "text" : "Eleven sköter och hanterar <strong>________</strong> med handledare unghästar på ett ansvarsfullt, etiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven sköter och hanterar <strong>i samråd</strong> med handledare unghästar på ett ansvarsfullt, etiskt och säkert sätt.",
+          "C" : "Eleven sköter och hanterar <strong>efter samråd</strong> med handledare unghästar på ett ansvarsfullt, etiskt och säkert sätt.",
+          "A" : "Eleven sköter och hanterar <strong>efter samråd</strong> med handledare unghästar på ett ansvarsfullt, etiskt och säkert sätt."
+        }
+      }, {
+        "text" : "Dessutom sköter och hanterar eleven <strong>________</strong> med handledare hjälpmedel, utrustning och stall på ett ansvarsfullt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom sköter och hanterar eleven <strong>i samråd</strong> med handledare hjälpmedel, utrustning och stall på ett ansvarsfullt och säkert sätt.",
+          "C" : "Dessutom sköter och hanterar eleven <strong>efter samråd</strong> med handledare hjälpmedel, utrustning och stall på ett ansvarsfullt och säkert sätt.",
+          "A" : "Dessutom sköter och hanterar eleven <strong>efter samråd</strong> med handledare hjälpmedel, utrustning och stall på ett ansvarsfullt och säkert sätt."
+        }
+      }, {
+        "text" : "Med utgångspunkt i hästars näringsbehov upprättar eleven <strong>________</strong> en <strong>________</strong> foderstat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Med utgångspunkt i hästars näringsbehov upprättar eleven <strong>med viss säkerhet</strong> en <strong>enkel</strong> foderstat.",
+          "C" : "Med utgångspunkt i hästars näringsbehov upprättar eleven <strong>med viss säkerhet</strong> en <strong>välgrundad</strong> foderstat.",
+          "A" : "Med utgångspunkt i hästars näringsbehov upprättar eleven <strong>med säkerhet</strong> en <strong>välgrundad och utförlig</strong> foderstat."
+        }
+      }, {
+        "text" : "I arbetet hanterar eleven med <strong>________</strong> handlag unghästar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet hanterar eleven med <strong>visst</strong> handlag unghästar.",
+          "C" : "I arbetet hanterar eleven med <strong>gott</strong> handlag unghästar.",
+          "A" : "I arbetet hanterar eleven med <strong>mycket gott</strong> handlag unghästar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "Eleven löser också <strong>________</strong> med handledare de problem som uppstår vid arbete med unghästar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven löser också <strong>i samråd</strong> med handledare de problem som uppstår vid arbete med unghästar.",
+          "C" : "Eleven löser också <strong>efter samråd</strong> med handledare de problem som uppstår vid arbete med unghästar.",
+          "A" : "Eleven löser också <strong>efter samråd</strong> med handledare de problem som uppstår vid arbete med unghästar."
+        }
+      }, {
+        "text" : "Vidare arbetar eleven ergonomiskt med hästar, tillhörande utrustning och stall.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare arbetar eleven ergonomiskt med hästar, tillhörande utrustning och stall.",
+          "C" : "Vidare arbetar eleven ergonomiskt med hästar, tillhörande utrustning och stall.",
+          "A" : "Vidare arbetar eleven ergonomiskt med hästar, tillhörande utrustning och stall."
+        }
+      }, {
+        "text" : "Eleven för <strong>________</strong> journalanteckningar över arbetet med hästar och deras skötsel samt rapporterar <strong>________</strong> förändringar hos hästarna eller i deras miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven för <strong>enkla</strong> journalanteckningar över arbetet med hästar och deras skötsel samt rapporterar <strong>med viss säkerhet</strong> förändringar hos hästarna eller i deras miljö.",
+          "C" : "Eleven för <strong>noggranna</strong> journalanteckningar över arbetet med hästar och deras skötsel samt rapporterar <strong>med viss säkerhet</strong> förändringar hos hästarna eller i deras miljö.",
+          "A" : "Eleven för <strong>noggranna och utförliga</strong> journalanteckningar över arbetet med hästar och deras skötsel samt rapporterar <strong>med säkerhet</strong> förändringar hos hästarna eller i deras miljö."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Den unga hästens utveckling 2",
+    "description" : "Kursen den unga hästens utveckling 2 omfattar punkterna 3, 6–7 och 9–11 under rubriken Ämnets syfte.",
+    "code" : "HÄTDEN02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande innehåll:",
+      "lines" : [ "Analys av unghästar.", "Träningsmetoder och arbete med unghästar i åldern 2-3 år, longering, tömkörning, löshoppning, häst vid hand, sadeltämjning, uppsittning, inridning, inhoppning.", "Träningsplanering.", "Planering och genomförande av häst- och stallskötsel utifrån dags-, vecko- och årsrutiner.", "Journalföring och rapportering.", "Etik i samband med hästhantering och hästskötsel.", "Ergonomi, arbetsmiljö och säkerhet i samband med hästskötsel.", "Marknadsföring och försäljning av unghästar.", "Lagar och andra bestämmelser i samband med hästskötsel. Grundläggande hästjuridik vid försäljning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör <strong>________</strong> bedömningar av unghästars styrkor och svagheter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör <strong>enkla</strong> bedömningar av unghästars styrkor och svagheter.",
+          "C" : "Eleven gör <strong>välgrundade</strong> bedömningar av unghästars styrkor och svagheter.",
+          "A" : "Eleven gör <strong>välgrundade och nyanserade</strong> bedömningar av unghästars styrkor och svagheter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare arbetsuppgifter med hästar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare arbetsuppgifter med hästar.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare arbetsuppgifter med hästar.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare arbetsuppgifter med hästar."
+        }
+      }, {
+        "text" : "I planeringen upprättar eleven en <strong>________</strong> skötsel- och träningsplan med utgångspunkt i unghästars behov och verksamhetens omfattning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen upprättar eleven en <strong>enkel</strong> skötsel- och träningsplan med utgångspunkt i unghästars behov och verksamhetens omfattning.",
+          "C" : "I planeringen upprättar eleven en <strong>genomarbetad</strong> skötsel- och träningsplan med utgångspunkt i unghästars behov och verksamhetens omfattning.",
+          "A" : "I planeringen upprättar eleven en <strong>genomarbetad</strong> skötsel- och träningsplan med utgångspunkt i unghästars behov och verksamhetens omfattning."
+        }
+      }, {
+        "text" : "Vidare gör eleven <strong>________</strong> bedömningar av när och hur arbetsuppgifterna ska genomföras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare gör eleven <strong>enkla</strong> bedömningar av när och hur arbetsuppgifterna ska genomföras.",
+          "C" : "Vidare gör eleven <strong>välgrundade</strong> bedömningar av när och hur arbetsuppgifterna ska genomföras.",
+          "A" : "Vidare gör eleven <strong>välgrundade och nyanserade</strong> bedömningar av när och hur arbetsuppgifterna ska genomföras."
+        }
+      }, {
+        "text" : "Eleven sköter och hanterar <strong>________</strong> med handledare unghästar på ett ansvarsfullt, etiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven sköter och hanterar <strong>i samråd</strong> med handledare unghästar på ett ansvarsfullt, etiskt och säkert sätt.",
+          "C" : "Eleven sköter och hanterar <strong>efter samråd</strong> med handledare unghästar på ett ansvarsfullt, etiskt och säkert sätt.",
+          "A" : "Eleven sköter och hanterar <strong>efter samråd</strong> med handledare unghästar på ett ansvarsfullt, etiskt och säkert sätt."
+        }
+      }, {
+        "text" : "Dessutom sköter och hanterar eleven <strong>________</strong> med handledare hjälpmedel, utrustning och stall på ett ansvarsfullt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom sköter och hanterar eleven <strong>i samråd</strong> med handledare hjälpmedel, utrustning och stall på ett ansvarsfullt och säkert sätt.",
+          "C" : "Dessutom sköter och hanterar eleven <strong>efter samråd</strong> med handledare hjälpmedel, utrustning och stall på ett ansvarsfullt och säkert sätt.",
+          "A" : "Dessutom sköter och hanterar eleven <strong>efter samråd</strong> med handledare hjälpmedel, utrustning och stall på ett ansvarsfullt och säkert sätt."
+        }
+      }, {
+        "text" : "I arbetet hanterar eleven med <strong>________</strong> handlag unghästar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet hanterar eleven med <strong>visst</strong> handlag unghästar.",
+          "C" : "I arbetet hanterar eleven med <strong>gott</strong> handlag unghästar.",
+          "A" : "I arbetet hanterar eleven med <strong>mycket gott</strong> handlag unghästar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "Eleven löser också <strong>________</strong> med handledare de problem som uppstår vid arbete med unghästar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven löser också <strong>i samråd</strong> med handledare de problem som uppstår vid arbete med unghästar.",
+          "C" : "Eleven löser också <strong>efter samråd</strong> med handledare de problem som uppstår vid arbete med unghästar.",
+          "A" : "Eleven löser också <strong>efter samråd</strong> med handledare de problem som uppstår vid arbete med unghästar."
+        }
+      }, {
+        "text" : "Vidare arbetar eleven ergonomiskt med hästar, tillhörande utrustning och stall.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare arbetar eleven ergonomiskt med hästar, tillhörande utrustning och stall.",
+          "C" : "Vidare arbetar eleven ergonomiskt med hästar, tillhörande utrustning och stall.",
+          "A" : "Vidare arbetar eleven ergonomiskt med hästar, tillhörande utrustning och stall."
+        }
+      }, {
+        "text" : "Eleven för <strong>________</strong> journalanteckningar över arbetet med hästar och deras skötsel samt rapporterar <strong>________</strong> förändringar hos hästarna eller i deras miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven för <strong>enkla</strong> journalanteckningar över arbetet med hästar och deras skötsel samt rapporterar <strong>med viss säkerhet</strong> förändringar hos hästarna eller i deras miljö.",
+          "C" : "Eleven för <strong>noggranna</strong> journalanteckningar över arbetet med hästar och deras skötsel samt rapporterar <strong>med viss säkerhet</strong> förändringar hos hästarna eller i deras miljö.",
+          "A" : "Eleven för <strong>noggranna och utförliga</strong> journalanteckningar över arbetet med hästar och deras skötsel samt rapporterar <strong>med säkerhet</strong> förändringar hos hästarna eller i deras miljö."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för marknadsföring och försäljning av unghästar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för marknadsföring och försäljning av unghästar.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för marknadsföring och försäljning av unghästar.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för marknadsföring och försäljning av unghästar."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Hästkunskap 1",
+    "description" : "Kursen hästkunskap 1 omfattar punkterna 1–4, 6–7 och 9–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 3, 6–7 och 10.",
+    "code" : "HÄTHÄS01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Biologisk grund",
+      "lines" : [ "Olika hästraser: exteriör, signalement, ursprung och användningsområden.", "Hovens uppbyggnad och funktion. Sjukdomar och sjukdomssymtom i hoven.", "Hästars beteenden, historia och domesticering. Hästars roll i samhället genom tiderna.", "Olika fodermedel och grovfoderproduktion samt foderkvalitet och näringsinnehåll.", "Hästars näringsbehov: underhållsbehov samt tillägg för föl, unghästar och vuxna hästar.", "Smittskydd och hygien.", "Etik i samband med skötsel och hållande av hästar." ]
+    }, {
+      "heading" : "Arbetsuppgifter",
+      "lines" : [ "Hästskötsel, till exempel rykt, hovskötsel, bandagering, dekorativ hästvård samt vård av utrustning för hästar.", "Stallskötsel, till exempel utfodring, rengöring och iordningställande av stall.", "Underhåll av stallmiljöer, till exempel vad gäller ströbäddar, inredning, tvättning och målning.", "Anläggningsskötsel, till exempel vad gäller staket, träningsbanor, beten och vattenanläggningar.", "Visning av häst vid hand vid till exempel veterinärbesiktning eller bedömning.", "Förebyggande hälsovård, till exempel iakttagelser och visitering för att bedöma hästars hälsa. Hästars kroppstemperatur, andning och puls.", "Tolkning av foderanalyser och foderstater." ]
+    }, {
+      "heading" : "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+      "lines" : [ "Ergonomi, arbetsmiljö och säkerhet i samband med hästskötsel.", "Lagar och andra bestämmelser i samband med hästskötsel." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven namnger olika hästraser och beskriver <strong>________</strong> deras egenskaper, användningsområden och naturliga beteende.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven namnger olika hästraser och beskriver <strong>översiktligt</strong> deras egenskaper, användningsområden och naturliga beteende.",
+          "C" : "Eleven namnger olika hästraser och beskriver <strong>utförligt</strong> deras egenskaper, användningsområden och naturliga beteende.",
+          "A" : "Eleven namnger olika hästraser och beskriver <strong>utförligt och nyanserat</strong> deras egenskaper, användningsområden och naturliga beteende."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för olika fodermedel och deras näringsinnehåll samt för hur foder ska hanteras hygieniskt och för att bibehålla hög kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för olika fodermedel och deras näringsinnehåll samt för hur foder ska hanteras hygieniskt och för att bibehålla hög kvalitet.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för olika fodermedel och deras näringsinnehåll samt för hur foder ska hanteras hygieniskt och för att bibehålla hög kvalitet.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för olika fodermedel och deras näringsinnehåll samt för hur foder ska hanteras hygieniskt och för att bibehålla hög kvalitet."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för biologiska samband mellan hästars användning, utveckling och näringsbehov.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för biologiska samband mellan hästars användning, utveckling och näringsbehov.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för biologiska samband mellan hästars användning, utveckling och näringsbehov.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för biologiska samband mellan hästars användning, utveckling och näringsbehov."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I samband med stallturer observerar eleven hästars utseende och beteende samt drar utifrån sina observationer <strong>________</strong> slutsatser om hästarnas kondition och välbefinnande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I samband med stallturer observerar eleven hästars utseende och beteende samt drar utifrån sina observationer <strong>enkla</strong> slutsatser om hästarnas kondition och välbefinnande.",
+          "C" : "I samband med stallturer observerar eleven hästars utseende och beteende samt drar utifrån sina observationer <strong>välgrundade</strong> slutsatser om hästarnas kondition och välbefinnande.",
+          "A" : "I samband med stallturer observerar eleven hästars utseende och beteende samt drar utifrån sina observationer <strong>välgrundade och nyanserade</strong> slutsatser om hästarnas kondition och välbefinnande."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för faktorer som bidrar till en god miljö för hästar samt för förebyggande åtgärder mot ohälsa hos hästar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för faktorer som bidrar till en god miljö för hästar samt för förebyggande åtgärder mot ohälsa hos hästar.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för faktorer som bidrar till en god miljö för hästar samt för förebyggande åtgärder mot ohälsa hos hästar.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för faktorer som bidrar till en god miljö för hästar samt för förebyggande åtgärder mot ohälsa hos hästar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven följer arbetsinstruktioner och sköter och hanterar <strong>________</strong> med handledare hästar på ett ansvarsfullt, etiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven följer arbetsinstruktioner och sköter och hanterar <strong>i samråd</strong> med handledare hästar på ett ansvarsfullt, etiskt och säkert sätt.",
+          "C" : "Eleven följer arbetsinstruktioner och sköter och hanterar <strong>efter samråd</strong> med handledare hästar på ett ansvarsfullt, etiskt och säkert sätt.",
+          "A" : "Eleven följer arbetsinstruktioner och sköter och hanterar <strong>efter samråd</strong> med handledare hästar på ett ansvarsfullt, etiskt och säkert sätt."
+        }
+      }, {
+        "text" : "Dessutom sköter och hanterar eleven <strong>________</strong> med handledare stall och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom sköter och hanterar eleven <strong>i samråd</strong> med handledare stall och utrustning.",
+          "C" : "Dessutom sköter och hanterar eleven <strong>efter samråd</strong> med handledare stall och utrustning.",
+          "A" : "Dessutom sköter och hanterar eleven <strong>efter samråd</strong> med handledare stall och utrustning."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "I arbetet utför eleven <strong>________</strong> med handledare dagliga rutiner samt daglig tillsyn och kontroll av den tekniska utrustningens funktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet utför eleven <strong>i samråd</strong> med handledare dagliga rutiner samt daglig tillsyn och kontroll av den tekniska utrustningens funktion.",
+          "C" : "I arbetet utför eleven <strong>efter samråd</strong> med handledare dagliga rutiner samt daglig tillsyn och kontroll av den tekniska utrustningens funktion.",
+          "A" : "I arbetet utför eleven <strong>efter samråd</strong> med handledare dagliga rutiner samt daglig tillsyn och kontroll av den tekniska utrustningens funktion."
+        }
+      }, {
+        "text" : "Eleven löser också <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven löser också <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "Eleven löser också <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "Eleven löser också <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt med hästar, tillhörande utrustning och stall.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt med hästar, tillhörande utrustning och stall.",
+          "C" : "Eleven arbetar ergonomiskt med hästar, tillhörande utrustning och stall.",
+          "A" : "Eleven arbetar ergonomiskt med hästar, tillhörande utrustning och stall."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Hästkunskap 2",
+    "description" : "Kursen hästkunskap 2 omfattar punkterna 1–10 under rubriken Ämnets syfte, med särskild betoning på förmåga att planera arbetsuppgifter.",
+    "code" : "HÄTHÄS02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Biologisk grund",
+      "lines" : [ "Skador och sjukdomar samt förebyggande åtgärder.", "Hästsjukdomar, sjukdomstillstånd och dopning samt profylax och rehabilitering.", "Fortplantningsorganen hos hingst och sto. Brunstcykeln hos sto, betäckning, befruktning, dräktighet samt eventuella komplikationer i samband med detta.", "Avelsvärde, arvbarhet och nedärvning.", "Signalement och färg samt förekomst och placering av tecken och virvlar.", "Exteriör, kroppsbyggnad, hållbarhet och prestation. Exteriörbedömning och avelsvärdering." ]
+    }, {
+      "heading" : "Arbetsuppgifter",
+      "lines" : [ "Planering och genomförande av häst- och stallskötsel utifrån dags-, vecko- och årsrutiner.", "Iordningställande av hästar för transport och lastning.", "Åtgärdande av tappsko: avtagning av skon, raspning av hoven och påslagning av skon.", "Vård av hästar vid sjukdomstillstånd, till exempel sjukbandagering och sårvård.", "Hantering av hästar vid visitering, sjukdom och besiktning.", "Hantering av hästar i olika åldrar. Tolkning och bedömning av olika reaktioner utifrån hästars naturliga beteende och individuella förutsättningar.", "Beräkning av foderåtgång samt upprättande av foderstat och ekonomisk plan för foderinköp." ]
+    }, {
+      "heading" : "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+      "lines" : [ "Ergonomi, arbetsmiljö och säkerhet i samband med hästskötsel.", "Lagar och andra bestämmelser i samband med hästskötsel." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven observerar i samband med stallturer hästars utseende och beteende samt drar utifrån sina observationer <strong>________</strong> slutsatser om hästarnas kondition och välbefinnande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven observerar i samband med stallturer hästars utseende och beteende samt drar utifrån sina observationer <strong>enkla</strong> slutsatser om hästarnas kondition och välbefinnande.",
+          "C" : "Eleven observerar i samband med stallturer hästars utseende och beteende samt drar utifrån sina observationer <strong>välgrundade</strong> slutsatser om hästarnas kondition och välbefinnande.",
+          "A" : "Eleven observerar i samband med stallturer hästars utseende och beteende samt drar utifrån sina observationer <strong>välgrundade och nyanserade</strong> slutsatser om hästarnas kondition och välbefinnande."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för faktorer som bidrar till en god miljö för hästar samt för hur miljön kan förbättras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för faktorer som bidrar till en god miljö för hästar samt för hur miljön kan förbättras.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för faktorer som bidrar till en god miljö för hästar samt för hur miljön kan förbättras.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för faktorer som bidrar till en god miljö för hästar samt för hur miljön kan förbättras."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för skador och sjukdomar hos hästar samt för hur de kan förebyggas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för skador och sjukdomar hos hästar samt för hur de kan förebyggas.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för skador och sjukdomar hos hästar samt för hur de kan förebyggas.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för skador och sjukdomar hos hästar samt för hur de kan förebyggas."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för hästars reproduktionsbiologi samt för hur avelsarbete går till.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för hästars reproduktionsbiologi samt för hur avelsarbete går till.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för hästars reproduktionsbiologi samt för hur avelsarbete går till.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för hästars reproduktionsbiologi samt för hur avelsarbete går till."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare arbetsuppgifter med hästar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare arbetsuppgifter med hästar.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare arbetsuppgifter med hästar.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare arbetsuppgifter med hästar."
+        }
+      }, {
+        "text" : "I planeringen upprättar eleven en <strong>________</strong> skötselplan med utgångspunkt i hästarnas behov och verksamhetens omfattning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen upprättar eleven en <strong>enkel</strong> skötselplan med utgångspunkt i hästarnas behov och verksamhetens omfattning.",
+          "C" : "I planeringen upprättar eleven en <strong>genomarbetad</strong> skötselplan med utgångspunkt i hästarnas behov och verksamhetens omfattning.",
+          "A" : "I planeringen upprättar eleven en <strong>genomarbetad</strong> skötselplan med utgångspunkt i hästarnas behov och verksamhetens omfattning."
+        }
+      }, {
+        "text" : "Eleven gör <strong>________</strong> bedömningar av när och hur arbetsuppgifterna i stallarna ska genomföras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör <strong>enkla</strong> bedömningar av när och hur arbetsuppgifterna i stallarna ska genomföras.",
+          "C" : "Eleven gör <strong>välgrundade</strong> bedömningar av när och hur arbetsuppgifterna i stallarna ska genomföras.",
+          "A" : "Eleven gör <strong>välgrundade och nyanserade</strong> bedömningar av när och hur arbetsuppgifterna i stallarna ska genomföras."
+        }
+      }, {
+        "text" : "Eleven sköter och hanterar <strong>________</strong> med handledare hästar på ett ansvarsfullt, etiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven sköter och hanterar <strong>i samråd</strong> med handledare hästar på ett ansvarsfullt, etiskt och säkert sätt.",
+          "C" : "Eleven sköter och hanterar <strong>efter samråd</strong> med handledare hästar på ett ansvarsfullt, etiskt och säkert sätt.",
+          "A" : "Eleven sköter och hanterar <strong>efter samråd</strong> med handledare hästar på ett ansvarsfullt, etiskt och säkert sätt."
+        }
+      }, {
+        "text" : "Dessutom sköter och hanterar eleven <strong>________</strong> med handledare stall och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom sköter och hanterar eleven <strong>i samråd</strong> med handledare stall och utrustning.",
+          "C" : "Dessutom sköter och hanterar eleven <strong>efter samråd</strong> med handledare stall och utrustning.",
+          "A" : "Dessutom sköter och hanterar eleven <strong>efter samråd</strong> med handledare stall och utrustning."
+        }
+      }, {
+        "text" : "I arbetet hanterar eleven med <strong>________</strong> handlag hästar i olika åldrar och utvecklingsstadier.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet hanterar eleven med <strong>visst</strong> handlag hästar i olika åldrar och utvecklingsstadier.",
+          "C" : "I arbetet hanterar eleven med <strong>gott</strong> handlag hästar i olika åldrar och utvecklingsstadier.",
+          "A" : "I arbetet hanterar eleven med <strong>mycket gott</strong> handlag hästar i olika åldrar och utvecklingsstadier."
+        }
+      }, {
+        "text" : "Med utgångspunkt i hästarnas näringsbehov upprättar eleven <strong>________</strong> en <strong>________</strong> foderstat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Med utgångspunkt i hästarnas näringsbehov upprättar eleven <strong>med viss säkerhet</strong> en <strong>enkel</strong> foderstat.",
+          "C" : "Med utgångspunkt i hästarnas näringsbehov upprättar eleven <strong>med viss säkerhet</strong> en <strong>välgrundad</strong> foderstat.",
+          "A" : "Med utgångspunkt i hästarnas näringsbehov upprättar eleven <strong>med säkerhet</strong> en <strong>välgrundad och utförlig</strong> foderstat."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "I arbetet utför eleven <strong>________</strong> med handledare dagliga rutiner samt daglig och periodisk tillsyn och kontroll av den tekniska utrustningens funktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet utför eleven <strong>i samråd</strong> med handledare dagliga rutiner samt daglig och periodisk tillsyn och kontroll av den tekniska utrustningens funktion.",
+          "C" : "I arbetet utför eleven <strong>efter samråd</strong> med handledare dagliga rutiner samt daglig och periodisk tillsyn och kontroll av den tekniska utrustningens funktion.",
+          "A" : "I arbetet utför eleven <strong>efter samråd</strong> med handledare dagliga rutiner samt daglig och periodisk tillsyn och kontroll av den tekniska utrustningens funktion."
+        }
+      }, {
+        "text" : "Eleven löser också <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven löser också <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "Eleven löser också <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "Eleven löser också <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt med hästar, tillhörande utrustning och stall.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt med hästar, tillhörande utrustning och stall.",
+          "C" : "Eleven arbetar ergonomiskt med hästar, tillhörande utrustning och stall.",
+          "A" : "Eleven arbetar ergonomiskt med hästar, tillhörande utrustning och stall."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Hästkunskap 3",
+    "description" : "Kursen hästkunskap 3 omfattar punkterna 1–10 under rubriken Ämnets syfte.",
+    "code" : "HÄTHÄS03",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande innehåll:",
+      "lines" : [ "Hygien och smittskyddsarbete i häststallar.", "Arbete med hästar och utrustning för hästar inom ett specialområde, till exempel, trav, galopp, dressyr, hoppning, fälttävlan och stuteri.", "Skötsel av stallar och anläggningar.", "Planering av skötselrutiner och utfodringsrutiner i häststallar.", "Etik i samband med hästhantering och hästskötsel.", "Ergonomi, arbetsmiljö och säkerhet i samband med hästskötsel.", "Lagar och andra bestämmelser i samband med hästskötsel.", "Journalföring och rapportering." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för hygien och smittskyddsarbete i stallar och anläggningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för hygien och smittskyddsarbete i stallar och anläggningar.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för hygien och smittskyddsarbete i stallar och anläggningar.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för hygien och smittskyddsarbete i stallar och anläggningar."
+        }
+      }, {
+        "text" : "Dessutom ger eleven <strong>________</strong> förslag på förebyggande åtgärder för att undvika smittspridning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom ger eleven <strong>enkla</strong> förslag på förebyggande åtgärder för att undvika smittspridning.",
+          "C" : "Dessutom ger eleven <strong>välgrundade</strong> förslag på förebyggande åtgärder för att undvika smittspridning.",
+          "A" : "Dessutom ger eleven <strong>välgrundade och nyanserade</strong> förslag på förebyggande åtgärder för att undvika smittspridning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare arbetsuppgifter inom ett specialområde.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare arbetsuppgifter inom ett specialområde.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare arbetsuppgifter inom ett specialområde.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare arbetsuppgifter inom ett specialområde."
+        }
+      }, {
+        "text" : "I arbetet vårdar och behandlar eleven <strong>________</strong> med handledare hästar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet vårdar och behandlar eleven <strong>i samråd</strong> med handledare hästar.",
+          "C" : "I arbetet vårdar och behandlar eleven <strong>efter samråd</strong> med handledare hästar.",
+          "A" : "I arbetet vårdar och behandlar eleven <strong>efter samråd</strong> med handledare hästar."
+        }
+      }, {
+        "text" : "Arbetet utförs på ett ansvarsfullt, etiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet utförs på ett ansvarsfullt, etiskt och säkert sätt.",
+          "C" : "Arbetet utförs på ett ansvarsfullt, etiskt och säkert sätt.",
+          "A" : "Arbetet utförs på ett ansvarsfullt, etiskt och säkert sätt."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "I arbetet löser eleven <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar ergonomiskt med hästar, tillhörande utrustning och stall.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt med hästar, tillhörande utrustning och stall.",
+          "C" : "Eleven arbetar ergonomiskt med hästar, tillhörande utrustning och stall.",
+          "A" : "Eleven arbetar ergonomiskt med hästar, tillhörande utrustning och stall."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+        }
+      }, {
+        "text" : "När arbetet är utfört utvärderar eleven med <strong>________</strong> omdömen sitt arbete och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört utvärderar eleven med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+          "C" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
+          "A" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Dessutom för eleven <strong>________</strong> journalanteckningar över arbetet med hästar och deras skötsel samt rapporterar <strong>________</strong> förändringar hos hästarna eller i deras miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom för eleven <strong>enkla</strong> journalanteckningar över arbetet med hästar och deras skötsel samt rapporterar <strong>med viss säkerhet</strong> förändringar hos hästarna eller i deras miljö.",
+          "C" : "Dessutom för eleven <strong>noggranna</strong> journalanteckningar över arbetet med hästar och deras skötsel samt rapporterar <strong>med viss säkerhet</strong> förändringar hos hästarna eller i deras miljö.",
+          "A" : "Dessutom för eleven <strong>noggranna och utförliga</strong> journalanteckningar över arbetet med hästar och deras skötsel samt rapporterar <strong>med säkerhet</strong> förändringar hos hästarna eller i deras miljö."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

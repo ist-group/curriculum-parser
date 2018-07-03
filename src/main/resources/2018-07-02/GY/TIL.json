@@ -1,0 +1,260 @@
+{
+  "name" : "Tillverkningsunderlag",
+  "description" : "Ämnet tillverkningsunderlag behandlar tolkning av underlag som används vid produktion av produkter samt skapande av egna tillverkningsunderlag från enkla skisser med hjälp av datorteknik. Det behandlar även beredningsunderlag, material- och produktionsstyrning samt informationssökning.",
+  "code" : "TIL",
+  "designation" : "",
+  "skolfsId" : "2010:215",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet tillverkningsunderlag ska syfta till att eleverna utvecklar kunskaper om ritnings- eller mönsterläsning inom ett teknikområde.", "Den ska även leda till att eleverna utvecklar kunskaper om hur man, för att skapa enklare tillverkningsunderlag, med hjälp av datorteknik tillverkar egna ritningar eller mönster utifrån skisser.", "Undervisningen ska även bidra till att eleverna utvecklar kunskaper om beredningsunderlag samt förmåga att ta fram beredningsunderlag utifrån ett tillverkningsunderlag." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Vidare ska eleverna ges möjlighet att utveckla kunskaper om hur material- och produktionsstyrningssystem fungerar i den tillverkande industrin samt om deras betydelse för att skapa ordning och reda i produktionen.", "Undervisningen ska även leda till att eleverna utvecklar förmåga att söka information i tabeller, handböcker och andra relevanta källor samt att använda begrepp och uttryck som är relevanta inom branschområdet." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska innehålla såväl teoretiska som praktiska övningar för att ge eleverna möjlighet att utveckla en trygghet i att tolka och skapa tillverkningsunderlag samt utveckla förståelse för betydelsen av material- och produktionsstyrningssystem." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet tillverkningsunderlag ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förmåga att tolka mönster- eller ritningsunderlag.", "Förmåga att organisera och bereda arbetet utifrån tillverkningsritningar.", "Förmåga att skapa enkla ritningar eller mönster manuellt eller med datorteknik.", "Kunskaper om metoder för att skapa ritningar eller mönster.", "Kunskaper om informationssökning i relevanta källor.", "Kunskaper om specifika beteckningar inom valt område.", "Kunskaper om material- och produktionsstyrningssystem.", "Förmåga att använda termer och begrepp inom teknikområdet." ]
+  } ],
+  "courses" : [ {
+    "name" : "Tillverkningsunderlag 1",
+    "description" : "Kursen tillverkningsunderlag 1 omfattar punkterna 1–6 och 8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "TILTIL01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Tolkning av mönster- och ritningsunderlag.", "Metoder för manuell framställning av ritningar eller mönster.", "Metoder för beredning av tillverkningsritningar.", "Specifika beteckningar för mönster eller ritningar.", "Informationssökning i relevanta källor.", "Termer och begrepp som är relevanta för teknikområdet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tolkar i sitt arbete <strong>________</strong> mönster- eller ritningsunderlag samt bereder och organiserar <strong>________</strong> med handledare arbetet utifrån dem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tolkar i sitt arbete <strong>med viss säkerhet</strong> mönster- eller ritningsunderlag samt bereder och organiserar <strong>i samråd</strong> med handledare arbetet utifrån dem.",
+          "C" : "Eleven tolkar i sitt arbete <strong>med viss säkerhet</strong> mönster- eller ritningsunderlag samt bereder och organiserar <strong>efter samråd</strong> med handledare arbetet utifrån dem.",
+          "A" : "Eleven tolkar i sitt arbete <strong>med säkerhet</strong> mönster- eller ritningsunderlag samt bereder och organiserar <strong>efter samråd</strong> med handledare arbetet utifrån dem."
+        }
+      }, {
+        "text" : "Dessutom framställer eleven med noggrannhet och <strong>________</strong> med handledare mönster eller ritningar manuellt i enlighet med givna instruktioner och kravspecifikationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom framställer eleven med noggrannhet och <strong>i samråd</strong> med handledare mönster eller ritningar manuellt i enlighet med givna instruktioner och kravspecifikationer.",
+          "C" : "Dessutom framställer eleven med noggrannhet och <strong>efter samråd</strong> med handledare mönster eller ritningar manuellt i enlighet med givna instruktioner och kravspecifikationer.",
+          "A" : "Dessutom framställer eleven med noggrannhet och <strong>efter samråd</strong> med handledare mönster eller ritningar manuellt i enlighet med givna instruktioner och kravspecifikationer."
+        }
+      }, {
+        "text" : "Elevens mönster eller ritningar är av <strong>________</strong> kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Elevens mönster eller ritningar är av <strong>tillfredsställande</strong> kvalitet.",
+          "C" : "Elevens mönster eller ritningar är av <strong>tillfredsställande</strong> kvalitet.",
+          "A" : "Elevens mönster eller ritningar är av <strong>god</strong> kvalitet."
+        }
+      }, {
+        "text" : "I arbetet med att framställa mönster eller ritningar väljer eleven <strong>________</strong> med handledare metoder och utrustning som passar för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet med att framställa mönster eller ritningar väljer eleven <strong>i samråd</strong> med handledare metoder och utrustning som passar för uppgiften.",
+          "C" : "I arbetet med att framställa mönster eller ritningar väljer eleven <strong>efter samråd</strong> med handledare metoder och utrustning som passar för uppgiften.",
+          "A" : "I arbetet med att framställa mönster eller ritningar väljer eleven <strong>efter samråd</strong> med handledare metoder och utrustning som passar för uppgiften."
+        }
+      }, {
+        "text" : "Dessutom söker eleven <strong>________</strong> information från relevanta källor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom söker eleven <strong>med viss säkerhet</strong> information från relevanta källor.",
+          "C" : "Dessutom söker eleven <strong>med viss säkerhet</strong> information från relevanta källor.",
+          "A" : "Dessutom söker eleven <strong>med säkerhet</strong> information från relevanta källor."
+        }
+      }, {
+        "text" : "Eleven hanterar verktyg och utrustning <strong>________</strong> och håller god ordning på arbetsplatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar verktyg och utrustning <strong>med viss säkerhet</strong> och håller god ordning på arbetsplatsen.",
+          "C" : "Eleven hanterar verktyg och utrustning <strong>med viss säkerhet</strong> och håller god ordning på arbetsplatsen.",
+          "A" : "Eleven hanterar verktyg och utrustning <strong>med säkerhet</strong> och håller god ordning på arbetsplatsen."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven eventuella problem som uppkommer samt åtgärdar dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven eventuella problem som uppkommer samt åtgärdar dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven eventuella problem som uppkommer samt åtgärdar dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven eventuella problem som uppkommer samt åtgärdar dem <strong>efter samråd</strong> med handledare."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för den teknik och de metoder som använts för arbetsuppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för den teknik och de metoder som använts för arbetsuppgiften.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för den teknik och de metoder som använts för arbetsuppgiften.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för den teknik och de metoder som använts för arbetsuppgiften."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hur tillämpningen av dessa påverkar kvalitet och slutresultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hur tillämpningen av dessa påverkar kvalitet och slutresultat.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hur tillämpningen av dessa påverkar kvalitet och slutresultat.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur tillämpningen av dessa påverkar kvalitet och slutresultat."
+        }
+      }, {
+        "text" : "Eleven redogör även <strong>________</strong> för använda beteckningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör även <strong>översiktligt</strong> för använda beteckningar.",
+          "C" : "Eleven redogör även <strong>utförligt</strong> för använda beteckningar.",
+          "A" : "Eleven redogör även <strong>utförligt och nyanserat</strong> för använda beteckningar."
+        }
+      }, {
+        "text" : "Eleven utvärderar sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven utvärderar sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven utvärderar sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> korrekt fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> korrekt fackspråk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Tillverkningsunderlag 2",
+    "description" : "Kursen tillverkningsunderlag 2 omfattar punkterna 3–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "TILTIL02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Tolkning av mönster- och ritningsunderlag.", "Metoder för framställning av mönster eller ritningar med hjälp av datorteknik.", "Metoder för beredning av tillverkningsritningar.", "Specifika beteckningar för datorframställning av mönster eller ritningar.", "Informationssökning i relevanta källor.", "Material- och produktionsstyrningssystem, hur de fungerar och deras betydelse för produktionen.", "Termer och begrepp som är relevanta för teknikområdet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tolkar i sitt arbete <strong>________</strong> mönster- eller ritningsunderlag samt bereder och organiserar <strong>________</strong> med handledare arbetet utifrån dem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tolkar i sitt arbete <strong>med viss säkerhet</strong> mönster- eller ritningsunderlag samt bereder och organiserar <strong>i samråd</strong> med handledare arbetet utifrån dem.",
+          "C" : "Eleven tolkar i sitt arbete <strong>med viss säkerhet</strong> mönster- eller ritningsunderlag samt bereder och organiserar <strong>efter samråd</strong> med handledare arbetet utifrån dem.",
+          "A" : "Eleven tolkar i sitt arbete <strong>med säkerhet</strong> mönster- eller ritningsunderlag samt bereder och organiserar <strong>efter samråd</strong> med handledare arbetet utifrån dem."
+        }
+      }, {
+        "text" : "Dessutom framställer eleven med noggrannhet och <strong>________</strong> med handledare mönster eller ritningar både manuellt och med datorteknik i enlighet med givna instruktioner och kravspecifikationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom framställer eleven med noggrannhet och <strong>i samråd</strong> med handledare mönster eller ritningar både manuellt och med datorteknik i enlighet med givna instruktioner och kravspecifikationer.",
+          "C" : "Dessutom framställer eleven med noggrannhet och <strong>efter samråd</strong> med handledare mönster eller ritningar både manuellt och med datorteknik i enlighet med givna instruktioner och kravspecifikationer.",
+          "A" : "Dessutom framställer eleven med noggrannhet och <strong>efter samråd</strong> med handledare mönster eller ritningar både manuellt och med datorteknik i enlighet med givna instruktioner och kravspecifikationer."
+        }
+      }, {
+        "text" : "Elevens mönster eller ritningar är av <strong>________</strong> kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Elevens mönster eller ritningar är av <strong>tillfredsställande</strong> kvalitet.",
+          "C" : "Elevens mönster eller ritningar är av <strong>tillfredsställande</strong> kvalitet.",
+          "A" : "Elevens mönster eller ritningar är av <strong>god</strong> kvalitet."
+        }
+      }, {
+        "text" : "I arbetet med att framställa mönster eller ritningar väljer eleven <strong>________</strong> med handledare metoder, utrustning och datorprogram som passar för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet med att framställa mönster eller ritningar väljer eleven <strong>i samråd</strong> med handledare metoder, utrustning och datorprogram som passar för uppgiften.",
+          "C" : "I arbetet med att framställa mönster eller ritningar väljer eleven <strong>efter samråd</strong> med handledare metoder, utrustning och datorprogram som passar för uppgiften.",
+          "A" : "I arbetet med att framställa mönster eller ritningar väljer eleven <strong>efter samråd</strong> med handledare metoder, utrustning och datorprogram som passar för uppgiften."
+        }
+      }, {
+        "text" : "Dessutom söker eleven <strong>________</strong> information från relevanta källor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom söker eleven <strong>med viss säkerhet</strong> information från relevanta källor.",
+          "C" : "Dessutom söker eleven <strong>med viss säkerhet</strong> information från relevanta källor.",
+          "A" : "Dessutom söker eleven <strong>med säkerhet</strong> information från relevanta källor."
+        }
+      }, {
+        "text" : "Eleven hanterar verktyg, utrustning, och datorprogram <strong>________</strong> och håller god ordning på arbetsplatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar verktyg, utrustning, och datorprogram <strong>med viss säkerhet</strong> och håller god ordning på arbetsplatsen.",
+          "C" : "Eleven hanterar verktyg, utrustning, och datorprogram <strong>med viss säkerhet</strong> och håller god ordning på arbetsplatsen.",
+          "A" : "Eleven hanterar verktyg, utrustning, och datorprogram <strong>med säkerhet</strong> och håller god ordning på arbetsplatsen."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven eventuella problem som uppkommer samt åtgärdar dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven eventuella problem som uppkommer samt åtgärdar dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven eventuella problem som uppkommer samt åtgärdar dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven eventuella problem som uppkommer samt åtgärdar dem <strong>efter samråd</strong> med handledare."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för den teknik, de metoder och de datorprogram som använts för arbetsuppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för den teknik, de metoder och de datorprogram som använts för arbetsuppgiften.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för den teknik, de metoder och de datorprogram som använts för arbetsuppgiften.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för den teknik, de metoder och de datorprogram som använts för arbetsuppgiften."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hur tillämpningen av dessa påverkar kvalitet och slutresultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hur tillämpningen av dessa påverkar kvalitet och slutresultat.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hur tillämpningen av dessa påverkar kvalitet och slutresultat.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur tillämpningen av dessa påverkar kvalitet och slutresultat."
+        }
+      }, {
+        "text" : "Eleven redogör även <strong>________</strong> för använda beteckningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör även <strong>översiktligt</strong> för använda beteckningar.",
+          "C" : "Eleven redogör även <strong>utförligt</strong> för använda beteckningar.",
+          "A" : "Eleven redogör även <strong>utförligt och nyanserat</strong> för använda beteckningar."
+        }
+      }, {
+        "text" : "Vidare redogör eleven <strong>________</strong> för hur material- och produktionsstyrningsprogram fungerar samt för deras betydelse för produktionen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare redogör eleven <strong>översiktligt</strong> för hur material- och produktionsstyrningsprogram fungerar samt för deras betydelse för produktionen.",
+          "C" : "Vidare redogör eleven <strong>utförligt</strong> för hur material- och produktionsstyrningsprogram fungerar samt för deras betydelse för produktionen.",
+          "A" : "Vidare redogör eleven <strong>utförligt och nyanserat</strong> för hur material- och produktionsstyrningsprogram fungerar samt för deras betydelse för produktionen."
+        }
+      }, {
+        "text" : "Eleven utvärderar sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven utvärderar sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven utvärderar sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> korrekt fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> korrekt fackspråk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

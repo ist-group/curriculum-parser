@@ -1,0 +1,104 @@
+{
+  "name" : "Datorsystem – spårfordon",
+  "description" : "Ämnet datorsystem – spårfordon behandlar datorbaserade system och metoder som styr och kontrollerar spårfordons samtliga delsystem med avseende på funktion, övervakning och säkerhet.",
+  "code" : "DAY",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet datorsystem – spårfordon ska syfta till att eleverna utvecklar förståelse av hur fordonsdatorer är uppbyggda och fungerar i administrativa och processrelaterade nätverk.", "Undervisningen ska också leda till att eleverna utvecklar förståelse av den kommunikationsplattform som förvaltar och kontrollerar informationsflödet mellan olika delsystem i spårfordon.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskap om de krav som ställs på fordonsdatorsystem för effektiv och tillförlitlig drift samt kunskap om de säkerhetssystem som tillämpas som skydd för personer och material.", "Dessutom ska undervisningen leda till att eleverna utvecklar förståelse av hur datorsystemen används i förebyggande och avhjälpande underhåll." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet ska leda till att eleverna utvecklar färdigheter i att planera och utföra arbeten på styr- och reglerteknisk utrustning utifrån systemdokumentation i enlighet med säkerhetsföreskrifter.", "Undervisningen ska också leda till att eleverna utvecklar kännedom om olika programspråk samt färdigheter i grundläggande programmering.", "Undervisningen ska även ge eleverna möjlighet att utveckla förmågan att uttrycka sig både muntligt och skriftligt med fackspråk samt dokumentera genomfört arbete enligt regelverk och branschstandard.", "Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att genomföra ansvarsfullt arbete med hänsyn till egen och andras säkerhet samt miljöbestämmelser." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom undervisningen ska eleverna ges möjlighet utveckla ett undersökande och laborativt arbetssätt." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet datorsystem – spårfordon ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förståelse av uppbyggnad, topologi och funktion hos fordonsdatorsystem samt kunskap om kommunikationsplattformen hos spårfordon.", "Kunskap om krav på funktionssystemens och säkerhetssystemens effektivitet, funktion och tillförlitlighet samt deras funktion för förebyggande och avhjälpande underhåll.", "Kunskap om givares och fordonsdatorns komponenters funktion och syfte samt överföring av data (I/O) vid kommunikation mellan delsystem.", "Färdighet i att mäta och tolka ingenjörsstorheter hos givare, ställdon och sensorer samt mäta, installera, konfigurera, driftsätta och underhålla styr- och reglertekniska komponenter och system.", "Kunskap om olika programspråk samt kunskap om applikationsprogram och konfigurering av överordnande system.", "Färdighet i grundläggande programmering av styr- och reglersystem, samt enklare programändringar i spårfordonsdatorsystem.", "Färdighet i att hantera verktyg och teknisk utrustning, tolka systemdokumentation samt dokumentera genomfört arbete.", "Färdighet i att tillämpa instruktioner och föreskrifter för arbetets utförande och säkerhet." ]
+  } ],
+  "courses" : [ {
+    "name" : "Programmerbara datorsystem – spårfordon",
+    "description" : "Kursen programmerbara datorsystem – spårfordon omfattar punkterna 1<strong>–</strong>8 under rubriken Ämnets syfte.",
+    "code" : "DAYPRO0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Uppbyggnad, topologi och funktion hos fordonsdatorsystem samt för- och nackdelar med olika styrsystem, historik och utveckling.", "Kommunikationsplattformen mellan spårfordonsdator och övriga system.", "Fordonsdatorsystemets roll inom förebyggande och avhjälpande underhåll.", "Realtidsdatorer, operativsystem, komponenter och användning.", "Fältbussar och distribuerad I/O.", "Givare och sensorer, till exempel för mätning av hastighet, temperatur, tryck, flöde och nivå.", "Mäta och tolka ingenjörsstorheter.", "Inkoppling av givare och ställdon till programmerbara styrsystem.", "Metoder för grundläggande felsökning i anläggningar med distribuerade styrsystem, till exempel verktyg för visualisering av virtuella data och jämförelser av data med mätningar av samma signal på plint.", "Exempel på programspråk och applikationsprogram.", "Programmeringsmetoder, till exempel funktionsblock, strukturerad text och instruktionsprogrammering.", "Programmeringsteknik och programmering av styr- och reglersystem.", "Konfigurering och programmering av styr- och reglertekniska anläggningar med distribuerade kontrollenheter.", "Programstruktur och mjukvaruscheman för spårfordon.", "Programändring i spårfordonssystem.", "Verktyg, scheman, ritningar, datablad och övrig dokumentation samt dokumentationsrutiner för genomfört arbete.", "Regler och föreskrifter.", "Säkerhet för arbete med fordonsdatorn som verktyg." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> hur datorsystemet och kommunikationsplattformen hos spårfordon är uppbyggda och fungerar samt hur data överförs mellan olika delsystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur datorsystemet och kommunikationsplattformen hos spårfordon är uppbyggda och fungerar samt hur data överförs mellan olika delsystem.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur datorsystemet och kommunikationsplattformen hos spårfordon är uppbyggda och fungerar samt hur data överförs mellan olika delsystem.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur datorsystemet och kommunikationsplattformen hos spårfordon är uppbyggda och fungerar samt hur data överförs mellan olika delsystem."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> kraven på funktions- och säkerhetssystemens funktionalitet och tillförlitlighet samt systemens betydelse vid förebyggande och avhjälpande underhåll.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> kraven på funktions- och säkerhetssystemens funktionalitet och tillförlitlighet samt systemens betydelse vid förebyggande och avhjälpande underhåll.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> kraven på funktions- och säkerhetssystemens funktionalitet och tillförlitlighet samt systemens betydelse vid förebyggande och avhjälpande underhåll.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> kraven på funktions- och säkerhetssystemens funktionalitet och tillförlitlighet samt systemens betydelse vid förebyggande och avhjälpande underhåll."
+        }
+      }, {
+        "text" : "<strong>________</strong> med handledare genomför eleven med <strong>________</strong> handlag mätningar och tolkar <strong>________</strong> resultatet hos givare, ställdon och sensorer samt mäter, installerar, konfigurerar, driftsätter och underhåller styr- och reglertekniska komponenter och system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "<strong>I samråd</strong> med handledare genomför eleven med <strong>visst</strong> handlag mätningar och tolkar <strong>med viss säkerhet</strong> resultatet hos givare, ställdon och sensorer samt mäter, installerar, konfigurerar, driftsätter och underhåller styr- och reglertekniska komponenter och system.",
+          "C" : "<strong>Efter samråd</strong> med handledare genomför eleven med <strong>gott</strong> handlag mätningar och tolkar <strong>med säkerhe</strong>t resultatet hos givare, ställdon och sensorer samt mäter, installerar, konfigurerar, driftsätter och underhåller styr- och reglertekniska komponenter och system.",
+          "A" : "<strong>Efter samråd</strong> med handledare genomför eleven med <strong>mycket gott</strong> handlag mätningar och tolkar <strong>med säkerhet</strong> resultatet hos givare, ställdon och sensorer samt mäter, installerar, konfigurerar, driftsätter och underhåller styr- och reglertekniska komponenter och system."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för olika programspråk och applikationsprogram och genomför <strong>________</strong> med handledare grundläggande programmering av styr- och reglersystem, enklare programändringar i spårfordonsdatorn samt <strong>________</strong> konfigurering av överordnade system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för olika programspråk och applikationsprogram och genomför <strong>i samråd</strong> med handledare grundläggande programmering av styr- och reglersystem, enklare programändringar i spårfordonsdatorn samt <strong>med viss säkerhet</strong> konfigurering av överordnade system.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för olika programspråk och applikationsprogram och genomför <strong>efter samråd</strong> med handledare grundläggande programmering av styr- och reglersystem, enklare programändringar i spårfordonsdatorn samt <strong>med säkerhet</strong> konfigurering av överordnade system.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för olika programspråk och applikationsprogram och genomför <strong>efter samråd</strong> med handledare grundläggande programmering av styr- och reglersystem, enklare programändringar i spårfordonsdatorn samt <strong>med säkerhet</strong> konfigurering av överordnade system."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför arbeten <strong>________</strong> med handledare och hanterar då med <strong>________</strong> handlag verktyg och teknisk utrustning och tolkar <strong>________</strong> tillämplig systemdokumentation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför arbeten <strong>i samråd</strong> med handledare och hanterar då med <strong>visst</strong> handlag verktyg och teknisk utrustning och tolkar <strong>med viss säkerhet</strong> tillämplig systemdokumentation.",
+          "C" : "Eleven planerar och utför arbeten <strong>efter samråd</strong> med handledare och hanterar då <strong>med säkerhet</strong> verktyg och teknisk utrustning och tolkar <strong>med säkerhet</strong> tillämplig systemdokumentation.",
+          "A" : "Eleven planerar och utför arbeten <strong>efter samråd</strong> med handledare och hanterar då <strong>med säkerhet</strong> verktyg och teknisk utrustning och tolkar <strong>med säkerhet</strong> tillämplig systemdokumentation."
+        }
+      }, {
+        "text" : "Efter utfört arbete dokumenterar eleven arbetet med <strong>________</strong> resultat utifrån givna regler.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Efter utfört arbete dokumenterar eleven arbetet med <strong>tillfredsställande</strong> resultat utifrån givna regler.",
+          "C" : "Efter utfört arbete dokumenterar eleven arbetet med <strong>tillfredsställande</strong> resultat utifrån givna regler.",
+          "A" : "Efter utfört arbete dokumenterar eleven arbetet med <strong>gott</strong> resultat utifrån givna regler."
+        }
+      }, {
+        "text" : "Under arbetet tillämpar eleven <strong>________</strong> de regler och instruktioner som omfattar utförande och säkerhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet tillämpar eleven <strong>med viss säkerhet</strong> de regler och instruktioner som omfattar utförande och säkerhet.",
+          "C" : "Under arbetet tillämpar eleven <strong>med säkerhet</strong> de regler och instruktioner som omfattar utförande och säkerhet.",
+          "A" : "Under arbetet tillämpar eleven <strong>med säkerhet</strong> de regler och instruktioner som omfattar utförande och säkerhet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  } ]
+}

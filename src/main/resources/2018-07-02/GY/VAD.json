@@ -1,0 +1,106 @@
+{
+  "name" : "Vård och omsorg specialisering",
+  "description" : "Ämnet vård och omsorg specialisering möjliggör en fördjupning inom ett valt kunskapsområde. En specialisering inom vård och omsorg kan ske inom ett flertal olika kunskapsområden, till exempel inom gerontologi, geriatrik, palliativ vård, rehabilitering och habilitering, demenssjukvård, prehospital vård samt psykiatri.",
+  "code" : "VAD",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet vård och omsorg specialisering ska syfta till att eleverna fördjupar sina kunskaper inom ett valt kunskapsområde.", "Den ska leda till att eleverna utvecklar förmåga att använda relevanta begrepp och teorier inom kunskapsområdet samt förståelse av hur dessa kan omsättas i arbetet inom det valda kunskapsområdet.", "Undervisningen ska också leda till att eleverna utvecklar förmåga att kritiskt granska och resonera kring kunskapsområdet.", "Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att kommunicera och samarbeta med andra med ett lyhört, respektfullt och empatiskt förhållningssätt." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet vård och omsorg specialisering ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förmåga att använda begrepp och teorier inom det valda kunskapsområdet.", "Förmåga att söka och värdera information från olika källor.", "Förmåga att planera och utföra uppgifter inom det valda kunskapsorådet samt att utvärdera den egna arbetsinsatsen.", "Kunskaper om lagar och andra bestämmelser relevanta för kunskapsområdet.", "Förmåga att kommunicera och anpassa sin kommunikation till olika sammanhang." ]
+  } ],
+  "courses" : [ {
+    "name" : "Vård och omsorg – specialisering",
+    "description" : "Kursen vård och omsorg – specialisering omfattar punkterna 1–5 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom valt kunskapsområde.",
+    "code" : "VADVAR00S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Begrepp och teorier som är relevanta för kunskapsområdet.", "Granskning, tolkning och värdering av information från olika källor.", "Fördjupning inom valt kunskapsområde, till exempel inom gerontologi, geriatrik, palliativ vård, rehabilitering och habilitering, demenssjukvård, prehospital vård eller psykiatri.", "Planering och utvärdering av arbetsuppgifter inom kunskapsområdet.", "Lagar och andra bestämmelser relevanta för kunskapsområdet.", "Kommunikation, bemötande och förhållningssätt relevant för kunskapsområdet.", "Uttrycks- och presentationsformer som är relevanta för kunskapsområdet och för vård- och omsorgsverksamheten." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven bearbetar, analyserar och diskuterar <strong>________</strong> frågor inom kunskapsområdet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven bearbetar, analyserar och diskuterar <strong>med viss säkerhet några</strong> frågor inom kunskapsområdet.",
+          "C" : "Eleven bearbetar, analyserar och diskuterar <strong>med viss säkerhet några</strong> frågor inom kunskapsområdet.",
+          "A" : "Eleven bearbetar, analyserar och diskuterar <strong>med säkerhet flera</strong> frågor inom kunskapsområdet."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för relevanta teorier samt ger <strong>________</strong> exempel på hur dessa kan användas i det praktiska arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för relevanta teorier samt ger <strong>något</strong> exempel på hur dessa kan användas i det praktiska arbetet.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för relevanta teorier samt ger <strong>några</strong> exempel på hur dessa kan användas i det praktiska arbetet.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för relevanta teorier samt ger <strong>flera</strong> exempel på hur dessa kan användas i det praktiska arbetet."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> information från olika källor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> information från olika källor.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> information från olika källor.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> information från olika källor."
+        }
+      }, {
+        "text" : "I diskussioner och analyser använder eleven <strong>________</strong> relevanta begrepp och teorier.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I diskussioner och analyser använder eleven <strong>med viss säkerhet</strong> relevanta begrepp och teorier.",
+          "C" : "I diskussioner och analyser använder eleven <strong>med viss säkerhet</strong> relevanta begrepp och teorier.",
+          "A" : "I diskussioner och analyser använder eleven <strong>med säkerhet</strong> relevanta begrepp och teorier."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare uppgifter inom kunskapsområdet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare uppgifter inom kunskapsområdet.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare uppgifter inom kunskapsområdet.",
+          "A" : "Eleven planerar och utför, <strong>efter samråd</strong> med handledare uppgifter inom kunskapsområdet."
+        }
+      }, {
+        "text" : "Efter utfört arbete utvärderar eleven med <strong>________</strong> omdömen sina arbetsinsatser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Efter utfört arbete utvärderar eleven med <strong>enkla</strong> omdömen sina arbetsinsatser.",
+          "C" : "Efter utfört arbete utvärderar eleven med <strong>nyanserade</strong> omdömen sina arbetsinsatser.",
+          "A" : "Efter utfört arbete utvärderar eleven med <strong>nyanserade</strong> omdömen sina arbetsinsatser <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för relevanta lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för relevanta lagar och andra bestämmelser.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för relevanta lagar och andra bestämmelser.",
+          "A" : "Eleven redogör <strong>utförligt</strong> för relevanta lagar och andra bestämmelser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven anpassar <strong>________</strong> sin kommunikation till syfte, mottagare och situation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven anpassar <strong>med viss säkerhet</strong> sin kommunikation till syfte, mottagare och situation.",
+          "C" : "Eleven anpassar <strong>med viss säkerhet</strong> sin kommunikation till syfte, mottagare och situation.",
+          "A" : "Eleven anpassar <strong>med säkerhet</strong> sin kommunikation till syfte, mottagare och situation."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 50,
+    "year" : null
+  } ]
+}

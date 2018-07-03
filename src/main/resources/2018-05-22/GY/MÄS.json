@@ -1,0 +1,94 @@
+{
+  "name" : "Människans säkerhet",
+  "description" : "Ämnet människans säkerhet har sin grund i samhällskunskap. I ämnet behandlas det arbete som pågår i samhället för att förebygga skador och olycksfall. Dessutom behandlas hur människor och deras omgivning kan skyddas mot åverkan och hur skador kan förebyggas och lindras.",
+  "code" : "MÄS",
+  "designation" : "",
+  "skolfsId" : "2010:99",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet människans säkerhet ska syfta till att eleverna utvecklar kunskaper för att kunna uppmärksamma och påtala skaderisker samt förmåga att delta i samhällets skadeförebyggande arbete." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om de myndigheter och organisationer som ansvarar för det skadeförebyggande arbetet.", "Eleverna ska också ges möjlighet att utveckla kunskaper om faktorer i samhället som kan orsaka skador på människor och omgivande miljö.", "Äldre och barn är speciellt utsatta grupper, och undervisningen ska därför ge eleverna möjlighet att utveckla kunskaper om hur säkerheten för dessa grupper kan förbättras." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att möta och kommunicera med människor i svåra situationer på ett etiskt och pedagogiskt sätt." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet människans säkerhet ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om myndigheter och organisationer som ansvarar för medborgarnas säkerhet.", "Kunskaper om lagar och andra bestämmelser som reglerar verksamhetsområdet.", "Kunskaper om missbruk av droger, läkemedel och spel samt deras effekter.", "Kunskaper om våld och hot i samhället samt förmåga att utöva självförsvar.", "Kunskaper om systematiskt olycksarbete och skadeförebyggande arbete med fokus på målgruppen barn och äldre samt förmåga att delta i det skadeförebyggande arbete.", "Förmåga att kommunicera och samarbeta med andra på ett yrkesetiskt och pedagogiskt sätt." ]
+  } ],
+  "courses" : [ {
+    "name" : "Människans säkerhet",
+    "description" : " Kursen människans säkerhet omfattar punkterna 1–6 under rubriken Ämnets syfte. ",
+    "code" : "MÄSMÄN0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Samhällets säkerhetsarbete, organisation på central, regional och kommunal nivå samt olika aktörers, inklusive den enskildes, ansvar och roller.", "Lagar och andra bestämmelser av betydelse för verksamhetsområdet och som reglerar yrken inom verksamhetsområdet.", "Effekter av till exempel drog-, läkemedels- och spelmissbruk samt förebyggande åtgärder.", "Säkerhet för barn, till exempel förebyggande av barnolycksfall och barnmisshandel.", "Våld och hot, till exempel mot kvinnor.", "Gärningsmän och brottsoffer samt straffpåföljder.", "Säkerhet för äldre, till exempel förebyggande av fallolyckor, trafikskador, brand, våld och hot samt förgiftningar.", "Förebyggande brandsäkerhetsarbete.", "Metoder för självförsvar.", "Betydelsen av kommunikation och samarbete." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> hur myndigheter och organisationer inom verksamhetsområdet är organiserade samt deras uppgifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur myndigheter och organisationer inom verksamhetsområdet är organiserade samt deras uppgifter.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur myndigheter och organisationer inom verksamhetsområdet är organiserade samt deras uppgifter.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur myndigheter och organisationer inom verksamhetsområdet är organiserade samt deras uppgifter."
+        }
+      }, {
+        "text" : "Eleven ger exempel på lagar och andra bestämmelser som reglerar yrken inom verksamhetsområdet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven ger exempel på lagar och andra bestämmelser som reglerar yrken inom verksamhetsområdet.",
+          "C" : "Eleven ger exempel på lagar och andra bestämmelser som reglerar yrken inom verksamhetsområdet, <strong>samt beskriver översiktligt på vilket sätt de reglerar verksamhetsområdet</strong>.",
+          "A" : "Eleven ger exempel på lagar och andra bestämmelser som reglerar yrken inom verksamhetsområdet, <strong>samt beskriver utförligt på vilket sätt de reglerar verksamhetsområdet</strong>."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för riskerna med missbruk, våld, olycksfall och brand för medborgarnas säkerhet och diskuterar <strong>________</strong> utifrån <strong>________</strong> exempel hur riskerna kan förebyggas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för riskerna med missbruk, våld, olycksfall och brand för medborgarnas säkerhet och diskuterar <strong>översiktligt</strong> utifrån <strong>några</strong> exempel hur riskerna kan förebyggas.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för riskerna med missbruk, våld, olycksfall och brand för medborgarnas säkerhet och diskuterar <strong>utförligt</strong> utifrån <strong>flera</strong> exempel hur riskerna kan förebyggas.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för riskerna med missbruk, våld, olycksfall och brand för medborgarnas säkerhet och diskuterar <strong>utförligt och nyanserat</strong> utifrån <strong>flera</strong> exempel hur riskerna kan förebyggas."
+        }
+      }, {
+        "text" : "I redogörelsen beskriver eleven även <strong>________</strong> hot mot barn, äldre och andra utsatta grupper samt diskuterar <strong>________</strong> utifrån <strong>________</strong> exempel hur hoten kan förebyggas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I redogörelsen beskriver eleven även <strong>översiktligt</strong> hot mot barn, äldre och andra utsatta grupper samt diskuterar <strong>översiktligt</strong> utifrån <strong>några</strong> exempel hur hoten kan förebyggas.",
+          "C" : "I redogörelsen beskriver eleven även <strong>utförligt</strong> hot mot barn, äldre och andra utsatta grupper samt diskuterar <strong>utförligt</strong> utifrån <strong>flera</strong> exempel hur hoten kan förebyggas.",
+          "A" : "I redogörelsen beskriver eleven även <strong>utförligt och nyanserat</strong> hot mot barn, äldre och andra utsatta grupper samt diskuterar <strong>utförligt och nyanserat</strong> utifrån <strong>flera</strong> exempel hur hoten kan förebyggas."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare skadeförebyggande arbete av <strong>________</strong> kvalitet samt använder <strong>________</strong> några tekniker för självförsvar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare skadeförebyggande arbete av <strong>tillfredsställande</strong> kvalitet samt använder <strong>med viss säkerhet</strong> några tekniker för självförsvar.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare skadeförebyggande arbete av <strong>tillfredsställande</strong> kvalitet samt använder <strong>med viss säkerhet</strong> några tekniker för självförsvar.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare skadeförebyggande arbete av <strong>god</strong> kvalitet samt använder <strong>med säkerhet</strong> några tekniker för självförsvar."
+        }
+      }, {
+        "text" : "Dessutom kommunicerar och samarbetar eleven <strong>________</strong> med andra på ett yrkesetiskt och pedagogiskt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom kommunicerar och samarbetar eleven <strong>med viss säkerhet</strong> med andra på ett yrkesetiskt och pedagogiskt sätt.",
+          "C" : "Dessutom kommunicerar och samarbetar eleven <strong>med viss säkerhet</strong> med andra på ett yrkesetiskt och pedagogiskt sätt.",
+          "A" : "Dessutom kommunicerar och samarbetar eleven <strong>med säkerhet</strong> med andra på ett yrkesetiskt och pedagogiskt sätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

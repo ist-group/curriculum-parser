@@ -26,18 +26,19 @@ class CentralContentConverter {
                         CentralContent(heading, lines)
                     } else {
                         // Just a heading
-                        if (it.nextElementSibling()?.tagName() == "ul") {
-                            null
-                        } else {
-                            // Heading before
-                            CentralContent(it.text().trim(), listOf())
+                        when {
+                            it.nextElementSibling()?.tagName() == "ul" -> null
+                            it.text().trim().isNotEmpty() ->
+                                // Heading before
+                                CentralContent(it.text().trim(), listOf())
+                            else -> null
                         }
                     }
                 })
     }
 
 
-    internal fun normalizeCentralContents(centralContents: List<CentralContent>):  List<CentralContent> {
+    private fun normalizeCentralContents(centralContents: List<CentralContent>):  List<CentralContent> {
         val result = mutableListOf<CentralContent>()
         var lastCentralContent: CentralContent? = null
         centralContents.forEach { centralContent ->

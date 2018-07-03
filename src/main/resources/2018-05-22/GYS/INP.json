@@ -1,0 +1,200 @@
+{
+  "name" : "Inköp och logistik",
+  "description" : "Ämnet inköp och logistik behandlar logistik och varuhantering. Ämnet handlar om distribution och hantering av varor. I ämnet ingår varusortiment, lagerhållning och utrustning som används i samband med varuhantering. Centralt i ämnet är arbetsmiljö, säkerhet och miljöhänsyn.",
+  "code" : "INP",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet inköp och logistik ska syfta till att eleverna utvecklar kunskaper om logistik och hantering av varor samt förmåga att utföra arbetsuppgifter inom området.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om varans väg från producent till konsument där alla delar av distributionskedjan samordnas till en helhet.", "Undervisningen ska bidra till att eleverna utvecklar kunskaper om inköp och distribution av varor samt betydelsen av att detta genomförs med hänsyn till miljön." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Vidare ska eleverna ges möjlighet att utveckla kunskaper om olika former av varulager, organisation och lagerhållning.", "Eleverna ska också ges möjlighet att utveckla kunskaper om varusortiment och hantering av olika varor.", "Undervisningen ska bidra till att eleverna ges möjlighet att utveckla kunskaper om modern teknik och utrustning som används i samband med varuhantering samt om lagar och andra bestämmelser som rör arbetsmiljö och säkerhet.", "Undervisningen ska leda till att eleverna utvecklar förmåga att genomföra arbetsuppgifter inom varuhantering på ett ergonomiskt och säkert sätt samt med hänsyn till miljön." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Praktiskt arbete och ett problemlösande arbetssätt ska ingå i undervisningen.", "Eleverna ska ges möjlighet att reflektera över och samtala om genomfört arbete, arbetsmiljö och säkerhet samt frågor om miljöpåverkan." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet inköp och logistik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om logistik och varuhantering.", "Förmåga att använda modern teknik och teknisk utrustning inom området.", "Förmåga att utföra arbetsuppgifter inom varuhantering på ett ergonomiskt och säkert sätt samt med hänsyn till miljön." ]
+  } ],
+  "courses" : [ {
+    "name" : "Inköp och logistik 1",
+    "description" : "Kursen inköp och logistik 1 omfattar punkterna 1–3 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "INPINK51",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Inköp och logistik. Varans väg från producent till konsument.", "Varudistribution och distributionssystem.", "Varulager. Lagerhållning och organisation.", "Branschens varusortiment, till exempel inom livsmedels-, bygg- och klädbranschen.", "Varuhantering, till exempel upplockning, exponering och märkning av varor.", "Varuinventering.", "Utrustning i samband med varuhantering, till exempel pallyft och digitala informationssystem.", "Miljö- och resurshushållningsfrågor.", "Ergonomi, säkerhet och arbetsmiljö.", "Lagar och andra bestämmelser inom området, till exempel marknadsföringslagen och konsumentköplagen." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att redogöra för logistik och varuhantering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att redogöra för logistik och varuhantering.",
+          "C" : "Eleven redogör för logistik och varuhantering <strong>på ett enkelt sätt</strong>.",
+          "A" : "Eleven redogör för logistik och varuhantering <strong>på ett utvecklat sätt</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att använda modern teknik och teknisk utrustning inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att använda modern teknik och teknisk utrustning inom området.",
+          "C" : "Eleven använder modern teknik och teknisk utrustning inom området <strong>på ett delvis ändamålsenligt sätt</strong>.",
+          "A" : "Eleven använder modern teknik och teknisk utrustning inom området <strong>på ett ändamålsenligt sätt</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> dessutom i att utföra arbetsmoment inom varuhantering på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> dessutom i att utföra arbetsmoment inom varuhantering på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "C" : "Eleven utför dessutom <strong>med tillfredsställande resultat</strong> arbetsmoment inom varuhantering på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "A" : "Eleven utför dessutom <strong>med gott resultat</strong> arbetsmoment inom varuhantering på ett ergonomiskt och säkert sätt samt med hänsyn till miljön."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Inköp och logistik 2",
+    "description" : "Kursen inköp och logistik 2 omfattar punkterna 1–3 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "INPINK52",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Varudistribution och distributionssystem.", "Varulager. Lagerhållning och organisation.", "Leveransprocessen och leveransbevakning.", "Branschens varusortiment, till exempel inom livsmedels-, bygg- eller klädbranschen. Certifiering och märkning av produkter.", "Varuinventering och beräkning av åtgång. Datasystem och programvaror.", "Utrustning som används i samband med varuhantering, till exempel pallyft, etiketter för märkning av varor och digitala informationssystem.", "Miljö- och resurshushållningsfrågor.", "Ergonomi, säkerhet och arbetsmiljö.", "Lagar och andra bestämmelser inom området, till exempel marknadsföringslagen och konsumentköplagen." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att redogöra för logistik och varuhantering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att redogöra för logistik och varuhantering.",
+          "C" : "Eleven redogör för logistik och varuhantering <strong>på ett enkelt sätt</strong>.",
+          "A" : "Eleven redogör för logistik och varuhantering <strong>på ett utvecklat sätt</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att använda modern teknik och teknisk utrustning inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att använda modern teknik och teknisk utrustning inom området.",
+          "C" : "Eleven använder modern teknik och teknisk utrustning inom området <strong>på ett delvis ändamålsenligt sätt</strong>.",
+          "A" : "Eleven använder modern teknik och teknisk utrustning inom området <strong>på ett ändamålsenligt sätt</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> dessutom i att utföra arbetsmoment inom varuhantering på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> dessutom i att utföra arbetsmoment inom varuhantering på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "C" : "Eleven utför dessutom <strong>med tillfredsställande resultat</strong> arbetsmoment inom varuhantering på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "A" : "Eleven utför dessutom <strong>med gott resultat</strong> arbetsmoment inom varuhantering på ett ergonomiskt och säkert sätt samt med hänsyn till miljön."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Inköp och logistik 3",
+    "description" : "Kursen inköp och logistik 3 omfattar punkterna 1–3 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "INPINK53",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Fördjupning inom något eller några av ämnets kunskapsområden, till exempel inom varuhantering i butik eller på lager.", "Miljö- och resurshushållningsfrågor inom kunskapsområdet.", "Ergonomi, säkerhet och arbetsmiljö.", "Lagar och andra bestämmelser inom kunskapsområdet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att redogöra för logistik och varuhantering inom ett kunskapsområde.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att redogöra för logistik och varuhantering inom ett kunskapsområde.",
+          "C" : "Eleven redogör för logistik och varuhantering inom ett kunskapsområde <strong>på ett enkelt sätt</strong>.",
+          "A" : "Eleven redogör för logistik och varuhantering inom ett kunskapsområde <strong>på ett utvecklat sätt</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att använda modern teknik och teknisk utrustning inom kunskapsområdet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att använda modern teknik och teknisk utrustning inom kunskapsområdet.",
+          "C" : "Eleven använder modern teknik och teknisk utrustning inom kunskapsområdet <strong>på ett delvis ändamålsenligt sätt</strong>.",
+          "A" : "Eleven använder modern teknik och teknisk utrustning inom kunskapsområdet <strong>på ett ändamålsenligt sätt</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> dessutom i att utföra arbetsmoment inom kunskapsområdet på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> dessutom i att utföra arbetsmoment inom kunskapsområdet på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "C" : "Eleven utför dessutom <strong>med tillfredsställande resultat</strong> arbetsmoment inom kunskapsområdet på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "A" : "Eleven utför dessutom <strong>med gott resultat</strong> arbetsmoment inom kunskapsområdet på ett ergonomiskt och säkert sätt samt med hänsyn till miljön."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Näthandel 1",
+    "description" : "Kursen näthandel 1 omfattar punkterna 1–3 under rubriken Ämnets syfte. I kursen ingår grundläggande kunskaper i ämnet.",
+    "code" : "INPNAT51",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Näthandelns utveckling, förekomst och innehåll.", "Logistik i samband med näthandel. Från köp till leverans.", "Varudistribution och distributionssystem inom näthandel.", "Varulager inom näthandel. Lagerhållning och organisation.", "Näthandelsplats på internet, till exempel webbplats med möjlighet för kunden att beställa varor eller tjänster via formulär.", "Olika betalningssätt och betalningssystem vid näthandel.", "Målgrupper och kundanpassning i samband med näthandel.", "Marknadsföring på internet och genom sociala medier.", "Lagar och andra bestämmelser inom området." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att redogöra för logistik och varuhantering inom näthandel.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att redogöra för logistik och varuhantering inom näthandel.",
+          "C" : "Eleven redogör för logistik och varuhantering inom näthandel <strong>på ett enkelt sätt</strong>.",
+          "A" : "Eleven redogör för logistik och varuhantering inom näthandel <strong>på ett utvecklat sätt</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att använda modern teknik och teknisk utrustning inom näthandel.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att använda modern teknik och teknisk utrustning inom näthandel.",
+          "C" : "Eleven använder modern teknik och teknisk utrustning inom näthandel <strong>på ett delvis ändamålsenligt sätt</strong>.",
+          "A" : "Eleven använder modern teknik och teknisk utrustning inom näthandel <strong>på ett ändamålsenligt sätt</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> dessutom i att utföra arbetsmoment inom näthandel på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> dessutom i att utföra arbetsmoment inom näthandel på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "C" : "Eleven utför dessutom <strong>med tillfredsställande resultat</strong> arbetsmoment inom näthandel på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "A" : "Eleven utför dessutom <strong>med gott resultat</strong> arbetsmoment inom näthandel på ett ergonomiskt och säkert sätt samt med hänsyn till miljön."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Näthandel 2",
+    "description" : "Kursen näthandel 2 omfattar punkterna 1–3 under rubriken Ämnets syfte. I kursen ingår fördjupade kunskaper i ämnet.",
+    "code" : "INPNAT52",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Fördjupning inom något eller några av ämnets kunskapsområden, till exempel publiceringsverktyg för webbplatser, programvaror för webbplatsproduktion och logistik.", "Ergonomi, säkerhet och arbetsmiljö.", "Lagar och andra bestämmelser inom kunskapsområdet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att redogöra för ett kunskapsområde inom näthandel.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att redogöra för ett kunskapsområde inom näthandel.",
+          "C" : "Eleven redogör <strong>på ett enkelt sätt</strong> för ett kunskapsområde inom näthandel.",
+          "A" : "Eleven redogör <strong>på ett utvecklat sätt</strong> för ett kunskapsområde inom näthandel."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att använda modern teknik och teknisk utrustning inom kunskapsområdet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att använda modern teknik och teknisk utrustning inom kunskapsområdet.",
+          "C" : "Eleven använder modern teknik och teknisk utrustning inom kunskapsområdet <strong>på ett delvis ändamålsenligt sätt</strong>.",
+          "A" : "Eleven använder modern teknik och teknisk utrustning inom kunskapsområdet <strong>på ett ändamålsenligt sätt</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> dessutom i att utföra arbetsmoment inom kunskapsområdet på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> dessutom i att utföra arbetsmoment inom kunskapsområdet på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "C" : "Eleven utför dessutom <strong>med tillfredsställande resultat</strong> arbetsmoment inom kunskapsområdet på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "A" : "Eleven utför dessutom <strong>med gott resultat</strong> arbetsmoment inom kunskapsområdet på ett ergonomiskt och säkert sätt samt med hänsyn till miljön."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

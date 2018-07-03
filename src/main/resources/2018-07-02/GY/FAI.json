@@ -1,0 +1,205 @@
+{
+  "name" : "Fastighetsautomation",
+  "description" : "Ämnet fastighetsautomation behandlar underhåll, mätning, styrning och reglering av klimat- och belysningsanläggningar i fastigheter.",
+  "code" : "FAI",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet fastighetsautomation ska syfta till att eleverna utvecklar kunskaper i att planera och utföra arbete på automatiserade system i fastigheter med hjälp av systemdokumentation, till exempel ritningar och manualer.", "Undervisningen ska även leda till att eleverna utvecklar förståelse av hur informationsteknik kan användas vid arbete med automatiserade system.", "Dessutom ska eleverna ges möjlighet att utveckla förmåga att hantera verktyg och utrustning inom valt område." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar förståelse av säkerhet, standarder och begrepp samt färdigheter i att tillämpa dessa.", "Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att förebygga och avhjälpa fel i automatiserade system i fastigheter.", "Dessutom ska undervisningen ge eleverna möjlighet att utveckla teoretisk förståelse av begrepp, teorier och metoder." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom både praktiskt och teoretiskt arbete med uppgifter ska eleverna ges möjlighet att öva sig i att arbeta enligt yrkespraxis." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet fastighetsautomation ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om uppbyggnad av, funktion och principer för samt de risker som finns vid arbete med automatiserade system i fastigheter.", "Kunskaper om standarder och begrepp som används vid arbete med automatiserade system i fastigheter.", "Förmåga att planera och på ett säkert sätt utföra arbete i automatiserade system i fastigheter.", "Förmåga att läsa och framställa scheman, ritningar och annan dokumentation över automatiserade system i fastigheter.", "Förmåga att installera, programmera och driftsätta automatiserade system i fastigheter.", "Färdigheter i att använda informationsteknik som stöd vid byggnation, drift och underhåll av automatiserade system i fastigheter.", "Förmåga att förebygga och avhjälpa fel i automatiserade system i fastigheter." ]
+  } ],
+  "courses" : [ {
+    "name" : "Fastighetsautomation 1",
+    "description" : "Kursen fastighetsautomation 1 omfattar punkterna 1–7 under rubriken Ämnets syfte.",
+    "code" : "FAIFAS01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Grundläggande systemfunktioner, tekniska begrepp, beteckningar, symboler och enheter inom området värme och ventilation, till exempel luftbehandling, värmeväxlare, panna, varmvattenberedare, spjällmotor, radiatorslinga, tidkanal, fjärrvärme, varmvattencirkulation, shuntventil, expansionskärl, säkerhetsventil, närvarostyrning, koldioxidstyrning, datorhuvudcentral och datorundercentral.", "Grundläggande systemfunktioner, tekniska begrepp, beteckningar, symboler och enheter inom området fastighetsstyrning, till exempel konstantljusreglering, kopplingsur, tidkanal, närvarostyrning, skymningsrelä, ljusrelä och ljussensor.", "Vanligt förekommande informationstekniska standarder inom fastighetsautomation.", "Vanligt förekommande automationsenheter och drifttekniskt övergripande system inom fastighetsautomation.", "Vanligt förekommande systemlösningar för olika funktioner inom fastighetsautomation samt hur de kan integreras och samverka.", "Utveckling och framtid inom fastighetsautomation.", "Planering, installation, konfigurering, programmering och driftsättning av vanligt förekommande automatiseringar långt ut i fastigheter, till exempel belysning eller solavskärmning.", "Behörigheter och sociala aspekter vid arbete i fastigheter, till exempel vilka arbeten som kräver vilken behörighet samt tolkning av kundkrav och översättning av dessa till en teknisk lösning.", "Metoder för att mäta ljusstyrka och vindstyrka samt funktioner hos regnsensorer.", "Vanligt förekommande spänningar och standardiserade analoga signaler i fastigheter.", "Risker och säkerhet vid arbeten i fastigheter, till exempel brandrisker och risken att lösa ut brandlarm eller inbrottslarm.", "Tolkning av kravspecifikationer och dokumentation.", "Dokumentation av arbeten i fastigheter.", "Förebyggande och avhjälpande underhåll inom fastighetsautomation." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom fastighetsautomation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom fastighetsautomation.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom fastighetsautomation.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom fastighetsautomation."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för begrepp och standarder som styr arbetet med automatiserade system i fastigheter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för begrepp och standarder som styr arbetet med automatiserade system i fastigheter.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för begrepp och standarder som styr arbetet med automatiserade system i fastigheter.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för begrepp och standarder som styr arbetet med automatiserade system i fastigheter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>________</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>gott</strong> sätt uppfyller fastställda kvalitets- och miljökrav."
+        }
+      }, {
+        "text" : "Eleven arbetar på ett sätt som är säkert för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar på ett sätt som är säkert för eleven själv och andra.",
+          "C" : "Eleven arbetar på ett sätt som är säkert för eleven själv och andra.",
+          "A" : "Eleven arbetar på ett sätt som är säkert för eleven själv och andra."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> manualer, scheman och ritningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> manualer, scheman och ritningar.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> manualer, scheman och ritningar.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> manualer, scheman och ritningar."
+        }
+      }, {
+        "text" : "Vidare driftsätter och kontrollerar eleven <strong>________</strong> med handledare anläggningen, upptäcker och åtgärdar <strong>________</strong> med handledare de fel som uppstår samt genomför en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare driftsätter och kontrollerar eleven <strong>i samråd</strong> med handledare anläggningen, upptäcker och åtgärdar <strong>i samråd</strong> med handledare de fel som uppstår samt genomför en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "Vidare driftsätter och kontrollerar eleven <strong>efter samråd</strong> med handledare anläggningen, upptäcker och åtgärdar <strong>efter samråd</strong> med handledare de fel som uppstår samt genomför en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "Vidare driftsätter och kontrollerar eleven <strong>efter samråd</strong> med handledare anläggningen, upptäcker och åtgärdar <strong>efter samråd</strong> med handledare de fel som uppstår samt genomför en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      }, {
+        "text" : "Eleven strukturerar uppgiften <strong>________</strong> och programmerar eller konfigurerar med <strong>________</strong> handlag styrsystemet för anläggningens funktioner utifrån användarens funktionsbeskrivning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven strukturerar uppgiften <strong>med viss säkerhet</strong> och programmerar eller konfigurerar med <strong>visst</strong> handlag styrsystemet för anläggningens funktioner utifrån användarens funktionsbeskrivning.",
+          "C" : "Eleven strukturerar uppgiften <strong>med viss säkerhet</strong> och programmerar eller konfigurerar med <strong>gott</strong> handlag styrsystemet för anläggningens funktioner utifrån användarens funktionsbeskrivning.",
+          "A" : "Eleven strukturerar uppgiften <strong>med säkerhet</strong> och programmerar eller konfigurerar med <strong>mycket gott</strong> handlag styrsystemet för anläggningens funktioner."
+        }
+      }, {
+        "text" : "Vidare förebygger eleven <strong>________</strong> med handledare fel och optimerar med <strong>________</strong> handlag anläggningen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare förebygger eleven <strong>i samråd</strong> med handledare fel och optimerar med <strong>visst</strong> handlag anläggningen.",
+          "C" : "Vidare förebygger eleven <strong>efter samråd</strong> med handledare fel och optimerar med <strong>gott</strong> handlag anläggningen.",
+          "A" : "Vidare förebygger eleven <strong>efter samråd</strong> med handledare fel och optimerar med <strong>mycket gott</strong> handlag anläggningen utifrån användarens funktionsbeskrivning."
+        }
+      }, {
+        "text" : "I arbetet beskriver eleven <strong>________</strong> hur de olika delarna fungerar och samverkar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet beskriver eleven <strong>översiktligt</strong> hur de olika delarna fungerar och samverkar.",
+          "C" : "I arbetet beskriver eleven <strong>utförligt</strong> hur de olika delarna fungerar och samverkar <strong>samt ger enkla förslag på förbättringar av anläggningen</strong>.",
+          "A" : "I arbetet beskriver eleven <strong>utförligt och nyanserat</strong> hur de olika delarna fungerar och samverkar <strong>samt ger välgrundade förslag på förbättringar av anläggningen</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Fastighetsautomation 2",
+    "description" : "Kursen fastighetsautomation omfattar punkterna 1–7 under rubriken Ämnets syfte.",
+    "code" : "FAIFAS02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Uppbyggnad och funktion av värme- och ventilationssystem.", "Grundläggande luftbehandling utifrån sambandet mellan temperatur, tryck, fuktinnehåll och daggpunkt.", "Teorier och metoder för kylteknik.", "Utveckling och framtid inom fastighetsautomation.", "Vanligt förekommande informationstekniska standarder inom fastighetsautomation.", "Planering, inkoppling, programmering och dokumentation av styrtekniska funktioner med automationsenheter som är vanligt förekommande i fastigheter, till exempel reläer, kontaktorer, frekvensomformare, ur, skymningsreläer eller fastighetsanpassade programmerbara styrsystem.", "Inkoppling av vanligt förekommande automationsenheter för värme och ventilation, till exempel temperaturgivare, transmitter, spjällmotor, shuntventil och DUC (dataundercentral).", "Metoder för klimatreglering i fastigheter med begrepp som framkoppling, prognosstyrning, multivariabel reglering, fuktreglering, oskarp logik (fuzzy logic), nattsänkning, nattkyla och kaskadreglering.", "Metoder att mäta temperatur, tryck, fuktighet, ljusstyrka, koldioxidhalt, vindhastighet, flöde och energi.", "Risker och säkerhet vid arbeten i fastigheter, till exempel brandrisker och risker att lösa ut brandlarm eller inbrottslarm.", "Tolkning av förekommande kravspecifikationer och dokumentation.", "Dokumentation av arbete i fastigheter.", "Drifttekniskt övergripande system i fastigheter.", "Konfigurering, driftsättning, driftlarmhantering och underhåll av värme- och ventilationssystem.", "Energioptimering av fastigheter med värmeväxlare, värmepumpar, koldioxidstyrning samt närvarostyrning av ventilation och belysning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom fastighetsautomation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom fastighetsautomation.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom fastighetsautomation.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom fastighetsautomation."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för begrepp och standarder som styr arbetet med automatiserade system i fastigheter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för begrepp och standarder som styr arbetet med automatiserade system i fastigheter.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för begrepp och standarder som styr arbetet med automatiserade system i fastigheter.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för begrepp och standarder som styr arbetet med automatiserade system i fastigheter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>________</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>gott</strong> sätt uppfyller fastställda kvalitets- och miljökrav."
+        }
+      }, {
+        "text" : "Eleven arbetar på ett sätt som är säkert för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar på ett sätt som är säkert för eleven själv och andra.",
+          "C" : "Eleven arbetar på ett sätt som är säkert för eleven själv och andra.",
+          "A" : "Eleven arbetar på ett sätt som är säkert för eleven själv och andra."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> manualer, scheman och ritningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> manualer, scheman och ritningar.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> manualer, scheman och ritningar.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> manualer, scheman och ritningar."
+        }
+      }, {
+        "text" : "Vidare driftsätter och kontrollerar eleven <strong>________</strong> med handledare anläggningen, upptäcker och åtgärdar <strong>________</strong> med handledare de fel som uppstår samt genomför en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare driftsätter och kontrollerar eleven <strong>i samråd</strong> med handledare anläggningen, upptäcker och åtgärdar <strong>i samråd</strong> med handledare de fel som uppstår samt genomför en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "Vidare driftsätter och kontrollerar eleven <strong>efter samråd</strong> med handledare anläggningen, upptäcker och åtgärdar <strong>efter samråd</strong> med handledare de fel som uppstår samt genomför en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "Vidare driftsätter och kontrollerar eleven <strong>efter samråd</strong> med handledare anläggningen, upptäcker och åtgärdar <strong>efter samråd</strong> med handledare de fel som uppstår samt genomför en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      }, {
+        "text" : "Eleven strukturerar uppgiften <strong>________</strong> och programmerar eller konfigurerar med <strong>________</strong> handlag styrsystemet för anläggningens funktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven strukturerar uppgiften <strong>med viss säkerhet</strong> och programmerar eller konfigurerar med <strong>visst</strong> handlag styrsystemet för anläggningens funktioner.",
+          "C" : "Eleven strukturerar uppgiften <strong>med viss säkerhet</strong> och programmerar eller konfigurerar med <strong>gott</strong> handlag styrsystemet för anläggningens funktioner.",
+          "A" : "Eleven strukturerar uppgiften <strong>med säkerhet</strong> och programmerar eller konfigurerar med <strong>mycket gott</strong> handlag styrsystemet för anläggningens funktioner."
+        }
+      }, {
+        "text" : "Vidare förebygger eleven <strong>________</strong> med handledare fel och optimerar med <strong>________</strong> handlag anläggningen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare förebygger eleven <strong>i samråd</strong> med handledare fel och optimerar med <strong>visst</strong> handlag anläggningen.",
+          "C" : "Vidare förebygger eleven <strong>efter samråd</strong> med handledare fel och optimerar med <strong>gott</strong> handlag anläggningen.",
+          "A" : "Vidare förebygger eleven <strong>efter samråd</strong> med handledare fel och optimerar med <strong>mycket gott</strong> handlag anläggningen."
+        }
+      }, {
+        "text" : "I arbetet beskriver eleven <strong>________</strong> hur de olika delarna fungerar och samverkar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet beskriver eleven <strong>översiktligt</strong> hur de olika delarna fungerar och samverkar.",
+          "C" : "I arbetet beskriver eleven <strong>utförligt</strong> hur de olika delarna fungerar och samverkar <strong>samt ger enkla förslag på förbättringar av anläggningen</strong>.",
+          "A" : "I arbetet beskriver eleven <strong>utförligt och nyanserat</strong> hur de olika delarna fungerar och samverkar <strong>samt ger välgrundade förslag på förbättringar av anläggningen</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

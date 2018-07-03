@@ -1,0 +1,245 @@
+{
+  "name" : "Yrkesteknik – flyg",
+  "description" : "Ämnet yrkesteknik – flyg behandlar de kunskaper som krävs för att ge eleven en kunskapsram till den omgivning i form av naturlagar, internationella regelverk och kvalitetskrav som styr all verksamhet inom flygsektorn.",
+  "code" : "YRK",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet yrkesteknik – flyg ska syfta till att ge eleverna möjlighet att utveckla kunskaper om aerodynamiska och atmosfäriska tillstånd som är tillämpbara på luftfartyg.", "Undervisningen ska ge eleverna möjlighet att utveckla förståelsen för samspelet mellan maskin och människa samt människans förutsättningar och begränsningar i samband med flygverksamhet.", "Undervisningen i ämnet ska leda till att eleverna utvecklar förutsättningar att förstå lagar och bestämmelser som skapar en bra arbetsmiljö och förebygger arbetsskador, samt är till för att skydda tredje person mot skador förorsakade av flygverksamhet." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla de kunskaper som krävs enligt gällande regler och krav för flygmekaniker.", "Undervisningen ska bidra till att eleverna utvecklar förståelse för hållbar utveckling med hänsyn till kvalitet, säkerhet, miljö och ekonomi." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet yrkesteknik – flyg ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om aerodynamik.", "Kunskaper om faktorer som påverkar människan och om hur mänskliga misstag kan undvikas.", "Kunskaper om tekniska systems anpassning till människan.", "Kunskaper om lagar och andra bestämmelser samt standarder.", "Förmåga att kommunicera och att använda begrepp och uttryck som är relevanta för området på såväl svenska som engelska.", "Kunskaper om att arbeta på ett säkert, miljömässigt och kvalitetsmässigt sätt." ]
+  } ],
+  "courses" : [ {
+    "name" : "Aerodynamik",
+    "description" : "Kursen aerodynamik omfattar punkterna 1 och 5 under rubriken Ämnets syfte.",
+    "code" : "YRKAER0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Atmosfärens fysik med tillämpning på aerodynamik.", "Aerodynamiska termer och begrepp relaterade till luftfartyg.", "Flygteori som berör samband mellan krafter och faktorer som inverkar på lyftkraft och motstånd.", "Flygstabilitet och dynamik.", "Fackspråk på svenska och engelska." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> atmosfärens betydelse, hur lyftkraft skapas vid olika förhållanden och hur atmosfäriska omständigheter påverkar luftfartyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> atmosfärens betydelse, hur lyftkraft skapas vid olika förhållanden och hur atmosfäriska omständigheter påverkar luftfartyg.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> atmosfärens betydelse, hur lyftkraft skapas vid olika förhållanden och hur atmosfäriska omständigheter påverkar luftfartyg.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> atmosfärens betydelse, hur lyftkraft skapas vid olika förhållanden och hur atmosfäriska omständigheter påverkar luftfartyg."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> för området relevanta begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> för området relevanta begrepp.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> för området relevanta begrepp.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> för området relevanta begrepp."
+        }
+      }, {
+        "text" : "När eleven kommunicerar med andra använder hon eller han <strong>________</strong> relevant fackspråk på svenska och engelska.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven kommunicerar med andra använder hon eller han <strong>med viss säkerhet</strong> relevant fackspråk på svenska och engelska.",
+          "C" : "När eleven kommunicerar med andra använder hon eller han <strong>med viss säkerhet</strong> relevant fackspråk på svenska och engelska.",
+          "A" : "När eleven kommunicerar med andra använder hon eller han <strong>med säkerhet</strong> relevant fackspråk på svenska och engelska."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Flyglagstiftning",
+    "description" : "Kursen flyglagstiftning omfattar punkterna 4–5 under rubriken Ämnets syfte.",
+    "code" : "YRKFLY0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika aktörers regelverk och roller enligt rådande luftfartsbestämmelser.", "Förståelse för hur man håller sig uppdaterad på förändringar i regelverket.", "Förståelse för regelverk som styr flygunderhållspersonals kunskapskrav och flygverkstäders verksamhet, enligt EASA Part-66 och Part-145.", "Förståelse för operatörens ansvar för fortsatt luftvärdighet och underhåll.", "Förståelse för regelverk som styr konstruktion, tillverkning och vidmakthållande av luftfartyg, enligt EASA Part-21 och Part-M.", "Fackspråk på svenska och engelska." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> olika regelverk som styr verksamheten och vad de olika regelverken innehåller.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> olika regelverk som styr verksamheten och vad de olika regelverken innehåller.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> olika regelverk som styr verksamheten och vad de olika regelverken innehåller.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> olika regelverk som styr verksamheten och vad de olika regelverken innehåller."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> samband mellan nationella och internationella regelverk samt kopplingen till de olika verksamheterna inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> samband mellan nationella och internationella regelverk samt kopplingen till de olika verksamheterna inom området.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> samband mellan nationella och internationella regelverk samt kopplingen till de olika verksamheterna inom området.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> samband mellan nationella och internationella regelverk samt kopplingen till de olika verksamheterna inom området."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> olika organisationers och befattningshavares ansvar, befogenheter och skyldigheter enligt gällande regelsystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> olika organisationers och befattningshavares ansvar, befogenheter och skyldigheter enligt gällande regelsystem.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> olika organisationers och befattningshavares ansvar, befogenheter och skyldigheter enligt gällande regelsystem.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> olika organisationers och befattningshavares ansvar, befogenheter och skyldigheter enligt gällande regelsystem."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven följer i bekanta situationer lagar och andra bestämmelser som de praktiska momenten i utbildningen kräver.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven följer i bekanta situationer lagar och andra bestämmelser som de praktiska momenten i utbildningen kräver.",
+          "C" : "Eleven följer i bekanta <strong>och delvis nya</strong> situationer lagar och andra bestämmelser som de praktiska momenten i utbildningen kräver.",
+          "A" : "Eleven följer i bekanta <strong>men även nya</strong> situationer lagar och andra bestämmelser som de praktiska momenten i utbildningen kräver."
+        }
+      }, {
+        "text" : "Dessutom förklarar eleven <strong>________</strong> sammanhang mellan regelverk och praktiska procedurer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom förklarar eleven <strong>översiktligt</strong> sammanhang mellan regelverk och praktiska procedurer.",
+          "C" : "Dessutom förklarar eleven <strong>utförligt</strong> sammanhang mellan regelverk och praktiska procedurer.",
+          "A" : "Dessutom förklarar eleven <strong>utförligt och nyanserat</strong> sammanhang mellan regelverk och praktiska procedurer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> för området relevanta begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> för området relevanta begrepp.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> för området relevanta begrepp.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> för området relevanta begrepp."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> fackspråk på svenska och engelska för att uttrycka fakta och principer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> fackspråk på svenska och engelska för att uttrycka fakta och principer.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> fackspråk på svenska och engelska för att uttrycka fakta och principer.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> fackspråk på svenska och engelska för att uttrycka fakta och principer."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 50,
+    "year" : null
+  }, {
+    "name" : "Mänskliga faktorer",
+    "description" : "Kursen mänskliga faktorer omfattar punkterna 2–3 och 5–6 under rubriken Ämnets syfte.",
+    "code" : "YRKMAN0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Avvikelser som kan hänföras till mänskliga faktorer.", "Människans sinnen, förutsättningar och begränsningar.", "Allmän orientering i socialpsykologi och gruppdynamik.", "Faktorer som påverkar mänskliga prestationer.", "Fysisk samt psykisk arbetsmiljö.", "Kommunikation.", "Arbetsplatsrisker.", "Modeller och teorier om hur mänskliga misstag kan undvikas.", "Flygsäkerhetskultur.", "Faktorer som påverkar arbetsresultat och arbetsmiljö, till exempel struktur, ordning, trivsel, yrkesroll och den mänskliga faktorn." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> hur människans minne och tänkande fungerar samt vilka faktorer som påverkar minnet och tänkandet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur människans minne och tänkande fungerar samt vilka faktorer som påverkar minnet och tänkandet.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur människans minne och tänkande fungerar samt vilka faktorer som påverkar minnet och tänkandet.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur människans minne och tänkande fungerar samt vilka faktorer som påverkar minnet och tänkandet."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> hur människan väljer ut, uppfattar och tolkar sinnesintryck.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> hur människan väljer ut, uppfattar och tolkar sinnesintryck.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> hur människan väljer ut, uppfattar och tolkar sinnesintryck.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> hur människan väljer ut, uppfattar och tolkar sinnesintryck."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> hur olika påfrestningar som stress, kriser och katastrofer påverkar den perceptuella och kognitiva förmågan.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> hur olika påfrestningar som stress, kriser och katastrofer påverkar den perceptuella och kognitiva förmågan.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> hur olika påfrestningar som stress, kriser och katastrofer påverkar den perceptuella och kognitiva förmågan.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> hur olika påfrestningar som stress, kriser och katastrofer påverkar den perceptuella och kognitiva förmågan."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> hur mänskliga misstag kan undvikas och ger exempel på konsekvenser av sådana misstag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur mänskliga misstag kan undvikas och ger exempel på konsekvenser av sådana misstag.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur mänskliga misstag kan undvikas och ger exempel på konsekvenser av sådana misstag.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur mänskliga misstag kan undvikas och ger exempel på konsekvenser av sådana misstag."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> faktorer som påverkar människans motivation och prestation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> faktorer som påverkar människans motivation och prestation.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> faktorer som påverkar människans motivation och prestation.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> faktorer som påverkar människans motivation och prestation."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> problem med tekniska systems anpassning till människans psykiska förmåga och gör utifrån detta <strong>________</strong> riskbedömningar och drar <strong>________</strong> slutsatser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> problem med tekniska systems anpassning till människans psykiska förmåga och gör utifrån detta <strong>enkla</strong> riskbedömningar och drar <strong>enkla</strong> slutsatser.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> problem med tekniska systems anpassning till människans psykiska förmåga och gör utifrån detta riskbedömningar och drar <strong>välgrundade</strong> slutsatser.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> problem med tekniska systems anpassning till människans psykiska förmåga och gör utifrån detta <strong>välgrundade</strong> riskbedömningar och drar <strong>välgrundade och nyanserade</strong> slutsatser."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven kommunicerar med andra använder hon eller han <strong>________</strong> relevant fackspråk på svenska och engelska.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven kommunicerar med andra använder hon eller han <strong>med viss säkerhet</strong> relevant fackspråk på svenska och engelska.",
+          "C" : "När eleven kommunicerar med andra använder hon eller han <strong>med viss säkerhet</strong> relevant fackspråk på svenska och engelska.",
+          "A" : "När eleven kommunicerar med andra använder hon eller han <strong>med säkerhet</strong> relevant fackspråk på svenska och engelska."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 50,
+    "year" : null
+  } ]
+}

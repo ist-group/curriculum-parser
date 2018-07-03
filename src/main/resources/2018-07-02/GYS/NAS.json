@@ -1,0 +1,95 @@
+{
+  "name" : "Naturbruksteknik",
+  "description" : "Ämnet naturbruksteknik behandlar den tekniska utrustning som används inom naturbrukets olika verksamheter. Ämnet omfattar den tekniska utrustningens konstruktion, funktion och användningsområden. Centralt i ämnet är säkerhetskontroller, daglig tillsyn och service.",
+  "code" : "NAS",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet naturbruksteknik ska syfta till att eleverna utvecklar förmåga att använda teknisk utrustning, såväl handredskap som maskinell utrustning.", "Undervisningen ska bidra till att eleverna utvecklar kunskaper om den tekniska utrustningens konstruktion, funktion, inställningsmöjligheter och säkerhetsföreskrifter.", "I undervisningen ska eleverna ges möjligheter att utveckla förmåga att utföra service och underhåll av teknisk utrustning.", "Undervisningen ska bidra till att eleverna utvecklar kunskaper om användning av teknisk utrustning i samspel med biologiska förutsättningar.", "Undervisningen ska också bidra till att eleverna utvecklar kunskaper om hur man vid användning av teknisk utrustning når en hög kvalitet på naturbrukets produkter och tjänster." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska leda till att eleverna utvecklar förmåga att använda den tekniska utrustningen på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.", "Dessutom ska undervisningen bidra till att eleverna utvecklar förmåga att följa de lagar och andra bestämmelser som gäller inom området." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska praktiskt arbete och fältstudier ingå.", "Genom undervisningen ska eleverna också ges möjlighet att reflektera över samt samtala om säkerhet, arbetsmiljö och miljöhänsyn." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet naturbruksteknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om naturbrukets tekniska utrustning, dess användningsområden, konstruktion och funktion.", "Förmåga att använda teknisk utrustning på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.", "Förmåga att utföra säkerhetskontroller, daglig tillsyn och service av den tekniska utrustningen." ]
+  } ],
+  "courses" : [ {
+    "name" : "Naturbruksteknik",
+    "description" : "Kursen naturbruksteknik omfattar punkterna 1–3 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "NASNAT5",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Användningsområden för teknisk utrustning, till exempel olika handredskap, gräsklippare och gödselspridare.", "Den tekniska utrustningens konstruktion och funktion.", "Arbetsuppgifter med teknisk utrustning, till exempel gräsklippning, utgödsling och röjningsarbete. Arbetsteknik.", "Ergonomi och arbetsmiljö i samband med användning av teknisk utrustning.", "Brand- och brandförebyggande åtgärder.", "Lagar och andra bestämmelser inom området, till exempel arbetsmiljölagen och miljölagar.", "Säkerhetsanordningar och säkerhetskontroll inför användning av teknisk utrustning.", "Daglig tillsyn, till exempel kontroll av bränsle och olja. Verktyg i samband med kontroll och tillsyn.", "Service och underhåll av teknisk utrustning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva vanligt förekommande teknisk utrustning samt dess konstruktion, funktion och användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva vanligt förekommande teknisk utrustning samt dess konstruktion, funktion och användningsområden.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> vanligt förekommande teknisk utrustning samt dess konstruktion, funktion och användningsområden.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> vanligt förekommande teknisk utrustning samt dess konstruktion, funktion och användningsområden."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att använda teknisk utrustning på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att använda teknisk utrustning på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "C" : "Eleven använder teknisk utrustning på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "A" : "Eleven använder teknisk utrustning på ett ergonomiskt och säkert sätt samt med hänsyn till miljön."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att utföra säkerhetskontroll, daglig tillsyn och service av teknisk utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att utföra säkerhetskontroll, daglig tillsyn och service av teknisk utrustning.",
+          "C" : "Eleven utför <strong>med viss säkerhet</strong> säkerhetskontroll, daglig tillsyn och service av teknisk utrustning.",
+          "A" : "Eleven utför <strong>med säkerhet</strong> säkerhetskontroll, daglig tillsyn och service av teknisk utrustning."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Naturbruksteknik – specialområde",
+    "description" : "Kursen naturbruksteknik – specialområde omfattar punkterna 1–3 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper inom specialområdet.",
+    "code" : "NASNAT50S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Teknisk utrustning inom ett specialområde, konstruktion, funktion eller användningsområden.", "Teknisk utrustning inom ett specialområde, arbetsuppgifter och arbetsteknik.", "Ergonomi och arbetsmiljö i samband med användning av den tekniska utrustningen.", "Brand- och brandförebyggande åtgärder.", "Lagar och andra bestämmelser inom området, till exempel arbetsmiljölagen och miljölagar.", "Säkerhetsanordningar och säkerhetskontroll av den tekniska utrustningen.", "Kontroll, service och underhåll." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva vanligt förekommande teknisk utrustning samt dess konstruktion, funktion och användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva vanligt förekommande teknisk utrustning samt dess konstruktion, funktion och användningsområden.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> vanligt förekommande teknisk utrustning samt dess konstruktion, funktion och användningsområden.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> vanligt förekommande teknisk utrustning samt dess konstruktion, funktion och användningsområden."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att använda teknisk utrustning på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att använda teknisk utrustning på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "C" : "Eleven använder teknisk utrustning på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "A" : "Eleven använder teknisk utrustning på ett ergonomiskt och säkert sätt samt med hänsyn till miljön."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att utföra säkerhetskontroll, daglig tillsyn och service av teknisk utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att utföra säkerhetskontroll, daglig tillsyn och service av teknisk utrustning.",
+          "C" : "Eleven utför <strong>med viss säkerhet</strong> säkerhetskontroll, daglig tillsyn och service av teknisk utrustning.",
+          "A" : "Eleven utför <strong>med säkerhet</strong> säkerhetskontroll, daglig tillsyn och service av teknisk utrustning."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

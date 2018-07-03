@@ -1,0 +1,131 @@
+{
+  "name" : "Marina elektroniksystem",
+  "description" : "Ämnet marina elektroniksystem behandlar felsökning och reparation i olika typer av marina elektroniksystem och apparater. Elektroniksystem och apparater innehåller normalt flera olika funktioner och komponenter, vilket kräver ett systematiskt arbetssätt för att lokalisera fel och felfunktioner.",
+  "code" : "MAY",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet marina elektroniksystem ska syfta till att eleverna utvecklar förmåga att utföra support och service på ett systematiskt och effektivt sätt i marina elektronikapparater och elektroniksystem.", "Genom undervisningen ska eleverna ges möjlighet att utveckla färdigheter i att installera, programmera och driftsätta marina elektronikapparater och elektroniksystem.", "Undervisningen ska även leda till att eleverna utvecklar förmåga att läsa och tolka kopplingsscheman och servicemanualer på svenska och engelska.", "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om mätteknik samt färdigheter i att använda mätinstrument för olika mätuppgifter." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom laborationer, ett undersökande arbetssätt och praktiska övningar ska eleverna ges möjlighet att utveckla kunskaper i problemlösning som krävs för support och service på elektroniksystem." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet marina elektroniksystem ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om funktion, konstruktion och uppbyggnad hos marina elektronikapparater och system.", "Kunskaper om lagar och andra bestämmelser samt om standarder och begrepp inom området.", "Färdigheter i att planera, organisera, utföra och dokumentera reparationsarbete.", "Färdigheter i att utföra support och service av marina elektronikapparater och elektroniksystem.", "Färdigheter i att installera, programmera och driftsätta marina elektronikapparater och elektroniksystem.", "Förmåga att läsa och tolka kopplingsscheman och servicemanualer på svenska och engelska.", "Färdigheter i att använda mätinstrument för olika mätuppgifter.", "Färdigheter i att instruera användare i hur de handhar apparater och system." ]
+  } ],
+  "courses" : [ {
+    "name" : "Marina elektroniksystem",
+    "description" : "Kursen marina elektroniksystem omfattar punkterna 1–8 under rubriken Ämnets syfte.",
+    "code" : "MAYMAR0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Funktion och uppbyggnad hos mindre radaranläggningar.", "Ekolod för olika ändamål.", "AIS-systemet och tillhörande apparater.", "GPS-system med inlagda sjökort.", "Navigationssystem med displayplotter och liknande.", "Radioutrustningar och mobiltelefoner.", "Elektroniska plattformar för kommunikation mellan motor, reglage, instrument och övrig utrustning, till exempel EVC (Electronic Vessel Control).", "Marina installations- och säkerhetskrav.", "Internationella standarder för kommunikation mellan enheter, till exempel NMEA 2000.", "Lagen om elektronisk kommunikation och tillstånd för VHF-radiosändare.", "Support och service på navigations-, informations- och kommunikationssystem för fartyg.", "Metoder för systematisk felsökning och reparation.", "Elektronikscheman, servicemanualer och bruksanvisningar på svenska och engelska.", "Installation, programmering och driftsättning av marina apparater och elektroniksystem.", "Montering av marina antenner.", "Mätteknik och mätinstrument.", "Metoder för dokumentation av arbetet.", "Instruktion till användare i handhavande av apparater och system." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för funktion, konstruktion och uppbyggnad av marina elektronikapparater och system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för funktion, konstruktion och uppbyggnad av marina elektronikapparater och system.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för funktion, konstruktion och uppbyggnad av marina elektronikapparater och system.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för funktion, konstruktion och uppbyggnad av marina elektronikapparater och system."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för lagar och andra bestämmelser samt standarder och begrepp inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för lagar och andra bestämmelser samt standarder och begrepp inom området.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för lagar och andra bestämmelser samt standarder och begrepp inom området.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för lagar och andra bestämmelser samt standarder och begrepp inom området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar, organiserar och utför systematiskt och <strong>________</strong> med handledare support och service av marina elektronikapparater och system, med ett resultat som på ett <strong>________</strong> sätt uppfyller kvalitetskraven.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar, organiserar och utför systematiskt och <strong>i samråd</strong> med handledare support och service av marina elektronikapparater och system, med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller kvalitetskraven.",
+          "C" : "Eleven planerar, organiserar och utför systematiskt och <strong>efter samråd</strong> med handledare support och service av marina elektronikapparater och system, med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller kvalitetskraven.",
+          "A" : "Eleven planerar, organiserar och utför systematiskt och <strong>efter samråd</strong> med handledare support och service av marina elektronikapparater och system, med ett resultat som på ett <strong>gott</strong> sätt uppfyller kvalitetskraven."
+        }
+      }, {
+        "text" : "Under arbetet väljer eleven <strong>________</strong> mätinstrument, verktyg och arbetsmetoder samt hanterar instrument och verktyg med <strong>________</strong> handlag och på ett sätt som är säkert för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet väljer eleven <strong>med viss säkerhet</strong> mätinstrument, verktyg och arbetsmetoder samt hanterar instrument och verktyg med <strong>visst</strong> handlag och på ett sätt som är säkert för eleven själv och andra.",
+          "C" : "Under arbetet väljer eleven <strong>med viss säkerhet</strong> mätinstrument, verktyg och arbetsmetoder samt hanterar instrument och verktyg med <strong>gott</strong> handlag och på ett sätt som är säkert för eleven själv och andra.",
+          "A" : "Under arbetet väljer eleven <strong>med säkerhet</strong> mätinstrument, verktyg och arbetsmetoder samt hanterar instrument och verktyg med <strong>mycket gott</strong> handlag och på ett sätt som är säkert för eleven själv och andra."
+        }
+      }, {
+        "text" : "Eleven motiverar <strong>________</strong> sina val med hänsyn till hälsa, miljö och säkerhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven motiverar <strong>översiktligt</strong> sina val med hänsyn till hälsa, miljö och säkerhet.",
+          "C" : "Eleven motiverar <strong>utförligt</strong> sina val med hänsyn till hälsa, miljö och säkerhet.",
+          "A" : "Eleven motiverar <strong>utförligt och nyanserat</strong> sina val med hänsyn till hälsa, miljö och säkerhet."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> apparaternas kopplingsscheman och manualer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> apparaternas kopplingsscheman och manualer.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> apparaternas kopplingsscheman och manualer.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> apparaternas kopplingsscheman och manualer."
+        }
+      }, {
+        "text" : "I arbetet samverkar och kommunicerar eleven <strong>________</strong> med andra samt använder ett <strong>________</strong> fackspråk som är anpassat till situationen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet samverkar och kommunicerar eleven <strong>med viss säkerhet</strong> med andra samt använder ett <strong>enkelt</strong> fackspråk som är anpassat till situationen.",
+          "C" : "I arbetet samverkar och kommunicerar eleven <strong>med viss säkerhet</strong> med andra samt använder ett fackspråk som är anpassat till situationen.",
+          "A" : "I arbetet samverkar och kommunicerar eleven <strong>med säkerhet</strong> med andra samt använder ett <strong>nyanserat</strong> fackspråk som är anpassat till situationen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Efter utfört arbete gör eleven en <strong>________</strong> dokumentation av utfört arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Efter utfört arbete gör eleven en <strong>enkel</strong> dokumentation av utfört arbete.",
+          "C" : "Efter utfört arbete gör eleven en <strong>noggrann</strong> dokumentation av utfört arbete.",
+          "A" : "Efter utfört arbete gör eleven en <strong>noggrann och utförlig</strong> dokumentation av utfört arbete."
+        }
+      }, {
+        "text" : "Eleven utvärderar sitt arbete med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar sitt arbete med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven utvärderar sitt arbete med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven utvärderar sitt arbete med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven ger <strong>________</strong> tydliga instruktioner till användare av apparater och system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven ger <strong>med viss säkerhet</strong> tydliga instruktioner till användare av apparater och system.",
+          "C" : "Eleven ger <strong>med viss säkerhet</strong> tydliga instruktioner till användare av apparater och system.",
+          "A" : "Eleven ger <strong>med säkerhet</strong> tydliga instruktioner till användare av apparater och system."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

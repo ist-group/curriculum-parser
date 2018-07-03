@@ -1,0 +1,1161 @@
+{
+  "name" : "Produktionsutrustning",
+  "description" : "Ämnet produktionsutrustning behandlar industriteknisk utrustning, dess användningsområden samt gällande säkerhetsföreskrifter. Det handlar också om hur utrustningen vårdas samt hur dess funktion kontrolleras och effektiviseras.",
+  "code" : "PRU",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet produktionsutrustning ska syfta till att eleverna utvecklar förmåga att använda industriteknisk produktionsutrustning, kringutrustning, verktyg, maskiner och styrteknisk utrustning enligt gällande säkerhetsföreskrifter.", "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om utrustningens användningsområden, konstruktion och funktion samt om tillhörande metoder och tekniker." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att koppla samman och programmera styrteknisk utrustning.", "I undervisningen ska eleverna ges möjlighet att utveckla förståelse av funktionen hos enkel styrteknisk utrustning samt att utveckla kunskaper om symboler, ventilbeteckningar och märkningar." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar kunskaper för att kunna genomföra kontroll, felsökning, effektivisering och vård av utrustningen.", "Undervisningen ska även bidra till att eleverna utvecklar kunskaper om hur kvalitetssystem används samt om betydelsen av kvalitetssäkring i produktionsutrustning.", "Eleverna ska vidare ges möjlighet att utveckla kunskaper om olika material, deras egenskaper och betydelse samt beteckningssystem." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att utföra såväl teoretiska som praktiska övningar för att utveckla förmåga att hantera produktionsutrustning, kringutrustning, verktyg, maskiner och styrteknisk utrustning." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet produktionsutrustning ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förmåga att planera, organisera och utföra arbete i manuell och automatiserad produktionsutrustning och kringutrustning enligt gällande säkerhetsföreskrifter.", "Förmåga att hantera för yrkesområdet relevant data och datorutrustning.", "Förmåga att utföra funktionskontroll, mätningar, beräkningar och felsökning av produktionsutrustning, kringutrustning, verktyg, maskiner och styrteknisk utrustning.", "Förmåga att effektivisera produktionsutrustning och optimera inställningar.", "Förmåga att vårda utrustning, maskiner och verktyg samt kunskaper om utrustningens konstruktion och funktion.", "Kunskaper om utrustningens symboler, beteckningar och märkningar.", "Kunskaper om materialegenskaper och materials beteckningssystem samt materials betydelse för funktion, kvalitet, tillverkning och destruktion.", "Förmåga att mäta, dokumentera och bedöma kvaliteten på utfört arbete samt att använda relevanta begrepp." ]
+  } ],
+  "courses" : [ {
+    "name" : "Industriell mätteknik – fördjupning",
+    "description" : "Kursen industriell mätteknik – fördjupning omfattar punkterna 1–3, 5–6 och 8 under rubriken Ämnets syfte. ",
+    "code" : "PRUINU0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Installation, kalibrering och intrimning av olika typer av mätutrustning samt genomförande av mätningar.", "Lokalisering av felkällor samt tolkning och användning av mätresultat för lämpliga korrigerande åtgärder.", "Anpassning av givare till mätsystem samt skydd av givare mot olika typer av överlast och yttre störningar.", "Funktionskontroll, regelbunden service samt vård av den utrustning som tillämpas inom verksamheten.", "Mätprinciper och karakteristiska egenskaper för vanliga mätartyper, till exempel deplacement-, rotor-, virvelspridnings- och ultraljudsmätare, induktiva mätare samt massflödesmätare.", "Metoder för signalöverföring och anpassning av givare till mät- och styrsystem.", "Konstruktion och funktion hos utrustning för mätning av olika parametrar i gas- och vätskeströmmar samt av fasta ämnen inom industrin." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar arbetsuppgifter <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar arbetsuppgifter <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven planerar och organiserar arbetsuppgifter <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven planerar och organiserar arbetsuppgifter <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "I planeringen tolkar eleven <strong>________</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter.",
+          "C" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter.",
+          "A" : "I planeringen tolkar eleven <strong>med säkerhet</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter. <strong>Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det</strong>."
+        }
+      }, {
+        "text" : "Vidare väljer eleven <strong>________</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare väljer eleven <strong>i samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+          "C" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+          "A" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför med noggrannhet och <strong>________</strong> med handledare arbetsuppgifter med mätutrustning och kringutrustning, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför med noggrannhet och <strong>i samråd</strong> med handledare arbetsuppgifter med mätutrustning och kringutrustning, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "C" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare arbetsuppgifter med mätutrustning och kringutrustning, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "A" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare arbetsuppgifter med mätutrustning och kringutrustning, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong> utifrån givna kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong> utifrån givna kvalitetskrav."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> instruktioner och utrustningsbeskrivningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och utrustningsbeskrivningar.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och utrustningsbeskrivningar.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner och utrustningsbeskrivningar."
+        }
+      }, {
+        "text" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>________</strong> handlag och håller god ordning på arbetsplatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>visst</strong> handlag och håller god ordning på arbetsplatsen.",
+          "C" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>gott</strong> handlag och håller god ordning på arbetsplatsen.",
+          "A" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>mycket gott</strong> handlag och håller god ordning på arbetsplatsen."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön.",
+          "C" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön.",
+          "A" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Dessutom vårdar eleven <strong>________</strong> utrustning, maskiner och verktyg enligt instruktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom vårdar eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg enligt instruktioner.",
+          "C" : "Dessutom vårdar eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg enligt instruktioner.",
+          "A" : "Dessutom vårdar eleven <strong>med säkerhet</strong> utrustning, maskiner och verktyg enligt instruktioner."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften och hur dessa faktorer samt resultatet av mätningar påverkat kvalitet och slutresultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften och hur dessa faktorer samt resultatet av mätningar påverkat kvalitet och slutresultat.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften och hur dessa faktorer samt resultatet av mätningar påverkat kvalitet och slutresultat.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften och hur dessa faktorer samt resultatet av mätningar påverkat kvalitet och slutresultat."
+        }
+      }, {
+        "text" : "Eleven redogör dessutom <strong>________</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör dessutom <strong>översiktligt</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen.",
+          "C" : "Eleven redogör dessutom <strong>utförligt</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen.",
+          "A" : "Eleven redogör dessutom <strong>utförligt och nyanserat</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> korrekt fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> korrekt fackspråk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 50,
+    "year" : null
+  }, {
+    "name" : "Industriell mätteknik – grund",
+    "description" : "Kursen industriell mätteknik – grund omfattar punkterna 1–3, 5–6 och 8 under rubriken Ämnets syfte.",
+    "code" : "PRUIND0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Hantering av för verksamheten relevant mätutrustning samt planering och organisation i samband med användandet.", "Standarder, bestämmelser och utrustningar för säkerhet beträffande människor, mätutrustning och mätobjekt.", "Tolkning och användning av mätresultat inom aktuell verksamhet för lämpliga korrigerande åtgärder.", "Funktion och grundprinciper hos olika utrustningar och komponenter som används vid industriell mätning, till exempel givare, mätmaskiner och multimeter.", "Egenkontroll av mätinstrument, kalibrering, mätnoggrannhet, mätfel, toleranser, spridning och andra relevanta statistiska mått.", "Relevanta egenskaper hos mätobjektet som i kombination med använda mätdon påverkar resultatet.", "Funktionskontroll samt vård av den utrustning som tillämpas inom verksamheten.", "Tekniker, enheter och terminologi vid industriell mätning av för verksamheten relevanta storheter, till exempel längd, tryck, flöde, temperatur, elasticitet, böjning, vinkel samt nivå.", "Enheter och mättekniska begrepp för såväl elektriska som mekaniska storheter inom olika tillämpningar.", "Mätningens betydelse för ekonomi, kvalitet och miljö." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar arbetsuppgifter <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar arbetsuppgifter <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven planerar och organiserar arbetsuppgifter <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven planerar och organiserar arbetsuppgifter <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "I planeringen tolkar eleven <strong>________</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter.",
+          "C" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter.",
+          "A" : "I planeringen tolkar eleven <strong>med säkerhet</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter. <strong>Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det</strong>."
+        }
+      }, {
+        "text" : "Vidare väljer eleven <strong>________</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare väljer eleven <strong>i samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+          "C" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+          "A" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför med noggrannhet och <strong>________</strong> med handledare arbetsuppgifter med mätutrustning och kringutrustning, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför med noggrannhet och <strong>i samråd</strong> med handledare arbetsuppgifter med mätutrustning och kringutrustning, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "C" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare arbetsuppgifter med mätutrustning och kringutrustning, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "A" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare arbetsuppgifter med mätutrustning och kringutrustning, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong> utifrån givna kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong> utifrån givna kvalitetskrav."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> instruktioner och utrustningsbeskrivningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och utrustningsbeskrivningar.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och utrustningsbeskrivningar.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner och utrustningsbeskrivningar."
+        }
+      }, {
+        "text" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>________</strong> handlag och håller god ordning på arbetsplatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>visst</strong> handlag och håller god ordning på arbetsplatsen.",
+          "C" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>gott</strong> handlag och håller god ordning på arbetsplatsen.",
+          "A" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>mycket gott</strong> handlag och håller god ordning på arbetsplatsen."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön.",
+          "C" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön.",
+          "A" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Dessutom vårdar eleven <strong>________</strong> utrustning, maskiner och verktyg enligt instruktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom vårdar eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg enligt instruktioner.",
+          "C" : "Dessutom vårdar eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg enligt instruktioner.",
+          "A" : "Dessutom vårdar eleven <strong>med säkerhet</strong> utrustning, maskiner och verktyg enligt instruktioner."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften och hur dessa faktorer samt resultatet av mätningar påverkat kvalitet och slutresultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften och hur dessa faktorer samt resultatet av mätningar påverkat kvalitet och slutresultat.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften och hur dessa faktorer samt resultatet av mätningar påverkat kvalitet och slutresultat.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften och hur dessa faktorer samt resultatet av mätningar påverkat kvalitet och slutresultat."
+        }
+      }, {
+        "text" : "Eleven redogör dessutom <strong>________</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör dessutom <strong>översiktligt</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen.",
+          "C" : "Eleven redogör dessutom <strong>utförligt</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen.",
+          "A" : "Eleven redogör dessutom <strong>utförligt och nyanserat</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> korrekt fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> korrekt fackspråk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 50,
+    "year" : null
+  }, {
+    "name" : "Interna transporter",
+    "description" : "Kursen interna transporter omfattar punkterna 1, 3, 5–6 och 8 under rubriken Ämnets syfte.",
+    "code" : "PRUINE00S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Manövrering av vald transportutrustning och hantering av gods.", "Transportutrustningens uppbyggnad, arbetssätt, stabilitet och lyftförmåga samt olika benämningar.", "Användningsområden för transportutrustningen och relevant kringutrustning.", "Miljö- och säkerhetsbestämmelser för hantering av olika typer av gods.", "För utrustningen relevanta körregler, symboler och signalscheman.", "Funktionskontroll, tillsyn och dagligt underhåll på transportutrustningen och tillhörande kringutrustning.", "Dimensionering och beräkningar beträffande den belastning som såväl transportutrustningen som godset utsätts för under transport, lagring och hantering enligt till exempel belastningstabeller och gällande föreskrifter.", "Enklare principer för godshantering, till exempel lastbalans, tyngdpunkt och riskmoment.", "Enklare principer för logistik av interna transporter, till exempel transporteffektivitet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar transportuppgifter <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar transportuppgifter <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven planerar och organiserar transportuppgifter <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven planerar och organiserar transportuppgifter <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "I planeringen tolkar eleven <strong>________</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter.",
+          "C" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter.",
+          "A" : "I planeringen tolkar eleven <strong>med säkerhet</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter. <strong>Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det</strong>."
+        }
+      }, {
+        "text" : "Vidare väljer eleven <strong>________</strong> med handledare transportmetoder och kringutrustning med hänsyn till såväl transportutrustning som gods.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare väljer eleven <strong>i samråd</strong> med handledare transportmetoder och kringutrustning med hänsyn till såväl transportutrustning som gods.",
+          "C" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare transportmetoder och kringutrustning med hänsyn till såväl transportutrustning som gods.",
+          "A" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare transportmetoder och kringutrustning med hänsyn till såväl transportutrustning som gods."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför med noggrannhet och <strong>________</strong> med handledare transportuppgifter i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför med noggrannhet och <strong>i samråd</strong> med handledare transportuppgifter i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "C" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare transportuppgifter i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "A" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare transportuppgifter i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong> utifrån givna kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong> utifrån givna kvalitetskrav."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> instruktioner och säkerhetsföreskrifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och säkerhetsföreskrifter.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och säkerhetsföreskrifter.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner och säkerhetsföreskrifter."
+        }
+      }, {
+        "text" : "Dessutom genomför eleven <strong>________</strong> funktionskontroll och belastningsberäkningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom genomför eleven <strong>med viss säkerhet</strong> funktionskontroll och belastningsberäkningar.",
+          "C" : "Dessutom genomför eleven <strong>med viss säkerhet</strong> funktionskontroll och belastningsberäkningar.",
+          "A" : "Dessutom genomför eleven <strong>med säkerhet</strong> funktionskontroll och belastningsberäkningar."
+        }
+      }, {
+        "text" : "Eleven hanterar utrustning och gods med <strong>________</strong> handlag och håller god ordning på arbetsplatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar utrustning och gods med <strong>visst</strong> handlag och håller god ordning på arbetsplatsen.",
+          "C" : "Eleven hanterar utrustning och gods med <strong>gott</strong> handlag och håller god ordning på arbetsplatsen.",
+          "A" : "Eleven hanterar utrustning och gods med <strong>mycket gott</strong> handlag och håller god ordning på arbetsplatsen."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön.",
+          "C" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön.",
+          "A" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för utrustning, transporttekniker och metoder som använts för arbetsuppgiften samt för hur dessa faktorer påverkat godsets kvalitet och funktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för utrustning, transporttekniker och metoder som använts för arbetsuppgiften samt för hur dessa faktorer påverkat godsets kvalitet och funktion.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för utrustning, transporttekniker och metoder som använts för arbetsuppgiften samt för hur dessa faktorer påverkat godsets kvalitet och funktion.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för utrustning, transporttekniker och metoder som använts för arbetsuppgiften samt för hur dessa faktorer påverkat godsets kvalitet och funktion."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> korrekt fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> korrekt fackspråk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 50,
+    "year" : null
+  }, {
+    "name" : "Produktionsutrustning 1",
+    "description" : "Kursen produktionsutrustning 1 omfattar punkterna 1–3, 5–6 och 8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i vald produktionsutrustning.",
+    "code" : "PRUPRD01S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Enklare hantering och vård av vald produktionsutrustning och kringutrustning, till exempel verktyg, maskiner, produktionsmoduler och styrteknisk utrustning, enligt gällande säkerhetsföreskrifter.", "Funktion och konstruktion hos enklare produktionsutrustning och kringutrustning.", "Grundläggande produktionsrelaterade arbetsmoment, till exempel bänkarbeten, enkla arbeten inom skärande bearbetning, sammanfogning av enkel plåtprodukt, användning av mätdon samt läsning och tydning av enkla ritningar. Heta arbeten.", "Dagligt underhåll av produktions- och kringutrustning.", "Relevanta mätningar, till exempel dimensioneringar, koncentrationer och toleranser, i samband med användande av utrustning.", "Vanligt förekommande användningsområden, metoder och tekniker för relevant produktionsutrustning och kringutrustning.", "Vanligt förekommande begrepp, för relevant industriteknisk produktionsutrustning och kringutrustning.", "Grundläggande symboler, beteckningar och märkningar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar arbetsuppgifter i produktionsutrustning och kringutrustning <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar arbetsuppgifter i produktionsutrustning och kringutrustning <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven planerar och organiserar arbetsuppgifter i produktionsutrustning och kringutrustning <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven planerar och organiserar arbetsuppgifter i produktionsutrustning och kringutrustning <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "I planeringen tolkar eleven <strong>________</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter.",
+          "C" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter.",
+          "A" : "I planeringen tolkar eleven <strong>med säkerhet</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter. <strong>Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det</strong>."
+        }
+      }, {
+        "text" : "Vidare väljer eleven <strong>________</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare väljer eleven <strong>i samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+          "C" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+          "A" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför med noggrannhet och <strong>________</strong> med handledare arbetsuppgifter i produktionsutrustning och kringutrustning, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför med noggrannhet och <strong>i samråd</strong> med handledare arbetsuppgifter i produktionsutrustning och kringutrustning, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "C" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare arbetsuppgifter i produktionsutrustning och kringutrustning, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "A" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare arbetsuppgifter i produktionsutrustning och kringutrustning, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong> utifrån givna kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong> utifrån givna kvalitetskrav."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> instruktioner och tillverkningsunderlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner och tillverkningsunderlag."
+        }
+      }, {
+        "text" : "Dessutom genomför eleven <strong>________</strong> relevanta mätningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom genomför eleven <strong>med viss säkerhet</strong> relevanta mätningar.",
+          "C" : "Dessutom genomför eleven <strong>med viss säkerhet</strong> relevanta mätningar.",
+          "A" : "Dessutom genomför eleven <strong>med säkerhet</strong> relevanta mätningar."
+        }
+      }, {
+        "text" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>________</strong> handlag och håller god ordning på arbetsplatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>visst</strong> handlag och håller god ordning på arbetsplatsen.",
+          "C" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>gott</strong> handlag och håller god ordning på arbetsplatsen.",
+          "A" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>mycket gott</strong> handlag och håller god ordning på arbetsplatsen."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön.",
+          "C" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön.",
+          "A" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Dessutom vårdar eleven <strong>________</strong> utrustning, maskiner och verktyg enligt instruktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom vårdar eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg enligt instruktioner.",
+          "C" : "Dessutom vårdar eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg enligt instruktioner.",
+          "A" : "Dessutom vårdar eleven <strong>med säkerhet</strong> utrustning, maskiner och verktyg enligt instruktioner."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften och hur dessa faktorer påverkat kvalitet och slutresultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften och hur dessa faktorer påverkat kvalitet och slutresultat.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften och hur dessa faktorer påverkat kvalitet och slutresultat.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften och hur dessa faktorer påverkat kvalitet och slutresultat."
+        }
+      }, {
+        "text" : "Eleven redogör dessutom <strong>________</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör dessutom <strong>översiktligt</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> korrekt fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> korrekt fackspråk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Produktionsutrustning 2",
+    "description" : "Kursen produktionsutrustning 2 omfattar punkterna 1, 3, och 5–8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i vald produktionsutrustning.",
+    "code" : "PRUPRD02S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Arbete med och vård av vald produktionsutrustning och kringutrustning, till exempel verktyg, maskiner, produktionsmoduler och styrteknisk utrustning, enligt gällande säkerhetsföreskrifter.", "Funktion och konstruktion hos relevant produktionsutrustning och kringutrustning.", "Enklare funktionskontroll och mätningar samt visst underhåll av produktionsutrustning och kringutrustning.", "Enklare dimensionering och tekniska beräkningar.", "Användningsområden för relevant produktionsutrustning och kringutrustning.", "Enklare begrepp, metoder och tekniker för industriteknisk produktionsutrustning och kringutrustning.", "Enklare teknisk beskrivning för produktionsutrustning och kringutrustning.", "Materialegenskaper och materialets betydelse för funktion och kvalitet hos produktionsutrustning och kringutrustning samt produkter.", "Mätning och dokumentation av kvalitet på utfört arbete." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar arbetsuppgifter i produktionsutrustning och kringutrustning <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar arbetsuppgifter i produktionsutrustning och kringutrustning <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven planerar och organiserar arbetsuppgifter i produktionsutrustning och kringutrustning <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven planerar och organiserar arbetsuppgifter i produktionsutrustning och kringutrustning <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "I planeringen tolkar eleven <strong>________</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter.",
+          "C" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter.",
+          "A" : "I planeringen tolkar eleven <strong>med säkerhet</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter. <strong>Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det</strong>."
+        }
+      }, {
+        "text" : "Vidare väljer eleven <strong>________</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare väljer eleven <strong>i samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+          "C" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+          "A" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför med noggrannhet och <strong>________</strong> med handledare arbetsuppgifter i produktionsutrustning och kringutrustning, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför med noggrannhet och <strong>i samråd</strong> med handledare arbetsuppgifter i produktionsutrustning och kringutrustning, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "C" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare arbetsuppgifter i produktionsutrustning och kringutrustning, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "A" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare arbetsuppgifter i produktionsutrustning och kringutrustning, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong> utifrån givna kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong> utifrån givna kvalitetskrav."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> instruktioner och tillverkningsunderlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner och tillverkningsunderlag."
+        }
+      }, {
+        "text" : "Dessutom genomför eleven <strong>________</strong> funktionskontroll, mätningar, enklare dimensionering och beräkningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom genomför eleven <strong>med viss säkerhet</strong> funktionskontroll, mätningar, enklare dimensionering och beräkningar.",
+          "C" : "Dessutom genomför eleven <strong>med viss säkerhet</strong> funktionskontroll, mätningar, enklare dimensionering och beräkningar.",
+          "A" : "Dessutom genomför eleven <strong>med säkerhet</strong> funktionskontroll, mätningar, enklare dimensionering och beräkningar."
+        }
+      }, {
+        "text" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>________</strong> handlag och håller god ordning på arbetsplatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>visst</strong> handlag och håller god ordning på arbetsplatsen.",
+          "C" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>gott</strong> handlag och håller god ordning på arbetsplatsen.",
+          "A" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>mycket gott</strong> handlag och håller god ordning på arbetsplatsen."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön.",
+          "C" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön.",
+          "A" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Dessutom vårdar eleven <strong>________</strong> utrustning, maskiner och verktyg enligt instruktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom vårdar eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg enligt instruktioner.",
+          "C" : "Dessutom vårdar eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg enligt instruktioner.",
+          "A" : "Dessutom vårdar eleven <strong>med säkerhet</strong> utrustning, maskiner och verktyg enligt instruktioner."
+        }
+      }, {
+        "text" : "När arbetsuppgiften är utförd gör eleven en <strong>________</strong> dokumentation av arbetsprocessen och resultatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd gör eleven en <strong>enkel</strong> dokumentation av arbetsprocessen och resultatet.",
+          "C" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann</strong> dokumentation av arbetsprocessen och resultatet.",
+          "A" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann och utförlig</strong> dokumentation av arbetsprocessen och resultatet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för det använda materialet och dess egenskaper samt för teknik, metoder och verktyg som använts för arbetsuppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för det använda materialet och dess egenskaper samt för teknik, metoder och verktyg som använts för arbetsuppgiften.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för det använda materialet och dess egenskaper samt för teknik, metoder och verktyg som använts för arbetsuppgiften.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för det använda materialet och dess egenskaper samt för teknik, metoder och verktyg som använts för arbetsuppgiften."
+        }
+      }, {
+        "text" : "Eleven redogör också för hur dessa faktorer i arbetsprocessen har påverkat kvalitet och slutresultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också för hur dessa faktorer i arbetsprocessen har påverkat kvalitet och slutresultat.",
+          "C" : "Eleven redogör också för hur dessa faktorer i arbetsprocessen har påverkat kvalitet och slutresultat.",
+          "A" : "Eleven redogör också för hur dessa faktorer i arbetsprocessen har påverkat kvalitet och slutresultat."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> korrekt fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> korrekt fackspråk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Produktionsutrustning 3",
+    "description" : "Kursen produktionsutrustning 3 omfattar punkterna 1, 3 och 5–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "PRUPRD03S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Arbete med och vård av vald produktionsutrustning och kringutrustning, till exempel verktyg, maskiner, produktionsmoduler och styrteknisk utrustning, enligt gällande säkerhetsföreskrifter.", "Funktion och konstruktion hos produktionsutrustning och kringutrustning.", "Funktionskontroll och mätningar av produktionsutrustning och kringutrustning.", "Dimensionering och tekniska beräkningar.", "Användningsområden för relevant produktionsutrustning och kringutrustning.", "Begrepp, metoder och tekniker som används för produktionsutrustning och kringutrustning.", "Teknisk beskrivning av produktionsutrustning och kringutrustning.", "Materialegenskaper, materials beteckningssystem och materialets betydelse för funktion och kvalitet hos samt tillverkning av produktionsutrustning, kringutrustning och produkter.", "Mätning, dokumentation och bedömning av kvaliteten på utfört arbete." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar arbetsuppgifter i produktionsutrustning och kringutrustning <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar arbetsuppgifter i produktionsutrustning och kringutrustning <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven planerar och organiserar arbetsuppgifter i produktionsutrustning och kringutrustning <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven planerar och organiserar arbetsuppgifter i produktionsutrustning och kringutrustning <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "I planeringen tolkar eleven <strong>________</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter.",
+          "C" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter.",
+          "A" : "I planeringen tolkar eleven <strong>med säkerhet</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter. <strong>Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det</strong>."
+        }
+      }, {
+        "text" : "Vidare väljer eleven <strong>________</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare väljer eleven <strong>i samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+          "C" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+          "A" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför med noggrannhet och <strong>________</strong> med handledare arbetsuppgifter i produktionsutrustning och kringutrustning, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför med noggrannhet och <strong>i samråd</strong> med handledare arbetsuppgifter i produktionsutrustning och kringutrustning, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "C" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare arbetsuppgifter i produktionsutrustning och kringutrustning, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "A" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare arbetsuppgifter i produktionsutrustning och kringutrustning, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong> utifrån givna kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong> utifrån givna kvalitetskrav."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> instruktioner och tillverkningsunderlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner och tillverkningsunderlag."
+        }
+      }, {
+        "text" : "Dessutom genomför eleven <strong>________</strong> funktionskontroll, mätningar, dimensionering och beräkningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom genomför eleven <strong>med viss säkerhet</strong> funktionskontroll, mätningar, dimensionering och beräkningar.",
+          "C" : "Dessutom genomför eleven <strong>med viss säkerhet</strong> funktionskontroll, mätningar, dimensioneringar och beräkningar.",
+          "A" : "Dessutom genomför eleven <strong>med säkerhet</strong> funktionskontroll, mätningar, dimensioneringar och beräkningar."
+        }
+      }, {
+        "text" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>________</strong> handlag och håller god ordning på arbetsplatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>visst</strong> handlag och håller god ordning på arbetsplatsen.",
+          "C" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>gott</strong> handlag och håller god ordning på arbetsplatsen.",
+          "A" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>mycket gott</strong> handlag och håller god ordning på arbetsplatsen."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön.",
+          "C" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön.",
+          "A" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Dessutom vårdar eleven <strong>________</strong> utrustning, maskiner och verktyg enligt instruktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom vårdar eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg enligt instruktioner.",
+          "C" : "Dessutom vårdar eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg enligt instruktioner.",
+          "A" : "Dessutom vårdar eleven <strong>med säkerhet</strong> utrustning, maskiner och verktyg enligt instruktioner."
+        }
+      }, {
+        "text" : "När arbetsuppgiften är utförd gör eleven en <strong>________</strong> dokumentation av arbetsprocessen och resultatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd gör eleven en <strong>enkel</strong> dokumentation av arbetsprocessen och resultatet.",
+          "C" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann</strong> dokumentation av arbetsprocessen och resultatet.",
+          "A" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann och utförlig</strong> dokumentation av arbetsprocessen och resultatet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för det använda materialet och dess egenskaper och beteckningssystem samt för teknik, metoder och verktyg som använts för arbetsuppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för det använda materialet och dess egenskaper och beteckningssystem samt för teknik, metoder och verktyg som använts för arbetsuppgiften.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för det använda materialet och dess egenskaper och beteckningssystem samt för teknik, metoder och verktyg som använts för arbetsuppgiften.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för det använda materialet och dess egenskaper och beteckningssystem samt för teknik, metoder och verktyg som använts för arbetsuppgiften."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för hur dessa faktorer i arbetsprocessen har påverkat kvalitet och slutresultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för hur dessa faktorer i arbetsprocessen har påverkat kvalitet och slutresultat.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för hur dessa faktorer i arbetsprocessen har påverkat kvalitet och slutresultat.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för hur dessa faktorer i arbetsprocessen har påverkat kvalitet och slutresultat."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> korrekt fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> korrekt fackspråk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Produktionsutrustning 4",
+    "description" : "Kursen produktionsutrustning 4 omfattar punkterna 1 och 3–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade färdigheter och kunskaper.",
+    "code" : "PRUPRD04",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Avancerad hantering, vård och användning av produktionsutrustning och kringutrustning, till exempel verktyg, maskiner, produktionsmoduler och styrteknisk utrustning, enligt gällande säkerhetsföreskrifter.", "Funktion och konstruktion hos avancerad produktionsutrustning och kringutrustning.", "Funktionskontroll, mätning, bedömning av mätfel och felsökning av produktionsutrustning och kringutrustning.", "Dimensionering samt tekniska och ekonomiska beräkningar.", "Effektivisering och optimering av inställningar på produktionsutrustning och kringutrustning.", "Användningsområden för produktionsutrustning och kringutrustning.", "Avancerade begrepp, metoder och tekniker för produktionsutrustning och kringutrustning.", "Avancerad teknisk beskrivning av produktionsutrustning och kringutrustning.", "Materialegenskaper, materials beteckningssystem och materialets betydelse för funktion och kvalitet hos samt tillverkning och destruktion av produktionsutrustning, kringutrustning och produkter.", "Mätning, dokumentation och bedömning av kvaliteten på utfört arbete." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar arbetsuppgifter i produktionsutrustning, och kringutrustning <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar arbetsuppgifter i produktionsutrustning, och kringutrustning <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven planerar och organiserar arbetsuppgifter i produktionsutrustning och kringutrustning <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven planerar och organiserar arbetsuppgifter i produktionsutrustning och kringutrustning <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "I planeringen tolkar eleven <strong>________</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter.",
+          "C" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter.",
+          "A" : "I planeringen tolkar eleven <strong>med säkerhet</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter. <strong>Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det</strong>."
+        }
+      }, {
+        "text" : "Vidare väljer eleven <strong>________</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare väljer eleven <strong>i samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+          "C" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+          "A" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför med noggrannhet och <strong>________</strong> med handledare arbetsuppgifter i produktionsutrustning och kringutrustning, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför med noggrannhet och <strong>i samråd</strong> med handledare arbetsuppgifter i produktionsutrustning och kringutrustning, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "C" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare arbetsuppgifter i produktionsutrustning och kringutrustning, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "A" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare arbetsuppgifter i produktionsutrustning och kringutrustning, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong> utifrån givna kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong> utifrån givna kvalitetskrav."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> instruktioner och tillverkningsunderlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner och tillverkningsunderlag."
+        }
+      }, {
+        "text" : "Dessutom genomför eleven <strong>________</strong> funktionskontroll, mätningar, bedömning av mätfel, felsökning, dimensionering samt tekniska och ekonomiska beräkningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom genomför eleven <strong>med viss säkerhet</strong> funktionskontroll, mätningar, bedömning av mätfel, felsökning, dimensionering samt tekniska och ekonomiska beräkningar.",
+          "C" : "Dessutom genomför eleven <strong>med viss säkerhet</strong> funktionskontroll, mätningar, bedömning av mätfel, felsökning, dimensionering samt tekniska och ekonomiska beräkningar.",
+          "A" : "Dessutom genomför eleven <strong>med säkerhet</strong> funktionskontroll, mätningar, bedömning av mätfel, felsökning, dimensionering samt tekniska och ekonomiska beräkningar."
+        }
+      }, {
+        "text" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>________</strong> handlag och håller god ordning på arbetsplatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>visst</strong> handlag och håller god ordning på arbetsplatsen.",
+          "C" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>gott</strong> handlag och håller god ordning på arbetsplatsen.",
+          "A" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>mycket gott</strong> handlag och håller god ordning på arbetsplatsen."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön.",
+          "C" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön.",
+          "A" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Dessutom vårdar eleven <strong>________</strong> utrustning, maskiner och verktyg enligt instruktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom vårdar eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg enligt instruktioner.",
+          "C" : "Dessutom vårdar eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg enligt instruktioner.",
+          "A" : "Dessutom vårdar eleven <strong>med säkerhet</strong> utrustning, maskiner och verktyg enligt instruktioner."
+        }
+      }, {
+        "text" : "När arbetsuppgiften är utförd gör eleven en <strong>________</strong> dokumentation av arbetsprocessen och resultatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd gör eleven en <strong>enkel</strong> dokumentation av arbetsprocessen och resultatet.",
+          "C" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann</strong> dokumentation av arbetsprocessen och resultatet.",
+          "A" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann och utförlig</strong> dokumentation av arbetsprocessen och resultatet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för det använda materialet och dess egenskaper och beteckningssystem samt för teknik, metoder och verktyg som använts för arbetsuppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för det använda materialet och dess egenskaper och beteckningssystem samt för teknik, metoder och verktyg som använts för arbetsuppgiften.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för det använda materialet och dess egenskaper och beteckningssystem samt för teknik, metoder och verktyg som använts för arbetsuppgiften.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för det använda materialet och dess egenskaper och beteckningssystem samt för teknik, metoder och verktyg som använts för arbetsuppgiften."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för hur dessa faktorer i arbetsprocessen påverkat kvalitet och slutresultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för hur dessa faktorer i arbetsprocessen påverkat kvalitet och slutresultat.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för hur dessa faktorer i arbetsprocessen påverkat kvalitet och slutresultat.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för hur dessa faktorer i arbetsprocessen påverkat kvalitet och slutresultat."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för på vilket sätt materialets egenskaper påverkar destruktionen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för på vilket sätt materialets egenskaper påverkar destruktionen.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för på vilket sätt materialets egenskaper påverkar destruktionen.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för på vilket sätt materialets egenskaper påverkar destruktionen."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> korrekt fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> korrekt fackspråk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Verktygskunskap",
+    "description" : "Kursen verktygskunskap omfattar punkterna 1, 3, 5 och 7–8 under rubriken Ämnets syfte.",
+    "code" : "PRUVEY0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Hantering, vård och användning av verktyg, maskiner och utrustning för tillverkning av verktyg, till exempel för gjutning, pressning, klippning, bockning, uppspänning och montering.", "Funktion och konstruktion hos verktyg, maskiner och utrustning för tillverkning av verktyg, till exempel för gjutning, pressning, klippning, bockning, uppspänning och montering.", "Standardiserade komponenter inom verktygstillverkning.", "Särskilda data för verktygstillverkning.", "Provtillverkning och kvalitetskontroll.", "Värmebehandling av verktygsmaterial.", "Materialegenskaper hos produktionsutrustning som används för att tillverka verktyg.", "Materialegenskaper och materialets betydelse för funktion och kvalitet av verktyg som tillverkas." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar, <strong>________</strong> med handledare, arbetsuppgifter med verktyg, maskiner och utrustning för tillverkning av verktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar, <strong>i samråd</strong> med handledare, arbetsuppgifter med verktyg, maskiner och utrustning för tillverkning av verktyg.",
+          "C" : "Eleven planerar och organiserar, <strong>efter samråd</strong> med handledare, arbetsuppgifter med verktyg, maskiner och utrustning för tillverkning av verktyg.",
+          "A" : "Eleven planerar och organiserar, <strong>efter samråd</strong> med handledare, arbetsuppgifter med verktyg, maskiner och utrustning för tillverkning av verktyg."
+        }
+      }, {
+        "text" : "I planeringen tolkar eleven <strong>________</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter.",
+          "C" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner, kravspecifikationer och säkerhetsföreskrifter.",
+          "A" : "I planeringen tolkar eleven <strong>med säkerhet</strong> instruktioner och tillverkningsunderlag. <strong>Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det</strong>."
+        }
+      }, {
+        "text" : "Vidare väljer eleven <strong>________</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare väljer eleven <strong>i samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+          "C" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+          "A" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför med noggrannhet och <strong>________</strong> med handledare arbetsuppgifter med verktyg, maskiner och utrustning för tillverkning av verktyg, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför med noggrannhet och <strong>i samråd</strong> med handledare arbetsuppgifter med verktyg, maskiner och utrustning för tillverkning av verktyg, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "C" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare arbetsuppgifter med verktyg, maskiner och utrustning för tillverkning av verktyg, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "A" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare arbetsuppgifter med verktyg, maskiner och utrustning för tillverkning av verktyg, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong> utifrån givna kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong> utifrån givna kvalitetskrav."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> instruktioner och tillverkningsunderlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner och tillverkningsunderlag."
+        }
+      }, {
+        "text" : "Dessutom genomför eleven <strong>________</strong> mätningar, beräkningar och kvalitetskontroll.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom genomför eleven <strong>med viss säkerhet</strong> mätningar, beräkningar och kvalitetskontroll.",
+          "C" : "Dessutom genomför eleven <strong>med viss säkerhet</strong> mätningar, beräkningar och kvalitetskontroll.",
+          "A" : "Dessutom genomför eleven <strong>med säkerhet</strong> mätningar, beräkningar och funktionskontroll."
+        }
+      }, {
+        "text" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>________</strong> handlag och håller god ordning på arbetsplatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>visst</strong> handlag och håller god ordning på arbetsplatsen.",
+          "C" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>gott</strong> handlag och håller god ordning på arbetsplatsen.",
+          "A" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>mycket gott</strong> handlag och håller god ordning på arbetsplatsen."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön.",
+          "C" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön.",
+          "A" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt med hänsyn till miljön."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Dessutom vårdar eleven <strong>________</strong> utrustning, maskiner och verktyg enligt instruktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom vårdar eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg enligt instruktioner.",
+          "C" : "Dessutom vårdar eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg enligt instruktioner.",
+          "A" : "Dessutom vårdar eleven <strong>med säkerhet</strong> utrustning, maskiner och verktyg enligt instruktioner."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för det använda materialet och dess egenskaper samt teknik, metoder och verktyg som använts för arbetsuppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för det använda materialet och dess egenskaper samt teknik, metoder och verktyg som använts för arbetsuppgiften.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för det använda materialet och dess egenskaper samt teknik, metoder och verktyg som använts för arbetsuppgiften.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för det använda materialet och dess egenskaper samt teknik, metoder och verktyg som använts för arbetsuppgiften."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för hur dessa faktorer i arbetsprocessen påverkat kvalitet och slutresultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för hur dessa faktorer i arbetsprocessen påverkat kvalitet och slutresultat.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för hur dessa faktorer i arbetsprocessen påverkat kvalitet och slutresultat.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för hur dessa faktorer i arbetsprocessen påverkat kvalitet och slutresultat."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> korrekt fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> korrekt fackspråk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

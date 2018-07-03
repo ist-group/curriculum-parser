@@ -1,0 +1,132 @@
+{
+  "name" : "Systemteknik – spårfordon",
+  "description" : "Ämnet systemteknik – spårfordon behandlar de delsystem spårfordon är uppbyggda av och hur dessa fungerar och samverkar samt underhåll av dessa system.",
+  "code" : "SYT",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet systemteknik – spårfordon ska syfta till att eleverna utvecklar kunskaper om komponenter och den teknik som spårfordonssystem är uppbyggda av och hur dessa system samverkar.", "Eleverna ska också ges möjlighet att utveckla förmåga att välja och använda verktyg och instrument vid förebyggande och avhjälpande underhåll av de ingående systemen.", "Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att arbeta utifrån givna instruktioner och att dokumentera utfört arbete.", "I undervisningen ska eleverna även ges möjlighet att arbeta med komponenter och system som används i spårfordon.", "Undervisningen ska leda till att eleverna utvecklar en förståelse för vikten av kommunikation och en förmåga att arbeta såväl självständigt som tillsammans med andra." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom undervisningen ska eleverna ges möjlighet utveckla ett undersökande, problemlösande och laborativt arbetssätt." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet systemteknik – spårfordon ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om komponenter, konstruktion och funktion hos de system som spårfordon är uppbyggda av.", "Förmåga att välja och använda arbetsmetoder, verktyg och stödsystem.", "Förmåga att utifrån instruktioner och scheman planera och genomföra förebyggande och enklare avhjälpande underhåll av de olika delsystemen.", "Förmåga att genomföra funktions- och säkerhetskontroller.", "Förmåga att dokumentera utfört arbete enligt gällande regelverk och branschstandarder.", "Förmåga att samarbeta och kommunicera med andra samt att använda fackspråk på såväl svenska som engelska.", "Förmåga att arbeta på ett ergonomiskt, säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten." ]
+  } ],
+  "courses" : [ {
+    "name" : "Systemteknik – spårfordon",
+    "description" : "Kursen systemteknik – spårfordon omfattar punkterna 1–7 under rubriken Ämnets syfte.",
+    "code" : "SYTSYS0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Korg, koppel och boggi.", "Tryckluftssystem.", "Pantograf (strömavtagare).", "Mekaniska bromssystem.", "Högspänningssystem.", "Hytt och lokförarmiljö.", "Externa och interna passagerardörrar.", "HVAC och luftkonditioneringssystem.", "Toaletter och komfortsystem.", "Traktion och dynamisk broms.", "Spårfordonsdatorn.", "Ritningsläsning.", "Elektrisk installation.", "Arbetsmetoder, verktyg och utrustning.", "Dokumentation och arbetsbeskrivningar.", "Fackspråk på svenska och engelska för att förstå och följa instruktioner.", "Faktorer som påverkar arbetsresultat och arbetsmiljö, till exempel regelverk, struktur, ordning, trivsel, yrkesroll och den mänskliga faktorn." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för komponenter, konstruktion och funktion hos de system som spårfordon är uppbyggda av.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för komponenter, konstruktion och funktion hos de system som spårfordon är uppbyggda av.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för komponenter, konstruktion och funktion hos de system som spårfordon är uppbyggda av.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för komponenter, konstruktion och funktion hos de system som spårfordon är uppbyggda av."
+        }
+      }, {
+        "text" : "Inför arbetsuppgifter i bekanta situationer väljer eleven <strong>________</strong> verktyg, arbetsmetod och stödsystem och redogör <strong>________</strong> för hur dessa påverkar kvalitet och slutresultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Inför arbetsuppgifter i bekanta situationer väljer eleven <strong>med viss säkerhet</strong> verktyg, arbetsmetod och stödsystem och redogör <strong>översiktligt</strong> för hur dessa påverkar kvalitet och slutresultat.",
+          "C" : "Inför arbetsuppgifter i bekanta <strong>och delvis <strong>nya</strong></strong> situationer väljer eleven <strong>med säkerhet</strong> verktyg, arbetsmetod och stödsystem och redogör <strong>med säkerhet</strong> för hur dessa påverkar kvalitet och slutresultat.",
+          "A" : "Inför arbetsuppgifter i bekanta <strong>men även nya</strong> situationer väljer eleven <strong>med säkerhet</strong> verktyg, arbetsmetod och stödsystem och redogör <strong>utförligt och nyanserat</strong> för hur dessa påverkar kvalitet och slutresultat."
+        }
+      }, {
+        "text" : "<strong>________</strong> med handledare planerar och genomför eleven utifrån instruktioner och scheman förebyggande och enklare avhjälpande underhåll samt ombyggnad av de olika delsystemen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "<strong>I samråd</strong> med handledare planerar och genomför eleven utifrån instruktioner och scheman förebyggande och enklare avhjälpande underhåll samt ombyggnad av de olika delsystemen.",
+          "C" : "<strong>Efter samråd</strong> med handledare planerar och genomför eleven utifrån instruktioner och scheman förebyggande och enklare avhjälpande underhåll samt ombyggnad av de olika delsystemen.",
+          "A" : "<strong>Efter samråd</strong> med handledare planerar och genomför eleven utifrån instruktioner och scheman förebyggande och enklare avhjälpande underhåll samt ombyggnad av de olika delsystemen."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong> utifrån givna kvalitets- och funktionskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitets- och funktionskrav.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitets- och funktionskrav.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong> utifrån givna kvalitets- och funktionskrav."
+        }
+      }, {
+        "text" : "Eleven genomför <strong>________</strong> med handledare tillfredsställande funktions- och säkerhetskontroller.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven genomför <strong>i samråd</strong> med handledare tillfredsställande funktions- och säkerhetskontroller.",
+          "C" : "Eleven genomför <strong>efter samråd</strong> med handledare tillfredsställande funktions- och säkerhetskontroller.",
+          "A" : "Eleven genomför <strong>efter samråd</strong> med handledare tillfredsställande funktions- och säkerhetskontroller."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar ergonomiskt och hanterar verktyg och stödsystem med <strong>________</strong> handlag samt vårdar dessa <strong>________</strong> enligt givna instruktioner samt håller <strong>________</strong> ordning på arbetsplatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och hanterar verktyg och stödsystem med <strong>visst</strong> handlag samt vårdar dessa <strong>med viss säkerhet</strong> enligt givna instruktioner samt håller <strong>tillfredsställande</strong> ordning på arbetsplatsen.",
+          "C" : "Eleven arbetar ergonomiskt och hanterar verktyg och stödsystem med <strong>gott</strong> handlag samt vårdar dessa <strong>med viss säkerhet</strong> enligt givna instruktioner samt håller <strong>tillfredsställande</strong> ordning på arbetsplatsen.",
+          "A" : "Eleven arbetar ergonomiskt och hanterar verktyg och stödsystem med <strong>mycket gott</strong> handlag samt vårdar dessa <strong>med säkerhet</strong> enligt givna instruktioner samt håller <strong>god</strong> ordning på arbetsplatsen."
+        }
+      }, {
+        "text" : "Eleven dokumenterar <strong>________</strong> arbetet enligt branschstandarder och gällande regelverk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven dokumenterar <strong>med viss säkerhet</strong> arbetet enligt branschstandarder och gällande regelverk.",
+          "C" : "Eleven dokumenterar <strong>med viss säkerhet</strong> arbetet enligt branschstandarder och gällande regelverk.",
+          "A" : "Eleven dokumenterar <strong>med säkerhet</strong> arbetet enligt branschstandarder och gällande regelverk."
+        }
+      }, {
+        "text" : "Eleven redogör dessutom <strong>________</strong> för eventuella svårigheter under arbetet samt utvärderar med <strong>________</strong> omdömen den egna arbetsinsatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör dessutom <strong>översiktligt</strong> för eventuella svårigheter under arbetet samt utvärderar med <strong>enkla</strong> omdömen den egna arbetsinsatsen.",
+          "C" : "Eleven redogör dessutom <strong>utförligt</strong> för eventuella svårigheter under arbetet samt utvärderar med <strong>välgrundade</strong> omdömen den egna arbetsinsatsen.",
+          "A" : "Eleven redogör dessutom <strong>utförligt och nyanserat</strong> för eventuella svårigheter under arbetet samt utvärderar med <strong>välgrundade och nyanserade</strong> omdömen den egna arbetsinsatsen."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för faktorer i arbetsmiljön och i samarbetet som påverkar resultat och arbetsklimat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för faktorer i arbetsmiljön och i samarbetet som påverkar resultat och arbetsklimat.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för faktorer i arbetsmiljön och i samarbetet som påverkar resultat och arbetsklimat.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för faktorer i arbetsmiljön och i samarbetet som påverkar resultat och arbetsklimat."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar <strong>________</strong> med andra och använder <strong>________</strong> facktermer på svenska och engelska.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar <strong>med viss säkerhet</strong> med andra och använder <strong>med viss säkerhet</strong> facktermer på svenska och engelska.",
+          "C" : "Eleven samarbetar <strong>med viss säkerhet</strong> med andra och använder <strong>med viss säkerhet</strong> facktermer på svenska och engelska.",
+          "A" : "Eleven samarbetar <strong>med säkerhet</strong> med andra och använder <strong>med säkerhet</strong> facktermer på svenska och engelska."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare arbetsuppgifter på ett <strong>________</strong> sätt enligt säkerhets- och miljöbestämmelser och andra lagar och regler som gäller för verksamheten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare arbetsuppgifter på ett <strong>tillfredsställande</strong> sätt enligt säkerhets- och miljöbestämmelser och andra lagar och regler som gäller för verksamheten.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare arbetsuppgifter på ett <strong>tillfredsställande</strong> sätt enligt säkerhets- och miljöbestämmelser och andra lagar och regler som gäller för verksamheten.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare arbetsuppgifter på ett <strong>gott</strong> sätt enligt säkerhets- och miljöbestämmelser och andra lagar och regler som gäller för verksamheten."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 150,
+    "year" : null
+  } ]
+}

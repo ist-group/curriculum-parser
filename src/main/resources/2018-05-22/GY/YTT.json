@@ -1,0 +1,231 @@
+{
+  "name" : "Yttre miljö",
+  "description" : "Ämnet yttre miljö behandlar planering, anläggning och bevarande av utomhusanläggningar och gröna ytor samt den teknik och utrustning som används för detta. Det behandlar också betydelsen av trivsamma och funktionella utemiljöer i fastighetsområden.",
+  "code" : "YTT",
+  "designation" : "",
+  "skolfsId" : "2010:84",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet yttre miljö ska syfta till att eleverna utvecklar förmåga att sköta och anlägga hårda ytor, gröna ytor och annan fast markutrustning inom fastighetsområdet.", "Den ska också leda till att eleverna utvecklar förmåga att välja och använda maskiner, verktyg och redskap samt att reparera, serva och underhålla dessa.", "Dessutom ska eleverna ges möjlighet att utveckla förmåga att tolka och använda ritningar, bedöma säkerhet och kvalitet samt samarbeta med andra." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om bygglagstiftning, miljö- och kvalitetskrav samt om hur arbetet kan organiseras med hänsyn till arbetsmiljö, säkerhet och ergonomi för såväl professionella som brukare.", "Eleverna ska också ges möjlighet att utveckla kunskaper om naturolyckor, till exempel översvämningar, ras och skred samt hur dessa kan påverka säkerheten." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom praktiskt arbete med såväl traditionell som modern hantverksteknik ska eleverna ges möjlighet att utveckla färdigheter i trädgårdsanläggning och anläggningsarbete inom fastighetsområdet." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet yttre miljö ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om olika typer av anläggningar inom fastighetsområden samt om maskiner, verktyg och redskap.", "Kunskaper om utomhusmiljöns betydelse för människors hälsa och livskvalitet samt om hur utomhusmiljöer kan utformas för olika brukare.", "Förmåga att planera och dimensionera gröna miljöer, andra anläggningar och fast markutrustning.", "Förmåga att tolka och använda ritningar.", "Förmåga att utföra skötsel och anläggning av gröna ytor och fast markutrustning.", "Förmåga att välja och använda lämplig arbetsteknik samt lämpliga maskiner, verktyg och redskap.", "Förmåga att utföra underhåll, service och reparation av maskiner, verktyg och redskap.", "Kunskaper om lagar, andra bestämmelser och säkerhetsföreskrifter inom området samt förmåga att förebygga risker och olycksfall.", "Förmåga att utvärdera sitt arbete och resultat." ]
+  } ],
+  "courses" : [ {
+    "name" : "Yttre miljö – anläggningar",
+    "description" : "Kursen yttre miljö – anläggningar omfattar punkterna 1–6 och 8–9 under rubriken Ämnets syfte.",
+    "code" : "YTTYTT0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika typer av anläggningar inom fastighetsområden, till exempel gång- och cykelvägar, lek- och uteplatser och parkeringsytor.", "Hållbar utveckling samt utomhusmiljöns betydelse för människors hälsa och livskvalitet. Utformning av utomhusmiljöer för olika brukare.", "Planering och dimensionering av gröna miljöer och andra anläggningar inom fastighetsområden utifrån krav på estetik och funktion.", "Ritnings- och anläggningshandlingar, till exempel för vatten, avlopp och el i mark.", "Arbetstekniker vid arbeten med anläggning av gröna ytor, till exempel parkområden och träd- och buskplanteringar.", "Lagar, andra bestämmelser och säkerhetsföreskrifter inom området. Olycksförebyggande arbete avseende arbets- och anläggningsområden, lekplatser, vägar och gångvägar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> olika typer av anläggningar inom fastighetsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> olika typer av anläggningar inom fastighetsområden.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> olika typer av anläggningar inom fastighetsområden.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> olika typer av anläggningar inom fastighetsområden."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för utomhusmiljöns betydelse för människors hälsa och livskvalitet samt hur utomhusmiljöer kan utformas för olika brukare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för utomhusmiljöns betydelse för människors hälsa och livskvalitet samt hur utomhusmiljöer kan utformas för olika brukare.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för utomhusmiljöns betydelse för människors hälsa och livskvalitet samt hur utomhusmiljöer kan utformas för olika brukare.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för utomhusmiljöns betydelse för människors hälsa och livskvalitet samt hur utomhusmiljöer kan utformas för olika brukare."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och dimensionerar <strong>________</strong> med handledare gröna miljöer och andra anläggningar för olika brukare utifrån krav på estetik och funktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och dimensionerar <strong>i samråd</strong> med handledare gröna miljöer och andra anläggningar för olika brukare utifrån krav på estetik och funktion.",
+          "C" : "Eleven planerar och dimensionerar <strong>efter samråd</strong> med handledare gröna miljöer och andra anläggningar för olika brukare utifrån krav på estetik och funktion.",
+          "A" : "Eleven planerar och dimensionerar <strong>efter samråd</strong> med handledare gröna miljöer och andra anläggningar för olika brukare utifrån krav på estetik och funktion."
+        }
+      }, {
+        "text" : "I planeringen tolkar och använder eleven <strong>________</strong> ritningar över gröna ytor, anläggningar och fast markutrustning inom fastighetsområdet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar över gröna ytor, anläggningar och fast markutrustning inom fastighetsområdet.",
+          "C" : "I planeringen tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar över gröna ytor, anläggningar och fast markutrustning inom fastighetsområdet.",
+          "A" : "I planeringen tolkar och använder eleven <strong>med säkerhet</strong> ritningar över gröna ytor, anläggningar och fast markutrustning inom fastighetsområdet."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare skötsel och enklare anläggning av gröna ytor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare skötsel och enklare anläggning av gröna ytor.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare skötsel och enklare anläggning av gröna ytor.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare skötsel och enklare anläggning av gröna ytor."
+        }
+      }, {
+        "text" : "I arbetet väljer och använder eleven <strong>________</strong> lämplig arbetsteknik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet väljer och använder eleven <strong>med viss säkerhet</strong> lämplig arbetsteknik.",
+          "C" : "I arbetet väljer och använder eleven <strong>med viss säkerhet</strong> lämplig arbetsteknik.",
+          "A" : "I arbetet väljer och använder eleven <strong>med säkerhet</strong> lämplig arbetsteknik."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> maskiner, verktyg och redskap.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>med viss säkerhet</strong> maskiner, verktyg och redskap.",
+          "C" : "Dessutom använder eleven <strong>med viss säkerhet</strong> maskiner, verktyg och redskap.",
+          "A" : "Dessutom använder eleven <strong>med säkerhet</strong> maskiner, verktyg och redskap."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar utifrån lagar och andra bestämmelser samt utifrån säkerhetsföreskrifter för egen och andras säkerhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar utifrån lagar och andra bestämmelser samt utifrån säkerhetsföreskrifter för egen och andras säkerhet.",
+          "C" : "Eleven arbetar utifrån lagar och andra bestämmelser samt utifrån säkerhetsföreskrifter för egen och andras säkerhet.",
+          "A" : "Eleven arbetar utifrån lagar och andra bestämmelser samt utifrån säkerhetsföreskrifter för egen och andras säkerhet."
+        }
+      }, {
+        "text" : "Dessutom använder eleven skyddsutrustning och arbetar ergonomiskt samt förebygger <strong>________</strong> med handledare risker och olycksfall i arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven skyddsutrustning och arbetar ergonomiskt samt förebygger <strong>i samråd</strong> med handledare risker och olycksfall i arbetet.",
+          "C" : "Dessutom använder eleven skyddsutrustning och arbetar ergonomiskt samt förebygger <strong>efter samråd</strong> med handledare risker och olycksfall i arbetet.",
+          "A" : "Dessutom använder eleven skyddsutrustning och arbetar ergonomiskt samt förebygger <strong>efter samråd</strong> med handledare risker och olycksfall i arbetet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört utvärderar eleven med <strong>________</strong> omdömen sitt arbete och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört utvärderar eleven med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+          "C" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
+          "A" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Yttre miljö – maskiner och verktyg",
+    "description" : "Kursen yttre miljö – maskiner och verktyg omfattar punkterna 1 och 3–9 under rubriken Ämnets syfte.",
+    "code" : "YTTYTR0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika maskiner, verktyg och redskap samt deras konstruktion och funktion.", "Planering och dimensionering av fast markutrustning inom fastighetsområden utifrån krav på estetik och funktion.", "Ritnings- och anläggningshandlingar.", "Montering av lekutrustning och annan fast markutrustning.", "Arbetstekniker vid arbeten med redskap och maskiner i yttre fastighetsmiljöer.", "Hur val av material, anläggningsteknik, maskiner, verktyg, redskap och eventuell dränering är beroende av mark-, jord- och vattenförutsättningar.", "Instruktions- och handböcker för maskiner, verktyg och redskap. Hur böckerna tolkas och används.", "Daglig tillsyn, periodiskt underhåll, service och reparation av maskiner, verktyg och redskap.", "Lagar, andra bestämmelser och säkerhetsföreskrifter inom området. Olycksförebyggande arbete avseende arbets- och anläggningsområden, lekplatser, vägar och gångvägar samt maskiner, verktyg och redskap.", "Säkerhets- och ergonomifrågor vid arbete med maskiner, verktyg och redskap." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> olika maskiner, verktyg och redskap samt deras konstruktion och funktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> olika maskiner, verktyg och redskap samt deras konstruktion och funktion.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> olika maskiner, verktyg och redskap samt deras konstruktion och funktion.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> olika maskiner, verktyg och redskap samt deras konstruktion och funktion."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och dimensionerar <strong>________</strong> med handledare fast markutrustning utifrån krav på estetik och funktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och dimensionerar <strong>i samråd</strong> med handledare fast markutrustning utifrån krav på estetik och funktion.",
+          "C" : "Eleven planerar och dimensionerar <strong>efter samråd</strong> med handledare fast markutrustning utifrån krav på estetik och funktion.",
+          "A" : "Eleven planerar och dimensionerar <strong>efter samråd</strong> med handledare fast markutrustning utifrån krav på estetik och funktion."
+        }
+      }, {
+        "text" : "I planeringen tolkar och använder eleven <strong>________</strong> ritningar över gröna ytor, anläggningar och fast markutrustning inom fastighetsområdet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar över gröna ytor, anläggningar och fast markutrustning inom fastighetsområdet.",
+          "C" : "I planeringen tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar över gröna ytor, anläggningar och fast markutrustning inom fastighetsområdet.",
+          "A" : "I planeringen tolkar och använder eleven <strong>med säkerhet</strong> ritningar över gröna ytor, anläggningar och fast markutrustning inom fastighetsområdet."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare skötsel och enklare anläggning av gröna ytor och fast markutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare skötsel och enklare anläggning av gröna ytor och fast markutrustning.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare skötsel och enklare anläggning av gröna ytor och fast markutrustning.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare skötsel och enklare anläggning av gröna ytor och fast markutrustning."
+        }
+      }, {
+        "text" : "I arbetet väljer och använder eleven <strong>________</strong> lämplig arbetsteknik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet väljer och använder eleven <strong>med viss säkerhet</strong> lämplig arbetsteknik.",
+          "C" : "I arbetet väljer och använder eleven <strong>med viss säkerhet</strong> lämplig arbetsteknik.",
+          "A" : "I arbetet väljer och använder eleven <strong>med säkerhet</strong> lämplig arbetsteknik."
+        }
+      }, {
+        "text" : "Eleven väljer och använder också <strong>________</strong> maskiner, verktyg och redskap.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven väljer och använder också <strong>med viss säkerhet</strong> maskiner, verktyg och redskap.",
+          "C" : "Eleven väljer och använder också <strong>med viss säkerhet</strong> maskiner, verktyg och redskap.",
+          "A" : "Eleven väljer och använder också <strong>med säkerhet</strong> maskiner, verktyg och redskap."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare underhåll, service och reparation av maskinerna, verktygen och redskapen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare underhåll, service och reparation av maskinerna, verktygen och redskapen.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare underhåll, service och reparation av maskinerna, verktygen och redskapen.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare underhåll, service och reparation av maskinerna, verktygen och redskapen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar utifrån lagar och andra bestämmelser samt utifrån säkerhetsföreskrifter för egen och andras säkerhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar utifrån lagar och andra bestämmelser samt utifrån säkerhetsföreskrifter för egen och andras säkerhet.",
+          "C" : "Eleven arbetar utifrån lagar och andra bestämmelser samt utifrån säkerhetsföreskrifter för egen och andras säkerhet.",
+          "A" : "Eleven arbetar utifrån lagar och andra bestämmelser samt utifrån säkerhetsföreskrifter för egen och andras säkerhet."
+        }
+      }, {
+        "text" : "Dessutom använder eleven skyddsutrustning och arbetar ergonomiskt samt förebygger <strong>________</strong> med handledare risker och olycksfall i arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven skyddsutrustning och arbetar ergonomiskt samt förebygger <strong>i samråd</strong> med handledare risker och olycksfall i arbetet.",
+          "C" : "Dessutom använder eleven skyddsutrustning och arbetar ergonomiskt samt förebygger <strong>efter samråd</strong> med handledare risker och olycksfall i arbetet.",
+          "A" : "Dessutom använder eleven skyddsutrustning och arbetar ergonomiskt samt förebygger <strong>efter samråd</strong> med handledare risker och olycksfall i arbetet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört utvärderar eleven med <strong>________</strong> omdömen sitt arbete och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört utvärderar eleven med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+          "C" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
+          "A" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

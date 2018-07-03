@@ -1,0 +1,191 @@
+{
+  "name" : "Automatiserade system",
+  "description" : "Ämnet automatiserade system behandlar byggnation och underhåll av automatiserade system, det vill säga processer med funktioner som verkar av sig själv. Dessa funktioner kan styras av i förväg beskrivna program men också av händelser som sker i eller i anslutning till aktuella funktioner. Automatiserade system används till exempel i tillverkningsindustrin, processindustrin, fastighetsbranschen och inom samhällets infrastrukturer.",
+  "code" : "AUO",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet automatiserade system ska syfta till att eleverna utvecklar kunskaper i att planera och utföra arbete på automatiserade system med hjälp av systemdokumentation, till exempel ritningar och manualer.", "Undervisningen ska även leda till att eleverna utvecklar förståelse av hur informationsteknik kan användas vid arbete med automatiserade system.", "Dessutom ska eleverna ges möjlighet att utveckla förmåga att hantera verktyg och utrustning inom valt område." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar förståelse av säkerhet, standarder och begrepp samt färdigheter i att tillämpa dessa.", "Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att förebygga och avhjälpa fel i automatiserade system.", "Dessutom ska undervisningen ge eleverna möjlighet att utveckla teoretisk förståelse av begrepp, teorier och metoder." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom både praktiskt och teoretiskt arbete med uppgifter ska eleverna ges möjlighet att öva sig i att arbeta enligt yrkespraxis." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet automatiserade system ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om uppbyggnad av, funktion och principer för samt de risker som finns vid arbete med automatiserade system.", "Kunskaper om standarder och begrepp som används vid arbete med automatiserade system.", "Förmåga att planera och på ett säkert sätt utföra arbete i automatiserade system.", "Förmåga att läsa och framställa scheman, ritningar och annan dokumentation över automatiserade system.", "Förmåga att installera, programmera och driftsätta automatiserade system.", "Färdigheter i att använda informationsteknik som stöd vid byggnation, drift och underhåll av automatiserade system.", "Förmåga att förebygga och avhjälpa fel i automatiserade system." ]
+  } ],
+  "courses" : [ {
+    "name" : "Allmän automationsteknik",
+    "description" : "Kursen allmän automationsteknik omfattar punkterna 1–7 under rubriken Ämnets syfte.",
+    "code" : "AUOALL0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Uppbyggnad av, funktion och principer för olika typer av automatiserade system.", "Olika typer av risker i automatiska system inom valt område.", "Standarder och koncept som används vid arbete med automatiserade system inom valt område.", "Planering och genomförande av arbete i automatiserade system.", "Arbetsmiljö och säkerhet vid arbete med automatiserade system.", "Olika typer av scheman, ritningar och annan dokumentation över automatiserade system inom valt område. Tolkning av och metoder för framställning av dessa.", "Metoder för installation, programmering och driftsättning av automatiserade system inom valt område.", "Informationsteknik som arbetsmetod vid byggnation, drift och underhåll av automatiserade system inom valt område.", "Förebyggande och avhjälpande underhåll i automatiserade system inom valt område." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom valt område.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom valt område.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom valt område.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom valt område."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för begrepp och standarder som styr arbetet med automatiserade system inom valt område.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för begrepp och standarder som styr arbetet med automatiserade system inom valt område.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för begrepp och standarder som styr arbetet med automatiserade system inom valt område.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för begrepp och standarder som styr arbetet med automatiserade system inom valt område."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>________</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>gott</strong> sätt uppfyller fastställda kvalitets- och miljökrav."
+        }
+      }, {
+        "text" : "Eleven arbetar på ett sätt som är säkert för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar på ett sätt som är säkert för eleven själv och andra.",
+          "C" : "Eleven arbetar på ett sätt som är säkert för eleven själv och andra.",
+          "A" : "Eleven arbetar på ett sätt som är säkert för eleven själv och andra."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> manualer, scheman och ritningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> manualer, scheman och ritningar.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> manualer, scheman och ritningar.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> manualer, scheman och ritningar."
+        }
+      }, {
+        "text" : "Vidare driftsätter och kontrollerar eleven <strong>________</strong> med handledare anläggningen, upptäcker och åtgärdar <strong>________</strong> med handledare de fel som uppstår samt genomför en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare driftsätter och kontrollerar eleven <strong>i samråd</strong> med handledare anläggningen, upptäcker och åtgärdar <strong>i samråd</strong> med handledare de fel som uppstår samt genomför en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "Vidare driftsätter och kontrollerar eleven <strong>efter samråd</strong> med handledare anläggningen, upptäcker och åtgärdar <strong>efter samråd</strong> med handledare de fel som uppstår samt genomför en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "Vidare driftsätter och kontrollerar eleven <strong>efter samråd</strong> med handledare anläggningen, upptäcker och åtgärdar <strong>efter samråd</strong> med handledare de fel som uppstår samt genomför en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      }, {
+        "text" : "Eleven strukturerar uppgiften <strong>________</strong> och programmerar eller konfigurerar med <strong>________</strong> handlag styrsystemet för anläggningens funktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven strukturerar uppgiften <strong>med viss säkerhet</strong> och programmerar eller konfigurerar med <strong>visst</strong> handlag styrsystemet för anläggningens funktioner.",
+          "C" : "Eleven strukturerar uppgiften <strong>med viss säkerhet</strong> och programmerar eller konfigurerar med <strong>gott</strong> handlag styrsystemet för anläggningens funktioner.",
+          "A" : "Eleven strukturerar uppgiften <strong>med säkerhet</strong> och programmerar eller konfigurerar med <strong>mycket gott</strong> handlag styrsystemet för anläggningens funktioner."
+        }
+      }, {
+        "text" : "Vidare förebygger eleven <strong>________</strong> med handledare fel och optimerar med <strong>________</strong> handlag anläggningen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare förebygger eleven <strong>i samråd</strong> med handledare fel och optimerar med <strong>visst</strong> handlag anläggningen.",
+          "C" : "Vidare förebygger eleven <strong>efter samråd</strong> med handledare fel och optimerar med <strong>gott</strong> handlag anläggningen.",
+          "A" : "Vidare förebygger eleven <strong>efter samråd</strong> med handledare fel och optimerar med <strong>mycket gott</strong> handlag anläggningen."
+        }
+      }, {
+        "text" : "I arbetet beskriver eleven <strong>________</strong> hur de olika delarna fungerar och samverkar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet beskriver eleven <strong>översiktligt</strong> hur de olika delarna fungerar och samverkar.",
+          "C" : "I arbetet beskriver eleven <strong>utförligt</strong> hur de olika delarna fungerar och samverkar <strong>samt ger enkla förslag på förbättringar av anläggningen</strong>.",
+          "A" : "I arbetet beskriver eleven <strong>utförligt och nyanserat</strong> hur de olika delarna fungerar och samverkar <strong>samt ger välgrundade förslag på förbättringar av anläggningen</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Avhjälpande och förebyggande underhåll",
+    "description" : "Kursen avhjälpande och förebyggande underhåll omfattar punkterna 1, 3–4 och 6–7 under rubriken Ämnets syfte, med särskild betoning på punkt 7.",
+    "code" : "AUOAVH0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Uppbyggnad av samt funktion och principer för olika typer av automatiserade system.", "Olika typer av risker i automatiserade system.", "Metoder för underhållsplanering i automatiserade anläggningar.", "Beräkning av utrustningseffektivitet, operationseffektivitet och total tillgänglighet.", "Operatörsunderhåll, till exempel rengöring och inspektion av utrustning.", "Metoder för kontinuerlig uppföljning av driftstörningar och anpassade åtgärder för att utveckla ett företags produktionsprocess och höja den totala utrustningseffektiviteten.", "Mätning och analys av tillståndet i en produktionsprocess, till exempel med KJ-analys eller manuellt förd underhållslogg.", "Olika typer av planerade förluster, till exempel planerade produktionsstopp.", "Olika typer av oplanerade förluster, till exempel väntan vid haveri, rörelseförluster eller balanseringsförluster.", "Visualiseringsmetoder för tillstånd i en produktionsprocess, till exempel med sambandsdiagram eller styrdiagram.", "Metoder för metodisk felsökning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>________</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>gott</strong> sätt uppfyller fastställda kvalitets- och miljökrav."
+        }
+      }, {
+        "text" : "Eleven arbetar på ett sätt som är säkert för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar på ett sätt som är säkert för eleven själv och andra.",
+          "C" : "Eleven arbetar på ett sätt som är säkert för eleven själv och andra.",
+          "A" : "Eleven arbetar på ett sätt som är säkert för eleven själv och andra."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> manualer, scheman och ritningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> manualer, scheman och ritningar.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> manualer, scheman och ritningar.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> manualer, scheman och ritningar."
+        }
+      }, {
+        "text" : "Vidare åtgärdar eleven <strong>________</strong> med handledare de fel som uppstår samt genomför en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare åtgärdar eleven <strong>i samråd</strong> med handledare de fel som uppstår samt genomför en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "Vidare åtgärdar eleven <strong>efter samråd</strong> med handledare de fel som uppstår samt genomför en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "Vidare åtgärdar eleven <strong>efter samråd</strong> med handledare de fel som uppstår samt genomför en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      }, {
+        "text" : "Dessutom förebygger eleven <strong>________</strong> med handledare fel och optimerar med <strong>________</strong> handlag anläggningen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom förebygger eleven <strong>i samråd</strong> med handledare fel och optimerar med <strong>visst</strong> handlag anläggningen.",
+          "C" : "Dessutom förebygger eleven <strong>efter samråd</strong> med handledare fel och optimerar med <strong>gott</strong> handlag anläggningen.",
+          "A" : "Dessutom förebygger eleven <strong>efter samråd</strong> med handledare fel och optimerar med <strong>gott</strong> handlag anläggningen."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> informationsteknik samt beskriver <strong>________</strong> hur anläggningens olika delar fungerar och samverkar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> informationsteknik samt beskriver <strong>översiktligt</strong> hur anläggningens olika delar fungerar och samverkar.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> informationsteknik samt beskriver <strong>utförligt</strong> hur anläggningens olika delar fungerar och samverkar <strong>och ger enkla förslag på förbättringar av anläggningen</strong>.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> informationsteknik samt beskriver <strong>utförligt och nyanserat</strong> hur anläggningens olika delar fungerar och samverkar <strong>och ger välgrundade förslag på förbättringar av anläggningen</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

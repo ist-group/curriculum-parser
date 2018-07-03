@@ -1,0 +1,349 @@
+{
+  "name" : "Fiskevård",
+  "description" : "Ämnet fiskevård behandlar bevarandet av skyddsvärda fiskarter samt strävan efter att få så hög och jämn avkastning av våra fiskresurser som möjligt på ett långsiktigt hållbart sätt. I ämnet behandlas hur olika typer av vatten fungerar kemiskt, biologiskt, hydrologiskt och fysikaliskt samt hur olika verksamheter påverkar vattenmiljön. Ämnet behandlar också de åtgärder som kan genomföras för att förbättra vattenmiljön och därmed fiskens livsmiljö. Fiskeribiologiska undersökningsmetoder samt tolkning och utvärdering av biologiska, kemiska, hydrologiska och fysikaliska data ingår också i ämnet.",
+  "code" : "FIK",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet fiskevård ska syfta till att eleverna utvecklar kunskaper för yrkesarbete inom fiskevård.", "Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att utföra fiskeribiologiska undersökningar och inventering av sjöar och vattendrag.", "Undervisningen ska bidra till att eleverna utvecklar förmåga att göra kemiska, fysikaliska och biologiska undersökningar samt att tolka och utvärdera insamlade data.", "Eleverna ska också ges möjlighet att planera, genomföra och utvärdera fiskevårdande åtgärder.", "Undervisningen ska bidra till att eleverna utvecklar förståelse av hur fisk fungerar i ett ekosystem samt av hur olika mänskliga verksamheter påverkar förutsättningar för olika fiskpopulationer." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Praktiskt arbete, fältstudier och ett undersökande arbetssätt ska ingå i undervisningen.", "Eleverna ska ges möjlighet att genomföra undersökningar i fält samt att sammanställa och utvärdera insamlade data.", "Genom praktiskt arbete med fiskevård ska eleverna ges möjlighet att utveckla förmåga att lösa problem och att arbeta med teknisk utrustning på ett ergonomiskt och säkert sätt." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet fiskevård ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om svenska fiskarter samt om olika fiskarters miljökrav, naturliga dynamik och utbredning.", "Kunskaper om fiskevårdande metoder för att bevara och utnyttja våra fiskpopulationer på ett långsiktigt hållbart sätt.", "Kunskaper om verksamheter som har en negativ påverkan på våra fiskbestånd.", "Förmåga att utföra fiskevårdande arbetsuppgifter samt att planera, genomföra och utvärdera fiskevårdande åtgärder.", "Kunskaper om lagar och andra bestämmelser som styr utnyttjandet och bevarandet av våra fiskresurser.", "Förmåga att planera, genomföra och utvärdera fiskeribiologiska, vattenkemiska, hydrologiska och fysikaliska undersökningar.", "Förmåga att bedöma ett vatten utifrån fysikaliska, kemiska och biologiska data." ]
+  } ],
+  "courses" : [ {
+    "name" : "Fiskevård 1",
+    "description" : "Kursen fiskevård 1 omfattar punkterna 1–7 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 5.",
+    "code" : "FIKFIS01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Identifiering, beskrivning och namngivning av vanliga svenska fiskarter.", "Fiskars miljökrav, naturliga dynamik och utbredning.", "Fiskevårdande metoder, till exempel utsättning av fisk, fiske, biotopförbättringar samt restaurering av fiskvägar, kantzoner och vattenkvaliteten.", "Verksamheter som påverkar fiskbestånden negativt.", "Intressemotsättningar i samband med fiskevård, till exempel vattenkraft, kulturminnen och naturvård.", "Handhavande och skötsel av utrustning.", "Ergonomi, arbetsmiljö och säkerhet.", "Lagar och andra bestämmelser, till exempel fiske- och fiskevårdslagstiftning och miljölagstiftning.", "Fiskeribiologiska undersökningar i fält.", "Provtagning samt analys av biologiska, fysikaliska, hydrologiska och kemiska parametrar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven identifierar <strong>________</strong> och namnger <strong>________</strong> vanliga svenska fiskarter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven identifierar <strong>med viss säkerhet</strong> och namnger <strong>några</strong> vanliga svenska fiskarter.",
+          "C" : "Eleven identifierar <strong>med viss säkerhet</strong> och namnger <strong>några</strong> vanliga svenska fiskarter.",
+          "A" : "Eleven identifierar <strong>med säkerhet</strong> och namnger <strong>flera</strong> vanliga svenska fiskarter."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för <strong>________</strong> svenska fiskarters miljökrav, dynamik och utbredning samt för olika fiskevårdande metoder och hur de påverkar fiskbeståndet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för <strong>några</strong> svenska fiskarters miljökrav, dynamik och utbredning samt för olika fiskevårdande metoder och hur de påverkar fiskbeståndet.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för <strong>några</strong> svenska fiskarters miljökrav, dynamik och utbredning samt för olika fiskevårdande metoder och hur de påverkar fiskbeståndet.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för <strong>flera</strong> svenska fiskarters miljökrav, dynamik och utbredning samt för olika fiskevårdande metoder och hur de påverkar fiskbeståndet."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för verksamheter som kan påverka fiskbestånden negativt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för verksamheter som kan påverka fiskbestånden negativt.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för verksamheter som kan påverka fiskbestånden negativt.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för verksamheter som kan påverka fiskbestånden negativt."
+        }
+      }, {
+        "text" : "I redogörelsen förklarar eleven <strong>________</strong> samband mellan fiskevårdande metoder och fiskbeståndens utveckling.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I redogörelsen förklarar eleven <strong>enkla</strong> samband mellan fiskevårdande metoder och fiskbeståndens utveckling.",
+          "C" : "I redogörelsen förklarar eleven samband mellan fiskevårdande metoder och fiskbeståndens utveckling.",
+          "A" : "I redogörelsen förklarar eleven <strong>komplexa</strong> samband mellan fiskevårdande metoder och fiskbeståndens utveckling."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven läser och tolkar <strong>________</strong> med handledare planer för fiskevårdande åtgärder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven läser och tolkar <strong>i samråd</strong> med handledare planer för fiskevårdande åtgärder.",
+          "C" : "Eleven läser och tolkar <strong>efter samråd</strong> med handledare planer för fiskevårdande åtgärder.",
+          "A" : "Eleven läser och tolkar <strong>efter samråd</strong> med handledare planer för fiskevårdande åtgärder."
+        }
+      }, {
+        "text" : "Dessutom följer eleven instruktioner och utför <strong>________</strong> med handledare fiskevårdande arbetsuppgifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom följer eleven instruktioner och utför <strong>i samråd</strong> med handledare fiskevårdande arbetsuppgifter.",
+          "C" : "Dessutom följer eleven instruktioner och utför <strong>efter samråd</strong> med handledare fiskevårdande arbetsuppgifter.",
+          "A" : "Dessutom följer eleven instruktioner och utför <strong>efter samråd</strong> med handledare fiskevårdande arbetsuppgifter."
+        }
+      }, {
+        "text" : "I arbetet väljer och använder eleven <strong>________</strong> med handledare relevant teknisk utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet väljer och använder eleven <strong>i samråd</strong> med handledare relevant teknisk utrustning.",
+          "C" : "I arbetet väljer och använder eleven <strong>efter samråd</strong> med handledare relevant teknisk utrustning.",
+          "A" : "I arbetet väljer och använder eleven <strong>efter samråd</strong> med handledare relevant teknisk utrustning."
+        }
+      }, {
+        "text" : "Dessutom löser eleven <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom löser eleven <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "Dessutom löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "Dessutom löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön.",
+          "C" : "Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön.",
+          "A" : "Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser inom fiske och fiskevård.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser inom fiske och fiskevård.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser inom fiske och fiskevård.",
+          "A" : "Eleven redogör också <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser inom fiske och fiskevård."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I samband med fältstudier, provtagningar och analyser värderar eleven vatten med <strong>________</strong> omdömen utifrån insamlade data.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I samband med fältstudier, provtagningar och analyser värderar eleven vatten med <strong>enkla</strong> omdömen utifrån insamlade data.",
+          "C" : "I samband med fältstudier, provtagningar och analyser värderar eleven vatten med <strong>enkla</strong> omdömen utifrån insamlade data.",
+          "A" : "I samband med fältstudier, provtagningar och analyser värderar eleven vatten med <strong>nyanserade</strong> omdömen utifrån insamlade data."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för hur analys av biologiska, fysikaliska, hydrologiska och kemiska undersökningar används inom fiskevård.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för hur analys av biologiska, fysikaliska, hydrologiska och kemiska undersökningar används inom fiskevård.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för hur analys av biologiska, fysikaliska, hydrologiska och kemiska undersökningar används inom fiskevård.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för hur analys av biologiska, fysikaliska, hydrologiska och kemiska undersökningar används inom fiskevård."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Fiskevård 2",
+    "description" : "Kursen fiskevård 2 omfattar punkterna 1–7 under rubriken Ämnets syfte, med särskild betoning på förmåga att planera, genomföra och utvärdera fiskevårdande åtgärder.",
+    "code" : "FIKFIS02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Inventering av fiskarter i sjöar och vattendrag.", "Olika arters miljökrav, dynamik och utbredning.", "Planering, genomförande och uppföljning av fiskevårdande åtgärder.", "Fiskevårdande system och metoder samt deras påverkan på fiskbeståndens utveckling.", "Återskapande och bevarande av naturliga miljöer för fiskbestånd.", "Användning och skötsel av teknisk utrustning.", "Ergonomi, arbetsmiljö och säkerhet.", "Lagar och andra bestämmelser, till exempel fiske- och fiskevårdslagstiftning och miljölagstiftning.", "Planering, genomförande och uppföljning av biologiska, vattenkemiska, hydrologiska och fysikaliska undersökningar.", "Sammanställning av biologiska, kemiska, hydrologiska och fysikaliska data.", "Dokumentation och redovisning av genomförda undersökningar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven identifierar <strong>________</strong>, i samband med inventering av sjöar och vattendrag, samt namnger svenska fiskarter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven identifierar <strong>med viss säkerhet</strong>, i samband med inventering av sjöar och vattendrag, samt namnger svenska fiskarter.",
+          "C" : "Eleven identifierar <strong>med viss säkerhet</strong>, i samband med inventering av sjöar och vattendrag, samt namnger svenska fiskarter.",
+          "A" : "Eleven identifierar <strong>med säkerhet</strong>, i samband med inventering av sjöar och vattendrag, samt namnger svenska fiskarter."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för svenska fiskarters miljökrav, dynamik och utbredning samt för olika fiskevårdande metoder och hur de påverkar fiskbeståndet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för svenska fiskarters miljökrav, dynamik och utbredning samt för olika fiskevårdande metoder och hur de påverkar fiskbeståndet.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för svenska fiskarters miljökrav, dynamik och utbredning samt för olika fiskevårdande metoder och hur de påverkar fiskbeståndet.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för svenska fiskarters miljökrav, dynamik och utbredning samt för olika fiskevårdande metoder och hur de påverkar fiskbeståndet."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för verksamheter som kan påverka fiskbestånden negativt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för verksamheter som kan påverka fiskbestånden negativt.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för verksamheter som kan påverka fiskbestånden negativt.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för verksamheter som kan påverka fiskbestånden negativt."
+        }
+      }, {
+        "text" : "I redogörelsen förklarar eleven <strong>________</strong> samband mellan fiskevårdande metoder och fiskbeståndens utveckling.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I redogörelsen förklarar eleven <strong>enkla</strong> samband mellan fiskevårdande metoder och fiskbeståndens utveckling.",
+          "C" : "I redogörelsen förklarar eleven samband mellan fiskevårdande metoder och fiskbeståndens utveckling.",
+          "A" : "I redogörelsen förklarar eleven <strong>komplexa</strong> samband mellan fiskevårdande metoder och fiskbeståndens utveckling."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar, genomför och utvärderar <strong>________</strong> med handledare fiskevårdande åtgärder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar, genomför och utvärderar <strong>i samråd</strong> med handledare fiskevårdande åtgärder.",
+          "C" : "Eleven planerar, genomför och utvärderar <strong>efter samråd</strong> med handledare fiskevårdande åtgärder.",
+          "A" : "Eleven planerar, genomför och utvärderar <strong>efter samråd</strong> med handledare fiskevårdande åtgärder."
+        }
+      }, {
+        "text" : "I arbetet väljer och använder eleven <strong>________</strong> med handledare relevant teknisk utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet väljer och använder eleven <strong>i samråd</strong> med handledare relevant teknisk utrustning.",
+          "C" : "I arbetet väljer och använder eleven <strong>efter samråd</strong> med handledare relevant teknisk utrustning.",
+          "A" : "I arbetet väljer och använder eleven <strong>efter samråd</strong> med handledare relevant teknisk utrustning."
+        }
+      }, {
+        "text" : "Dessutom löser eleven <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom löser eleven <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "Dessutom löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "Dessutom löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön.",
+          "C" : "Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön.",
+          "A" : "Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser inom fiske och fiskevård.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser inom fiske och fiskevård.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser inom fiske och fiskevård.",
+          "A" : "Eleven redogör också <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser inom fiske och fiskevård."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar, genomför och utvärderar <strong>________</strong> med handledare fiskeribiologiska undersökningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar, genomför och utvärderar <strong>i samråd</strong> med handledare fiskeribiologiska undersökningar.",
+          "C" : "Eleven planerar, genomför och utvärderar <strong>efter samråd</strong> med handledare fiskeribiologiska undersökningar.",
+          "A" : "Eleven planerar, genomför och utvärderar <strong>efter samråd</strong> med handledare fiskeribiologiska undersökningar."
+        }
+      }, {
+        "text" : "I samband med undersökningarna värderar eleven vatten med <strong>________</strong> omdömen utifrån insamlade data.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I samband med undersökningarna värderar eleven vatten med <strong>enkla</strong> omdömen utifrån insamlade data.",
+          "C" : "I samband med undersökningarna värderar eleven vatten med <strong>enkla</strong> omdömen utifrån insamlade data.",
+          "A" : "I samband med undersökningarna värderar eleven vatten med <strong>nyanserade</strong> omdömen utifrån insamlade data."
+        }
+      }, {
+        "text" : "Eleven gör också <strong>________</strong> sammanställningar och dokumentationer med utgångspunkt från insamlat material och insamlade data.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör också <strong>enkla</strong> sammanställningar och dokumentationer med utgångspunkt från insamlat material och insamlade data.",
+          "C" : "Eleven gör också <strong>noggranna</strong> sammanställningar och dokumentationer med utgångspunkt från insamlat material och insamlade data.",
+          "A" : "Eleven gör också <strong>noggranna och utförliga</strong> sammanställningar och dokumentationer med utgångspunkt från insamlat material och insamlade data."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Fiskevård 3",
+    "description" : "Kursen fiskevård 3 omfattar punkterna 1–7 under rubriken Ämnets syfte.",
+    "code" : "FIKFIS03",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Planering, organisation, genomförande och utvärdering av ett mindre fiskevårdsprojekt.", "Informationssökning och upprättande av en projektplan.", "Etiska frågeställningar i samband med fiskevård.", "Ekonomiska beräkningar och kalkyler.", "Ergonomi, arbetsmiljö och säkerhet.", "Lagar och andra bestämmelser som rör till exempel försöksdjur, kulturminnen, dammar och fiskerätt.", "Val, användning och skötsel av teknisk utrustning.", "Utförande av praktiska arbetsuppgifter inom ett fiskevårdsprojekt.", "Tolkning och utvärdering av biologiska, kemiska, hydrologiska och fysikaliska data.", "Dokumentation och redovisning av genomfört projekt." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven upprättar <strong>________</strong> med handledare en plan för ett mindre fiskevårdsprojekt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven upprättar <strong>i samråd</strong> med handledare en plan för ett mindre fiskevårdsprojekt.",
+          "C" : "Eleven upprättar <strong>efter samråd</strong> med handledare en plan för ett mindre fiskevårdsprojekt.",
+          "A" : "Eleven upprättar <strong>efter samråd</strong> med handledare en plan för ett mindre fiskevårdsprojekt."
+        }
+      }, {
+        "text" : "Planen innehåller en <strong>________</strong> ekonomisk kalkyl med utgångspunkt i fältstudier och inventeringar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Planen innehåller en <strong>enkel</strong> ekonomisk kalkyl med utgångspunkt i fältstudier och inventeringar.",
+          "C" : "Planen innehåller en ekonomisk kalkyl med utgångspunkt i fältstudier och inventeringar.",
+          "A" : "Planen innehåller en <strong>avancerad</strong> ekonomisk kalkyl med utgångspunkt i fältstudier och inventeringar."
+        }
+      }, {
+        "text" : "Eleven bedömer <strong>________</strong> med handledare när och hur arbetsuppgifterna ska genomföras med tanke på förväntat resultat och miljöhänsyn.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven bedömer <strong>i samråd</strong> med handledare när och hur arbetsuppgifterna ska genomföras med tanke på förväntat resultat och miljöhänsyn.",
+          "C" : "Eleven bedömer <strong>efter samråd</strong> med handledare när och hur arbetsuppgifterna ska genomföras med tanke på förväntat resultat och miljöhänsyn.",
+          "A" : "Eleven bedömer <strong>efter samråd</strong> med handledare när och hur arbetsuppgifterna ska genomföras med tanke på förväntat resultat och miljöhänsyn."
+        }
+      }, {
+        "text" : "Eleven organiserar, planerar och genomför <strong>________</strong> med handledare sitt fiskevårdsprojekt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven organiserar, planerar och genomför <strong>i samråd</strong> med handledare sitt fiskevårdsprojekt.",
+          "C" : "Eleven organiserar, planerar och genomför <strong>efter samråd</strong> med handledare sitt fiskevårdsprojekt.",
+          "A" : "Eleven organiserar, planerar och genomför <strong>efter samråd</strong> med handledare sitt fiskevårdsprojekt."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "I arbetet löser eleven <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar säkert, ergonomiskt och etiskt samt tar hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar säkert, ergonomiskt och etiskt samt tar hänsyn till miljön.",
+          "C" : "Eleven arbetar säkert, ergonomiskt och etiskt samt tar hänsyn till miljön.",
+          "A" : "Eleven arbetar säkert, ergonomiskt och etiskt samt tar hänsyn till miljön."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör försöksdjur, kulturminnen, dammar och fiskerätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör försöksdjur, kulturminnen, dammar och fiskerätt.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör försöksdjur, kulturminnen, dammar och fiskerätt.",
+          "A" : "Eleven redogör också <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör försöksdjur, kulturminnen, dammar och fiskerätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I samband med fältstudier tolkar eleven <strong>________</strong> och värderar med <strong>________</strong> omdömen data från biologiska, kemiska, hydrologiska och fysikaliska undersökningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I samband med fältstudier tolkar eleven <strong>med viss säkerhet</strong> och värderar med <strong>enkla</strong> omdömen data från biologiska, kemiska, hydrologiska och fysikaliska undersökningar.",
+          "C" : "I samband med fältstudier tolkar eleven <strong>med viss säkerhet</strong> och värderar med <strong>enkla</strong> omdömen data från biologiska, kemiska, hydrologiska och fysikaliska undersökningar.",
+          "A" : "I samband med fältstudier tolkar eleven <strong>med säkerhet</strong> och värderar med <strong>nyanserade</strong> omdömen data från biologiska, kemiska, hydrologiska och fysikaliska undersökningar."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för hur resultatet från undersökningarna kan användas i fiskevårdsprojektet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för hur resultatet från undersökningarna kan användas i fiskevårdsprojektet.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för hur resultatet från undersökningarna kan användas i fiskevårdsprojektet.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för hur resultatet från undersökningarna kan användas i fiskevårdsprojektet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

@@ -1,0 +1,173 @@
+{
+  "name" : "Fartygsteknik",
+  "description" : "Ämnet fartygsteknik behandlar den teknik och de metoder som används på fartyg för att transportera last och passagerare. Ämnet behandlar även arbetsmiljö samt skydd av den marina miljön i samband med lasthantering.",
+  "code" : "FAR",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet fartygsteknik ska syfta till att eleverna utvecklar kunskaper om olika fartygstypers konstruktion och stabilitetsegenskaper, samt om hur lasthantering och passagerarhantering utförs ombord.", "Den ska leda till att eleverna utvecklar förmåga att utföra arbetsuppgifter i samband med hantering av last och passagerare.", "Eleverna ska även ges möjlighet att utveckla kunskaper om riskerna med olika laster för att kunna arbeta på ett säkerhets- och miljömedvetet sätt.", "Dessa kunskaper är enligt nationella och internationella regler nödvändiga för tjänstgöring ombord på vissa fartygstyper." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som är konstruerade så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet fartygsteknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om hur olika fartygstyper är konstruerade, samt om de definitioner och måttenheter som används inom området.", "Förståelse av faktorer som påverkar fartygs stabilitet.", "Förmåga att utföra enklare beräkningar av fartygs djupgående, trim, slagsida och stabilitet.", "Kunskaper om hur last- och passagerarhantering utförs på olika fartygstyper samt om hur lasthanteringsutrustningen ombord fungerar.", "Kunskaper om miljö- och säkerhetsrisker vid last- och passagerarhantering.", "Kunskaper om lagar och andra bestämmelser som reglerar området.", "Förmåga att använda termer och begrepp som används inom området." ]
+  } ],
+  "courses" : [ {
+    "name" : "Lasthantering och passagerarsäkerhet",
+    "description" : "Kursen lasthantering och passagerarsäkerhet omfattar punkterna 1 och 4–7 under rubriken Ämnets syfte, med särskild betoning på lasthantering på tankfartyg. I kursen behandlas grundläggande kunskaper i ämnet. ",
+    "code" : "FARLAS0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Fartygskonstruktion",
+      "lines" : [ "Fartygs tekniska terminologi.", "Luckor, portar och vattentäta dörrar.", "Skrovöppningar och öppningar till lastutrymmen.", "Rörsystem och pumpar för slagvatten och barlast." ]
+    }, {
+      "heading" : "Torrlasthantering",
+      "lines" : [ "Farligt gods, klassificering och IMDG-koden.", "Lasthantering och säkring av last.", "Dävertar, kranar, vinschar, lyftutrustning.", "Hantering av farliga laster på torrlastfartyg." ]
+    }, {
+      "heading" : "Tanklasthantering",
+      "lines" : [ "Åtgärder för att förhindra miljöförorening av olja och kemikalier.", "Lasthantering på olje- och kemikalietankfartyg.", "Åtgärder för att undvika risker och förebygga skador.", "Brandskydd på tankfartyg.", "Personlig säkerhet och säkerhetsåtgärder.", "Nödåtgärder och nödinstruktioner." ]
+    }, {
+      "heading" : "Passagerarhantering",
+      "lines" : [ "Passagerarsäkerhet.", "Mönstringsrutiner.", "Kommunikation." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> hur de vanligaste fartygstyperna är konstruerade samt hur den lasthanteringsutrustning som finns ombord fungerar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur de vanligaste fartygstyperna är konstruerade samt hur den lasthanteringsutrustning som finns ombord fungerar.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur de vanligaste fartygstyperna är konstruerade samt hur den lasthanteringsutrustning som finns ombord fungerar.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur de vanligaste fartygstyperna är konstruerade samt hur den lasthanteringsutrustning som finns ombord fungerar."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> de arbetsuppgifter som utförs ombord i samband med last- och passagerarhantering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> de arbetsuppgifter som utförs ombord i samband med last- och passagerarhantering.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> de arbetsuppgifter som utförs ombord i samband med last- och passagerarhantering.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> de arbetsuppgifter som utförs ombord i samband med last- och passagerarhantering."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> miljö- och säkerhetsrisker vid last- och passagerarhantering samt de metoder och den utrustning som finns ombord för att förebygga sådana risker.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> miljö- och säkerhetsrisker vid last- och passagerarhantering samt de metoder och den utrustning som finns ombord för att förebygga sådana risker.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> miljö- och säkerhetsrisker vid last- och passagerarhantering samt de metoder och den utrustning som finns ombord för att förebygga sådana risker.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> miljö- och säkerhetsrisker vid last- och passagerarhantering samt de metoder och den utrustning som finns ombord för att förebygga sådana risker."
+        }
+      }, {
+        "text" : "Eleven drar <strong>________</strong> slutsatser om sambandet mellan risker och arbetsmetoder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven drar <strong>enkla</strong> slutsatser om sambandet mellan risker och arbetsmetoder.",
+          "C" : "Eleven drar <strong>välgrundade</strong> slutsatser om sambandet mellan risker och arbetsmetoder.",
+          "A" : "Eleven drar <strong>välgrundade och nyanserade</strong> slutsatser om sambandet mellan risker och arbetsmetoder."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> lagar och andra bestämmelser som gäller inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> lagar och andra bestämmelser som gäller inom området.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> lagar och andra bestämmelser som gäller inom området.",
+          "A" : "Eleven beskriver <strong>utförligt</strong> lagar och andra bestämmelser som gäller inom området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I beskrivningarna använder eleven <strong>________</strong> relevanta termer och begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningarna använder eleven <strong>med viss säkerhet</strong> relevanta termer och begrepp.",
+          "C" : "I beskrivningarna använder eleven <strong>med viss säkerhet</strong> relevanta termer och begrepp.",
+          "A" : "I beskrivningarna använder eleven <strong>med säkerhet</strong> relevanta termer och begrepp."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Skeppsteknik",
+    "description" : "Kursen skeppsteknik omfattar punkterna 1–3 och 6–7 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet. ",
+    "code" : "FARSKE0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika fartygstypers konstruktion.", "Fartygs huvuddimensioner och form.", "Skeppsmätning.", "Lastlinjekonventionen.", "Fartygs påkänningar.", "Faktorer som påverkar fartygs stabilitet.", "Hydrostatiska data." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> fartygs konstruktion och stabilitetsegenskaper samt de faktorer som påverkar fartygs stabilitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> fartygs konstruktion och stabilitetsegenskaper samt de faktorer som påverkar fartygs stabilitet.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> fartygs konstruktion och stabilitetsegenskaper samt de faktorer som påverkar fartygs stabilitet.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> fartygs konstruktion och stabilitetsegenskaper samt de faktorer som påverkar fartygs stabilitet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare enklare djupgående- och stabilitetsberäkningar samt använder <strong>________</strong> metoder och hjälpmedel som är lämpliga för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare enklare djupgående- och stabilitetsberäkningar samt använder <strong>med viss säkerhet</strong> metoder och hjälpmedel som är lämpliga för uppgiften.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare enklare djupgående- och stabilitetsberäkningar samt använder <strong>med viss säkerhet</strong> metoder och hjälpmedel som är lämpliga för uppgiften.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare enklare djupgående- och stabilitetsberäkningar samt använder <strong>med säkerhet</strong> metoder och hjälpmedel som är lämpliga för uppgiften."
+        }
+      }, {
+        "text" : "Vid beräkningarna gör eleven <strong>________</strong> anpassningar utifrån nya förutsättningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vid beräkningarna gör eleven <strong>enkla</strong> anpassningar utifrån nya förutsättningar.",
+          "C" : "Vid beräkningarna gör eleven anpassningar utifrån nya förutsättningar.",
+          "A" : "Vid beräkningarna gör eleven <strong>välgrundade</strong> anpassningar utifrån nya förutsättningar."
+        }
+      }, {
+        "text" : "Eleven utför uppgifterna med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför uppgifterna med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven utför uppgifterna med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven utför uppgifterna med <strong>gott</strong> resultat."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> lagar och andra bestämmelser som gäller inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> lagar och andra bestämmelser som gäller inom området.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> lagar och andra bestämmelser som gäller inom området.",
+          "A" : "Eleven beskriver <strong>utförligt</strong> lagar och andra bestämmelser som gäller inom området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I beskrivningar och beräkningar använder eleven <strong>________</strong> termer och begrepp som är relevanta för området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningar och beräkningar använder eleven <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.",
+          "C" : "I beskrivningar och beräkningar använder eleven <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.",
+          "A" : "I beskrivningar och beräkningar använder eleven <strong>med säkerhet</strong> termer och begrepp som är relevanta för området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 50,
+    "year" : null
+  } ]
+}

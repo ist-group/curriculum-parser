@@ -1,0 +1,156 @@
+{
+  "name" : "Fysik",
+  "description" : "Naturvetenskapen har sitt ursprung i människans nyfikenhet och behov av att veta mer om sig själv och sin omvärld. Kunskaper i fysik har stor betydelse för samhällsutvecklingen inom så skilda områden som energiförsörjning, medicinsk behandling och meteorologi. Med kunskaper om energi och materia får människor redskap för att kunna bidra till en hållbar utveckling.",
+  "code" : "GRNFYS2",
+  "designation" : "",
+  "skolfsId" : "2012:18",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i kursen fysik inom kommunal vuxenutbildning på grundläggande nivå syftar till att eleven utvecklar kunskaper om fysikaliska sammanhang samt nyfikenhet på och intresse för att undersöka omvärlden.", "Genom undervisningen ska eleven ges möjlighet att formulera frågor om fysikaliska företeelser och sammanhang utifrån egna upplevelser och aktuella händelser.", "Undervisningen ska ge eleven förutsättningar att söka svar på frågor med hjälp av systematiska undersökningar.", "Som en del av systematiska undersökningar ska eleven, genom praktiskt undersökande arbete, ges möjlighet att utveckla färdigheter i att hantera såväl digital som annan utrustning.", "Eleven ska ges förutsättningar att söka svar på frågor med hjälp av olika typer av källor.", "På så sätt ska undervisningen bidra till att eleven utvecklar ett kritiskt tänkande kring sina egna resultat, andras argument och olika informationskällor.", "Genom undervisningen ska eleven också utveckla förståelse för att påståenden kan prövas och värderas med hjälp av naturvetenskapliga arbetsmetoder." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleven möjligheter att använda och utveckla kunskaper och redskap för att formulera egna och granska andras argument i sammanhang där kunskaper i fysik har betydelse.", "Därigenom ska eleven ges förutsättningar att hantera praktiska, etiska och estetiska valsituationer som rör energi, teknik, miljö och samhälle." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleven utvecklar förtrogenhet med fysikens begrepp, modeller och teorier samt förståelse för hur de formas i samspel med erfarenheter från undersökningar av omvärlden.", "Vidare ska undervisningen bidra till att eleven utvecklar förmågan att samtala om, tolka och framställa texter och bilder med naturvetenskapligt innehåll." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska skapa förutsättningar för eleven att skilja mellan naturvetenskapliga och andra sätt att skildra omvärlden.", "Genom undervisningen ska eleven ges möjlighet att utveckla perspektiv på utvecklingen av naturvetenskapens världsbild och ges inblick i hur naturvetenskapen och kulturen ömsesidigt påverkar varandra." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Genom undervisningen i kursen fysik ska eleven ges förutsättningar att utveckla sin förmåga att",
+    "lines" : [ "använda kunskaper i fysik för att granska information, kommunicera och ta ställning i frågor som rör energi, teknik, miljö, samhälle och arbetsliv,", "genomföra systematiska undersökningar i fysik, och", "använda fysikens begrepp, modeller och teorier för att beskriva och förklara fysikaliska samband i naturen och samhället." ]
+  } ],
+  "courses" : [ {
+    "name" : "Fysik",
+    "description" : "Naturvetenskapen har sitt ursprung i människans nyfikenhet och behov av att veta mer om sig själv och sin omvärld. Kunskaper i fysik har stor betydelse för samhällsutvecklingen inom så skilda områden som energiförsörjning, medicinsk behandling och meteorologi. Med kunskaper om energi och materia får människor redskap för att kunna bidra till en hållbar utveckling.",
+    "code" : "GRNFYS2",
+    "centralContent" : [ {
+      "heading" : "Fysiken i naturen, samhället och arbetslivet",
+      "lines" : [ "Energins flöde från solen genom naturen och samhället. Olika energislags energikvalitet och deras för- och nackdelar för miljön. Lagring, försörjning och användning av energi.", "Väderfenomen och deras orsaker.", "Jordens strålningsbalans, växthuseffekten och klimatförändringar.", "Uppkomst och användning av partikelstrålning och elektromagnetisk strålning.", "Fasers egenskaper och fasövergångar, tryck, volym, densitet och temperatur.", "Aktuella samhällsfrågor som rör fysik." ]
+    }, {
+      "heading" : "Fysiken och vardagslivet",
+      "lines" : [ "Krafter, rörelser och rörelseförändringar i vardagliga situationer och hur kunskaper om detta kan användas, till exempel i frågor om trafiksäkerhet.", "Hävarmar och utväxling i verktyg och redskap.", "Hur ljud uppstår och breder ut sig. Ljudets egenskaper och ljudmiljö.", "Ljusets utbredning, reflektion och brytning.", "Sambanden mellan spänning, ström, resistans och effekt i elektriska kretsar och hur de används i vardagliga sammanhang.", "Sambandet mellan elektricitet och magnetism och hur detta kan utnyttjas i vardaglig elektrisk utrustning." ]
+    }, {
+      "heading" : "Fysiken och världsbilden",
+      "lines" : [ "Historiska och nutida upptäckter inom fysikområdet. Upptäckternas betydelse för teknik, miljö, samhälle och människors levnadsvillkor.", "Aktuella forskningsområden inom fysik.", "Naturvetenskapliga teorier om universums uppkomst och utveckling. Universums uppbyggnad.", "De fysikaliska modellernas och teoriernas användbarhet, begränsningar, giltighet och föränderlighet." ]
+    }, {
+      "heading" : "Fysikens metoder och arbetssätt",
+      "lines" : [ "Systematiska undersökningar och hur simuleringar kan användas som stöd vid modellering. Formulering av enkla frågeställningar, planering, utförande och utvärdering.", "Dokumentation av undersökningar med tabeller, diagram, bilder och skriftliga rapporter, såväl med som utan digitala verktyg.", "Mätningar och mätinstrument och hur de kan kombineras för att mäta storheter, till exempel fart, tryck och effekt. Elektriska sensorer för mätning och registrering av egenskaper hos omgivningen.", "Sambandet mellan fysikaliska undersökningar och utvecklingen av begrepp, modeller och teorier.", "Källkritisk granskning av information och argument som eleven möter i olika källor och samhällsdiskussioner med koppling till fysik, såväl i digitala som i andra medier." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kan samtala om och diskutera frågor som rör energi, teknik, miljö och samhälle och skiljer då fakta från värderingar och formulerar ställningstaganden med <strong>________</strong> motiveringar samt beskriver några tänkbara konsekvenser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kan samtala om och diskutera frågor som rör energi, teknik, miljö och samhälle och skiljer då fakta från värderingar och formulerar ställningstaganden med <strong>enkla</strong> motiveringar samt beskriver några tänkbara konsekvenser.",
+          "C" : "Eleven kan samtala om och diskutera frågor som rör energi, teknik, miljö och samhälle och skiljer då fakta från värderingar och formulerar ställningstaganden med <strong>utvecklade</strong> motiveringar samt beskriver några tänkbara konsekvenser.",
+          "A" : "Eleven kan samtala om och diskutera frågor som rör energi, teknik, miljö och samhälle och skiljer då fakta från värderingar och formulerar ställningstaganden med <strong>välutvecklade</strong> motiveringar samt beskriver några tänkbara konsekvenser."
+        }
+      }, {
+        "text" : "I diskussionerna ställer eleven frågor och framför och bemöter åsikter och argument på ett sätt som till viss <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I diskussionerna ställer eleven frågor och framför och bemöter åsikter och argument på ett sätt som till viss <strong>del för diskussionerna framåt</strong>.",
+          "C" : "I diskussionerna ställer eleven frågor och framför och bemöter åsikter och argument på ett sätt som <strong>för diskussionerna framåt</strong>.",
+          "A" : "I diskussionerna ställer eleven frågor och framför och bemöter åsikter och argument på ett sätt som <strong>för diskussionerna framåt och fördjupar eller breddar dem</strong>."
+        }
+      }, {
+        "text" : "Eleven kan söka naturvetenskaplig information och använder då olika källor och för <strong>________</strong> resonemang om informationens och källornas trovärdighet och relevans.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kan söka naturvetenskaplig information och använder då olika källor och för <strong>enkla och till viss del underbyggda</strong> resonemang om informationens och källornas trovärdighet och relevans.",
+          "C" : "Eleven kan söka naturvetenskaplig information och använder då olika källor och för <strong>utvecklade och relativt väl underbyggda</strong> resonemang om informationens och källornas trovärdighet och relevans.",
+          "A" : "Eleven kan söka naturvetenskaplig information och använder då olika källor och för <strong>välutvecklade och väl underbyggda</strong> resonemang om informationens och källornas trovärdighet och relevans."
+        }
+      }, {
+        "text" : "Eleven kan använda informationen på ett <strong>________</strong> sätt i diskussioner och för att skapa <strong>________</strong> texter och andra framställningar med <strong>________</strong> till syfte och målgrupp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kan använda informationen på ett <strong>i huvudsak fungerande</strong> sätt i diskussioner och för att skapa <strong>enkla</strong> texter och andra framställningar med <strong>viss anpassning</strong> till syfte och målgrupp.",
+          "C" : "Eleven kan använda informationen på ett fungerande sätt i diskussioner och för att skapa utvecklade texter och andra framställningar med relativt <strong>god anpassning</strong> till syfte och målgrupp.",
+          "A" : "Eleven kan använda informationen på ett <strong>väl fungerande</strong> sätt i diskussioner och för att skapa <strong>välutvecklade</strong> texter och andra framställningar med <strong>god anpassning</strong> till syfte och målgrupp."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kan genomföra undersökningar utifrån givna planeringar och även <strong>________</strong> frågeställningar och planeringar som det går att arbeta systematiskt utifrån.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kan genomföra undersökningar utifrån givna planeringar och även <strong>bidra till att formulera enkla</strong> frågeställningar och planeringar som det går att arbeta systematiskt utifrån.",
+          "C" : "Eleven kan genomföra undersökningar utifrån givna planeringar och även <strong>formulera enkla</strong> frågeställningar och planeringar som det <strong>efter någon bearbetning</strong> går att arbeta systematiskt utifrån.",
+          "A" : "Eleven kan genomföra undersökningar utifrån givna planeringar och även <strong>formulera enkla</strong> frågeställningar och planeringar som det går att arbeta systematiskt utifrån."
+        }
+      }, {
+        "text" : "I undersökningarna använder eleven utrustning på ett säkert och <strong>________</strong> sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I undersökningarna använder eleven utrustning på ett säkert och <strong>i huvudsak fungerande</strong> sätt.",
+          "C" : "I undersökningarna använder eleven utrustning på ett säkert och <strong><span dir=\"RTL\">ändamålsenligt </span></strong>sätt.",
+          "A" : "I undersökningarna använder eleven utrustning på ett säkert, <strong><span dir=\"RTL\">ändamålsenligt och effektivt </span></strong>sätt."
+        }
+      }, {
+        "text" : "Eleven kan jämföra resultaten med frågeställningarna och drar då <strong>________</strong> slutsatser med <strong>________</strong> till fysikaliska modeller och teorier.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kan jämföra resultaten med frågeställningarna och drar då <strong>enkla</strong> slutsatser med <strong>viss koppling</strong> till fysikaliska modeller och teorier.",
+          "C" : "Eleven kan jämföra resultaten med frågeställningarna och drar då <strong>utvecklade</strong> slutsatser med <strong>relativt god koppling</strong> till fysikaliska modeller och teorier.",
+          "A" : "Eleven kan jämföra resultaten med frågeställningarna och drar då <strong>välutvecklade</strong> slutsatser med <strong>god koppling</strong> till fysikaliska modeller och teorier."
+        }
+      }, {
+        "text" : "Eleven för <strong>________</strong> resonemang kring resultatens rimlighet och <strong>________</strong> på hur undersökningarna kan förbättras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven för <strong>enkla</strong> resonemang kring resultatens rimlighet och <strong>bidrar till att ge förslag</strong> på hur undersökningarna kan förbättras.",
+          "C" : "Eleven för <strong>utvecklade</strong> resonemang kring resultatens rimlighet och <strong>ger förslag</strong> på hur undersökningarna kan förbättras.",
+          "A" : "Eleven för <strong>välutvecklade</strong> resonemang kring resultatens rimlighet <strong>i relation till möjliga felkällor</strong> och <strong>ger förslag</strong> på hur undersökningarna kan förbättras <strong>och visar på nya tänkbara frågeställningar att undersöka</strong>."
+        }
+      }, {
+        "text" : "Dessutom gör eleven <strong>________</strong> dokumentationer av undersökningarna med tabeller, diagram, bilder och skriftliga rapporter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven <strong>enkla</strong> dokumentationer av undersökningarna med tabeller, diagram, bilder och skriftliga rapporter.",
+          "C" : "Dessutom gör eleven <strong>utvecklade</strong> dokumentationer av undersökningarna med tabeller, diagram, bilder och skriftliga rapporter.",
+          "A" : "Dessutom gör eleven <strong>välutvecklade</strong> dokumentationer av undersökningarna med tabeller, diagram, bilder och skriftliga rapporter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven har <strong>________</strong> kunskaper om energi, materia, universums uppbyggnad och utveckling och andra fysikaliska sammanhang och visar det genom att <strong>________</strong> dessa med <strong>________</strong> av fysikens begrepp, modeller och teorier.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven har <strong>grundläggande</strong> kunskaper om energi, materia, universums uppbyggnad och utveckling och andra fysikaliska sammanhang och visar det genom att <strong>ge exempel och beskriva</strong> dessa med <strong>viss användning</strong> av fysikens begrepp, modeller och teorier.",
+          "C" : "Eleven har <strong>goda</strong> kunskaper om energi, materia, universums uppbyggnad och utveckling och andra fysikaliska sammanhang och visar det genom att <strong>förklara och visa på samband</strong> inom dessa med <strong>relativt god användning</strong> av fysikens begrepp, modeller och teorier.",
+          "A" : "Eleven har <strong>mycket goda</strong> kunskaper om energi, materia, universums uppbyggnad och utveckling och andra fysikaliska sammanhang och visar det genom att <strong>förklara och visa på samband</strong> inom dessa och <strong>något generellt drag</strong> med <strong>god användning</strong> av fysikens begrepp, modeller och teorier."
+        }
+      }, {
+        "text" : "Eleven kan föra <strong>________</strong> resonemang där företeelser i vardags-, samhälls- och arbetslivet kopplas ihop med krafter, rörelser, hävarmar, ljus, ljud och elektricitet och visar då på <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kan föra <strong>enkla och till viss del underbyggda</strong> resonemang där företeelser i vardags-, samhälls- och arbetslivet kopplas ihop med krafter, rörelser, hävarmar, ljus, ljud och elektricitet och visar då på <strong>enkelt identifierbara fysikaliska samband</strong>.",
+          "C" : "Eleven kan föra <strong>utvecklade och relativt väl underbyggda</strong> resonemang där företeelser i vardags-, samhälls- och arbetslivet kopplas ihop med krafter, rörelser, hävarmar, ljus, ljud och elektricitet och visar då på <strong>förhållandevis komplexa fysikaliska samband</strong>.",
+          "A" : "Eleven kan föra <strong>välutvecklade och väl underbyggda</strong> resonemang där företeelser i vardags-, samhälls- och arbetslivet kopplas ihop med krafter, rörelser, hävarmar, ljus, ljud och elektricitet och visar då på <strong>komplexa fysikaliska samband</strong>."
+        }
+      }, {
+        "text" : "Eleven använder fysikaliska modeller på ett <strong>________</strong> sätt för att <strong>________</strong> partiklar och strålning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder fysikaliska modeller på ett <strong>i huvudsak fungerande</strong> sätt för att <strong>beskriva och ge exempel på</strong> partiklar och strålning.",
+          "C" : "Eleven använder fysikaliska modeller på ett <strong>relativt väl fungerande</strong> sätt för att <strong>förklara och visa på samband kring</strong> partiklar och strålning.",
+          "A" : "Eleven använder fysikaliska modeller på ett <strong>väl fungerande</strong> sätt för att <strong>förklara och generalisera kring</strong> partiklar och strålning."
+        }
+      }, {
+        "text" : "Dessutom för eleven <strong>________</strong> resonemang kring hur människa och teknik påverkar miljön och <strong>________</strong> några åtgärder som kan bidra till en hållbar utveckling.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom för eleven <strong>enkla och till viss del underbyggda</strong> resonemang kring hur människa och teknik påverkar miljön och <strong>visar på</strong> några åtgärder som kan bidra till en hållbar utveckling.",
+          "C" : "Dessutom för eleven <strong>utvecklade och relativt väl underbyggda</strong> resonemang kring hur människans användning av energi och naturresurser påverkar miljön och <strong>visar på fördelar och begränsningar</strong> hos några åtgärder som kan bidra till en hållbar utveckling.",
+          "A" : "Dessutom för eleven <strong>välutvecklade och väl underbyggda</strong> resonemang kring hur människa och teknik påverkar miljön och <strong>visar ur olika perspektiv på fördelar och begränsningar</strong> hos några åtgärder som kan bidra till en hållbar utveckling."
+        }
+      }, {
+        "text" : "Eleven kan <strong>________</strong> några centrala naturvetenskapliga upptäckter och deras betydelse för människors levnadsvillkor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kan <strong>ge exempel på och beskriva</strong> några centrala naturvetenskapliga upptäckter och deras betydelse för människors levnadsvillkor.",
+          "C" : "Eleven kan <strong>förklara och visa på samband mellan</strong> några centrala naturvetenskapliga upptäckter och deras betydelse för människors levnadsvillkor.",
+          "A" : "Eleven kan <strong>förklara och generalisera</strong> kring några centrala naturvetenskapliga upptäckter och deras betydelse för människors levnadsvillkor."
+        }
+      } ]
+    } ],
+    "point" : 150,
+    "year" : null
+  } ]
+}

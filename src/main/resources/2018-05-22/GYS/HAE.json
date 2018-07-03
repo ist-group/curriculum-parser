@@ -1,0 +1,151 @@
+{
+  "name" : "Hantverkstekniker",
+  "description" : "Ämnet hantverkstekniker behandlar tillverkning av hantverksprodukter. Ämnet handlar om arbetsprocessen och de tekniker, material och utrustning som används för framställning av en produkt.",
+  "code" : "HAE",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet hantverkstekniker ska syfta till att eleverna utvecklar kunskaper om tillverkning av hantverksprodukter samt förmåga att utföra arbetsuppgifter inom området.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om arbetsprocessen, från idé till färdig produkt.", "Eleverna ska ges möjlighet att utveckla kunskaper om material, tekniker och utrustning samt förmåga att använda, sköta och underhålla dessa.", "Undervisningen ska även bidra till att eleverna utvecklar kreativitet och känsla för färg, form och estetik.", "Undervisningen ska leda till att eleverna utvecklar förmåga att utföra arbetsuppgifter inom tillverkning av hantverksprodukter.", "Vidare ska eleverna ges möjlighet att utveckla förståelse av funktion och kvalitet i samband med tillverkning av en produkt." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Eleverna ska ges möjlighet att utveckla förmåga att utföra arbetsuppgifter på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.", "Undervisningen ska dessutom bidra till att eleverna utvecklar kunskaper om lagar och andra bestämmelser som gäller inom området." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Praktiskt arbete samt ett undersökande och problemlösande arbetssätt ska ingå i undervisningen.", "Eleverna ska ges möjlighet att presentera och reflektera över samt samtala om produktens funktion, kvalitet och estetiska uttryck." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet hantverkstekniker ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskap om material, utrustning och tekniker som används inom hantverksområdet.", "Förmåga att använda material, utrustning och tekniker på ett säkert sätt.", "Förmåga att utföra arbetsuppgifter inom tillverkning av hantverksprodukter på ett miljömässigt och säkert sätt.", "Förmåga att sköta och underhålla material och utrustning inom hantverk." ]
+  } ],
+  "courses" : [ {
+    "name" : "Hantverkstekniker 1",
+    "description" : "Kursen hantverkstekniker 1 omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "HAEHAT51",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Färg, form och estetikens betydelse vid tillverkning av produkter.", "Material, till exempel trä, textil och smidesjärn.", "Tekniker inom hantverksområdet, till exempel hyvling inom snickeri, tillskärning inom textilt arbete och drejning inom keramik.", "Arbetsprocessen, från idé till färdig produkt inom ett hantverksområde, till exempel inom finsnickeri, textilt arbete och keramik.", "Verktyg och utrustning inom hantverksområdet. Skyddsutrustning.", "Arbetsuppgifter inom tillverkning av hantverksprodukter.", "Underhåll och skötsel av verktyg och maskiner.", "Ergonomi, arbetsmiljö och säkerhet.", "Miljöhänsyn inom hantverksområdet, till exempel val av material, källsortering och återvinning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva material, utrustning och tekniker som används inom hantverksområdet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva material, utrustning och tekniker som används inom hantverksområdet.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> material, utrustning och tekniker som används inom hantverksområdet.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> material, utrustning och tekniker som används inom hantverksområdet."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att använda material, utrustning och tekniker på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att använda material, utrustning och tekniker på ett säkert sätt.",
+          "C" : "Eleven använder <strong>med visst handlag</strong> material, utrustning och tekniker på ett säkert och <strong>delvis ändamålsenligt sätt</strong>.",
+          "A" : "Eleven använder <strong>med gott handlag</strong> material, utrustning och tekniker på ett säkert och <strong>ändamålsenligt sätt</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att utföra arbetsmoment inom tillverkning av hantverksprodukter på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att utföra arbetsmoment inom tillverkning av hantverksprodukter på ett säkert sätt.",
+          "C" : "Eleven utför också <strong>med visst handlag</strong> arbetsmoment inom tillverkning av hantverksprodukter på ett säkert sätt.",
+          "A" : "Eleven utför också <strong>med gott handlag</strong> arbetsmoment inom tillverkning av hantverksprodukter på ett säkert sätt."
+        }
+      }, {
+        "text" : "Dessutom <strong>________</strong> eleven i att sköta samt underhålla material och utrustning inom hantverk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom <strong>medverkar</strong> eleven i att sköta samt underhålla material och utrustning inom hantverk.",
+          "C" : "Dessutom sköter samt underhåller eleven material och utrustning inom hantverk <strong>med tillfredsställande resultat</strong>.",
+          "A" : "Dessutom sköter samt underhåller eleven material och utrustning inom hantverk <strong>med gott resultat</strong>."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Hantverkstekniker 2",
+    "description" : "Kursen hantverkstekniker 2 omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "HAEHAT52",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Färg, form och estetikens betydelse vid tillverkning av produkter.", "Skissteknik, ritningar och arbetsinstruktioner. Digitala tekniker.", "Material, till exempel trä, textil och smidesjärn. Åtgång och kostnadsberäkning.", "Tekniker inom hantverksområdet, till exempel hyvling inom snickeri, tillskärning inom textilt arbete och drejning inom keramik.", "Arbetsprocessen, från idé till färdig produkt inom ett hantverksområde, till exempel inom finsnickeri, textilt arbete och keramik.", "Verktyg och utrustning inom hantverksområdet. Skyddsutrustning.", "Arbetsuppgifter inom tillverkning av hantverksprodukter.", "Underhåll och skötsel av verktyg och maskiner.", "Ergonomi, arbetsmiljö och säkerhet.", "Miljöhänsyn inom hantverksområdet, till exempel val av material, källsortering och återvinning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva material, utrustning och tekniker som används inom hantverksområdet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva material, utrustning och tekniker som används inom hantverksområdet.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> material, utrustning och tekniker som används inom hantverksområdet.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> material, utrustning och tekniker som används inom hantverksområdet."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att använda material, utrustning och tekniker på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att använda material, utrustning och tekniker på ett säkert sätt.",
+          "C" : "Eleven använder <strong>med visst handlag</strong> material, utrustning och tekniker på ett säkert och <strong>delvis ändamålsenligt sätt</strong>.",
+          "A" : "Eleven använder <strong>med gott handlag</strong> material, utrustning och tekniker på ett säkert och <strong>ändamålsenligt sätt</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att utföra arbetsmoment inom tillverkning av hantverksprodukter på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att utföra arbetsmoment inom tillverkning av hantverksprodukter på ett säkert sätt.",
+          "C" : "Eleven utför också m<strong>ed visst handlag</strong> arbetsmoment inom tillverkning av hantverksprodukter på ett säkert sätt.",
+          "A" : "Eleven utför också <strong>med gott handlag</strong> arbetsmoment inom tillverkning av hantverksprodukter på ett säkert sätt."
+        }
+      }, {
+        "text" : "Dessutom <strong>________</strong> eleven i att sköta samt underhålla material och utrustning inom hantverk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom <strong>medverkar</strong> eleven i att sköta samt underhålla material och utrustning inom hantverk.",
+          "C" : "Dessutom sköter samt underhåller eleven material och utrustning inom hantverk <strong>med tillfredsställande resultat</strong>.",
+          "A" : "Dessutom sköter samt underhåller eleven material och utrustning inom hantverk <strong>med gott resultat</strong>."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Hantverkstekniker 3",
+    "description" : "Kursen hantverkstekniker 3 omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "HAEHAT53",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Fördjupning inom något eller några av ämnets kunskapsområden. Tillverkning av en produkt med fokus på funktion, konstruktion och kvalitet. Material och kostnadsberäkningar i samband med arbetsplanering.", "Ergonomi, arbetsmiljö och säkerhet.", "Miljöhänsyn inom hantverksområdet, till exempel val av material, källsortering och återvinning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva material, utrustning och tekniker som används inom hantverksområdet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva material, utrustning och tekniker som används inom hantverksområdet.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> material, utrustning och tekniker som används inom hantverksområdet.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> material, utrustning och tekniker som används inom hantverksområdet."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att använda material, utrustning och tekniker på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att använda material, utrustning och tekniker på ett säkert sätt.",
+          "C" : "Eleven använder <strong>med visst handlag</strong> material, utrustning och tekniker på ett säkert och <strong>delvis ändamålsenligt sätt</strong>.",
+          "A" : "Eleven använder <strong>med gott handlag</strong> material, utrustning och tekniker på ett säkert och <strong>ändamålsenligt sätt</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att utföra arbetsmoment inom tillverkning av hantverksprodukter på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att utföra arbetsmoment inom tillverkning av hantverksprodukter på ett säkert sätt.",
+          "C" : "Eleven utför också <strong>med visst handlag</strong> arbetsmoment inom tillverkning av hantverksprodukter på ett säkert sätt.",
+          "A" : "Eleven utför också <strong>med gott handlag</strong> arbetsmoment inom tillverkning av hantverksprodukter på ett säkert sätt."
+        }
+      }, {
+        "text" : "Dessutom <strong>________</strong> eleven i att sköta samt underhålla material och utrustning inom hantverk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom <strong>medverkar</strong> eleven i att sköta samt underhålla material och utrustning inom hantverk.",
+          "C" : "Dessutom sköter samt underhåller eleven material och utrustning inom hantverk <strong>med tillfredsställande resultat</strong>.",
+          "A" : "Dessutom sköter samt underhåller eleven material och utrustning inom hantverk <strong>med gott resultat</strong>."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  } ]
+}

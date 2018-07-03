@@ -1,0 +1,324 @@
+{
+  "name" : "Specialidrott",
+  "description" : "Ämnet specialidrott handlar om att utveckla den idrottsliga förmågan inom en vald idrott. Ämnet behandlar metoder och teorier som underlättar prestationsutvecklingen mot hög nivå.",
+  "code" : "SPI",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet specialidrott ska syfta till att eleverna utvecklar sin idrottsliga förmåga inom en vald idrott.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om metoder och teorier för träning samt förmåga att planera, genomföra och utvärdera tränings- och tävlingsverksamheter." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar kunskaper om människokroppens byggnad och funktioner samt om kost, mental träning och andra faktorer som har betydelse för prestationsförmågan.", "Eleverna ska också ges möjlighet att utveckla kunskaper om hur skador och ohälsa i samband med tävling samt träning kan förebyggas och behandlas.", "Vidare ska undervisningen bidra till att eleverna utvecklar kunskaper om regler och normer i samband med träning och tävling.", "Undervisningen ska också ge eleverna möjlighet att utveckla förmåga att kommunicera och samarbeta med andra i samband med träning och tävling." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur kroppsideal samt andra värderingar baserade på kultur och kön framträder i miljöer som är kopplade till tränings- och tävlingsaktiviteter.", "Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om idrottsrörelsens betydelse i samhället samt om olika roller och funktioner inom idrottsrörelsen." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att delta i olika idrottsverksamheter och på så sätt få erfarenhet av elitidrott och träningsutveckling." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet specialidrott ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förmåga att utöva en vald idrott på elitnivå.", "Förmåga att använda träningsmetoder för att utveckla prestationsförmågan.", "Förmåga att planera, genomföra och utvärdera träningsverksamheter.", "Förmåga att förebygga skador och ohälsa i samband med träning och tävling.", "Förmåga att kommunicera och samarbeta i samband med träning och tävling.", "Förmåga att tillämpa etiska normer och regler i samband med träning och tävling." ]
+  } ],
+  "courses" : [ {
+    "name" : "Specialidrott 1",
+    "description" : "Kursen specialidrott 1 omfattar punkterna 1–6 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "SPISPE51",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Planering, genomförande och värdering av egen träning utifrån den individuella utvecklingen.", "Olika träningsmetoder och deras kvaliteter inom den valda idrotten, till exempel olika former av teknik- och konditionsträning samt mental träning. Träningsmetodernas betydelse för den individuella utvecklingen.", "Regler, taktik och teknik inom den valda idrotten.", "Faktorer i tränings- och tävlingssammanhang som påverkar den fysiska och psykiska prestationsförmågan.", "Skadeförebyggande träning och vad som kännetecknar den.", "Grundläggande behandling av skador samt agerande vid ett akut omhändertagande.", "Kommunikation och samarbete i samband med idrottsutövning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att genomföra vald idrott.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att genomföra vald idrott.",
+          "C" : "Eleven genomför vald idrott <strong>med viss</strong> precision och kontroll.",
+          "A" : "Eleven genomför vald idrott <strong>med god</strong> precision och kontroll."
+        }
+      }, {
+        "text" : "Dessutom <strong>________</strong> eleven i att använda träningsmetoder för att utveckla prestationsförmågan.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom <strong>medverkar</strong> eleven i att använda träningsmetoder för att utveckla prestationsförmågan.",
+          "C" : "Dessutom använder eleven träningsmetoder <strong>med viss säkerhet</strong> för att utveckla prestationsförmågan.",
+          "A" : "Dessutom använder eleven träningsmetoder <strong>med säkerhet</strong> för att utveckla prestationsförmågan."
+        }
+      }, {
+        "text" : "Eleven planerar och genomför egen träning <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och genomför egen träning <strong>tillsammans</strong> med handledare.",
+          "C" : "Eleven planerar och genomför egen träning <strong>i samråd</strong> med handledare.",
+          "A" : "Eleven planerar och genomför egen träning <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att ge omdömen om resultatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att ge omdömen om resultatet.",
+          "C" : "Eleven ger också <strong>enkla</strong> omdömen om resultatet.",
+          "A" : "Eleven ger också <strong>utvecklade</strong> omdömen om resultatet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva hur skador kan förebyggas med träning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva hur skador kan förebyggas med träning.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> hur skador kan förebyggas med träning.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> hur skador kan förebyggas med träning."
+        }
+      }, {
+        "text" : "När eleven samarbetar i samband med träning och tävling <strong>________</strong> eleven i att anpassa sina rörelser och sin kommunikation till helheten genom att uppmärksamma vad som sker i samarbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samarbetar i samband med träning och tävling <strong>medverkar</strong> eleven i att anpassa sina rörelser och sin kommunikation till helheten genom att uppmärksamma vad som sker i samarbetet.",
+          "C" : "När eleven samarbetar i samband med träning och tävling anpassar eleven <strong>delvis</strong> sina rörelser och sin kommunikation till helheten genom att <strong>i viss mån</strong> uppmärksamma vad som sker i samarbetet.",
+          "A" : "När eleven samarbetar i samband med träning och tävling anpassar eleven sina rörelser och sin kommunikation till helheten genom att <strong>i hög grad</strong> uppmärksamma vad som sker i samarbetet."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att följa regler inom idrotten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att följa regler inom idrotten.",
+          "C" : "Eleven följer <strong>med viss säkerhet</strong> regler inom idrotten.",
+          "A" : "Eleven följer <strong>med säkerhet</strong> regler inom idrotten."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Specialidrott 2",
+    "description" : "Kursen specialidrott 2 omfattar punkterna 1–6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "SPISPE52",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Planering, genomförande och utvärdering av individuellt anpassade tränings- och tävlingsprogram baserade på den individuella utvecklingen.", "Val av träningsmetoder baserade på den egna utvecklingen.", "Sammansättning av individuellt anpassade träningsprogram.", "Olika träningsmetoder och deras kvaliteter inom den valda idrotten, till exempel teknik-, rörlighets- och snabbhetsträning. Träningsmetodernas betydelse för den individuella utvecklingen.", "Regler, taktik och teknik inom den valda idrotten.", "Skadeförebyggande träning och vad som kännetecknar den.", "Kommunikation och samarbete i samband med idrottsutövning.", "Diskriminering inom idrotten och hur den kan motverkas.", "Hur olika kropps- och samhällsideal påverkar idrottsutövandet och samhället i övrigt." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att genomföra vald idrott.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att genomföra vald idrott.",
+          "C" : "Eleven genomför vald idrott <strong>med viss precision och kontroll</strong>.",
+          "A" : "Eleven genomför vald idrott <strong>med god precision och kontroll</strong>."
+        }
+      }, {
+        "text" : "Dessutom <strong>________</strong> eleven i att välja och använda träningsmetoder för att utveckla prestationsförmågan.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom <strong>medverkar</strong> eleven i att välja och använda träningsmetoder för att utveckla prestationsförmågan.",
+          "C" : "Dessutom väljer och använder eleven <strong>med viss säkerhet</strong> träningsmetoder för att utveckla prestationsförmågan.",
+          "A" : "Dessutom väljer och använder eleven <strong>med säkerhet</strong> träningsmetoder för att utveckla prestationsförmågan."
+        }
+      }, {
+        "text" : "Eleven planerar och genomför tränings- och tävlingsprogram <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och genomför tränings- och tävlingsprogram <strong>tillsammans</strong> med handledare.",
+          "C" : "Eleven planerar och genomför tränings- och tävlingsprogram <strong>i samråd</strong> med handledare.",
+          "A" : "Eleven planerar och genomför tränings- och tävlingsprogram <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att ge omdömen om resultatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att ge omdömen om resultatet.",
+          "C" : "Eleven ger också <strong>enkla</strong> omdömen om resultatet.",
+          "A" : "Eleven ger också <strong>utvecklade</strong> omdömen om resultatet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva hur skador kan förebyggas med träning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva hur skador kan förebyggas med träning.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> hur skador kan förebyggas med träning.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> hur skador kan förebyggas med träning."
+        }
+      }, {
+        "text" : "När eleven samarbetar i samband med träning och tävling <strong>________</strong> eleven i att anpassa sina rörelser och sin kommunikation till helheten genom att uppmärksamma vad som sker i samarbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samarbetar i samband med träning och tävling <strong>medverkar</strong> eleven i att anpassa sina rörelser och sin kommunikation till helheten genom att uppmärksamma vad som sker i samarbetet.",
+          "C" : "När eleven samarbetar i samband med träning och tävling anpassar eleven <strong>delvis</strong> sina rörelser och sin kommunikation till helheten genom att <strong>i viss mån</strong> uppmärksamma vad som sker i samarbetet.",
+          "A" : "När eleven samarbetar i samband med träning och tävling anpassar eleven sina rörelser och sin kommunikation till helheten genom att <strong>i hög grad</strong> uppmärksamma vad som sker i samarbetet."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att följa regler inom idrotten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att följa regler inom idrotten.",
+          "C" : "Eleven följer <strong>med viss säkerhet</strong> regler inom idrotten.",
+          "A" : "Eleven följer <strong>med säkerhet</strong> regler inom idrotten."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Specialidrott 3",
+    "description" : "Kursen specialidrott 3 omfattar punkterna 1–6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "SPISPE53",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Planering, genomförande och utvärdering av individuellt anpassade tränings- och tävlingsprogram baserade på den individuella utvecklingen.", "Val av träningsmetoder baserade på den individuella utvecklingen.", "Sammansättning av individuellt anpassade träningsprogram.", "Regler, taktik och teknik inom vald idrott.", "Skadeförebyggande träning och vad som kännetecknar den.", "Kommunikation och samarbete i samband med idrottsutövning.", "Livsstilens och de omgivande miljöernas påverkan på prestationer inom tränings- och tävlingsverksamhet.", "Samhällsnyttan av tränings- och tävlingsaktiviteter samt elitidrottens funktion som förebild.", "Tränings- och tävlingsverksamhet inom idrotten i ett internationellt perspektiv." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att genomföra vald idrott.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att genomföra vald idrott.",
+          "C" : "Eleven genomför vald idrott <strong>med viss precision och kontroll</strong>.",
+          "A" : "Eleven genomför vald idrott <strong>med viss precision och kontroll</strong>."
+        }
+      }, {
+        "text" : "Dessutom <strong>________</strong> eleven i att välja och använda träningsmetoder för att utveckla prestationsförmågan.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom <strong>medverkar</strong> eleven i att välja och använda träningsmetoder för att utveckla prestationsförmågan.",
+          "C" : "Dessutom väljer och använder eleven <strong>med viss säkerhet</strong> träningsmetoder för att utveckla prestationsförmågan.",
+          "A" : "Dessutom väljer och använder eleven <strong>med viss säkerhet</strong> träningsmetoder för att utveckla prestationsförmågan."
+        }
+      }, {
+        "text" : "Eleven planerar och genomför tränings- och tävlingsprogram <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och genomför tränings- och tävlingsprogram <strong>tillsammans</strong> med handledare.",
+          "C" : "Eleven planerar och genomför tränings- och tävlingsprogram <strong>i samråd</strong> med handledare.",
+          "A" : "Eleven planerar och genomför tränings- och tävlingsprogram <strong>i samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att ge omdömen om resultatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att ge omdömen om resultatet.",
+          "C" : "Eleven ger också <strong>enkla</strong> omdömen om resultatet.",
+          "A" : "Eleven ger också <strong>enkla</strong> omdömen om resultatet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva hur skador kan förebyggas med träning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva hur skador kan förebyggas med träning.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> hur skador kan förebyggas med träning.",
+          "A" : "Eleven beskriver <strong>på ett enkelt sätt</strong> hur skador kan förebyggas med träning."
+        }
+      }, {
+        "text" : "När eleven samarbetar i samband med träning och tävling <strong>________</strong> eleven i att anpassa sina rörelser och sin kommunikation till helheten genom att uppmärksamma vad som sker i samarbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samarbetar i samband med träning och tävling <strong>medverkar</strong> eleven i att anpassa sina rörelser och sin kommunikation till helheten genom att uppmärksamma vad som sker i samarbetet.",
+          "C" : "När eleven samarbetar i samband med träning och tävling anpassar eleven <strong>delvis</strong> sina rörelser och sin kommunikation till helheten genom att <strong>i viss mån</strong> uppmärksamma vad som sker i samarbetet.",
+          "A" : "När eleven samarbetar i samband med träning och tävling anpassar eleven <strong>delvis</strong> sina rörelser och sin kommunikation till helheten genom att <strong>i viss mån</strong> uppmärksamma vad som sker i samarbetet."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att följa regler inom idrotten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att följa regler inom idrotten.",
+          "C" : "Eleven följer <strong>med viss säkerhet</strong> regler inom idrotten.",
+          "A" : "Eleven följer <strong>med viss säkerhet</strong> regler inom idrotten."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Tränings- och tävlingslära 1",
+    "description" : "Kursen tränings- och tävlingslära 1 omfattar punkterna 2–6 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "SPITRA51",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Kroppens grundläggande anatomi och fysiologi samt grundläggande träningslära.", "Grundläggande närings- och kostkunskap i samband med tränings- och tävlingsverksamhet.", "Idrottspsykologiska faktorer som påverkar prestationen i tränings- och tävlingssituationer.", "Träningsmetoder för uthållighet, styrka, rörlighet, snabbhet och koordination.", "Människors olika förutsättningar för tränings- och tävlingsverksamhet.", "Olika idrottsmiljöer samt deras betydelse för tränings- och tävlingsprestationer.", "Etiska normer och regler för tränings- och tävlingsaktiviteter samt för idrottslig aktivitet i övrigt.", "Tränings- och tävlingsaktiviteter på lika villkor samt kulturella värderingar i tränings- och tävlingssammanhang. Diskriminering i tränings- och tävlingssammanhang samt hur den kan motverkas." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva träningsmetoder som utvecklar prestationsförmågan.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva träningsmetoder som utvecklar prestationsförmågan.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> träningsmetoder som utvecklar prestationsförmågan.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> träningsmetoder som utvecklar prestationsförmågan."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att föra resonemang om olika förutsättningar och faktorer som har betydelse för planering samt genomförande av träningsverksamheter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att föra resonemang om olika förutsättningar och faktorer som har betydelse för planering samt genomförande av träningsverksamheter.",
+          "C" : "Eleven för också <strong>enkla</strong> resonemang om olika förutsättningar och faktorer som har betydelse för planering samt genomförande av träningsverksamheter.",
+          "A" : "Eleven för också <strong>utvecklade</strong> resonemang om olika förutsättningar och faktorer som har betydelse för planering samt genomförande av träningsverksamheter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva hur ohälsa kan motverkas i tränings- och tävlingssammanhang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva hur ohälsa kan motverkas i tränings- och tävlingssammanhang.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> hur ohälsa kan motverkas i tränings- och tävlingssammanhang.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> hur ohälsa kan motverkas i tränings- och tävlingssammanhang."
+        }
+      }, {
+        "text" : "I kommunikation kring träning och tävling <strong>________</strong> eleven i att framföra och efterfråga åsikter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikation kring träning och tävling <strong>medverkar</strong> eleven i att framföra och efterfråga åsikter.",
+          "C" : "I kommunikation kring träning och tävling framför och efterfrågar eleven åsikter <strong>på ett sätt som till viss del för kommunikationen framåt</strong>.",
+          "A" : "I kommunikation kring träning och tävling framför och efterfrågar eleven åsikter <strong>på ett sätt som för kommunikationen framåt</strong>."
+        }
+      }, {
+        "text" : "Dessutom <strong>________</strong> eleven i att föra resonemang om etiska normer och regler.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom <strong>medverkar</strong> eleven i att föra resonemang om etiska normer och regler.",
+          "C" : "Dessutom för eleven <strong>enkla</strong> resonemang om etiska normer och regler.",
+          "A" : "Dessutom för eleven <strong>utvecklade</strong> resonemang om etiska normer och regler."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Tränings- och tävlingslära 2",
+    "description" : "Kursen tränings- och tävlingslära 2 omfattar punkterna 2–5 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "SPITRA52",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Fördjupning i kroppens anatomi och fysiologi, till exempel hur styrketräning påverkar kroppen ur ett anatomiskt och fysiologiskt perspektiv samt ur ett prestationsperspektiv.", "Kroppens energiomsättning samt näringsfysiologi. Människans energibehov och energibalans utifrån ett tränings- och tävlingsperspektiv.", "Individers olika upplevelser av fysisk aktivitet, tävlings- och elitidrott.", "Fördjupning i träningsmetoder, till exempel uthållighet, styrka och koordination.", "Kostregistrering och kostdataprogram.", "Tester för att mäta fysiska och psykiska kvaliteter, till exempel konditions- och rörlighetstester.", "Olika idrottsmiljöer och deras betydelse för tränings- och tävlingsprestationer.", "Metoder för skadeförebyggande träning och för behandling av skador." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva träningsmetoder som utvecklar prestationsförmågan.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva träningsmetoder som utvecklar prestationsförmågan.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> träningsmetoder som utvecklar prestationsförmågan.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> träningsmetoder som utvecklar prestationsförmågan."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att föra resonemang om olika förutsättningar och faktorer som har betydelse för planering samt genomförande av träningsverksamheter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att föra resonemang om olika förutsättningar och faktorer som har betydelse för planering samt genomförande av träningsverksamheter.",
+          "C" : "Eleven för också <strong>enkla</strong> resonemang om olika förutsättningar och faktorer som har betydelse för planering samt genomförande av träningsverksamheter.",
+          "A" : "Eleven för också <strong>utvecklade</strong> resonemang om olika förutsättningar och faktorer som har betydelse för planering samt genomförande av träningsverksamheter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva hur skador kan förebyggas med träning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva hur skador kan förebyggas med träning.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> hur skador kan förebyggas med träning.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> hur skador kan förebyggas med träning."
+        }
+      }, {
+        "text" : "I kommunikation kring träning och tävling <strong>________</strong> eleven i att framföra och efterfråga åsikter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikation kring träning och tävling <strong>medverkar</strong> eleven i att framföra och efterfråga åsikter.",
+          "C" : "I kommunikation kring träning och tävling framför och efterfrågar eleven åsikter <strong>på ett sätt som till viss del för kommunikationen framåt</strong>.",
+          "A" : "I kommunikation kring träning och tävling framför och efterfrågar eleven åsikter <strong>på ett sätt som för kommunikationen framåt</strong>."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

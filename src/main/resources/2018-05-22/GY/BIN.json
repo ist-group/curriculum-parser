@@ -1,0 +1,192 @@
+{
+  "name" : "Biodling",
+  "description" : "Ämnet biodling behandlar skötsel av bin, anläggningar och utrustning. Det behandlar också bins utveckling och beteende samt avel av bin. Vidare behandlas alla förekommande arbetsuppgifter i en bigård. Dessutom behandlas bins betydelse i ekosystemen.",
+  "code" : "BIN",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet biodling ska syfta till att eleverna utvecklar kunskaper för yrkesarbete med bin.", "Den ska leda till att eleverna utvecklar förmåga att sköta bin med utgångspunkt i bins behov och naturliga beteende.", "Vidare ska undervisningen bidra till att eleverna utvecklar förmåga att sköta och underhålla utrustning och anläggningar.", "Eleverna ska ges möjlighet att utveckla förmåga att följa fasta rutiner och ta ansvar i arbetet med bin.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur man förebygger sjukdomar hos bin.", "Undervisningen ska dessutom bidra till att eleverna utvecklar kunskaper om lagar och andra bestämmelser som gäller i samband med arbete med bin." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom praktiska övningar i undervisningen ska eleverna ges möjlighet att utveckla förmåga att hantera och sköta bin och anläggningar samt utrustning i en bigård." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet biodling ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om bin och olika raser av bin, om bins betydelse i ekosystemen samt om biodlingens produkter.", "Kunskaper om etologi i samband med biodling.", "Kunskaper om bins näringsbehov och utfodring.", "Förmåga att sköta och hantera bin på ett etiskt och säkert sätt samt utifrån djurens behov.", "Förmåga att tillverka, sköta och hantera utrustning och anläggningar.", "Förmåga att hantera biodlingens produkter på ett säkert sätt samt att upprätta ekonomiska kalkyler för biodling.", "Förmåga att arbeta ergonomiskt och med hänsyn till miljön.", "Kunskaper om hygien och smittskydd samt förmåga att följa hygienrutiner.", "Kunskaper om lagar och andra bestämmelser som rör biodling." ]
+  } ],
+  "courses" : [ {
+    "name" : "Biodling",
+    "description" : "Kursen biodling omfattar punkterna 1–9 under rubriken Ämnets syfte.",
+    "code" : "BINBIO0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Biologisk och ekonomisk grund",
+      "lines" : [ "Bins fysiologi och utveckling från ägg till fullbildade insekter.", "Avel med raser och raskombinationer av bin samt drottningodling.", "Bisjukdomar och parasiter.", "Bins ekologiska betydelse och deras roll som pollinatörer.", "Bins beteende i olika miljöer och situationer samt bisamhällets individer och uppbyggnad.", "Bins näringsbehov och vanliga biväxter.", "Biodlingens produkter, till exempel honung, vax, pollen och drottninggelé.", "Biodlingens ekonomiska förutsättningar. Ekonomiska kalkyler för biodling." ]
+    }, {
+      "heading" : "Arbetsuppgifter",
+      "lines" : [ "Vanligt förekommande arbetsuppgifter i en bigård, till exempel tillsyn och hantering av bin, utfodring.", "Bitillsyn och förebyggande åtgärder mot sjukdomar.", "Tillverkning av utrustning för biodling.", "Hantering av honung efter skörd.", "Dokumentation av åtgärder i en bigård.", "Hygien och hygienrutiner, till exempel rengöring av lokaler och utrustning." ]
+    }, {
+      "heading" : "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+      "lines" : [ "Ergonomi, arbetsmiljö och säkerhet i samband med biodling.", "Hygienpraxis och egenkontroll.", "Lagar och andra bestämmelser som rör biodling och livsmedelshantering." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för bins fysiologi och utveckling samt för bisamhällets individer och uppbyggnad.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för bins fysiologi och utveckling samt för bisamhällets individer och uppbyggnad.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för bins fysiologi och utveckling samt för bisamhällets individer och uppbyggnad.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för bins fysiologi och utveckling samt för bisamhällets individer och uppbyggnad."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för bins näringsbehov och vanliga biväxter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för bins näringsbehov och vanliga biväxter.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för bins näringsbehov och vanliga biväxter.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för bins näringsbehov och vanliga biväxter."
+        }
+      }, {
+        "text" : "Eleven redogör även <strong>________</strong> för vanliga sjukdomar och parasiter hos bin.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör även <strong>översiktligt</strong> för vanliga sjukdomar och parasiter hos bin.",
+          "C" : "Eleven redogör även <strong>utförligt</strong> för vanliga sjukdomar och parasiter hos bin.",
+          "A" : "Eleven redogör även <strong>utförligt och nyanserat</strong> för vanliga sjukdomar och parasiter hos bin."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för avel och drottningodling av bin.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för avel och drottningodling av bin.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för avel och drottningodling av bin.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för avel och drottningodling av bin."
+        }
+      }, {
+        "text" : "I samband med arbete i bigård observerar eleven bin samt redogör <strong>________</strong> för bins beteende i olika miljöer och situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I samband med arbete i bigård observerar eleven bin samt redogör <strong>översiktligt</strong> för bins beteende i olika miljöer och situationer.",
+          "C" : "I samband med arbete i bigård observerar eleven bin samt redogör <strong>utförligt</strong> för bins beteende i olika miljöer och situationer.",
+          "A" : "I samband med arbete i bigård observerar eleven bin samt redogör <strong>utförligt och nyanserat</strong> för bins beteende i olika miljöer och situationer."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> bins ekologiska betydelse och roll som pollinatörer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> bins ekologiska betydelse och roll som pollinatörer.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> bins ekologiska betydelse och roll som pollinatörer.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> bins ekologiska betydelse och roll som pollinatörer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven följer arbetsinstruktioner, sköter och hanterar <strong>________</strong> med handledare bin på ett ansvarsfullt, etiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven följer arbetsinstruktioner, sköter och hanterar <strong>i samråd</strong> med handledare bin på ett ansvarsfullt, etiskt och säkert sätt.",
+          "C" : "Eleven följer arbetsinstruktioner, sköter och hanterar <strong>efter samråd</strong> med handledare bin på ett ansvarsfullt, etiskt och säkert sätt.",
+          "A" : "Eleven följer arbetsinstruktioner, sköter och hanterar <strong>efter samråd</strong> med handledare bin på ett ansvarsfullt, etiskt och säkert sätt."
+        }
+      }, {
+        "text" : "Dessutom tillverkar, sköter och hanterar eleven <strong>________</strong> med handledare utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom tillverkar, sköter och hanterar eleven <strong>i samråd</strong> med handledare utrustning.",
+          "C" : "Dessutom tillverkar, sköter och hanterar eleven <strong>efter samråd</strong> med handledare utrustning.",
+          "A" : "Dessutom tillverkar, sköter och hanterar eleven <strong>efter samråd</strong> med handledare utrustning."
+        }
+      }, {
+        "text" : "Eleven hanterar även <strong>________</strong> produkter från bin med hänsyn till produktkvalitet och livsmedelssäkerhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar även <strong>med viss säkerhet</strong> produkter från bin med hänsyn till produktkvalitet och livsmedelssäkerhet.",
+          "C" : "Eleven hanterar även <strong>med viss säkerhet</strong> produkter från bin med hänsyn till produktkvalitet och livsmedelssäkerhet.",
+          "A" : "Eleven hanterar även <strong>med säkerhet</strong> produkter från bin med hänsyn till produktkvalitet och livsmedelssäkerhet."
+        }
+      }, {
+        "text" : "Dessutom gör eleven <strong>________</strong> ekonomiska beräkningar av kostnader och intäkter för en bigård.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven <strong>enkla</strong> ekonomiska beräkningar av kostnader och intäkter för en bigård.",
+          "C" : "Dessutom gör eleven ekonomiska beräkningar av kostnader och intäkter för en bigård.",
+          "A" : "Dessutom gör eleven <strong>avancerade</strong> ekonomiska beräkningar av kostnader och intäkter för en bigård."
+        }
+      }, {
+        "text" : "Eleven gör <strong>________</strong> reflektioner över produktkvalitetens betydelse för det ekonomiska resultatet och försäljningen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör <strong>enkla</strong> reflektioner över produktkvalitetens betydelse för det ekonomiska resultatet och försäljningen.",
+          "C" : "Eleven gör <strong>välgrundade</strong> reflektioner över produktkvalitetens betydelse för det ekonomiska resultatet och försäljningen.",
+          "A" : "Eleven gör <strong>välgrundade och nyanserade</strong> reflektioner över produktkvalitetens betydelse för det ekonomiska resultatet och försäljningen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I arbetet löser eleven <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> dokumentation av vidtagna åtgärder i en bigård.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> dokumentation av vidtagna åtgärder i en bigård.",
+          "C" : "Dessutom gör eleven en <strong>noggrann</strong> dokumentation av vidtagna åtgärder i en bigård.",
+          "A" : "Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation av vidtagna åtgärder i en bigård."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "När arbetet är utfört värderar eleven sitt resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört värderar eleven sitt resultat med <strong>enkla</strong> omdömen.",
+          "C" : "När arbetet är utfört värderar eleven sitt resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "När arbetet är utfört värderar eleven sitt resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar ergonomiskt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt.",
+          "C" : "Eleven arbetar ergonomiskt.",
+          "A" : "Eleven arbetar ergonomiskt."
+        }
+      }, {
+        "text" : "När eleven arbetar med bin och biodlingens produkter följer hon eller han aktuella hygienrutiner samt redogör <strong>________</strong> för hygien och smittskydd.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven arbetar med bin och biodlingens produkter följer hon eller han aktuella hygienrutiner samt redogör <strong>översiktligt</strong> för hygien och smittskydd.",
+          "C" : "När eleven arbetar med bin och biodlingens produkter följer hon eller han aktuella hygienrutiner samt redogör <strong>utförligt</strong> för hygien och smittskydd.",
+          "A" : "När eleven arbetar med bin och biodlingens produkter följer hon eller han aktuella hygienrutiner samt redogör <strong>utförligt</strong> för hygien och smittskydd."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

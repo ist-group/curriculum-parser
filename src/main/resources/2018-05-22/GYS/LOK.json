@@ -1,0 +1,113 @@
+{
+  "name" : "Lokalvård",
+  "description" : "Ämnet lokalvård behandlar rengöring och underhåll av lokaler samt andra utrymmen. Ämnet handlar om rengöringstekniker, redskap och annan utrustning samt om rengöringsprodukter för olika material. Centralt i ämnet är hygien, säkerhet och miljö.",
+  "code" : "LOK",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet lokalvård ska syfta till att eleverna utvecklar kunskaper om lokalvård samt förmåga att utföra arbetsuppgifter inom området.", "Genom undervisningen ska eleverna utveckla kunskaper om rengöring och enklare underhåll av lokaler.", "Arbete med lokalvård innebär även ansvar för en hög kvalitet beträffande helhetsintrycket.", "Undervisningen ska leda till att eleverna utvecklar förståelse av lokalvårdens betydelse för hälsa och trivsel." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om olika rengöringsmedels innehåll, egenskaper och användningsområden.", "Undervisningen ska också bidra till att eleverna utvecklar kunskaper om rengöringsmedlens påverkan på miljön.", "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om redskap och annan utrustning som används inom lokalvård.", "Eleverna ska ges möjlighet att utveckla förmåga att välja rengöringsmedel, redskap och annan utrustning.", "Undervisningen ska leda till att eleverna utvecklar förmåga att utföra arbetsuppgifter inom lokalvård på ett hygieniskt och säkert sätt samt med hänsyn till miljön." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Vidare ska undervisningen ge eleverna möjlighet att utveckla förmåga att sköta och underhålla redskap samt annan utrustning som används i samband med lokalvård.", "Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper om lagar och andra bestämmelser som gäller inom området.", "Det handlar om arbetsmiljö, säkerhet och hänsyn till miljön." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Praktiskt arbete samt ett undersökande och problembaserat arbetssätt ska ingå i undervisningen.", "I undervisningen ska eleverna ges möjlighet att reflektera över och samtala om resultatet av genomfört arbete samt om rengöringsmedlens påverkan på miljön." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet lokalvård ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förståelse av lokalvårdens betydelse för hälsa och trivsel.", "Kunskaper om produkter och utrustning som används inom lokalvård.", "Förmåga att välja produkter och utrustning för rengöring samt underhåll inom lokalvård.", "Förmåga att utföra arbetsuppgifter inom lokalvård på ett hygieniskt och säkert sätt samt med hänsyn till miljön." ]
+  } ],
+  "courses" : [ {
+    "name" : "Lokalvård 1",
+    "description" : "Kursen lokalvård 1 omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "LOKLOK51",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Lokalvårdarens yrkesroll och verksamhetsområden, till exempel fönsterputsning, ytstädning och gatusopning.", "Lokalvårdens betydelse för hälsa och trivsel.", "Redskap och annan utrustning. Konstruktion, funktion och användningsområden.", "Skötsel och underhåll av redskap och annan utrustning som används inom lokalvård.", "Rengöringsmedel för olika ändamål. Innehållsdeklaration, till exempel egenskaper, innehåll och miljöpåverkan. Rengöring av olika material, val av rengöringsmedel och utrustning.", "Hygien, smitta och smittspridning.", "Miljö- och kvalitetsarbete inom lokalvård.", "Brand och brandskydd.", "Ergonomi, arbetsmiljö och säkerhet.", "Lagar och andra bestämmelser, till exempel miljölagar, arbetsmiljölagar och hygienregler." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i samtal om lokalvårdens betydelse för hälsa och trivsel.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i samtal om lokalvårdens betydelse för hälsa och trivsel.",
+          "C" : "Eleven samtalar <strong>på ett enkelt sätt</strong> om lokalvårdens betydelse för hälsa och trivsel.",
+          "A" : "Eleven samtalar <strong>på ett utvecklat sätt</strong> om lokalvårdens betydelse för hälsa och trivsel."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att beskriva produkter och utrustning som används inom lokalvård.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att beskriva produkter och utrustning som används inom lokalvård.",
+          "C" : "Eleven beskriver också <strong>på ett enkelt sätt</strong> produkter och utrustning som används inom lokalvård.",
+          "A" : "Eleven beskriver också <strong>på ett utvecklat sätt</strong> produkter och utrustning som används inom lokalvård."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att välja produkter och utrustning för rengöring samt underhåll inom lokalvård.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att välja produkter och utrustning för rengöring samt underhåll inom lokalvård.",
+          "C" : "Eleven väljer <strong>med viss säkerhet</strong> produkter och utrustning för rengöring samt underhåll inom lokalvård.",
+          "A" : "Eleven väljer <strong>med säkerhet</strong> produkter och utrustning för rengöring samt underhåll inom lokalvård."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> dessutom i att utföra arbetsmoment inom lokalvård på ett hygieniskt och säkert sätt samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> dessutom i att utföra arbetsmoment inom lokalvård på ett hygieniskt och säkert sätt samt med hänsyn till miljön.",
+          "C" : "Eleven utför dessutom <strong>med tillfredsställande resultat</strong> arbetsmoment inom lokalvård på ett hygieniskt och säkert sätt samt med hänsyn till miljön.",
+          "A" : "Eleven utför dessutom <strong>med gott resultat</strong> arbetsmoment inom lokalvård på ett hygieniskt och säkert sätt samt med hänsyn till miljön."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Lokalvård 2",
+    "description" : "Kursen lokalvård 2 omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "LOKLOK52",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Lokalvårdens betydelse för hälsa och trivsel.", "Bedömning av lokalen och åtgärder för ett positivt helhetsintryck, till exempel byte av trasig lampa, iordningsställande av möbler och dekorationer.", "Redskap och annan utrustning. Konstruktion, funktion och användningsområden.", "Skötsel och underhåll av redskap och annan utrustning som används inom lokalvård.", "Rengöringsmedel för olika ändamål. Innehållsdeklaration, till exempel egenskaper, innehåll och miljöpåverkan. Rengöring av olika material, val av rengöringsmedel och utrustning.", "Hygien, smitta och smittspridning. Riskbedömningar och förebyggande åtgärder.", "Miljö- och kvalitetsarbete inom lokalvård.", "Brand och brandskydd.", "Ergonomi, arbetsmiljö och säkerhet.", "Lagar och andra bestämmelser, till exempel miljölagar, arbetsmiljölagar och hygienregler." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i samtal om lokalvårdens betydelse för hälsa och trivsel.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i samtal om lokalvårdens betydelse för hälsa och trivsel.",
+          "C" : "Eleven samtalar <strong>på ett enkelt sätt</strong> om lokalvårdens betydelse för hälsa och trivsel.",
+          "A" : "Eleven samtalar <strong>på ett utvecklat sätt</strong> om lokalvårdens betydelse för hälsa och trivsel."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att beskriva produkter och utrustning som används inom lokalvård.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att beskriva produkter och utrustning som används inom lokalvård.",
+          "C" : "Eleven beskriver också <strong>på ett enkelt sätt</strong> produkter och utrustning som används inom lokalvård.",
+          "A" : "Eleven beskriver också <strong>på ett utvecklat sätt</strong> produkter och utrustning som används inom lokalvård."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att välja produkter och utrustning för rengöring samt underhåll inom lokalvård.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att välja produkter och utrustning för rengöring samt underhåll inom lokalvård.",
+          "C" : "Eleven väljer <strong>med viss säkerhet</strong> produkter och utrustning för rengöring samt underhåll inom lokalvård.",
+          "A" : "Eleven väljer <strong>med säkerhet</strong> produkter och utrustning för rengöring samt underhåll inom lokalvård."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> dessutom i att utföra arbetsmoment inom lokalvård på ett hygieniskt och säkert sätt samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> dessutom i att utföra arbetsmoment inom lokalvård på ett hygieniskt och säkert sätt samt med hänsyn till miljön.",
+          "C" : "Eleven utför dessutom <strong>med tillfredsställande resultat</strong> arbetsmoment inom lokalvård på ett hygieniskt och säkert sätt samt med hänsyn till miljön.",
+          "A" : "Eleven utför dessutom <strong>med gott resultat</strong> arbetsmoment inom lokalvård på ett hygieniskt och säkert sätt samt med hänsyn till miljön."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

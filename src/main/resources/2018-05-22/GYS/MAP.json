@@ -1,0 +1,60 @@
+{
+  "name" : "Människokroppen",
+  "description" : "Ämnet människokroppen behandlar kroppens organ, organsystem och fysiska utveckling. Ämnet handlar om hur kroppen fungerar, utvecklas och förändras genom livet. I ämnet ingår kroppens behov av vatten, näring och fysisk aktivitet.",
+  "code" : "MAP",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet människokroppen ska syfta till att eleverna utvecklar kunskaper om människokroppen och förståelse av kroppens olika behov.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om olika organ, organsystem, dess uppbyggnad och funktioner.", "Undervisningen ska bidra till att eleverna utvecklar förståelse av kroppens behov av vatten, näring och fysisk aktivitet.", "Eleverna ska också ges möjlighet att utveckla kunskaper om kroppens fysiska utveckling och förändring genom livet.", "Undervisningen ska leda till att eleverna utvecklar förståelse för sambanden mellan kroppens olika funktioner och behov av vatten, näring samt fysisk aktivitet." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om vanligt förekommande sjukdomar och sjukdomsframkallande mikroorganismer samt hur de påverkar organ och organsystem." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Laborationer och ett undersökande arbetssätt ska ingå i undervisningen.", "Undervisningen ska genom praktiska övningar ge eleverna möjlighet att utveckla förmåga att utföra första hjälpen samt hjärt- och lungräddning.", "I undervisningen ska eleverna ges möjlighet att reflektera över samt samtala om samband mellan kroppens behov, levnadsvanor och hälsa." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet människokroppen ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om kroppens organ, organsystem och fysiska utveckling.", "Förståelse av samband mellan kroppens olika funktioner och behov av vatten, näring samt fysisk aktivitet.", "Kunskaper om sjukdomar samt hur de påverkar organ och organsystem." ]
+  } ],
+  "courses" : [ {
+    "name" : "Människokroppen",
+    "description" : "Kursen människokroppen omfattar punkterna 1–3 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "MAPMAN5",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Människokroppens organ, uppbyggnad och funktion, till exempel huden, hjärtat och njurarna.", "Organsystem, uppbyggnad och funktioner, till exempel hjärt- och kärlsystemet, matspjälkningssystemet och nervsystemet.", "Kroppens behov av vatten, näring och fysisk aktivitet.", "Sjukdomar i olika organ och organsystem, till exempel diabetes, högt blodtryck och Parkinsons sjukdom.", "Mikroorganismer, sjukdomsframkallande bakterier och virus. Egenskaper, spridningsvägar och förökningstakt. Infektionssjukdomar och kroppens immunförsvar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i samtal om kroppens organ, organsystem och fysiska utveckling.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i samtal om kroppens organ, organsystem och fysiska utveckling.",
+          "C" : "Eleven samtalar <strong>på ett enkelt sätt</strong> om kroppens organ, organsystem och fysiska utveckling.",
+          "A" : "Eleven samtalar <strong>på ett utvecklat sätt</strong> om kroppens organ, organsystem och fysiska utveckling."
+        }
+      }, {
+        "text" : "Dessutom <strong>________</strong> eleven i att redogöra för samband mellan kroppens olika funktioner samt behov av vatten, näring och fysisk aktivitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom <strong>medverkar</strong> eleven i att redogöra för samband mellan kroppens olika funktioner samt behov av vatten, näring och fysisk aktivitet.",
+          "C" : "Dessutom redogör eleven <strong>på ett enkelt sätt</strong> för samband mellan kroppens olika funktioner samt behov av vatten, näring och fysisk aktivitet.",
+          "A" : "Dessutom redogör eleven <strong>på ett utvecklat sätt</strong> för samband mellan kroppens olika funktioner samt behov av vatten, näring och fysisk aktivitet."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att beskriva sjukdomar samt hur de påverkar organ och organsystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att beskriva sjukdomar samt hur de påverkar organ och organsystem.",
+          "C" : "Eleven beskriver också <strong>på ett enkelt sätt</strong> sjukdomar samt hur de påverkar organ och organsystem.",
+          "A" : "Eleven beskriver också <strong>på ett utvecklat sätt</strong> sjukdomar samt hur de påverkar organ och organsystem."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

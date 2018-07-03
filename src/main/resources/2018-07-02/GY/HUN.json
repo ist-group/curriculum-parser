@@ -1,0 +1,534 @@
+{
+  "name" : "Hundkunskap",
+  "description" : "Hundar används i många sammanhang, som brukshundar och sällskapsdjur. Efterfrågan på yrkeskunnande i arbete med och fostran av hundar ökar. Ämnet hundkunskap behandlar skötsel och samspel med hundar samt skötsel av anläggningar och utrustning. Det behandlar också hundens ursprung och utveckling, hundars beteende och biologi, raser och rasegenskaper samt avel och uppfödning. Dessutom behandlas djuretik och lagar och andra bestämmelser som reglerar hundhållning.",
+  "code" : "HUN",
+  "designation" : "",
+  "skolfsId" : "2010:186",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet hundkunskap ska syfta till att eleverna utvecklar kunskaper för yrkesarbete med hundar.", "Eleverna ska ges möjlighet att utveckla förmåga att ta ansvar och följa fasta rutiner i arbete med hundar.", "Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att samspela med samt fostra och träna hundar.", "Vidare ska undervisningen leda till att eleverna utvecklar förmåga att handleda hundägare och hundförare mot specifika mål." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska dessutom bidra till att eleverna utvecklar förmåga att sköta och underhålla utrustning och anläggningar.", "I undervisningen ska eleverna ges möjlighet att utveckla förmåga att främja god hälsa hos hundar och förebygga skador och sjukdomar hos hundar.", "Undervisningen ska också bidra till att eleverna utvecklar kunskaper om lagar och andra bestämmelser som gäller i samband med arbete med hundar." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Praktiska övningar med hundar av olika raser och i olika miljöer ska ingå i undervisningen.", "Genom övningar ska eleverna ges möjlighet att utveckla förmåga att hantera beteendeproblem hos hundar." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet hundkunskap ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om olika hundraser och deras egenskaper, om användning av hundar samt om olika verksamheter inom hundhållning.", "Kunskaper om hundars näringsbehov och om olika fodermedel.", "Kunskaper om hundars anatomi och fysiologi samt om vanliga skador och sjukdomar hos hundar och hur dessa kan förebyggas.", "Kunskaper om hundavel och hunduppfödning samt om fostran och träning av hundar.", "Förmåga att planera arbetsuppgifter samt att sköta och hantera hundar på ett ansvarsfullt, etiskt och säkert sätt.", "Förmåga att sköta och hantera anläggningar och utrustning.", "Förmåga att fostra och träna hundar av olika raser för olika uppgifter.", "Förmåga att bemöta och hantera olika beteendeproblem hos hundar samt att instruera hundägare eller hundförare.", "Förmåga att arbeta ergonomiskt.", "Kunskaper om lagar och andra bestämmelser som rör hundhållning." ]
+  } ],
+  "courses" : [ {
+    "name" : "Hundkunskap 1",
+    "description" : "Kursen hundkunskap 1 omfattar punkterna 1–6 och 9–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 5 och 6.",
+    "code" : "HUNHUN01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Biologisk grund",
+      "lines" : [ "Vanliga hundraser och deras egenskaper, ursprung och användning.", "Olika verksamhetsområden för olika typer av hundar.", "Hundars naturliga beteende och mentala egenskaper samt olika beteendeproblem.", "Hundars näringsbehov.", "Hundars anatomi och fysiologi med fokus på exteriör och näringsfysiologi.", "Vanliga skador och sjukdomar samt förebyggande åtgärder.", "Reproduktion och uppfödning av hundar." ]
+    }, {
+      "heading" : "Arbetsuppgifter",
+      "lines" : [ "Daglig skötsel av hundar, till exempel utfodring, tillsyn, kontroll av utrustning och rengöring.", "Grundläggande hantering av hundar, samspel med hundar och träning av hundar mot uppsatta mål.", "Rastning av hundar samt olika metoder för att sysselsätta hundar och berika deras miljö.", "Arbete med bad, trimning och klippning.", "Förebyggande hälsovård samt vård av sjuka och skadade hundar.", "Skötsel av anläggningar och utrustning." ]
+    }, {
+      "heading" : "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+      "lines" : [ "Säkerhet vid arbete med hundar.", "Djurskyddslagstiftning och andra bestämmelser som rör hundhållning.", "Bestämmelser som reglerar utformning och skötsel av anläggningar avsedda för hundhållning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven namnger några vanliga hundraser och beskriver <strong>________</strong> deras egenskaper och användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven namnger några vanliga hundraser och beskriver <strong>översiktligt</strong> deras egenskaper och användningsområden.",
+          "C" : "Eleven namnger några vanliga hundraser och beskriver <strong>utförligt</strong> deras egenskaper och användningsområden.",
+          "A" : "Eleven namnger några vanliga hundraser och beskriver <strong>utförligt och nyanserat</strong> deras egenskaper och användningsområden."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> olika verksamhetsområden för olika typer av hundar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> olika verksamhetsområden för olika typer av hundar.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> olika verksamhetsområden för olika typer av hundar.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> olika verksamhetsområden för olika typer av hundar."
+        }
+      }, {
+        "text" : "I samband med arbete i hundstallar observerar eleven hundar samt redogör <strong>________</strong> för deras mentala egenskaper och för tecken på normalt och avvikande beteende.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I samband med arbete i hundstallar observerar eleven hundar samt redogör <strong>översiktligt</strong> för deras mentala egenskaper och för tecken på normalt och avvikande beteende.",
+          "C" : "I samband med arbete i hundstallar observerar eleven hundar samt redogör <strong>utförligt</strong> för deras mentala egenskaper och för tecken på normalt och avvikande beteende.",
+          "A" : "I samband med arbete i hundstallar observerar eleven hundar samt redogör <strong>utförligt och nyanserat</strong> för deras mentala egenskaper och för tecken på normalt och avvikande beteende."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för faktorer som bidrar till en god miljö för hundar samt för hundars näringsbehov.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för faktorer som bidrar till en god miljö för hundar samt för hundars näringsbehov.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för faktorer som bidrar till en god miljö för hundar samt för hundars näringsbehov.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för faktorer som bidrar till en god miljö för hundar samt för hundars näringsbehov."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för hundars anatomi och fysiologi samt för vanliga skador och sjukdomar hos hundar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för hundars anatomi och fysiologi samt för vanliga skador och sjukdomar hos hundar.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för hundars anatomi och fysiologi samt för vanliga skador och sjukdomar hos hundar.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för hundars anatomi och fysiologi samt för vanliga skador och sjukdomar hos hundar."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hundars reproduktion och uppfödning samt för grundläggande metoder för hundars fostran och träning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hundars reproduktion och uppfödning samt för grundläggande metoder för hundars fostran och träning.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hundars reproduktion och uppfödning samt för grundläggande metoder för hundars fostran och träning.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hundars reproduktion och uppfödning samt för grundläggande metoder för hundars fostran och träning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven följer arbetsinstruktioner och sköter och hanterar <strong>________</strong> med handledare hundar på ett ansvarsfullt, etiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven följer arbetsinstruktioner och sköter och hanterar <strong>i samråd</strong> med handledare hundar på ett ansvarsfullt, etiskt och säkert sätt.",
+          "C" : "Eleven följer arbetsinstruktioner och sköter och hanterar <strong>efter samråd</strong> med handledare hundar på ett ansvarsfullt, etiskt och säkert sätt.",
+          "A" : "Eleven följer arbetsinstruktioner och sköter och hanterar <strong>efter samråd</strong> med handledare hundar på ett ansvarsfullt, etiskt och säkert sätt."
+        }
+      }, {
+        "text" : "Dessutom sköter och hanterar eleven <strong>________</strong> med handledare anläggningar och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom sköter och hanterar eleven <strong>i samråd</strong> med handledare anläggningar och utrustning.",
+          "C" : "Dessutom sköter och hanterar eleven <strong>efter samråd</strong> med handledare anläggningar och utrustning.",
+          "A" : "Dessutom sköter och hanterar eleven <strong>efter samråd</strong> med handledare anläggningar och utrustning."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "I arbetet löser eleven <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt med hundar, tillhörande utrustning och vistelsemiljöer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt med hundar, tillhörande utrustning och vistelsemiljöer.",
+          "C" : "Eleven arbetar ergonomiskt med hundar, tillhörande utrustning och vistelsemiljöer.",
+          "A" : "Eleven arbetar ergonomiskt med hundar, tillhörande utrustning och vistelsemiljöer."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Hundkunskap 2",
+    "description" : "Kursen hundkunskap 2 omfattar punkterna 1–10 under rubriken Ämnets syfte, med särskild betoning på förmåga att planera arbetsuppgifter.",
+    "code" : "HUNHUN02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Biologisk grund",
+      "lines" : [ "Olika hundraser och deras egenskaper och särskilda behov.", "Olika verksamhetsområden för olika typer av hundar.", "Olika miljöfaktorer i hundars vistelsemiljöer, till exempel temperatur, ljus, bottenmaterial och tillgång till vatten. Miljöberikning för att stimulera djurens naturliga beteende.", "Foder, fodrets näringsinnehåll och kvalitet samt specifika foderbehov.", "Ekonomiska beräkningar och kalkyler.", "Vanliga hälsoproblem, skador och sjukdomar samt förebyggande åtgärder.", "Avel och uppfödning av hundar för olika användningsområden. Avelsplanering, avelsstrategi och avelsorganisation." ]
+    }, {
+      "heading" : "Arbetsuppgifter",
+      "lines" : [ "Utarbetande av planer för skötsel av hundar. Arbetsuppgifter utifrån uppgjord plan samt uppföljning och rapportering.", "Hantering av hundar, till exempel i samband med rastning och vid klippning, trimning och bad.", "Foderberäkning, val av foder och utfodring av hundar.", "Utarbetande och genomförande av planer för grundläggande fostran och träning av hundar mot uppsatta mål.", "Hundar som resurs i arbete med människor, till exempel inom vård, rehabilitering och socialt arbete.", "Rutiner för att upptäcka förändringar i hundars beteende som följd av skador och sjukdomar samt åtgärder för sjuka och skadade djur.", "Olika grenar inom hundsport." ]
+    }, {
+      "heading" : "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+      "lines" : [ "Säkerhet vid arbete med hundar.", "Djurskyddslagstiftning och andra bestämmelser som rör hundhållning.", "Bestämmelser som reglerar utformning och skötsel av anläggningar avsedda för hundhållning samt avel och uppfödning av hundar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven namnger ett omfattande antal hundraser och beskriver <strong>________</strong> deras egenskaper och användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven namnger ett omfattande antal hundraser och beskriver <strong>översiktligt</strong> deras egenskaper och användningsområden.",
+          "C" : "Eleven namnger ett omfattande antal hundraser och beskriver <strong>utförligt</strong> deras egenskaper och användningsområden.",
+          "A" : "Eleven namnger ett omfattande antal hundraser och beskriver <strong>utförligt och nyanserat</strong> deras egenskaper och användningsområden."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> olika verksamhetsområden för olika typer av hundar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> olika verksamhetsområden för olika typer av hundar.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> olika verksamhetsområden för olika typer av hundar.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> olika verksamhetsområden för olika typer av hundar."
+        }
+      }, {
+        "text" : "I samband med arbete i hundstallar observerar eleven hundar samt redogör <strong>________</strong> för deras mentala egenskaper och för tecken på normalt och avvikande beteende.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I samband med arbete i hundstallar observerar eleven hundar samt redogör <strong>översiktligt</strong> för deras mentala egenskaper och för tecken på normalt och avvikande beteende.",
+          "C" : "I samband med arbete i hundstallar observerar eleven hundar samt redogör <strong>utförligt</strong> för deras mentala egenskaper och för tecken på normalt och avvikande beteende.",
+          "A" : "I samband med arbete i hundstallar observerar eleven hundar samt redogör <strong>utförligt och nyanserat</strong> för deras mentala egenskaper och för tecken på normalt och avvikande beteende."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för hur miljön påverkar hundars välbefinnande, för hundars näringsbehov samt för vanliga skador och sjukdomar och hur dessa kan förebyggas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för hur miljön påverkar hundars välbefinnande, för hundars näringsbehov samt för vanliga skador och sjukdomar och hur dessa kan förebyggas.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för hur miljön påverkar hundars välbefinnande, för hundars näringsbehov samt för vanliga skador och sjukdomar och hur dessa kan förebyggas.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för hur miljön påverkar hundars välbefinnande, för hundars näringsbehov samt för vanliga skador och sjukdomar och hur dessa kan förebyggas."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för olika metoder för avel och uppfödning av hundar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för olika metoder för avel och uppfödning av hundar.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för olika metoder för avel och uppfödning av hundar.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för olika metoder för avel och uppfödning av hundar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare arbetsuppgifter i hundstallar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare arbetsuppgifter i hundstallar.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare arbetsuppgifter i hundstallar.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare arbetsuppgifter i hundstallar."
+        }
+      }, {
+        "text" : "I planeringen upprättar eleven en <strong>________</strong> skötselplan med utgångspunkt i hundarnas behov och anläggningens omfattning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen upprättar eleven en <strong>enkel</strong> skötselplan med utgångspunkt i hundarnas behov och anläggningens omfattning.",
+          "C" : "I planeringen upprättar eleven en <strong>genomarbetad</strong> skötselplan med utgångspunkt i hundarnas behov och anläggningens omfattning.",
+          "A" : "I planeringen upprättar eleven en <strong>genomarbetad</strong> skötselplan med utgångspunkt i hundarnas behov och anläggningens omfattning."
+        }
+      }, {
+        "text" : "Skötselplanen innehåller en <strong>________</strong> foderplan.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Skötselplanen innehåller en <strong>enkel</strong> foderplan.",
+          "C" : "Skötselplanen innehåller en <strong>genomarbetad</strong> foderplan.",
+          "A" : "Skötselplanen innehåller en <strong>genomarbetad</strong> foderplan."
+        }
+      }, {
+        "text" : "I foderplanen gör eleven <strong>________</strong> beräkningar av fodermängder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I foderplanen gör eleven <strong>enkla</strong> beräkningar av fodermängder.",
+          "C" : "I foderplanen gör eleven beräkningar av fodermängder.",
+          "A" : "I foderplanen gör eleven <strong>avancerade</strong> beräkningar av fodermängder."
+        }
+      }, {
+        "text" : "Dessutom motiverar eleven <strong>________</strong> sina val av utfodringsstrategier.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom motiverar eleven <strong>översiktligt</strong> sina val av utfodringsstrategier.",
+          "C" : "Dessutom motiverar eleven <strong>utförligt</strong> sina val av utfodringsstrategier.",
+          "A" : "Dessutom motiverar eleven <strong>utförligt och nyanserat</strong> sina val av utfodringsstrategier."
+        }
+      }, {
+        "text" : "Eleven gör <strong>________</strong> bedömningar av när och hur arbetsuppgifterna i hundstallarna ska genomföras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör <strong>enkla</strong> bedömningar av när och hur arbetsuppgifterna i hundstallarna ska genomföras.",
+          "C" : "Eleven gör <strong>välgrundade</strong> bedömningar av när och hur arbetsuppgifterna i hundstallarna ska genomföras.",
+          "A" : "Eleven gör <strong>välgrundade och nyanserade</strong> bedömningar av när och hur arbetsuppgifterna i hundstallarna ska genomföras."
+        }
+      }, {
+        "text" : "Eleven sköter och hanterar <strong>________</strong> med handledare hundar på ett ansvarsfullt, etiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven sköter och hanterar <strong>i samråd</strong> med handledare hundar på ett ansvarsfullt, etiskt och säkert sätt.",
+          "C" : "Eleven sköter och hanterar <strong>efter samråd</strong> med handledare hundar på ett ansvarsfullt, etiskt och säkert sätt.",
+          "A" : "Eleven sköter och hanterar <strong>efter samråd</strong> med handledare hundar på ett ansvarsfullt, etiskt och säkert sätt."
+        }
+      }, {
+        "text" : "Dessutom sköter och hanterar eleven <strong>________</strong> med handledare anläggningar och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom sköter och hanterar eleven <strong>i samråd</strong> med handledare anläggningar och utrustning.",
+          "C" : "Dessutom sköter och hanterar eleven <strong>efter samråd</strong> med handledare anläggningar och utrustning.",
+          "A" : "Dessutom sköter och hanterar eleven <strong>efter samråd</strong> med handledare anläggningar och utrustning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare fostran och träning av hundar av olika raser för olika uppgifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare fostran och träning av hundar av olika raser för olika uppgifter.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare fostran och träning av hundar av olika raser för olika uppgifter.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare fostran och träning av hundar av olika raser för olika uppgifter."
+        }
+      }, {
+        "text" : "I arbetet bemöter och hanterar eleven <strong>________</strong> vanliga beteendeproblem hos hundar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet bemöter och hanterar eleven <strong>med viss säkerhet</strong> vanliga beteendeproblem hos hundar.",
+          "C" : "I arbetet bemöter och hanterar eleven <strong>med viss säkerhet</strong> vanliga beteendeproblem hos hundar.",
+          "A" : "I arbetet bemöter och hanterar eleven <strong>med säkerhet</strong> vanliga beteendeproblem hos hundar."
+        }
+      }, {
+        "text" : "Dessutom instruerar eleven <strong>________</strong> hundägare eller hundförare om träning av hundar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom instruerar eleven <strong>med viss säkerhet</strong> hundägare eller hundförare om träning av hundar.",
+          "C" : "Dessutom instruerar eleven <strong>med viss säkerhet</strong> hundägare eller hundförare om träning av hundar.",
+          "A" : "Dessutom instruerar eleven <strong>med säkerhet</strong> hundägare eller hundförare om träning av hundar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "I arbetet löser eleven <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt med hundar, tillhörande utrustning och vistelsemiljöer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt med hundar, tillhörande utrustning och vistelsemiljöer.",
+          "C" : "Eleven arbetar ergonomiskt med hundar, tillhörande utrustning och vistelsemiljöer.",
+          "A" : "Eleven arbetar ergonomiskt med hundar, tillhörande utrustning och vistelsemiljöer."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Hundkunskap 3",
+    "description" : "Kursen hundkunskap 3 omfattar punkterna 1–10 under rubriken Ämnets syfte.",
+    "code" : "HUNHUN03",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Utrustning för olika verksamheter, produktkännedom och produkthantering.", "Olika hundorganisationer och deras verksamheter samt bestämmelser som reglerar verksamheterna.", "Arbetsuppgifter inom ett specialområde, till exempel hunddagis, uppfödning och avel, i butik med försäljning av hundartiklar samt i verksamheter som erbjuder olika hundtjänster.", "Skötsel av hundar och anläggningar inom olika verksamheter.", "Kundbemötande.", "Ergonomi samt arbetsmiljö- och säkerhetsfrågor.", "Lagar och andra bestämmelser inom området.", "Kvalitetsfrågor och ekonomi.", "Journalföring." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för utrustning och andra produkter som används inom aktuellt specialområde.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för utrustning och andra produkter som används inom aktuellt specialområde.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för utrustning och andra produkter som används inom aktuellt specialområde.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för utrustning och andra produkter som används inom aktuellt specialområde."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för olika hundorganisationer och deras verksamheter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för olika hundorganisationer och deras verksamheter.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för olika hundorganisationer och deras verksamheter.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för olika hundorganisationer och deras verksamheter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare arbetsuppgifter inom ett specialområde.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare arbetsuppgifter inom ett specialområde.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare arbetsuppgifter inom ett specialområde.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare arbetsuppgifter inom ett specialområde."
+        }
+      }, {
+        "text" : "Dessutom bemöter eleven <strong>________</strong> hundägare och andra kunder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom bemöter eleven <strong>med viss säkerhet</strong> hundägare och andra kunder.",
+          "C" : "Dessutom bemöter eleven <strong>med viss säkerhet</strong> hundägare och andra kunder.",
+          "A" : "Dessutom bemöter eleven <strong>med säkerhet</strong> hundägare och andra kunder."
+        }
+      }, {
+        "text" : "Arbetet utförs på ett ansvarsfullt, etiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet utförs på ett ansvarsfullt, etiskt och säkert sätt.",
+          "C" : "Arbetet utförs på ett ansvarsfullt, etiskt och säkert sätt.",
+          "A" : "Arbetet utförs på ett ansvarsfullt, etiskt och säkert sätt."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "I arbetet löser eleven <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt med hundar, tillhörande utrustning och vistelsemiljöer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt med hundar, tillhörande utrustning och vistelsemiljöer.",
+          "C" : "Eleven arbetar ergonomiskt med hundar, tillhörande utrustning och vistelsemiljöer.",
+          "A" : "Eleven arbetar ergonomiskt med hundar, tillhörande utrustning och vistelsemiljöer."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+        }
+      }, {
+        "text" : "När arbetet är utfört utvärderar eleven med <strong>________</strong> omdömen sitt arbete och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört utvärderar eleven med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+          "C" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
+          "A" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Dessutom för eleven <strong>________</strong> journalanteckningar över genomförda åtgärder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom för eleven <strong>enkla</strong> journalanteckningar över genomförda åtgärder.",
+          "C" : "Dessutom för eleven <strong>noggranna</strong> journalanteckningar över genomförda åtgärder.",
+          "A" : "Dessutom för eleven <strong>noggranna och utförliga</strong> journalanteckningar över genomförda åtgärder."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Träning av hund",
+    "description" : "Kursen träning av hund omfattar punkterna 1 och 7–10 under rubriken Ämnet syfte.",
+    "code" : "HUNTRN0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika användningsområden för hundar.", "Olika hundorganisationer och deras verksamheter.", "Skötsel av hundar i samband med träning.", "Utbildning, fostran och träning av hundar av olika raser och i olika åldrar.", "Träning av hundar mot uppsatta mål.", "Olika inlärningsmetoder vid träning av hundar.", "Analys av hundindividen och individuell anpassning av inlärningsmetoder.", "Hundars mentalitet och beteende.", "Beteendeproblem och problemlösning.", "Handledning av andra hundförare.", "Begrepp och uttryck inom hundsport i samband med träning av hundar.", "Risker vid hantering av hundar samt hur dessa risker kan förebyggas.", "Lagar och andra bestämmelser som reglerar träning av hundar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för rasegenskaper hos olika hundraser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för rasegenskaper hos olika hundraser.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för rasegenskaper hos olika hundraser.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för rasegenskaper hos olika hundraser."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för olika träningsmetoder för olika hundraser och användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för olika träningsmetoder för olika hundraser och användningsområden.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för olika träningsmetoder för olika hundraser och användningsområden.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för olika träningsmetoder för olika hundraser och användningsområden."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven följer arbetsinstruktioner och utför <strong>________</strong> med handledare fostran och träning av hundar av olika raser för olika uppgifter, på ett ansvarsfullt, etiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven följer arbetsinstruktioner och utför <strong>i samråd</strong> med handledare fostran och träning av hundar av olika raser för olika uppgifter, på ett ansvarsfullt, etiskt och säkert sätt.",
+          "C" : "Eleven följer arbetsinstruktioner och utför <strong>efter samråd</strong> med handledare fostran och träning av hundar av olika raser för olika uppgifter, på ett ansvarsfullt, etiskt och säkert sätt.",
+          "A" : "Eleven följer arbetsinstruktioner och utför <strong>efter samråd</strong> med handledare fostran och träning av hundar av olika raser för olika uppgifter, på ett ansvarsfullt, etiskt och säkert sätt."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> olika metoder för att träna hundar mot uppsatta mål samt samspelar <strong>________</strong> med hundar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> olika metoder för att träna hundar mot uppsatta mål samt samspelar <strong>med viss säkerhet</strong> med hundar.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> olika metoder för att träna hundar mot uppsatta mål samt samspelar <strong>med viss säkerhet</strong> med hundar.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> olika metoder för att träna hundar mot uppsatta mål samt samspelar <strong>med säkerhet</strong> med hundar."
+        }
+      }, {
+        "text" : "Dessutom bemöter och hanterar eleven <strong>________</strong> vanliga beteendeproblem hos hundar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom bemöter och hanterar eleven <strong>med viss säkerhet</strong> vanliga beteendeproblem hos hundar.",
+          "C" : "Dessutom bemöter och hanterar eleven <strong>med viss säkerhet</strong> vanliga beteendeproblem hos hundar.",
+          "A" : "Dessutom bemöter och hanterar eleven <strong>med säkerhet</strong> vanliga beteendeproblem hos hundar."
+        }
+      }, {
+        "text" : "Eleven instruerar <strong>________</strong> hundägare och hundförare om olika träningsmoment.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven instruerar <strong>med viss säkerhet</strong> hundägare och hundförare om olika träningsmoment.",
+          "C" : "Eleven instruerar <strong>med viss säkerhet</strong> hundägare och hundförare om olika träningsmoment.",
+          "A" : "Eleven instruerar <strong>med säkerhet</strong> hundägare och hundförare om olika träningsmoment."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "I arbetet löser eleven <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt med hundar, tillhörande utrustning och vistelsemiljöer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt med hundar, tillhörande utrustning och vistelsemiljöer.",
+          "C" : "Eleven arbetar ergonomiskt med hundar, tillhörande utrustning och vistelsemiljöer.",
+          "A" : "Eleven arbetar ergonomiskt med hundar, tillhörande utrustning och vistelsemiljöer."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

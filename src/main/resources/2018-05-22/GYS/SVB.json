@@ -1,0 +1,279 @@
+{
+  "name" : "Svenska",
+  "description" : "Ämnet svenska behandlar olika former av kommunikation mellan människor. Kärnan i ämnet är språket och litteraturen. I ämnet ingår kunskaper om språket, skönlitteratur och andra typer av texter för att lära känna sin omvärld, sina medmänniskor och sig själv.",
+  "code" : "SVB",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet svenska ska syfta till att eleverna utvecklar sin förmåga att kommunicera i tal och skrift.", "Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att anpassa språket till olika sammanhang och för olika syften.", "Undervisningen ska bidra till att eleverna fördjupar sin fantasi och lust att skapa med hjälp av språket, enskilt och tillsammans med andra." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar sin förmåga att läsa och reflektera över skönlitteratur och andra typer av texter.", "Eleverna ska också ges möjlighet att utveckla kunskaper om vad som kännetecknar olika slags texter och hur de är uppbyggda." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att använda skönlitteratur, andra typer av texter och film som en källa till självinsikt och förståelse för andra människors erfarenheter, livsvillkor, tankar och föreställningsvärldar.", "Undervisningen ska också bidra till att eleverna utvecklar kunskaper om berättande och kommunikation genom film och digitala medier." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska leda till att eleverna utvecklar kunskaper om det svenska språket samt förmåga att reflektera över olika former av språklig variation.", "Vidare ska undervisningen bidra till att eleverna utvecklar förmåga att söka, sammanställa och kritiskt granska information från olika källor." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska stimulera elevernas lust att tala, lyssna, skriva och läsa, och därmed stödja deras personliga utveckling.", "Eleverna ska ges möjlighet att bygga upp en tillit till sin egen språkförmåga och tillägna sig de språkliga redskap som krävs för vardags- och samhällslivet.", "De ska också ges möjlighet att utveckla sådana kunskaper om muntlig och skriftlig kommunikation som behövs i arbetslivet och för vidare studier." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges rikliga tillfällen att tala, lyssna, skriva och läsa.", "De ska också ges tillfälle att använda digitala verktyg i samband med detta." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet svenska ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förmåga att kommunicera i tal och skrift samt anpassa språket till syftet, mottagaren och sammanhanget.", "Förmåga att läsa och reflektera över skönlitteratur och andra typer av texter från olika medier.", "Förmåga att reflektera över olika former av språklig variation.", "Förmåga att söka, sammanställa och kritiskt granska information från olika källor." ]
+  } ],
+  "courses" : [ {
+    "name" : "Litteratur",
+    "description" : "Kursen litteratur omfattar punkterna 1–3 under rubriken Ämnets syfte.",
+    "code" : "SVBLIT5",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Skönlitterära texter, författade av både kvinnor och män, inom genrerna prosa, lyrik och dramatik. Centrala teman och motiv i fiktivt berättande.", "Högläsning och muntligt berättande för att förmedla en berättelse.", "Strategier för att förstå, tolka och analysera texter från olika medier samt för att urskilja texternas budskap, både de uttalade och sådant som står mellan raderna.", "Språkliga drag, uppbyggnad och berättarperspektiv i skönlitteratur. Parallellhandling, tillbakablickar, miljö- och personbeskrivningar samt inre och yttre dialoger.", "Ord och begrepp med anknytning till litteratur och skrivande, till exempel genrebegrepp som biografi och fantasy eller stilbegrepp som liknelse och metafor.", "Några skönlitterärt betydelsefulla barn-, ungdoms- och vuxenboksförfattare.", "Fördjupade studier av ett skönlitterärt tema, en genre eller ett författarskap." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven läser med <strong>________</strong> skönlitterära texter inom olika genrer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven läser med <strong>visst flyt</strong> skönlitterära texter inom olika genrer.",
+          "C" : "Eleven läser med <strong>flyt</strong> skönlitterära texter inom olika genrer.",
+          "A" : "Eleven läser med <strong>gott flyt</strong> skönlitterära texter inom olika genrer."
+        }
+      }, {
+        "text" : "Genom att reflektera över och <strong>________</strong> i att göra sammanfattningar av texternas innehåll visar eleven läsförståelse.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Genom att reflektera över och <strong>medverka</strong> i att göra sammanfattningar av texternas innehåll visar eleven läsförståelse.",
+          "C" : "Genom att reflektera över och göra <strong>enkla</strong> sammanfattningar av texternas innehåll visar eleven <strong>tillfredställande</strong> läsförståelse.",
+          "A" : "Genom att reflektera över och göra <strong>utvecklade</strong> sammanfattningar av texternas innehåll visar eleven <strong>god</strong> läsförståelse."
+        }
+      }, {
+        "text" : "Dessutom <strong>________</strong> eleven i att urskilja och beskriva texternas budskap.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom <strong>medverkar</strong> eleven i att urskilja och beskriva texternas budskap.",
+          "C" : "Dessutom urskiljer och beskriver eleven <strong>på ett enkelt sätt</strong> texternas budskap.",
+          "A" : "Dessutom urskiljer och beskriver eleven <strong>på ett utvecklat sätt</strong> texternas budskap."
+        }
+      }, {
+        "text" : "Utifrån ett tema, en genre eller ett författarskap <strong>________</strong> eleven i att jämföra olika verk och föra resonemang om likheter och skillnader.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Utifrån ett tema, en genre eller ett författarskap <strong>medverkar</strong> eleven i att jämföra olika verk och föra resonemang om likheter och skillnader.",
+          "C" : "Utifrån ett tema, en genre eller ett författarskap jämför eleven olika verk och för <strong>enkla</strong> resonemang om likheter och skillnader.",
+          "A" : "Utifrån ett tema, en genre eller ett författarskap jämför eleven olika verk och för <strong>utvecklade</strong> resonemang om likheter och skillnader."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att samtala om språkliga drag och språklig variation i skönlitteratur.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att samtala om språkliga drag och språklig variation i skönlitteratur.",
+          "C" : "Eleven samtalar <strong>på ett enkelt sätt</strong> om språkliga drag och språklig variation i skönlitteratur.",
+          "A" : "Eleven samtalar <strong>på ett utvecklat sätt</strong> om språkliga drag och språklig variation i skönlitteratur."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Skrivande",
+    "description" : "Kursen skrivande omfattar punkterna 1–3 under rubriken Ämnets syfte.",
+    "code" : "SVBSKR5",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Skrivande av informerande, berättande och argumenterande texter samt skönlitterära texter av olika slag, både efter mönster och efter förebilder.", "Olika sätt att skapa struktur och samband i en text, till exempel med hjälp av styckeindelning och sambandsord. Hur man skriver en varierad och intresseväckande text.", "Skapande av texter där ord, bild och ljud samspelar, till exempel film och digitala presentationer.", "Att ge konstruktiv respons samt arbeta med egna och andras texter.", "Centrala teman och motiv i fiktivt berättande.", "Ord och begrepp med anknytning till litteratur och skrivande, till exempel genrebegrepp som biografi och fantasy eller stilbegrepp som liknelse och metafor." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven skriver <strong>________</strong> texter och <strong>________</strong> i att anpassa texterna till syfte, mottagare och texttyp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven skriver <strong>mycket enkla</strong> texter och <strong>medverkar</strong> i att anpassa texterna till syfte, mottagare och texttyp.",
+          "C" : "Eleven skriver <strong>olika slags</strong> texter som är <strong>begripliga, delvis sammanhängande</strong> och <strong>delvis</strong> anpassade till syfte, mottagare och texttyp.",
+          "A" : "Eleven skriver <strong>olika slags</strong> texter som är <strong>tydliga, sammanhängande</strong> och anpassade till syfte, mottagare och texttyp."
+        }
+      }, {
+        "text" : "Genom att <strong>________</strong> i att kombinera olika texttyper, bilder och ljud så att de olika delarna samspelar förstärker och levandegör eleven sina texters budskap.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Genom att <strong>medverka</strong> i att kombinera olika texttyper, bilder och ljud så att de olika delarna samspelar förstärker och levandegör eleven sina texters budskap.",
+          "C" : "Genom att kombinera olika texttyper, bilder och ljud så att de olika delarna samspelar <strong>på ett delvis fungerande sätt</strong> förstärker och levandegör eleven sina texters budskap.",
+          "A" : "Genom att kombinera olika texttyper, bilder och ljud så att de olika delarna samspelar <strong>på ett fungerande sätt</strong> förstärker och levandegör eleven sina texters budskap."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att föra resonemang om språkliga och berättartekniska drag i olika typer av texter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att föra resonemang om språkliga och berättartekniska drag i olika typer av texter.",
+          "C" : "Eleven för <strong>enkla</strong> resonemang om språkliga och berättartekniska drag i olika typer av texter.",
+          "A" : "Eleven för <strong>utvecklade</strong> resonemang om språkliga och berättartekniska drag i olika typer av texter."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Svenska 1",
+    "description" : "Kursen svenska 1 innefattar punkterna 1–4 under rubriken Ämnets syfte.",
+    "code" : "SVBSVE51",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Muntlig kommunikation. Hur man samspelar i en dialog, formulerar och bemöter argument samt sammanfattar huvuddragen i vad som sagts.", "Muntlig framställning. Hur språket, innehållet och dispositionen kan anpassas till syftet och mottagaren. Hur man kan använda olika hjälpmedel för att planera och genomföra muntliga framställningar, till exempel stödord och digitala verktyg.", "Skrivande av texter för att kommunicera, lära och reflektera. Strategier för att skriva olika typer av texter som är anpassade till sammanhanget. Olika sätt att bearbeta egna texter till innehåll och form.", "Beskrivande, förklarande, instruerande och argumenterande texter från olika medier, till exempel tidningsartiklar, arbetsbeskrivningar och blogginlägg. Texternas innehåll, uppbyggnad och typiska språkliga drag.", "Skönlitteratur för ungdomar och vuxna från olika tider och kulturer. Berättande i film och andra medier där ord, bild och ljud samspelar. Olika genrer och berättarteknik i skönlitteratur, film och andra medier.", "Olika sätt att ta emot och ge respons på egna och andras muntliga framställningar samt texter.", "Lässtrategier för att förstå och tolka texter. Hur man urskiljer budskap, syfte, avsändare och sammanhang i texter från olika medier.", "Ordkunskap, språkriktighet och språkets struktur, till exempel stavningsregler, skiljetecken och tempus. Hjälpmedel för stavning och ordförståelse.", "Skillnader mellan formellt och informellt språkbruk. Ords och begrepps nyanser och värdeladdning.", "Språkliga strategier för att minnas och lära, till exempel genom att identifiera nyckelord.", "Informationssökning i olika medier och källor. Hur man bedömer informationens rimlighet samt hur texters avsändare påverkar innehållet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven deltar i samtal genom att <strong>________</strong> i att framföra och efterfråga tankar och åsikter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven deltar i samtal genom att <strong>medverka</strong> i att framföra och efterfråga tankar och åsikter.",
+          "C" : "Eleven deltar i samtal genom att framföra och efterfråga tankar och åsikter <strong>på ett sätt som till viss del för samtalet framåt</strong>.",
+          "A" : "Eleven deltar i samtal genom att framföra och efterfråga tankar och åsikter <strong>på ett sätt som för samtalet framåt</strong>."
+        }
+      }, {
+        "text" : "Dessutom <strong>________</strong> eleven i att genomföra muntliga presentationer med anpassning till syfte och mottagare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom <strong>medverkar</strong> eleven i att genomföra muntliga presentationer med anpassning till syfte och mottagare.",
+          "C" : "Dessutom genomför eleven <strong>enkla</strong> muntliga presentationer med <strong>viss</strong> anpassning till syfte och mottagare.",
+          "A" : "Dessutom genomför eleven <strong>utvecklade</strong> muntliga presentationer med anpassning till syfte och mottagare."
+        }
+      }, {
+        "text" : "Eleven skriver <strong>________</strong> texter och <strong>________</strong> i att anpassa texterna till sammanhanget.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven skriver <strong>mycket enkla</strong> texter och <strong>medverkar</strong> i att anpassa texterna till sammanhanget.",
+          "C" : "Eleven skriver texter som är <strong>begripliga, delvis sammanhängande</strong> och <strong>delvis</strong> anpassade till sammanhanget.",
+          "A" : "Eleven skriver texter som är <strong>tydliga, sammanhängande</strong> och anpassade till sammanhanget."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven läser texter med <strong>________</strong> flyt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven läser texter med <strong>visst</strong> flyt.",
+          "C" : "Eleven läser texter med <strong>flyt</strong>.",
+          "A" : "Eleven läser texter med <strong>gott flyt</strong>."
+        }
+      }, {
+        "text" : "Genom att reflektera över och <strong>________</strong> i att göra sammanfattningar av texternas innehåll visar eleven läsförståelse.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Genom att reflektera över och <strong>medverka</strong> i att göra sammanfattningar av texternas innehåll visar eleven läsförståelse.",
+          "C" : "Genom att reflektera över och göra <strong>enkla</strong> sammanfattningar av texternas innehåll visar eleven <strong>tillfredsställande</strong> läsförståelse.",
+          "A" : "Genom att reflektera över och göra <strong>utvecklade</strong> sammanfattningar av texternas innehåll visar eleven <strong>god</strong> läsförståelse."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att föra resonemang om skönlitteratur och andra typer av texter från olika medier.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att föra resonemang om skönlitteratur och andra typer av texter från olika medier.",
+          "C" : "Eleven för <strong>enkla</strong> resonemang om skönlitteratur och andra typer av texter från olika medier.",
+          "A" : "Eleven för <strong>utvecklade</strong> resonemang om skönlitteratur och andra typer av texter från olika medier."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att samtala om formellt och informellt språkbruk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att samtala om formellt och informellt språkbruk.",
+          "C" : "Eleven samtalar <strong>på ett enkelt sätt</strong> om formellt och informellt språkbruk.",
+          "A" : "Eleven samtalar <strong>på ett utvecklat sätt</strong> om formellt och informellt språkbruk."
+        }
+      }, {
+        "text" : "När eleven söker information <strong>________</strong> eleven i att föra resonemang om olika källors användbarhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven söker information <strong>medverkar</strong> eleven i att föra resonemang om olika källors användbarhet.",
+          "C" : "När eleven söker information för eleven <strong>enkla</strong> resonemang om olika källors användbarhet.",
+          "A" : "När eleven söker information för eleven <strong>utvecklade</strong> resonemang om olika källors användbarhet."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Svenska 2",
+    "description" : "Kursen svenska 2 innefattar punkterna 1–4 under rubriken Ämnets syfte.",
+    "code" : "SVBSVE52",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Muntlig information och argumentation, i och inför grupp. Vad som gör en muntlig presentation intressant och övertygande. Presentationstekniska hjälpmedel som stöd vid muntliga framställningar.", "Skrivande av berättande, informerande och argumenterande texter. Hur dessa texttyper är uppbyggda och deras typiska språkliga drag. Bearbetning av egna texter till innehåll och form.", "Hur man citerar och gör sammanfattningar.", "Lässtrategier för att förstå och tolka berättande, informerande och argumenterande texter från olika medier.", "Några betydelsefulla verk inom skönlitteratur, teater och film samt de historiska och kulturella sammanhang som verken har tillkommit i. Några betydelsefulla författare från Sverige och övriga världen.", "Dialekter och språklig variation och hur detta varierar mellan olika grupper av människor, till exempel beroende på ålder och social bakgrund. De nationella minoritetsspråken i Sverige." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven deltar i samtal genom att <strong>________</strong> i att framföra och efterfråga information, åsikter och argument.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven deltar i samtal genom att <strong>medverka</strong> i att framföra och efterfråga information, åsikter och argument.",
+          "C" : "Eleven deltar i samtal genom att framföra och efterfråga information, åsikter och argument <strong>på ett sätt som till viss del för samtalet framåt</strong>.",
+          "A" : "Eleven deltar i samtal genom att framföra och efterfråga information, åsikter och argument <strong>på ett sätt som för samtalet framåt</strong>."
+        }
+      }, {
+        "text" : "Dessutom <strong>________</strong> eleven i att genomföra muntliga presentationer med anpassning till syfte och mottagare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom <strong>medverkar</strong> eleven i att genomföra muntliga presentationer med anpassning till syfte och mottagare.",
+          "C" : "Dessutom genomför eleven <strong>enkla</strong> muntliga presentationer med <strong>viss</strong> anpassning till syfte och mottagare.",
+          "A" : "Dessutom genomför eleven <strong>utvecklade</strong> muntliga presentationer med anpassning till syfte och mottagare."
+        }
+      }, {
+        "text" : "Eleven skriver <strong>________</strong> texter och <strong>________</strong> i att anpassa texterna till sammanhanget.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven skriver <strong>mycket enkla</strong> texter och <strong>medverkar</strong> i att anpassa texterna till sammanhanget.",
+          "C" : "Eleven skriver texter som är <strong>begripliga, delvis sammanhängande</strong> och <strong>delvis</strong> anpassade till sammanhanget.",
+          "A" : "Eleven skriver texter som är <strong>tydliga, sammanhängande</strong> och anpassade till sammanhanget."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven läser texter med <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven läser texter med <strong>visst flyt</strong>.",
+          "C" : "Eleven läser texter med <strong>flyt</strong>.",
+          "A" : "Eleven läser texter med <strong>gott flyt</strong>."
+        }
+      }, {
+        "text" : "Genom att reflektera över och <strong>________</strong> i att göra sammanfattningar av texternas innehåll visar eleven läsförståelse.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Genom att reflektera över och <strong>medverka</strong> i att göra sammanfattningar av texternas innehåll visar eleven läsförståelse.",
+          "C" : "Genom att reflektera över och göra <strong>enkla</strong> sammanfattningar av texternas innehåll visar eleven <strong>tillfredsställande</strong> läsförståelse.",
+          "A" : "Genom att reflektera över och göra <strong>utvecklade</strong> sammanfattningar av texternas innehåll visar eleven <strong>god</strong> läsförståelse."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att föra resonemang om skönlitteratur och andra typer av texter från olika medier.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att föra resonemang om skönlitteratur och andra typer av texter från olika medier.",
+          "C" : "Eleven för <strong>enkla</strong> resonemang om skönlitteratur och andra typer av texter från olika medier.",
+          "A" : "Eleven för <strong>utvecklade</strong> resonemang om skönlitteratur och andra typer av texter från olika medier."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att samtala om variationer i svenska språket.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att samtala om variationer i svenska språket.",
+          "C" : "Eleven samtalar <strong>på ett enkelt sätt</strong> om variationer i svenska språket.",
+          "A" : "Eleven samtalar <strong>på ett utvecklat sätt</strong> om variationer i svenska språket."
+        }
+      }, {
+        "text" : "När eleven söker information <strong>________</strong> eleven i att föra resonemang om olika källors användbarhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven söker information <strong>medverkar</strong> eleven i att föra resonemang om olika källors användbarhet.",
+          "C" : "När eleven söker information för eleven <strong>enkla</strong> resonemang om olika källors användbarhet.",
+          "A" : "När eleven söker information för eleven <strong>utvecklade</strong> resonemang om olika källors användbarhet."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

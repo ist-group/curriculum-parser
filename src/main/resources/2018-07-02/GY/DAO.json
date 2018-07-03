@@ -1,0 +1,507 @@
+{
+  "name" : "Dator- och kommunikationsteknik",
+  "description" : "Ämnet dator- och kommunikationsteknik ger en grund för yrkesmässig verksamhet med installationer och underhåll av hård- och mjukvara. Ämnet behandlar också grundläggande elektronikkunskaper eftersom dator- och kommunikationsteknikens utrustningar och apparater är uppbyggda med elektronik.",
+  "code" : "DAO",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet dator- och kommunikationsteknik ska syfta till att eleverna utvecklar förmåga att arbeta med vanligt förekommande system och komponenter inom dator- och kommunikationsområdena.", "Genom undervisningen ska eleverna därför ges möjlighet att utveckla kunskaper om system, enheter, komponenter, metoder och arbetssätt som används när datorer är uppkopplade i befintliga nätverk.", "Eleverna ska också ges möjlighet att utveckla förmåga att lösa problem, utföra felsökningar och åtgärda fel, både självständigt och i samarbete med andra.", "Undervisningen ska utveckla elevernas kunskaper om datorsäkerhet och förmåga att arbeta med hänsyn till hållbar utveckling.", "Den ska även bidra till att eleverna utvecklar förmåga att möta och kommunicera med uppdragsgivare och användare på ett serviceinriktat sätt." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska varva praktiska och laborativa moment med teoretiska moment.", "Genom praktiska övningar ska eleverna ges möjlighet att utveckla förmåga att hantera och behandla teknisk utrustning.", "Eleverna ska även ges möjlighet att uttrycka sig både skriftligt och muntligt genom att dokumentera sitt arbete." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet dator- och kommunikationsteknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om uppbyggnad och funktion hos datorer, dator- och kommunikationssystem samt olika typer av nätverk.", "Färdigheter i att planera och utföra arbete i datorer samt i dator- och kommunikationssystem.", "Färdigheter i att utföra optimering, administration och diagnostisering av, samt åtgärda fel i, dator- och kommunikationssystem.", "Förmåga att använda instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt att dokumentera sitt arbete.", "Förmåga att ge stöd och support till användare på ett serviceinriktat sätt." ]
+  } ],
+  "courses" : [ {
+    "name" : "Dator- och nätverksteknik",
+    "description" : "Kursen dator- och nätverksteknik omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet. ",
+    "code" : "DAODAC0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Hård- och mjukvaruinstallation, uppbyggnad, konfigurering och uppgradering av datorer och datorsystem.", "Lokala nätverk, uppbyggnad och arbetssätt.", "Protokoll för dataöverföring via nätverk.", "Olika processortyper och deras användningsområden.", "Vanliga operativsystem och deras egenskaper.", "Prestanda för olika datalagringmedia. Lagring av data på optiska medier.", "Begreppen switchning och routning.", "Begreppet virtuella nät.", "Interna och externa bussar, deras användningsområden och prestanda.", "Säkerhetskopiering och virusskydd.", "Installation av kringutrustning och uppgradering av drivrutiner.", "Installation och underhåll av lokal skrivare.", "Konfigurering av grafikkort.", "Datorns start- och bootsekvenser samt inställning och uppgradering av dess BIOS (Basic Input/Output System) eller firmware.", "Kontroll och optimering av datorers och datorsystems prestanda och funktion.", "Felsökning i datorer och datorsystem." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> hur datorer och lokala nätverk är uppbyggda och fungerar samt hur driftsäkerhet uppnås.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur datorer och lokala nätverk är uppbyggda och fungerar samt hur driftsäkerhet uppnås.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur datorer och lokala nätverk är uppbyggda och fungerar samt hur driftsäkerhet uppnås.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur datorer och lokala nätverk är uppbyggda och fungerar samt hur driftsäkerhet uppnås. <strong>Dessutom redogör eleven utförligt och nyanserat för sambandet mellan de olika delarna som ingår i nätverkets uppbyggnad</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare och med <strong>________</strong> handlag hård- och mjukvaruinstallation, uppbyggnad, konfigurering, uppgradering, optimering och felsökning samt åtgärdar fel i datorer och datorsystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare och med <strong>visst</strong> handlag hård- och mjukvaruinstallation, uppbyggnad, konfigurering, uppgradering, optimering och felsökning samt åtgärdar fel i datorer och datorsystem.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare och med <strong>gott</strong> handlag hård- och mjukvaruinstallation, uppbyggnad, konfigurering, uppgradering, optimering och felsökning samt åtgärdar fel i datorer och datorsystem.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare och med <strong>mycket gott</strong> handlag <strong>avancerad</strong> hård- och mjukvaruinstallation, uppbyggnad, konfigurering, uppgradering, optimering och felsökning samt åtgärdar fel i datorer och datorsystem."
+        }
+      }, {
+        "text" : "Resultatet är <strong>________</strong> i fråga om funktion, säkerhet och kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet är <strong>tillfredsställande</strong> i fråga om funktion, säkerhet och kvalitet.",
+          "C" : "Resultatet är <strong>tillfredsställande</strong> i fråga om funktion, säkerhet och kvalitet.",
+          "A" : "Resultatet är <strong>gott</strong> i fråga om funktion, säkerhet och kvalitet."
+        }
+      }, {
+        "text" : "Dessutom installerar eleven <strong>________</strong> med handledare datorer i lokala nätverk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom installerar eleven <strong>i samråd</strong> med handledare datorer i lokala nätverk.",
+          "C" : "Dessutom installerar eleven <strong>efter samråd</strong> med handledare datorer i lokala nätverk.",
+          "A" : "Dessutom installerar eleven <strong>efter samråd</strong> med handledare datorer i lokala nätverk."
+        }
+      }, {
+        "text" : "Eleven hanterar med <strong>________</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar med <strong>visst</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+          "C" : "Eleven hanterar med <strong>gott</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+          "A" : "Eleven hanterar med <strong>mycket gott</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Datorsamordning och support",
+    "description" : "Kursen datorsamordning och support omfattar punkterna 2–5 under rubriken Ämnets syfte, med särskild betoning på punkt 5. ",
+    "code" : "DAODAT0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Grundläggande felsökningsmetodik.", "Systemintegration.", "Teknisk dokumentation av datorsystem.", "Kundmottagning och ärendehantering, till exempel muntlig kundmottagning, kundmottagning med e-post och andra typer av ärendehanteringssystem.", "Analysera användarkrav och översätta dem till konkreta lösningar.", "Pedagogisk handledning av it-system. Det pedagogiska tankesättet och kunskaper om tekniker för pedagogisk handledning, till exempel fjärrstyrning av muspekare.", "Licenstyper och licenshantering.", "Utvärdering och val av it-produkter på marknaden i dagsläget.", "Manualer och annan hjälpdokumentation för användare, till exempel enkel text, hypertext, bilder, filmer, inspelade musrörelser och menyhantering." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> hur kundmottagning kan bedrivas och hur ärendehanteringssystem är uppbyggda och fungerar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur kundmottagning kan bedrivas och hur ärendehanteringssystem är uppbyggda och fungerar.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur kundmottagning kan bedrivas och hur ärendehanteringssystem är uppbyggda och fungerar.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur kundmottagning kan bedrivas och hur ärendehanteringssystem är uppbyggda och fungerar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare och med <strong>________</strong> handlag felsökning samt åtgärdar <strong>________</strong> fel i datorer och datorsystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare och med <strong>visst</strong> handlag felsökning samt åtgärdar <strong>enkla</strong> fel i datorer och datorsystem.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare och med <strong>gott</strong> handlag felsökning samt åtgärdar fel i datorer och datorsystem.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare och med <strong>mycket gott</strong> handlag felsökning samt åtgärdar <strong>avancerade</strong> fel i datorer och datorsystem."
+        }
+      }, {
+        "text" : "Dessutom planerar och utför eleven <strong>________</strong> med handledare och <strong>________</strong> pedagogisk handledning och support till kund.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom planerar och utför eleven <strong>i samråd</strong> med handledare och <strong>med viss säkerhet</strong> pedagogisk handledning och support till kund.",
+          "C" : "Dessutom planerar och utför eleven <strong>efter samråd</strong> med handledare och <strong>med viss säkerhet</strong> pedagogisk handledning och support till kund.",
+          "A" : "Dessutom planerar och utför eleven <strong>efter samråd</strong> med handledare och <strong>med säkerhet</strong> pedagogisk handledning och support till kund."
+        }
+      }, {
+        "text" : "Resultatet är <strong>________</strong> i fråga om funktion, säkerhet och kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet är <strong>tillfredsställande</strong> i fråga om funktion, säkerhet och kvalitet.",
+          "C" : "Resultatet är <strong>tillfredsställande</strong> i fråga om funktion, säkerhet och kvalitet.",
+          "A" : "Resultatet är <strong>gott</strong> i fråga om funktion, säkerhet och kvalitet."
+        }
+      }, {
+        "text" : "Eleven hanterar med <strong>________</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar med <strong>visst</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+          "C" : "Eleven hanterar med <strong>gott</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+          "A" : "Eleven hanterar med <strong>mycket gott</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> instruktioner, manualer och andra dokument på både svenska och engelska samt gör en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument på både svenska och engelska samt gör en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument på både svenska och engelska samt gör en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner, manualer och andra dokument på både svenska och engelska samt gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Datorteknik 1a",
+    "description" : "Kursen datorteknik 1a omfattar punkterna 1–2 och 4 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "DAODAT01a",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Datorsystems uppbyggnad, komponenter och kringutrustningar.", "Grunderna i OSI-modellen (Open Systems Interconnection) och gällande standarder för datorkommunikation.", "Program, till exempel enklare kommunikationsprogram och applikationsprogram för mobila enheter.", "Enklare rit- och simuleringsprogram.", "Begreppen filer, filformat, komprimering och kryptering.", "Fältbussars användning inom till exempel industri-, el- och andra teknikområden.", "Rutiner för säkerhetskopiering och installation av virusskydd.", "ESD-säker hantering av mikroprocessorer och minnen (Electro Static Discharge).", "Planering, montering, konfigurering samt driftsättning av datorsystem för något av användningsområdena mätning, styrning, övervakning eller dokumentation.", "Installation och konfigurering av applikationsprogram.", "Installation och konfigurering av datorer i ett befintligt nätverk.", "Installation av skrivare och andra enheter i nätverk." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> hur dator- och kommunikationssystem är uppbyggda och fungerar samt hur driftsäkerhet och integritetsskydd uppnås i systemen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur dator- och kommunikationssystem är uppbyggda och fungerar samt hur driftsäkerhet och integritetsskydd uppnås i systemen.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur dator- och kommunikationssystem är uppbyggda och fungerar samt hur driftsäkerhet och integritetsskydd uppnås i systemen.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur dator- och kommunikationssystem är uppbyggda och fungerar samt hur driftsäkerhet och integritetsskydd uppnås i systemen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare och med <strong>________</strong> handlag hård- och mjukvaruinstallation, konfigurering och underhåll samt åtgärdar <strong>________</strong> fel i datorer och datorsystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare och med <strong>visst</strong> handlag hård- och mjukvaruinstallation, konfigurering och underhåll samt åtgärdar <strong>enkla</strong> fel i datorer och datorsystem.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare och med <strong>gott</strong> handlag hård- och mjukvaruinstallation, konfigurering och underhåll samt åtgärdar <strong>enkla</strong> fel i datorer och datorsystem.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare och med <strong>mycket gott</strong> handlag hård- och mjukvaruinstallation, konfigurering och underhåll samt åtgärdar <strong>enkla och även mer avancerade</strong> fel i datorer och datorsystem."
+        }
+      }, {
+        "text" : "Resultatet är <strong>________</strong> i fråga om funktion, säkerhet och kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet är <strong>tillfredsställande</strong> i fråga om funktion, säkerhet och kvalitet.",
+          "C" : "Resultatet är <strong>tillfredsställande</strong> i fråga om funktion, säkerhet och kvalitet.",
+          "A" : "Resultatet är <strong>gott</strong> i fråga om funktion, säkerhet och kvalitet."
+        }
+      }, {
+        "text" : "Dessutom installerar och konfigurerar eleven <strong>________</strong> med handledare datorer i ett befintligt nätverk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom installerar och konfigurerar eleven <strong>i samråd</strong> med handledare datorer i ett befintligt nätverk.",
+          "C" : "Dessutom installerar och konfigurerar eleven <strong>efter samråd</strong> med handledare datorer i ett befintligt nätverk.",
+          "A" : "Dessutom installerar och konfigurerar eleven <strong>efter samråd</strong> med handledare datorer i ett befintligt nätverk."
+        }
+      }, {
+        "text" : "Eleven hanterar med <strong>________</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar med <strong>visst</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+          "C" : "Eleven hanterar med <strong>gott</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+          "A" : "Eleven hanterar med <strong>mycket gott</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Datorteknik 1b",
+    "description" : "Kursen datorteknik 1b omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet. ",
+    "code" : "DAODAT01b",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Datorsystems uppbyggnad och arbetssätt.", "Grunderna i OSI-modellen (Open Systems Interconnection) och gällande standarder för datorkommunikation.", "Program, till exempel enklare kommunikationsprogram och applikationsprogram för mobila enheter.", "Begreppen filer, filformat, komprimering och kryptering.", "Rutiner för säkerhetskopiering och installation av virusskydd.", "Installation, konfigurering och driftsättning av datorsystem för till exempel administration, kommunikation, dokumentation och enklare affärssystem.", "Installation och konfigurering av applikationsprogram samt administration av behörigheter och lösenord.", "Installation och konfigurering av datorer i ett befintligt nätverk.", "Installation av skrivare och andra enheter i nätverk." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> hur dator- och kommunikationssystem är uppbyggda och fungerar samt hur driftsäkerhet och integritetsskydd uppnås i systemen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur dator- och kommunikationssystem är uppbyggda och fungerar samt hur driftsäkerhet och integritetsskydd uppnås i systemen.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur dator- och kommunikationssystem är uppbyggda och fungerar samt hur driftsäkerhet och integritetsskydd uppnås i systemen.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur dator- och kommunikationssystem är uppbyggda och fungerar samt hur driftsäkerhet och integritetsskydd uppnås i systemen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare och med <strong>________</strong> handlag hård- och mjukvaruinstallation, konfigurering samt <strong>________</strong> administration i datorer och datorsystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare och med <strong>visst</strong> handlag hård- och mjukvaruinstallation, konfigurering samt <strong>enkel</strong> administration i datorer och datorsystem.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare och med <strong>gott</strong> handlag hård- och mjukvaruinstallation, konfigurering samt <strong>enkel</strong> administration i datorer och datorsystem.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare och med <strong>mycket gott</strong> handlag hård- och mjukvaruinstallation, konfigurering samt <strong>enkel och även mer avancerad</strong> administration i datorer och datorsystem."
+        }
+      }, {
+        "text" : "Resultatet är <strong>________</strong> i fråga om funktion, säkerhet och kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet är <strong>tillfredsställande</strong> i fråga om funktion, säkerhet och kvalitet.",
+          "C" : "Resultatet är <strong>tillfredsställande</strong> i fråga om funktion, säkerhet och kvalitet.",
+          "A" : "Resultatet är <strong>gott</strong> i fråga om funktion, säkerhet och kvalitet."
+        }
+      }, {
+        "text" : "Dessutom installerar och konfigurerar eleven <strong>________</strong> med handledare datorer i ett befintligt nätverk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom installerar och konfigurerar eleven <strong>i samråd</strong> med handledare datorer i ett befintligt nätverk.",
+          "C" : "Dessutom installerar och konfigurerar eleven <strong>efter samråd</strong> med handledare datorer i ett befintligt nätverk.",
+          "A" : "Dessutom installerar och konfigurerar eleven <strong>efter samråd</strong> med handledare datorer i ett befintligt nätverk."
+        }
+      }, {
+        "text" : "Eleven hanterar med <strong>________</strong> handlag utrustning och programvaror samt utför arbetet på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar med <strong>visst</strong> handlag utrustning och programvaror samt utför arbetet på ett säkert sätt.",
+          "C" : "Eleven hanterar med <strong>gott</strong> handlag utrustning och programvaror samt utför arbetet på ett säkert sätt.",
+          "A" : "Eleven hanterar med <strong>mycket gott</strong> handlag utrustning och programvaror samt utför arbetet på ett säkert sätt."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Digital kommunikationsteknik",
+    "description" : " Kursen digital kommunikationsteknik omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet. ",
+    "code" : "DAODIG0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Operativsystem för mobila enheter.", "Kommunikationsnät för mobila datorutrustningar.", "Datakommunikation via satellit.", "Referensmodeller och standarder för datakommunikation.", "Integritetsaspekter och säkerhet vid användning av trådlösa enheter.", "Installation och konfigurering av trådlösa enheter och kommunikationssystem i olika miljöer.", "Konfigurering, uppgradering och installation av applikationer i mobila enheter.", "Antennteknik och antenner för trådlösa nät.", "Konfigurering av trådlösa accesspunkter.", "Inställning av trådlösa nätverkskort.", "Installation och konfigurering av bryggor, routrar och gateways.", "Konfigurering av säkerhetsfunktioner och kryptering.", "Felsökning i trådlösa lokala nätverk och utrustningar.", "Kontroll och uppmätning av överföringshastigheter och signalstyrkor.", "Metoder för diagnostisering, spårning och felsökning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> uppbyggnad, funktion och arbetssätt hos lokala nätverk, trådlösa nätverk och internationella kommunikationsnät samt hur driftsäkerhet uppnås.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> uppbyggnad, funktion och arbetssätt hos lokala nätverk, trådlösa nätverk och internationella kommunikationsnät samt hur driftsäkerhet uppnås.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> uppbyggnad, funktion och arbetssätt hos lokala nätverk, trådlösa nätverk och internationella kommunikationsnät samt hur driftsäkerhet uppnås.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> uppbyggnad, funktion och arbetssätt hos lokala nätverk, trådlösa nätverk och internationella kommunikationsnät samt hur driftsäkerhet uppnås. <strong>Dessutom redogör eleven utförligt och nyanserat för sambandet mellan de olika delarna som ingår i digitala kommunikationssystem</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare och med <strong>________</strong> handlag installation, konfigurering, diagnostisering, spårning och enkel felsökning samt åtgärdar <strong>________</strong> fel i digitala kommunikationssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare och med <strong>visst</strong> handlag installation, konfigurering, diagnostisering, spårning och enkel felsökning samt åtgärdar <strong>enkla</strong> fel i digitala kommunikationssystem.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare och med <strong>gott</strong> handlag installation, konfigurering, diagnostisering, spårning och enkel felsökning samt åtgärdar fel i digitala kommunikationssystem.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare och med <strong>mycket gott</strong> handlag <strong>avancerad</strong> installation, konfigurering, diagnostisering, spårning och felsökning samt åtgärdar <strong>avancerade</strong> fel i digitala kommunikationssystem."
+        }
+      }, {
+        "text" : "Resultatet är <strong>________</strong> i fråga om funktion, säkerhet och kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet är <strong>tillfredsställande</strong> i fråga om funktion, säkerhet och kvalitet.",
+          "C" : "Resultatet är <strong>tillfredsställande</strong> i fråga om funktion, säkerhet och kvalitet.",
+          "A" : "Resultatet är <strong>gott</strong> i fråga om funktion, säkerhet och kvalitet."
+        }
+      }, {
+        "text" : "Eleven hanterar med <strong>________</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar med <strong>visst</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+          "C" : "Eleven hanterar med <strong>gott</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+          "A" : "Eleven hanterar med <strong>mycket gott</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Industriell informationsteknik",
+    "description" : "Kursen industriell informationsteknik omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "DAOINU0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Vanligt förekommande övergripande programvaror för kontroll, övervakning och datainsamling inom elkrafts- och energidistribution och i fastigheter, tillverknings- och processindustrin, till exempel SCADA (Supervisory Control and Data Acquisition).", "HMI (Human Machine Interface), dvs. användning av programvara för visualisering av data i realtid till ett säkert och lättolkat gränssnitt.", "Vanligt förekommande fältbussar och trådlös informationsteknik inom elkrafts- och energidistribution, i fastigheter samt i tillverknings- och processindustrin.", "Driftsäkerhet och spårbarhet inom industriell informationsteknik.", "Planering, montering, konfigurering och driftsättning av industriell informationsteknisk hårdvara för datainsamling från mät-, styr- eller reglerteknisk applikation till persondator. Till exempel adresserad I/O-enhet (Input/Output), som kan läsa en mätgivares värde till datorn.", "Installation och konfigurering av industriell programvara för datainsamling, till exempel OPC-server och -klient (Open Connectivity).", "Analyser och bedömningar av insamlad data, med avseende på till exempel datakvalitet och funktion.", "Tolkning av dokumentation, till exempel hård- och mjukvarors manualer.", "Metoder för systematisk dokumentation i projekt, till exempel PDM (Product Data Management).", "Systematisk dokumentation, med hjälp av till exempel loggningsdata eller databashanterare." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> hur industriell mjukvara och industriell informationsteknisk hårdvara är uppbyggd och fungerar samt hur driftsäkerhet och spårbarhet kan uppnås.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur industriell mjukvara och industriell informationsteknisk hårdvara är uppbyggd och fungerar samt hur driftsäkerhet och spårbarhet kan uppnås.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur industriell mjukvara och industriell informationsteknisk hårdvara är uppbyggd och fungerar samt hur driftsäkerhet och spårbarhet kan uppnås.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur industriell mjukvara och industriell informationsteknisk hårdvara är uppbyggd och fungerar samt hur driftsäkerhet och spårbarhet kan uppnås."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare och med <strong>________</strong> handlag installation, konfigurering, driftsättning och felsökning samt åtgärdar fel i industriell informationsteknisk hårdvara för insamling av data.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare och med <strong>visst</strong> handlag installation, konfigurering, driftsättning och felsökning samt åtgärdar fel i industriell informationsteknisk hårdvara för insamling av data.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare och med <strong>gott</strong> handlag installation, konfigurering, driftsättning och felsökning samt åtgärdar fel i industriell informationsteknisk hårdvara för insamling av data.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare och med <strong>mycket gott</strong> handlag installation, konfigurering, driftsättning och felsökning samt åtgärdar fel i industriell informationsteknisk hårdvara för insamling av data."
+        }
+      }, {
+        "text" : "Dessutom planerar och utför eleven <strong>________</strong> med handledare och med <strong>________</strong> handlag installation och konfigurering av industriell mjukvara för lagring och visualisering av data.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom planerar och utför eleven <strong>i samråd</strong> med handledare och med <strong>visst</strong> handlag installation och konfigurering av industriell mjukvara för lagring och visualisering av data.",
+          "C" : "Dessutom planerar och utför eleven <strong>efter samråd</strong> med handledare och med <strong>gott</strong> handlag installation och konfigurering av industriell mjukvara för lagring och visualisering av data.",
+          "A" : "Dessutom planerar och utför eleven <strong>efter samråd</strong> med handledare och med <strong>mycket gott</strong> handlag installation och konfigurering av industriell mjukvara för lagring och visualisering av data."
+        }
+      }, {
+        "text" : "Resultatet är <strong>________</strong> i fråga om funktion, säkerhet och kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet är <strong>tillfredsställande</strong> i fråga om funktion, säkerhet och kvalitet.",
+          "C" : "Resultatet är <strong>tillfredsställande</strong> i fråga om funktion, säkerhet och kvalitet.",
+          "A" : "Resultatet är <strong>gott</strong> i fråga om funktion, säkerhet och kvalitet."
+        }
+      }, {
+        "text" : "Eleven hanterar med <strong>________</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar med <strong>visst</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+          "C" : "Eleven hanterar med <strong>gott</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+          "A" : "Eleven hanterar med <strong>mycket gott</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> bedömning av kvaliteten på insamlad data.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> bedömning av kvaliteten på insamlad data.",
+          "C" : "Dessutom gör eleven en <strong>välgrundad</strong> bedömning av kvaliteten på insamlad data.",
+          "A" : "Dessutom gör eleven en <strong>välgrundad och nyanserad</strong> bedömning av kvaliteten på insamlad data."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Multimediasystem",
+    "description" : "Kursen multimediasystem omfattar punkterna 1–5 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "DAOMUL0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Konfigurering, anpassning och sammankoppling av olika enheter till ett fungerande multimediasystem.", "Konfigurering av grafikkort mot bildskärmar, tv och projektorer samt installation av utrustning för videokonferenser.", "Konfigurering av mediaspelare och webbläsare.", "Nätverksfunktioner och konfigurering av tv-apparater, dekodrar och tv-kort till datorer.", "Installation och konfigurering av ip-telefonutrustning (internetprotokoll).", "Konfigurering av digitala ljudkort och ljudsystem och inkoppling av högtalarsystem.", "Installation av server för hemmabruk.", "Installation av olika kommunikationsprogram för snabbmeddelanden och sociala medier.", "Anpassning av molntjänster och internetbaserade tjänster.", "Kodningsmetoder och skydd av upphovsrätten.", "Systematisk felsökning och åtgärdande av enkla fel.", "Stöd och support till användare av multimediadatorer och multimediasystem.", "Konsumenttjänstlagen vid support och hemservice." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> uppbyggnad, funktion och arbetssätt hos multimediasystem samt hur driftsäkerhet uppnås.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> uppbyggnad, funktion och arbetssätt hos multimediasystem samt hur driftsäkerhet uppnås.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> uppbyggnad, funktion och arbetssätt hos multimediasystem samt hur driftsäkerhet uppnås.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> uppbyggnad, funktion och arbetssätt hos multimediasystem samt hur driftsäkerhet uppnås. <strong>Dessutom redogör eleven utförligt och nyanserat för sambandet mellan de olika delarna som ingår i multimediasystemets uppbyggnad</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare och med <strong>________</strong> handlag installation, konfigurering, sammankoppling av enheter och enkel systematisk felsökning samt åtgärdar <strong>________</strong> fel i multimediasystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare och med <strong>visst</strong> handlag installation, konfigurering, sammankoppling av enheter och enkel systematisk felsökning samt åtgärdar <strong>enkla</strong> fel i multimediasystem.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare och med <strong>gott</strong> handlag installation, konfigurering, sammankoppling av enheter och enkel systematisk felsökning samt åtgärdar <strong>enkla</strong> fel i multimediasystem.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare och med <strong>mycket gott</strong> handlag <strong>avancerad</strong> installation, konfigurering, sammankoppling av enheter och systematisk felsökning samt åtgärdar fel i multimediasystem."
+        }
+      }, {
+        "text" : "Resultatet är <strong>________</strong> i fråga om funktion, säkerhet och kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet är <strong>tillfredsställande</strong> i fråga om funktion, säkerhet och kvalitet.",
+          "C" : "Resultatet är <strong>tillfredsställande</strong> i fråga om funktion, säkerhet och kvalitet.",
+          "A" : "Resultatet är <strong>gott</strong> i fråga om funktion, säkerhet och kvalitet."
+        }
+      }, {
+        "text" : "Eleven hanterar med <strong>________</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar med <strong>visst</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+          "C" : "Eleven hanterar med <strong>gott</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+          "A" : "Eleven hanterar med <strong>mycket gott</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven ger <strong>________</strong> stöd och support till användare på ett serviceinriktat sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven ger <strong>med viss säkerhet</strong> stöd och support till användare på ett serviceinriktat sätt.",
+          "C" : "Eleven ger <strong>med viss säkerhet</strong> stöd och support till användare på ett serviceinriktat sätt.",
+          "A" : "Eleven ger <strong>med säkerhet</strong> stöd och support till användare på ett serviceinriktat sätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

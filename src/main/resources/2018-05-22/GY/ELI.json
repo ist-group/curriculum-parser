@@ -1,0 +1,115 @@
+{
+  "name" : "Elmotordrivsystem",
+  "description" : "Ämnet elmotordrivsystem behandlar olika typer av elmotorer och deras drivsystem. Elmotordrivsystem finns i olika typer av automatiserade maskiner inom industrin, men är också allmänt förekommande i samhället, till exempel i hissar, skrivare och kaffeautomater.",
+  "code" : "ELI",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet elmotordrivsystem ska syfta till att eleverna utvecklar kunskaper i att planera och utföra arbete på elmotordrivsystem med hjälp av systemdokumentation, till exempel ritningar och manualer.", "Undervisningen ska även leda till att eleverna utvecklar förståelse av hur informationsteknik kan användas vid arbete med elmotordrivsystem.", "Dessutom ska eleverna ges möjlighet att utveckla förmåga att hantera verktyg och utrustning inom valt område." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar förståelse av säkerhet, standarder och begrepp samt färdigheter i att tillämpa dessa.", "Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att förebygga och avhjälpa fel i elmotordrivsystem.", "Dessutom ska undervisningen ge eleverna möjlighet att utveckla teoretisk förståelse av begrepp, teorier och metoder." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom både praktiskt och teoretiskt arbete med uppgifter ska eleverna ges möjlighet att öva sig i att arbeta enligt yrkespraxis." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet elmotordrivsystem ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om uppbyggnad av, funktion och principer för samt de risker som finns vid arbete med elmotordrivsystem.", "Kunskaper om standarder och begrepp som används vid arbete med elmotordrivsystem.", "Förmåga att planera och på ett säkert sätt utföra arbete i elmotordrivsystem.", "Förmåga att läsa och framställa scheman, ritningar och annan dokumentation över elmotordrivsystem.", "Förmåga att installera, programmera och driftsätta elmotordrivsystem.", "Färdigheter i att använda informationsteknik som stöd vid byggnation, drift och underhåll av elmotordrivsystem.", "Förmåga att förebygga och avhjälpa fel i elmotordrivsystem." ]
+  } ],
+  "courses" : [ {
+    "name" : "Elmotordrivsystem",
+    "description" : "Kursen elmotordrivsystem omfattar punkterna 1–7 under rubriken Ämnets syfte.",
+    "code" : "ELIELD0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika elmotorers uppbyggnad och egenskaper, till exempel asynkronmotorn, AC-servomotorn, synkronmotorn, PM-motorn, olika stegmotorer och elektroniskt kommuterade motorer.", "Vanliga systemlösningar för elmotordrivsystem, till exempel modulära plc med färdiga funktionsblock.", "Dimensionering av elmotorer och mekanik utifrån nyckelfaktorer, till exempel utväxling, tröghetsmoment, varvtal, moment och ström.", "Energieffektivitet hos elmotorer med ekodesignförordningen.", "Riskanalys av elmotordrivsystem i anläggning.", "Standarder, bestämmelser, begrepp och säkerhet inom området, till exempel maskindirektivet.", "Metoder för att mäta och åtgärda övertoner och reaktiva effekter i elmotordrivsystem.", "Metoder för att mäta hastighet och position hos olika elmotordrivsystem med till exempel takometer, resolver och olika pulsgivare.", "Metoder för att positionera samt styra eller reglera hastighet och moment för olika elmotortyper.", "Konfigurering av elmotordrivsystem för varvtalsreglering av elmotorer.", "Installation av elmotorer med tillhörande skyddsanordningar.", "Installation av elmotordrivsystem.", "Val av ledningar och jordningar med hänsyn till störningar, lagerströmmar och olika miljöer.", "Dokumentation av elmotordrivsystem.", "Informationsteknik och fältbussar i elmotordrivsystem, till exempel CAN-buss (controller area network) med informationsutbyte mot överordnat system och AS-i (Actuator Sensor Interface) som kontrollerande säkerhetsbuss.", "Driftsättning, felsökning, felavhjälpning och underhåll av olika elmotordrivsystem med tillhörande skyddsanordningar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom valt område.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom valt område.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom valt område.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom valt område."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för begrepp och standarder som styr arbetet med elmotordrivsystem inom valt område.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för begrepp och standarder som styr arbetet med elmotordrivsystem inom valt område.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för begrepp och standarder som styr arbetet med elmotordrivsystem inom valt område.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för begrepp och standarder som styr arbetet med elmotordrivsystem inom valt område."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>________</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>gott</strong> sätt uppfyller fastställda kvalitets- och miljökrav."
+        }
+      }, {
+        "text" : "Eleven arbetar på ett sätt som är säkert för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar på ett sätt som är säkert för eleven själv och andra.",
+          "C" : "Eleven arbetar på ett sätt som är säkert för eleven själv och andra.",
+          "A" : "Eleven arbetar på ett sätt som är säkert för eleven själv och andra."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> manualer, scheman och ritningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> manualer, scheman och ritningar.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> manualer, scheman och ritningar.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> manualer, scheman och ritningar."
+        }
+      }, {
+        "text" : "Vidare driftsätter och kontrollerar eleven <strong>________</strong> med handledare anläggningen, upptäcker och åtgärdar <strong>________</strong> med handledare de fel som uppstår samt genomför en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare driftsätter och kontrollerar eleven <strong>i samråd</strong> med handledare anläggningen, upptäcker och åtgärdar <strong>i samråd</strong> med handledare de fel som uppstår samt genomför en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "Vidare driftsätter och kontrollerar eleven <strong>efter samråd</strong> med handledare anläggningen, upptäcker och åtgärdar <strong>efter samråd</strong> med handledare de fel som uppstår samt genomför en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "Vidare driftsätter och kontrollerar eleven <strong>efter samråd</strong> med handledare anläggningen, upptäcker och åtgärdar <strong>efter samråd</strong> med handledare de fel som uppstår samt genomför en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      }, {
+        "text" : "Eleven strukturerar uppgiften <strong>________</strong> och programmerar eller konfigurerar med <strong>________</strong> handlag styrsystemet för anläggningens funktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven strukturerar uppgiften <strong>med viss säkerhet</strong> och programmerar eller konfigurerar med <strong>visst</strong> handlag styrsystemet för anläggningens funktioner.",
+          "C" : "Eleven strukturerar uppgiften <strong>med viss säkerhet</strong> och programmerar eller konfigurerar med <strong>gott</strong> handlag styrsystemet för anläggningens funktioner.",
+          "A" : "Eleven strukturerar uppgiften <strong>med säkerhet</strong> och programmerar eller konfigurerar med <strong>mycket gott</strong> handlag styrsystemet för anläggningens funktioner."
+        }
+      }, {
+        "text" : "Vidare förebygger eleven <strong>________</strong> med handledare fel och optimerar med <strong>________</strong> handlag anläggningen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare förebygger eleven <strong>i samråd</strong> med handledare fel och optimerar med <strong>visst</strong> handlag anläggningen.",
+          "C" : "Vidare förebygger eleven <strong>efter samråd</strong> med handledare fel och optimerar med <strong>gott</strong> handlag anläggningen.",
+          "A" : "Vidare förebygger eleven <strong>efter samråd</strong> med handledare fel och optimerar med <strong>mycket gott</strong> handlag anläggningen."
+        }
+      }, {
+        "text" : "I arbetet beskriver eleven <strong>________</strong> hur de olika delarna fungerar och samverkar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet beskriver eleven <strong>översiktligt</strong> hur de olika delarna fungerar och samverkar.",
+          "C" : "I arbetet beskriver eleven <strong>utförligt</strong> hur de olika delarna fungerar och samverkar <strong>samt ger enkla förslag på förbättringar av anläggningen</strong>.",
+          "A" : "I arbetet beskriver eleven <strong>utförligt och nyanserat</strong> hur de olika delarna fungerar och samverkar <strong>samt ger välgrundade förslag på förbättringar av anläggningen</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

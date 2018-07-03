@@ -1,0 +1,341 @@
+{
+  "name" : "Samhällsbyggande",
+  "description" : "Ämnet samhällsbyggande behandlar byggprocessens olika delar samt byggmaterial, byggnadsteknik och installationsteknik.",
+  "code" : "SAH",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet samhällsbyggande ska syfta till att eleverna utvecklar kunskaper om byggprocessen från stadsplanering till fastighetsförvaltning och dess roll i samhällsbyggandet.", "Undervisningen ska leda till att eleverna utvecklar förståelse av vilka aktörer som är involverade i de olika skedena, hur byggprocessen organiseras och vilka lagar och regler som är tillämpliga." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla förståelse av sambandet mellan byggnadsteknik, installationsteknik, byggnadsfysik och byggnadsmaterial för hållbara byggnadsverk.", "Den ska även ge eleverna möjlighet att utveckla grundläggande kunskaper om installationsteknik främst inom VVS- och elområdet." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om byggprojektledning inom projektering och produktion, främst inom produktionsplanering och kvalitets- och miljöarbete.", "Eleverna ska även ges möjlighet att utveckla grundläggande kunskaper om vanliga avtalsformer för projektering och produktion samt om formerna för kontraktsskrivning mellan byggprocessens parter." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Eleverna ska ges möjlighet att arbeta i verklighetsnära projekt med koppling till teknikområdet." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet samhällsbyggande ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om byggnadsmaterial samt om byggnadsteknik, konstruktionselement och olika typer av byggnader och anläggningar.", "Kunskaper om byggnadsfysik samt om vanligt förekommande funktionskrav.", "Kunskaper om installationstekniska system för ventilation, värme, sanitet och el i byggnader samt om samhällets tekniska system för vatten och avlopp.", "Kunskaper om vanligt förekommande funktionskrav för belysning, el, värme och komfort, vattenkvalitet, luftväxling och ljud.", "Kunskaper om vanligt förekommande installationers uppbyggnad och hur dessa är redovisade och dokumenterade i ritningar och scheman.", "Kunskaper om byggprocessens olika skeden samt om byggprojektets genomförandeformer och organisation.", "Kunskaper om planering i projekterings- och utförandeskedet.", "Kunskaper om lagar och andra bestämmelser inom området.", "Kunskaper om kvalitets-, miljö- och arbetsmiljöledningssystem.", "Förmåga att planera, genomföra och dokumentera miljöklassning av byggnader." ]
+  } ],
+  "courses" : [ {
+    "name" : "BIM-samordning",
+    "description" : "Kursen BIM-samordning omfattar punkterna 6–9 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "SAHBIM0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "BIM (Building Information Modelling).", "Projektering, förvaltning, projektstyrning, ledarskap, organisation och kommunikation enligt BIM-metodik.", "3D-projektering och samgranskning.", "Modellinformation och databaser i BIM-projektering.", "Avtalsrätt och ABK (allmänna bestämmelser för konsultuppdrag) inom arkitekt- och ingenjörsverksamhet.", "Hållbart byggande. Effekt- och energibehov. Ekonomi och material." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för hur BIM påverkar projektering, produktion och förvaltning av byggnaden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för hur BIM påverkar projektering, produktion och förvaltning av byggnaden.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för hur BIM påverkar projektering, produktion och förvaltning av byggnaden.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för hur BIM påverkar projektering, produktion och förvaltning av byggnaden."
+        }
+      }, {
+        "text" : "Eleven för <strong>________</strong> resonemang om projektstyrning, ledarskap, organisation, kommunikation och samgranskning enligt BIM-metodiken.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven för <strong>enkla</strong> resonemang om projektstyrning, ledarskap, organisation, kommunikation och samgranskning enligt BIM-metodiken.",
+          "C" : "Eleven för <strong>välgrundade</strong> resonemang om projektstyrning, ledarskap, organisation, kommunikation och samgranskning enligt BIM-metodiken.",
+          "A" : "Eleven för <strong>välgrundade och nyanserade</strong> resonemang om projektstyrning, ledarskap, organisation, kommunikation och samgranskning enligt BIM-metodiken."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för hur datorverktyg används vid hantering av virtuella modeller.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för hur datorverktyg används vid hantering av virtuella modeller.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för hur datorverktyg används vid hantering av virtuella modeller.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för hur datorverktyg används vid hantering av virtuella modeller."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för vad som styr en projektering gällande avtal och kontrakt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för vad som styr en projektering gällande avtal och kontrakt.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för vad som styr en projektering gällande avtal och kontrakt.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för vad som styr en projektering gällande avtal och kontrakt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för hur allmän avtalsrätt och ABK påverkar projekteringens utformning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för hur allmän avtalsrätt och ABK påverkar projekteringens utformning.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för hur allmän avtalsrätt och ABK påverkar projekteringens utformning.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för hur allmän avtalsrätt och ABK påverkar projekteringens utformning."
+        }
+      }, {
+        "text" : "Eleven gör <strong>________</strong> jämförelser av energi- och effektbehov, ekonomi och material baserade på BIM-projektering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör <strong>enkla</strong> jämförelser av energi- och effektbehov, ekonomi och material baserade på BIM-projektering.",
+          "C" : "Eleven gör <strong>noggranna</strong> jämförelser av energi- och effektbehov, ekonomi och material baserade på BIM-projektering.",
+          "A" : "Eleven gör <strong>noggranna och utförliga</strong> jämförelser av energi- och effektbehov, ekonomi och material baserade på BIM-projektering."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Byggnadsverk",
+    "description" : "Kursen byggnadsverk omfattar punkterna 1-5 under rubriken Ämnets syfte.",
+    "code" : "SAHBYV0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Byggnadsteknik och konstruktionselement inom husbyggnad och anläggning, till exempel undergrund, grundkonstruktion inklusive dränering och eventuell radon, bärande och icke bärande delar av en byggnad, väggar, bjälklag, takkonstruktion, fönster och dörrar, vägar och rörgravar.", "Viktiga byggnadsmaterial, till exempel trä, betong, isolering, tätskikt, murverk, grus och markbeläggning med hänsyn till dess tillverkning, uppbyggnad, egenskaper, användningsområden och hantering vid rivning.", "Materialbedömningar, jämförelse av olika material utifrån hållbarhetsaspekter.", "Byggnadsfysik för byggande av god inre och yttre miljö. Vanliga funktionskrav vad gäller värme, fukt, ljud, brand och beständighet samt energieffektivitet och miljö.", "Tvärsektionsritningar där sambandet mellan byggnadsfysik, byggnadsmaterial och byggteknik framgår.", "Tekniska beskrivningar av mark- och grundläggning samt byggnadsbeskrivningar inklusive materialval.", "Installationstekniska system för ventilation, värme, sanitet och el i byggnader samt hur dessa system kan påverka både inre och yttre miljö.", "Vanligt förekommande funktionskrav för belysning, el, värme och komfort, vattenkvalitet, luftväxling och ljud.", "Övergripande driftsekonomi som skötsel, underhållsintervall och åtgärder samt kostnader för investering, drift och underhåll.", "Kännedom om Boverket, PBL (plan- och bygglagen) och BBR (Boverkets byggregler).", "Kännedom om processen runt bygglovshandlingar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för vanliga byggnadstekniker och vanliga konstruktionselement inom husbyggnad och anläggning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för vanliga byggnadstekniker och vanliga konstruktionselement inom husbyggnad och anläggning.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för vanliga byggnadstekniker och vanliga konstruktionselement inom husbyggnad och anläggning.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för vanliga byggnadstekniker och vanliga konstruktionselement inom husbyggnad och anläggning."
+        }
+      }, {
+        "text" : "Dessutom beskriver och jämför eleven <strong>________</strong> olika, viktiga byggnadsmaterial och dess uppbyggnad, egenskaper, tillverkning, användningsområden och livscykel.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver och jämför eleven <strong>översiktligt</strong> olika, viktiga byggnadsmaterial och dess uppbyggnad, egenskaper, tillverkning, användningsområden och livscykel.",
+          "C" : "Dessutom beskriver och jämför eleven <strong>utförligt</strong> olika, viktiga byggnadsmaterial och dess uppbyggnad, egenskaper, tillverkning, användningsområden och livscykel.",
+          "A" : "Dessutom beskriver och jämför eleven <strong>utförligt och nyanserat</strong> olika, viktiga byggnadsmaterial och dess uppbyggnad, egenskaper, tillverkning, användningsområden och livscykel."
+        }
+      }, {
+        "text" : "Vidare redogör eleven <strong>________</strong> för olika typer av byggnader och anläggningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare redogör eleven <strong>översiktligt</strong> för olika typer av byggnader och anläggningar.",
+          "C" : "Vidare redogör eleven <strong>utförligt</strong> för olika typer av byggnader och anläggningar.",
+          "A" : "Vidare redogör eleven <strong>utförligt och nyanserat</strong> för olika typer av byggnader och anläggningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör för de byggnadsfysikaliska funktionskraven för värme, fukt, ljud, brand och beständighet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör för de byggnadsfysikaliska funktionskraven för värme, fukt, ljud, brand och beständighet.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för de byggnadsfysikaliska funktionskraven för värme, fukt, ljud, brand och beständighet.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för de byggnadsfysikaliska funktionskraven för värme, fukt, ljud, brand och beständighet."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för byggnadsfysikaliska faktorer som har betydelse för energieffektivitet och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för byggnadsfysikaliska faktorer som har betydelse för energieffektivitet och miljö.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för byggnadsfysikaliska faktorer som har betydelse för energieffektivitet och miljö.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för byggnadsfysikaliska faktorer som har betydelse för energieffektivitet och miljö."
+        }
+      }, {
+        "text" : "Vidare redogör eleven <strong>________</strong> med sektionsritningar samt tekniska beskrivningar för sambandet mellan byggnadsfysik, byggnadsmaterial och byggnadsteknik med PBL och BBR som grund.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare redogör eleven <strong>översiktligt</strong> med sektionsritningar samt tekniska beskrivningar för sambandet mellan byggnadsfysik, byggnadsmaterial och byggnadsteknik med PBL och BBR som grund.",
+          "C" : "Vidare redogör eleven <strong>utförligt</strong> med sektionsritningar samt tekniska beskrivningar för sambandet mellan byggnadsfysik, byggnadsmaterial och byggnadsteknik med PBL och BBR som grund.",
+          "A" : "Vidare redogör eleven <strong>utförligt och nyanserat</strong> med sektionsritningar samt tekniska beskrivningar för sambandet mellan byggnadsfysik, byggnadsmaterial och byggnadsteknik med PBL och BBR som grund."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för olika installationstekniska system för ventilation, värme, sanitet och el i byggnader samt beskriver <strong>________</strong> hur dessa system kan påverka inre och yttre miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för olika installationstekniska system för ventilation, värme, sanitet och el i byggnader samt beskriver <strong>översiktligt</strong> hur dessa system kan påverka inre och yttre miljö.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för olika installationstekniska system för ventilation, värme, sanitet och el i byggnader samt beskriver <strong>utförligt</strong> hur dessa system kan påverka inre och yttre miljö.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för olika installationstekniska system för ventilation, värme, sanitet och el i byggnader samt beskriver <strong>utförligt och nyanserat</strong> hur dessa system kan påverka inre och yttre miljö."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för funktionskraven för belysning, värme och komfort, vattenkvalitet, luftväxling och ljud.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för funktionskraven för belysning, värme och komfort, vattenkvalitet, luftväxling och ljud.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för funktionskraven för belysning, värme och komfort, vattenkvalitet, luftväxling och ljud.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för funktionskraven för belysning, värme och komfort, vattenkvalitet, luftväxling och ljud."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för på vilket sätt dessa krav kan bidra till god driftsekonomi.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för på vilket sätt dessa krav kan bidra till god driftsekonomi.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för på vilket sätt dessa krav kan bidra till god driftsekonomi.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för på vilket sätt dessa krav kan bidra till god driftsekonomi."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Byggprocessen",
+    "description" : "Kursen byggprocessen omfattar punkterna 6–9 under rubriken Ämnets syfte.",
+    "code" : "SAHBYC0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Byggprocessens olika skeden: markförvärv, projektering, upphandling, produktion, överlämning, förvaltning, drift, underhåll och rivning.", "Byggprojektets genomförandeformer och organisation för byggprocessens olika delar. Byggprocessens olika aktörer.", "Tillämpliga regler i byggprocessen, till exempel PBL (plan- och bygglagen), BBR (Boverkets byggregler), AFS (Arbetsmiljöverkets författningssamling) och miljöbalken.", "Förfrågningsunderlag kopplade till AMA-systemet (allmän material- och arbetsbeskrivning).", "Anbudsprocessen - beräkningar, kalkyl, offertförfrågan, förhandling, beställning och entreprenadavtal.", "Upphandling av entreprenader och material enligt AB (allmänna bestämmelser) och AF (administrativa föreskrifter).", "Entreprenad- och ersättningsformer.", "Kvalitetsplan, miljöplan och arbetsmiljöplan.", "Bas P (planering och projektering) och Bas U (utförande).", "Byggnaders och installationers påverkan utifrån ett livscykelperspektiv.", "Produktionsplanering, produktionsbudget och produktionstidplan.", "Grundläggande samordningsplanering mellan olika aktörer.", "Olika typer av besiktningar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för byggprocessens olika skeden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för byggprocessens olika skeden.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för byggprocessens olika skeden.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för byggprocessens olika skeden."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för byggprojektets genomförandeformer och organisation samt för de olika aktörerna i byggprocessen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för byggprojektets genomförandeformer och organisation samt för de olika aktörerna i byggprocessen.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för byggprojektets genomförandeformer och organisation samt för de olika aktörerna i byggprocessen.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för byggprojektets genomförandeformer och organisation samt för de olika aktörerna i byggprocessen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för projekt- och samordningsplanering i projekterings- och utförandeskedet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för projekt- och samordningsplanering i projekterings- och utförandeskedet.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för projekt- och samordningsplanering i projekterings- och utförandeskedet.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för projekt- och samordningsplanering i projekterings- och utförandeskedet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för tillämpliga regler som styr byggprocessen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för tillämpliga regler som styr byggprocessen.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för tillämpliga regler som styr byggprocessen.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för tillämpliga regler som styr byggprocessen."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven utifrån enkla fallbeskrivningar, <strong>________</strong> för avtals- och kontraktskrivningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven utifrån enkla fallbeskrivningar, <strong>översiktligt</strong> för avtals- och kontraktskrivningar.",
+          "C" : "Dessutom redogör eleven utifrån enkla fallbeskrivningar, <strong>utförligt</strong> för avtals- och kontraktskrivningar.",
+          "A" : "Dessutom redogör eleven utifrån enkla fallbeskrivningar, <strong>utförligt och nyanserat</strong> för avtals- och kontraktskrivningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven upprättar <strong>________</strong> med handledare, utifrån förfrågningsunderlag, plan för utförandeskedet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven upprättar <strong>i samråd</strong> med handledare, utifrån förfrågningsunderlag, plan för utförandeskedet.",
+          "C" : "Eleven upprättar <strong>efter samråd</strong> med handledare, utifrån förfrågningsunderlag, plan för utförandeskedet.",
+          "A" : "Eleven upprättar <strong>efter samråd</strong> med handledare, utifrån förfrågningsunderlag, plan för utförandeskedet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för kontrollansvaret enligt PBL och byggarbetsmiljösamordning enligt Bas P och Bas U.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för kontrollansvaret enligt PBL och byggarbetsmiljösamordning enligt Bas P och Bas U.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för kontrollansvaret enligt PBL och byggarbetsmiljösamordning enligt Bas P och Bas U.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för kontrollansvaret enligt PBL och byggarbetsmiljösamordning enligt Bas P och Bas U."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven, utifrån <strong>________</strong> fallbeskrivningar, <strong>________</strong> för kvalitets-, miljö- och arbetsmiljöledningssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven, utifrån <strong>enkla</strong> fallbeskrivningar, <strong>översiktligt</strong> för kvalitets-, miljö- och arbetsmiljöledningssystem.",
+          "C" : "Dessutom redogör eleven, utifrån fallbeskrivningar, <strong>utförligt</strong> för kvalitets-, miljö- och arbetsmiljöledningssystem.",
+          "A" : "Dessutom redogör eleven, utifrån <strong>komplexa</strong> fallbeskrivningar, <strong>utförligt och nyanserat</strong> för kvalitets-, miljö- och arbetsmiljöledningssystem."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Miljöcertifierade hus",
+    "description" : "Kursen miljöcertifierade hus omfattar punkterna 2, 8–10 under rubriken Ämnets syfte.",
+    "code" : "SAHMIL0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Energiberäkning och energideklaration.", "Olika typer av lågenergibyggnader.", "Miljöklassning av byggnader samt dokumentationen av detta.", "Miljöklassningssystem.", "Miljöbalken.", "Aktörer i arbetet med livscykelanalyser.", "Livscykelanalys." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven räknar <strong>________</strong> ut U-värdet och energibehovet för byggnader.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven räknar <strong>med viss säkerhet</strong> ut U-värdet och energibehovet för byggnader.",
+          "C" : "Eleven räknar <strong>med viss säkerhet</strong> ut U-värdet och energibehovet för byggnader.",
+          "A" : "Eleven räknar <strong>med säkerhet</strong> ut U-värdet och energibehovet för byggnader."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för de delar av miljöbalken som berör miljöcertifiering av byggnader.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för de delar av miljöbalken som berör miljöcertifiering av byggnader.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för de delar av miljöbalken som berör miljöcertifiering av byggnader.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för de delar av miljöbalken som berör miljöcertifiering av byggnader."
+        }
+      }, {
+        "text" : "Eleven redogör även <strong>________</strong> för vad en livscykelanalys innebär och hur den genomförs samt vilka aktörer som är involverade.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör även <strong>översiktligt</strong> för vad en livscykelanalys innebär och hur den genomförs samt vilka aktörer som är involverade.",
+          "C" : "Eleven redogör även <strong>utförligt</strong> för vad en livscykelanalys innebär och hur den genomförs samt vilka aktörer som är involverade.",
+          "A" : "Eleven redogör även <strong>utförligt och nyanserat</strong> för vad en livscykelanalys innebär och hur den genomförs samt vilka aktörer som är involverade."
+        }
+      }, {
+        "text" : "Eleven för dessutom <strong>________</strong> resonemang om de olika aktörernas behov och intressen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven för dessutom <strong>enkla</strong> resonemang om de olika aktörernas behov och intressen.",
+          "C" : "Eleven för dessutom <strong>välgrundade</strong> resonemang om de olika aktörernas behov och intressen.",
+          "A" : "Eleven för dessutom <strong>välgrundade och nyanserade</strong> resonemang om de olika aktörernas behov och intressen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för miljöklassningssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för miljöklassningssystem.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för miljöklassningssystem.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för miljöklassningssystem."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare en miljöklassning och gör en <strong>________</strong> dokumentation av miljöklassningen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare en miljöklassning och gör en <strong>enkel</strong> dokumentation av miljöklassningen.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare en miljöklassning och gör en <strong>noggrann</strong> dokumentation av miljöklassningen.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare en miljöklassning och gör en <strong>noggrann och utförlig</strong> dokumentation av miljöklassningen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

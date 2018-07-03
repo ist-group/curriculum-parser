@@ -1,0 +1,313 @@
+{
+  "name" : "Kemi",
+  "description" : "Kemi är ett naturvetenskapligt ämne som har sitt ursprung i människans behov av att förstå och förklara sin omvärld samt i intresset för hur materia är uppbyggd och hur olika livsprocesser fungerar. Kemi behandlar materiens egenskaper, struktur och funktion samt kemiska reaktioner och förändringar.",
+  "code" : "KEM",
+  "designation" : "",
+  "skolfsId" : "2010:108",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet kemi ska syfta till att eleverna utvecklar kunskaper om kemins begrepp, teorier, modeller och arbetsmetoder.", "Den ska bidra till att eleverna utvecklar kunskaper om naturliga såväl som av människan skapade kemiska processer.", "Undervisningen ska också bidra till att eleverna utvecklar förståelse av kemins betydelse för klimat, miljö och människokroppen samt kunskaper om kemins olika tillämpningar inom till exempel utvecklingen av nya läkemedel, nya material och ny teknologi.", "Genom undervisningen ska eleverna ges möjlighet att utveckla ett naturvetenskapligt perspektiv på vår omvärld.", "I undervisningen ska aktuell forskning och elevernas upplevelser, nyfikenhet och kreativitet tas till vara.", "Undervisningen ska också bidra till att eleverna, från en naturvetenskaplig utgångspunkt, kan delta i samhällsdebatten och diskutera etiska frågor och ställningstaganden." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Kemi utvecklas ständigt i ett samspel mellan teori och experiment, där hypoteser, teorier och modeller testas, omvärderas och förändras.", "Undervisningen ska därför behandla teoriers och modellers utveckling, begränsningar och giltighetsområden.", "Den ska bidra till att eleverna utvecklar förmåga att arbeta teoretiskt och experimentellt samt att kommunicera med hjälp av ett naturvetenskapligt språk.", "Undervisningen ska också bidra till att eleverna utvecklar förmåga att kritiskt värdera och skilja mellan påståenden som bygger på vetenskaplig respektive icke-vetenskaplig grund.", "Undervisningen ska innefatta naturvetenskapliga arbetsmetoder som att formulera och söka svar på frågor, planera och utföra experiment samt bearbeta, tolka och kritiskt granska resultat och information.", "I undervisningen ska eleverna ges tillfällen att argumentera kring och presentera analyser och slutsatser.", "De ska även ges möjlighet att använda datorstödd utrustning för insamling, simulering, beräkning, bearbetning och presentation av data." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet kemi ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om kemins begrepp, modeller, teorier och arbetsmetoder samt förståelse av hur dessa utvecklas.", "Förmåga att analysera och söka svar på ämnesrelaterade frågor samt att identifiera, formulera och lösa problem. Förmåga att reflektera över och värdera valda strategier, metoder och resultat.", "Förmåga att planera, genomföra, tolka och redovisa experiment och observationer samt förmåga att hantera kemikalier och utrustning.", "Kunskaper om kemins betydelse för individ och samhälle.", "Förmåga att använda kunskaper i kemi för att kommunicera samt för att granska och använda information." ]
+  } ],
+  "courses" : [ {
+    "name" : "Kemi 1",
+    "description" : "Kursen kemi 1 omfattar punkterna 1–5 under rubriken Ämnets syfte.",
+    "code" : "KEMKEM01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Materia och kemisk bindning",
+      "lines" : [ "Modeller och teorier för materiens uppbyggnad och klassificering.", "Kemisk bindning och dess inverkan på till exempel förekomst, egenskaper och användningsområden för organiska och oorganiska ämnen." ]
+    }, {
+      "heading" : "Reaktioner och förändringar",
+      "lines" : [ "Syrabasreaktioner, inklusive pH-begreppet och buffertverkan.", "Redoxreaktioner, inklusive elektrokemi.", "Fällningsreaktioner.", "Energiomsättningar vid fasomvandlingar och kemiska reaktioner." ]
+    }, {
+      "heading" : "Stökiometri",
+      "lines" : [ "Tolkning och skrivning av formler för kemiska föreningar och reaktioner.", "Substansmängdsförhållanden, koncentrationer, begränsande reaktanter och utbyten vid kemiska reaktioner." ]
+    }, {
+      "heading" : "Analytisk kemi",
+      "lines" : [ "Kvalitativa och kvantitativa metoder för kemisk analys, till exempel kromatografi och titrering." ]
+    }, {
+      "heading" : "Kemins karaktär och arbetssätt",
+      "lines" : [ "Vad som kännetecknar en naturvetenskaplig frågeställning.", "Modeller och teorier som förenklingar av verkligheten. Hur modeller och teorier kan förändras över tid.", "Hur problem och frågor avgränsas och studeras med hjälp av kemiska resonemang.", "Det experimentella arbetets betydelse för att testa, omvärdera och revidera hypoteser, teorier och modeller.", "Planering och genomförande av experiment samt formulering och prövning av hypoteser i samband med dessa.", "Utvärdering av resultat och slutsatser genom analys av metodval, arbetsprocess och felkällor.", "Ställningstagande i samhällsfrågor utifrån kemiska modeller, till exempel frågor om hållbar utveckling." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden."
+        }
+      }, {
+        "text" : "Eleven använder dessa <strong>________</strong> för att söka svar på frågor samt för att beskriva och <strong>________</strong> kemiska förlopp och företeelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder dessa <strong>med viss säkerhet</strong> för att söka svar på frågor samt för att beskriva och <strong>exemplifiera</strong> kemiska förlopp och företeelser.",
+          "C" : "Eleven använder dessa <strong>med viss säkerhet</strong> för att söka svar på frågor samt för att beskriva och <strong>exemplifiera</strong> kemiska förlopp och företeelser.",
+          "A" : "Eleven använder dessa <strong>med säkerhet</strong> för att söka svar på frågor samt för att beskriva och <strong>generalisera kring</strong> kemiska förlopp och företeelser."
+        }
+      }, {
+        "text" : "Utifrån <strong>________</strong> exempel redogör eleven <strong>________</strong> för hur kemins modeller och teorier utvecklas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Utifrån <strong>något</strong> exempel redogör eleven <strong>översiktligt</strong> för hur kemins modeller och teorier utvecklas.",
+          "C" : "Utifrån <strong>några</strong> exempel redogör eleven <strong>utförligt</strong> för hur kemins modeller och teorier utvecklas.",
+          "A" : "Utifrån <strong>några</strong> exempel redogör eleven <strong>utförligt och nyanserat</strong> för hur kemins modeller och teorier utvecklas."
+        }
+      }, {
+        "text" : "Eleven värderar också modellers och teoriers giltighet och begränsningar med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven värderar också modellers och teoriers giltighet och begränsningar med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven värderar också modellers och teoriers giltighet och begränsningar med <strong>enkla</strong> omdömen.",
+          "A" : "Eleven värderar också modellers och teoriers giltighet och begränsningar med <strong>nyanserade</strong> omdömen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven analyserar och söker svar på <strong>________</strong> frågor i <strong>________</strong> med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven analyserar och söker svar på <strong>enkla</strong> frågor i <strong>bekanta situationer</strong> med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven analyserar och söker svar på <strong>komplexa</strong> frågor i <strong>bekanta situationer</strong> med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven analyserar och söker svar på <strong>komplexa</strong> frågor i <strong>bekanta och nya situationer</strong> med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+          "C" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+          "A" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet."
+        }
+      }, {
+        "text" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>________</strong> egna frågor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>med viss säkerhet enkla</strong> egna frågor.",
+          "C" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>med viss säkerhet</strong> egna frågor.",
+          "A" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>med säkerhet komplexa</strong> egna frågor."
+        }
+      }, {
+        "text" : "Eleven planerar och genomför <strong>________</strong> med handledare experiment och observationer på ett tillfredsställande sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och genomför <strong>i samråd</strong> med handledare experiment och observationer på ett tillfredsställande sätt.",
+          "C" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare experiment och observationer på ett tillfredsställande sätt.",
+          "A" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare experiment och observationer på ett tillfredsställande sätt."
+        }
+      }, {
+        "text" : "Dessutom hanterar eleven kemikalier och utrustning på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom hanterar eleven kemikalier och utrustning på ett säkert sätt.",
+          "C" : "Dessutom hanterar eleven kemikalier och utrustning på ett säkert sätt.",
+          "A" : "Dessutom hanterar eleven kemikalier och utrustning på ett säkert sätt."
+        }
+      }, {
+        "text" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>________</strong> omdömen och motiverar sina slutsatser med <strong>________</strong> resonemang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>enkla</strong> omdömen och motiverar sina slutsatser med <strong>enkla</strong> resonemang.",
+          "C" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>enkla</strong> omdömen och motiverar sina slutsatser med <strong>välgrundade</strong> resonemang.",
+          "A" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>nyanserade</strong> omdömen och motiverar sina slutsatser med <strong>välgrundade och nyanserade</strong> resonemang. <strong>Vid behov föreslår eleven också förändringar</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven diskuterar <strong>________</strong> frågor som rör kemins betydelse för individ och samhälle.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> frågor som rör kemins betydelse för individ och samhälle.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> frågor som rör kemins betydelse för individ och samhälle.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat komplexa</strong> frågor som rör kemins betydelse för individ och samhälle."
+        }
+      }, {
+        "text" : "I diskussionerna för eleven fram <strong>________</strong> argument och redogör <strong>________</strong> för konsekvenser av <strong>________</strong> tänkbart ställningstagande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I diskussionerna för eleven fram <strong>enkla</strong> argument och redogör <strong>översiktligt</strong> för konsekvenser av <strong>något</strong> tänkbart ställningstagande.",
+          "C" : "I diskussionerna för eleven fram <strong>välgrundade</strong> argument och redogör <strong>utförligt</strong> för konsekvenser av <strong>något</strong> tänkbart ställningstagande.",
+          "A" : "I diskussionerna för eleven fram <strong>välgrundade och nyanserade</strong> argument och redogör <strong>utförligt och nyanserat</strong> för konsekvenser av <strong>flera</strong> tänkbara ställningstaganden. <strong>Eleven föreslår också nya frågeställningar att diskutera</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> ett naturvetenskapligt språk och anpassar <strong>________</strong> sin kommunikation till syfte och sammanhang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> ett naturvetenskapligt språk och anpassar <strong>till viss del</strong> sin kommunikation till syfte och sammanhang.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> ett naturvetenskapligt språk och anpassar <strong>till stor del</strong> sin kommunikation till syfte och sammanhang.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> ett naturvetenskapligt språk och anpassar <strong>till stor del</strong> sin kommunikation till syfte och sammanhang."
+        }
+      }, {
+        "text" : "Dessutom använder eleven olika typer av källor och gör <strong>________</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven olika typer av källor och gör <strong>enkla</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+          "C" : "Dessutom använder eleven olika typer av källor och gör <strong>välgrundade</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+          "A" : "Dessutom använder eleven olika typer av källor och gör <strong>välgrundade och nyanserade</strong> bedömningar av informationens och källornas trovärdighet och relevans."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Kemi 2",
+    "description" : "Kursen kemi 2 omfattar punkterna 1–5 under rubriken Ämnets syfte.",
+    "code" : "KEMKEM02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Reaktionshastighet och kemisk jämvikt",
+      "lines" : [ "Reaktionshastighet, till exempel katalysatorers och koncentrationers inverkan på hur fort kemiska reaktioner sker.", "Faktorer som påverkar jämviktslägen och jämviktskonstanter.", "Beräkningar på och resonemang om jämviktssystem i olika miljöer, till exempel jämviktssystem i världshaven, i människokroppen och inom industriella processer." ]
+    }, {
+      "heading" : "Organisk kemi",
+      "lines" : [ "Olika organiska ämnesklasser, deras egenskaper, struktur och reaktivitet.", "Reaktionsmekanismer, inklusive kvalitativa resonemang om, hur och varför reaktioner sker och om energiomsättningar vid olika slags organiska reaktioner." ]
+    }, {
+      "heading" : "Biokemi",
+      "lines" : [ "Det genetiska informationsflödet, inklusive huvuddragen i de biokemiska processerna replikation, transkription och translation.", "Huvuddragen i människans ämnesomsättning på molekylär nivå.", "Proteiners struktur och funktion, med speciellt fokus på enzymer." ]
+    }, {
+      "heading" : "Analytisk kemi",
+      "lines" : [ "Kvalitativa och kvantitativa metoder för kemisk analys, till exempel masspektrometri och spektrofotometri.", "Resonemang om provtagning, detektionsnivå, riktighet och precision samt systematiska och slumpmässiga felkällor." ]
+    }, {
+      "heading" : "Kemins karaktär och arbetssätt",
+      "lines" : [ "Modeller och teorier som förenklingar av verkligheten. Modellers och teoriers giltighetsområden och hur de kan utvecklas, generaliseras eller ersättas av andra modeller och teorier över tid.", "Avgränsning och studier av problem och frågor med hjälp av kemiska resonemang.", "Det experimentella arbetets betydelse för att testa, omvärdera och revidera hypoteser, teorier och modeller.", "Planering och genomförande av experimentella undersökningar och observationer samt formulering och prövning av hypoteser i samband med dessa.", "Utvärdering av resultat och slutsatser genom analys av metodval, arbetsprocess och felkällor.", "Frågor om etik och hållbar utveckling kopplade till kemins olika arbetssätt och verksamhetsområden." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden."
+        }
+      }, {
+        "text" : "Eleven använder dessa <strong>________</strong> för att söka svar på frågor samt för att beskriva och <strong>________</strong> kemiska förlopp och företeelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder dessa <strong>med viss säkerhet</strong> för att söka svar på frågor samt för att beskriva och <strong>exemplifiera</strong> kemiska förlopp och företeelser.",
+          "C" : "Eleven använder dessa <strong>med viss säkerhet</strong> för att söka svar på frågor samt för att beskriva och <strong>exemplifiera</strong> kemiska förlopp och företeelser.",
+          "A" : "Eleven använder dessa <strong>med säkerhet</strong> för att söka svar på frågor samt för att beskriva och <strong>generalisera kring</strong> kemiska förlopp och företeelser."
+        }
+      }, {
+        "text" : "Utifrån <strong>________</strong> exempel redogör eleven <strong>________</strong> för hur kemins modeller och teorier utvecklas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Utifrån <strong>något</strong> exempel redogör eleven <strong>översiktligt</strong> för hur kemins modeller och teorier utvecklas.",
+          "C" : "Utifrån <strong>några</strong> exempel redogör eleven <strong>utförligt</strong> för hur kemins modeller och teorier utvecklas.",
+          "A" : "Utifrån <strong>några</strong> exempel redogör eleven <strong>utförligt och nyanserat</strong> för hur kemins modeller och teorier utvecklas."
+        }
+      }, {
+        "text" : "Eleven värderar också modellers och teoriers giltighet och begränsningar med enkla omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven värderar också modellers och teoriers giltighet och begränsningar med enkla omdömen.",
+          "C" : "Eleven värderar också modellers och teoriers giltighet och begränsningar med <strong>enkla</strong> omdömen.",
+          "A" : "Eleven värderar också modellers och teoriers giltighet och begränsningar med <strong>nyanserade</strong> omdömen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven analyserar och söker svar på <strong>________</strong> frågor i <strong>________</strong> med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven analyserar och söker svar på <strong>enkla</strong> frågor i <strong>bekanta situationer</strong> med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven analyserar och söker svar på <strong>komplexa</strong> frågor i <strong>bekanta situationer</strong> med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven analyserar och söker svar på <strong>komplexa</strong> frågor i <strong>bekanta och nya situationer</strong> med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+          "C" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+          "A" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet."
+        }
+      }, {
+        "text" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>________</strong> egna frågor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>med viss säkerhet enkla</strong> egna frågor.",
+          "C" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>med viss säkerhet</strong> egna frågor.",
+          "A" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>med säkerhet komplexa</strong> egna frågor."
+        }
+      }, {
+        "text" : "Eleven planerar och genomför <strong>________</strong> med handledare experiment och observationer på ett tillfredsställande sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och genomför <strong>i samråd</strong> med handledare experiment och observationer på ett tillfredsställande sätt.",
+          "C" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare experiment och observationer på ett tillfredsställande sätt.",
+          "A" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare experiment och observationer på ett tillfredsställande sätt."
+        }
+      }, {
+        "text" : "Dessutom hanterar eleven kemikalier och utrustning på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom hanterar eleven kemikalier och utrustning på ett säkert sätt.",
+          "C" : "Dessutom hanterar eleven kemikalier och utrustning på ett säkert sätt.",
+          "A" : "Dessutom hanterar eleven kemikalier och utrustning på ett säkert sätt."
+        }
+      }, {
+        "text" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>________</strong> omdömen och motiverar sina slutsatser med <strong>________</strong> resonemang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>enkla</strong> omdömen och motiverar sina slutsatser med <strong>enkla</strong> resonemang.",
+          "C" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>enkla</strong> omdömen och motiverar sina slutsatser med <strong>välgrundade</strong> resonemang.",
+          "A" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>nyanserade</strong> omdömen och motiverar sina slutsatser med <strong>välgrundade och nyanserade</strong> resonemang. <strong>Vid behov föreslår eleven också förändringar</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven diskuterar <strong>________</strong> frågor som rör kemins betydelse för individ och samhälle.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> frågor som rör kemins betydelse för individ och samhälle.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> frågor som rör kemins betydelse för individ och samhälle.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat komplexa</strong> frågor som rör kemins betydelse för individ och samhälle."
+        }
+      }, {
+        "text" : "I diskussionerna för eleven fram <strong>________</strong> argument och redogör <strong>________</strong> för konsekvenser av <strong>________</strong> tänkbart ställningstagande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I diskussionerna för eleven fram <strong>enkla</strong> argument och redogör <strong>översiktligt</strong> för konsekvenser av <strong>något</strong> tänkbart ställningstagande.",
+          "C" : "I diskussionerna för eleven fram <strong>välgrundade</strong> argument och redogör <strong>utförligt</strong> för konsekvenser av <strong>något</strong> tänkbart ställningstagande.",
+          "A" : "I diskussionerna för eleven fram <strong>välgrundade och nyanserade</strong> argument och redogör <strong>utförligt och nyanserat</strong> för konsekvenser av <strong>flera</strong> tänkbara ställningstaganden. <strong>Eleven föreslår också nya frågeställningar att diskutera</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> ett naturvetenskapligt språk och anpassar <strong>________</strong> sin kommunikation till syfte och sammanhang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> ett naturvetenskapligt språk och anpassar <strong>till viss del</strong> sin kommunikation till syfte och sammanhang.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> ett naturvetenskapligt språk och anpassar <strong>till stor del</strong> sin kommunikation till syfte och sammanhang.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> ett naturvetenskapligt språk och anpassar <strong>till stor del</strong> sin kommunikation till syfte och sammanhang."
+        }
+      }, {
+        "text" : "Dessutom använder eleven olika typer av källor och gör <strong>________</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven olika typer av källor och gör <strong>enkla</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+          "C" : "Dessutom använder eleven olika typer av källor och gör <strong>välgrundade</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+          "A" : "Dessutom använder eleven olika typer av källor och gör <strong>välgrundade och nyanserade</strong> bedömningar av informationens och källornas trovärdighet och relevans."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

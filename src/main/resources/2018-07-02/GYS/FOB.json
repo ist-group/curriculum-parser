@@ -1,0 +1,60 @@
+{
+  "name" : "Fordonsbranschen",
+  "description" : "Ämnet fordonsbranschen behandlar fordonsbranschens olika verksamheter, produkter och tjänster. Ämnet är en orientering inom fordonsbranschens verksamheter och arbetsmiljöer. Centralt i ämnet är arbetsmiljö och säkerhet.",
+  "code" : "FOB",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet fordonsbranschen ska syfta till att eleverna utvecklar kunskaper om fordonsbranschen samt förmåga att utföra arbetsuppgifter inom branschens olika områden.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om fordonsbranschens verksamheter, produkter och tjänster.", "Det kan till exempel handla om service och reparation av fordon samt transport och hantering av gods.", "Undervisningen ska bidra till att eleverna utvecklar förståelse för branschens roll och betydelse i samhället.", "Eleverna ska också ges möjlighet att utveckla förmåga att bemöta kunder på ett serviceinriktat sätt.", "Undervisningen ska leda till att eleverna utvecklar förståelse för vad det innebär att arbeta inom fordonsbranschen." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om arbetsmiljö och säkerhet inom fordonsbranschen.", "Det kan handla om brand och elsäkerhet, olycksrisker och förebyggande åtgärder samt skyddsutrustning.", "Eleverna ska ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser inom området.", "Undervisningen ska också bidra till att eleverna utvecklar förståelse av återvinningens och avfallshanteringens betydelse för en hållbar utveckling.", "Undervisningen ska leda till att eleverna utvecklar förmåga att utföra arbetsuppgifter på ett ergonomiskt och säkert sätt och med hänsyn till miljön." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Praktiskt arbete och fältstudier ska ingå i undervisningen.", "Undervisningen ska ge eleverna möjlighet att reflektera över och samtala om säkerhet, arbetsmiljö, miljöhänsyn och hållbar utveckling." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet fordonsbranschen ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om fordonsbranschens olika verksamheter, produkter och tjänster.", "Förståelse av arbetsmiljöer och arbetsuppgifter inom fordonsbranschen.", "Förmåga att utföra olika arbetsuppgifter inom fordonsbranschen på ett säkert sätt och med hänsyn till miljön." ]
+  } ],
+  "courses" : [ {
+    "name" : "Fordonsbranschen",
+    "description" : "Kursen fordonsbranschen omfattar punkterna 1–3 under rubriken Ämnets syfte.",
+    "code" : "FOBFOR5",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Fordonsbranschens verksamheter, produkter och tjänster.", "Fordonsbranschens förutsättningar, villkor, utveckling och roll i samhället.", "Fordonsbranschens miljöansvar, till exempel bränslen, däckens utformning och återvinning av material.", "Arbetsuppgifter inom fordonsbranschen, till exempel biltvätt, däckbyte och rekonditionering av fordon.", "Material, metoder och teknisk utrustning för olika arbetsuppgifter.", "Kundbemötande och yrkesetik.", "Ergonomi, arbetsmiljö och säkerhet.", "Lagar och andra bestämmelser som reglerar arbetet inom fordonsbranschen, till exempel arbetsmiljölagen, miljölagar och trafikregler." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva fordonsbranschens verksamheter, produkter och tjänster.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva fordonsbranschens verksamheter, produkter och tjänster.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> fordonsbranschens verksamheter, produkter och tjänster.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> fordonsbranschens verksamheter, produkter och tjänster."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att ge exempel på arbetsmiljöer och arbetsuppgifter inom fordonsbranschen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att ge exempel på arbetsmiljöer och arbetsuppgifter inom fordonsbranschen.",
+          "C" : "Eleven ger <strong>något</strong> exempel på arbetsmiljöer och arbetsuppgifter inom fordonsbranschen.",
+          "A" : "Eleven ger <strong>några</strong> exempel på arbetsmiljöer och arbetsuppgifter inom fordonsbranschen."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att utföra olika arbetsmoment inom fordonsbranschen på ett säkert sätt och med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att utföra olika arbetsmoment inom fordonsbranschen på ett säkert sätt och med hänsyn till miljön.",
+          "C" : "Eleven utför <strong>med tillfredsställande resultat</strong> olika arbetsmoment inom fordonsbranschen på ett säkert sätt och med hänsyn till miljön.",
+          "A" : "Eleven utför <strong>med gott resultat</strong> olika arbetsmoment inom fordonsbranschen på ett säkert sätt och med hänsyn till miljön."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  } ]
+}

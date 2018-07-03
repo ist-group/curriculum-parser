@@ -1,0 +1,109 @@
+{
+  "name" : "Hälsa",
+  "description" : "Ämnet hälsa behandlar människors hälsa och välbefinnande och hur levnadsvillkoren påverkar hälsan. Ämnet utgår från ett helhetsperspektiv på människan som biologisk, psykisk och social varelse och utgår från det friska hos människan. I ämnet ingår att kunna möta människor på ett etiskt och demokratiskt sätt.",
+  "code" : "HAS",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet hälsa ska syfta till att eleverna utvecklar kunskaper om människors hälsa och hälsorelaterade levnadsvanor samt förmåga att genomföra hälsofrämjande aktiviteter.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om vad som menas med hälsa och välbefinnande samt om de folkhälsopolitiska målen.", "Eleverna ska också ges möjlighet att utveckla kunskaper om hälsorelaterade levnadsvanor.", "Undervisningen ska leda till att eleverna utvecklar förståelse av ett hälsofrämjande sätt att leva." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Vidare ska eleverna ges möjlighet att utveckla kunskaper om olika former av hälsofrämjande aktiviteter.", "Eleverna ska också ges möjlighet att utveckla kunskaper om hur olika aktiviteter påverkar människors hälsa och välbefinnande.", "Undervisningen ska leda till att eleverna utvecklar förmåga att genomföra hälsofrämjande aktiviteter." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Fältstudier, praktiskt arbete och ett problemorienterat arbetssätt ska ingå i undervisningen.", "I undervisningen ska eleverna ges tillfälle att reflektera över och samtala om hälsa och hälsorelaterade levnadsvanor.", "Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper om ergonomi samt arbetsmiljö och säkerhet." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet hälsa ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om människors hälsa, hälsorelaterade levnadsvanor och om de folkhälsopolitiska målen.", "Kunskaper om olika hälsofrämjande aktiviteter och vilka hälsoeffekter de har.", "Förmåga att genomföra hälsofrämjande aktiviteter." ]
+  } ],
+  "courses" : [ {
+    "name" : "Hälsa 1",
+    "description" : "Kursen hälsa 1 omfattar punkterna 1–3 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "HASHAL51",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Innebörden av hälsa och välbefinnande samt ett hälsofrämjande synsätt på hälsa. Folkhälsopolitiska mål. Samhällets mål för god hälsa på lika villkor för hela befolkningen, till exempel goda livsvillkor, livsmiljö och levnadsvanor.", "Hälsorelaterade levnadsvanor.", "Kost och hälsa. Kostens och måltidens betydelse för hälsa och välbefinnande.", "Fysisk aktivitet och hälsa. Betydelsen av fysisk aktivitet och vila för människors hälsa. Sömn och hälsa.", "Sociala relationer och dess betydelse för hälsa och välbefinnande.", "Taktil beröring. Fysiologiska och psykologiska effekter.", "Hälsofrämjande aktiviteter för olika åldrar, till exempel promenader, lekar och naturupplevelser.", "Ergonomi, säkerhet och arbetsmiljö." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva människors hälsa och hälsorelaterade levnadsvanor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva människors hälsa och hälsorelaterade levnadsvanor.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> människors hälsa och hälsorelaterade levnadsvanor.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> människors hälsa och hälsorelaterade levnadsvanor."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att ge exempel på de folkhälsopolitiska målen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att ge exempel på de folkhälsopolitiska målen.",
+          "C" : "Eleven ger <strong>något</strong> exempel på de folkhälsopolitiska målen.",
+          "A" : "Eleven ger <strong>några</strong> exempel på de folkhälsopolitiska målen."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att beskriva olika hälsofrämjande aktiviteter och vilka hälsoeffekter de har.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att beskriva olika hälsofrämjande aktiviteter och vilka hälsoeffekter de har.",
+          "C" : "Eleven beskriver också <strong>på ett enkelt sätt</strong> olika hälsofrämjande aktiviteter och vilka hälsoeffekter de har.",
+          "A" : "Eleven beskriver också <strong>på ett utvecklat sätt</strong> olika hälsofrämjande aktiviteter och vilka hälsoeffekter de har."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att genomföra hälsofrämjande aktiviteter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att genomföra hälsofrämjande aktiviteter.",
+          "C" : "Eleven genomför <strong>med viss säkerhet</strong> hälsofrämjande aktiviteter.",
+          "A" : "Eleven genomför <strong>med säkerhet</strong> hälsofrämjande aktiviteter."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Hälsa 2",
+    "description" : "Kursen hälsa 2 omfattar punkterna 1–3 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "HASHAL52",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Innebörden av hälsa och välbefinnande och ett hälsofrämjande synsätt på hälsa.", "Överenskommelser för folkhälsoarbete på nationell och lokal nivå.", "Samhällets mål för god hälsa på lika villkor för hela befolkningen, till exempel goda livsvillkor, livsmiljö och levnadsvanor. Folkhälsoarbete på lokal nivå.", "Människans livsvillkor och levnadsvanor samt hur de påverkar hälsan, till exempel kost, fysisk aktivitet och sociala relationer. Olika faktorer som påverkar människors hälsa och livskvalitet i olika åldrar.", "Hälsofrämjande aktiviteter för olika åldrar, till exempel promenader, trädgårdsarbete och lek." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva människors hälsa och hälsorelaterade levnadsvanor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva människors hälsa och hälsorelaterade levnadsvanor.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> människors hälsa och hälsorelaterade levnadsvanor.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> människors hälsa och hälsorelaterade levnadsvanor."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att ge exempel på de folkhälsopolitiska målen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att ge exempel på de folkhälsopolitiska målen.",
+          "C" : "Eleven ger <strong>något</strong> exempel på de folkhälsopolitiska målen.",
+          "A" : "Eleven ger <strong>några</strong> exempel på de folkhälsopolitiska målen."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att beskriva olika hälsofrämjande aktiviteter och vilka hälsoeffekter de har.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att beskriva olika hälsofrämjande aktiviteter och vilka hälsoeffekter de har.",
+          "C" : "Eleven beskriver också <strong>på ett enkelt sätt</strong> olika hälsofrämjande aktiviteter och vilka hälsoeffekter de har.",
+          "A" : "Eleven beskriver också <strong>på ett utvecklat sätt</strong> olika hälsofrämjande aktiviteter och vilka hälsoeffekter de har."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att genomföra hälsofrämjande aktiviteter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att genomföra hälsofrämjande aktiviteter.",
+          "C" : "Eleven genomför <strong>med viss säkerhet</strong> hälsofrämjande aktiviteter.",
+          "A" : "Eleven genomför <strong>med säkerhet</strong> hälsofrämjande aktiviteter."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

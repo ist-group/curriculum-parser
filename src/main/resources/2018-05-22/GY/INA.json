@@ -1,0 +1,372 @@
+{
+  "name" : "Informationsteknisk arkitektur och infrastruktur",
+  "description" : "Ämnet informationsteknisk arkitektur och infrastruktur behandlar de grundläggande processerna, komponenterna och gränssnitten i ett sammanhängande informationstekniskt system. Det behandlar även hur man med hjälp av olika informationstekniska system kan uppfylla och underlätta människors behov av informationsutbyte. Ämnet informationsteknisk arkitektur och infrastruktur får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.",
+  "code" : "INA",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet informationsteknisk arkitektur och infrastruktur ska syfta till att eleverna utvecklar kunskaper om olika informationstekniska system, hur dessa används och bryts ned i olika delsystem och processer.", "Den ska ge eleverna möjlighet att utveckla kunskaper om den informationstekniska livscykeln.", "Det innebär att utifrån en uppdragsgivare identifiera behov och välja lämpliga system eller processer samt att designa, testa, implementera och följa upp systemen.", "Undervisningen ska också leda till att eleverna utvecklar förståelse av hur de olika delsystemen och processerna sätts samman med hög kvalitet och resurseffektivitet till en fungerande helhet utifrån uppdragsgivares behov av informationstekniska tjänster och system." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om hur datakommunikation och informationssäkerhet fungerar och hur vanligt förekommande informationstekniska tjänster fungerar och implementeras.", "Eleverna ska också ges möjlighet att utveckla kunskaper om olika metoder för styrning av informationstekniska system." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om någon projektmetod.", "I undervisningen ska eleverna ges möjlighet att utveckla sin förmåga att kommunicera i tal, skrift och med visuella hjälpmedel." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet informationsteknisk arkitektur och infrastruktur ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om hur kommunikation sker i informationstekniska system samt kunskaper om olika principer för informationssäkerhet.", "Kunskaper om olika nätverks- och informationstjänster och hur dessa används och integreras i olika informationstekniska system för god tillgänglighet och informationssäkerhet.", "Kunskaper om informationstekniska systems livscykel och olika sätt att styra informationstekniska system.", "Förmåga att använda såväl svenskspråkiga som engelskspråkiga manualer och instruktioner i arbetet med informationstekniska system.", "Förmåga att analysera befintliga informationstekniska system och bryta ned dessa i delsystem och processer. Förmåga att dokumentera nya och befintliga system och processer.", "Förmåga att installera, konfigurera och implementera olika nätverks- och informationstjänster för god tillgänglighet, informationssäkerhet och resurseffektivitet.", "Förmåga att dokumentera informationstekniska projekt.", "Förmåga att identifiera kunders behov och föreslå förbättringar och tillägg i befintliga system och integrera dessa i nya eller förbättrade system.", "Förmåga att kommunicera i tal, skrift och med visuella hjälpmedel." ]
+  } ],
+  "courses" : [ {
+    "name" : "Datakommunikation och informationssäkerhet",
+    "description" : "Kursen datakommunikation och informationssäkerhet omfattar punkterna 1–2, 4–7 och 9 under rubriken Ämnets syfte.",
+    "code" : "INADAT0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Begreppen konfidentialitet, autenticitet, integritet och tillgänglighet ur ett informationssäkerhetsperspektiv.", "Referensmodeller för uppbyggnad av system för datakommunikation.", "Hårdvara i LAN (Local Area Network) och WAN (Wide Area Network) och deras användningsområden.", "Paketförmedlande nät och inkapslingsprocessen. Dataflödet i en referensmodell.", "TCP (Transmission Control Protocol). Funktion och konfigurering.", "IP (Internet Protocol). Funktion och konfigurering i olika versioner. CIDR (Classless Inter-Domain Routing), sub- och supernetting.", "Routningsprotokolls funktioner och konfigurering av routrar.", "Accessmetoder och media för överföring av data, till exempel kopparbaserade, fiberbaserade och trådlösa tekniker.", "Ethernets funktion och konfigurering. Konfigurering av ethernetswitchar.", "Kartläggning och dokumentation av ett befintligt system för datakommunikation med avseende på fysisk struktur och informationssäkerhet.", "Felsökningsmetodik i ett system för datakommunikation.", "Vanliga motåtgärder för hot mot informationssäkerheten.", "Vanliga krypteringsprotokolls funktion.", "Autenticering och system för inloggning på vanligt förekommande nätverksoperativsystem.", "Informationssäkerhet i trådlösa tekniker.", "PKI (Public-Key Infrastructure), SSL (Secure Socket Layer) och system för certifikathantering. Installation och konfigurering av en PKI-lösning.", "Virtuella LAN. Installation och konfigurering av flera VLAN.", "NAT (Network Address Translation). Installation och konfigurering av NAT.", "Olika varianter av VPN (Virtual Private Network). Installation och konfigurering av en fungerande VPN-lösning.", "IPSec (Internet Protocol Security) och dess användning för att åstadkomma konfidentialitet, autenticitet och integritet.", "Installation och konfigurering av en brandvägg.", "Åtgärder mot förlust av data. Installation och konfigurering av system för säkerhetskopiering och återställning av data.", "Presentationsverktyg som används inom kunskapsområdet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för begrepp och teorier inom teknikområdet och beskriver <strong>________</strong> uppbyggnad, funktion och arbetssätt i system för datakommunikation och hur driftsäkerhet kan uppnås.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för begrepp och teorier inom teknikområdet och beskriver <strong>översiktligt</strong> uppbyggnad, funktion och arbetssätt i system för datakommunikation och hur driftsäkerhet kan uppnås.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för begrepp och teorier inom teknikområdet och beskriver <strong>utförligt</strong> uppbyggnad, funktion och arbetssätt i system för datakommunikation och hur driftsäkerhet kan uppnås.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för begrepp och teorier inom teknikområdet och beskriver <strong>utförligt och nyanserat</strong> uppbyggnad, funktion och arbetssätt i system för datakommunikation och hur driftsäkerhet kan uppnås."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för de samband som finns mellan de olika delarna som utgör ett system för datakommunikation och hur denna kommunikation kan ske informationssäkert.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för de samband som finns mellan de olika delarna som utgör ett system för datakommunikation och hur denna kommunikation kan ske informationssäkert.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för de samband som finns mellan de olika delarna som utgör ett system för datakommunikation och hur denna kommunikation kan ske informationssäkert.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för de samband som finns mellan de olika delarna som utgör ett system för datakommunikation och hur denna kommunikation kan ske informationssäkert."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven analyserar <strong>________</strong> med handledare befintliga informationstekniska system för datakommunikation samt dokumenterar sin analys.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven analyserar <strong>i samråd</strong> med handledare befintliga informationstekniska system för datakommunikation samt dokumenterar sin analys.",
+          "C" : "Eleven analyserar <strong>efter samråd</strong> med handledare befintliga informationstekniska system för datakommunikation samt dokumenterar sin analys.",
+          "A" : "Eleven analyserar <strong>efter samråd</strong> med handledare befintliga informationstekniska system för datakommunikation samt dokumenterar sin analys."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "Dessutom installerar, konfigurerar och felsöker eleven hård- och mjukvara på ett informationssäkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom installerar, konfigurerar och felsöker eleven hård- och mjukvara på ett informationssäkert sätt.",
+          "C" : "Dessutom installerar, konfigurerar och felsöker eleven hård- och mjukvara på ett informationssäkert sätt.",
+          "A" : "Dessutom installerar, konfigurerar och felsöker eleven hård- och mjukvara på ett informationssäkert sätt."
+        }
+      }, {
+        "text" : "Eleven utför arbetet med <strong>________</strong> handlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet med <strong>visst</strong> handlag.",
+          "C" : "Eleven utför arbetet med <strong>gott</strong> handlag.",
+          "A" : "Eleven utför arbetet med <strong>mycket gott</strong> handlag."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> instruktioner, manualer och andra dokument på både svenska och engelska.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument på både svenska och engelska.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument på både svenska och engelska.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner, manualer och andra dokument på både svenska och engelska."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> dokumentation av arbetet så att systemet blir spårbart och lätt att underhålla.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> dokumentation av arbetet så att systemet blir spårbart och lätt att underhålla.",
+          "C" : "Dessutom gör eleven en <strong>noggrann</strong> dokumentation av arbetet så att systemet blir spårbart och lätt att underhålla.",
+          "A" : "Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation av arbetet så att systemet blir spårbart och lätt att underhålla."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong> i fråga om informationssäkerhet, kvalitet och resurseffektivitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong> i fråga om informationssäkerhet, kvalitet och resurseffektivitet.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong> i fråga om informationssäkerhet, kvalitet och resurseffektivitet.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong> i fråga om informationssäkerhet, kvalitet och resurseffektivitet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven presenterar <strong>________</strong> sitt arbete med hjälp av något presentationsverktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven presenterar <strong>med viss säkerhet</strong> sitt arbete med hjälp av något presentationsverktyg.",
+          "C" : "Eleven presenterar <strong>med viss säkerhet</strong> sitt arbete med hjälp av något presentationsverktyg.",
+          "A" : "Eleven presenterar <strong>med säkerhet</strong> sitt arbete med hjälp av något presentationsverktyg."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer eleven <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer eleven <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer eleven <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer eleven <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Informationsteknisk arkitektur",
+    "description" : "Kursen informationsteknisk arkitektur omfattar punkterna 1–9 under rubriken Ämnets syfte.",
+    "code" : "INAINF0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Krav på ett informationstekniskt system, till exempel informationssäkerhet, skalbarhet, stabilitet och tillgänglighet, och på vilka sätt dessa krav kan tillgodoses i ett informationstekniskt system.", "Uppbyggnad av system med interoperabilitet som mål med hjälp av tjänsteorienterad arkitektur.", "Ett informationstekniskt systems livscykel med behovsanalys, riskanalys, kravspecifikation, utveckling, testning, driftsättning och förvaltning.", "Nedbrytning av ett befintligt system i mindre delar och processer med hjälp av någon systemutvecklingsmetod, till exempel vattenfallsmetoden och lättrörliga metoden.", "Dokumentation av ett befintligt system och representation av detta system i något språk.", "En projektmetod och dess användning inom det informationstekniska området.", "Metoder för kvalitetsstyrning och utvärdering. System för incidenthantering och spårbarhet.", "Regelverk för it-användning med informationssäkerhet som övergripande syfte.", "System för styrning av informationstekniska system, till exempel ITIL (Information Technology Infrastructure Library).", "Entreprenörskap och kundbemötande samt kommunikation med uppdragsgivare och uppdragstagare i tal, skrift och med visuella hjälpmedel." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> uppbyggnad, funktion och arbetssätt hos vanliga informationstekniska system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> uppbyggnad, funktion och arbetssätt hos vanliga informationstekniska system.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> uppbyggnad, funktion och arbetssätt hos vanliga informationstekniska system.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> uppbyggnad, funktion och arbetssätt hos vanliga informationstekniska system."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hur datasäkerhet och driftsäkerhet kan uppnås.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hur datasäkerhet och driftsäkerhet kan uppnås.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hur datasäkerhet och driftsäkerhet kan uppnås.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur datasäkerhet och driftsäkerhet kan uppnås."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven analyserar, planerar, genomför och dokumenterar <strong>________</strong> med handledare informationstekniska systems livscykel.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven analyserar, planerar, genomför och dokumenterar <strong>i samråd</strong> med handledare informationstekniska systems livscykel.",
+          "C" : "Eleven analyserar, planerar, genomför och dokumenterar <strong>efter samråd</strong> med handledare informationstekniska systems livscykel.",
+          "A" : "Eleven analyserar, planerar, genomför och dokumenterar <strong>efter samråd</strong> med handledare informationstekniska systems livscykel."
+        }
+      }, {
+        "text" : "Resultatet är <strong>________</strong> i fråga om säkerhet och kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet är <strong>tillfredsställande</strong> i fråga om säkerhet och kvalitet.",
+          "C" : "Resultatet är <strong>tillfredsställande</strong> i fråga om säkerhet och kvalitet.",
+          "A" : "Resultatet är <strong>gott</strong> i fråga om säkerhet och kvalitet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven analyserar <strong>________</strong> med handledare befintliga informationstekniska system för datakommunikation samt dokumenterar sin analys.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven analyserar <strong>i samråd</strong> med handledare befintliga informationstekniska system för datakommunikation samt dokumenterar sin analys.",
+          "C" : "Eleven analyserar <strong>efter samråd</strong> med handledare befintliga informationstekniska system för datakommunikation samt dokumenterar sin analys.",
+          "A" : "Eleven analyserar <strong>efter samråd</strong> med handledare befintliga informationstekniska system för datakommunikation samt dokumenterar sin analys."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "Dessutom installerar, konfigurerar och felsöker eleven med <strong>________</strong> handlag hård- och mjukvara på ett informationssäkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom installerar, konfigurerar och felsöker eleven med <strong>visst</strong> handlag hård- och mjukvara på ett informationssäkert sätt.",
+          "C" : "Dessutom installerar, konfigurerar och felsöker eleven med <strong>gott</strong> handlag hård- och mjukvara på ett informationssäkert sätt.",
+          "A" : "Dessutom installerar, konfigurerar och felsöker eleven med <strong>mycket gott</strong> handlag hård- och mjukvara på ett informationssäkert sätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I arbetet hanterar eleven <strong>________</strong> metoder och verktyg samt utför arbetet på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet hanterar eleven <strong>med viss säkerhet</strong> metoder och verktyg samt utför arbetet på ett säkert sätt.",
+          "C" : "I arbetet hanterar eleven <strong>med viss säkerhet</strong> metoder och verktyg samt utför arbetet på ett säkert sätt.",
+          "A" : "I arbetet hanterar eleven <strong>med säkerhet</strong> metoder och verktyg samt utför arbetet på ett säkert sätt."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> instruktioner, manualer och andra dokument på både svenska och engelska.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument på både svenska och engelska.",
+          "C" : "Dessutom använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument på både svenska och engelska.",
+          "A" : "Dessutom använder eleven <strong>med säkerhet</strong> instruktioner, manualer och andra dokument på både svenska och engelska."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör en <strong>________</strong> dokumentation av sitt arbete så att systemet blir spårbart och lätt att underhålla.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete så att systemet blir spårbart och lätt att underhålla.",
+          "C" : "Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete så att systemet blir spårbart och lätt att underhålla.",
+          "A" : "Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete så att systemet blir spårbart och lätt att underhålla."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong> i fråga om informationssäkerhet, kvalitet och resurseffektivitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong> i fråga om informationssäkerhet, kvalitet och resurseffektivitet.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong> i fråga om informationssäkerhet, kvalitet och resurseffektivitet.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong> i fråga om informationssäkerhet, kvalitet och resurseffektivitet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven identifierar <strong>________</strong> uppdragsgivares behov och ger råd och förslag på förbättringar i informationstekniska system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven identifierar <strong>med viss säkerhet</strong> uppdragsgivares behov och ger råd och förslag på förbättringar i informationstekniska system.",
+          "C" : "Eleven identifierar <strong>med viss säkerhet</strong> uppdragsgivares behov och ger <strong>välgrundade</strong> råd och förslag på förbättringar i informationstekniska system.",
+          "A" : "Eleven identifierar <strong>med säkerhet</strong> uppdragsgivares behov och ger <strong>välgrundade och nyanserade</strong> råd och förslag på förbättringar i informationstekniska system."
+        }
+      }, {
+        "text" : "Förbättringarna tillgodoser uppdragsgivarnas behov med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Förbättringarna tillgodoser uppdragsgivarnas behov med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Förbättringarna tillgodoser uppdragsgivarnas behov med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Förbättringarna tillgodoser uppdragsgivarnas behov med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "Eleven gör en <strong>________</strong> dokumentation över föreslagna förbättringar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> dokumentation över föreslagna förbättringar.",
+          "C" : "Eleven gör en <strong>noggrann</strong> dokumentation över föreslagna förbättringar.",
+          "A" : "Eleven gör en <strong>noggrann och utförlig</strong> dokumentation över föreslagna förbättringar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kommunicerar <strong>________</strong> med kunder, uppdragsgivare och uppdragstagare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kommunicerar <strong>med viss säkerhet</strong> med kunder, uppdragsgivare och uppdragstagare.",
+          "C" : "Eleven kommunicerar <strong>med viss säkerhet</strong> med kunder, uppdragsgivare och uppdragstagare.",
+          "A" : "Eleven kommunicerar <strong>med säkerhet</strong> med kunder, uppdragsgivare och uppdragstagare."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer eleven <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer eleven <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer eleven <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer eleven <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Nätverks- och kommunikationstjänster",
+    "description" : "Kursen nätverks- och kommunikationstjänster omfattar punkterna 1–2, 4–7 och 9 under rubriken Ämnets syfte.",
+    "code" : "INANAT0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Kommunikationsarkitekturer, till exempel stordator, klient-server och tunna klienter.", "Nätverksoperativsystem och plattformar med hänsyn till hur dessa kan integreras i befintliga system.", "Molntjänster och vilka informationssäkerhetsmässiga hänsyn som bör tas vid införandet av en molntjänst.", "Serverkluster och system för lastbalansering.", "Datalagringstekniker och disksystem.", "System för övervakning och incidenthantering.", "Webbpubliceringssystem och ramverk samt deras roll och användning i ett informationssystems intranät och extranät.", "Dokumentationsmetoder och uppställande av referensnivåer som hjälp för prestandaoptimering och felsökning.", "Virtualisering och virtualiseringstekniker. Installation och konfigurering av någon virtualiseringsteknik.", "E-posttjänster och deras roll och funktion i ett informationssystem. Installation och konfigurering av någon e-posttjänst.", "DNS (Domain Name System) och dess roll och funktion i ett informationssystem. Installation och konfigurering av någon DNS-tjänst.", "Webbservrar och webbtjänster och deras roll och funktion i ett informationssystem. Installation och konfigurering av någon webbserver.", "Tillverkning av skript för automatisering av rutinuppgifter inom ett informationstekniskt system, till exempel klientinstallationer och kontohantering.", "Presentationsverktyg som används inom kunskapsområdet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för begrepp och teorier inom teknikområdet samt beskriver <strong>________</strong> uppbyggnad, funktion och arbetssätt hos olika nätverks- och kommunikationstjänster och hur driftsäkerhet kan uppnås.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för begrepp och teorier inom teknikområdet samt beskriver <strong>översiktligt</strong> uppbyggnad, funktion och arbetssätt hos olika nätverks- och kommunikationstjänster och hur driftsäkerhet kan uppnås.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för begrepp och teorier inom teknikområdet samt beskriver <strong>utförligt</strong> uppbyggnad, funktion och arbetssätt hos olika nätverks- och kommunikationstjänster och hur driftsäkerhet kan uppnås.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för begrepp och teorier inom teknikområdet samt beskriver <strong>utförligt och nyanserat</strong> uppbyggnad, funktion och arbetssätt hos olika nätverks- och kommunikationstjänster och hur driftsäkerhet kan uppnås."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hur olika nätverks- och kommunikationstjänster på ett informationssäkert sätt kan integreras i nya eller förbättrade system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hur olika nätverks- och kommunikationstjänster på ett informationssäkert sätt kan integreras i nya eller förbättrade system.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hur olika nätverks- och kommunikationstjänster på ett informationssäkert sätt kan integreras i nya eller förbättrade system.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur olika nätverks- och kommunikationstjänster på ett informationssäkert sätt kan integreras i nya eller förbättrade system."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven analyserar <strong>________</strong> med handledare befintliga informationstekniska system för datakommunikation samt dokumenterar sin analys.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven analyserar <strong>i samråd</strong> med handledare befintliga informationstekniska system för datakommunikation samt dokumenterar sin analys.",
+          "C" : "Eleven analyserar <strong>efter samråd</strong> med handledare befintliga informationstekniska system för datakommunikation samt dokumenterar sin analys.",
+          "A" : "Eleven analyserar <strong>efter samråd</strong> med handledare befintliga informationstekniska system för datakommunikation samt dokumenterar sin analys."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "Dessutom installerar, konfigurerar och felsöker eleven <strong>________</strong> med handledare nätverks- och kommunikationstjänster och integrerar dem i nya eller förbättrade system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom installerar, konfigurerar och felsöker eleven <strong>i samråd</strong> med handledare nätverks- och kommunikationstjänster och integrerar dem i nya eller förbättrade system.",
+          "C" : "Dessutom installerar, konfigurerar och felsöker eleven <strong>efter samråd</strong> med handledare nätverks- och kommunikationstjänster och integrerar dem i nya eller förbättrade system.",
+          "A" : "Dessutom installerar, konfigurerar och felsöker eleven <strong>efter samråd</strong> med handledare nätverks- och kommunikationstjänster och integrerar dem i nya eller förbättrade system."
+        }
+      }, {
+        "text" : "Eleven utför sitt arbete med <strong>________</strong> handlag och automatiserar rutinuppgifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför sitt arbete med <strong>visst</strong> handlag och automatiserar rutinuppgifter.",
+          "C" : "Eleven utför sitt arbete med <strong>gott</strong> handlag och automatiserar rutinuppgifter.",
+          "A" : "Eleven utför sitt arbete med <strong>mycket gott</strong> handlag och automatiserar rutinuppgifter."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> instruktioner, manualer och andra dokument på både svenska och engelska.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument på både svenska och engelska.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument på både svenska och engelska.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner, manualer och andra dokument på både svenska och engelska."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> dokumentation av sitt arbete så att systemet blir spårbart och lätt att underhålla.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> dokumentation av sitt arbete så att systemet blir spårbart och lätt att underhålla.",
+          "C" : "Dessutom gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete så att systemet blir spårbart och lätt att underhålla.",
+          "A" : "Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete så att systemet blir spårbart och lätt att underhålla."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong> i fråga om informationssäkerhet, kvalitet och resurseffektivitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong> i fråga om informationssäkerhet, kvalitet och resurseffektivitet.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong> i fråga om informationssäkerhet, kvalitet och resurseffektivitet.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong> i fråga om informationssäkerhet, kvalitet och resurseffektivitet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven presenterar <strong>________</strong> sitt arbete med hjälp av något presentationsverktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven presenterar <strong>med viss säkerhet</strong> sitt arbete med hjälp av något presentationsverktyg.",
+          "C" : "Eleven presenterar <strong>med viss säkerhet</strong> sitt arbete med hjälp av något presentationsverktyg.",
+          "A" : "Eleven presenterar <strong>med säkerhet</strong> sitt arbete med hjälp av något presentationsverktyg."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer eleven <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer eleven <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer eleven <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer eleven <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

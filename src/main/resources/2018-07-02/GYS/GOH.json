@@ -1,0 +1,144 @@
+{
+  "name" : "Godshantering",
+  "description" : "Ämnet godshantering behandlar hantering av gods. I ämnet ingår identifiering och märkning samt lastning och lossning av gods. Ämnet omfattar också teknisk utrustning för godshantering. Centralt i ämnet är arbetsmiljö och säkerhet samt de bestämmelser som reglerar godshantering.",
+  "code" : "GOH",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet godshantering ska syfta till att eleverna utvecklar kunskaper om godshantering och logistik samt förmåga att utföra arbetsuppgifter inom området.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om godsets väg från producent till konsument och om de system som används för att hantera gods.", "Eleverna ska ges möjlighet att utveckla kunskaper om digitala informationssystem, fraktdokument och märkning av gods.", "Undervisningen ska leda till att eleverna utvecklar förmåga att klassificera och märka gods." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om logistik och teknisk utrustning för hantering av gods.", "Eleverna ska ges möjlighet att utveckla förmåga att utföra olika typer av beräkningar i samband med godshantering.", "Undervisningen ska bidra till att eleverna utvecklar kunskaper om lagar och andra bestämmelser som gäller i samband med godshantering.", "Eleverna ska också ges möjlighet att utveckla kunskaper om den tekniska utrustningens konstruktion, funktion och användningsområden.", "Undervisningen ska bidra till att eleverna utvecklar förmåga att sköta och underhålla utrustning för godshantering.", "Undervisningen ska leda till att eleverna utvecklar förmåga att utföra arbetsuppgifter utifrån krav på säkerhet, kvalitet och miljö." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Praktiskt arbete och ett problemlösande arbetssätt ska ingå i undervisningen.", "Undervisningen ska ge eleverna möjlighet att reflektera över och samtala om genomfört arbete, arbetsmiljö och säkerhet samt frågor om miljöpåverkan inom området." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet godshantering ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om godshantering och logistik.", "Kunskaper om teknisk utrustning inom godshantering.", "Förmåga att välja och använda teknisk utrustning i samband med godshantering.", "Förmåga att utföra arbetsuppgifter inom godshantering på ett ergonomiskt och säkert sätt." ]
+  } ],
+  "courses" : [ {
+    "name" : "Godshantering 1",
+    "description" : "Kursen godshantering 1 omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "GOHGOD51",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "System för godshantering.", "Fraktdokument.", "Klassning och identifiering av gods, till exempel ömtåligt gods, farligt gods och kylgods. Märkning och etikettering på emballage och förpackningar.", "Säker hantering av gods. Riskbedömning och säkerhetsåtgärder vid hantering av gods. Säkerhets- och skyddsutrustning.", "Godsskyddande åtgärder i samband med transport, till exempel krav på separation, temperatur och hygien.", "Teknisk utrustning för hantering av gods, till exempel pallyft, åkstaplare och lastbärare. Användningsområden, konstruktion och funktion.", "Säkerhetskontroll och daglig tillsyn av teknisk utrustning.", "Lastning, lossning och hantering av gods med hjälp av teknisk utrustning. Arbetsmetoder och principer.", "Säkerhet och skyddsutrustning vid lastning och lossning.", "Ergonomi och arbetsmiljö.", "Brand, brandskydd och första hjälpen.", "Lagar och andra bestämmelser, till exempel miljölagar, transportlagen och säkerhetsföreskrifter." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva godshantering och logistik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva godshantering och logistik.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> godshantering och logistik.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> godshantering och logistik."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att beskriva teknisk utrustning inom godshantering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att beskriva teknisk utrustning inom godshantering.",
+          "C" : "Eleven beskriver också <strong>på ett enkelt sätt</strong> teknisk utrustning inom godshantering.",
+          "A" : "Eleven beskriver också <strong>på ett utvecklat sätt</strong> teknisk utrustning inom godshantering."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att välja och använda teknisk utrustning i samband med godshantering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att välja och använda teknisk utrustning i samband med godshantering.",
+          "C" : "Eleven väljer och använder <strong>med viss säkerhet</strong> teknisk utrustning i samband med godshantering.",
+          "A" : "Eleven väljer och använder <strong>med säkerhet</strong> teknisk utrustning i samband med godshantering."
+        }
+      }, {
+        "text" : "Dessutom <strong>________</strong> eleven i att utföra arbetsmoment inom godshantering på ett ergonomiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom <strong>medverkar</strong> eleven i att utföra arbetsmoment inom godshantering på ett ergonomiskt och säkert sätt.",
+          "C" : "Dessutom utför eleven <strong>med tillfredsställande resultat</strong> arbetsmoment inom godshantering på ett ergonomiskt och säkert sätt.",
+          "A" : "Dessutom utför eleven <strong>med gott resultat</strong> arbetsmoment inom godshantering på ett ergonomiskt och säkert sätt."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Godshantering 2",
+    "description" : "Kursen godshantering 2 omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "GOHGOD52",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "System för godshantering.", "Fraktdokument.", "Klassning och identifiering av gods, till exempel ömtåligt gods, farligt gods och kylgods. Märkning och etikettering på emballage och förpackningar.", "Säker hantering av gods. Riskbedömning och säkerhetsåtgärder vid hantering av gods. Säkerhets- och skyddsutrustning.", "Godsskyddande åtgärder i samband med transport, till exempel krav på separation, temperatur och hygien. Godsets tålighet under transport, lagring och hantering.", "Teknisk utrustning för hantering av gods, till exempel pallyft, åkstaplare och lastbärare. Användningsområden, konstruktion och funktion. Tillsatsaggregat. Kapacitet hos lyftredskap. Truckens stabilitet och lyftförmåga.", "Service, tillsyn och underhåll av truck och annan teknisk utrustning.", "Säkerhetskontroll och daglig tillsyn av teknisk utrustning.", "Lastning, lossning och hantering av gods med hjälp av teknisk utrustning. Arbetsmetoder och principer. Beräkning av laststorlek och viktfördelning.", "Lyft- och staplingsmetoder. Beräkningar i samband med lastning, stapling och hantering av gods.", "Lastsäkring. Säkring av last med hjälp av olika lastsäkringsmetoder. Tillsyn och underhåll av lastsäkringsutrustning.", "Säkerhet och skyddsutrustning vid lastning och lossning.", "Lagar och andra bestämmelser, till exempel miljölagar, transportlagen och säkerhetsföreskrifter." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva godshantering och logistik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva godshantering och logistik.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> godshantering och logistik.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> godshantering och logistik."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att beskriva teknisk utrustning inom godshantering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att beskriva teknisk utrustning inom godshantering.",
+          "C" : "Eleven beskriver också <strong>på ett enkelt sätt</strong> teknisk utrustning inom godshantering.",
+          "A" : "Eleven beskriver också <strong>på ett utvecklat sätt</strong> teknisk utrustning inom godshantering."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att välja och använda teknisk utrustning i samband med godshantering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att välja och använda teknisk utrustning i samband med godshantering.",
+          "C" : "Eleven väljer och använder <strong>med viss säkerhet</strong> teknisk utrustning i samband med godshantering.",
+          "A" : "Eleven väljer och använder <strong>med säkerhet</strong> teknisk utrustning i samband med godshantering."
+        }
+      }, {
+        "text" : "Dessutom <strong>________</strong> eleven i att utföra arbetsmoment inom godshantering på ett ergonomiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom <strong>medverkar</strong> eleven i att utföra arbetsmoment inom godshantering på ett ergonomiskt och säkert sätt.",
+          "C" : "Dessutom utför eleven <strong>med tillfredsställande resultat</strong> arbetsmoment inom godshantering på ett ergonomiskt och säkert sätt.",
+          "A" : "Dessutom utför eleven <strong>med gott resultat</strong> arbetsmoment inom godshantering på ett ergonomiskt och säkert sätt."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Godshantering – truck",
+    "description" : "Kursen godshantering – truck omfattar punkterna 2–4 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "GOHGOS5",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Truckens konstruktion, funktion och användningsområden. Truckens stabilitet och lyftförmåga. Kapacitetsskyltar och märkning på truckar.", "Tillsatsaggregat. Konstruktion, funktion och användningsområden.", "Service, tillsyn och underhåll av truck, tillsatsaggregat och lastsäkringsutrustning. Säkerhetskontroll och daglig tillsyn.", "Körning och manövrering av truckar. Lastning, lossning och hantering av gods med hjälp av truck.", "Hantering och byte av redskap för olika användningsområden.", "Lyftmetoder, staplingsmetoder och förankringsmetoder.", "Beräkning av laststorlek och viktfördelning för truck och lastbärare.", "Säker hantering av gods, till exempel bräckligt gods, gods med krav på speciell förvaring och restriktioner vid hantering av farligt gods.", "Ergonomi, arbetsmiljö och säkerhet.", "Skyddsutrustning, till exempel hjälm, skyddsskor och skyddsmask.", "Trafikregler för truck." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva teknisk utrustning inom godshantering med truck.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva teknisk utrustning inom godshantering med truck.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> teknisk utrustning inom godshantering med truck.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> teknisk utrustning inom godshantering med truck."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att välja och använda teknisk utrustning i samband med godshantering med truck.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att välja och använda teknisk utrustning i samband med godshantering med truck.",
+          "C" : "Eleven väljer och använder också <strong>med viss säkerhet</strong> teknisk utrustning i samband med godshantering med truck.",
+          "A" : "Eleven väljer och använder också <strong>med säkerhet</strong> teknisk utrustning i samband med godshantering med truck."
+        }
+      }, {
+        "text" : "Dessutom <strong>________</strong> eleven i att utföra arbetsmoment inom godshantering med truck på ett ergonomiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom <strong>medverkar</strong> eleven i att utföra arbetsmoment inom godshantering med truck på ett ergonomiskt och säkert sätt.",
+          "C" : "Dessutom utför eleven <strong>med tillfredsställande resultat</strong> arbetsmoment inom godshantering med truck på ett ergonomiskt och säkert sätt.",
+          "A" : "Dessutom utför eleven <strong>med gott resultat</strong> arbetsmoment inom godshantering med truck på ett ergonomiskt och säkert sätt."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

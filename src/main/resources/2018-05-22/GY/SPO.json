@@ -1,0 +1,191 @@
+{
+  "name" : "Spårfordon",
+  "description" : "Ämnet spårfordon behandlar de system spårfordon är uppbyggda av och hur dessa samverkar. Det behandlar också aktiviteter för driftsäkerhet och underhåll samt fordonens driftsmiljö. Ämnet behandlar personsäkerhetsfrågor i den omfattning som krävs för att vistas inom spårområden.",
+  "code" : "SPO",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet spårfordon ska syfta till att eleverna utvecklar förståelse av de användningsområden som finns för spårfordon.", "Eleverna ska ges möjlighet att utveckla kunskaper om spårfordons uppbyggnad i samverkande system samt driftsmiljö.", "Undervisningen ska leda till att eleverna utvecklar förståelse av tillverkningsprocessen och kunskaper om ombyggnad och revisioner av spårbundna fordon samt förebyggande och avhjälpande underhåll." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Eleverna ska dessutom ges möjlighet att utveckla förståelse av och kunskaper om branschen, dess utveckling, nuvarande villkor och samhällsfunktion samt om olika arbetsområden inom branschen.", "Den ska också ge eleverna möjlighet att utveckla förståelse av och kunskaper om den infrastruktur som berör spårfordon." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska leda till att eleven utvecklar förståelse av och kunskaper om spårfordons tekniska omfattning och komplexitet samt de säkerhetsföreskrifter som gäller för såväl spårfordon som arbets- och driftsmiljö.", "I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de förbereder för arbete med spårfordon i reell miljö.", "Dessa arbetsuppgifter ska utgå från teoretiska grunder och inkludera ett laborativt arbetssätt." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar förståelse för vikten av att kunna arbeta självständigt och tillsammans med andra.", "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om betydelsen av hur människor och maskiner samverkar." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska leda till att eleverna utvecklar kunskaper om systematiskt arbetsmiljöarbete samt förmåga att utföra konkreta insatser vid olyckstillfällen." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet spårfordon ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om branschen och dess roll i samhället.", "Kunskaper om spårbundna fordonstyper, användningsområden och driftsmiljö samt deras konstruktion, komponenter, system och hur dessa fungerar och samverkar.", "Kunskaper om dokumentation som används vid tillverkning och underhåll av spårbundna fordon samt om förebyggande och avhjälpande underhåll för säker drift.", "Kunskaper om funktion och uppbyggnad av anläggningar och system för drift av spårfordon.", "Förmåga att välja och använda instrument, verktyg och stödsystem som används inom arbetsområdet.", "Kunskaper om och förmåga att arbeta på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten.", "Färdighet i att demontera, installera och montera i enlighet med beskrivande underlag, instruktioner, manualer, ritningar, scheman och arbetsrutiner.", "Kunskaper om systematiskt arbetsmiljöarbete samt förmåga att ingripa vid olyckstillbud.", "Förmåga att arbeta ergonomiskt på ett sätt som förebygger ohälsa och personskador.", "Förmåga att samarbeta och kommunicera med andra samt förståelse av och färdigheter i att använda fackspråk." ]
+  } ],
+  "courses" : [ {
+    "name" : "Spårfordon – grund",
+    "description" : "Kursen spårfordon – grund omfattar punkterna 1–10 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper.",
+    "code" : "SPOSPA0",
+    "centralContent" : [ {
+      "heading" : "",
+      "lines" : [ "Spårfordons historia, utveckling och framtid samt roll i samhället.", "Olika spårbundna fordon och deras användningsområden.", "Konstruktion och funktion av olika driftarter för spårfordon, till exempel el-, diesel- och eldieseldrift.", "Spårfordons uppbyggnad, funktionssystem och ingående komponenter.", "Relevanta metoder och strategier för underhåll av spårfordon.", "Instrument, manualer, ritningar, scheman och system för arbeten samt dokumentation vid åtgärder på spårfordon.", "Säkerhet i samband med vistelse i spår och spårområden.", "Lagar och andra bestämmelser för spårfordon och deras driftsområden.", "Enkel demontering, installation och montering.", "Funktion och uppbyggnad av system och anläggningar för drift, till exempel kraftförsörjningsanläggningar.", "Arbetsmiljö, riskanalys, brandskydd, första hjälpen och krishantering.", "Ergonomiskt arbetssätt för att förebygga ohälsa och olycksfall.", "Fackspråk för att förstå och följa instruktioner samt för att kommunicera kring arbetets utförande." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för branschen, dess driftsområden och samhällsfunktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för branschen, dess driftsområden och samhällsfunktion.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för branschen, dess driftsområden och samhällsfunktion.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för branschen, dess driftsområden och samhällsfunktion."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för spårbundna fordonstyper, deras användningsområden och driftsmiljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för spårbundna fordonstyper, deras användningsområden och driftsmiljö.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för spårbundna fordonstyper, deras användningsområden och driftsmiljö.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för spårbundna fordonstyper, deras användningsområden och driftsmiljö."
+        }
+      }, {
+        "text" : "Eleven redogör även <strong>________</strong> för konstruktion och funktion hos spårfordon med olika driftarter samt funktionssystem och hur dessa system samverkar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör även <strong>översiktligt</strong> för konstruktion och funktion hos spårfordon med olika driftarter samt funktionssystem och hur dessa system samverkar.",
+          "C" : "Eleven redogör även <strong>utförligt</strong> för konstruktion och funktion hos spårfordon med olika driftarter samt funktionssystem och hur dessa system samverkar.",
+          "A" : "Eleven redogör även <strong>utförligt och nyanserat</strong> för konstruktion och funktion hos spårfordon med olika driftarter samt funktionssystem och hur dessa system samverkar."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> metoder för underhåll samt redogör <strong>________</strong> för underhållets betydelse för driftssäkerhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> metoder för underhåll samt redogör <strong>översiktligt</strong> för underhållets betydelse för driftssäkerhet.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> metoder för underhåll samt redogör <strong>utförligt</strong> för underhållets betydelse för driftssäkerhet.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> metoder för underhåll samt redogör <strong>utförligt och nyanserat</strong> för underhållets betydelse för driftssäkerhet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar arbetsuppgifter <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar arbetsuppgifter <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven planerar och organiserar arbetsuppgifter <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven planerar och organiserar arbetsuppgifter <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "I planeringen tolkar eleven <strong>________</strong> instruktioner, ritningar och funktionsbeskrivningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner, ritningar och funktionsbeskrivningar.",
+          "C" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner, ritningar och funktionsbeskrivningar.",
+          "A" : "I planeringen tolkar eleven <strong>med säkerhet</strong> instruktioner, ritningar och funktionsbeskrivningar."
+        }
+      }, {
+        "text" : "Vidare väljer eleven <strong>________</strong> med handledare arbetsmetoder, verktyg och utrustning som passar för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare väljer eleven <strong>i samråd</strong> med handledare arbetsmetoder, verktyg och utrustning som passar för uppgiften.",
+          "C" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg och utrustning som passar för uppgiften.",
+          "A" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg och utrustning som passar för uppgiften."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>________</strong> handlag och håller god ordning på arbetsplatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>visst</strong> handlag och håller god ordning på arbetsplatsen.",
+          "C" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>gott</strong> handlag och håller god ordning på arbetsplatsen.",
+          "A" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>gott</strong> handlag och håller god ordning på arbetsplatsen."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert såväl för eleven själv som för andra samt använder skyddsutrustning och lämpliga arbetskläder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert såväl för eleven själv som för andra samt använder skyddsutrustning och lämpliga arbetskläder.",
+          "C" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert såväl för eleven själv som för andra samt använder skyddsutrustning och lämpliga arbetskläder.",
+          "A" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert såväl för eleven själv som för andra samt använder skyddsutrustning och lämpliga arbetskläder."
+        }
+      }, {
+        "text" : "Dessutom vårdar eleven <strong>________</strong> utrustning, maskiner och verktyg enligt instruktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom vårdar eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg enligt instruktioner.",
+          "C" : "Dessutom vårdar eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg enligt instruktioner.",
+          "A" : "Dessutom vårdar eleven <strong>med säkerhet</strong> utrustning, maskiner och verktyg enligt instruktioner."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför med noggrannhet <strong>________</strong> med handledare arbetsuppgifter med installation, montering och demontering i enlighet med arbetsbeskrivningar, säkerhetsföreskrifter samt givna instruktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför med noggrannhet <strong>i samråd</strong> med handledare arbetsuppgifter med installation, montering och demontering i enlighet med arbetsbeskrivningar, säkerhetsföreskrifter samt givna instruktioner.",
+          "C" : "Eleven utför med noggrannhet <strong>efter samråd</strong> med handledare arbetsuppgifter med installation, montering och demontering i enlighet med arbetsbeskrivningar, säkerhetsföreskrifter samt givna instruktioner.",
+          "A" : "Eleven utför med noggrannhet <strong>efter samråd</strong> med handledare arbetsuppgifter med installationer, montering och demontering i enlighet med arbetsbeskrivningar, säkerhetsföreskrifter samt givna instruktioner. I arbetet använder eleven i <strong>nya</strong> situationer <strong>med säkerhet</strong> instruktioner och utrustningsbeskrivningar."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong> utifrån givna kvalitets- och funktionskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitets- och funktionskrav.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitets- och funktionskrav.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong> utifrån givna kvalitets- och funktionskrav."
+        }
+      }, {
+        "text" : "Vid arbete i <strong>________</strong> situationer använder eleven <strong>________</strong> instruktioner och utrustningsbeskrivningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vid arbete i <strong>bekanta</strong> situationer använder eleven <strong>med säkerhet</strong> instruktioner och utrustningsbeskrivningar.",
+          "C" : "Vid arbete i <strong>nya</strong> situationer använder eleven <strong>med säkerhet</strong> instruktioner och utrustningsbeskrivningar.",
+          "A" : "Vid arbete i <strong>nya</strong> situationer använder eleven <strong>med säkerhet</strong> instruktioner och utrustningsbeskrivningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för material, teknik, metoder och verktyg som används för arbetsuppgiften och hur dessa påverkar kvalitet och slutresultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för material, teknik, metoder och verktyg som används för arbetsuppgiften och hur dessa påverkar kvalitet och slutresultat.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för material, teknik, metoder och verktyg som används för arbetsuppgiften och hur dessa påverkar kvalitet och slutresultat.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för material, teknik, metoder och verktyg som används för arbetsuppgiften och hur dessa påverkar kvalitet och slutresultat."
+        }
+      }, {
+        "text" : "Eleven redogör dessutom <strong>________</strong> för eventuella svårigheter under arbetet samt utvärderar med <strong>________</strong> omdömen den egna arbetsinsatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör dessutom <strong>översiktligt</strong> för eventuella svårigheter under arbetet samt utvärderar med <strong>enkla</strong> omdömen den egna arbetsinsatsen.",
+          "C" : "Eleven redogör dessutom <strong>utförligt</strong> för eventuella svårigheter under arbetet samt utvärderar med <strong>välgrundade</strong> omdömen den egna arbetsinsatsen.",
+          "A" : "Eleven redogör dessutom <strong>utförligt och nyanserat</strong> för eventuella svårigheter under arbetet samt utvärderar med <strong>välgrundade och nyanserade</strong> omdömen den egna arbetsinsatsen."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för individens, gruppens och den mänskliga faktorns betydelse i arbetet samt beskriver åtgärder vid olyckstillbud.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för individens, gruppens och den mänskliga faktorns betydelse i arbetet samt beskriver åtgärder vid olyckstillbud.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för individens, gruppens och den mänskliga faktorns betydelse i arbetet samt beskriver åtgärder vid olyckstillbud.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för individens, gruppens och den mänskliga faktorns betydelse i arbetet samt beskriver åtgärder vid olyckstillbud."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> relevanta <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> relevanta <strong>facktermer</strong>.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> relevanta <strong>fackspråk</strong>.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> relevant <strong>fackspråk</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han med <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han med <strong>viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han med <strong>viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 150,
+    "year" : null
+  } ]
+}

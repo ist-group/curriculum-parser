@@ -1,0 +1,727 @@
+{
+  "name" : "Styckningskunskap",
+  "description" : "Ämnet styckningskunskap behandlar hantverksmässig styckning av olika djurslag. I ämnet behandlas dessutom djurens anatomi, hur styckdetaljer används inom näringen samt betydelsen av produktkvalitet.",
+  "code" : "STC",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet styckningskunskap ska syfta till att eleverna utvecklar förmåga att grov- och finstycka olika djurslag med moderna och traditionella hantverksmetoder.", "I undervisningen ska eleverna ges möjlighet att utveckla förmåga att välja och hantera råvaror samt kunskaper om hur kvaliteten på olika råvaror påverkar slutprodukten." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar kunskaper om hygien, ergonomi, arbetsmiljö och säkerhet samt om lagar och andra bestämmelser som gäller för yrkesområdet.", "Den ska ge eleverna möjlighet att utveckla färdigheter i att organisera och utföra arbetet samt förmåga att bedöma arbetet och reflektera över hur arbetsprocessen påverkar resultatet.", "Undervisningen ska även bidra till att eleverna utvecklar kreativitet samt problemlösnings- och initiativförmåga.", "Dessutom ska eleverna ges möjlighet att utföra arbetsuppgifter såväl individuellt som i samarbete med andra." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom praktiska övningar i undervisningen ska eleverna ges möjlighet att utveckla färdigheter inom styckningsområdet." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet styckningskunskap ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om djurens anatomi, köttkvalitet och om styckningsdetaljernas olika användningsområden, hantering, förpackning och förvaring.", "Färdigheter i att göra styckningskalkyler och effektivitetsbedömningar.", "Färdigheter i att utföra hängande och liggande styckning samt att finstycka grovstyckade detaljer.", "Förmåga att använda utrustning, maskiner och verktyg.", "Förmåga att förpacka och förvara styckningsdetaljer.", "Kunskaper om lagar och andra bestämmelser inom området.", "Förmåga att underhålla utrustning, maskiner och verktyg.", "Förmåga att utvärdera sitt arbete och resultat." ]
+  } ],
+  "courses" : [ {
+    "name" : "Finstyckning",
+    "description" : "Kursen finstyckning omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas grundläggande färdigheter i ämnet.",
+    "code" : "STCFIN0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Djurens anatomi. Alla i branschen vanligt förekommande djurslag.", "Styckningsdetaljernas utseende, kvalitet, karaktär samt användningsområde vid förädling och tillagning.", "Pannfärdigt, dvs. förädling av styckningsdetaljer av alla djurslag.", "Hantering och förvaring av råvaror.", "Hur man för olika djurslag finstyckar grovstyckade styckningsdetaljer.", "Stycknings- och förädlingskalkyler.", "Användning av handverktyg och maskiner vid finstyckning.", "Förpackningsmaterial, paketering och märkning.", "Arbetsmiljö, ergonomi och säkerhet.", "Praktisk hygien och egenkontroll." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> djurens anatomi.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> djurens anatomi.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> djurens anatomi.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> djurens anatomi."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras."
+        }
+      }, {
+        "text" : "Vidare redogör eleven <strong>________</strong> för styckningsdetaljernas kött- och styckningskvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare redogör eleven <strong>översiktligt</strong> för styckningsdetaljernas kött- och styckningskvalitet.",
+          "C" : "Vidare redogör eleven <strong>utförligt</strong> för styckningsdetaljernas kött- och styckningskvalitet.",
+          "A" : "Vidare redogör eleven <strong>utförligt och nyanserat</strong> för styckningsdetaljernas kött- och styckningskvalitet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar <strong>________</strong> med handledare styckningsarbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar <strong>i samråd</strong> med handledare styckningsarbete.",
+          "C" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare styckningsarbete.",
+          "A" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare styckningsarbete."
+        }
+      }, {
+        "text" : "Vid planeringen gör eleven <strong>________</strong> en styckningskalkyl samt motiverar <strong>________</strong> sin kalkyl utifrån ekonomiska aspekter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vid planeringen gör eleven <strong>med viss säkerhet</strong> en styckningskalkyl samt motiverar <strong>översiktligt</strong> sin kalkyl utifrån ekonomiska aspekter.",
+          "C" : "Vid planeringen gör eleven <strong>med viss säkerhet</strong> en styckningskalkyl samt motiverar <strong>utförligt</strong> sin kalkyl utifrån ekonomiska aspekter.",
+          "A" : "Vid planeringen gör eleven <strong>med säkerhet</strong> en styckningskalkyl samt motiverar <strong>utförligt och nyanserat</strong> sin kalkyl utifrån ekonomiska aspekter."
+        }
+      }, {
+        "text" : "Eleven genomför <strong>________</strong> med handledare styckning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven genomför <strong>i samråd</strong> med handledare styckning.",
+          "C" : "Eleven genomför <strong>efter samråd</strong> med handledare styckning.",
+          "A" : "Eleven genomför <strong>efter samråd</strong> med handledare styckning."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> utrustning, maskiner och verktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> utrustning, maskiner och verktyg."
+        }
+      }, {
+        "text" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar <strong>________</strong> styckningsdetaljerna i enlighet med lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar <strong>med viss säkerhet</strong> styckningsdetaljerna i enlighet med lagar och andra bestämmelser.",
+          "C" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar <strong>med viss säkerhet</strong> styckningsdetaljerna i enlighet med lagar och andra bestämmelser.",
+          "A" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar <strong>med säkerhet</strong> styckningsdetaljerna i enlighet med lagar och andra bestämmelser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>________</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>översiktligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "C" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>utförligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "A" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>utförligt och nyanserat</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört genomför eleven <strong>________</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört genomför eleven <strong>i samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+          "C" : "När arbetet är utfört genomför eleven <strong>efter samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+          "A" : "När arbetet är utfört genomför eleven <strong>efter samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven med <strong>________</strong> omdömen sitt arbete och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+          "C" : "Dessutom utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
+          "A" : "Dessutom utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Styckning 1",
+    "description" : "Kursen styckning 1 omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas grundläggande färdigheter i ämnet.",
+    "code" : "STCSTY01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Djurens anatomi. Alla i branschen vanligt förekommande djurslag.", "Styckningsdetaljernas anatomi och användningsområden.", "Klassificering och kvalitetsbedömning av djurkroppar.", "Hantering och förvaring av råvaror.", "Styckning, nedskärning och sortering av främst gris, lamm, kalv och nöt.", "Enkla styckningskalkyler.", "Användning och vård av handverktyg och maskiner inom styckningsindustrin.", "Förpackningsmaterial, paketering och märkning.", "Ergonomi och riskfaktorer i arbetet.", "Arbetsmiljö och säkerhet.", "Hygien och egenkontroll." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> djurens anatomi.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> djurens anatomi.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> djurens anatomi.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> djurens anatomi."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras."
+        }
+      }, {
+        "text" : "Vidare redogör eleven <strong>________</strong> för styckningsdetaljernas kött- och styckningskvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare redogör eleven <strong>översiktligt</strong> för styckningsdetaljernas kött- och styckningskvalitet.",
+          "C" : "Vidare redogör eleven <strong>utförligt</strong> för styckningsdetaljernas kött- och styckningskvalitet.",
+          "A" : "Vidare redogör eleven <strong>utförligt och nyanserat</strong> för styckningsdetaljernas kött- och styckningskvalitet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar <strong>________</strong> med handledare styckningsarbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar <strong>i samråd</strong> med handledare styckningsarbete.",
+          "C" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare styckningsarbete.",
+          "A" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare styckningsarbete."
+        }
+      }, {
+        "text" : "Vid planeringen gör eleven <strong>________</strong> en styckningskalkyl samt motiverar <strong>________</strong> sin kalkyl utifrån ekonomiska aspekter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vid planeringen gör eleven <strong>med viss säkerhet</strong> en styckningskalkyl samt motiverar <strong>översiktligt</strong> sin kalkyl utifrån ekonomiska aspekter.",
+          "C" : "Vid planeringen gör eleven <strong>med viss säkerhet</strong> en styckningskalkyl samt motiverar <strong>utförligt</strong> sin kalkyl utifrån ekonomiska aspekter.",
+          "A" : "Vid planeringen gör eleven <strong>med säkerhet</strong> en styckningskalkyl samt motiverar <strong>utförligt och nyanserat</strong> sin kalkyl utifrån ekonomiska aspekter."
+        }
+      }, {
+        "text" : "Eleven genomför <strong>________</strong> med handledare styckning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven genomför <strong>i samråd</strong> med handledare styckning.",
+          "C" : "Eleven genomför <strong>efter samråd</strong> med handledare styckning.",
+          "A" : "Eleven genomför <strong>efter samråd</strong> med handledare styckning."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> utrustning, maskiner och verktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> utrustning, maskiner och verktyg."
+        }
+      }, {
+        "text" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar <strong>________</strong> styckningsdetaljerna i enlighet med lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar <strong>med viss säkerhet</strong> styckningsdetaljerna i enlighet med lagar och andra bestämmelser.",
+          "C" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar <strong>med viss säkerhet</strong> styckningsdetaljerna i enlighet med lagar och andra bestämmelser.",
+          "A" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar <strong>med säkerhet</strong> styckningsdetaljerna i enlighet med lagar och andra bestämmelser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>________</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>översiktligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "C" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>utförligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "A" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>utförligt och nyanserat</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört genomför eleven <strong>________</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört genomför eleven <strong>i samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+          "C" : "När arbetet är utfört genomför eleven <strong>efter samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+          "A" : "När arbetet är utfört genomför eleven <strong>efter samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven med <strong>________</strong> omdömen sitt arbete och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+          "C" : "Dessutom utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
+          "A" : "Dessutom utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Styckning 2",
+    "description" : "Kursen styckning 2 omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade färdigheter i ämnet.",
+    "code" : "STCSTY02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Djurens anatomi med betoning på gris och lamm.", "Styckningsdetaljernas och de olika sorteringarnas användningsområden vid förädling och tillagning.", "Styckningskvalitet och normer.", "Styckning, nedskärning och sortering av gris och lamm.", "Styckningskalkyler och ekonomiska kalkyler.", "Metoder och teknik vid industriell styckning.", "Användning och vård av utrustning vid industriell styckning.", "Ergonomi och riskfaktorer i arbetet.", "Hygien och egenkontroll." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> djurens anatomi.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> djurens anatomi.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> djurens anatomi.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> djurens anatomi."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras."
+        }
+      }, {
+        "text" : "Vidare redogör eleven <strong>________</strong> för styckningsdetaljernas kött- och styckningskvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare redogör eleven <strong>översiktligt</strong> för styckningsdetaljernas kött- och styckningskvalitet.",
+          "C" : "Vidare redogör eleven <strong>utförligt</strong> för styckningsdetaljernas kött- och styckningskvalitet.",
+          "A" : "Vidare redogör eleven <strong>utförligt och nyanserat</strong> för styckningsdetaljernas kött- och styckningskvalitet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar <strong>________</strong> med handledare styckningsarbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar <strong>i samråd</strong> med handledare styckningsarbete.",
+          "C" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare styckningsarbete.",
+          "A" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare styckningsarbete."
+        }
+      }, {
+        "text" : "Vid planeringen gör eleven <strong>________</strong> en styckningskalkyl samt motiverar <strong>________</strong> sin kalkyl utifrån ekonomiska aspekter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vid planeringen gör eleven <strong>med viss säkerhet</strong> en styckningskalkyl samt motiverar <strong>översiktligt</strong> sin kalkyl utifrån ekonomiska aspekter.",
+          "C" : "Vid planeringen gör eleven <strong>med viss säkerhet</strong> en styckningskalkyl samt motiverar <strong>utförligt</strong> sin kalkyl utifrån ekonomiska aspekter.",
+          "A" : "Vid planeringen gör eleven <strong>med säkerhet</strong> en styckningskalkyl samt motiverar <strong>utförligt och nyanserat</strong> sin kalkyl utifrån ekonomiska aspekter."
+        }
+      }, {
+        "text" : "Eleven genomför <strong>________</strong> med handledare styckning samt värderar med <strong>________</strong> omdömen råvarornas kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven genomför <strong>i samråd</strong> med handledare styckning samt värderar med <strong>enkla</strong> omdömen råvarornas kvalitet.",
+          "C" : "Eleven genomför <strong>efter samråd</strong> med handledare styckning samt värderar med <strong>enkla</strong> omdömen råvarornas kvalitet.",
+          "A" : "Eleven genomför <strong>efter samråd</strong> med handledare styckning samt värderar med <strong>nyanserade</strong> omdömen råvarornas kvalitet."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> utrustning, maskiner och verktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> utrustning, maskiner och verktyg."
+        }
+      }, {
+        "text" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker samt förvarar <strong>________</strong> styckningsdetaljerna i enlighet med lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker samt förvarar <strong>med viss säkerhet</strong> styckningsdetaljerna i enlighet med lagar och andra bestämmelser.",
+          "C" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar <strong>med viss säkerhet</strong> styckningsdetaljerna i enlighet med lagar och andra bestämmelser.",
+          "A" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar <strong>med säkerhet</strong> styckningsdetaljerna i enlighet med lagar och andra bestämmelser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>________</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>översiktligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "C" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>utförligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "A" : "Eleven arbetar på ett sätt som är hygieniskt, ergonomiskt och säkert för eleven själv och andra samt motiverar <strong>utförligt och nyanserat</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet."
+        }
+      }, {
+        "text" : "Dessutom arbetar eleven <strong>________</strong> på ett ekonomiskt och miljömässigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom arbetar eleven <strong>med viss säkerhet</strong> på ett ekonomiskt och miljömässigt sätt.",
+          "C" : "Dessutom arbetar eleven <strong>med viss säkerhet</strong> på ett ekonomiskt och miljömässigt sätt.",
+          "A" : "Dessutom arbetar eleven <strong>med säkerhet</strong> på ett ekonomiskt och miljömässigt sätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört genomför eleven <strong>________</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört genomför eleven <strong>i samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+          "C" : "När arbetet är utfört genomför eleven <strong>efter samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+          "A" : "När arbetet är utfört genomför eleven <strong>efter samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven med <strong>________</strong> omdömen sitt arbete och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+          "C" : "Dessutom utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
+          "A" : "Dessutom utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Styckning 3",
+    "description" : "Kursen styckning 3 omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade färdigheter i ämnet.",
+    "code" : "STCSTY03",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Djurens anatomi med betoning på nöt och kalv.", "Styckningsdetaljernas och de olika sorteringarnas användningsområden vid förädling och tillagning.", "Styckningskvalitet och normer.", "Styckning, nedskärning och sortering av nöt och kalv.", "Styckningskalkyler och ekonomiska kalkyler.", "Metoder och tekniker vid industriell styckning.", "Användning och vård av utrustning vid industriell styckning.", "Ergonomi och riskfaktorer i arbetet.", "Hygien och egenkontroll." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> djurens anatomi.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> djurens anatomi.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> djurens anatomi.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> djurens anatomi."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras."
+        }
+      }, {
+        "text" : "Vidare redogör eleven <strong>________</strong> för styckningsdetaljernas kött- och styckningskvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare redogör eleven <strong>översiktligt</strong> för styckningsdetaljernas kött- och styckningskvalitet.",
+          "C" : "Vidare redogör eleven <strong>utförligt</strong> för styckningsdetaljernas kött- och styckningskvalitet.",
+          "A" : "Vidare redogör eleven <strong>utförligt och nyanserat</strong> för styckningsdetaljernas kött- och styckningskvalitet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar <strong>________</strong> med handledare styckningsarbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar <strong>i samråd</strong> med handledare styckningsarbete.",
+          "C" : "Eleven planerar och organiserar <strong>efter samråd</strong> styckningsarbete.",
+          "A" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare styckningsarbete."
+        }
+      }, {
+        "text" : "Vid planeringen gör eleven <strong>________</strong> en styckningskalkyl samt motiverar <strong>________</strong> sin kalkyl utifrån ekonomiska aspekter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vid planeringen gör eleven <strong>med viss säkerhet</strong> en styckningskalkyl samt motiverar <strong>översiktligt</strong> sin kalkyl utifrån ekonomiska aspekter.",
+          "C" : "Vid planeringen gör eleven <strong>med viss säkerhet</strong> en styckningskalkyl samt motiverar <strong>utförligt</strong> sin kalkyl utifrån ekonomiska aspekter.",
+          "A" : "Vid planeringen gör eleven <strong>med säkerhet</strong> en styckningskalkyl samt motiverar <strong>utförligt och nyanserat</strong> sin kalkyl utifrån ekonomiska aspekter."
+        }
+      }, {
+        "text" : "Eleven genomför med <strong>________</strong> handlag styckning samt värderar med <strong>________</strong> omdömen råvarornas kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven genomför med <strong>visst</strong> handlag styckning samt värderar med <strong>enkla</strong> omdömen råvarornas kvalitet.",
+          "C" : "Eleven genomför med <strong>gott</strong> handlag styckning samt värderar med <strong>nyanserade</strong> omdömen råvarornas kvalitet.",
+          "A" : "Eleven genomför med <strong>mycket gott</strong> handlag styckning samt värderar med <strong>nyanserade</strong> omdömen råvarornas kvalitet."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> utrustning, maskiner och verktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> utrustning, maskiner och verktyg."
+        }
+      }, {
+        "text" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar <strong>________</strong> styckningsdetaljerna i enlighet med lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar <strong>med viss säkerhet</strong> styckningsdetaljerna i enlighet med lagar och andra bestämmelser.",
+          "C" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar <strong>med viss säkerhet</strong> styckningsdetaljerna i enlighet med lagar och andra bestämmelser.",
+          "A" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar <strong>med säkerhet</strong> styckningsdetaljerna i enlighet med lagar och andra bestämmelser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>________</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>översiktligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "C" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>utförligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "A" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>utförligt och nyanserat</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet."
+        }
+      }, {
+        "text" : "Dessutom arbetar eleven <strong>________</strong> på ett ekonomiskt och miljömässigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom arbetar eleven <strong>med viss säkerhet</strong> på ett ekonomiskt och miljömässigt sätt.",
+          "C" : "Dessutom arbetar eleven <strong>med viss säkerhet</strong> på ett ekonomiskt och miljömässigt sätt.",
+          "A" : "Dessutom arbetar eleven <strong>med säkerhet</strong> på ett ekonomiskt och miljömässigt sätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört genomför eleven <strong>________</strong> med handlare underhåll av utrustning, maskiner och verktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört genomför eleven <strong>i samråd</strong> med handlare underhåll av utrustning, maskiner och verktyg.",
+          "C" : "När arbetet är utfört genomför eleven <strong>efter samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+          "A" : "När arbetet är utfört genomför eleven <strong>efter samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven med <strong>________</strong> omdömen sitt arbete och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+          "C" : "Dessutom utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
+          "A" : "Dessutom utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Styckning 4",
+    "description" : "Kursen styckning 4 omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade färdigheter i ämnet.",
+    "code" : "STCSTY04",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Djurens anatomi. Alla i branschen vanligt förekommande djurslag.", "Styckningsdetaljernas och de olika sorteringarnas användningsområden vid förädling och tillagning.", "Branschkrav då det gäller kvalitet och produktionens effektivitet.", "Yrkesmässig styckning, nedskärning och sortering av alla djurslag.", "Lönsamhet, styckningskalkyler och ekonomiska kalkyler.", "Användning och vård av industriutrustning.", "Planering och organisation av arbetet. Arbetstempo.", "Arbetsmiljö och säkerhet samt riskfaktorer.", "Hygien och egenkontroll." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> djurens anatomi.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> djurens anatomi.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> djurens anatomi.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> djurens anatomi."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras."
+        }
+      }, {
+        "text" : "Vidare redogör eleven <strong>________</strong> för styckningsdetaljernas kött- och styckningskvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare redogör eleven <strong>översiktligt</strong> för styckningsdetaljernas kött- och styckningskvalitet.",
+          "C" : "Vidare redogör eleven <strong>utförligt</strong> för styckningsdetaljernas kött- och styckningskvalitet.",
+          "A" : "Vidare redogör eleven <strong>utförligt och nyanserat</strong> för styckningsdetaljernas kött- och styckningskvalitet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar <strong>________</strong> med handledare styckningsarbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar <strong>i samråd</strong> med handledare styckningsarbete.",
+          "C" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare styckningsarbete.",
+          "A" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare styckningsarbete."
+        }
+      }, {
+        "text" : "Vid planeringen gör eleven <strong>________</strong> en styckningskalkyl samt motiverar <strong>________</strong> sin kalkyl utifrån ekonomiska aspekter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vid planeringen gör eleven <strong>med viss säkerhet</strong> en styckningskalkyl samt motiverar <strong>översiktligt</strong> sin kalkyl utifrån ekonomiska aspekter.",
+          "C" : "Vid planeringen gör eleven <strong>med viss säkerhet</strong> en styckningskalkyl samt motiverar <strong>utförligt</strong> sin kalkyl utifrån ekonomiska aspekter.",
+          "A" : "Vid planeringen gör eleven <strong>med säkerhet</strong> en styckningskalkyl samt motiverar <strong>utförligt och nyanserat</strong> sin kalkyl utifrån ekonomiska aspekter."
+        }
+      }, {
+        "text" : "Eleven genomför med <strong>________</strong> handlag styckning med ett <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven genomför med <strong>visst</strong> handlag styckning med ett <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven genomför med <strong>gott</strong> handlag styckning med ett <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven genomför med <strong>mycket gott</strong> handlag styckning med ett <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "Dessutom värderar eleven med <strong>________</strong> omdömen råvarornas kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom värderar eleven med <strong>enkla</strong> omdömen råvarornas kvalitet.",
+          "C" : "Dessutom värderar eleven med <strong>nyanserade</strong> omdömen råvarornas kvalitet.",
+          "A" : "Dessutom värderar eleven med <strong>nyanserade</strong> omdömen råvarornas kvalitet."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> utrustning, maskiner och verktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> utrustning, maskiner och verktyg."
+        }
+      }, {
+        "text" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar <strong>________</strong> styckningsdetaljerna i enlighet med lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar <strong>med viss säkerhet</strong> styckningsdetaljerna i enlighet med lagar och andra bestämmelser.",
+          "C" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar <strong>med viss säkerhet</strong> styckningsdetaljerna i enlighet med lagar och andra bestämmelser.",
+          "A" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar <strong>med säkerhet</strong> styckningsdetaljerna i enlighet med lagar och andra bestämmelser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>________</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>översiktligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "C" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>utförligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "A" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>utförligt och nyanserat</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet."
+        }
+      }, {
+        "text" : "Dessutom arbetar eleven <strong>________</strong> på ett ekonomiskt och miljömässigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom arbetar eleven <strong>med viss säkerhet</strong> på ett ekonomiskt och miljömässigt sätt.",
+          "C" : "Dessutom arbetar eleven <strong>med viss säkerhet</strong> på ett ekonomiskt och miljömässigt sätt.",
+          "A" : "Dessutom arbetar eleven <strong>med säkerhet</strong> på ett ekonomiskt och miljömässigt sätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört genomför eleven <strong>________</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört genomför eleven <strong>i samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+          "C" : "När arbetet är utfört genomför eleven <strong>efter samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+          "A" : "När arbetet är utfört genomför eleven <strong>efter samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven med <strong>________</strong> omdömen produkternas kvalitet, produktionens effektivitet och sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven med <strong>enkla</strong> omdömen produkternas kvalitet, produktionens effektivitet och sitt arbete.",
+          "C" : "Dessutom utvärderar eleven med <strong>nyanserade</strong> omdömen produkternas kvalitet, produktionens effektivitet och sitt arbete.",
+          "A" : "Dessutom utvärderar eleven med <strong>nyanserade</strong> omdömen produkternas kvalitet, produktionens effektivitet och sitt arbete <strong>samt ger förslag på hur kvaliteten, effektiviteten och det egna arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Styckning – specialisering",
+    "description" : "Kursen styckning – specialisering omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom valt specialiseringsområde.",
+    "code" : "STCSTY00S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Djurens anatomi inom valt specialiseringsområde, till exempel vilt eller struts.", "Styckningsdetaljernas och de olika sorteringarnas användningsområden vid förädling och tillagning inom valt specialiseringsområde.", "Branschkrav då det gäller kvalitet och produktionens effektivitet.", "Trender, influenser och utveckling inom valt specialiseringsområde.", "Yrkesmässig styckning inom valt specialiseringsområde. Exempel på specialiseringsområde kan vara styckning av vilt eller struts.", "Lönsamhet och ekonomiska konsekvenser vid val av inköp av kött samt sambandet mellan styckningskvalitet och ekonomi.", "Metoder och teknik.", "Användning och vård av utrustning.", "Planering och organisation av arbetet.", "Lagar och andra bestämmelser inom yrkesområdet.", "Arbetsmiljö och säkerhet.", "Hygien och egenkontroll." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> djurens anatomi.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> djurens anatomi.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> djurens anatomi.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> djurens anatomi."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras."
+        }
+      }, {
+        "text" : "Vidare redogör eleven <strong>________</strong> för styckningsdetaljernas kött- och styckningskvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare redogör eleven <strong>översiktligt</strong> för styckningsdetaljernas kött- och styckningskvalitet.",
+          "C" : "Vidare redogör eleven <strong>utförligt</strong> för styckningsdetaljernas kött- och styckningskvalitet.",
+          "A" : "Vidare redogör eleven <strong>utförligt och nyanserat</strong> för styckningsdetaljernas kött- och styckningskvalitet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar <strong>________</strong> styckningsarbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar <strong>i samråd med handledare</strong> styckningsarbete.",
+          "C" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare styckningsarbete.",
+          "A" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare styckningsarbete."
+        }
+      }, {
+        "text" : "Vid planeringen gör eleven <strong>________</strong> en styckningskalkyl samt motiverar <strong>________</strong> sin kalkyl utifrån ekonomiska aspekter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vid planeringen gör eleven <strong>med viss säkerhet</strong> en styckningskalkyl samt motiverar <strong>översiktligt</strong> sin kalkyl utifrån ekonomiska aspekter.",
+          "C" : "Vid planeringen gör eleven <strong>med viss säkerhet</strong> en styckningskalkyl samt motiverar <strong>utförligt</strong> sin kalkyl utifrån ekonomiska aspekter.",
+          "A" : "Vid planeringen gör eleven <strong>med säkerhet</strong> en styckningskalkyl samt motiverar <strong>utförligt och nyanserat</strong> sin kalkyl utifrån ekonomiska aspekter."
+        }
+      }, {
+        "text" : "Eleven genomför med <strong>________</strong> handlag styckning med ett <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven genomför med <strong>visst</strong> handlag styckning med ett <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven genomför med <strong>gott</strong> handlag styckning med ett <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven genomför med <strong>mycket gott</strong> handlag styckning med ett <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "Dessutom värderar eleven med <strong>________</strong> omdömen råvarornas kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom värderar eleven med <strong>enkla</strong> omdömen råvarornas kvalitet.",
+          "C" : "Dessutom värderar eleven med <strong>nyanserade</strong> omdömen råvarornas kvalitet.",
+          "A" : "Dessutom värderar eleven med <strong>nyanserade</strong> omdömen råvarornas kvalitet."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> utrustning, maskiner och verktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> utrustning, maskiner och verktyg."
+        }
+      }, {
+        "text" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar <strong>________</strong> styckningsdetaljerna i enlighet med lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar <strong>med viss säkerhet</strong> styckningsdetaljerna i enlighet med lagar och andra bestämmelser.",
+          "C" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar <strong>med viss säkerhet</strong> styckningsdetaljerna i enlighet med lagar och andra bestämmelser.",
+          "A" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar <strong>med säkerhet</strong> styckningsdetaljerna i enlighet med lagar och andra bestämmelser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>________</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>översiktligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "C" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>utförligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "A" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>utförligt och nyanserat</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet."
+        }
+      }, {
+        "text" : "Dessutom arbetar eleven <strong>________</strong> på ett ekonomiskt och miljömässigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom arbetar eleven <strong>med viss säkerhet</strong> på ett ekonomiskt och miljömässigt sätt.",
+          "C" : "Dessutom arbetar eleven <strong>med viss säkerhet</strong> på ett ekonomiskt och miljömässigt sätt.",
+          "A" : "Dessutom arbetar eleven <strong>med säkerhet</strong> på ett ekonomiskt och miljömässigt sätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört genomför eleven <strong>________</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört genomför eleven <strong>i samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+          "C" : "När arbetet är utfört genomför eleven <strong>efter samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+          "A" : "När arbetet är utfört genomför eleven <strong>efter samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven med <strong>________</strong> omdömen produkternas kvalitet, produktionens effektivitet och sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven med <strong>enkla</strong> omdömen produkternas kvalitet, produktionens effektivitet och sitt arbete.",
+          "C" : "Dessutom utvärderar eleven med <strong>nyanserade</strong> omdömen produkternas kvalitet, produktionens effektivitet och sitt arbete.",
+          "A" : "Dessutom utvärderar eleven med <strong>nyanserade</strong> omdömen produkternas kvalitet, produktionens effektivitet och sitt arbete <strong>samt ger förslag på hur kvaliteten, effektiviteten och det egna arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

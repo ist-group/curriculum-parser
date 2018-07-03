@@ -1,0 +1,497 @@
+{
+  "name" : "Administration",
+  "description" : "Administration har till uppgift att stödja, förvalta och sköta ett företags eller annan organisations verksamhet. Ämnet administration behandlar administrativa arbetsuppgifter som förekommer inom företag, offentlig förvaltning och andra organisationer. Det behandlar också användning av modern teknik och hur man därmed arbetar effektivt, säkert och serviceinriktat.",
+  "code" : "ADM",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet administration ska syfta till att eleverna utvecklar förmåga att planera och utföra administrativt arbete.", "Den ska ge eleverna möjlighet att utveckla kunskaper om administrativa rutiner samt om dokumentutformning, organisation och arbetsformer i företag och i offentlig förvaltning.", "I undervisningen ska eleverna ges möjlighet att utveckla sina kunskaper i programhantering för att i yrkeslivet kunna utveckla rutiner och kommunikation i det administrativa arbetet samt planera och strukturera arbetet på ett effektivt och datasäkert sätt." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska också behandla etik och sekretessfrågor.", "Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om arbetsmiljöfrågor, arbetsrätt och om andra lagar och bestämmelser inom området." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Eleverna ska ges möjlighet att utveckla förmåga till samarbete, service och självständighet.", "Genom praktiska övningar och ett undersökande arbetssätt ska eleverna ges möjlighet att utföra arbetsuppgifter inom administrativ service.", "Via kontakter med företag och organisationer inom det administrativa området ska eleverna ges möjlighet att utveckla förståelse av företagandets villkor." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet administration ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om administrativa rutiner och funktioner samt om dokumentutformning, organisation och arbetsformer i företag.", "Kunskaper om dagens arbetsmarknad.", "Kunskaper om olika programvaror.", "Förmåga att planera, organisera och utföra administrativt arbete samt förmåga att arbeta serviceinriktat.", "Förmåga att använda modern teknik, material, redskap och arbetsmetoder.", "Kunskaper om lagar och andra bestämmelser inom området.", "Förmåga att arbeta på ett ergonomiskt och miljömedvetet sätt.", "Förmåga att utvärdera sitt arbete och resultat." ]
+  } ],
+  "courses" : [ {
+    "name" : "Administration 1",
+    "description" : " Kursen administration 1 omfattar punkterna 1 och 3–8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet. ",
+    "code" : "ADMADM01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Grundläggande administrativa arbetsrutiner, till exempel diarieföring, arkivering och postrutiner samt dokument- och skrivregler, till exempel allmänna och sekretessbelagda handlingar.", "Administrativa funktioner, till exempel ekonomi, material, personal, information och kommunikation.", "Handelsdokument, till exempel order, faktura och dokument för inköp och lagerhantering. Begrepp inom området, till exempel blankett, mall och brev.", "Organisation och arbetsformer i företag, till exempel hur ansvar och uppgifter fördelas i en organisation, hur ett organisationsschema upprättas, hur olika arbetsformer, projekt- och distansarbete kan tillämpas.", "Offentlig förvaltning samt företags och organisationers uppbyggnad och verksamhet.", "Grundläggande programvaror för administration.", "Planering och organisation av det administrativa arbetet, till exempel att handlägga ett ärende eller anordna möten, konferenser och event, enskilt eller tillsammans med andra. Presentation av ett företags interna och externa information.", "Lagar och andra bestämmelser inom området, till exempel arbetsrätt och arkivlagen." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> grundläggande administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> grundläggande administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> grundläggande administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> grundläggande administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för olika företags och offentliga förvaltningars verksamhet, organisation och arbetsformer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för olika företags och offentliga förvaltningars verksamhet, organisation och arbetsformer.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för olika företags och offentliga förvaltningars verksamhet, organisation och arbetsformer.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för olika företags och offentliga förvaltningars verksamhet, organisation och arbetsformer."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> olika programvarors användningsmöjligheter för kommunikation och serviceinriktat arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> olika programvarors användningsmöjligheter för kommunikation och serviceinriktat arbete.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> olika programvarors användningsmöjligheter för kommunikation och serviceinriktat arbete.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> olika programvarors användningsmöjligheter för kommunikation och serviceinriktat arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar, organiserar och utför <strong>________</strong> med handledare grundläggande interna och externa administrativa arbetsuppgifter på ett serviceinriktat sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar, organiserar och utför <strong>i samråd</strong> med handledare grundläggande interna och externa administrativa arbetsuppgifter på ett serviceinriktat sätt.",
+          "C" : "Eleven planerar, organiserar och utför <strong>efter samråd</strong> med handledare grundläggande interna och externa administrativa arbetsuppgifter på ett serviceinriktat <strong>och strukturerat</strong> sätt.",
+          "A" : "Eleven planerar, organiserar och utför <strong>efter samråd</strong> med handledare grundläggande interna och externa administrativa arbetsuppgifter på ett serviceinriktat <strong>och strukturerat</strong> sätt."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> modern teknik, material, redskap och arbetsmetoder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> modern teknik, material, redskap och arbetsmetoder.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> modern teknik, material, redskap och arbetsmetoder.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> modern teknik, material, redskap och arbetsmetoder."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare <strong>________</strong> administrativt arbete utifrån lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare <strong>enkelt</strong> administrativt arbete utifrån lagar och andra bestämmelser.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare <strong>enkelt</strong> administrativt arbete utifrån lagar och andra bestämmelser.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare administrativt arbete utifrån lagar och andra bestämmelser."
+        }
+      }, {
+        "text" : "Vidare arbetar eleven ergonomiskt och miljömedvetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare arbetar eleven ergonomiskt och miljömedvetet.",
+          "C" : "Vidare arbetar eleven ergonomiskt och miljömedvetet.",
+          "A" : "Vidare arbetar eleven ergonomiskt och miljömedvetet."
+        }
+      }, {
+        "text" : "Under arbetets gång löser eleven <strong>________</strong> med handledare <strong>________</strong> problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetets gång löser eleven <strong>i samråd</strong> med handledare <strong>enkla</strong> problem som uppstår.",
+          "C" : "Under arbetets gång löser eleven <strong>efter samråd</strong> med handledare <strong>enkla</strong> problem som uppstår.",
+          "A" : "Under arbetets gång löser eleven <strong>efter samråd</strong> med handledare problem som uppstår."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Administration 2",
+    "description" : " Kursen administration 2 omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet. ",
+    "code" : "ADMADM02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Handläggning av ärenden, till exempel sammanställning och uppföljning av ansökningar.", "Arbetsmarknad, till exempel att söka arbete, vägar till arbete och att arbeta utomlands.", "Användning av modern teknik och programvara i olika administrativa och kommunikativa arbetsuppgifter.", "Serviceinriktat arbete och bemötande samt den egna rollen i mötet med andra som till exempel kunder och medarbetare.", "Metoder för planering, genomförande, presentation och utvärdering av projekt.", "Register, regler, lagar och andra bestämmelser inom administration, till exempel offentlighetsprincipen och sekretessregler.", "Ergonomi, arbetsrättslagar och andra bestämmelser samt arbetsmiljöfrågor, till exempel hur en ergonomiskt riktig arbetsplats planeras och hur man arbetar med fysiska och psykosociala frågor.", "Kvalitetssäkring och internkontroll på företag." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för dagens arbetsmarknad.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för dagens arbetsmarknad.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för dagens arbetsmarknad.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för dagens arbetsmarknad."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> olika programvarors användningsmöjligheter för kommunikation och serviceinriktat arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> olika programvarors användningsmöjligheter för kommunikation och serviceinriktat arbete.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> olika programvarors användningsmöjligheter för kommunikation och serviceinriktat arbete.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> olika programvarors användningsmöjligheter för kommunikation och serviceinriktat arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar, organiserar och utför <strong>________</strong> med handledare interna och externa administrativa arbetsuppgifter på ett serviceinriktat sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar, organiserar och utför <strong>i samråd</strong> med handledare interna och externa administrativa arbetsuppgifter på ett serviceinriktat sätt.",
+          "C" : "Eleven planerar, organiserar och utför <strong>efter samråd</strong> med handledare interna och externa administrativa arbetsuppgifter på ett serviceinriktat <strong>och strukturerat</strong> sätt.",
+          "A" : "Eleven planerar, organiserar och utför <strong>efter samråd</strong> med handledare interna och externa administrativa arbetsuppgifter på ett serviceinriktat <strong>och strukturerat</strong> sätt."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> modern teknik, material, redskap och arbetsmetoder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> modern teknik, material, redskap och arbetsmetoder.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> modern teknik, material, redskap och arbetsmetoder.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> modern teknik, material, redskap och arbetsmetoder."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare administrativt arbete utifrån lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare administrativt arbete utifrån lagar och andra bestämmelser.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare administrativt arbete utifrån lagar och andra bestämmelser.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare administrativt arbete utifrån lagar och andra bestämmelser."
+        }
+      }, {
+        "text" : "Vidare arbetar eleven ergonomiskt och miljömedvetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare arbetar eleven ergonomiskt och miljömedvetet.",
+          "C" : "Vidare arbetar eleven ergonomiskt och miljömedvetet.",
+          "A" : "Vidare arbetar eleven ergonomiskt och miljömedvetet."
+        }
+      }, {
+        "text" : "Under arbetets gång löser eleven <strong>________</strong> med handledare problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetets gång löser eleven <strong>i samråd</strong> med handledare problem som uppstår.",
+          "C" : "Under arbetets gång löser eleven <strong>efter samråd</strong> med handledare problem som uppstår.",
+          "A" : "Under arbetets gång löser eleven <strong>efter samråd</strong> med handledare problem som uppstår."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Administration – specialisering",
+    "description" : "Kursen administration – specialisering omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom valt verksamhetsområde.",
+    "code" : "ADMADM00S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Administrativa rutiner och dokumentutformning inom valt verksamhetsområde.", "Organisation och ansvarsfördelning inom valt verksamhetsområde.", "Företagande och entreprenörskap inom valt verksamhetsområde.", "Arbetsmarknaden samt dess utveckling och framtid inom det administrativa området.", "Digitala administrativa hjälpmedel i arbetet, till exempel ordbehandlings-, kalkyl-, register- och presentationsprogram.", "Sociala medier, intranät och internet.", "Administrativa arbetsuppgifter i olika företag och organisationer, till exempel handelsföretag, tjänsteföretag, kommunal och statlig förvaltning.", "Arbetsrätt, den enskildes rättigheter och skyldigheter.", "Diskriminerings- och säkerhetsfrågor samt frågor om resurshushållning och miljö.", "Etik och kvalitet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för olika företags organisation och ansvarsfördelning samt för företagande och entreprenörskap.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för olika företags organisation och ansvarsfördelning samt för företagande och entreprenörskap.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för olika företags organisation och ansvarsfördelning samt för företagande och entreprenörskap.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för olika företags organisation och ansvarsfördelning samt för företagande och entreprenörskap."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för dagens arbetsmarknad samt dess utveckling och framtid inom det administrativa området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för dagens arbetsmarknad samt dess utveckling och framtid inom det administrativa området.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för dagens arbetsmarknad samt dess utveckling och framtid inom det administrativa området.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för dagens arbetsmarknad samt dess utveckling och framtid inom det administrativa området."
+        }
+      }, {
+        "text" : "Eleven beskriver <strong>________</strong> olika programvarors användningsmöjligheter för kommunikation och serviceinriktat arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> olika programvarors användningsmöjligheter för kommunikation och serviceinriktat arbete.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> olika programvarors användningsmöjligheter för kommunikation och serviceinriktat arbete.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> olika programvarors användningsmöjligheter för kommunikation och serviceinriktat arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar, organiserar och utför <strong>________</strong> med handledare interna och externa administrativa arbetsuppgifter på ett serviceinriktat sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar, organiserar och utför <strong>i samråd</strong> med handledare interna och externa administrativa arbetsuppgifter på ett serviceinriktat sätt.",
+          "C" : "Eleven planerar, organiserar och utför <strong>efter samråd</strong> med handledare interna och externa administrativa arbetsuppgifter på ett serviceinriktat <strong>och strukturerat</strong> sätt.",
+          "A" : "Eleven planerar, organiserar och utför <strong>efter samråd</strong> med handledare interna och externa administrativa arbetsuppgifter på ett serviceinriktat <strong>och strukturerat</strong> sätt."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> modern teknik, material, redskap och arbetsmetoder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> modern teknik, material, redskap och arbetsmetoder.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> modern teknik, material, redskap och arbetsmetoder.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> modern teknik, material, redskap och arbetsmetoder."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare administrativt arbete utifrån lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare administrativt arbete utifrån lagar och andra bestämmelser.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare administrativt arbete utifrån lagar och andra bestämmelser.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare administrativt arbete utifrån lagar och andra bestämmelser."
+        }
+      }, {
+        "text" : "Vidare arbetar eleven ergonomiskt och miljömedvetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare arbetar eleven ergonomiskt och miljömedvetet.",
+          "C" : "Vidare arbetar eleven ergonomiskt och miljömedvetet.",
+          "A" : "Vidare arbetar eleven ergonomiskt och miljömedvetet."
+        }
+      }, {
+        "text" : "Under arbetets gång löser eleven <strong>________</strong> med handledare problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetets gång löser eleven <strong>i samråd</strong> med handledare problem som uppstår.",
+          "C" : "Under arbetets gång löser eleven <strong>efter samråd</strong> med handledare problem som uppstår.",
+          "A" : "Under arbetets gång löser eleven <strong>efter samråd</strong> med handledareproblem som uppstår."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Personaladministration",
+    "description" : " Kursen personaladministration omfattar punkterna 1–2 och 4–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet. ",
+    "code" : "ADMPER0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Organisationer för arbetsgivare och arbetstagare.", "Rekrytering och anställningsförfarande samt introduktion för nyanställda.", "Personalavdelning och personalpolitik.", "Kompetens- och personalplanering.", "Personalekonomi, löner och personalkostnader.", "Ledarskap och förändringsarbete.", "Gruppsykologi och konflikthantering.", "Arbetsrättslagar.", "Arbetsmiljölagen och personalvård." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för dagens arbetsmarknad samt för fackliga organisationer och arbetsgivarorganisationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för dagens arbetsmarknad samt för fackliga organisationer och arbetsgivarorganisationer.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för dagens arbetsmarknad samt för fackliga organisationer och arbetsgivarorganisationer.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för dagens arbetsmarknad samt för fackliga organisationer och arbetsgivarorganisationer."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för olika tillvägagångssätt när man rekryterar och anställer personal.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för olika tillvägagångssätt när man rekryterar och anställer personal.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för olika tillvägagångssätt när man rekryterar och anställer personal.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för olika tillvägagångssätt när man rekryterar och anställer personal."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar, organiserar och utför <strong>________</strong> med handledare interna och externa administrativa arbetsuppgifter som gäller personalärenden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar, organiserar och utför <strong>i samråd</strong> med handledare interna och externa administrativa arbetsuppgifter som gäller personalärenden.",
+          "C" : "Eleven planerar, organiserar och utför <strong>efter samråd</strong> med handledare interna och externa administrativa arbetsuppgifter som gäller personalärenden. <strong>Detta gör eleven på ett strukturerat sätt</strong>.",
+          "A" : "Eleven planerar, organiserar och utför <strong>efter samråd</strong> med handledare interna och externa administrativa arbetsuppgifter som gäller personalärenden. <strong>Detta gör eleven på ett strukturerat sätt</strong>."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> modern teknik, material, redskap och arbetsmetoder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> modern teknik, material, redskap och arbetsmetoder.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> modern teknik, material, redskap och arbetsmetoder.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> modern teknik, material, redskap och arbetsmetoder."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare personalinriktat administrativt arbete utifrån lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare personalinriktat administrativt arbete utifrån lagar och andra bestämmelser.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare personalinriktat administrativt arbete utifrån lagar och andra bestämmelser.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare personalinriktat administrativt arbete utifrån lagar och andra bestämmelser."
+        }
+      }, {
+        "text" : "Vidare arbetar eleven ergonomiskt och miljömedvetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare arbetar eleven ergonomiskt och miljömedvetet.",
+          "C" : "Vidare arbetar eleven ergonomiskt och miljömedvetet.",
+          "A" : "Vidare arbetar eleven ergonomiskt och miljömedvetet."
+        }
+      }, {
+        "text" : "Under arbetets gång löser eleven <strong>________</strong> med handledare problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetets gång löser eleven <strong>i samråd</strong> med handledare problem som uppstår.",
+          "C" : "Under arbetets gång löser eleven <strong>efter samråd</strong> med handledare problem som uppstår.",
+          "A" : "Under arbetets gång löser eleven <strong>efter samråd</strong> med handledare problem som uppstår."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Receptions- och konferensservice",
+    "description" : "Kursen receptions- och konferensservice omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "ADMREC0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Mötesindustrin, konferens- och eventanläggningar samt branschorganisationer.", "Olika system och program för reception och kundtjänst, till exempel växelsystem, boknings- och säkerhetsprogram.", "Planering och utformning av arbete i reception och kundtjänst både internt och externt.", "Service- och kundservicebegrepp, till exempel telefonbemötande och marknadsföringsåtgärder.", "Administration, planering och genomförande av möten.", "Praktiskt arbete i samband med mässor och i montrar.", "Tekniska hjälpmedel och utrustning.", "Lagar och andra bestämmelser inom området.", "Miljöfrågor och säkerhetsfrågor i receptionsarbete." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> administrativa rutiner, funktioner och arbetsmetoder vid arbete i reception och med konferensservice.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> administrativa rutiner, funktioner och arbetsmetoder vid arbete i reception och med konferensservice.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> administrativa rutiner, funktioner och arbetsmetoder vid arbete i reception och med konferensservice.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> administrativa rutiner, funktioner och arbetsmetoder vid arbete i reception och med konferensservice."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för mötesindustrin, konferens- och eventanläggningar, branschorganisationer samt yrkesroller inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för mötesindustrin, konferens- och eventanläggningar, branschorganisationer samt yrkesroller inom området.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för mötesindustrin, konferens- och eventanläggningar, branschorganisationer samt yrkesroller inom området.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för mötesindustrin, konferens- och eventanläggningar, branschorganisationer samt yrkesroller inom området."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> olika systems och programs användningsmöjligheter i reception och kundtjänst.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> olika systems och programs användningsmöjligheter i reception och kundtjänst.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> olika systems och programs användningsmöjligheter i reception och kundtjänst.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> olika systems och programs användningsmöjligheter i reception och kundtjänst."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar, organiserar och utför <strong>________</strong> med handledare interna och externa administrativa uppgifter på ett serviceinriktat sätt i receptions- och konferensarbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar, organiserar och utför <strong>i samråd</strong> med handledare interna och externa administrativa uppgifter på ett serviceinriktat sätt i receptions- och konferensarbete.",
+          "C" : "Eleven planerar, organiserar och utför <strong>efter samråd</strong> med handledare interna och externa administrativa uppgifter på ett serviceinriktat <strong>och strukturerat</strong> sätt i receptions- och konferensarbete.",
+          "A" : "Eleven planerar, organiserar och utför <strong>efter samråd</strong> med handledare interna och externa administrativa uppgifter på ett serviceinriktat <strong>och strukturerat</strong> sätt i receptions- och konferensarbete."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> modern teknik, material, redskap och arbetsmetoder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> modern teknik, material, redskap och arbetsmetoder.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> modern teknik, material, redskap och arbetsmetoder.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> modern teknik, material, redskap och arbetsmetoder."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare administrativt arbete utifrån lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare administrativt arbete utifrån lagar och andra bestämmelser.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare administrativt arbete utifrån lagar och andra bestämmelser.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare administrativt arbete utifrån lagar och andra bestämmelser."
+        }
+      }, {
+        "text" : "Vidare arbetar eleven ergonomiskt och miljömedvetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare arbetar eleven ergonomiskt och miljömedvetet.",
+          "C" : "Vidare arbetar eleven ergonomiskt och miljömedvetet.",
+          "A" : "Vidare arbetar eleven ergonomiskt och miljömedvetet."
+        }
+      }, {
+        "text" : "Under arbetets gång löser eleven <strong>________</strong> med handledare problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetets gång löser eleven <strong>i samråd</strong> med handledare problem som uppstår.",
+          "C" : "Under arbetets gång löser eleven <strong>efter samråd</strong> med handledare problem som uppstår.",
+          "A" : "Under arbetets gång löser eleven <strong>efter samråd</strong> med handledare problem som uppstår."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

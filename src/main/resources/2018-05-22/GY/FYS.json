@@ -1,0 +1,743 @@
+{
+  "name" : "Fysik",
+  "description" : "Fysik är ett naturvetenskapligt ämne som har sitt ursprung i människans behov av att förstå och förklara sin omvärld. Fysik behandlar allt från växelverkan mellan materiens minsta beståndsdelar till universums ursprung och struktur. Utifrån systematiska observationer och experiment strävar fysiken efter att finna grundläggande principer som kan uttryckas matematiskt i modeller och teorier.",
+  "code" : "FYS",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet fysik ska syfta till att eleverna utvecklar kunskaper om fysikens begrepp, teorier, modeller och arbetsmetoder.", "Den ska bidra till att eleverna utvecklar kunskaper om fysikens olika tillämpningar inom till exempel teknik, medicin och hållbar utveckling och därigenom förståelse av fysikens betydelse i samhället.", "Genom undervisningen ska eleverna ges möjlighet att utveckla ett naturvetenskapligt perspektiv på vår omvärld.", "I undervisningen ska aktuell forskning och elevernas upplevelser, nyfikenhet och kreativitet tas tillvara.", "Undervisningen ska också bidra till att eleverna, från en naturvetenskaplig utgångspunkt, kan delta i samhällsdebatten och diskutera etiska frågor och ställningstaganden." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Fysik utvecklas ständigt i ett samspel mellan teori och experiment, där hypoteser, teorier och modeller testas, omvärderas och förändras.", "Undervisningen ska därför behandla teoriers och modellers utveckling, begränsningar och giltighetsområden.", "Den ska bidra till att eleverna utvecklar förmåga att arbeta teoretiskt och experimentellt samt att kommunicera med hjälp av ett naturvetenskapligt språk.", "Undervisningen ska också bidra till att eleverna utvecklar förmåga att kritiskt värdera och skilja mellan påståenden som bygger på vetenskaplig respektive icke-vetenskaplig grund." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska innefatta naturvetenskapliga arbetsmetoder som att formulera och söka svar på frågor, planera och utföra observationer och experiment samt bearbeta, tolka och kritiskt granska resultat och information.", "Eleverna ska ges möjlighet att analysera och lösa problem genom resonemang baserade på begrepp och modeller, såväl med som utan matematik.", "I undervisningen ska eleverna ges tillfällen att argumentera kring och presentera analyser och slutsatser.", "De ska även ges möjlighet att använda datorstödd utrustning för insamling, simulering, beräkning, bearbetning och presentation av data." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet fysik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om fysikens begrepp, modeller, teorier och arbetsmetoder samt förståelse av hur dessa utvecklas.", "Förmåga att analysera och söka svar på ämnesrelaterade frågor samt att identifiera, formulera och lösa problem. Förmåga att reflektera över och värdera valda strategier, metoder och resultat.", "Förmåga att planera, genomföra, tolka och redovisa experiment och observationer samt förmåga att hantera material och utrustning.", "Kunskaper om fysikens betydelse för individ och samhälle.", "Förmåga att använda kunskaper i fysik för att kommunicera samt för att granska och använda information." ]
+  } ],
+  "courses" : [ {
+    "name" : "Fysik 1a",
+    "description" : "Kursen fysik 1a omfattar punkterna 1–5 under rubriken Ämnets syfte.",
+    "code" : "FYSFYS01a",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Rörelse och krafter",
+      "lines" : [ "Hastighet, rörelsemängd och acceleration för att beskriva rörelse.", "Krafter som orsak till förändring av hastighet och rörelsemängd. Impuls.", "Jämvikt och linjär rörelse i homogena gravitationsfält och elektriska fält.", "Tryck, tryckvariationer och Arkimedes princip.", "Orientering om Einsteins beskrivning av rörelse vid höga hastigheter: Einsteins postulat, tidsdilatation och relativistisk energi.", "Orientering om aktuella modeller för beskrivning av materiens minsta beståndsdelar och av de fundamentala krafterna samt om hur modellerna har vuxit fram." ]
+    }, {
+      "heading" : "Energi och energiresurser",
+      "lines" : [ "Arbete, effekt, potentiell energi och rörelseenergi för att beskriva olika energiformer: mekanisk, termisk, elektrisk och kemisk energi samt strålnings- och kärnenergi.", "Energiprincipen, entropi och verkningsgrad för att beskriva energiomvandling, energikvalitet och energilagring.", "Termisk energi: inre energi, värmekapacitet, värmetransport, temperatur och fasomvandlingar.", "Elektrisk energi: elektrisk laddning, fältstyrka, potential, spänning, ström och resistans.", "Kärnenergi: atomkärnans struktur och bindningsenergi, den starka kraften, massa-energiekvivalensen, kärnreaktioner, fission och fusion.", "Energiresurser och energianvändning för ett hållbart samhälle." ]
+    }, {
+      "heading" : "Strålning inom medicin och teknik",
+      "lines" : [ "Radioaktivt sönderfall, joniserande strålning, partikelstrålning, halveringstid och aktivitet.", "Orientering om elektromagnetisk strålning och ljusets partikelegenskaper.", "Växelverkan mellan olika typer av strålning och biologiska system, absorberad och ekvivalent dos. Strålsäkerhet.", "Tillämpningar inom medicin och teknik." ]
+    }, {
+      "heading" : "Klimat- och väderprognoser",
+      "lines" : [ "Ideala gaslagen som en modell för att beskriva atmosfärens fysik.", "Orientering om hur fysikaliska modeller och mätmetoder används för att göra prognoser för klimat och väder.", "Prognosers tillförlitlighet och begränsningar." ]
+    }, {
+      "heading" : "Fysikens karaktär, arbetssätt och matematiska metoder",
+      "lines" : [ "Vad som kännetecknar en naturvetenskaplig frågeställning.", "Hur modeller och teorier utgör förenklingar av verkligheten och kan förändras över tid.", "Det experimentella arbetets betydelse för att testa, omvärdera och revidera hypoteser, teorier och modeller.", "Avgränsning och studier av problem med hjälp av fysikaliska resonemang och matematisk modellering innefattande linjära ekvationer, potens- och exponentialekvationer, funktioner och grafer samt trigonometri och vektorer.", "Planering och genomförande av experimentella undersökningar och observationer samt formulering och prövning av hypoteser i samband med dessa.", "Bearbetning och utvärdering av data och resultat med hjälp av analys av grafer, enhetsanalys och storleksuppskattningar.", "Utvärdering av resultat och slutsatser genom analys av metodval, arbetsprocess och felkällor.", "Ställningstaganden i samhällsfrågor utifån fysikaliska förklaringsmodeller, till exempel frågor om hållbar utveckling." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden."
+        }
+      }, {
+        "text" : "Eleven använder dessa <strong>________</strong> för att söka svar på frågor samt för att beskriva och <strong>________</strong> fysikaliska fenomen och samband.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder dessa <strong>med viss säkerhet</strong> för att söka svar på frågor samt för att beskriva och <strong>exemplifiera</strong> fysikaliska fenomen och samband.",
+          "C" : "Eleven använder dessa <strong>med viss säkerhet</strong> för att söka svar på frågor samt för att beskriva och <strong>exemplifiera</strong> fysikaliska fenomen och samband.",
+          "A" : "Eleven använder dessa <strong>med säkerhet</strong> för att söka svar på frågor samt för att beskriva och <strong>generalisera kring</strong> fysikaliska fenomen och samband."
+        }
+      }, {
+        "text" : "Utifrån <strong>________</strong> exempel redogör eleven <strong>________</strong> för hur fysikens modeller och teorier utvecklas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Utifrån <strong>något</strong> exempel redogör eleven <strong>översiktligt</strong> för hur fysikens modeller och teorier utvecklas.",
+          "C" : "Utifrån <strong>några</strong> exempel redogör eleven <strong>utförligt</strong> för hur fysikens modeller och teorier utvecklas.",
+          "A" : "Utifrån <strong>några</strong> exempel redogör eleven <strong>utförligt och nyanserat</strong> för hur fysikens modeller och teorier utvecklas."
+        }
+      }, {
+        "text" : "Eleven värderar också modellers giltighet och begränsningar med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven värderar också modellers giltighet och begränsningar med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven värderar också modellers giltighet och begränsningar med <strong>enkla</strong> omdömen.",
+          "A" : "Eleven värderar också modellers giltighet och begränsningar med <strong>nyanserade</strong> omdömen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven identifierar, analyserar och löser <strong>________</strong> problem i <strong>________</strong> med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven identifierar, analyserar och löser <strong>enkla</strong> problem i <strong>bekanta situationer</strong> med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven identifierar, analyserar och löser <strong>komplexa</strong> problem i <strong>bekanta situationer</strong> med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven identifierar, analyserar och löser <strong>komplexa</strong> problem i <strong>bekanta och nya situationer</strong> med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+          "C" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+          "A" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet."
+        }
+      }, {
+        "text" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>________</strong> egna frågor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>med viss säkerhet enkla</strong> egna frågor.",
+          "C" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>med viss säkerhet</strong> egna frågor.",
+          "A" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>med säkerhet komplexa</strong> egna frågor."
+        }
+      }, {
+        "text" : "Eleven planerar och genomför <strong>________</strong> med handledare experiment och observationer på ett tillfredsställande sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och genomför <strong>i samråd</strong> med handledare experiment och observationer på ett tillfredsställande sätt.",
+          "C" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare experiment och observationer på ett tillfredsställande sätt.",
+          "A" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare experiment och observationer på ett tillfredsställande sätt."
+        }
+      }, {
+        "text" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+          "C" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+          "A" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt."
+        }
+      }, {
+        "text" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>________</strong> omdömen och motiverar sina slutsatser med <strong>________</strong> resonemang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>enkla</strong> omdömen och motiverar sina slutsatser med <strong>enkla</strong> resonemang.",
+          "C" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>enkla</strong> omdömen och motiverar sina slutsatser med <strong>välgrundade</strong> resonemang.",
+          "A" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>nyanserade</strong> omdömen och motiverar sina slutsatser med <strong>välgrundade och nyanserade</strong> resonemang. <strong>Vid behov föreslår eleven också förändringar</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven diskuterar <strong>________</strong> frågor som rör fysikens betydelse för individ och samhälle.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> frågor som rör fysikens betydelse för individ och samhälle.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> frågor som rör fysikens betydelse för individ och samhälle.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat komplexa</strong> frågor som rör fysikens betydelse för individ och samhälle."
+        }
+      }, {
+        "text" : "I diskussionerna för eleven fram <strong>________</strong> argument och redogör <strong>________</strong> för konsekvenser av <strong>________</strong> tänkbart ställningstagande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I diskussionerna för eleven fram <strong>enkla</strong> argument och redogör <strong>översiktligt</strong> för konsekvenser av <strong>något</strong> tänkbart ställningstagande.",
+          "C" : "I diskussionerna för eleven fram <strong>välgrundade</strong> argument och redogör <strong>utförligt</strong> för konsekvenser av <strong>något</strong> tänkbart ställningstagande.",
+          "A" : "I diskussionerna för eleven fram <strong>välgrundade och nyanserade</strong> argument och redogör <strong>utförligt och nyanserat</strong> för konsekvenser av <strong>flera</strong> tänkbara ställningstaganden. <strong>Eleven föreslår också nya frågeställningar att diskutera</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> ett naturvetenskapligt språk och anpassar <strong>________</strong> sin kommunikation till syfte och sammanhang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> ett naturvetenskapligt språk och anpassar <strong>till viss del</strong> sin kommunikation till syfte och sammanhang.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> ett naturvetenskapligt språk och anpassar <strong>till stor del</strong> sin kommunikation till syfte och sammanhang.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> ett naturvetenskapligt språk och anpassar <strong>till stor del</strong> sin kommunikation till syfte och sammanhang."
+        }
+      }, {
+        "text" : "Dessutom använder eleven olika typer av källor och gör <strong>________</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven olika typer av källor och gör <strong>enkla</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+          "C" : "Dessutom använder eleven olika typer av källor och gör <strong>välgrundade</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+          "A" : "Dessutom använder eleven olika typer av källor och gör <strong>välgrundade och nyanserade</strong> bedömningar av informationens och källornas trovärdighet och relevans."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 150,
+    "year" : null
+  }, {
+    "name" : "Fysik 1b1",
+    "description" : "Kursen fysik 1b1 omfattar punkterna 1–5 under rubriken Ämnets syfte. ",
+    "code" : "FYSFYS01b1",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Rörelse och krafter",
+      "lines" : [ "Hastighet, rörelsemängd och acceleration för att beskriva rörelse.", "Krafter som orsak till förändring av hastighet och rörelsemängd. Impuls.", "Jämvikt och linjär rörelse i homogena gravitationsfält och elektriska fält.", "Tryck, tryckvariationer och Arkimedes princip.", "Orientering om Einsteins beskrivning av rörelse vid höga hastigheter: Einsteins postulat, tidsdilatation och relativistisk energi." ]
+    }, {
+      "heading" : "Energi och energiresurser",
+      "lines" : [ "Arbete, effekt, potentiell energi och rörelseenergi för att beskriva olika energiformer: mekanisk, termisk, elektrisk och kemisk energi samt strålnings- och kärnenergi.", "Energiprincipen, entropi och verkningsgrad för att beskriva energiomvandling, energikvalitet och energilagring.", "Termisk energi: inre energi, värmekapacitet, värmetransport, temperatur och fasomvandlingar.", "Elektrisk energi: elektrisk laddning, fältstyrka, potential, spänning, ström och resistans.", "Energiresurser och energianvändning för ett hållbart samhälle." ]
+    }, {
+      "heading" : "Fysikens karaktär, arbetssätt och matematiska metoder",
+      "lines" : [ "Vad som kännetecknar en naturvetenskaplig frågeställning.", "Hur modeller och teorier utgör förenklingar av verkligheten och kan förändras över tid.", "Det experimentella arbetets betydelse för att testa, omvärdera och revidera hypoteser, teorier och modeller.", "Avgränsning och studier av problem med hjälp av fysikaliska resonemang och matematisk modellering innefattande linjära ekvationer, potensekvationer, funktioner och grafer samt trigonometri och vektorer.", "Planering och genomförande av experimentella undersökningar och observationer samt formulering och prövning av hypoteser i samband med dessa.", "Bearbetning och utvärdering av data och resultat med hjälp av analys av grafer, enhetsanalys och storleksuppskattningar.", "Utvärdering av resultat och slutsatser genom analys av metodval, arbetsprocess och felkällor.", "Ställningstaganden i samhällsfrågor utifrån fysikaliska förklaringsmodeller, till exempel frågor om hållbar utveckling." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden."
+        }
+      }, {
+        "text" : "Eleven använder dessa <strong>________</strong> för att söka svar på frågor samt för att beskriva och <strong>________</strong> fysikaliska fenomen och samband.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder dessa <strong>med viss säkerhet</strong> för att söka svar på frågor samt för att beskriva och <strong>exemplifiera</strong> fysikaliska fenomen och samband.",
+          "C" : "Eleven använder dessa <strong>med viss säkerhet</strong> för att söka svar på frågor samt för att beskriva och <strong>exemplifiera</strong> fysikaliska fenomen och samband.",
+          "A" : "Eleven använder dessa <strong>med säkerhet</strong> för att söka svar på frågor samt för att beskriva och <strong>generalisera kring</strong> fysikaliska fenomen och samband."
+        }
+      }, {
+        "text" : "Utifrån <strong>________</strong> exempel redogör eleven <strong>________</strong> för hur fysikens modeller och teorier utvecklas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Utifrån <strong>något</strong> exempel redogör eleven <strong>översiktligt</strong> för hur fysikens modeller och teorier utvecklas.",
+          "C" : "Utifrån <strong>några</strong> exempel redogör eleven <strong>utförligt</strong> för hur fysikens modeller och teorier utvecklas.",
+          "A" : "Utifrån <strong>några</strong> exempel redogör eleven <strong>utförligt och nyanserat</strong> för hur fysikens modeller och teorier utvecklas."
+        }
+      }, {
+        "text" : "Eleven värderar också modellers giltighet och begränsningar med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven värderar också modellers giltighet och begränsningar med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven värderar också modellers giltighet och begränsningar med <strong>enkla</strong> omdömen.",
+          "A" : "Eleven värderar också modellers giltighet och begränsningar med <strong>nyanserade</strong> omdömen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven identifierar, analyserar och löser <strong>________</strong> problem i <strong>________</strong> med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven identifierar, analyserar och löser <strong>enkla</strong> problem i <strong>bekanta situationer</strong> med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven identifierar, analyserar och löser <strong>komplexa</strong> problem i <strong>bekanta situationer</strong> med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven identifierar, analyserar och löser <strong>komplexa</strong> problem i <strong>bekanta och nya situationer</strong> med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+          "C" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+          "A" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet."
+        }
+      }, {
+        "text" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>________</strong> egna frågor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>med viss säkerhet enkla</strong> egna frågor.",
+          "C" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>med viss säkerhet</strong> egna frågor.",
+          "A" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>med säkerhet komplexa</strong> egna frågor."
+        }
+      }, {
+        "text" : "Eleven planerar och genomför <strong>________</strong> med handledare experiment och observationer på ett tillfredsställande sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och genomför <strong>i samråd</strong> med handledare experiment och observationer på ett tillfredsställande sätt.",
+          "C" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare experiment och observationer på ett tillfredsställande sätt.",
+          "A" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare experiment och observationer på ett tillfredsställande sätt."
+        }
+      }, {
+        "text" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+          "C" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+          "A" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt."
+        }
+      }, {
+        "text" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>________</strong> omdömen och motiverar sina slutsatser med <strong>________</strong> resonemang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>enkla</strong> omdömen och motiverar sina slutsatser med <strong>enkla</strong> resonemang.",
+          "C" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>enkla</strong> omdömen och motiverar sina slutsatser med <strong>välgrundade</strong> resonemang.",
+          "A" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>nyanserade</strong> omdömen och motiverar sina slutsatser med <strong>välgrundade och nyanserade</strong> resonemang. <strong>Vid behov föreslår eleven också förändringar</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven diskuterar <strong>________</strong> frågor som rör fysikens betydelse för individ och samhälle.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> frågor som rör fysikens betydelse för individ och samhälle.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> frågor som rör fysikens betydelse för individ och samhälle.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat komplexa</strong> frågor som rör fysikens betydelse för individ och samhälle."
+        }
+      }, {
+        "text" : "I diskussionerna för eleven fram <strong>________</strong> argument och redogör <strong>________</strong> för konsekvenser av <strong>________</strong> tänkbart ställningstagande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I diskussionerna för eleven fram <strong>enkla</strong> argument och redogör <strong>översiktligt</strong> för konsekvenser av <strong>något</strong> tänkbart ställningstagande.",
+          "C" : "I diskussionerna för eleven fram <strong>välgrundade</strong> argument och redogör <strong>utförligt</strong> för konsekvenser av <strong>något</strong> tänkbart ställningstagande.",
+          "A" : "I diskussionerna för eleven fram <strong>välgrundade och nyanserade</strong> argument och redogör <strong>utförligt och nyanserat</strong> för konsekvenser av <strong>flera</strong> tänkbara ställningstaganden. <strong>Eleven föreslår också nya frågeställningar att diskutera</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> ett naturvetenskapligt språk och anpassar <strong>________</strong> sin kommunikation till syfte och sammanhang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> ett naturvetenskapligt språk och anpassar <strong>till viss del</strong> sin kommunikation till syfte och sammanhang.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> ett naturvetenskapligt språk och anpassar <strong>till stor del</strong> sin kommunikation till syfte och sammanhang.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> ett naturvetenskapligt språk och anpassar <strong>till stor del</strong> sin kommunikation till syfte och sammanhang."
+        }
+      }, {
+        "text" : "Dessutom använder eleven olika typer av källor och gör <strong>________</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven olika typer av källor och gör <strong>enkla</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+          "C" : "Dessutom använder eleven olika typer av källor och gör <strong>välgrundade</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+          "A" : "Dessutom använder eleven olika typer av källor och gör <strong>välgrundade och nyanserade</strong> bedömningar av informationens och källornas trovärdighet och relevans."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Fysik 1b2",
+    "description" : "Kursen fysik 1b2 omfattar punkterna 1–5 under rubriken Ämnets syfte.",
+    "code" : "FYSFYS01b2",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Rörelse och krafter",
+      "lines" : [ "Orientering om aktuella modeller för beskrivning av materiens minsta beståndsdelar och av de fundamentala krafterna samt om hur modellerna har vuxit fram." ]
+    }, {
+      "heading" : "Energi och energiresurser",
+      "lines" : [ "Kärnenergi: atomkärnans struktur och bindningsenergi, den starka kraften, massa-energiekvivalensen, kärnreaktioner, fission och fusion." ]
+    }, {
+      "heading" : "Strålning inom medicin och teknik",
+      "lines" : [ "Radioaktivt sönderfall, joniserande strålning, partikelstrålning, halveringstid och aktivitet.", "Orientering om elektromagnetisk strålning och ljusets partikelegenskaper.", "Växelverkan mellan olika typer av strålning och biologiska system, absorberad och ekvivalent dos. Strålsäkerhet.", "Tillämpningar inom medicin och teknik." ]
+    }, {
+      "heading" : "Klimat- och väderprognoser",
+      "lines" : [ "Ideala gaslagen som en modell för att beskriva atmosfärens fysik.", "Orientering om hur fysikaliska modeller och mätmetoder används för att göra prognoser för klimat och väder.", "Prognosers tillförlitlighet och begränsningar." ]
+    }, {
+      "heading" : "Fysikens karaktär, arbetssätt och matematiska metoder",
+      "lines" : [ "Vad som kännetecknar en naturvetenskaplig frågeställning.", "Hur modeller och teorier utgör förenklingar av verkligheten och kan förändras över tid.", "Det experimentella arbetets betydelse för att testa, omvärdera och revidera hypoteser, teorier och modeller.", "Avgränsning och studier av problem med hjälp av fysikaliska resonemang och matematisk modellering innefattande linjära ekvationer, potens- och exponentialekvationer, funktioner och grafer.", "Planering och genomförande av experimentella undersökningar och observationer samt formulering och prövning av hypoteser i samband med dessa.", "Bearbetning och utvärdering av data och resultat med hjälp av analys av grafer, enhetsanalys och storleksuppskattningar.", "Utvärdering av resultat och slutsatser genom analys av metodval, arbetsprocess och felkällor.", "Ställningstaganden i samhällsfrågor utifrån fysikaliska förklaringsmodeller, till exempel frågor om hållbar utveckling." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden."
+        }
+      }, {
+        "text" : "Eleven använder dessa <strong>________</strong> för att söka svar på frågor samt för att beskriva och <strong>________</strong> fysikaliska fenomen och samband.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder dessa <strong>med viss säkerhet</strong> för att söka svar på frågor samt för att beskriva och <strong>exemplifiera</strong> fysikaliska fenomen och samband.",
+          "C" : "Eleven använder dessa <strong>med viss säkerhet</strong> för att söka svar på frågor samt för att beskriva och <strong>exemplifiera</strong> fysikaliska fenomen och samband.",
+          "A" : "Eleven använder dessa <strong>med säkerhet</strong> för att söka svar på frågor samt för att beskriva och <strong>generalisera kring</strong> fysikaliska fenomen och samband."
+        }
+      }, {
+        "text" : "Utifrån <strong>________</strong> exempel redogör eleven <strong>________</strong> för hur fysikens modeller och teorier utvecklas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Utifrån <strong>något</strong> exempel redogör eleven <strong>översiktligt</strong> för hur fysikens modeller och teorier utvecklas.",
+          "C" : "Utifrån <strong>några</strong> exempel redogör eleven <strong>utförligt</strong> för hur fysikens modeller och teorier utvecklas.",
+          "A" : "Utifrån <strong>några</strong> exempel redogör eleven <strong>utförligt och nyanserat</strong> för hur fysikens modeller och teorier utvecklas."
+        }
+      }, {
+        "text" : "Eleven värderar också modellers giltighet och begränsningar med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven värderar också modellers giltighet och begränsningar med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven värderar också modellers giltighet och begränsningar med <strong>enkla</strong> omdömen.",
+          "A" : "Eleven värderar också modellers giltighet och begränsningar med <strong>nyanserade</strong> omdömen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven identifierar, analyserar och löser <strong>________</strong> problem i <strong>________</strong> med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven identifierar, analyserar och löser <strong>enkla</strong> problem i <strong>bekanta situationer</strong> med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven identifierar, analyserar och löser <strong>komplexa</strong> problem i <strong>bekanta situationer</strong> med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven identifierar, analyserar och löser <strong>komplexa</strong> problem i <strong>bekanta och nya situationer</strong> med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+          "C" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+          "A" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet."
+        }
+      }, {
+        "text" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>________</strong> egna frågor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>med viss säkerhet enkla</strong> egna frågor.",
+          "C" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>med viss säkerhet</strong> egna frågor.",
+          "A" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>med säkerhet komplexa</strong> egna frågor."
+        }
+      }, {
+        "text" : "Eleven planerar och genomför <strong>________</strong> med handledare experiment och observationer på ett tillfredsställande sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och genomför <strong>i samråd</strong> med handledare experiment och observationer på ett tillfredsställande sätt.",
+          "C" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare experiment och observationer på ett tillfredsställande sätt.",
+          "A" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare experiment och observationer på ett tillfredsställande sätt."
+        }
+      }, {
+        "text" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+          "C" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+          "A" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt."
+        }
+      }, {
+        "text" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>________</strong> omdömen och motiverar sina slutsatser med <strong>________</strong> resonemang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>enkla</strong> omdömen och motiverar sina slutsatser med <strong>enkla</strong> resonemang.",
+          "C" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>enkla</strong> omdömen och motiverar sina slutsatser med <strong>välgrundade</strong> resonemang.",
+          "A" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>nyanserade</strong> omdömen och motiverar sina slutsatser med <strong>välgrundade och nyanserade</strong> resonemang. <strong>Vid behov föreslår eleven också förändringar</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven diskuterar <strong>________</strong> frågor som rör fysikens betydelse för individ och samhälle.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> frågor som rör fysikens betydelse för individ och samhälle.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> frågor som rör fysikens betydelse för individ och samhälle.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat komplexa</strong> frågor som rör fysikens betydelse för individ och samhälle."
+        }
+      }, {
+        "text" : "I diskussionerna för eleven fram <strong>________</strong> argument och redogör <strong>________</strong> för konsekvenser av <strong>________</strong> tänkbart ställningstagande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I diskussionerna för eleven fram <strong>enkla</strong> argument och redogör <strong>översiktligt</strong> för konsekvenser av <strong>något</strong> tänkbart ställningstagande.",
+          "C" : "I diskussionerna för eleven fram <strong>välgrundade</strong> argument och redogör <strong>utförligt</strong> för konsekvenser av <strong>något</strong> tänkbart ställningstagande.",
+          "A" : "I diskussionerna för eleven fram <strong>välgrundade och nyanserade</strong> argument och redogör <strong>utförligt och nyanserat</strong> för konsekvenser av <strong>flera</strong> tänkbara ställningstaganden. <strong>Eleven föreslår också nya frågeställningar att diskutera</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> ett naturvetenskapligt språk och anpassar <strong>________</strong> sin kommunikation till syfte och sammanhang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> ett naturvetenskapligt språk och anpassar <strong>till viss del</strong> sin kommunikation till syfte och sammanhang.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> ett naturvetenskapligt språk och anpassar <strong>till stor del</strong> sin kommunikation till syfte och sammanhang.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> ett naturvetenskapligt språk och anpassar <strong>till stor del</strong> sin kommunikation till syfte och sammanhang."
+        }
+      }, {
+        "text" : "Dessutom använder eleven olika typer av källor och gör <strong>________</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven olika typer av källor och gör <strong>enkla</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+          "C" : "Dessutom använder eleven olika typer av källor och gör <strong>välgrundade</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+          "A" : "Dessutom använder eleven olika typer av källor och gör <strong>välgrundade och nyanserade</strong> bedömningar av informationens och källornas trovärdighet och relevans."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 50,
+    "year" : null
+  }, {
+    "name" : "Fysik 2",
+    "description" : "Kursen fysik 2 omfattar punkterna 1–5 under rubriken Ämnets syfte.",
+    "code" : "FYSFYS02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Rörelse och krafter",
+      "lines" : [ "Tvådimensionell rörelse i gravitationsfält och elektriska fält.", "Centralrörelse.", "Vridmoment för att beskriva jämviktstillstånd.", "Simulering av tvådimensionell rörelse med hjälp av enkla numeriska metoder." ]
+    }, {
+      "heading" : "Vågor, elektromagnetism och signaler",
+      "lines" : [ "Harmonisk svängning som modell för att beskriva fenomen inom vardag och teknik.", "Reflektion, brytning och interferens av ljus, ljud och annan vågrörelse.", "Stående vågor och resonans med tillämpningar inom vardag och teknik.", "Orientering om ljudstyrka och dopplereffekt.", "Samband mellan elektriska och magnetiska fält: magnetiskt fält kring strömförande ledare, rörelse av elektrisk laddning i magnetiskt fält, induktion och några tillämpningar, till exempel växelspänningsgeneratorn och transformatorn.", "Våg- och partikelbeskrivning av elektromagnetisk strålning. Orientering om elektromagnetiska vågors utbredning. Fotoelektriska effekten och fotonbegreppet.", "Materiens vågegenskaper: de Broglies hypotes och våg-partikeldualism.", "Fysikaliska principer bakom tekniska tillämpningar för kommunikation och detektering." ]
+    }, {
+      "heading" : "Universums utveckling och struktur",
+      "lines" : [ "Orientering om aktuella modeller och teorier för beskrivningen av universums storskaliga utveckling och av galax-, stjärn- och planetbildning.", "Atomens elektronstruktur samt absorptions- och emissionsspektra.", "Metoder för undersökning av universum. Elektromagnetisk strålning från stjärnor och interstellära rymden.", "Metoder för att upptäcka och undersöka exoplaneter. Villkor för liv på andra planeter." ]
+    }, {
+      "heading" : "Fysikens karaktär, arbetssätt och matematiska metoder",
+      "lines" : [ "Modeller och teorier som förenklingar av verkligheten. Modellers och teoriers giltighetsområden och samt hur de kan utvecklas, generaliseras eller ersättas av andra modeller och teorier över tid.", "Det experimentella arbetets betydelse för att testa, omvärdera och revidera hypoteser, teorier och modeller.", "Avgränsning och studier av problem med hjälp av fysikaliska resonemang och matematisk modellering innefattande linjära och icke-linjära funktioner, ekvationer och grafer samt derivator och vektorer.", "Planering och genomförande av experimentella undersökningar och observationer samt formulering och prövning av hypoteser i samband med dessa.", "Bearbetning och utvärdering av data och resultat med hjälp av regressionsanalys, analys av grafer, enhetsanalys och storleksuppskattningar.", "Utvärdering av resultat och slutsatser genom analys av metodval, arbetsprocess, felkällor och mätosäkerhet.", "Fysikens relation till och gränser mot etiska, filosofiska och religiösa frågor." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden."
+        }
+      }, {
+        "text" : "Eleven använder dessa <strong>________</strong> för att söka svar på frågor samt för att beskriva och <strong>________</strong> fysikaliska fenomen och samband.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder dessa <strong>med viss säkerhet</strong> för att söka svar på frågor samt för att beskriva och <strong>exemplifiera</strong> fysikaliska fenomen och samband.",
+          "C" : "Eleven använder dessa <strong>med viss säkerhet</strong> för att söka svar på frågor samt för att beskriva och <strong>exemplifiera</strong> fysikaliska fenomen och samband.",
+          "A" : "Eleven använder dessa <strong>med säkerhet</strong> för att söka svar på frågor samt för att beskriva och <strong>generalisera kring</strong> fysikaliska fenomen och samband."
+        }
+      }, {
+        "text" : "Utifrån <strong>________</strong> exempel redogör eleven <strong>________</strong> för hur fysikens modeller och teorier utvecklas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Utifrån <strong>något</strong> exempel redogör eleven <strong>översiktligt</strong> för hur fysikens modeller och teorier utvecklas.",
+          "C" : "Utifrån <strong>några</strong> exempel redogör eleven <strong>utförligt</strong> för hur fysikens modeller och teorier utvecklas.",
+          "A" : "Utifrån <strong>några</strong> exempel redogör eleven <strong>utförligt och nyanserat</strong> för hur fysikens modeller och teorier utvecklas."
+        }
+      }, {
+        "text" : "Eleven värderar också modellers giltighet och begränsningar med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven värderar också modellers giltighet och begränsningar med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven värderar också modellers giltighet och begränsningar med <strong>enkla</strong> omdömen.",
+          "A" : "Eleven värderar också modellers giltighet och begränsningar med <strong>nyanserade</strong> omdömen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven identifierar, analyserar och löser <strong>________</strong> problem i <strong>________</strong> med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven identifierar, analyserar och löser <strong>enkla</strong> problem i <strong>bekanta situationer</strong> med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven identifierar, analyserar och löser <strong>komplexa</strong> problem i <strong>bekanta situationer</strong> med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven identifierar, analyserar och löser <strong>komplexa</strong> problem i <strong>bekanta och nya situationer</strong> med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+          "C" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+          "A" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet."
+        }
+      }, {
+        "text" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>________</strong> egna frågor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>med viss säkerhet enkla</strong> egna frågor.",
+          "C" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>med viss säkerhet</strong> egna frågor.",
+          "A" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>med säkerhet komplexa</strong> egna frågor."
+        }
+      }, {
+        "text" : "Eleven planerar och genomför <strong>________</strong> med handledare experiment och observationer på ett tillfredsställande sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och genomför <strong>i samråd</strong> med handledare experiment och observationer på ett tillfredsställande sätt.",
+          "C" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare experiment och observationer på ett tillfredsställande sätt.",
+          "A" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare experiment och observationer på ett tillfredsställande sätt."
+        }
+      }, {
+        "text" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+          "C" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+          "A" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt."
+        }
+      }, {
+        "text" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>________</strong> omdömen och motiverar sina slutsatser med <strong>________</strong> resonemang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>enkla</strong> omdömen och motiverar sina slutsatser med <strong>enkla</strong> resonemang.",
+          "C" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>enkla</strong> omdömen och motiverar sina slutsatser med <strong>välgrundade</strong> resonemang.",
+          "A" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>nyanserade</strong> omdömen och motiverar sina slutsatser med <strong>välgrundade och nyanserade</strong> resonemang. <strong>Vid behov föreslår eleven också förändringar</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven diskuterar <strong>________</strong> frågor som rör fysikens betydelse för individ och samhälle.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> frågor som rör fysikens betydelse för individ och samhälle.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> frågor som rör fysikens betydelse för individ och samhälle.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat komplexa</strong> frågor som rör fysikens betydelse för individ och samhälle."
+        }
+      }, {
+        "text" : "I diskussionerna för eleven fram <strong>________</strong> argument och redogör <strong>________</strong> för konsekvenser av <strong>________</strong> tänkbart ställningstagande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I diskussionerna för eleven fram <strong>enkla</strong> argument och redogör <strong>översiktligt</strong> för konsekvenser av <strong>något</strong> tänkbart ställningstagande.",
+          "C" : "I diskussionerna för eleven fram <strong>välgrundade</strong> argument och redogör <strong>utförligt</strong> för konsekvenser av <strong>något</strong> tänkbart ställningstagande.",
+          "A" : "I diskussionerna för eleven fram <strong>välgrundade och nyanserade</strong> argument och redogör <strong>utförligt och nyanserat</strong> för konsekvenser av <strong>flera</strong> tänkbara ställningstaganden. <strong>Eleven föreslår också nya frågeställningar att diskutera</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> ett naturvetenskapligt språk och anpassar <strong>________</strong> sin kommunikation till syfte och sammanhang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> ett naturvetenskapligt språk och anpassar <strong>till viss del</strong> sin kommunikation till syfte och sammanhang.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> ett naturvetenskapligt språk och anpassar <strong>till stor del</strong> sin kommunikation till syfte och sammanhang.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> ett naturvetenskapligt språk och anpassar <strong>till stor del</strong> sin kommunikation till syfte och sammanhang."
+        }
+      }, {
+        "text" : "Dessutom använder eleven olika typer av källor och gör <strong>________</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven olika typer av källor och gör <strong>enkla</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+          "C" : "Dessutom använder eleven olika typer av källor och gör <strong>välgrundade</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+          "A" : "Dessutom använder eleven olika typer av källor och gör <strong>välgrundade och nyanserade</strong> bedömningar av informationens och källornas trovärdighet och relevans."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Fysik 3",
+    "description" : "Kursen fysik 3 omfattar punkterna 1–5 under rubriken Ämnets syfte.",
+    "code" : "FYSFYS03",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Rörelse och krafter",
+      "lines" : [ "Fördjupad behandling av kraft och rörelse, till exempel rörelse med luft- och vätskemotstånd, stötar i två dimensioner, rörelsemängdsmoment och rotationsrörelse.", "Fördjupad behandling av harmonisk svängning med tillämpning inom till exempel dämpad svängningsrörelse, elektriska växelspänningskretsar eller radiokommunikation.", "Fördjupad behandling av vågrörelse med tillämpning inom till exempel akustik, rörelser i jordskorpan, vattenvågor och elektromagnetiska vågor.", "Den speciella relativitetsteorin och orientering om den allmänna relativitetsteorin." ]
+    }, {
+      "heading" : "Materia och material",
+      "lines" : [ "Fortsatt behandling av våg-partikeldualismen, till exempel partikel i låda, tunneleffekten, Heisenbergs obestämdhetsrelation, endimensionella tidsoberoende Schrödingerekvationen, kvanttal och Pauliprincipen.", "Fasta materials optiska och elektriska egenskaper som konsekvens av elektronernas energistruktur.", "Tillämpningar av kvantfysik och fasta tillståndets fysik inom till exempel laser, halvledarelektronik och modern materialteknik.", "Partikelmodell för ideala gaser och samband mellan mikroskopiska och makroskopiska egenskaper hos dessa." ]
+    }, {
+      "heading" : "Modellering och simulering",
+      "lines" : [ "Undersökande mindre projekt där datorbaserad numerisk simulering används för att fördjupa och tillämpa valfritt område på en problemställning med anknytning till fysik." ]
+    }, {
+      "heading" : "Fysikens arbetssätt och matematiska metoder",
+      "lines" : [ "Betydelsen av experimentellt arbete, matematik och simuleringar för att testa, omvärdera och revidera hypoteser, teorier och modeller.", "Avgränsning och studier av problem med hjälp av fysikaliska resonemang och matematisk modellering.", "Planering och genomförande av experimentella och numeriska undersökningar samt formulering och prövning av hypoteser i samband med dessa.", "Bearbetning och utvärdering av data och resultat.", "Utvärdering av resultat och slutsatser genom analys av metodval, arbetsprocess och felkällor." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden."
+        }
+      }, {
+        "text" : "Eleven använder dessa <strong>________</strong> för att söka svar på frågor samt för att beskriva och <strong>________</strong> fysikaliska fenomen och samband.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder dessa <strong>med viss säkerhet</strong> för att söka svar på frågor samt för att beskriva och <strong>exemplifiera</strong> fysikaliska fenomen och samband.",
+          "C" : "Eleven använder dessa <strong>med viss säkerhet</strong> för att söka svar på frågor samt för att beskriva och <strong>exemplifiera</strong> fysikaliska fenomen och samband.",
+          "A" : "Eleven använder dessa <strong>med säkerhet</strong> för att söka svar på frågor samt för att beskriva och <strong>generalisera kring</strong> fysikaliska fenomen och samband."
+        }
+      }, {
+        "text" : "Utifrån <strong>________</strong> exempel redogör eleven <strong>________</strong> för hur fysikens modeller och teorier utvecklas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Utifrån <strong>något</strong> exempel redogör eleven <strong>översiktligt</strong> för hur fysikens modeller och teorier utvecklas.",
+          "C" : "Utifrån <strong>några</strong> exempel redogör eleven <strong>utförligt</strong> för hur fysikens modeller och teorier utvecklas.",
+          "A" : "Utifrån <strong>några</strong> exempel redogör eleven <strong>utförligt och nyanserat</strong> för hur fysikens modeller och teorier utvecklas."
+        }
+      }, {
+        "text" : "Eleven värderar också modellers giltighet och begränsningar med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven värderar också modellers giltighet och begränsningar med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven värderar också modellers giltighet och begränsningar med <strong>enkla</strong> omdömen.",
+          "A" : "Eleven värderar också modellers giltighet och begränsningar med <strong>nyanserade</strong> omdömen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven identifierar, analyserar och löser <strong>________</strong> problem i <strong>________</strong> med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven identifierar, analyserar och löser <strong>enkla</strong> problem i <strong>bekanta situationer</strong> med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven identifierar, analyserar och löser <strong>komplexa</strong> problem i <strong>bekanta situationer</strong> med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven identifierar, analyserar och löser <strong>komplexa</strong> problem i <strong>bekanta och nya situationer</strong> med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+          "C" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+          "A" : "Detta gäller såväl i det teoretiska som i det praktiska arbetet."
+        }
+      }, {
+        "text" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>________</strong> egna frågor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>med viss säkerhet enkla</strong> egna frågor.",
+          "C" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>med viss säkerhet</strong> egna frågor.",
+          "A" : "I arbetet formulerar eleven relevanta hypoteser och formulerar <strong>med säkerhet komplexa</strong> egna frågor."
+        }
+      }, {
+        "text" : "Eleven planerar och genomför <strong>________</strong> med handledare experiment, observationer och numerisk simulering på ett tillfredsställande sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och genomför <strong>i samråd</strong> med handledare experiment, observationer och numerisk simulering på ett tillfredsställande sätt.",
+          "C" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare experiment, observationer och numerisk simulering på ett tillfredsställande sätt.",
+          "A" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare experiment, observationer och numerisk simulering på ett tillfredsställande sätt."
+        }
+      }, {
+        "text" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+          "C" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+          "A" : "Dessutom hanterar eleven material och utrustning på ett säkert sätt."
+        }
+      }, {
+        "text" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>________</strong> omdömen och motiverar sina slutsatser med <strong>________</strong> resonemang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>enkla</strong> omdömen och motiverar sina slutsatser med <strong>enkla</strong> resonemang.",
+          "C" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>enkla</strong> omdömen och motiverar sina slutsatser med <strong>välgrundade</strong> resonemang.",
+          "A" : "Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>nyanserade</strong> omdömen och motiverar sina slutsatser med <strong>välgrundade och nyanserade</strong> resonemang. <strong>Vid behov föreslår eleven också förändringar</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven diskuterar <strong>________</strong> frågor som rör fysikens betydelse för individ och samhälle.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> frågor som rör fysikens betydelse för individ och samhälle.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> frågor som rör fysikens betydelse för individ och samhälle.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat komplexa</strong> frågor som rör fysikens betydelse för individ och samhälle."
+        }
+      }, {
+        "text" : "I diskussionerna för eleven fram <strong>________</strong> argument och redogör <strong>________</strong> för konsekvenser av <strong>________</strong> tänkbart ställningstagande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I diskussionerna för eleven fram <strong>enkla</strong> argument och redogör <strong>översiktligt</strong> för konsekvenser av <strong>något</strong> tänkbart ställningstagande.",
+          "C" : "I diskussionerna för eleven fram <strong>välgrundade</strong> argument och redogör <strong>utförligt</strong> för konsekvenser av <strong>något</strong> tänkbart ställningstagande.",
+          "A" : "I diskussionerna för eleven fram <strong>välgrundade och nyanserade</strong> argument och redogör <strong>utförligt och nyanserat</strong> för konsekvenser av <strong>flera</strong> tänkbara ställningstaganden. <strong>Eleven föreslår också nya frågeställningar att diskutera</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> ett naturvetenskapligt språk och anpassar <strong>________</strong> sin kommunikation till syfte och sammanhang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> ett naturvetenskapligt språk och anpassar <strong>till viss del</strong> sin kommunikation till syfte och sammanhang.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> ett naturvetenskapligt språk och anpassar <strong>till stor del</strong> sin kommunikation till syfte och sammanhang.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> ett naturvetenskapligt språk och anpassar <strong>till stor del</strong> sin kommunikation till syfte och sammanhang."
+        }
+      }, {
+        "text" : "Dessutom använder eleven olika typer av källor och gör <strong>________</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven olika typer av källor och gör <strong>enkla</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+          "C" : "Dessutom använder eleven olika typer av källor och gör <strong>välgrundade</strong> bedömningar av informationens och källornas trovärdighet och relevans.",
+          "A" : "Dessutom använder eleven olika typer av källor och gör <strong>välgrundade och nyanserade</strong> bedömningar av informationens och källornas trovärdighet och relevans."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

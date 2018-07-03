@@ -1,0 +1,122 @@
+{
+  "name" : "Elektronik – spårfordon",
+  "description" : "Ämnet elektronik – spårfordon behandlar elektronikkomponenters och elektroniska systems funktion och användningsområden för styrning och visualisering i spårfordon.",
+  "code" : "ELN",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet elektronik – spårfordon ska leda till att eleverna utvecklar kunskaper om funktion och egenskaper hos de vanligaste analoga och digitala elektronikkomponenterna, inom såväl låg- som högspänningsområdet, samt hur dessa används i spårfordon.", "I undervisningen ska eleverna ges möjlighet att utveckla förmåga att tolka symboler, scheman, datablad och annan dokumentation som tillämpas inom området spårfordonselektronik." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla förmåga att utföra vanligt förekommande arbetsuppgifter, till exempel uppkoppling efter elektronikscheman och mätningar av komponenter och system.", "Dessutom ska undervisningen leda till att eleverna utvecklar färdigheter i att välja och använda den arbetsmetod, de verktyg och mätinstrument som uppgiften kräver.", "Eleverna ska genom undervisningen ges möjlighet att utveckla en förståelse för och kunskap om arbete med hänsyn till miljö och säkerhet samt dokumentation enligt gällande regelverk och branschstandarder." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom undervisningen ska eleverna ges möjlighet utveckla ett undersökande och laborativt arbetssätt." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet elektronik – spårfordon ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om uppbyggnad, egenskaper och funktion hos analoga och digitala elektronikkomponenter i spårfordon.", "Kunskaper om hur elektronikkomponenter och elektroniksystem används som sammansatta funktionella enheter i spårfordon.", "Förmåga att utföra anslutningar, elektronikmontering och driftsättning.", "Färdigheter i att utföra komponent- och kretsmätningar samt att tolka mätdata för funktionskontroller och felsökning.", "Förmåga att kunna tolka system och funktion i en enkel men komplett elektronisk applikation.", "Kunskap om verktyg, mätinstrument samt arbets-, mät- och dokumentationsmetoder samt förmåga att välja och hantera dessa enligt instruktioner och säkerhetsföreskrifter.", "Förmåga att använda begrepp, symboler, scheman, datablad, instruktioner och annan dokumentation som tillämpas inom området.", "Kunskaper om lagar och andra bestämmelser samt standarder och begrepp inom området." ]
+  } ],
+  "courses" : [ {
+    "name" : "Elektronik – spårfordon",
+    "description" : "Kursen elektronik – spårfordon omfattar punkterna 1–8 under rubriken Ämnets syfte.",
+    "code" : "ELNELE0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Grundläggande digitalteknik.", "Elektronikkomponenters funktioner och egenskaper, till exempel kondensatorer, dioder och transistorer.", "Elektronikkomponenters användningsområden, till exempel kondensatorer och spolar som filter vid förekommande transienter.", "Elektroniska system och kretsar inom låg- och högspänning och deras användningsområden, till exempel A/D- och D/A-omvandlare.", "Elektroniksystems funktionsområden, till exempel likriktarbryggor, transistorn som switch, frihjulsdioder som frånkopplingsskydd vid kommutering.", "Spänningsstabilisering.", "Enkel komplett elektronisk applikation.", "Verktyg för anslutning och elektronikmontering.", "Mätinstrument och mätmetoder samt tolkning av mätdata.", "Lagar och andra bestämmelser som gäller för arbetsområdet.", "Begrepp, termer, arbetsunderlag och dokumentationsmetoder inom arbetsområdet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för uppbyggnad, egenskaper och funktion hos analoga och digitala elektronikkomponenter och hur dessa används inom spårfordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för uppbyggnad, egenskaper och funktion hos analoga och digitala elektronikkomponenter och hur dessa används inom spårfordon.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för uppbyggnad, egenskaper och funktion hos analoga och digitala elektronikkomponenter och hur dessa används inom spårfordon.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för uppbyggnad, egenskaper och funktion hos analoga och digitala elektronikkomponenter och hur dessa används inom spårfordon."
+        }
+      }, {
+        "text" : "Eleven tolkar <strong>________</strong> mätdata i samband med funktionskontroll och felsökning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tolkar <strong>med viss säkerhet</strong> mätdata i samband med funktionskontroll och felsökning.",
+          "C" : "Eleven tolkar <strong>med säkerhet</strong> mätdata i samband med funktionskontroll och felsökning.",
+          "A" : "Eleven tolkar <strong>med säkerhet</strong> mätdata i samband med funktionskontroll och felsökning."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> komponent- och kretsmätningar samt tolkar <strong>________</strong> system och funktion i en enkel men komplett elektronisk applikation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>med viss säkerhet</strong> komponent- och kretsmätningar samt tolkar <strong>med viss säkerhet</strong> system och funktion i en enkel men komplett elektronisk applikation.",
+          "C" : "Eleven utför <strong>med säkerhet</strong> komponent- och kretsmätningar samt tolkar <strong>med säkerhet</strong> system och funktion i en enkel men komplett elektronisk applikation.",
+          "A" : "Eleven utför <strong>med säkerhet</strong> komponent- och kretsmätningar samt tolkar <strong>med säkerhet</strong> system och funktion i en enkel men komplett elektronisk applikation."
+        }
+      }, {
+        "text" : "Efter utfört arbete gör eleven en <strong>________</strong> dokumentation samt utvärderar sin egen arbetsinsats med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Efter utfört arbete gör eleven en <strong>enkel</strong> dokumentation samt utvärderar sin egen arbetsinsats med <strong>enkla</strong> omdömen.",
+          "C" : "Efter utfört arbete gör eleven en <strong>noggrann</strong> dokumentation av utfört arbete samt utvärderar sin egen arbetsinsats med <strong>välgrundade</strong> omdömen.",
+          "A" : "Efter utfört arbete gör eleven en <strong>noggrann och utförlig</strong> dokumentation av utfört arbete samt utvärderar sin egen arbetsinsats med <strong>välgrundade och nyanserade</strong> omdömen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör också <strong>________</strong> för mätinstrument, mätmetoder, verktyg och dokumentationsmetoder som används inom arbetsområdet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för mätinstrument, mätmetoder, verktyg och dokumentationsmetoder som används inom arbetsområdet.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för mätinstrument, mätmetoder, verktyg och dokumentationsmetoder som används inom arbetsområdet.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för mätinstrument, mätmetoder, verktyg och dokumentationsmetoder som används inom arbetsområdet."
+        }
+      }, {
+        "text" : "Eleven planerar, organiserar och utför mätningar, anslutningar och elektronikmontering och driftsättning <strong>________</strong> med handledare, med ett resultat som på ett <strong>________</strong> sätt uppfyller givna kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar, organiserar och utför mätningar, anslutningar och elektronikmontering och driftsättning <strong>i samråd</strong> med handledare, med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller givna kvalitetskrav.",
+          "C" : "Eleven planerar, organiserar och utför mätningar, anslutningar och elektronikmontering och driftsättning <strong>efter samråd</strong> med handledare, med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller givna kvalitetskrav.",
+          "A" : "Eleven planerar, organiserar och utför mätningar, anslutningar och elektronikmontering och driftsättning <strong>efter samråd</strong> med handledare, med ett resultat som på ett <strong>gott</strong> sätt uppfyller givna kvalitetskrav."
+        }
+      }, {
+        "text" : "Under arbetet väljer eleven <strong>________</strong> mätinstrument, verktyg och arbetsmetoder samt hanterar instrument och verktyg med <strong>________</strong> handlag och på ett sätt som är säkert för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet väljer eleven <strong>med viss säkerhet</strong> mätinstrument, verktyg och arbetsmetoder samt hanterar instrument och verktyg med <strong>visst</strong> handlag och på ett sätt som är säkert för eleven själv och andra.",
+          "C" : "Under arbetet väljer eleven <strong>med säkerhet</strong> mätinstrument, verktyg och arbetsmetoder samt hanterar instrument och verktyg med <strong>gott</strong> handlag och på ett sätt som är säkert för eleven själv och andra.",
+          "A" : "Under arbetet väljer eleven <strong>med säkerhet</strong> mätinstrument, verktyg och arbetsmetoder samt hanterar instrument och verktyg med <strong>mycket gott</strong> handlag och på ett sätt som är säkert för eleven själv och andra."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> symboler, scheman, datablad, standarder, begrepp och instruktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> symboler, scheman, datablad, standarder, begrepp och instruktioner.",
+          "C" : "I arbetet använder eleven <strong>med säkerhet</strong> symboler, scheman, datablad, standarder, begrepp och instruktioner.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> symboler, scheman, datablad, standarder, begrepp och instruktioner."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för lagar och andra bestämmelser och tillämpar dessa på ett <strong>________</strong> sätt i sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för lagar och andra bestämmelser och tillämpar dessa på ett <strong>tillfredsställande</strong> sätt i sitt arbete.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för lagar och andra bestämmelser och tillämpar dessa på ett <strong>tillfredsställande</strong> sätt i sitt arbete.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för lagar och andra bestämmelser och tillämpar dessa på ett <strong>gott</strong> sätt i sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

@@ -1,0 +1,93 @@
+{
+  "name" : "Teknik i vård och omsorg",
+  "description" : "Teknikutvecklingen har inneburit stora förändringar och framsteg inom vård- och omsorgsarbetet. Tekniska utrustningar, anpassningar och hjälpmedel har gett möjlighet till ökad självständighet, bättre medicinska utredningar och behandlingar och därmed en bättre livskvalitet för människor med sjukdomar eller funktionsnedsättning. Ämnet teknik i vård och omsorg behandlar teknisk utrustning i vård- och omsorgsarbete. Det har sin grund inom det tekniska området men vårdvetenskap och socialt arbete ingår också.",
+  "code" : "TEN",
+  "designation" : "",
+  "skolfsId" : "2010:104",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet teknik i vård och omsorg ska syfta till att eleverna utvecklar förmåga att inom vård och omsorg använda teknisk utrustning." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Teknikutvecklingen är en viktig förutsättning för att samhället ska klara av framtidens ökade vård- och omsorgsbehov.", "Därför ska undervisningen bidra till att eleverna utvecklar kunskaper för att hantera en alltmer avancerad teknik inom vård och omsorg.", "Undervisningen ska också bidra till att eleverna utvecklar kunskaper om teknisk utrustning i patientens och brukarens dagliga livsföring.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om säkerhetsföreskrifter som gäller för den tekniska utrustningen och förmåga att ge instruktioner om utrustningen till patienter och brukare." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet teknik i vård och omsorg ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om teknisk utrustning inom vård och omsorg.", "Kunskaper om medicintekniska informationsdatasystem.", "Kunskaper om elsäkerhet och om gashantering inom verksamhetsområdet.", "Förmåga att handha och underhålla teknisk utrustning inom vård och omsorg utifrån säkerhetsföreskrifter.", "Förmåga att instruera om teknisk utrustning." ]
+  } ],
+  "courses" : [ {
+    "name" : "Teknik i vård och omsorg",
+    "description" : " Kursen teknik i vård och omsorg omfattar punkterna 1–5 under rubriken Ämnets syfte. ",
+    "code" : "TENTEK0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Samspel mellan människa, miljö och teknik inom vård och omsorg.", "Teknisk utrustning i patienters och brukares dagliga livsföring, till exempel lyfthjälpmedel.", "Teknisk utrustning för metoder och behandlingar, till exempel vid provtagning.", "Medicintekniska informationsdatasystem (MIDS), till exempel journalsystem.", "Grundläggande elsäkerhet.", "Grundläggande gassäkerhet, till exempel hantering av syrgas till patienter och brukare.", "Säkerhetsföreskrifter för teknisk utrustning inom vård och omsorg.", "Hur man instruerar patienter och brukare, närstående och annan personal om användning av teknisk utrustning inom vård och omsorg." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> teknisk utrustning i patienters och brukares dagliga livsföring samt hur utrustningen underlättar för dem och bidrar till ökad livskvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> teknisk utrustning i patienters och brukares dagliga livsföring samt hur utrustningen underlättar för dem och bidrar till ökad livskvalitet.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> teknisk utrustning i patienters och brukares dagliga livsföring samt hur utrustningen underlättar för dem och bidrar till ökad livskvalitet.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> teknisk utrustning i patienters och brukares dagliga livsföring samt hur utrustningen underlättar för dem och bidrar till ökad livskvalitet."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> teknisk utrustning för metoder och behandlingar samt hur den kan användas i personalens arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> teknisk utrustning för metoder och behandlingar samt hur den kan användas i personalens arbete.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> teknisk utrustning för metoder och behandlingar samt hur den kan användas i personalens arbete.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> teknisk utrustning för metoder och behandlingar samt hur den kan användas i personalens arbete."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> hur medicintekniska informationsdatasystem fungerar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> hur medicintekniska informationsdatasystem fungerar.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> hur medicintekniska informationsdatasystem fungerar.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> hur medicintekniska informationsdatasystem fungerar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för elsäkerhet samt för riskerna vid användning av gas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för elsäkerhet samt för riskerna vid användning av gas.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för elsäkerhet samt för riskerna vid användning av gas.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för elsäkerhet samt för riskerna vid användning av gas."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven handhar och underhåller <strong>________</strong> med handledare teknisk utrustning, även elektrisk utrustning och gasutrustning, utifrån säkerhetsföreskrifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven handhar och underhåller <strong>i samråd</strong> med handledare teknisk utrustning, även elektrisk utrustning och gasutrustning, utifrån säkerhetsföreskrifter.",
+          "C" : "Eleven handhar och underhåller <strong>efter samråd</strong> med handledare teknisk utrustning, även elektrisk utrustning och gasutrustning, utifrån säkerhetsföreskrifter.",
+          "A" : "Eleven handhar och underhåller <strong>efter samråd</strong> med handledare teknisk utrustning, även elektrisk utrustning och gasutrustning, utifrån säkerhetsföreskrifter."
+        }
+      }, {
+        "text" : "Dessutom instruerar eleven <strong>________</strong> patienter och brukare om hur utrustningen används.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom instruerar eleven <strong>med viss säkerhet</strong> patienter och brukare om hur utrustningen används.",
+          "C" : "Dessutom instruerar eleven <strong>med viss säkerhet</strong> patienter och brukare om hur utrustningen används.",
+          "A" : "Dessutom instruerar eleven <strong>med säkerhet</strong> patienter och brukare om hur utrustningen används."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

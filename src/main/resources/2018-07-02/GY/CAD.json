@@ -1,0 +1,259 @@
+{
+  "name" : "Cad",
+  "description" : "Ämnet cad (computer aided design) behandlar hur man använder olika programvaror för att konstruera och designa verkliga och virtuella objekt. I ämnet är geometri grunden för att, via skiss och ritteknik, kunna realisera en idé till styrinformation för att tillverka produkten.",
+  "code" : "CAD",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet cad ska syfta till att eleverna utvecklar kunskaper i skiss- och ritteknik samt i att använda något eller några cad-system.", "Undervisningen ska även leda till att eleverna utvecklar kunskaper i hur cad-system byggs upp.", "Eftersom cad bland annat handlar om att konstruera och designa nya objekt ska undervisningen ge eleverna möjlighet att utveckla handlingsförmåga, nyfikenhet, uppfinningsrikedom och problemlösningsförmåga.", "Undervisningen ska introducera begrepp som är relevanta för valt teknikområde.", "Vidare ska undervisningen bidra till att eleverna utvecklar kunskaper om ergonomiska förutsättningar för en cad-arbetsplats." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska utgå från ett valt teknikområde, där cad är ett verktyg, ett språk och en metod för att skapa information om produkten.", "Vidare ska undervisningen behandla hur cad-programmets information kan överföras till och från andra datorprogram samt till och från maskinell kringutrustning.", "Undervisningen ska ge eleverna möjlighet att utföra och förstå de olika delarna i produktutvecklingsprocessen." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet cad ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förmåga att använda cad i förhållande till andra datorprogram och i förekommande fall maskiner.", "Förmåga att göra skisser och ritningar enligt gällande standarder och normer.", "Förmåga att modellera tredimensionella detaljer.", "Förmåga att utföra tredimensionella sammanställningar.", "Förmåga att använda applikationsprogram.", "Kunskaper om kopplingar mellan cad och produktion.", "Förmåga att utvärdera sitt arbete och resultat.", "Förståelse av ergonomiska förutsättningar som skapar en bra cad-arbetsplats." ]
+  } ],
+  "courses" : [ {
+    "name" : "Cad 1",
+    "description" : "Kursen cad 1 omfattar punkterna 1–3 och 6–8 under rubriken Ämnets syfte.",
+    "code" : "CADCAD01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Cad-system och begrepp inom cad.", "Cad-systemets inställningar för modellering.", "Grundläggande skiss- och ritteknik inom valt teknikområde.", "Ritningsunderlag enligt gällande standarder och normer för valt teknikområde.", "Solidmodellering i tre dimensioner för att avbilda verkliga och tänkta föremål, till exempel genom extrudering, rotation, svepning och återanvändning av geometri för att skapa mönster.", "Cad-systemets roll i produktutvecklings- och produktionsprocessen.", "Ergonomiska krav på cad-arbetsplatser och arbetsmiljökrav." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör <strong>________</strong> inställningar av cad-programvaror för modellering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör <strong>enkla</strong> inställningar av cad-programvaror för modellering.",
+          "C" : "Eleven <strong>väljer och</strong> gör inställningar av cad-programvaror för modellering <strong>samt diskuterar översiktligt alternativa inställningar</strong>.",
+          "A" : "Eleven <strong>väljer och</strong> gör <strong>avancerade</strong> inställningar av cad-programvaror för modellering <strong>samt diskuterar utförligt alternativa inställningar</strong>."
+        }
+      }, {
+        "text" : "Dessutom gör eleven skisser och ritningar för produktionsändamål med <strong>________</strong> resultat enligt gällande standarder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven skisser och ritningar för produktionsändamål med <strong>tillfredsställande</strong> resultat enligt gällande standarder.",
+          "C" : "Dessutom gör eleven skisser och ritningar för produktionsändamål med <strong>tillfredsställande</strong> resultat enligt gällande standarder.",
+          "A" : "Dessutom gör eleven skisser och ritningar för produktionsändamål med <strong>gott</strong> resultat enligt gällande standarder."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven modellerar <strong>________</strong> detaljer med programvarans inbyggda verktyg, redigerar i 3D, för över 3D-modellen till 2D-ritning och gör efter överföringen redigeringar enligt gällande ritningsstandarder med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven modellerar <strong>enkla</strong> detaljer med programvarans inbyggda verktyg, redigerar i 3D, för över 3D-modellen till 2D-ritning och gör efter överföringen redigeringar enligt gällande ritningsstandarder med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven modellerar detaljer med programvarans inbyggda verktyg, redigerar i 3D, för över 3D-modellen till 2D-ritning och gör efter överföringen redigeringar enligt gällande ritningsstandarder med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven modellerar <strong>komplexa</strong> detaljer med programvarans inbyggda verktyg, redigerar i 3D, för över 3D-modellen till 2D-ritning och gör efter överföringen redigeringar enligt gällande ritningsstandarder med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven värderar med <strong>________</strong> omdömen sin cad-arbetsplats ur ergonomisk synvinkel.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven värderar med <strong>enkla</strong> omdömen sin cad-arbetsplats ur ergonomisk synvinkel.",
+          "C" : "Eleven värderar med <strong>nyanserade</strong> omdömen sin cad-arbetsplats ur ergonomisk synvinkel.",
+          "A" : "Eleven värderar med <strong>nyanserade</strong> omdömen sin cad-arbetsplats ur ergonomisk synvinkel <strong>samt ger förslag på hur arbetsplatsen kan förbättras</strong>."
+        }
+      } ]
+    } ],
+    "point" : 50,
+    "year" : null
+  }, {
+    "name" : "Cad 2",
+    "description" : "Kursen cad 2 omfattar punkterna 1–2 och 4–7 under rubriken Ämnets syfte.",
+    "code" : "CADCAD02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Cad-systemets inställningar för sammanställningar och analys.", "Skiss- och ritteknik inom valt teknikområde.", "Ritningsunderlag enligt gällande standarder och normer för valt teknikområde.", "Grunderna för att skapa sammanställningar i tre dimensioner med beaktande av konstruktionsvillkor.", "Grundläggande applikationer beroende på teknikområde, till exempel FEM-analys (finita elementmetoden) inom produktutveckling och byggteknik.", "Cad-systemets roll i produktutvecklings- och produktionsprocessen." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör <strong>________</strong> inställningar av cad-programvaror för sammanställningar och applikationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör <strong>enkla</strong> inställningar av cad-programvaror för sammanställningar och applikationer.",
+          "C" : "Eleven <strong>väljer och</strong> gör inställningar av cad-programvaror för sammanställningar och applikationer <strong>samt diskuterar översiktligt alternativa inställningar</strong>.",
+          "A" : "Eleven <strong>väljer och</strong> gör <strong>avancerade</strong> inställningar av cad-programvaror för sammanställningar och applikationer <strong>samt diskuterar utförligt alternativa inställningar</strong>."
+        }
+      }, {
+        "text" : "Dessutom gör eleven skisser och ritningar för produktionsändamål med <strong>________</strong> resultat enligt gällande standarder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven skisser och ritningar för produktionsändamål med <strong>tillfredsställande</strong> resultat enligt gällande standarder.",
+          "C" : "Dessutom gör eleven skisser och ritningar för produktionsändamål med <strong>tillfredsställande</strong> resultat enligt gällande standarder.",
+          "A" : "Dessutom gör eleven skisser och ritningar för produktionsändamål med <strong>gott</strong> resultat enligt gällande standarder."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> sammanställningar med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>enkla</strong> sammanställningar med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven utför <strong>komplexa</strong> sammanställningar med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven utför <strong>komplexa</strong> sammanställningar med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> applikationer i olika <strong>________</strong> situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> applikationer i olika <strong>enkla</strong> situationer.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> applikationer i olika situationer.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> applikationer i olika <strong>komplexa</strong> situationer."
+        }
+      }, {
+        "text" : "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetat kan förbättras</strong>."
+        }
+      } ]
+    } ],
+    "point" : 50,
+    "year" : null
+  }, {
+    "name" : "Cad 3",
+    "description" : "Kursen cad 3 omfattar punkterna 3–6 under rubriken Ämnets syfte.",
+    "code" : "CADCAD03",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Grundläggande dokumenthantering.", "Fördjupning inom solidmodellering.", "Komplexa sammanställningar i tre dimensioner med beaktande av konstruktionsvillkor.", "Fördjupning av applikationer beroende på valt teknikområde, till exempel FEM-analys (finita elementmetoden) inom produktutveckling och byggteknik.", "Grundläggande rörelsesimulering, till exempel studstal, friktion och last med beaktande av randvillkor." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> dokumenthantering med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>enkel</strong> dokumenthantering med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven utför dokumenthantering med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven utför <strong>avancerad</strong> dokumenthantering med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare avancerad solidmodellering med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare avancerad solidmodellering med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare avancerad solidmodellering med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare avancerad solidmodellering med <strong>gott</strong> resultat."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör komplexa sammanställningar med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör komplexa sammanställningar med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven gör komplexa sammanställningar med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven gör komplexa sammanställningar med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> applikationer i komplexa situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> applikationer i komplexa situationer.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> applikationer i komplexa situationer.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> applikationer i komplexa situationer."
+        }
+      }, {
+        "text" : "Dessutom analyserar eleven <strong>________</strong> sitt resultat med utgångspunkt i rörelsesimulering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom analyserar eleven <strong>med viss säkerhet</strong> sitt resultat med utgångspunkt i rörelsesimulering.",
+          "C" : "Dessutom analyserar eleven <strong>med viss säkerhet</strong> sitt resultat med utgångspunkt i rörelsesimulering.",
+          "A" : "Dessutom analyserar eleven sitt resultat med utgångspunkt i rörelsesimulering."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 50,
+    "year" : null
+  }, {
+    "name" : "Cad – specialisering",
+    "description" : "Kursen cad – specialisering omfattar punkterna 3–7 under rubriken Ämnets syfte.",
+    "code" : "CADCAD00S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Cad och cad-tillämpning inom valt teknikområde.", "Fördjupad och specialiserad dokumenthantering.", "Fördjupning inom solidmodellering.", "Komplexa sammanställningar i tre dimensioner med beaktande av konstruktionsvillkor.", "Fördjupning, beräkning och specialisering med hjälp av applikationer beroende på valt teknikområde.", "Fördjupning inom rörelsesimulering." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför konstruktioner med hjälp av för teknikområdet valda cad-tillämpningar med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför konstruktioner med hjälp av för teknikområdet valda cad-tillämpningar med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven utför <strong>avancerade</strong> konstruktioner med hjälp av för teknikområdet valda cad-tillämpningar med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven utför <strong>avancerade</strong> konstruktioner med hjälp av för teknikområdet valda cad-tillämpningar med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "Eleven utför dokumenthantering med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför dokumenthantering med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven utför <strong>avancerad</strong> dokumenthantering med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven utför <strong>avancerad</strong> dokumenthantering med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare avancerad solidmodellering med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare avancerad solidmodellering med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare avancerad solidmodellering med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare avancerad solidmodellering med <strong>gott</strong> resultat."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör komplexa sammanställningar med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör komplexa sammanställningar med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven gör komplexa sammanställningar med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven gör komplexa sammanställningar med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> applikationer i komplexa situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> applikationer i komplexa situationer.",
+          "C" : "I arbetet använder eleven <strong>med säkerhet</strong> applikationer i komplexa situationer.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> applikationer i komplexa situationer."
+        }
+      }, {
+        "text" : "Dessutom analyserar eleven <strong>________</strong> sitt resultat med utgångspunkt i rörelsesimulering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom analyserar eleven <strong>med viss säkerhet</strong> sitt resultat med utgångspunkt i rörelsesimulering.",
+          "C" : "Dessutom analyserar eleven <strong>med säkerhet</strong> sitt resultat med utgångspunkt i rörelsesimulering.",
+          "A" : "Dessutom analyserar eleven <strong>med säkerhet</strong> sitt resultat med utgångspunkt i rörelsesimulering."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

@@ -1,0 +1,648 @@
+{
+  "name" : "Sjukvård",
+  "description" : "Ämnet sjukvård är tvärvetenskapligt och har sin grund i vårdvetenskap, pedagogik, medicin och etik. Det behandlar vård- och omsorgsarbete främst inom hälso- och sjukvård. I begreppet vård och omsorg inryms även omvårdnad relaterad till sjukdomar.",
+  "code" : "SJU",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet sjukvård ska syfta till att eleverna utvecklar kunskaper om medicinskt omhändertagande.", "Den ska också ge eleverna möjlighet att utveckla förmåga att planera egna arbetsinsatser samt utföra och utvärdera vård- och omsorgsuppgifter vid sjukdomar utifrån lagar och andra bestämmelser.", "Dessutom ska eleverna ges möjlighet att utveckla kunskaper om omhändertagande vid olycksfall samt om olycksplatsarbetets organisation.", "Genom undervisningen ska eleverna även ges möjlighet att utveckla kunskaper om vård i livets slutskede på institution eller i hemmiljö." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla förmåga att utföra vård- och omsorgsuppgifter på ett etiskt, estetiskt, hygieniskt, ergonomiskt, hälsobefrämjande, rehabiliterande, habiliterande och pedagogiskt sätt.", "Den ska också bidra till att eleverna utvecklar förmåga att använda teknisk apparatur samt att utföra medicintekniska uppgifter." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att utveckla förmåga att kommunicera med andra människor med respekt för allas lika värde oavsett till exempel kön eller etniskt ursprung.", "Undervisningen ska också leda till att eleverna utvecklar förmåga att inhämta, granska och värdera ny kunskap inom området." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet sjukvård ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om vård- och omsorgsåtgärder och medicinska åtgärder samt kunskaper om smärta och smärtbehandling.", "Kunskaper om barns och ungdomars fysiska, psykiska och sociala utveckling samt om betydelsen av lek och andra skapande aktiviteter.", "Kunskaper om människan fysiskt, psykiskt, socialt och existentiellt vid ohälsa och i krissituationer samt förmåga att uppfatta och resonera om etiska frågeställningar.", "Förmåga att planera egna arbetsinsatser samt att utföra vård- och omsorgsuppgifter och medicintekniska uppgifter vid sjukdomar och olycksfall utifrån lagar och andra bestämmelser.", "Förmåga att uppmärksamma symtom och förändringar i människors hälsotillstånd.", "Förmåga att använda teknisk utrustning utifrån säkerhetsföreskrifter.", "Förmåga att bemöta, kommunicera och samarbeta med patienter, närstående och personal.", "Förmåga att pedagogiskt inspirera och motivera patienter till rehabiliterande eller habiliterande åtgärder och egenvård.", "Förmåga att utvärdera, rapportera och dokumentera sitt arbete och resultat, även med hjälp av informationsteknik." ]
+  } ],
+  "courses" : [ {
+    "name" : "Akutsjukvård",
+    "description" : " Kursen akutsjukvård omfattar punkterna 1 och 3–9 under rubriken Ämnets syfte. ",
+    "code" : "SJUAKU0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Vård- och omsorgsåtgärder samt medicinska åtgärder vid akuta och andra sjukdomar.", "Vård och omsorg före, under och efter operation.", "Smärta samt farmakologisk och annan smärtbehandling.", "Människors reaktioner i kris och hur de kan hanteras inom vården.", "Etiska frågeställningar i samband med akuta och andra sjukdomar, till exempel prioritering av patienter.", "Medicintekniska uppgifter som, enligt lagar och andra bestämmelser, inte kräver formell kompetens, till exempel blodprovtagning och sårvård.", "Medicinteknisk och annan utrustning.", "Betydelsen av bemötande av, samt kommunikation och samarbete med, människor i krissituationer.", "Rehabilitering, habilitering och egenvård.", "System och rutiner för rapportering och dokumentation av gjorda åtgärder." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> vård- och omsorgsåtgärder samt medicinska åtgärder vid akuta och andra sjukdomar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> vård- och omsorgsåtgärder samt medicinska åtgärder vid akuta och andra sjukdomar.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> vård- och omsorgsåtgärder samt medicinska åtgärder vid akuta och andra sjukdomar.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> vård- och omsorgsåtgärder samt medicinska åtgärder vid akuta och andra sjukdomar."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för människans reaktioner vid ohälsa och i krissituationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för människans reaktioner vid ohälsa och i krissituationer.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för människans reaktioner vid ohälsa och i krissituationer.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för människans reaktioner vid ohälsa och i krissituationer."
+        }
+      }, {
+        "text" : "Dessutom diskuterar eleven <strong>________</strong> etiska frågeställningar av betydelse för människor som är drabbade av akuta och andra sjukdomar samt hur sjukvården hanterar sådana frågeställningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom diskuterar eleven <strong>översiktligt</strong> etiska frågeställningar av betydelse för människor som är drabbade av akuta och andra sjukdomar samt hur sjukvården hanterar sådana frågeställningar.",
+          "C" : "Dessutom diskuterar eleven <strong>utförligt</strong> etiska frågeställningar av betydelse för människor som är drabbade av akuta och andra sjukdomar samt hur sjukvården hanterar sådana frågeställningar.",
+          "A" : "Dessutom diskuterar eleven <strong>utförligt och nyanserat</strong> etiska frågeställningar av betydelse för människor som är drabbade av akuta och andra sjukdomar samt hur sjukvården hanterar sådana frågeställningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare egna arbetsinsatser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare egna arbetsinsatser.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare egna arbetsinsatser.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare egna arbetsinsatser."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> vård- och omsorgsuppgifter och medicintekniska uppgifter vid akuta och andra sjukdomar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd med handledare</strong> vård- och omsorgsuppgifter och medicintekniska uppgifter vid akuta och andra sjukdomar.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare vård- och omsorgsuppgifter och medicintekniska uppgifter vid akuta och andra sjukdomar.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare vård- och omsorgsuppgifter och medicintekniska uppgifter vid akuta och andra sjukdomar."
+        }
+      }, {
+        "text" : "Arbetet utförs med ett <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet utförs med ett <strong>tillfredsställande</strong> resultat.",
+          "C" : "Arbetet utförs med ett <strong>tillfredsställande</strong> resultat.",
+          "A" : "Arbetet utförs med ett <strong>gott</strong> resultat. <strong>Vid behov anpassar eleven sitt arbete till ändrade förutsättningar</strong>."
+        }
+      }, {
+        "text" : "I arbetet uppmärksammar och rapporterar eleven <strong>________</strong> med handledare symtom och förändringar i människors hälsotillstånd.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet uppmärksammar och rapporterar eleven <strong>i samråd</strong> med handledare symtom och förändringar i människors hälsotillstånd.",
+          "C" : "I arbetet uppmärksammar och rapporterar eleven <strong>efter samråd</strong> med handledare symtom och förändringar i människors hälsotillstånd.",
+          "A" : "I arbetet uppmärksammar och rapporterar eleven <strong>efter samråd</strong> med handledare symtom och förändringar i människors hälsotillstånd."
+        }
+      }, {
+        "text" : "Eleven utför arbetet utifrån lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet utifrån lagar och andra bestämmelser.",
+          "C" : "Eleven utför arbetet utifrån lagar och andra bestämmelser.",
+          "A" : "Eleven utför arbetet utifrån lagar och andra bestämmelser."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> med handledare teknisk utrustning utifrån säkerhetsföreskrifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>i samråd</strong> med handledare teknisk utrustning utifrån säkerhetsföreskrifter.",
+          "C" : "Dessutom använder eleven <strong>efter samråd</strong> med handledare teknisk utrustning utifrån säkerhetsföreskrifter.",
+          "A" : "Dessutom använder eleven <strong>efter samråd</strong> med handledare teknisk utrustning utifrån säkerhetsföreskrifter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven bemöter, kommunicerar och samarbetar <strong>________</strong> med andra i <strong>________</strong> situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven bemöter, kommunicerar och samarbetar <strong>med viss säkerhet</strong> med andra i <strong>bekanta</strong> situationer.",
+          "C" : "Eleven bemöter, kommunicerar och samarbetar <strong>med viss säkerhet</strong> med andra i <strong>nya</strong> situationer.",
+          "A" : "Eleven bemöter, kommunicerar och samarbetar <strong>med säkerhet</strong> med andra i <strong>nya</strong> situationer <strong>samt anpassar vid behov sitt bemötande, sin kommunikation och sitt samarbete till ändrade förutsättningar</strong>."
+        }
+      }, {
+        "text" : "Dessutom inspirerar och motiverar eleven <strong>________</strong> patienter till rehabilitering eller habilitering samt egenvård.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom inspirerar och motiverar eleven <strong>med viss säkerhet</strong> patienter till rehabilitering eller habilitering samt egenvård.",
+          "C" : "Dessutom inspirerar och motiverar eleven <strong>med viss säkerhet</strong> patienter till rehabilitering eller habilitering samt egenvård.",
+          "A" : "Dessutom inspirerar och motiverar eleven <strong>med säkerhet</strong> patienter till rehabilitering eller habilitering samt egenvård."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört utvärderar eleven med <strong>________</strong> omdömen sitt arbete och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört utvärderar eleven med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+          "C" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
+          "A" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Dessutom rapporterar och dokumenterar eleven <strong>________</strong> med handledare sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom rapporterar och dokumenterar eleven <strong>i samråd</strong> med handledare sitt arbete.",
+          "C" : "Dessutom rapporterar och dokumenterar eleven <strong>efter samråd</strong> med handledare sitt arbete.",
+          "A" : "Dessutom rapporterar och dokumenterar eleven <strong>efter samråd</strong> med handledare sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Barn- och ungdomssjukvård",
+    "description" : " Kursen barn- och ungdomssjukvård omfattar punkterna 1–9 under rubriken Ämnets syfte. ",
+    "code" : "SJUBAR0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Vanliga sjukdomar hos barn och ungdomar samt olycksfall.", "Vård- och omsorgsåtgärder samt medicinska åtgärder vid sjukdomar hos barn och ungdomar.", "Omhändertagande av prematura barn.", "Smärta hos barn. Smärtbehandling.", "Barns och undomars fysiska, psykiska och sociala utveckling.", "Betydelse av lek och andra skapande aktiviteter.", "Barns och ungdomars reaktioner i kris och hur dessa kan hanteras inom vården.", "Etiska frågeställningar i samband med barns och ungdomars sjukdomar, till exempel otillräcklig smärtlindring.", "Barns och ungdomars samt närståendes behov i hälso- och sjukvård, till exempel behov av information.", "Medicinteknisk och annan utrustning.", "Betydelsen av kommunikation och samarbete.", "Rehabilitering och hablitering samt egenvård.", "System och rutiner för rapportering och dokumentation av gjorda åtgärder." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> vård- och omsorgsåtgärder samt medicinska åtgärder vid sjukdomar hos barn och ungdomar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> vård- och omsorgsåtgärder samt medicinska åtgärder vid sjukdomar hos barn och ungdomar.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> vård- och omsorgsåtgärder samt medicinska åtgärder vid sjukdomar hos barn och ungdomar.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> vård- och omsorgsåtgärder samt medicinska åtgärder vid sjukdomar hos barn och ungdomar."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> de handlingar som krävs för att omhänderta sjuka, skadade och för tidigt födda barn.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> de handlingar som krävs för att omhänderta sjuka, skadade och för tidigt födda barn.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> de handlingar som krävs för att omhänderta sjuka, skadade och för tidigt födda barn.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> de handlingar som krävs för att omhänderta sjuka, skadade och för tidigt födda barn."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för barns och ungdomars fysiska, psykiska och sociala utveckling samt lekens och andra skapande aktiviteters betydelse för deras utveckling.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för barns och ungdomars fysiska, psykiska och sociala utveckling samt lekens och andra skapande aktiviteters betydelse för deras utveckling.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för barns och ungdomars fysiska, psykiska och sociala utveckling samt lekens och andra skapande aktiviteters betydelse för deras utveckling.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för barns och ungdomars fysiska, psykiska och sociala utveckling samt lekens och andra skapande aktiviteters betydelse för deras utveckling."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för barns och ungdomars reaktioner vid ohälsa och i krissituationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för barns och ungdomars reaktioner vid ohälsa och i krissituationer.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för barns och ungdomars reaktioner vid ohälsa och i krissituationer.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för barns och ungdomars reaktioner vid ohälsa och i krissituationer."
+        }
+      }, {
+        "text" : "Dessutom diskuterar eleven <strong>________</strong> etiska frågeställningar av betydelse för barn och ungdomar som är drabbade av sjukdomar samt hur sjukvården hanterar sådana frågeställningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom diskuterar eleven <strong>översiktligt</strong> etiska frågeställningar av betydelse för barn och ungdomar som är drabbade av sjukdomar samt hur sjukvården hanterar sådana frågeställningar.",
+          "C" : "Dessutom diskuterar eleven <strong>utförligt</strong> etiska frågeställningar av betydelse för barn och ungdomar som är drabbade av sjukdomar samt hur sjukvården hanterar sådana frågeställningar.",
+          "A" : "Dessutom diskuterar eleven <strong>utförligt och nyanserat</strong> etiska frågeställningar av betydelse för barn och ungdomar som är drabbade av sjukdomar samt hur sjukvården hanterar sådana frågeställningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare egna arbetsinsatser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare egna arbetsinsatser.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare egna arbetsinsatser.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare egna arbetsinsatser."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare vård- och omsorgsuppgifter och medicintekniska uppgifter för sjuka, skadade eller för tidigt födda barn.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare vård- och omsorgsuppgifter och medicintekniska uppgifter för sjuka, skadade eller för tidigt födda barn.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare vård- och omsorgsuppgifter och medicintekniska uppgifter för sjuka, skadade eller för tidigt födda barn.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare vård- och omsorgsuppgifter och medicintekniska uppgifter för sjuka, skadade eller för tidigt födda barn."
+        }
+      }, {
+        "text" : "Arbetet utförs med ett <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet utförs med ett <strong>tillfredsställande</strong> resultat.",
+          "C" : "Arbetet utförs med ett <strong>tillfredsställande</strong> resultat.",
+          "A" : "Arbetet utförs med ett <strong>gott</strong> resultat. <strong>Vid behov anpassar eleven sitt arbete till ändrade förutsättningar</strong>."
+        }
+      }, {
+        "text" : "I arbetet uppmärksammar och rapporterar eleven <strong>________</strong> med handledare symtom och förändringar i barns och ungdomars hälsotillstånd samt barns, ungdomars och närståendes behov.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet uppmärksammar och rapporterar eleven <strong>i samråd</strong> med handledare symtom och förändringar i barns och ungdomars hälsotillstånd samt barns, ungdomars och närståendes behov.",
+          "C" : "I arbetet uppmärksammar och rapporterar eleven <strong>efter samråd</strong> med handledare symtom och förändringar i barns och ungdomars hälsotillstånd samt barns, ungdomars och närståendes behov.",
+          "A" : "I arbetet uppmärksammar och rapporterar eleven <strong>efter samråd</strong> med handledare symtom och förändringar i barns och ungdomars hälsotillstånd samt barns, ungdomars och närståendes behov."
+        }
+      }, {
+        "text" : "Eleven utför arbetet utifrån lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet utifrån lagar och andra bestämmelser.",
+          "C" : "Eleven utför arbetet utifrån lagar och andra bestämmelser.",
+          "A" : "Eleven utför arbetet utifrån lagar och andra bestämmelser."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> med handledare teknisk utrustning utifrån säkerhetsföreskrifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>i samråd</strong> med handledare teknisk utrustning utifrån säkerhetsföreskrifter.",
+          "C" : "Dessutom använder eleven <strong>efter samråd</strong> med handledare teknisk utrustning utifrån säkerhetsföreskrifter.",
+          "A" : "Dessutom använder eleven <strong>efter samråd</strong> med handledare teknisk utrustning utifrån säkerhetsföreskrifter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven bemöter, kommunicerar och samarbetar <strong>________</strong> med andra i <strong>________</strong> situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven bemöter, kommunicerar och samarbetar <strong>med viss säkerhet</strong> med andra i <strong>bekanta</strong> situationer.",
+          "C" : "Eleven bemöter, kommunicerar och samarbetar <strong>med viss säkerhet</strong> med andra i <strong>nya</strong> situationer.",
+          "A" : "Eleven bemöter, kommunicerar och samarbetar <strong>med säkerhet</strong> med andra i <strong>nya</strong> situationer <strong>samt anpassar vid behov sitt bemötande, sin kommunikation och sitt samarbete till ändrade förutsättningar</strong>."
+        }
+      }, {
+        "text" : "Dessutom inspirerar och motiverar eleven <strong>________</strong> patienter till rehabilitering eller habilitering samt egenvård.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom inspirerar och motiverar eleven <strong>med viss säkerhet</strong> patienter till rehabilitering eller habilitering samt egenvård.",
+          "C" : "Dessutom inspirerar och motiverar eleven <strong>med viss säkerhet</strong> patienter till rehabilitering eller habilitering samt egenvård.",
+          "A" : "Dessutom inspirerar och motiverar eleven <strong>med säkerhet</strong> patienter till rehabilitering eller habilitering samt egenvård."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört utvärderar eleven med <strong>________</strong> omdömen sitt arbete och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört utvärderar eleven med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+          "C" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
+          "A" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Dessutom rapporterar och dokumenterar eleven <strong>________</strong> med handledare sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom rapporterar och dokumenterar eleven <strong>i samråd</strong> med handledare sitt arbete.",
+          "C" : "Dessutom rapporterar och dokumenterar eleven <strong>efter samråd</strong> med handledare sitt arbete.",
+          "A" : "Dessutom rapporterar och dokumenterar eleven <strong>efter samråd</strong> med handledare sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Hemsjukvård",
+    "description" : " Kursen hemsjukvård omfattar punkterna 1 och 3–9 under rubriken Ämnets syfte. ",
+    "code" : "SJUHEM0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Vård- och omsorgsåtgärder samt medicinska åtgärder som kan utföras i hemmet.", "Vård i livets slutskede.", "Människors reaktioner i kris och hur de kan hanteras inom vården.", "Etiska frågeställningar i samband med vård i hemmet, till exempel rätten till integritet när hemmet blir en vårdplats.", "Medicintekniska uppgifter som, enligt lagar och andra bestämmelser, inte kräver formell kompetens, till exempel blodprovtagning och sårvård.", "Vårdplanering, dess syfte, innehåll och hur en sådan görs.", "Medicinteknisk och annan utrustning.", "Betydelsen av bemötande, kommunikation och samarbete.", "Rehabilitering, habilitering och egenvård som kan utföras i hemmet.", "System och rutiner för rapportering och dokumentation av gjorda åtgärder." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> vård- och omsorgsåtgärder samt medicinska åtgärder vid sjukdomar då patienten kan vårdas i hemmet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> vård- och omsorgsåtgärder samt medicinska åtgärder vid sjukdomar då patienten kan vårdas i hemmet.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> vård- och omsorgsåtgärder samt medicinska åtgärder vid sjukdomar då patienten kan vårdas i hemmet.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> vård- och omsorgsåtgärder samt medicinska åtgärder vid sjukdomar då patienten kan vårdas i hemmet."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för människans reaktioner vid ohälsa och i krissituationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för människans reaktioner vid ohälsa och i krissituationer.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för människans reaktioner vid ohälsa och i krissituationer.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för människans reaktioner vid ohälsa och i krissituationer."
+        }
+      }, {
+        "text" : "Dessutom diskuterar eleven <strong>________</strong> etiska frågeställningar av betydelse för patienter som vårdas i hemmet samt hur sjukvården hanterar sådana frågeställningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom diskuterar eleven <strong>översiktligt</strong> etiska frågeställningar av betydelse för patienter som vårdas i hemmet samt hur sjukvården hanterar sådana frågeställningar.",
+          "C" : "Dessutom diskuterar eleven <strong>utförligt</strong> etiska frågeställningar av betydelse för patienter som vårdas i hemmet samt hur sjukvården hanterar sådana frågeställningar.",
+          "A" : "Dessutom diskuterar eleven <strong>utförligt och nyanserat</strong> etiska frågeställningar av betydelse för patienter som vårdas i hemmet samt hur sjukvården hanterar sådana frågeställningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare egna arbetsinsatser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare egna arbetsinsatser.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare egna arbetsinsatser.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare egna arbetsinsatser."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare vård- och omsorgsuppgifter och medicintekniska uppgifter i patientens hem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare vård- och omsorgsuppgifter och medicintekniska uppgifter i patientens hem.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare vård- och omsorgsuppgifter och medicintekniska uppgifter i patientens hem.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare vård- och omsorgsuppgifter och medicintekniska uppgifter i patientens hem."
+        }
+      }, {
+        "text" : "Arbetet utförs med ett <strong>________</strong> resultat utifrån gjord vårdplanering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet utförs med ett <strong>tillfredsställande</strong> resultat utifrån gjord vårdplanering.",
+          "C" : "Arbetet utförs med ett <strong>tillfredsställande</strong> resultat utifrån gjord vårdplanering.",
+          "A" : "Arbetet utförs med ett <strong>gott</strong> resultat utifrån gjord vårdplanering. <strong>Vid behov anpassar eleven sitt arbete till ändrade förutsättningar</strong>."
+        }
+      }, {
+        "text" : "I arbetet uppmärksammar och rapporterar eleven <strong>________</strong> med handledare symtom och förändringar i människors hälsotillstånd.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet uppmärksammar och rapporterar eleven <strong>i samråd</strong> med handledare symtom och förändringar i människors hälsotillstånd.",
+          "C" : "I arbetet uppmärksammar och rapporterar eleven <strong>efter samråd</strong> med handledare symtom och förändringar i människors hälsotillstånd.",
+          "A" : "I arbetet uppmärksammar och rapporterar eleven <strong>efter samråd</strong> med handledare symtom och förändringar i människors hälsotillstånd."
+        }
+      }, {
+        "text" : "Eleven utför arbetet utifrån lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet utifrån lagar och andra bestämmelser.",
+          "C" : "Eleven utför arbetet utifrån lagar och andra bestämmelser.",
+          "A" : "Eleven utför arbetet utifrån lagar och andra bestämmelser."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> med handledare teknisk utrustning utifrån säkerhetsföreskrifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>i samråd</strong> med handledare teknisk utrustning utifrån säkerhetsföreskrifter.",
+          "C" : "Dessutom använder eleven <strong>efter samråd</strong> med handledare teknisk utrustning utifrån säkerhetsföreskrifter.",
+          "A" : "Dessutom använder eleven <strong>efter samråd</strong> med handledare teknisk utrustning utifrån säkerhetsföreskrifter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven bemöter, kommunicerar och samarbetar <strong>________</strong> med andra i <strong>________</strong> situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven bemöter, kommunicerar och samarbetar <strong>med viss säkerhet</strong> med andra i <strong>bekanta</strong> situationer.",
+          "C" : "Eleven bemöter, kommunicerar och samarbetar <strong>med viss säkerhet</strong> med andra i <strong>nya</strong> situationer.",
+          "A" : "Eleven bemöter, kommunicerar och samarbetar <strong>med säkerhet</strong> med andra i <strong>nya</strong> situationer <strong>samt anpassar vid behov sitt bemötande, sin kommunikation och sitt samarbete till ändrade förutsättningar</strong>."
+        }
+      }, {
+        "text" : "Dessutom inspirerar och motiverar eleven <strong>________</strong> patienter till rehabilitering eller habilitering samt egenvård.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom inspirerar och motiverar eleven <strong>med viss säkerhet</strong> patienter till rehabilitering eller habilitering samt egenvård.",
+          "C" : "Dessutom inspirerar och motiverar eleven <strong>med viss säkerhet</strong> patienter till rehabilitering eller habilitering samt egenvård.",
+          "A" : "Dessutom inspirerar och motiverar eleven <strong>med säkerhet</strong> patienter till rehabilitering eller habilitering samt egenvård."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört utvärderar eleven med <strong>________</strong> omdömen sitt arbete och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört utvärderar eleven med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+          "C" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
+          "A" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Dessutom rapporterar och dokumenterar eleven <strong>________</strong> med handledare sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom rapporterar och dokumenterar eleven <strong>i samråd</strong> med handledare sitt arbete.",
+          "C" : "Dessutom rapporterar och dokumenterar eleven <strong>efter samråd</strong> med handledare sitt arbete.",
+          "A" : "Dessutom rapporterar och dokumenterar eleven <strong>efter samråd</strong> med handledare sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Palliativ vård",
+    "description" : "Kursen palliativ vård omfattar punkterna 1, 3–7 och 9 under rubriken Ämnets syfte.",
+    "code" : "SJULIN0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Livshotande sjukdomar, till exempel cancer.", "Vård- och omsorgsåtgärder samt medicinska åtgärder vid vård i livets slutskede.", "Symtomlindring, till exempel vid smärta, illamående, kramper, oro och ångest.", "Kost och näringsbehov vid livshotande sjukdom.", "Kriser, existentiella frågor, reaktioner och psykosocialt stöd.", "Fysiska, psykiska och sociala förändringar i livets slutskede.", "Betydelsen av ett etiskt, estetiskt, hygieniskt och ergonomiskt förhållningssätt.", "Etiska frågeställningar i samband med livshotande sjukdomar, till exempel rätten till en värdig död.", "Medicinteknisk och annan utrustning.", "Betydelsen av bemötande, kommunikation och samarbete.", "System och rutiner för rapportering och dokumentation av gjorda åtgärder." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> vård- och omsorgsåtgärder samt medicinska åtgärder vid livshotande sjukdomar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> vård- och omsorgsåtgärder samt medicinska åtgärder vid livshotande sjukdomar.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> vård- och omsorgsåtgärder samt medicinska åtgärder vid livshotande sjukdomar.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> vård- och omsorgsåtgärder samt medicinska åtgärder vid livshotande sjukdomar."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för smärtlindring och annan symtomlindring samt beskriver <strong>________</strong> betydelsen av näringsriktig kost vid livshotande sjukdomar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för smärtlindring och annan symtomlindring samt beskriver <strong>översiktligt</strong> betydelsen av näringsriktig kost vid livshotande sjukdomar.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för smärtlindring och annan symtomlindring samt beskriver <strong>utförligt</strong> betydelsen av näringsriktig kost vid livshotande sjukdomar.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för smärtlindring och annan symtomlindring samt beskriver <strong>utförligt och nyanserat</strong> betydelsen av näringsriktig kost vid livshotande sjukdomar."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för fysiska, psykiska, sociala och existentiella förändringar, kriser och reaktioner hos människor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för fysiska, psykiska, sociala och existentiella förändringar, kriser och reaktioner hos människor.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för fysiska, psykiska, sociala och existentiella förändringar, kriser och reaktioner hos människor.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för fysiska, psykiska, sociala och existentiella förändringar, kriser och reaktioner hos människor."
+        }
+      }, {
+        "text" : "Eleven diskuterar <strong>________</strong> etiska frågeställningar av betydelse för människor som är drabbade av livshotande sjukdomar samt hur sjukvården hanterar sådana frågeställningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> etiska frågeställningar av betydelse för människor som är drabbade av livshotande sjukdomar samt hur sjukvården hanterar sådana frågeställningar.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> etiska frågeställningar av betydelse för människor som är drabbade av livshotande sjukdomar samt hur sjukvården hanterar sådana frågeställningar.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat</strong> etiska frågeställningar av betydelse för människor som är drabbade av livshotande sjukdomar samt hur sjukvården hanterar sådana frågeställningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare egna arbetsinsatser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare egna arbetsinsatser.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare egna arbetsinsatser.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare egna arbetsinsatser."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare vård- och omsorgsuppgifter och medicintekniska uppgifter vid livshotande sjukdomar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare vård- och omsorgsuppgifter och medicintekniska uppgifter vid livshotande sjukdomar.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare vård- och omsorgsuppgifter och medicintekniska uppgifter vid livshotande sjukdomar.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare vård- och omsorgsuppgifter och medicintekniska uppgifter vid livshotande sjukdomar."
+        }
+      }, {
+        "text" : "Arbetet utförs med ett <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet utförs med ett <strong>tillfredsställande</strong> resultat.",
+          "C" : "Arbetet utförs med ett <strong>tillfredsställande</strong> resultat.",
+          "A" : "Arbetet utförs med ett <strong>gott</strong> resultat. <strong>Vid behov anpassar eleven sitt arbete till ändrade förutsättningar</strong>."
+        }
+      }, {
+        "text" : "I arbetet uppmärksammar och rapporterar eleven <strong>________</strong> med handledare symtom och förändringar i människors hälsotillstånd.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet uppmärksammar och rapporterar eleven <strong>i samråd</strong> med handledare symtom och förändringar i människors hälsotillstånd.",
+          "C" : "I arbetet uppmärksammar och rapporterar eleven <strong>efter samråd</strong> med handledare symtom och förändringar i människors hälsotillstånd.",
+          "A" : "I arbetet uppmärksammar och rapporterar eleven <strong>efter samråd</strong> med handledare symtom och förändringar i människors hälsotillstånd."
+        }
+      }, {
+        "text" : "Eleven utför arbetet utifrån lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet utifrån lagar och andra bestämmelser.",
+          "C" : "Eleven utför arbetet utifrån lagar och andra bestämmelser.",
+          "A" : "Eleven utför arbetet utifrån lagar och andra bestämmelser."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> med handledare teknisk utrustning utifrån säkerhetsföreskrifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>i samråd</strong> med handledare teknisk utrustning utifrån säkerhetsföreskrifter.",
+          "C" : "Dessutom använder eleven <strong>efter samråd</strong> med handledare teknisk utrustning utifrån säkerhetsföreskrifter.",
+          "A" : "Dessutom använder eleven <strong>efter samråd</strong> med handledare teknisk utrustning utifrån säkerhetsföreskrifter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven bemöter, kommunicerar och samarbetar <strong>________</strong> med andra i <strong>________</strong> situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven bemöter, kommunicerar och samarbetar <strong>med viss säkerhet</strong> med andra i <strong>bekanta</strong> situationer.",
+          "C" : "Eleven bemöter, kommunicerar och samarbetar <strong>med viss säkerhet</strong> med andra i <strong>nya</strong> situationer.",
+          "A" : "Eleven bemöter, kommunicerar och samarbetar <strong>med säkerhet</strong> med andra i <strong>nya</strong> situationer <strong>samt anpassar vid behov sitt bemötande, sin kommunikation och sitt samarbete till ändrade förutsättningar</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört utvärderar eleven med <strong>________</strong> omdömen sitt arbete och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört utvärderar eleven med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+          "C" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
+          "A" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Dessutom rapporterar och dokumenterar eleven <strong>________</strong> med handledare sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom rapporterar och dokumenterar eleven <strong>i samråd</strong> med handledare sitt arbete.",
+          "C" : "Dessutom rapporterar och dokumenterar eleven <strong>efter samråd</strong> med handledare sitt arbete.",
+          "A" : "Dessutom rapporterar och dokumenterar eleven <strong>efter samråd</strong> med handledare sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Räddningsmedicin",
+    "description" : " Kursen räddningsmedicin omfattar punkterna 1, 3–4, 6–7 och 9 under rubriken Ämnets syfte. ",
+    "code" : "SJURÄD0",
+    "centralContent" : [ {
+      "heading" : "Innehållet i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Medicinskt omhändertagande och vård och omsorg vid akuta skador och sjukdomar.", "Räddningstjänstens och den prehospitala vårdens organisation och verksamhetsområden.", "Lagar och bestämmelser som reglerar verksamheten.", "Organisationer och myndigheter som hanterar olyckor och katastrofer, deras insatser samt hur de samverkar.", "Risker med transporter av farligt gods samt lagar och andra bestämmelser som reglerar transporter av farligt gods. Hur man agerar vid olyckor där farligt gods är inblandat.", "Fysiska och psykiska reaktioner vid akuta skador, olycksfall och akuta sjukdomar hos de drabbade, hos närstående och hos insatspersonal.", "Etiska frågeställningar i samband med akuta skador och sjukdomar, till exempel prioritering av skadade.", "Första hjälpen vid olycksfall och akut insjuknande. Läge, andning, blödning och chock.", "Teknisk och annan utrustning vid prehospitalt omhändertagande.", "Bemötande av människor som befinner sig i svåra situationer.", "Betydelsen av kommunikation och samarbete i den prehospitala vården.", "System och rutiner för rapportering och dokumentation av gjorda åtgärder." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> medicinskt omhändertagande och vård och omsorg vid akuta skador och sjukdomar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> medicinskt omhändertagande och vård och omsorg vid akuta skador och sjukdomar.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> medicinskt omhändertagande och vård och omsorg vid akuta skador och sjukdomar.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> medicinskt omhändertagande och vård och omsorg vid akuta skador och sjukdomar."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> räddningstjänstens organisation samt ger några exempel på lagar och andra bestämmelser som reglerar verksamheten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> räddningstjänstens organisation samt ger några exempel på lagar och andra bestämmelser som reglerar verksamheten.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> räddningstjänstens organisation samt ger några exempel på lagar och andra bestämmelser som reglerar verksamheten.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> räddningstjänstens organisation samt ger några exempel på lagar och andra bestämmelser som reglerar verksamheten."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> hur organisationer och myndigheter samverkar vid olyckor och katastrofer samt vilka insatser de bidrar med.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> hur organisationer och myndigheter samverkar vid olyckor och katastrofer samt vilka insatser de bidrar med.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> hur organisationer och myndigheter samverkar vid olyckor och katastrofer samt vilka insatser de bidrar med.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> hur organisationer och myndigheter samverkar vid olyckor och katastrofer samt vilka insatser de bidrar med."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för människans fysiska och psykiska reaktioner vid akuta skador och sjukdomar samt för reaktioner hos närstående.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för människans fysiska och psykiska reaktioner vid akuta skador och sjukdomar samt för reaktioner hos närstående.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för människans fysiska och psykiska reaktioner vid akuta skador och sjukdomar samt för reaktioner hos närstående.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för människans fysiska och psykiska reaktioner vid akuta skador och sjukdomar samt för reaktioner hos närstående."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för psykiska reaktioner hos insatspersonal samt ger exempel på förebyggande åtgärder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för psykiska reaktioner hos insatspersonal samt ger exempel på förebyggande åtgärder.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för psykiska reaktioner hos insatspersonal samt ger exempel på förebyggande åtgärder.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för psykiska reaktioner hos insatspersonal samt ger exempel på förebyggande åtgärder."
+        }
+      }, {
+        "text" : "Dessutom diskuterar eleven <strong>________</strong> etiska frågeställningar av betydelse för människor som är drabbade av akuta skador och sjukdomar samt hur sjukvården hanterar sådana frågeställningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom diskuterar eleven <strong>översiktligt</strong> etiska frågeställningar av betydelse för människor som är drabbade av akuta skador och sjukdomar samt hur sjukvården hanterar sådana frågeställningar.",
+          "C" : "Dessutom diskuterar eleven <strong>utförligt</strong> etiska frågeställningar av betydelse för människor som är drabbade av akuta skador och sjukdomar samt hur sjukvården hanterar sådana frågeställningar.",
+          "A" : "Dessutom diskuterar eleven <strong>utförligt och nyanserat</strong> etiska frågeställningar av betydelse för människor som är drabbade av akuta skador och sjukdomar samt hur sjukvården hanterar sådana frågeställningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför i <strong>________</strong> situationer första hjälpen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför i <strong>bekanta</strong> situationer första hjälpen.",
+          "C" : "Eleven utför i <strong>bekanta</strong> situationer första hjälpen.",
+          "A" : "Eleven utför i <strong>nya</strong> situationer första hjälpen."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> med handledare teknisk utrustning utifrån säkerhetsföreskrifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>i samråd</strong> med handledare teknisk utrustning utifrån säkerhetsföreskrifter.",
+          "C" : "Dessutom använder eleven <strong>efter samråd</strong> med handledare teknisk utrustning utifrån säkerhetsföreskrifter.",
+          "A" : "Dessutom använder eleven <strong>efter samråd</strong> med handledare teknisk utrustning utifrån säkerhetsföreskrifter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven bemöter, kommunicerar och samarbetar <strong>________</strong> med andra i <strong>________</strong> situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven bemöter, kommunicerar och samarbetar <strong>med viss säkerhet</strong> med andra i <strong>bekanta</strong> situationer.",
+          "C" : "Eleven bemöter, kommunicerar och samarbetar <strong>med viss säkerhet</strong> med andra i <strong>nya</strong> situationer.",
+          "A" : "Eleven bemöter, kommunicerar och samarbetar <strong>med säkerhet</strong> med andra i <strong>nya</strong> situationer <strong>samt anpassar vid behov sitt bemötande, sin kommunikation och sitt samarbete till ändrade förutsättningar</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört utvärderar eleven med <strong>________</strong> omdömen sitt arbete och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört utvärderar eleven med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+          "C" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
+          "A" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Dessutom rapporterar och dokumenterar eleven <strong>________</strong> med handledare sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom rapporterar och dokumenterar eleven <strong>i samråd</strong> med handledare sitt arbete.",
+          "C" : "Dessutom rapporterar och dokumenterar eleven <strong>efter samråd</strong> med handledare sitt arbete.",
+          "A" : "Dessutom rapporterar och dokumenterar eleven <strong>efter samråd</strong> med handledare sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

@@ -1,0 +1,184 @@
+{
+  "name" : "Motor- och röjmotorsåg",
+  "description" : "Motorsåg och röjmotorsåg används inom naturbruket vid arbete med skogsvård och avverkning i skogen, vid skötsel och underhåll inom naturvård och landskapsvård samt vid skötsel och underhåll av utemiljöer. Ämnet motor- och röjmotorsåg behandlar konstruktion, service och periodisk kontroll samt arbete med både motorsåg och röjmotorsåg.",
+  "code" : "MOT",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet motor- och röjmotorsåg ska syfta till att eleverna utvecklar färdigheter i att arbeta med motorsåg och röjmotorsåg.", "Den ska ge eleverna möjlighet att utveckla kunskaper om säkerhet och ergonomi i samband med arbete med motorsåg och röjmotorsåg.", "Genom undervisningen ska eleverna också ges möjlighet att utveckla förmåga att tolka arbetsinstruktioner samt följa upp och redovisa utfört arbete." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom praktiska övningar med motorsåg och röjmotorsåg i olika arbetssituationer ska eleverna ges möjlighet att utveckla förmåga att arbeta på ett yrkesmässigt sätt motsvarande de branschkrav som finns för säker hantering av motorsåg och röjmotorsåg." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet motor- och röjmotorsåg ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om motorsågens och röjmotorsågens konstruktion och funktion.", "Förmåga att planera och genomföra arbetsuppgifter med motorsåg och röjmotorsåg.", "Förmåga att utföra service och reparationer av motorsågar och röjmotorsågar.", "Kunskaper om säkerhetsföreskrifter samt förmåga att bedöma risker och förebygga olycksfall.", "Förmåga att bedöma arbetsresultatet.", "Förmåga att bedöma prestationer, kostnader och intäkter vid arbete med motorsåg och röjmotorsåg." ]
+  } ],
+  "courses" : [ {
+    "name" : "Motor- och röjmotorsåg 1",
+    "description" : "Kursen motor- och röjmotorsåg 1 omfattar punkterna 1–6 under rubriken Ämnets syfte, med särskild betoning på punkterna 2 och 4.",
+    "code" : "MOTMOT01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Teknisk grund",
+      "lines" : [ "Motor- och röjmotorsågens konstruktion, funktion och säkerhetsanordningar.", "Service och underhåll enligt tillverkarens instruktioner.", "Demontering och montering av kedja, svärd och röjsågsklinga.", "Filning och kontroll av motorsågskedja och röjsågsklinga." ]
+    }, {
+      "heading" : "Arbete med motorsåg",
+      "lines" : [ "Planering och genomförande av trädfällning av normala träd av varierande storlek. Val av brytmån, sågning av riktskär och fällskär samt fällning.", "Användning av vanliga fällhjälpmedel, till exempel brytjärn och kilar.", "Kvistning och aptering av fällda träd med utgångspunkt från säkerhet och arbetsbelastning.", "Arbetsmetoder och risker med fastfällda träd och stammar i spänn.", "Användning och underhåll av lyftsax, lyftkrok och måttband." ]
+    }, {
+      "heading" : "Arbete med röjmotorsåg",
+      "lines" : [ "Planering och genomförande av arbetsuppgifter med röjmotorsåg.", "Arbetsteknik vid arbete med röjmotorsåg, till exempel riktad fällning, nedtagning av hängande träd, buketter, lutande träd och röjningsarbete vid ledningsgator.", "Grundläggande planering av röjningstrakt och uppföljning av arbete med röjmotorsåg." ]
+    }, {
+      "heading" : "Arbetsmiljö och säkerhet",
+      "lines" : [ "Miljö och säkerhetsföreskrifter vid arbete med motor- och röjmotorsåg.", "Riskmoment vid trädfällning och upparbetning med motorsåg.", "Risker vid arbete med trädbeskärning och arbete från plattform.", "Riskmoment vid arbete med röjmotorsåg.", "Olika attityder till säkerhetsrisker för att undvika olämpliga arbetsmoment och olycksfall.", "Användning av skyddsutrustning vid arbete med motor- och röjmotorsåg." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för motorsågens och röjmotorsågens konstruktion och funktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för motorsågens och röjmotorsågens konstruktion och funktion.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för motorsågens och röjmotorsågens konstruktion och funktion.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för motorsågens och röjmotorsågens konstruktion och funktion."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven följer arbetsinstruktioner och genomför med handledare arbetsuppgifter med motorsåg och röjmotorsåg på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven följer arbetsinstruktioner och genomför med handledare arbetsuppgifter med motorsåg och röjmotorsåg på ett säkert sätt.",
+          "C" : "Eleven följer arbetsinstruktioner och genomför arbetsuppgifter med motorsåg och röjmotorsåg på ett säkert sätt.",
+          "A" : "Eleven följer arbetsinstruktioner och genomför arbetsuppgifter med motorsåg och röjmotorsåg på ett säkert sätt."
+        }
+      }, {
+        "text" : "Dessutom skärper eleven med <strong>________</strong> handlag motorsågskedjan och röjsågsklingan samt utför med <strong>________</strong> handlag service och reparationer av motorsågen och röjmotorsågen enligt instruktionsboken.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom skärper eleven med <strong>visst</strong> handlag motorsågskedjan och röjsågsklingan samt utför med <strong>visst</strong> handlag service och reparationer av motorsågen och röjmotorsågen enligt instruktionsboken.",
+          "C" : "Dessutom skärper eleven med <strong>gott</strong> handlag motorsågskedjan och röjsågsklingan samt utför med <strong>gott</strong> handlag service och reparationer av motorsågen och röjmotorsågen enligt instruktionsboken.",
+          "A" : "Dessutom skärper eleven med <strong>mycket gott</strong> handlag motorsågskedjan och röjsågsklingan samt utför med <strong>mycket gott</strong> handlag service och reparationer av motorsågen och röjmotorsågen enligt instruktionsboken."
+        }
+      }, {
+        "text" : "I arbetet löser eleven <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven följer aktuella säkerhetsföreskrifter samt bedömer risker och förebygger olycksfall.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven följer aktuella säkerhetsföreskrifter samt bedömer risker och förebygger olycksfall.",
+          "C" : "Eleven följer aktuella säkerhetsföreskrifter samt bedömer risker och förebygger olycksfall.",
+          "A" : "Eleven följer aktuella säkerhetsföreskrifter samt bedömer risker och förebygger olycksfall."
+        }
+      }, {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> bedömning av arbetsresultatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> bedömning av arbetsresultatet.",
+          "C" : "När arbetet är utfört gör eleven en <strong>välgrundad</strong> bedömning av arbetsresultatet.",
+          "A" : "När arbetet är utfört gör eleven en <strong>välgrundad och nyanserad</strong> bedömning av arbetsresultatet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Motor- och röjmotorsåg 2",
+    "description" : "Kursen motor- och röjmotorsåg 2 omfattar punkterna 2 och 4–6 under rubriken Ämnets syfte.",
+    "code" : "MOTMOT02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Arbete med motorsåg och röjmotorsåg",
+      "lines" : [ "Detaljplanering och tolkning av givna arbetsinstruktioner.", "Yrkesmässigt arbete med motorsåg och röjmotorsåg.", "Arbetsmetoder och hjälpmedel vid svårfällda träd, till exempel vid framåtlut, bakåtlut, vind, röta och torra träd.", "Arbete i stormfälld skog.", "Arbetsmetoder och hjälpmedel vid nedtagning av fastfällt träd.", "Miljövård och trädslagsval.", "Ansvar och säkerhet vid arbete utmed fastigheter, vägar och ledningar.", "Uppföljning och rapportering av arbetsresultat och ekonomiskt utfall." ]
+    }, {
+      "heading" : "Arbetsmiljö och säkerhet",
+      "lines" : [ "Miljö- och säkerhetsföreskrifter vid svåra arbetsmoment med motorsåg och röjmotorsåg.", "Risker vid svåra arbetsmoment med motorsåg och röjmotorsåg.", "Olika attityder till säkerhetsrisker för att undvika eller avbryta olämpliga arbetsmoment.", "Lägesangivelser för arbetsplatser och kontaktmöjligheter vid ensamarbete." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och genomför <strong>________</strong> med handledare avancerade arbetsuppgifter med motorsåg och röjmotorsåg i komplicerade situationer på ett metodiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och genomför <strong>i samråd</strong> med handledare avancerade arbetsuppgifter med motorsåg och röjmotorsåg i komplicerade situationer på ett metodiskt och säkert sätt.",
+          "C" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare avancerade arbetsuppgifter med motorsåg och röjmotorsåg i komplicerade situationer på ett metodiskt och säkert sätt.",
+          "A" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare avancerade arbetsuppgifter med motorsåg och röjmotorsåg i komplicerade situationer på ett metodiskt och säkert sätt."
+        }
+      }, {
+        "text" : "I arbetet löser eleven <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "Eleven följer aktuella säkerhetsföreskrifter samt bedömer risker och förebygger olycksfall.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven följer aktuella säkerhetsföreskrifter samt bedömer risker och förebygger olycksfall.",
+          "C" : "Eleven följer aktuella säkerhetsföreskrifter samt bedömer risker och förebygger olycksfall.",
+          "A" : "Eleven följer aktuella säkerhetsföreskrifter samt bedömer risker och förebygger olycksfall."
+        }
+      }, {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> bedömning av arbetsresultatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> bedömning av arbetsresultatet.",
+          "C" : "När arbetet är utfört gör eleven en <strong>välgrundad</strong> bedömning av arbetsresultatet.",
+          "A" : "När arbetet är utfört gör eleven en <strong>välgrundad och nyanserad</strong> bedömning av arbetsresultatet."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för kostnader och intäkter i samband med arbete med motorsåg och röjmotorsåg samt gör <strong>________</strong> bedömningar av det ekonomiska resultatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för kostnader och intäkter i samband med arbete med motorsåg och röjmotorsåg samt gör <strong>enkla</strong> bedömningar av det ekonomiska resultatet.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för kostnader och intäkter i samband med arbete med motorsåg och röjmotorsåg samt gör <strong>välgrundade</strong> bedömningar av det ekonomiska resultatet.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för kostnader och intäkter i samband med arbete med motorsåg och röjmotorsåg samt gör <strong>välgrundade och nyanserade</strong> bedömningar av det ekonomiska resultatet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

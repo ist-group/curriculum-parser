@@ -1,0 +1,245 @@
+{
+  "name" : "Gymnasieingenjören i praktiken",
+  "description" : "Ämnet gymnasieingenjören i praktiken behandlar ingenjörsmässiga arbetsmetoder, färdigheter och förhållningssätt. Det omfattar också ledarskap, projektledning, grupprocesser, kommunikation, ekonomi, arbetsmiljö och juridik i arbetslivet. Ämnet är till sin karaktär tvärvetenskapligt och förenar kunskapsområden från teknikvetenskap och samhällsvetenskap. Ämnet gymnasieingenjören i praktiken får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.",
+  "code" : "GYN",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet gymnasieingenjören i praktiken ska syfta till att eleverna utvecklar kunskaper om ingenjörsrollen för att förbereda för gymnasieingenjörsrollen." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I gymnasieingenjörsrollen ingår att planera, leda och genomföra projekt.", "Undervisningen ska därför ge eleverna möjlighet att utveckla kunskaper om olika modeller för styrning av projekt samt förmåga att arbeta i grupp och att leda grupprocesser.", "Undervisningen ska vidare ge eleverna möjlighet att utveckla kunskaper om ekonomi, arbetsmiljö och juridik i arbetslivet med fokus på vald teknisk profil." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om hållbar teknikutveckling och förmåga att tillämpa dessa i olika projekt.", "Därutöver ska eleverna ges möjlighet att öva i verklighetsnära situationer, vilket ger beredskap för att agera konstruktivt på olika nivåer i en arbetsorganisation och i mötet mellan organisationers olika delar.", "Problemlösning är en del av gymnasieingenjörsrollen och eleverna ska därför genom undervisningen ges möjlighet att utveckla kunskaper om det." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla förmåga att kommunicera med människor i olika roller och från olika grupper och kulturer.", "Eleverna ska ges möjlighet att utveckla förmåga att presentera tekniska lösningar och sitt och gruppens arbete såväl internt som ur ett kund- och uppdragsgivarperspektiv.", "Undervisningen ska dessutom ge eleverna möjlighet att utveckla förmåga att dokumentera och utvärdera genomförda projekt." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet gymnasieingenjören i praktiken ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om ingenjörsrollen i dag, dess historia och framtid samt förståelse av gymnasieingenjörens etiska ansvar.", "Kunskaper om teknikinriktat företagande och entreprenörskap. Kunskaper om ekonomi och ekonomistyrning.", "Kunskaper om arbets- och avtalsjuridik inom vald profil.", "Kunskaper om ledarskap och organisation, projektledning och projektplanering. Färdigheter i att planera, leda och genomföra projekt.", "Kunskaper om kommunikation och kommunikationsstrategier.", "Förmåga att dokumentera, analysera och utvärdera projekt inom vald profil.", "Förmåga att använda tekniska och naturvetenskapliga teorier, metoder och begrepp i en hållbar ingenjörsmässig praktik.", "Färdigheter i att presentera sitt arbete samt kunskaper om presentationsteknik och skriftlig och visuell kommunikation." ]
+  } ],
+  "courses" : [ {
+    "name" : "Gymnasieingenjören i praktiken",
+    "description" : "Kursen gymnasieingenjören i praktiken omfattar punkterna 1–8 under rubriken Ämnets syfte.",
+    "code" : "GYNGYM0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Etiska, sociala och historiska aspekter på ingenjörens roll.", "Systemtänkande samt olika metoder och begrepp som är gemensamma och användbara för det ingenjörsmässiga arbetet.", "Entreprenörskap och företagande inom teknikområdet med fokus på dess villkor, förutsättningar och behov.", "Målstyrning och behovsstyrning.", "Olika företagskulturers betydelse.", "Grundläggande företagsekonomiska teorier och begrepp inom området ekonomisk hållbarhet. Kalkylering, budgetering och projektekonomi.", "Grundläggande juridik inom teknikområdet, till exempel avtals-, arbetsmarknads-, upphandlings- och arbetsmiljörätt.", "Hur en projektplan upprättas och genomförs samt användbara verktyg, till exempel kalkyl och budget.", "Grundläggande teorier om ledarskap och organisation, till exempel hur beslutsfattande sker i en organisation.", "Grupprocesser och gruppdynamik.", "Naturvetenskapliga och tekniska teorier och metoder.", "Kommunikationsstrategier samt kommunikations-, dokumentations- och presentationsteknik för att förmedla teknik och information." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> hur ingenjörsrollen vuxit fram i vårt samhälle, vilken roll den har i dag och kan tänkas ha i framtiden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur ingenjörsrollen vuxit fram i vårt samhälle, vilken roll den har i dag och kan tänkas ha i framtiden.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur ingenjörsrollen vuxit fram i vårt samhälle, vilken roll den har i dag och kan tänkas ha i framtiden.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur ingenjörsrollen vuxit fram i vårt samhälle, vilken roll den har i dag och kan tänkas ha i framtiden."
+        }
+      }, {
+        "text" : "Dessutom gör eleven <strong>________</strong> reflektioner över ingenjörens betydelse för vår tekniska utveckling.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven <strong>enkla</strong> reflektioner över ingenjörens betydelse för vår tekniska utveckling.",
+          "C" : "Dessutom gör eleven <strong>välgrundade</strong> reflektioner över ingenjörens betydelse för vår tekniska utveckling.",
+          "A" : "Dessutom gör eleven <strong>välgrundade och nyanserade</strong> reflektioner över ingenjörens betydelse för vår tekniska utveckling."
+        }
+      }, {
+        "text" : "Vidare resonerar eleven <strong>________</strong> om olika etiska frågeställningar i samband med ingenjörsarbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare resonerar eleven <strong>översiktligt</strong> om olika etiska frågeställningar i samband med ingenjörsarbete.",
+          "C" : "Vidare resonerar eleven <strong>utförligt</strong> om olika etiska frågeställningar i samband med ingenjörsarbete.",
+          "A" : "Vidare resonerar eleven <strong>utförligt och nyanserat</strong> om olika etiska frågeställningar i samband med ingenjörsarbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för några företagsekonomiska teorier och begrepp samt beskriver <strong>________</strong> hur verksamheter styrs av ekonomiska mål.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för några företagsekonomiska teorier och begrepp samt beskriver <strong>översiktligt</strong> hur verksamheter styrs av ekonomiska mål.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för några företagsekonomiska teorier och begrepp samt beskriver <strong>utförligt</strong> hur verksamheter styrs av ekonomiska mål.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för några företagsekonomiska teorier och begrepp samt beskriver <strong>utförligt och nyanserat</strong> hur verksamheter styrs av ekonomiska mål."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> hur värderingar, visioner och normer påverkar ett företag och dess kultur.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> hur värderingar, visioner och normer påverkar ett företag och dess kultur.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> hur värderingar, visioner och normer påverkar ett företag och dess kultur.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> hur värderingar, visioner och normer påverkar ett företag och dess kultur."
+        }
+      }, {
+        "text" : "Vidare redogör eleven <strong>________</strong> för vad entreprenörskap i tekniska företag innebär.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare redogör eleven <strong>översiktligt</strong> för vad entreprenörskap i tekniska företag innebär.",
+          "C" : "Vidare redogör eleven <strong>utförligt</strong> för vad entreprenörskap i tekniska företag innebär.",
+          "A" : "Vidare redogör eleven <strong>utförligt och nyanserat</strong> för vad entreprenörskap i tekniska företag innebär."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för lagar och andra bestämmelser.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för lagar och andra bestämmelser.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för lagar och andra bestämmelser."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för innebörden av juridiska begrepp och använder dem <strong>________</strong> i relevanta sammanhang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för innebörden av juridiska begrepp och använder dem <strong>med viss säkerhet</strong> i relevanta sammanhang.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för innebörden av juridiska begrepp och använder dem <strong>med viss säkerhet</strong> i relevanta sammanhang.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för innebörden av juridiska begrepp och använder dem <strong>med säkerhet</strong> i relevanta sammanhang."
+        }
+      }, {
+        "text" : "Eleven förklarar innebörden av vanligt förekommande affärsjuridiska dokument och upprättar <strong>________</strong> med handledare och med <strong>________</strong> resultat något sådant dokument.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven förklarar innebörden av vanligt förekommande affärsjuridiska dokument och upprättar <strong>i samråd</strong> med handledare och med <strong>tillfredsställande</strong> resultat något sådant dokument.",
+          "C" : "Eleven förklarar innebörden av vanligt förekommande affärsjuridiska dokument och upprättar <strong>efter samråd</strong> med handledare och med <strong>tillfredsställande</strong> resultat något sådant dokument.",
+          "A" : "Eleven förklarar innebörden av vanligt förekommande affärsjuridiska dokument och upprättar <strong>efter samråd</strong> med handledare och med <strong>gott</strong> resultat något sådant dokument."
+        }
+      }, {
+        "text" : "Utifrån <strong>________</strong> fallbeskrivningar löser eleven med <strong>________</strong> resultat <strong>________</strong> juridiska problem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Utifrån <strong>enkla</strong> fallbeskrivningar löser eleven med <strong>tillfredsställande</strong> resultat <strong>enkla</strong> juridiska problem.",
+          "C" : "Utifrån fallbeskrivningar löser eleven med <strong>tillfredsställande</strong> resultat juridiska problem.",
+          "A" : "Utifrån fallbeskrivningar löser eleven med <strong>gott</strong> resultat juridiska problem."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för hur individer och grupper fungerar inom en organiserad verksamhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för hur individer och grupper fungerar inom en organiserad verksamhet.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för hur individer och grupper fungerar inom en organiserad verksamhet.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för hur individer och grupper fungerar inom en organiserad verksamhet."
+        }
+      }, {
+        "text" : "I redogörelsen beskriver eleven <strong>________</strong> några modeller för kommunikation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I redogörelsen beskriver eleven <strong>översiktligt</strong> några modeller för kommunikation.",
+          "C" : "I redogörelsen beskriver eleven <strong>utförligt</strong> några modeller för kommunikation.",
+          "A" : "I redogörelsen beskriver eleven <strong>utförligt och nyanserat</strong> några modeller för kommunikation."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för olika former av kommunikation och samverkan samt för metoder som kan användas vid konflikthantering och för att skapa motivation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för olika former av kommunikation och samverkan samt för metoder som kan användas vid konflikthantering och för att skapa motivation.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för olika former av kommunikation och samverkan samt för metoder som kan användas vid konflikthantering och för att skapa motivation.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för olika former av kommunikation och samverkan samt för metoder som kan användas vid konflikthantering och för att skapa motivation."
+        }
+      }, {
+        "text" : "Dessutom värderar eleven <strong>________</strong> de olika formerna och metoderna i förhållande till genomförda projekt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom värderar eleven <strong>med viss säkerhet</strong> de olika formerna och metoderna i förhållande till genomförda projekt.",
+          "C" : "Dessutom värderar eleven <strong>med viss säkerhet</strong> de olika formerna och metoderna i förhållande till genomförda projekt.",
+          "A" : "Dessutom värderar eleven <strong>med säkerhet</strong> de olika formerna och metoderna i förhållande till genomförda projekt."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för gruppdynamiska problem som kan uppstå i projekt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för gruppdynamiska problem som kan uppstå i projekt.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för gruppdynamiska problem som kan uppstå i projekt.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för gruppdynamiska problem som kan uppstå i projekt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar ett projekt samt beskriver <strong>________</strong> hur det kan genomföras och struktureras beroende på mål och behov.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar ett projekt samt beskriver <strong>översiktligt</strong> hur det kan genomföras och struktureras beroende på mål och behov.",
+          "C" : "Eleven planerar ett projekt samt beskriver <strong>utförligt</strong> hur det kan genomföras och struktureras beroende på mål och behov.",
+          "A" : "Eleven planerar ett projekt samt beskriver <strong>utförligt och nyanserat</strong> hur det kan genomföras och struktureras beroende på mål och behov."
+        }
+      }, {
+        "text" : "Eleven upprättar <strong>________</strong> en projektplan inom den valda tekniska profilen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven upprättar <strong>med viss säkerhet</strong> en projektplan inom den valda tekniska profilen.",
+          "C" : "Eleven upprättar <strong>med viss säkerhet</strong> en projektplan inom den valda tekniska profilen.",
+          "A" : "Eleven upprättar <strong>med säkerhet</strong> en projektplan inom den valda tekniska profilen."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> lämpligt planeringsverktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> lämpligt planeringsverktyg.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> lämpligt planeringsverktyg.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> lämpligt planeringsverktyg."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> kalkyler och budget.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> kalkyler och budget.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> kalkyler och budget.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> kalkyler och budget."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven väljer <strong>________</strong> lämpliga arbetsmetoder för styrning och ledning av projektet samt gör en <strong>________</strong> dokumentation av sitt arbete och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven väljer <strong>med viss säkerhet</strong> lämpliga arbetsmetoder för styrning och ledning av projektet samt gör en <strong>enkel</strong> dokumentation av sitt arbete och resultat.",
+          "C" : "Eleven väljer <strong>med viss säkerhet</strong> lämpliga arbetsmetoder för styrning och ledning av projektet samt gör en <strong>noggrann</strong> dokumentation av sitt arbete och resultat.",
+          "A" : "Eleven väljer <strong>med säkerhet</strong> lämpliga arbetsmetoder för styrning och ledning av projektet samt gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete och resultat."
+        }
+      }, {
+        "text" : "Dessutom föreslår eleven <strong>________</strong> kommunikationsstrategier och tillämpar dem <strong>________</strong> i olika situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom föreslår eleven <strong>enkla</strong> kommunikationsstrategier och tillämpar dem <strong>med viss säkerhet</strong> i olika situationer.",
+          "C" : "Dessutom föreslår eleven <strong>välgrundade</strong> kommunikationsstrategier och tillämpar dem <strong>med viss säkerhet</strong> i olika situationer.",
+          "A" : "Dessutom föreslår eleven <strong>välgrundade och nyanserade</strong> kommunikationsstrategier och tillämpar dem <strong>med säkerhet</strong> i olika situationer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> lämpliga tekniska och naturvetenskapliga teorier och begrepp för problemlösning samt väljer <strong>________</strong> med handledare relevanta metoder i det praktiska arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> lämpliga tekniska och naturvetenskapliga teorier och begrepp för problemlösning samt väljer <strong>i samråd</strong> med handledare relevanta metoder i det praktiska arbetet.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> lämpliga tekniska och naturvetenskapliga teorier och begrepp för problemlösning samt väljer <strong>efter samråd</strong> med handledare relevanta metoder i det praktiska arbetet.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> lämpliga tekniska och naturvetenskapliga teorier och begrepp för problemlösning samt väljer <strong>efter samråd</strong> med handledare relevanta metoder i det praktiska arbetet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utvärderar med <strong>________</strong> omdömen ett genomfört projekt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar med <strong>enkla</strong> omdömen ett genomfört projekt.",
+          "C" : "Eleven utvärderar med <strong>nyanserade</strong> omdömen ett genomfört projekt.",
+          "A" : "Eleven utvärderar med <strong>nyanserade</strong> omdömen ett genomfört projekt <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven presenterar sitt arbete <strong>________</strong> och väljer <strong>________</strong> med handledare relevanta presentationsverktyg och presentationsmetoder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven presenterar sitt arbete <strong>med viss säkerhet</strong> och väljer <strong>i samråd</strong> med handledare relevanta presentationsverktyg och presentationsmetoder.",
+          "C" : "Eleven presenterar sitt arbete <strong>med viss säkerhet</strong> och väljer <strong>efter samråd</strong> med handledare relevanta presentationsverktyg och presentationsmetoder.",
+          "A" : "Eleven presenterar sitt arbete <strong>med säkerhet</strong> och väljer <strong>efter samråd</strong> med handledare relevanta presentationsverktyg och presentationsmetoder."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  } ]
+}

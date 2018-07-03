@@ -1,0 +1,658 @@
+{
+  "name" : "Transportteknik",
+  "description" : "Ämnet transportteknik behandlar yrkesmässiga vägtransporter. Det omfattar dels yrkesförarutbildning för de fordon som används i transportverksamheter, dels säker hantering av det som transporteras.",
+  "code" : "TRA",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet transportteknik ska syfta till att eleverna utvecklar förmåga att framföra transportfordon på ett ansvarsfullt sätt samt kunskaper om trafikregler och om hur den mänskliga faktorn inverkar på trafikmiljön.", "Eleverna ska ges möjlighet att utveckla kunskaper om olika tekniska funktioner i fordon och utrustning som förekommer i branschen.", "Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper om transportsektorns olika delar samt om dess betydelse och konsekvenser för samhället och samhällsutvecklingen." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar förståelse av hur viktigt det är med goda relationer till kunder och medarbetare.", "Den ska även ge eleverna möjlighet att utveckla kunskaper om ergonomi, hälsa, säkerhet och miljö." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke.", "Ett problemlösande och laborativt arbetssätt ska prägla undervisningen." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet transportteknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om tekniska funktioner hos fordon och utrustning.", "Kunskaper om olika vägtransportverksamheter.", "Förmåga att köra och manövrera fordon i varierande trafikmiljöer.", "Kunskaper om planering och genomförande av transportuppdrag.", "Förmåga att utföra säkerhetskontroller på fordon och utrustning.", "Förmåga att göra lastviktsberäkningar utifrån fordonets och vägnätets bärighetsbegränsningar.", "Förmåga att arbeta säkert och med miljöhänsyn samt på ett sätt som förebygger ohälsa och personskador.", "Förmåga att samarbeta med andra och att kommunicera med medarbetare och kunder." ]
+  } ],
+  "courses" : [ {
+    "name" : "Fordonskombinationer – godstransporter",
+    "description" : "Kursen fordonskombinationer – godstransporter omfattar punkterna 1–3 och 5–7 under rubriken Ämnets syfte.",
+    "code" : "TRAFOR0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Dragfordons och släpfordons olika kopplingsutrustningar.", "Gränsöverskridande trafik, mått och viktbestämmelser.", "Manövrering av olika fordonskombinationer för godstransporter.", "Körning med fordonskombinationer för godstransporter i olika och varierande trafikmiljöer på ett trafiksäkert och miljövänligt sätt.", "Sammankoppling och frånkoppling av släp samt åtgärder vid parkering.", "Släpfordonens bromssystem samt bromssystemens uppbyggnad och funktion.", "Säkerhetskontroll samt tillsyn och underhåll av fordonskombinationer.", "Lastviktsberäkningar på olika typer av fordonskombinationer." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> utrustningar som används för att koppla samman dragfordon och släpfordon samt redogör <strong>________</strong> för hur dessa fordon kan kombineras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> utrustningar som används för att koppla samman dragfordon och släpfordon samt redogör <strong>översiktligt</strong> för hur dessa fordon kan kombineras.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> utrustningar som används för att koppla samman dragfordon och släpfordon samt redogör <strong>utförligt</strong> för hur dessa fordon kan kombineras.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> utrustningar som används för att koppla samman dragfordon och släpfordon samt redogör <strong>utförligt och nyanserat</strong> för hur dessa fordon kan kombineras."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för skillnader mellan olika dragutrustningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för skillnader mellan olika dragutrustningar.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för skillnader mellan olika dragutrustningar.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för skillnader mellan olika dragutrustningar."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för mått- och viktbestämmelser för trafik som går över landsgränser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för mått- och viktbestämmelser för trafik som går över landsgränser.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för mått- och viktbestämmelser för trafik som går över landsgränser.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för mått- och viktbestämmelser för trafik som går över landsgränser <strong>samt för skillnader mellan olika länder</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kör och manövrerar fordonskombinationer på ett trafiksäkert sätt i <strong>________</strong> varierande trafikmiljöer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kör och manövrerar fordonskombinationer på ett trafiksäkert sätt i <strong>enkla och</strong> varierande trafikmiljöer.",
+          "C" : "Eleven kör och manövrerar fordonskombinationer på ett trafiksäkert sätt i varierande trafikmiljöer.",
+          "A" : "Eleven kör och manövrerar fordonskombinationer på ett trafiksäkert sätt i varierande trafikmiljöer."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hur man kan framföra fordon bränsleekonomiskt och miljövänligt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hur man kan framföra fordon bränsleekonomiskt och miljövänligt.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hur man kan framföra fordon bränsleekonomiskt och miljövänligt.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur man kan framföra fordon bränsleekonomiskt och miljövänligt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare sammankoppling och frånkoppling av släp samt vidtar nödvändiga åtgärder vid parkering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare sammankoppling och frånkoppling av släp samt vidtar nödvändiga åtgärder vid parkering.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare sammankoppling och frånkoppling av släp samt vidtar nödvändiga åtgärder vid parkering <strong>och motiverar översiktligt åtgärderna</strong>.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare sammankoppling och frånkoppling av släp samt vidtar nödvändiga åtgärder vid parkering <strong>och motiverar utförligt åtgärderna</strong>."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> funktionen hos släpfordons färdbroms- och parkeringsbromssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> funktionen hos släpfordons färdbroms- och parkeringsbromssystem.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> funktionen hos släpfordons färdbroms- och parkeringsbromssystem.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> funktionen hos släpfordons färdbroms- och parkeringsbromssystem."
+        }
+      }, {
+        "text" : "Eleven utför också <strong>________</strong> med handledare säkerhetskontroll av fordonskombinationer samt vidtar vid behov åtgärder och motiverar dessa <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför också <strong>i samråd</strong> med handledare säkerhetskontroll av fordonskombinationer samt vidtar vid behov åtgärder och motiverar dessa <strong>översiktligt</strong>.",
+          "C" : "Eleven utför också <strong>efter samråd</strong> med handledare säkerhetskontroll av fordonskombinationer samt vidtar vid behov åtgärder och motiverar dessa <strong>utförligt</strong>.",
+          "A" : "Eleven utför också <strong>efter samråd</strong> med handledare säkerhetskontroll av fordonskombinationer samt vidtar vid behov åtgärder och motiverar dessa <strong>utförligt och nyanserat</strong>."
+        }
+      }, {
+        "text" : "I arbetet gör eleven, med <strong>________</strong> resultat, <strong>________</strong> lastviktsberäkningar på fordonskombinationer samt värderar resultatet med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet gör eleven, med <strong>tillfredsställande</strong> resultat, <strong>enkla</strong> lastviktsberäkningar på fordonskombinationer samt värderar resultatet med <strong>enkla</strong> omdömen.",
+          "C" : "I arbetet gör eleven, med <strong>tillfredsställande</strong> resultat, lastviktsberäkningar på fordonskombinationer samt värderar resultatet med <strong>enkla</strong> omdömen.",
+          "A" : "I arbetet gör eleven, med <strong>gott</strong> resultat, lastviktsberäkningar på fordonskombinationer samt värderar resultatet med <strong>nyanserade</strong> omdömen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lastbil och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lastbil och utrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lastbil och utrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lastbil och utrustning."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Fordonskombinationer – persontransporter",
+    "description" : "Kursen fordonskombinationer – persontransporter omfattar punkterna 1–3 och 5–7 under rubriken Ämnets syfte.",
+    "code" : "TRAFOD0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Dragfordons och släpfordons olika kopplingsutrustningar.", "Gränsöverskridande trafik, mått och viktbestämmelser.", "Manövrering av fordonskombinationer för persontransporter.", "Körning med fordonskombinationer för persontransporter i olika och varierande trafikmiljöer på ett trafiksäkert och miljövänligt sätt.", "Sammankoppling och frånkoppling av släp samt åtgärder vid parkering.", "Släpfordonens bromssystem samt bromssystemens uppbyggnad och funktion.", "Säkerhetskontroll samt tillsyn och underhåll av fordonskombinationer.", "Lastviktsberäkningar på olika typer av fordonskombinationer." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> utrustningar som används för att koppla samman dragfordon och släpfordon samt redogör <strong>________</strong> för hur dessa fordon kan kombineras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> utrustningar som används för att koppla samman dragfordon och släpfordon samt redogör <strong>översiktligt</strong> för hur dessa fordon kan kombineras.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> utrustningar som används för att koppla samman dragfordon och släpfordon samt redogör <strong>utförligt</strong> för hur dessa fordon kan kombineras.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> utrustningar som används för att koppla samman dragfordon och släpfordon samt redogör <strong>utförligt och nyanserat</strong> för hur dessa fordon kan kombineras."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för mått- och viktbestämmelser för trafik som går över landsgränser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för mått- och viktbestämmelser för trafik som går över landsgränser.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för mått- och viktbestämmelser för trafik som går över landsgränser.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för mått- och viktbestämmelser för trafik som går över landsgränser <strong>samt för skillnader mellan olika länder</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kör och manövrerar fordonskombinationer för persontransporter på ett trafiksäkert sätt i <strong>________</strong> varierande trafikmiljöer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kör och manövrerar fordonskombinationer för persontransporter på ett trafiksäkert sätt i <strong>enkla och</strong> varierande trafikmiljöer.",
+          "C" : "Eleven kör och manövrerar fordonskombinationer för persontransporter på ett trafiksäkert sätt i varierande trafikmiljöer.",
+          "A" : "Eleven kör och manövrerar fordonskombinationer för persontransporter på ett trafiksäkert sätt i varierande trafikmiljöer."
+        }
+      }, {
+        "text" : "Dessutom tillämpar eleven <strong>________</strong> med handledare ett körsätt som minimerar bränsleförbrukning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom tillämpar eleven <strong>i samråd</strong> med handledare ett körsätt som minimerar bränsleförbrukning.",
+          "C" : "Dessutom tillämpar eleven <strong>efter samråd</strong> med handledare ett körsätt som minimerar bränsleförbrukning.",
+          "A" : "Dessutom tillämpar eleven <strong>efter samråd</strong> med handledare ett körsätt som minimerar bränsleförbrukning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare sammankoppling och frånkoppling av släp samt vidtar nödvändiga åtgärder vid parkering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare sammankoppling och frånkoppling av släp samt vidtar nödvändiga åtgärder vid parkering.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare sammankoppling och frånkoppling av släp samt vidtar nödvändiga åtgärder vid parkering <strong>och motiverar översiktligt åtgärderna</strong>.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare sammankoppling och frånkoppling av släp samt vidtar nödvändiga åtgärder vid parkering <strong>och motiverar utförligt åtgärderna</strong>."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> funktionen hos släpfordons färdbroms- och parkeringsbromssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> funktionen hos släpfordons färdbroms- och parkeringsbromssystem.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> funktionen hos släpfordons färdbroms- och parkeringsbromssystem.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> funktionen hos släpfordons färdbroms- och parkeringsbromssystem."
+        }
+      }, {
+        "text" : "Eleven utför också <strong>________</strong> med handledare trafiksäkerhetskontroll av fordonskombinationer samt vidtar vid behov åtgärder och motiverar dessa <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför också <strong>i samråd</strong> med handledare trafiksäkerhetskontroll av fordonskombinationer samt vidtar vid behov åtgärder och motiverar dessa <strong>översiktligt</strong>.",
+          "C" : "Eleven utför också <strong>efter samråd</strong> med handledare trafiksäkerhetskontroll av fordonskombinationer samt vidtar vid behov åtgärder och motiverar dessa <strong>utförligt</strong>.",
+          "A" : "Eleven utför också <strong>efter samråd</strong> med handledare trafiksäkerhetskontroll av fordonskombinationer samt vidtar vid behov åtgärder och motiverar dessa <strong>utförligt och nyanserat</strong>."
+        }
+      }, {
+        "text" : "I arbetet gör eleven, med <strong>________</strong> resultat, <strong>________</strong> lastviktsberäkningar på fordonskombinationer samt värderar resultatet med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet gör eleven, med <strong>tillfredsställande</strong> resultat, <strong>enkla</strong> lastviktsberäkningar på fordonskombinationer samt värderar resultatet med <strong>enkla</strong> omdömen.",
+          "C" : "I arbetet gör eleven, med <strong>tillfredsställande</strong> resultat, lastviktsberäkningar på fordonskombinationer samt värderar resultatet med <strong>enkla</strong> omdömen.",
+          "A" : "I arbetet gör eleven, med <strong>gott</strong> resultat, lastviktsberäkningar på fordonskombinationer samt värderar resultatet med <strong>nyanserade</strong> omdömen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tar ansvar för passagerare, deras egendom samt för fordon och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för passagerare, deras egendom samt för fordon och utrustning.",
+          "C" : "Eleven tar ansvar för passagerare, deras egendom samt för fordon och utrustning.",
+          "A" : "Eleven tar ansvar för passagerare, deras egendom samt för fordon och utrustning."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Yrkestrafik 1a",
+    "description" : "Kursen yrkestrafik 1a omfattar punkterna 1 och 3–8 under rubriken Ämnets syfte.",
+    "code" : "TRAYRK01a",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Körning och manövrering av fordon på ett trafiksäkert och miljövänligt sätt i varierande trafikmiljöer.", "Olika typer av transportuppdrag samt de krav på säkerhet, kvalitet och noggrannhet som de olika uppdragen kräver.", "Säkerhetskontroll, funktionstillsyn och underhåll av transportfordon.", "Olika fordons säkerhetsanordningar samt säkerhetsanordningarnas tekniska egenskaper och funktioner.", "Tillståndskrav, utbildning och ekonomiska villkor i vägtransportverksamheter.", "Lastning av fordon, lastsäkringsmetoder och lastviktsberäkning med hänsyn till begränsningar för bruttovikter, axeltryck och vägnätets bärighet.", "Kör- och vilotidsregler samt färdskrivarens funktioner och användning.", "Faktorer som kan orsaka olyckor samt hur man kan förebygga olyckor och agera när en olycka har hänt." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kör och manövrerar i bekanta situationer fordon på ett trafiksäkert och miljömedvetet sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kör och manövrerar i bekanta situationer fordon på ett trafiksäkert och miljömedvetet sätt.",
+          "C" : "Eleven kör och manövrerar i bekanta <strong>och delvis nya</strong> situationer fordon på ett trafiksäkert och miljömedvetet sätt.",
+          "A" : "Eleven kör och manövrerar i bekanta <strong>och nya</strong> situationer fordon på ett trafiksäkert och miljömedvetet sätt."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för hur man planerar och genomför <strong>________</strong> transportuppdrag samt redogör <strong>________</strong> för säkerhetsaspekter vid transportuppdrag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för hur man planerar och genomför <strong>enkla</strong> transportuppdrag samt redogör <strong>översiktligt</strong> för säkerhetsaspekter vid transportuppdrag.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för hur man planerar och genomför transportuppdrag samt redogör <strong>utförligt</strong> för <strong>miljö- och</strong> säkerhetsaspekter vid transportuppdrag.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för hur man planerar och genomför transportuppdrag samt redogör <strong>utförligt och nyanserat</strong> för <strong>miljö- och</strong> säkerhetsaspekter vid transportuppdrag."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare säkerhetskontroll av transportfordon samt vidtar vid behov åtgärder som krävs ur trafiksäkerhetssynpunkt och motiverar dessa <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare säkerhetskontroll av transportfordon samt vidtar vid behov åtgärder som krävs ur trafiksäkerhetssynpunkt och motiverar dessa <strong>översiktligt</strong>.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare säkerhetskontroll av transportfordon samt vidtar vid behov åtgärder som krävs ur trafiksäkerhetssynpunkt och motiverar dessa <strong>utförligt</strong>.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare säkerhetskontroll av transportfordon samt vidtar vid behov åtgärder som krävs ur trafiksäkerhetssynpunkt och motiverar dessa <strong>utförligt och nyanserat</strong>."
+        }
+      }, {
+        "text" : "Eleven följer <strong>________</strong> körtidsregler samt registrerar körtiden enligt praxis.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven följer <strong>med viss säkerhet</strong> körtidsregler samt registrerar körtiden enligt praxis.",
+          "C" : "Eleven följer <strong>med viss säkerhet</strong> körtidsregler samt registrerar körtiden enligt praxis.",
+          "A" : "Eleven följer <strong>med säkerhet</strong> körtidsregler samt registrerar körtiden enligt praxis."
+        }
+      }, {
+        "text" : "I arbetet beskriver eleven <strong>________</strong> några metoder för lastförankring.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet beskriver eleven <strong>översiktligt</strong> några metoder för lastförankring.",
+          "C" : "I arbetet beskriver eleven <strong>utförligt</strong> några metoder för lastförankring.",
+          "A" : "I arbetet beskriver eleven <strong>utförligt och nyanserat</strong> några metoder för lastförankring."
+        }
+      }, {
+        "text" : "Dessutom gör eleven, med <strong>________</strong> resultat, <strong>________</strong> lastviktsberäkningar för olika fordon utifrån givna förutsättningar samt värderar resultatet med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven, med <strong>tillfredsställande</strong> resultat, <strong>enkla</strong> lastviktsberäkningar för olika fordon utifrån givna förutsättningar samt värderar resultatet med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom gör eleven, med <strong>tillfredsställande</strong> resultat, lastviktsberäkningar för olika fordon utifrån givna förutsättningar samt värderar resultatet med <strong>enkla</strong> omdömen.",
+          "A" : "Dessutom gör eleven, med <strong>gott</strong> resultat, lastviktsberäkningar för olika fordon utifrån givna förutsättningar samt värderar resultatet med <strong>nyanserade</strong> omdömen."
+        }
+      }, {
+        "text" : "Eleven väljer <strong>________</strong> relevant utrustning och arbetsmetod.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven väljer <strong>med viss säkerhet</strong> relevant utrustning och arbetsmetod.",
+          "C" : "Eleven väljer <strong>med viss säkerhet</strong> relevant utrustning och arbetsmetod.",
+          "A" : "Eleven väljer <strong>med säkerhet</strong> relevant utrustning och arbetsmetod."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven identifierar <strong>________</strong> och beskriver <strong>________</strong> gods med speciella egenskaper och hur det ska hanteras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven identifierar <strong>med viss säkerhet</strong> och beskriver <strong>översiktligt</strong> gods med speciella egenskaper och hur det ska hanteras.",
+          "C" : "Eleven identifierar <strong>med viss säkerhet</strong> och beskriver <strong>utförligt</strong> gods med speciella egenskaper och hur det ska hanteras.",
+          "A" : "Eleven identifierar <strong>med säkerhet</strong> och beskriver <strong>utförligt och nyanserat</strong> gods med speciella egenskaper och hur det ska hanteras."
+        }
+      }, {
+        "text" : "Eleven ger också <strong>________</strong> exempel på riskerna med denna hantering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven ger också <strong>enkla</strong> exempel på riskerna med denna hantering.",
+          "C" : "Eleven ger också <strong>välgrundade</strong> exempel på riskerna med denna hantering.",
+          "A" : "Eleven ger också <strong>välgrundade och nyanserade</strong> exempel på riskerna med denna hantering."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> hur man förebygger personskador vid godshantering och transporter samt faktorer som kan bidra till ohälsa.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> hur man förebygger personskador vid godshantering och transporter samt faktorer som kan bidra till ohälsa.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> hur man förebygger personskador vid godshantering och transporter samt faktorer som kan bidra till ohälsa.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> hur man förebygger personskador vid godshantering och transporter samt faktorer som kan bidra till ohälsa."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lastbil och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lastbil och utrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lastbil och utrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lastbil och utrustning."
+        }
+      }, {
+        "text" : "Dessutom samarbetar eleven med andra och anpassar <strong>________</strong> bemötande och språk efter situation och mottagare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom samarbetar eleven med andra och anpassar <strong>med viss säkerhet</strong> bemötande och språk efter situation och mottagare.",
+          "C" : "Dessutom samarbetar eleven med andra och anpassar <strong>med viss säkerhet</strong> bemötande och språk efter situation och mottagare.",
+          "A" : "Dessutom samarbetar eleven med andra och anpassar <strong>med säkerhet</strong> bemötande och språk efter situation och mottagare."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Yrkestrafik 1b",
+    "description" : "Kursen yrkestrafik 1b omfattar punkterna 1–2 och 6–8 under rubriken Ämnets syfte.",
+    "code" : "TRAYRK01b",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Tekniska egenskaper och funktioner hos bromssystem, bromshjälpsystem och utrustningar på transportfordon.", "Kraftöverföring: motor, vridmoment, växellåda och differential.", "Begreppet yrkesmässig trafik och dess olika indelningar samt förutsättningar för gods- och persontrafik.", "Arbetstidsregler vid vägtransporter samt användning av utrustning för registrering och dokumentation.", "Lagar och andra bestämmelser som reglerar, och används i samband med, lastvikter på fordon, vägnätets bärighetsklassning och beräkning av lastvikter.", "Färdvägsplanering med hjälp av olika informationssystem.", "Krav och metoder för lastsäkring av gods och lastbärare.", "Lagar och andra bestämmelser som reglerar hantering och märkning av farligt gods.", "Frakthandlingar och anvisningar som reglerar gods och varudistribution.", "Agerande i kris, olyckssituationer och brand samt första hjälpen till skadade.", "Ergonomi, riskfyllda rörelser, arbetsställningar och förebyggande av fysiska skador.", "Kundrelationer och kvalitetsbegreppets innebörd i samband med transportuppdrag." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> tekniska komponenter och deras funktioner i bromssystem och bromshjälpsystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> tekniska komponenter och deras funktioner i bromssystem och bromshjälpsystem.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> tekniska komponenter och deras funktioner i bromssystem och bromshjälpsystem.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> tekniska komponenter och deras funktioner i bromssystem och bromshjälpsystem."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för konsekvenser av eftersatt underhåll.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för konsekvenser av eftersatt underhåll.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för konsekvenser av eftersatt underhåll.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för konsekvenser av eftersatt underhåll."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> olika grenar av yrkesmässig trafik med dess förutsättningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> olika grenar av yrkesmässig trafik med dess förutsättningar.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> olika grenar av yrkesmässig trafik med dess förutsättningar.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> olika grenar av yrkesmässig trafik med dess förutsättningar."
+        }
+      }, {
+        "text" : "Eleven beskriver <strong>________</strong> de regler som begränsar arbetstiden vid vägtransporter samt hur de ska tillämpas i praktiken.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> de regler som begränsar arbetstiden vid vägtransporter samt hur de ska tillämpas i praktiken.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> de regler som begränsar arbetstiden vid vägtransporter samt hur de ska tillämpas i praktiken.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> de regler som begränsar arbetstiden vid vägtransporter samt hur de ska tillämpas i praktiken."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör, med <strong>________</strong> resultat, <strong>________</strong> beräkningar av fordonets lastkapacitet i förhållande till vägars bärighet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör, med <strong>tillfredsställande</strong> resultat, <strong>enkla</strong> beräkningar av fordonets lastkapacitet i förhållande till vägars bärighet.",
+          "C" : "Eleven gör, med <strong>tillfredsställande</strong> resultat, beräkningar av fordonets lastkapacitet i förhållande till vägars bärighet.",
+          "A" : "Eleven gör, med <strong>gott</strong> resultat, beräkningar av fordonets lastkapacitet i förhållande till vägars bärighet."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> hur last ska säkras samt ger <strong>________</strong> exempel på konsekvenser av felaktig lastsäkring.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> hur last ska säkras samt ger <strong>enkla</strong> exempel på konsekvenser av felaktig lastsäkring.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> hur last ska säkras samt ger <strong>välgrundade</strong> exempel på konsekvenser av felaktig lastsäkring.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> hur last ska säkras samt ger <strong>välgrundade och nyanserade</strong> exempel på konsekvenser av felaktig lastsäkring."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> gods med farliga egenskaper, hur det ska hanteras, riskerna med farligt gods och kravet på utbildning för att hantera det.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> gods med farliga egenskaper, hur det ska hanteras, riskerna med farligt gods och kravet på utbildning för att hantera det.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> gods med farliga egenskaper, hur det ska hanteras, riskerna med farligt gods och kravet på utbildning för att hantera det.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> gods med farliga egenskaper, hur det ska hanteras, riskerna med farligt gods och kravet på utbildning för att hantera det."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> risker i arbetsmiljön och ger <strong>________</strong> med handledare hjälp till skadade.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> risker i arbetsmiljön och ger <strong>i samråd</strong> med handledare hjälp till skadade.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> risker i arbetsmiljön och ger <strong>efter samråd</strong> med handledare hjälp till skadade.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> risker i arbetsmiljön och ger <strong>efter samråd</strong> med handledare hjälp till skadade."
+        }
+      }, {
+        "text" : "Eleven arbetar på ett ergonomiskt sätt för att förebygga arbetsskador.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar på ett ergonomiskt sätt för att förebygga arbetsskador.",
+          "C" : "Eleven arbetar på ett ergonomiskt sätt för att förebygga arbetsskador.",
+          "A" : "Eleven arbetar på ett ergonomiskt sätt för att förebygga arbetsskador."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lastbil och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lastbil och utrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lastbil och utrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lastbil och utrustning."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för vad begreppet kvalitet innebär i branschen och för vikten av goda kundrelationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för vad begreppet kvalitet innebär i branschen och för vikten av goda kundrelationer.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för vad begreppet kvalitet innebär i branschen och för vikten av goda kundrelationer.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för vad begreppet kvalitet innebär i branschen och för vikten av goda kundrelationer."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 300,
+    "year" : null
+  }, {
+    "name" : "Yrkestrafik – vux",
+    "description" : "Kursen yrkestrafik – vux omfattar punkterna 1–8 under rubriken Ämnets syfte. Förkunskapskrav för att få delta i kursen är att eleven har körkort med behörigheten B.",
+    "code" : "TRAYRK1",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Tekniska egenskaper och funktioner hos bromssystem, bromshjälpsystem och utrustningar på transportfordon.", "Kraftöverföring: motor, vridmoment, växellåda och differential.", "Körning och manövrering av fordon på ett trafiksäkert och miljövänligt sätt i varierande trafikmiljöer.", "Begreppet yrkesmässig trafik och dess olika indelningar samt förutsättningar för gods- och persontrafik.", "Olika typer av transportuppdrag samt de krav på säkerhet, kvalitet och noggrannhet som de olika uppdragen kräver.", "Säkerhetskontroll, funktionstillsyn och underhåll av transportfordon.", "Olika fordons säkerhetsanordningar samt säkerhetsanordningarnas tekniska egenskaper och funktioner.", "Tillståndskrav, utbildning och ekonomiska villkor i vägtransportverksamheter.", "Frakthandlingar och anvisningar som reglerar gods och varudistribution.", "Färdvägsplanering med hjälp av olika informationssystem.", "Arbetstidsregler vid vägtransporter samt användning av utrustning för registrering och dokumentation.", "Lastning av fordon och lastbärare, lastsäkringsmetoder och lastviktsberäkning med hänsyn till begränsningar för bruttovikter, axeltryck och vägnätets bärighet. Lagar och andra bestämmelser som reglerar lastvikter på fordon, vägnätets bärighetsklassning och beräkning av lastvikter.", "Faktorer som kan orsaka olyckor och hur man kan förebygga olyckor. Agerande i kris, olyckssituationer och brand samt första hjälpen till skadade.", "Lagar och andra bestämmelser som reglerar hantering och märkning av farligt gods.", "Ergonomi, riskfyllda rörelser, arbetsställningar och förebyggande av fysiska skador.", "Kundrelationer och kvalitetsbegreppets innebörd i samband med transportuppdrag." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> tekniska komponenter och deras funktioner i bromssystem och bromshjälpsystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> tekniska komponenter och deras funktioner i bromssystem och bromshjälpsystem.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> tekniska komponenter och deras funktioner i bromssystem och bromshjälpsystem.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> tekniska komponenter och deras funktioner i bromssystem och bromshjälpsystem."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för konsekvenser av eftersatt underhåll.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för konsekvenser av eftersatt underhåll.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för konsekvenser av eftersatt underhåll.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för konsekvenser av eftersatt underhåll."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> olika grenar av yrkesmässig trafik med dess förutsättningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> olika grenar av yrkesmässig trafik med dess förutsättningar.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> olika grenar av yrkesmässig trafik med dess förutsättningar.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> olika grenar av yrkesmässig trafik med dess förutsättningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kör och manövrerar i bekanta situationer fordon på ett trafiksäkert och miljömedvetet sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kör och manövrerar i bekanta situationer fordon på ett trafiksäkert och miljömedvetet sätt.",
+          "C" : "Eleven kör och manövrerar i bekanta <strong>och delvis nya</strong> situationer fordon på ett trafiksäkert och miljömedvetet sätt.",
+          "A" : "Eleven kör och manövrerar i bekanta <strong>och nya</strong> situationer fordon på ett trafiksäkert och miljömedvetet sätt."
+        }
+      }, {
+        "text" : "Eleven planerar och genomför <strong>________</strong> transportuppdrag samt redogör <strong>________</strong> för miljö- och säkerhetsaspekter vid transportuppdrag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och genomför <strong>enkla</strong> transportuppdrag samt redogör <strong>översiktligt</strong> för miljö- och säkerhetsaspekter vid transportuppdrag.",
+          "C" : "Eleven planerar och genomför transportuppdrag samt redogör <strong>utförligt</strong> för miljö- och säkerhetsaspekter vid transportuppdrag.",
+          "A" : "Eleven planerar och genomför transportuppdrag samt redogör <strong>utförligt och nyanserat</strong> för miljö- och säkerhetsaspekter vid transportuppdrag."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare <strong>________</strong> dokumentation av uppdragen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare <strong>enkel</strong> dokumentation av uppdragen.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare <strong>noggrann</strong> dokumentation av uppdragen.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare <strong>noggrann och utförlig</strong> dokumentation av uppdragen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare säkerhetskontroll av transportfordon samt vidtar vid behov åtgärder som krävs ur trafiksäkerhetssynpunkt och motiverar dessa <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare säkerhetskontroll av transportfordon samt vidtar vid behov åtgärder som krävs ur trafiksäkerhetssynpunkt och motiverar dessa <strong>översiktligt</strong>.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare säkerhetskontroll av transportfordon samt vidtar vid behov åtgärder som krävs ur trafiksäkerhetssynpunkt och motiverar dessa <strong>utförligt</strong>.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare säkerhetskontroll av transportfordon samt vidtar vid behov åtgärder som krävs ur trafiksäkerhetssynpunkt och motiverar dessa <strong>utförligt och nyanserat</strong>."
+        }
+      }, {
+        "text" : "Eleven följer <strong>________</strong> körtidsregler samt registrerar körtiden enligt praxis.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven följer <strong>med viss säkerhet</strong> körtidsregler samt registrerar körtiden enligt praxis.",
+          "C" : "Eleven följer <strong>med viss säkerhet</strong> körtidsregler samt registrerar körtiden enligt praxis.",
+          "A" : "Eleven följer <strong>med säkerhet</strong> körtidsregler samt registrerar körtiden enligt praxis."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I arbetet beskriver eleven <strong>________</strong> några metoder för lastförankring.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet beskriver eleven <strong>översiktligt</strong> några metoder för lastförankring.",
+          "C" : "I arbetet beskriver eleven <strong>utförligt</strong> några metoder för lastförankring.",
+          "A" : "I arbetet beskriver eleven <strong>utförligt och nyanserat</strong> några metoder för lastförankring."
+        }
+      }, {
+        "text" : "Dessutom gör eleven, med <strong>________</strong> resultat, <strong>________</strong> lastviktsberäkningar för olika fordon utifrån givna förutsättningar samt värderar resultatet med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven, med <strong>tillfredsställande</strong> resultat, <strong>enkla</strong> lastviktsberäkningar för olika fordon utifrån givna förutsättningar samt värderar resultatet med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom gör eleven, med <strong>tillfredsställande</strong> resultat, lastviktsberäkningar för olika fordon utifrån givna förutsättningar samt värderar resultatet med <strong>nyanserade</strong> omdömen.",
+          "A" : "Dessutom gör eleven, med <strong>gott</strong> resultat, lastviktsberäkningar för olika fordon utifrån givna förutsättningar samt värderar resultatet med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Eleven beskriver <strong>________</strong> hur last ska säkras samt ger <strong>________</strong> exempel på konsekvenser av felaktig lastsäkring.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur last ska säkras samt ger <strong>enkla</strong> exempel på konsekvenser av felaktig lastsäkring.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur last ska säkras samt ger <strong>välgrundade</strong> exempel på konsekvenser av felaktig lastsäkring.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur last ska säkras samt ger <strong>välgrundade och nyanserade</strong> exempel på konsekvenser av felaktig lastsäkring."
+        }
+      }, {
+        "text" : "Eleven väljer <strong>________</strong> relevant utrustning och arbetsmetod.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven väljer <strong>med viss säkerhet</strong> relevant utrustning och arbetsmetod.",
+          "C" : "Eleven väljer <strong>med viss säkerhet</strong> relevant utrustning och arbetsmetod.",
+          "A" : "Eleven väljer <strong>med säkerhet</strong> relevant utrustning och arbetsmetod."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven identifierar <strong>________</strong> och beskriver <strong>________</strong> gods med speciella egenskaper, hur det ska hanteras och kravet på utbildning för att hantera det.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven identifierar <strong>med viss säkerhet</strong> och beskriver <strong>översiktligt</strong> gods med speciella egenskaper, hur det ska hanteras och kravet på utbildning för att hantera det.",
+          "C" : "Eleven identifierar <strong>med viss säkerhet</strong> och beskriver <strong>utförligt</strong> gods med speciella egenskaper, hur det ska hanteras och kravet på utbildning för att hantera det.",
+          "A" : "Eleven identifierar <strong>med säkerhet</strong> och beskriver <strong>utförligt och nyanserat</strong> gods med speciella egenskaper, hur det ska hanteras och kravet på utbildning för att hantera det."
+        }
+      }, {
+        "text" : "Eleven ger också <strong>________</strong> exempel på riskerna med denna hantering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven ger också <strong>enkla</strong> exempel på riskerna med denna hantering.",
+          "C" : "Eleven ger också <strong>välgrundade</strong> exempel på riskerna med denna hantering.",
+          "A" : "Eleven ger också <strong>välgrundade och nyanserade</strong> exempel på riskerna med denna hantering."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> hur man förebygger personskador vid godshantering och transporter, risker i arbetsmiljön och ger <strong>________</strong> med handledare hjälp till skadade.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> hur man förebygger personskador vid godshantering och transporter, risker i arbetsmiljön och ger <strong>i samråd</strong> med handledare hjälp till skadade.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> hur man förebygger personskador vid godshantering och transporter, risker i arbetsmiljön och ger <strong>efter samråd</strong> med handledare hjälp till skadade.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> hur man förebygger personskador vid godshantering och transporter, risker i arbetsmiljön och ger <strong>efter samråd</strong> med handledare hjälp till skadade."
+        }
+      }, {
+        "text" : "Eleven arbetar på ett ergonomiskt sätt för att förebygga arbetsskador.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar på ett ergonomiskt sätt för att förebygga arbetsskador.",
+          "C" : "Eleven arbetar på ett ergonomiskt sätt för att förebygga arbetsskador.",
+          "A" : "Eleven arbetar på ett ergonomiskt sätt för att förebygga arbetsskador."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tar ansvar för kundens egendom samt för fordon och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för fordon och utrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för fordon och utrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för fordon och utrustning."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för vad begreppet kvalitet innebär i branschen och för vikten av goda kundkontakter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för vad begreppet kvalitet innebär i branschen och för vikten av goda kundkontakter.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för vad begreppet kvalitet innebär i branschen och för vikten av goda kundkontakter.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för vad begreppet kvalitet innebär i branschen och för vikten av goda kundkontakter."
+        }
+      }, {
+        "text" : "Dessutom samarbetar eleven med andra och anpassar <strong>________</strong> bemötande och språk efter situation och mottagare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom samarbetar eleven med andra och anpassar <strong>med viss säkerhet</strong> bemötande och språk efter situation och mottagare.",
+          "C" : "Dessutom samarbetar eleven med andra och anpassar <strong>med viss säkerhet</strong> bemötande och språk efter situation och mottagare.",
+          "A" : "Dessutom samarbetar eleven med andra och anpassar <strong>med säkerhet</strong> bemötande och språk efter situation och mottagare."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 300,
+    "year" : null
+  } ]
+}

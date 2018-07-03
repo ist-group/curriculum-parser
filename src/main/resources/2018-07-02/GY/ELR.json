@@ -1,0 +1,295 @@
+{
+  "name" : "Elektroteknik",
+  "description" : "Ämnet elektroteknik behandlar enklare installationer och elarbeten på elanläggningar samt vanligt verkstadsarbete inom området. I allt arbete med elektricitet är säkerhetsfrågor centrala eftersom ett misstag kan orsaka stora skador både på personer och på egendom. För att utföra arbete med el krävs därför i de flesta fall särskilda behörigheter.",
+  "code" : "ELR",
+  "designation" : "",
+  "skolfsId" : "2010:153",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet elektroteknik ska syfta till att eleverna utvecklar kunskaper i att planera och utföra elarbete, verkstadsarbete, mekaniskt arbete och olika sammanfogningstekniker samt färdigheter i att hantera material, verktyg och utrustning.", "Den ska också bidra till att eleverna förstår betydelsen av energieffektivisering och av att utföra arbetet säkert samt kan tillämpa föreskrifter, standarder och bestämmelser inom området.", "Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att avhjälpa fel och underhålla elanläggningar.", "Undervisningen ska leda till att eleverna utvecklar förmåga att utifrån scheman och ritningar utföra elarbeten och verkstadsarbeten.", "Eleverna ska ges möjlighet att planera arbetsuppgifter samt utveckla förmåga att använda material och utrustning på ett ansvarsfullt sätt.", "Genom att både praktiskt och teoretiskt arbeta med uppgifterna ska eleverna ges möjlighet att öva sin förmåga att arbeta ergonomiskt, yrkesetiskt, miljömässigt och estetiskt." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet elektroteknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förmåga att utföra elarbete, verkstadsarbete, installationsteknik, mekaniskt arbete och sammanfogningsteknik.", "Färdigheter i att använda ritningar, scheman, instruktioner, standarder och föreskrifter.", "Förmåga att välja och använda olika verktyg, instrument, material och övrig utrustning som används inom området.", "Kunskaper om miljökrav och bestämmelser inom området.", "Färdigheter i att avhjälpa fel och underhålla elanläggningar.", "Förmåga att arbeta säkert, arbetsmiljömässigt, ergonomiskt och estetiskt.", "Förmåga att dokumentera sitt arbete." ]
+  } ],
+  "courses" : [ {
+    "name" : "Antenn- och kabel-TV-teknik",
+    "description" : "Kursen antenn- och kabel-TV-teknik omfattar punkterna 1–7 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "ELRANT0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Planering, installation och driftsättning samt underhåll av antenn- och kabel-tv-anläggningar för mark- och satellitdistribuerad tv.", "Digital tv-teknik och tv-signalens uppbyggnad vid satellit- och kabelsändningar.", "Uppbyggnad och funktionssätt hos bredbandiga multifunktionsnät för fastigheter (BMF-nät) samt hybrid-, fiber- och coaxnät (HFC-nät).", "Användning och tolkning av de mättekniska begreppen decibel, dämpning och förstärkning, samt intermodulationsavstånd och carrier to noise (C/N).", "Skalning av kablar och montering av kontakter.", "Standarder, normer och systemkrav för antenn- och kabel-tv-anläggningar.", "Europanormens krav på distributionssystem för television och ljudradio.", "Krav på strålningsimmunitet hos komponenter och kablar för att minska ledningsbundna störningar.", "Antenner, mottagningsutrustningar och mätinstrument för satellitmottagning.", "Antenner för tv-mottagning och mätinstrument för kontroll av signalnivå och kvalitet.", "Felsökning och reparation av antenn- och kabel-tv-anläggningar.", "Kontrollmätning och signalnivåjustering i kabel-tv-anläggningar.", "Registrering av mätdata och dokumentation av arbetet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför med <strong>________</strong> handlag enkelt installationsarbete på antenn- och kabel-tv.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför med <strong>visst</strong> handlag enkelt installationsarbete på antenn- och kabel-tv.",
+          "C" : "Eleven utför med <strong>gott</strong> handlag enkelt installationsarbete på antenn- och kabel-tv.",
+          "A" : "Eleven utför med <strong>mycket gott</strong> handlag enkelt, <strong>men även mer avancerat</strong>, installationsarbete på antenn- och kabel-tv."
+        }
+      }, {
+        "text" : "Eleven gör en <strong>________</strong> planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften.",
+          "C" : "Eleven gör en <strong>genomarbetad</strong> planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften.",
+          "A" : "Eleven gör en <strong>genomarbetad</strong> planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften."
+        }
+      }, {
+        "text" : "Inför arbetet väljer eleven <strong>________</strong> med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med <strong>________</strong> handlag och på ett miljömässigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Inför arbetet väljer eleven <strong>i samråd</strong> med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med <strong>visst</strong> handlag och på ett miljömässigt sätt.",
+          "C" : "Inför arbetet väljer eleven <strong>efter samråd</strong> med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med <strong>gott</strong> handlag och på ett miljömässigt sätt.",
+          "A" : "Inför arbetet väljer eleven <strong>efter samråd</strong> med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med <strong>mycket gott</strong> handlag och på ett miljömässigt sätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga installationer, samt löser och reparerar dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga installationer, samt löser och reparerar dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga installationer, samt löser och reparerar dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga installationer, samt löser och reparerar dem <strong>efter samråd</strong> med handledare."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik.",
+          "C" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik.",
+          "A" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik."
+        }
+      }, {
+        "text" : "Eleven kontrollerar säkerheten med <strong>________</strong> resultat, gör en <strong>________</strong> dokumentation av sitt arbete och tar i drift installationen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kontrollerar säkerheten med <strong>tillfredsställande</strong> resultat, gör en <strong>enkel</strong> dokumentation av sitt arbete och tar i drift installationen.",
+          "C" : "Eleven kontrollerar säkerheten med <strong>tillfredsställande</strong> resultat, gör en <strong>noggrann</strong> dokumentation av sitt arbete och tar i drift installationen.",
+          "A" : "Eleven kontrollerar säkerheten med <strong>gott</strong> resultat, gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete och tar i drift installationen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Data- och medianät",
+    "description" : "Kursen data- och medianät omfattar punkterna 1–7 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "ELRDAA0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Planering, installation, driftsättning och registrering samt underhåll av data- och medianätinstallationer.", "Funktion och uppbyggnad hos data- och medianät.", "Uppbyggnad och funktionssätt hos bredbandiga multifunktionsnät för fastigheter (BMF-nät) samt hybrid-, fiber- och coaxnät (HFC-nät).", "Datakommunikationsteknikens grunder.", "Inkoppling av fiberboxar och användaruttag.", "Kabelförläggning och regler vid samförläggning.", "Skarvnings- och inslipningsteknik för optofiberkabel.", "Kontaktering av fiberkabel och kategori 5- och 6-nät.", "Mätteknik och mätinstrument för inmätning och provning i fibernät.", "Felsöknings- och reparationsteknik för data- och medianät.", "Mät- och felsökningsteknik för fibernät." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför med <strong>________</strong> handlag enkelt installationsarbete på data- och medianät.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför med <strong>visst</strong> handlag enkelt installationsarbete på data- och medianät.",
+          "C" : "Eleven utför med <strong>gott</strong> handlag enkelt installationsarbete på data- och medianät.",
+          "A" : "Eleven utför med <strong>mycket gott</strong> handlag enkelt, <strong>men även mer avancerat</strong>, installationsarbete på data- och medianät."
+        }
+      }, {
+        "text" : "Eleven gör en <strong>________</strong> planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften.",
+          "C" : "Eleven gör en <strong>genomarbetad</strong> planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften.",
+          "A" : "Eleven gör en <strong>genomarbetad</strong> planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften."
+        }
+      }, {
+        "text" : "Inför arbetet väljer eleven <strong>________</strong> med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med <strong>________</strong> handlag och på ett miljömässigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Inför arbetet väljer eleven <strong>i samråd</strong> med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med <strong>visst</strong> handlag och på ett miljömässigt sätt.",
+          "C" : "Inför arbetet väljer eleven <strong>efter samråd</strong> med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med <strong>gott</strong> handlag och på ett miljömässigt sätt.",
+          "A" : "Inför arbetet väljer eleven <strong>efter samråd</strong> med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med <strong>mycket gott</strong> handlag och på ett miljömässigt sätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga installationer, samt löser och reparerar dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga installationer, samt löser och reparerar dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga installationer, samt löser och reparerar dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga installationer, samt löser och reparerar dem <strong>efter samråd</strong> med handledare."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik.",
+          "C" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik.",
+          "A" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik."
+        }
+      }, {
+        "text" : "Eleven kontrollerar säkerheten med <strong>________</strong> resultat, gör en <strong>________</strong> dokumentation av sitt arbete och tar i drift installationen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kontrollerar säkerheten med <strong>tillfredsställande</strong> resultat, gör en <strong>enkel</strong> dokumentation av sitt arbete och tar i drift installationen.",
+          "C" : "Eleven kontrollerar säkerheten med <strong>tillfredsställande</strong> resultat, gör en <strong>noggrann</strong> dokumentation av sitt arbete och tar i drift installationen.",
+          "A" : "Eleven kontrollerar säkerheten med <strong>gott</strong> resultat, gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete och tar i drift installationen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Elektromekanik",
+    "description" : "Kursen elektromekanik omfattar punkterna 1–4 och 6–7 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "ELRELK0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Elarbete, till exempel losskoppling och anslutning av apparater samt funktionsprovning.", "Enklare verkstadsarbete, till exempel mjuklödning, skruvförband och popnitning.", "Ritningsläsning inom verkstadstekniken.", "Pressverktyg för olika kontakttyper som används inom yrkesområdet.", "Fästteknik, materialkunskap och mekanisk mätning.", "Handverktyg som används inom de olika yrkesområdena.", "Elsäkerhet för personer och egendom.", "Egenkontroll, ergonomi, elsäkert arbete, kvalitetskrav, arbetsmiljö och säkerhet.", "Säkerhet i heta arbeten, ställningsbyggande och arbete från stege." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför med <strong>________</strong> handlag enkelt elarbete, verkstadsarbete, mekaniskt arbete och sammanfogningsteknik inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför med <strong>visst</strong> handlag enkelt elarbete, verkstadsarbete, mekaniskt arbete och sammanfogningsteknik inom området.",
+          "C" : "Eleven utför med <strong>gott</strong> handlag enkelt elarbete, verkstadsarbete, mekaniskt arbete och sammanfogningsteknik inom området.",
+          "A" : "Eleven utför med <strong>mycket gott</strong> handlag enkelt, <strong>men även mer avancerat</strong>, elarbete, verkstadsarbete, mekaniskt arbete och sammanfogningsteknik inom området."
+        }
+      }, {
+        "text" : "Eleven gör en <strong>________</strong> planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften.",
+          "C" : "Eleven gör en <strong>genomarbetad</strong> planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften.",
+          "A" : "Eleven gör en <strong>genomarbetad</strong> planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften."
+        }
+      }, {
+        "text" : "Inför arbetet väljer eleven <strong>________</strong> med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med <strong>________</strong> handlag och på ett miljömässigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Inför arbetet väljer eleven <strong>i samråd</strong> med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med <strong>visst</strong> handlag och på ett miljömässigt sätt.",
+          "C" : "Inför arbetet väljer eleven <strong>efter samråd</strong> med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med <strong>gott</strong> handlag och på ett miljömässigt sätt.",
+          "A" : "Inför arbetet väljer eleven <strong>efter samråd</strong> med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med <strong>mycket gott</strong> handlag och på ett miljömässigt sätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik.",
+          "C" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik.",
+          "A" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik."
+        }
+      }, {
+        "text" : "Eleven gör en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Elkraftteknik",
+    "description" : "Kursen elkraftteknik omfattar punkterna 1–7 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "ELRELF0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Anslutning, losskoppling och funktionsprovning av apparater och utrustning.", "Montering och flyttning i befintliga gruppledningar.", "Elmotorer med enklare tillhörande startutrustningar.", "Kopplingsutrustningar, apparatskåp och enklare styrutrustning.", "Förläggning och anslutning av ledningar.", "Ritning och schemaläsning inom området.", "Föreskrifter, standarder och bestämmelser enligt gällande behörighet.", "Olika materials egenskaper och kapslingsklasser.", "Mätning av vanligt förekommande elektriska storheter.", "Begreppen elkvalitet och elektromagnetisk kompatibilitet.", "Felsökning och underhåll av befintlig elutrustning.", "Personligt skydd vid arbete med spänningssatta föremål och arbete nära spänning samt elfara för personer och egendom.", "Kontroll inför drifttagning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför med <strong>________</strong> handlag enkelt elarbete inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför med <strong>visst</strong> handlag enkelt elarbete inom området.",
+          "C" : "Eleven utför med <strong>gott</strong> handlag enkelt elarbete inom området.",
+          "A" : "Eleven utför med <strong>mycket gott</strong> handlag enkelt, <strong>men även mer avancerat</strong>, elarbete inom området."
+        }
+      }, {
+        "text" : "Eleven gör en <strong>________</strong> planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften.",
+          "C" : "Eleven gör en <strong>genomarbetad</strong> planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften.",
+          "A" : "Eleven gör en <strong>genomarbetad</strong> planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften."
+        }
+      }, {
+        "text" : "Inför arbetet väljer eleven <strong>________</strong> med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med <strong>________</strong> handlag och på ett miljömässigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Inför arbetet väljer eleven <strong>i samråd</strong> med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med <strong>visst</strong> handlag och på ett miljömässigt sätt.",
+          "C" : "Inför arbetet väljer eleven <strong>efter samråd</strong> med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med <strong>gott</strong> handlag och på ett miljömässigt sätt.",
+          "A" : "Inför arbetet väljer eleven <strong>efter samråd</strong> med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med <strong>mycket gott</strong> handlag och på ett miljömässigt sätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga elinstallationer, samt löser och reparerar dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga elinstallationer, samt löser och reparerar dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga elinstallationer, samt löser och reparerar dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga elinstallationer, samt löser och reparerar dem <strong>efter samråd</strong> med handledare."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik.",
+          "C" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik.",
+          "A" : "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik."
+        }
+      }, {
+        "text" : "Eleven kontrollerar säkerheten med <strong>________</strong> resultat, gör en <strong>________</strong> dokumentation av sitt arbete och tar i drift elinstallationen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kontrollerar säkerheten med <strong>tillfredsställande</strong> resultat, gör en <strong>enkel</strong> dokumentation av sitt arbete och tar i drift elinstallationen.",
+          "C" : "Eleven kontrollerar säkerheten med <strong>tillfredsställande</strong> resultat, gör en <strong>noggrann</strong> dokumentation av sitt arbete och tar i drift elinstallationen.",
+          "A" : "Eleven kontrollerar säkerheten med <strong>gott</strong> resultat, gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete och tar i drift elinstallationen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

@@ -1,0 +1,416 @@
+{
+  "name" : "Vatten- och miljöteknik",
+  "description" : "Vatten är människans viktigaste livsmedel. Produktion och rening av vatten är livsviktigt både lokalt och globalt. Ämnet vatten- och miljöteknik behandlar drift, underhåll och service av anläggningar inom vatten- och miljöområdet. Det bygger på naturvetenskapliga principer eftersom en ekologisk grundsyn och kretsloppstänkande är viktigt inom området.",
+  "code" : "VAT",
+  "designation" : "",
+  "skolfsId" : "2010:167",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet vatten- och miljöteknik ska syfta till att eleverna utvecklar förmåga att utföra drift, underhåll och service i vattentekniska anläggningar.", "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om konventionella och alternativa reningsmetoder för vatten samt kunskaper om säkerhetstänkande, yrkesidentitet och yrkesetik.", "I undervisningen ska eleverna också ges möjlighet att studera tekniska åtgärder i relation till kommunens ansvar och gällande lagstiftning.", "Dessutom ska eleverna ges möjlighet att utveckla kunskaper om hur man kan finna lösningar på internationella problem inom vatten- och miljöområdet." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla förmåga att utföra provtagningar och analyser av vatten samt vidta åtgärder utifrån de resultat som kommit fram.", "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om olika kvalitetssystem och standarder inom vatten- och miljöområdet samt om hur man arbetar på ett kvalitetsmedvetet sätt." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom experiment, laborationer och ett undersökande arbetssätt ska eleverna ges möjlighet att utveckla förmåga att lösa problem som gäller drift, underhåll och service av anläggningar som används inom vatten- och miljöområdet.", "Genom praktiska övningar ska eleverna ges möjlighet att utveckla tekniska kunskaper samt handha teknisk utrustning." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet vatten- och miljöteknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om vatten- och miljötekniska anläggningars uppbyggnad och funktion samt om konsekvenser av olika processförändringar i dessa anläggningar.", "Kunskaper om mikrobiologiska processer som har betydelse för vattenrening och dricksvattenproduktion.", "Kunskaper om olika kvalitetssystem och standarder inom miljöområdet.", "Förmåga att utföra praktiska arbetsuppgifter i olika processtekniska anläggningar inom vatten- och miljöområdet samt att arbeta med hänsyn till säkerhet, kvalitet och miljö.", "Förmåga att utföra beräkningar för att optimera driften av en anläggning avseende kvalitet, ekonomi och miljö.", "Förmåga att hantera och vårda verktyg och utrustning.", "Förmåga att utföra provtagningar samt efterbehandlings- och distributionsmetoder för dricksvatten.", "Förmåga att samarbeta och kommunicera med andra samt att använda fackspråk." ]
+  } ],
+  "courses" : [ {
+    "name" : "Dricksvatten",
+    "description" : "Kursen dricksvatten omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "VATDRI0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Skillnader mellan olika typer av grundvatten och ytvatten avseende sammansättning och lämplighet som råvatten.", "Faktorer och processförändringar som påverkar reningsresultat och kostnader.", "Mikrobiologiska processer inom dricksvattenområdet.", "Föreskrifter om dricksvatten och skydd av vattentäkter samt miljökvalitetssystem inom området.", "Underhållsarbeten i reningsanläggningar för dricksvatten. Hur man löser problem med driften av anläggningarna.", "Metoder för rening av dricksvatten.", "Intagningsanordningar vid ytvattenrening.", "Tillsatskemikaliers effekt för olika typer av vatten, dosering och inblandning samt ekonomi vid vattenrening.", "Datoriserad driftövervakning av vatten- och miljöanläggningar.", "Metoder för optimering av drift, till exempel beräkningar och användning av grundläggande kemi.", "Handhavande av verktyg och utrustning.", "Provtagningar samt analyser av råvatten och dricksvatten enligt gällande bestämmelser." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för konsekvenser av olika processförändringar i reningsanläggningar för dricksvatten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för konsekvenser av olika processförändringar i reningsanläggningar för dricksvatten.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för konsekvenser av olika processförändringar i reningsanläggningar för dricksvatten.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för konsekvenser av olika processförändringar i reningsanläggningar för dricksvatten."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för olika kvalitetssystem och standarder inom miljöområdet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för olika kvalitetssystem och standarder inom miljöområdet.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för olika kvalitetssystem och standarder inom miljöområdet.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för olika kvalitetssystem och standarder inom miljöområdet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare <strong>________</strong> arbetsuppgifter i en reningsanläggning för dricksvatten på ett sätt som är säkert både för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare <strong>enkla</strong> arbetsuppgifter i en reningsanläggning för dricksvatten på ett sätt som är säkert både för eleven själv och andra.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare arbetsuppgifter i en reningsanläggning för dricksvatten på ett sätt som är säkert både för eleven själv och andra.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare <strong>avancerade</strong> arbetsuppgifter i en reningsanläggning för dricksvatten på ett sätt som är säkert både för eleven själv och andra."
+        }
+      }, {
+        "text" : "Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav.",
+          "C" : "Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav.",
+          "A" : "Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> beräkningar för att optimera driften av en anläggning avseende kvalitet, ekonomi och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>enkla</strong> beräkningar för att optimera driften av en anläggning avseende kvalitet, ekonomi och miljö.",
+          "C" : "Eleven utför beräkningar för att optimera driften av en anläggning avseende kvalitet, ekonomi och miljö.",
+          "A" : "Eleven utför <strong>avancerade</strong> beräkningar för att optimera driften av en anläggning avseende kvalitet, ekonomi och miljö."
+        }
+      }, {
+        "text" : "I arbetet hanterar eleven med <strong>________</strong> handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet hanterar eleven med <strong>visst</strong> handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt.",
+          "C" : "I arbetet hanterar eleven med <strong>gott</strong> handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt.",
+          "A" : "I arbetet hanterar eleven med <strong>mycket gott</strong> handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> provtagningar utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>med viss säkerhet</strong> provtagningar utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven utför <strong>med viss säkerhet</strong> provtagningar utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen med <strong>enkla</strong> omdömen.",
+          "A" : "Eleven utför <strong>med säkerhet</strong> provtagningar utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen med <strong>nyanserade</strong> omdömen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar och kommunicerar <strong>________</strong> med andra samt använder ett <strong>________</strong> fackspråk som fungerar för arbetsuppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra samt använder ett <strong>enkelt</strong> fackspråk som fungerar för arbetsuppgiften.",
+          "C" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra samt använder ett fackspråk som fungerar för arbetsuppgiften.",
+          "A" : "Eleven samarbetar och kommunicerar <strong>med säkerhet</strong> med andra samt använder ett <strong>nyanserat</strong> fackspråk som fungerar för arbetsuppgiften."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Rening av förorenat vatten",
+    "description" : "Kursen rening av förorenat vatten omfattar punkterna 1–2 och 4–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "VATREN0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Konventionella och alternativa reningsanläggningars uppbyggnad och funktion.", "Faktorer och processförändringar som påverkar reningsresultat och kostnader.", "Olika typer av förorenat vatten samt deras sammansättning. Det förorenade vattnets inverkan på sjöar och vattendrag.", "Mikrobiologiska processer inom vatten- och miljöområdet.", "Underhållsarbeten i reningsanläggningar för dricksvatten. Hur man löser problem med driften av anläggningarna.", "Metoder för rening av förorenat vatten.", "Experiment för val av flockningskemikalier.", "Flödesmätning i öppna och slutna system.", "Olika slamtyper och metoder för behandling.", "Datoriserad driftövervakning av vatten- och miljöanläggningar.", "Metoder för optimering av drift, till exempel beräkningar och användning av grundläggande kemi.", "Handhavande av verktyg och utrustning.", "Provtagning inom vatten- och miljöområdet enligt gällande bestämmelser." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> reningsprocesser i vatten- och miljöanläggningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> reningsprocesser i vatten- och miljöanläggningar.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> reningsprocesser i vatten- och miljöanläggningar.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> reningsprocesser i vatten- och miljöanläggningar."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för konsekvenser av olika processförändringar i dessa anläggningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för konsekvenser av olika processförändringar i dessa anläggningar.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för konsekvenser av olika processförändringar i dessa anläggningar.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för konsekvenser av olika processförändringar i dessa anläggningar."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare <strong>________</strong> arbetsuppgifter i en vatten- och miljöteknisk anläggning på ett sätt som är säkert både för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare <strong>enkla</strong> arbetsuppgifter i en vatten- och miljöteknisk anläggning på ett sätt som är säkert både för eleven själv och andra.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare arbetsuppgifter i en vatten- och miljöteknisk anläggning på ett sätt som är säkert både för eleven själv och andra.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare <strong>avancerade</strong> arbetsuppgifter i en vatten- och miljöteknisk anläggning på ett sätt som är säkert både för eleven själv och andra."
+        }
+      }, {
+        "text" : "Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav.",
+          "C" : "Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav.",
+          "A" : "Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> driftinstruktioner, processcheman och driftrapportering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> driftinstruktioner, processcheman och driftrapportering.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> driftinstruktioner, processcheman och driftrapportering.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> driftinstruktioner, processcheman och driftrapportering."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> beräkningar för att optimera driften av en anläggning avseende kvalitet, ekonomi och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>enkla</strong> beräkningar för att optimera driften av en anläggning avseende kvalitet, ekonomi och miljö.",
+          "C" : "Eleven utför beräkningar för att optimera driften av en anläggning avseende kvalitet, ekonomi och miljö.",
+          "A" : "Eleven utför <strong>avancerade</strong> beräkningar för att optimera driften av en anläggning avseende kvalitet, ekonomi och miljö."
+        }
+      }, {
+        "text" : "Dessutom hanterar eleven med <strong>________</strong> handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom hanterar eleven med <strong>visst</strong> handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt.",
+          "C" : "Dessutom hanterar eleven med <strong>gott</strong> handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt.",
+          "A" : "Dessutom hanterar eleven med <strong>mycket gott</strong> handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> provtagningar utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>med viss säkerhet</strong> provtagningar utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven utför <strong>med viss säkerhet</strong> provtagningar utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen med <strong>enkla</strong> omdömen.",
+          "A" : "Eleven utför <strong>med säkerhet</strong> provtagningar utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen med <strong>nyanserade</strong> omdömen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar och kommunicerar <strong>________</strong> med andra samt använder ett <strong>________</strong> fackspråk som fungerar för arbetsuppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra samt använder ett <strong>enkelt</strong> fackspråk som fungerar för arbetsuppgiften.",
+          "C" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra samt använder ett fackspråk som fungerar för arbetsuppgiften.",
+          "A" : "Eleven samarbetar och kommunicerar <strong>med säkerhet</strong> med andra samt använder ett <strong>nyanserat</strong> fackspråk som fungerar för arbetsuppgiften."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Vatten- och miljöteknik",
+    "description" : "Kursen vatten- och miljöteknik omfattar punkterna 1–2, 4 och 6–8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "VATVAT0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Reningsprocesser i vatten- och miljöanläggningar.", "Konsekvenser av processförändringar i vatten- och miljöanläggningar.", "Mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion.", "Enklare underhållsarbeten i vatten- och miljötekniska anläggningar. Hur man löser problem med driften av anläggningarna.", "Lagar och andra bestämmelser om kvalitet, säkerhet och miljö. Hygien i vatten- och miljöanläggningar.", "Driftinstruktioner, processcheman och driftrapportering.", "Handhavande av verktyg och utrustning.", "Provtagningar samt analyser och utvärdering av dem." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> reningsprocesser i vatten- och miljöanläggningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> reningsprocesser i vatten- och miljöanläggningar.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> reningsprocesser i vatten- och miljöanläggningar.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> reningsprocesser i vatten- och miljöanläggningar."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för konsekvenser av olika processförändringar i dessa anläggningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för konsekvenser av olika processförändringar i dessa anläggningar.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för konsekvenser av olika processförändringar i dessa anläggningar.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för konsekvenser av olika processförändringar i dessa anläggningar."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare <strong>________</strong> arbetsuppgifter i en vatten- och miljöteknisk anläggning på ett sätt som är säkert både för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare <strong>enkla</strong> arbetsuppgifter i en vatten- och miljöteknisk anläggning på ett sätt som är säkert både för eleven själv och andra.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare arbetsuppgifter i en vatten- och miljöteknisk anläggning på ett sätt som är säkert både för eleven själv och andra.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare <strong>avancerade</strong> arbetsuppgifter i en vatten- och miljöteknisk anläggning på ett sätt som är säkert både för eleven själv och andra."
+        }
+      }, {
+        "text" : "Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav.",
+          "C" : "Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav.",
+          "A" : "Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> driftinstruktioner, processcheman och driftrapportering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> driftinstruktioner, processcheman och driftrapportering.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> driftinstruktioner, processcheman och driftrapportering.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> driftinstruktioner, processcheman och driftrapportering."
+        }
+      }, {
+        "text" : "Dessutom hanterar eleven med <strong>________</strong> handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom hanterar eleven med <strong>visst</strong> handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt.",
+          "C" : "Dessutom hanterar eleven med <strong>gott</strong> handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt.",
+          "A" : "Dessutom hanterar eleven med <strong>mycket gott</strong> handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> provtagningar utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>med viss säkerhet</strong> provtagningar utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven utför <strong>med viss säkerhet</strong> provtagningar utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen med <strong>enkla</strong> omdömen.",
+          "A" : "Eleven utför <strong>med säkerhet</strong> provtagningar utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen med <strong>nyanserade</strong> omdömen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar och kommunicerar <strong>________</strong> med andra samt använder ett <strong>________</strong> fackspråk som fungerar för arbetsuppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra samt använder ett <strong>enkelt</strong> fackspråk som fungerar för arbetsuppgiften.",
+          "C" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra samt använder ett fackspråk som fungerar för arbetsuppgiften.",
+          "A" : "Eleven samarbetar och kommunicerar <strong>med säkerhet</strong> med andra samt använder ett <strong>nyanserat</strong> fackspråk som fungerar för arbetsuppgiften."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Vattenreningens mikrobiologi",
+    "description" : "Kursen vattenreningens mikrobiologi omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "VATVAR0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Korrosionslära avseende vatten- och miljöanläggningar.", "Mikrobiologiska processer som har betydelse för produktion av dricksvatten samt distribution genom ledningsnät och lagring i reservoarer.", "Mikrobiologiska processer för nedbrytning av organiskt material i förorenat vatten, rening av kväve och fosfor i förorenat vatten samt i samband med stabilisering av slam.", "Olika typer av virus, bakterier och svampars uppbyggnad och livscykler samt olika sätt att bestämma mikroorganismer.", "Kvalitetssystem och standarder inom området.", "Inblandning, dosering och olika kemikalier för behandling av dricksvatten samt regler för dessa kemikaliers hantering.", "Metoder för optimering av vattenkvalitet, till exempel grundläggande kemiska beräkningar, i samband med dosering av kemikalier och utvärdering av resultat.", "Handhavande av verktyg, laboratorieutrustning och maskinell utrustning för behandling och distribution av vatten.", "Vattenprovtagningar och analyser av olika typer av vatten samt mikrobiologisk provning, mikroskopi och analys vid olika stadier i dricksvattenreningsprocessen.", "Höjning av hårdhet, alkalinitet och desinfektion av dricksvatten samt alkalisering av vatten i samband med beredningsprocesser och distribution." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för konsekvenser av olika processförändringar i reningsanläggningar för dricksvatten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för konsekvenser av olika processförändringar i reningsanläggningar för dricksvatten.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för konsekvenser av olika processförändringar i reningsanläggningar för dricksvatten.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för konsekvenser av olika processförändringar i reningsanläggningar för dricksvatten."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för olika kvalitetssystem och standarder inom miljöområdet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för olika kvalitetssystem och standarder inom miljöområdet.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för olika kvalitetssystem och standarder inom miljöområdet.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för olika kvalitetssystem och standarder inom miljöområdet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare <strong>________</strong> vattenprovtagningar och analyser på olika typer av vatten och mikrobiologiska provtagningar på ett sätt som är säkert för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare <strong>enkla</strong> vattenprovtagningar och analyser på olika typer av vatten och mikrobiologiska provtagningar på ett sätt som är säkert för eleven själv och andra.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare vattenprovtagningar och analyser på olika typer av vatten och mikrobiologiska provtagningar på ett sätt som är säkert för eleven själv och andra.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare <strong>avancerade</strong> vattenprovtagningar och analyser på olika typer av vatten och mikrobiologiska provtagningar på ett sätt som är säkert för eleven själv och andra."
+        }
+      }, {
+        "text" : "Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav.",
+          "C" : "Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav.",
+          "A" : "Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> beräkningar för att optimera driften av en anläggning avseende kvalitet, ekonomi och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>enkla</strong> beräkningar för att optimera driften av en anläggning avseende kvalitet, ekonomi och miljö.",
+          "C" : "Eleven utför beräkningar för att optimera driften av en anläggning avseende kvalitet, ekonomi och miljö.",
+          "A" : "Eleven utför <strong>avancerade</strong> beräkningar för att optimera driften av en anläggning avseende kvalitet, ekonomi och miljö."
+        }
+      }, {
+        "text" : "I arbetet hanterar eleven med <strong>________</strong> handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet hanterar eleven med <strong>visst</strong> handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt.",
+          "C" : "I arbetet hanterar eleven med <strong>gott</strong> handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt.",
+          "A" : "I arbetet hanterar eleven med <strong>mycket gott</strong> handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> provtagningar och efterbehandlings- och distributionsmetoder för dricksvatten utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen, efterbehandlingen och distributionen med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>med viss säkerhet</strong> provtagningar och efterbehandlings- och distributionsmetoder för dricksvatten utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen, efterbehandlingen och distributionen med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven utför <strong>med viss säkerhet</strong> provtagningar och efterbehandlings- och distributionsmetoder för dricksvatten utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen, efterbehandlingen och distributionen med <strong>enkla</strong> omdömen.",
+          "A" : "Eleven utför <strong>med säkerhet</strong> provtagningar och efterbehandlings- och distributionsmetoder för dricksvatten utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen, efterbehandlingen och distributionen med <strong>nyanserade</strong> omdömen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar och kommunicerar <strong>________</strong> med andra samt använder ett <strong>________</strong> fackspråk som fungerar för arbetsuppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra samt använder ett <strong>enkelt</strong> fackspråk som fungerar för arbetsuppgiften.",
+          "C" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra samt använder ett fackspråk som fungerar för arbetsuppgiften.",
+          "A" : "Eleven samarbetar och kommunicerar <strong>med säkerhet</strong> med andra samt använder ett <strong>nyanserat</strong> fackspråk som fungerar för arbetsuppgiften."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

@@ -1,0 +1,267 @@
+{
+  "name" : "Fordonsteknik",
+  "description" : "Ämnet fordonsteknik behandlar fordons konstruktion, funktion och användningsområden. I ämnet ingår materialkunskap, tekniker och metoder samt utrustning som används inom området. Centralt i ämnet är service och underhåll av fordon. I ämnet ingår också körning av fordon och maskiner samt trafikkunskap.",
+  "code" : "FON",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet fordonsteknik ska syfta till att eleverna utvecklar kunskaper om fordon och fordonsteknik samt förmåga att utföra arbetsuppgifter inom service och underhåll av fordon.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om fordons konstruktion, funktion och användningsområden samt om service och underhåll av fordon.", "Undervisningen ska också bidra till att eleverna utvecklar förmåga att använda informationssystem inom området.", "Undervisningen ska leda till att eleverna utvecklar förståelse av vad service och underhåll innebär för trafiksäkerhet och fordons livslängd.", "Vidare ska undervisningen leda till att eleverna utvecklar förmåga att köra och manövrera basmaskin." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om material, arbetsmetoder och utrustning som används inom fordonsteknik.", "Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att välja och använda material, metoder och verkstadsutrustning i samband med service och underhåll av fordon.", "Undervisningen ska också ge eleverna möjlighet att utveckla förmåga att sköta och underhålla material och utrustning.", "Undervisningen ska leda till att eleverna utvecklar förmåga att utföra olika arbetsuppgifter inom service och underhåll av fordon." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser som gäller inom området.", "Det handlar om trafiksäkerhet, arbetsmiljö och säkerhet samt om hållbar utveckling." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Praktiskt arbete och ett undersökande och problemlösande arbetssätt ska ingå i undervisningen.", "Undervisningen ska ge eleverna möjlighet att reflektera över och samtala om trafiksäkerhet i samband med service, underhåll och körning av fordon." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet fordonsteknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om fordons huvudkomponenter, konstruktion och funktion samt användningsområden.", "Förståelse av vad service och underhåll innebär för trafiksäkerhet och fordons livslängd.", "Förmåga att välja, använda och underhålla material, verktyg och utrustning inom fordonsteknik.", "Förmåga att utföra arbetsuppgifter inom underhåll och service av fordon på ett ergonomiskt och säkert sätt.", "Förmåga att köra och manövrera basmaskin på ett säkert och miljöanpassat sätt.", "Kunskaper om gällande trafikregler i samband med körning av basmaskin." ]
+  } ],
+  "courses" : [ {
+    "name" : "Fordonsteknik 1",
+    "description" : "Kursen fordonsteknik 1 omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "FONFOR51",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Fordons huvudkomponenter, till exempel motor, chassikomponenter och bromsar. Fordons konstruktion, funktion och användningsområden.", "Service och underhåll av fordon.", "Demonterings- och monteringsarbete, till exempel byte av batteri, hjul och lampor.", "Byte och påfyllning av vätskor, till exempel olja och spolarvätska.", "Informationssystem och manualer för arbete inom fordonsteknik.", "Material och verkstadsutrustning som används inom fordonsteknik.", "Underhåll av verktyg, utrustning och verkstadsmiljöer.", "Lyft och uppallning av motorfordon.", "Miljöhänsyn inom fordonsteknik.", "Säkerhet på arbetsplatsen och förebyggande säkerhetsåtgärder. Säkerhets- och skyddsutrustning.", "Lagar och andra bestämmelser, till exempel bestämmelser angående besiktning och trafikregler." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva fordons huvudkomponenter, konstruktion och funktion samt användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva fordons huvudkomponenter, konstruktion och funktion samt användningsområden.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> fordons huvudkomponenter, konstruktion och funktion samt användningsområden.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> fordons huvudkomponenter, konstruktion och funktion samt användningsområden."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att förklara vad service och underhåll innebär för trafiksäkerhet och fordons livslängd.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att förklara vad service och underhåll innebär för trafiksäkerhet och fordons livslängd.",
+          "C" : "Eleven förklarar <strong>på ett enkelt sätt</strong> vad service och underhåll innebär för trafiksäkerhet och fordons livslängd.",
+          "A" : "Eleven förklarar <strong>på ett utvecklat sätt</strong> vad service och underhåll innebär för trafiksäkerhet och fordons livslängd."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att välja, använda och underhålla material, verktyg och utrustning inom fordonsteknik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att välja, använda och underhålla material, verktyg och utrustning inom fordonsteknik.",
+          "C" : "Eleven väljer, använder och underhåller <strong>med viss säkerhet</strong> material, verktyg och utrustning inom fordonsteknik.",
+          "A" : "Eleven väljer, använder och underhåller <strong>med säkerhet</strong> material, verktyg och utrustning inom fordonsteknik."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att utföra arbetsmoment inom underhåll och service av fordon på ett ergonomiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att utföra arbetsmoment inom underhåll och service av fordon på ett ergonomiskt och säkert sätt.",
+          "C" : "Eleven utför <strong>med tillfredsställande resultat</strong> arbetsmoment inom underhåll och service av fordon på ett ergonomiskt och säkert sätt.",
+          "A" : "Eleven utför <strong>med gott resultat</strong> arbetsmoment inom underhåll och service av fordon på ett ergonomiskt och säkert sätt."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Fordonsteknik 2",
+    "description" : "Kursen fordonsteknik 2 omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "FONFOR52",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Fordons huvudkomponenter, till exempel motor, chassikomponenter och bromsar. Hur huvudkomponenter samverkar i fordonet. Fordons konstruktion, funktion och användningsområden.", "Mekanik, el, hydraulik och lufttrycksteknik inom fordonsteknik.", "Service och underhåll av fordon. Intervallservice enligt fordonstillverkarens anvisningar.", "Demonterings- och monteringsarbete, till exempel byte av bromsar, strålkastare och andra detaljer.", "Felsökning med hjälp av informationssystem och manualer.", "Material och olika sammanfogningstekniker som används inom fordonsteknik.", "Verkstadsutrustning inom fordonsteknik.", "Underhåll av verktyg, utrustning och verkstadsmiljöer.", "Lyft och uppallning av motorfordon.", "Miljöhänsyn inom fordonsteknik.", "Säkerhet på arbetsplatsen och förebyggande säkerhetsåtgärder. Säkerhets- och skyddsutrustning.", "Lagar och andra bestämmelser, till exempel bestämmelser angående besiktning och trafikregler." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva fordons huvudkomponenter, konstruktion och funktion samt hur de samverkar i fordonet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva fordons huvudkomponenter, konstruktion och funktion samt hur de samverkar i fordonet.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> fordons huvudkomponenter, konstruktion och funktion samt hur de samverkar i fordonet.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> fordons huvudkomponenter, konstruktion och funktion samt hur de samverkar i fordonet."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att förklara vad service och underhåll innebär för trafiksäkerhet och fordons livslängd.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att förklara vad service och underhåll innebär för trafiksäkerhet och fordons livslängd.",
+          "C" : "Eleven förklarar <strong>på ett enkelt sätt</strong> vad service och underhåll innebär för trafiksäkerhet och fordons livslängd.",
+          "A" : "Eleven förklarar <strong>på ett utvecklat sätt</strong> vad service och underhåll innebär för trafiksäkerhet och fordons livslängd."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att välja, använda och underhålla material, verktyg och utrustning inom fordonsteknik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att välja, använda och underhålla material, verktyg och utrustning inom fordonsteknik.",
+          "C" : "Eleven väljer, använder och underhåller <strong>med viss säkerhet</strong> material, verktyg och utrustning inom fordonsteknik.",
+          "A" : "Eleven väljer, använder och underhåller <strong>med säkerhet</strong> material, verktyg och utrustning inom fordonsteknik."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att utföra arbetsmoment inom underhåll och service av fordon på ett ergonomiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att utföra arbetsmoment inom underhåll och service av fordon på ett ergonomiskt och säkert sätt.",
+          "C" : "Eleven utför <strong>med tillfredsställande resultat</strong> arbetsmoment inom underhåll och service av fordon på ett ergonomiskt och säkert sätt.",
+          "A" : "Eleven utför <strong>med gott resultat</strong> arbetsmoment inom underhåll och service av fordon på ett ergonomiskt och säkert sätt."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Fordonsteknik 3",
+    "description" : "Kursen fordonsteknik 3 omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "FONFOR53",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Fördjupning inom något eller några kunskapsområden inom service och underhåll av fordon.", "Felsökning med hjälp av informationssystem och manualer inom kunskapsområdet.", "Material och verkstadsutrustning inom kunskapsområdet.", "Miljöhänsyn inom kunskapsområdet.", "Säkerhet på arbetsplatsen och förebyggande säkerhetsåtgärder. Säkerhets- och skyddsutrustning.", "Lagar och andra bestämmelser, till exempel bestämmelser angående besiktning och trafikregler." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva fordons huvudkomponenter, konstruktion och funktion samt användningsområden inom kunskapsområdet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva fordons huvudkomponenter, konstruktion och funktion samt användningsområden inom kunskapsområdet.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> fordons huvudkomponenter, konstruktion och funktion samt användningsområden inom kunskapsområdet.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> fordons huvudkomponenter, konstruktion och funktion samt användningsområden inom kunskapsområdet."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att förklara vad service och underhåll innebär för trafiksäkerhet och fordons livslängd.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att förklara vad service och underhåll innebär för trafiksäkerhet och fordons livslängd.",
+          "C" : "Eleven förklarar <strong>på ett enkelt sätt</strong> vad service och underhåll innebär för trafiksäkerhet och fordons livslängd.",
+          "A" : "Eleven förklarar <strong>på ett utvecklat sätt</strong> vad service och underhåll innebär för trafiksäkerhet och fordons livslängd."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att välja, använda och underhålla material, verktyg och utrustning inom kunskapsområdet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att välja, använda och underhålla material, verktyg och utrustning inom kunskapsområdet.",
+          "C" : "Eleven väljer, använder och underhåller <strong>med viss säkerhet</strong> material, verktyg och utrustning inom kunskapsområdet.",
+          "A" : "Eleven väljer, använder och underhåller <strong>med säkerhet</strong> material, verktyg och utrustning inom kunskapsområdet."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att utföra arbetsmoment inom underhåll och service av fordon på ett ergonomiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att utföra arbetsmoment inom underhåll och service av fordon på ett ergonomiskt och säkert sätt.",
+          "C" : "Eleven utför <strong>med tillfredsställande resultat</strong> arbetsmoment inom underhåll och service av fordon på ett ergonomiskt och säkert sätt.",
+          "A" : "Eleven utför <strong>med gott resultat</strong> arbetsmoment inom underhåll och service av fordon på ett ergonomiskt och säkert sätt."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Fordonsteknik – cykel",
+    "description" : "Kursen fordonsteknik – cykel omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "FONCYK5",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Cykelns huvudkomponenter, konstruktion, funktion och utrustning.", "Service och underhåll av cykel.", "Reparation av cyklar, till exempel lagning av punktering, byte av ekrar och riktning av hjul.", "Informationssystem och manualer för arbete med cyklar.", "Material och verkstadsutrustning som används vid reparation av cyklar.", "Skötsel och underhåll av verktyg, utrustning och verkstadsmiljöer.", "Miljöhänsyn vid reparationer av cyklar.", "Arbetsmiljö, skydd och säkerhet.", "Trafikregler och bestämmelser om utrustning av cykel." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva cykelns huvudkomponenter, konstruktion och funktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva cykelns huvudkomponenter, konstruktion och funktion.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> cykelns huvudkomponenter, konstruktion och funktion.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> cykelns huvudkomponenter, konstruktion och funktion."
+        }
+      }, {
+        "text" : "Eleven medverkar i att förklara vad service och underhåll innebär för trafiksäkerhet och cyklars livslängd.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven medverkar i att förklara vad service och underhåll innebär för trafiksäkerhet och cyklars livslängd.",
+          "C" : "Eleven förklarar <strong>på ett enkelt sätt</strong> vad service och underhåll innebär för trafiksäkerhet och cyklars livslängd.",
+          "A" : "Eleven förklarar <strong>på ett utvecklat sätt</strong> vad service och underhåll innebär för trafiksäkerhet och cyklars livslängd."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att välja, använda och underhålla material, verktyg och utrustning inom service och underhåll av cyklar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att välja, använda och underhålla material, verktyg och utrustning inom service och underhåll av cyklar.",
+          "C" : "Eleven väljer, använder och underhåller <strong>med viss säkerhet</strong> material, verktyg och utrustning inom service och underhåll av cyklar.",
+          "A" : "Eleven väljer, använder och underhåller <strong>med säkerhet</strong> material, verktyg och utrustning inom service och underhåll av cyklar."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att utföra arbetsmoment inom underhåll och service av cyklar på ett ergonomiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att utföra arbetsmoment inom underhåll och service av cyklar på ett ergonomiskt och säkert sätt.",
+          "C" : "Eleven utför <strong>med tillfredsställande resultat</strong> arbetsmoment inom underhåll och service av cyklar på ett ergonomiskt och säkert sätt.",
+          "A" : "Eleven utför <strong>med gott resultat</strong> arbetsmoment inom underhåll och service av cyklar på ett ergonomiskt och säkert sätt."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Körning – basmaskiner 1",
+    "description" : "Kursen körning – basmaskin 1 omfattar punkterna 1 och 5–6 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "FONKOR51",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Basmaskinens huvudkomponenter, konstruktion, funktion och användningsområden.", "Körning av basmaskin, till exempel traktor, terrängmotorfordon och flakmoped. Användning av reglage och tolkning av instrument.", "Inställning av förarplatsen för ergonomisk och säker körning.", "Trafikregler för körning av basmaskin.", "Säkerhetskontroll och tillsyn av basmaskin.", "Ergonomi och arbetsmiljö i samband med körning av basmaskin.", "Brandförebyggande åtgärder.", "Lagar och andra bestämmelser inom området." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva basmaskinens huvudkomponenter, konstruktion och funktion samt användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva basmaskinens huvudkomponenter, konstruktion och funktion samt användningsområden.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> basmaskinens huvudkomponenter, konstruktion och funktion samt användningsområden.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> basmaskinens huvudkomponenter, konstruktion och funktion samt användningsområden."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att köra och manövrera basmaskin på ett säkert och miljöanpassat sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att köra och manövrera basmaskin på ett säkert och miljöanpassat sätt.",
+          "C" : "Eleven kör och manövrerar <strong>med viss säkerhet</strong> basmaskin på ett säkert och miljöanpassat sätt.",
+          "A" : "Eleven kör och manövrerar <strong>med säkerhet</strong> basmaskin på ett säkert och miljöanpassat sätt."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> dessutom i att beskriva gällande trafikregler i samband med körning av basmaskin.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> dessutom i att beskriva gällande trafikregler i samband med körning av basmaskin.",
+          "C" : "Eleven beskriver dessutom <strong>på ett enkelt sätt</strong> gällande trafikregler i samband med körning av basmaskin.",
+          "A" : "Eleven beskriver dessutom <strong>på ett utvecklat sätt</strong> gällande trafikregler i samband med körning av basmaskin."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Körning – basmaskiner 2",
+    "description" : "Kursen körning – basmaskin 2 omfattar punkterna 1 och 5–6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "FONKOR52",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Basmaskinens tilläggsutrustning, konstruktion, funktion och användningsområden.", "Körning av basmaskin, till exempel traktor och terrängmotorfordon. Körning med tillkopplade redskap. Användning av reglage och tolkning av instrument.", "Inställning av förarplatsen för ergonomisk och säker körning.", "Arbetsteknik vid användning av tillkopplade redskap.", "Trafikföreskrifter för körning av basmaskin med tillkopplade redskap.", "Säkerhetskontroll och tillsyn av basmaskin, tilläggsutrustning och redskap.", "Ergonomi och arbetsmiljö i samband med körning av basmaskin och användning av tilläggsutrustning.", "Brandförebyggande åtgärder.", "Lagar och andra bestämmelser inom området." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva basmaskinens huvudkomponenter, konstruktion och funktion samt användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva basmaskinens huvudkomponenter, konstruktion och funktion samt användningsområden.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> basmaskinens huvudkomponenter, konstruktion och funktion samt användningsområden.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> basmaskinens huvudkomponenter, konstruktion och funktion samt användningsområden."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att köra och manövrera basmaskin på ett säkert och miljöanpassat sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att köra och manövrera basmaskin på ett säkert och miljöanpassat sätt.",
+          "C" : "Eleven kör och manövrerar <strong>med viss säkerhet</strong> basmaskin på ett säkert och miljöanpassat sätt.",
+          "A" : "Eleven kör och manövrerar <strong>med säkerhet</strong> basmaskin på ett säkert och miljöanpassat sätt."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> dessutom i att beskriva gällande trafikregler i samband med körning av basmaskin.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> dessutom i att beskriva gällande trafikregler i samband med körning av basmaskin.",
+          "C" : "Eleven beskriver dessutom <strong>på ett enkelt sätt</strong> gällande trafikregler i samband med körning av basmaskin.",
+          "A" : "Eleven beskriver dessutom <strong>på ett utvecklat sätt</strong> gällande trafikregler i samband med körning av basmaskin."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

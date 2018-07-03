@@ -1,0 +1,309 @@
+{
+  "name" : "Kraft- och värmeteknik",
+  "description" : "Den kraft- och värmeproducerande industrins komplexa system ställer stora krav på driftsäkerhet. Ett samhälles industri samt produktion av dricksvatten och värme tillåter inte några avbrott av energitillförsel. Ämnet kraft- och värmeteknik behandlar därför drift och underhåll av komplexa kraft- och värmetekniska system. Ämnet bygger på naturvetenskap eftersom kunskaper om fysik, mekanik och värmelära är nödvändiga för systemförståelse.",
+  "code" : "KRA",
+  "designation" : "",
+  "skolfsId" : "2010:159",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet kraft- och värmeteknik ska syfta till att eleverna utvecklar kunskaper om drift, underhåll och service av kraft- och värmetekniska anläggningar.", "Undervisningen ska vidare ge eleverna möjlighet att utveckla kunskaper om de konsekvenser kraft- och värmetekniska anläggningar har för luftmiljö, markmiljö och vattenmiljö.", "Undervisningen i ämnet ska även bidra till att eleverna utvecklar förmåga att lösa problem och ta ansvar för såväl drift som miljö.", "Dessutom ska undervisningen bidra till att eleverna utvecklar kunskaper om dagens och morgondagens energiförsörjning." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom ett undersökande och praktiskt arbetssätt samt laborationer ska eleverna ges möjlighet att utveckla systemförståelse av kraft- och värmetekniska anläggningar samt förmåga att genomföra drift, underhåll och service av dessa." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet kraft- och värmeteknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om uppbyggnad och funktion av kraft- och värmetekniska anläggningar.", "Förmåga att utföra drift och underhåll av olika anläggningar.", "Förmåga att utföra energitekniska beräkningar på anläggningar.", "Förmåga att utföra driftsoptimering av olika system med hänsyn tagen till miljö och ekonomi.", "Förmåga att utföra provtagning, analys och dosering av medier som förekommer i anläggningen.", "Förmåga att hantera förekommande verktyg och instrument.", "Förmåga att samarbeta och diskutera med ett fungerande fackspråk.", "Kunskaper om säkerhetsföreskrifter och miljökrav i olika anläggningar." ]
+  } ],
+  "courses" : [ {
+    "name" : "Kraft- och värmeteknik 1",
+    "description" : "Kursen kraft- och värmeteknik 1 omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "KRAKRA01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Uppbyggnad av system för fjärrvärme och fjärrkyla.", "Olika bränslen med tillhörande bränslehanteringssystem.", "Olika brännartyper och trimningsegenskaper.", "Olika panntyper för varm- och hetvatten.", "Rökgasreningsanläggningar och stofthantering.", "Drift och underhåll kopplat till miljö och ekonomi.", "Beräkningsmetoder för optimering av driften.", "Vattenreningsutrustning samt provtagning, analys och dosering av matarvatten.", "Verktyg, instrument och manualer.", "Besiktningar, besiktningsprotokoll och säkerhetsföreskrifter för olika typer av anläggningar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> uppbyggnad och funktion av en enkel energianläggning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> uppbyggnad och funktion av en enkel energianläggning.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> uppbyggnad och funktion av en enkel energianläggning.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> uppbyggnad och funktion av en enkel energianläggning."
+        }
+      }, {
+        "text" : "I beskrivningen gör eleven <strong>________</strong> kopplingar till relevanta naturvetenskapliga principer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningen gör eleven <strong>enkla</strong> kopplingar till relevanta naturvetenskapliga principer.",
+          "C" : "I beskrivningen gör eleven <strong>välgrundade</strong> kopplingar till relevanta naturvetenskapliga principer.",
+          "A" : "I beskrivningen gör eleven <strong>välgrundade och nyanserade</strong> kopplingar till relevanta naturvetenskapliga principer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför, <strong>________</strong> med handledare och på ett säkert sätt, vanligt förekommande praktiska arbetsuppgifter i en energiteknisk anläggning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför, <strong>i samråd</strong> med handledare och på ett säkert sätt, vanligt förekommande praktiska arbetsuppgifter i en energiteknisk anläggning.",
+          "C" : "Eleven utför, <strong>efter samråd</strong> med handledare och på ett säkert sätt, vanligt förekommande praktiska arbetsuppgifter i en energiteknisk anläggning.",
+          "A" : "Eleven utför, <strong>efter samråd</strong> med handledare och på ett säkert sätt, vanligt förekommande praktiska arbetsuppgifter i en energiteknisk anläggning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven genomför <strong>________</strong> energiberäkningar och ger utifrån dem <strong>________</strong> förslag för att optimera driften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven genomför <strong>med viss säkerhet enkla</strong> energiberäkningar och ger utifrån dem <strong>enkla</strong> förslag för att optimera driften.",
+          "C" : "Eleven genomför <strong>med viss säkerhet</strong> energiberäkningar och ger utifrån dem <strong>välgrundade</strong> förslag för att optimera driften.",
+          "A" : "Eleven genomför <strong>med säkerhet avancerade</strong> energiberäkningar och ger utifrån dem <strong>välgrundade och nyanserade</strong> förslag för att optimera driften."
+        }
+      }, {
+        "text" : "Eleven genomför <strong>________</strong> med handledare provtagning, analys och dosering av olika medier.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven genomför <strong>i samråd</strong> med handledare provtagning, analys och dosering av olika medier.",
+          "C" : "Eleven genomför <strong>efter samråd</strong> med handledare provtagning, analys och dosering av olika medier.",
+          "A" : "Eleven genomför <strong>efter samråd</strong> med handledare provtagning, analys och dosering av olika medier."
+        }
+      }, {
+        "text" : "I sitt arbete hanterar och vårdar eleven verktyg och instrument med <strong>________</strong> handlag utifrån givna instruktioner och arbetsbeskrivningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt arbete hanterar och vårdar eleven verktyg och instrument med <strong>visst</strong> handlag utifrån givna instruktioner och arbetsbeskrivningar.",
+          "C" : "I sitt arbete hanterar och vårdar eleven verktyg och instrument med <strong>gott</strong> handlag utifrån givna instruktioner och arbetsbeskrivningar.",
+          "A" : "I sitt arbete hanterar och vårdar eleven verktyg och instrument med <strong>mycket gott</strong> handlag utifrån givna instruktioner och arbetsbeskrivningar."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven problem som uppkommer och löser dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven problem som uppkommer och löser dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "I arbetet samverkar och kommunicerar eleven <strong>________</strong> med andra samt använder ett <strong>________</strong> fackspråk som fungerar för arbetsuppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet samverkar och kommunicerar eleven <strong>med viss säkerhet</strong> med andra samt använder ett <strong>enkelt</strong> fackspråk som fungerar för arbetsuppgiften.",
+          "C" : "I arbetet samverkar och kommunicerar eleven <strong>med viss säkerhet</strong> med andra samt använder ett fackspråk som fungerar för arbetsuppgiften.",
+          "A" : "I arbetet samverkar och kommunicerar eleven <strong>med säkerhet</strong> med andra samt använder ett <strong>nyanserat</strong> fackspråk som fungerar för arbetsuppgiften."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för säkerhetsföreskrifter och miljökrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för säkerhetsföreskrifter och miljökrav.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för säkerhetsföreskrifter och miljökrav.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för säkerhetsföreskrifter och miljökrav."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Kraft- och värmeteknik 2",
+    "description" : "Kursen kraft- och värmeteknik 2 omfattar punkterna 1–8 under rubriken Ämnets syfte.",
+    "code" : "KRAKRA02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Ångans termodynamiska egenskaper.", "Olika ångpannors funktion och uppbyggnadssätt.", "Olika typer av överhettare.", "Kärnkraftsteknikens funktion och arbetssätt.", "Ångturbiner, kondensorer och generatorer.", "Drift och underhåll kopplat till miljö och ekonomi.", "Energiomvandling och energiproduktion vid olika driftsförhållanden.", "Beräkningsmetoder för optimering av driften.", "Vattenreningsutrustning samt provtagning, analys och dosering av matarvattenbehandling.", "Verktyg, instrument och manualer.", "Besiktningar, besiktningsprotokoll och säkerhetsföreskrifter för ångpanneanläggningar.", "Säkerhet och miljö vid energiproduktion." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> uppbyggnad och funktion av en enkel ånganläggning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> uppbyggnad och funktion av en enkel ånganläggning.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> uppbyggnad och funktion av en enkel ånganläggning.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> uppbyggnad och funktion av en enkel ånganläggning."
+        }
+      }, {
+        "text" : "I beskrivningen gör eleven <strong>________</strong> kopplingar till relevanta naturvetenskapliga principer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningen gör eleven <strong>enkla</strong> kopplingar till relevanta naturvetenskapliga principer.",
+          "C" : "I beskrivningen gör eleven <strong>välgrundade</strong> kopplingar till relevanta naturvetenskapliga principer.",
+          "A" : "I beskrivningen gör eleven <strong>välgrundade och nyanserade</strong> kopplingar till relevanta naturvetenskapliga principer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare vanligt förekommande praktiska arbetsuppgifter i en ånganläggning på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare vanligt förekommande praktiska arbetsuppgifter i en ånganläggning på ett säkert sätt.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare vanligt förekommande praktiska arbetsuppgifter i en ånganläggning på ett säkert sätt.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare vanligt förekommande praktiska arbetsuppgifter i en ånganläggning på ett säkert sätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven genomför <strong>________</strong> energiberäkningar och ger utifrån dem <strong>________</strong> förslag för att optimera driften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven genomför <strong>med viss säkerhet enkla</strong> energiberäkningar och ger utifrån dem <strong>enkla</strong> förslag för att optimera driften.",
+          "C" : "Eleven genomför <strong>med viss säkerhet</strong> energiberäkningar och ger utifrån dem <strong>välgrundade</strong> förslag för att optimera driften.",
+          "A" : "Eleven genomför <strong>med säkerhet avancerade</strong> energiberäkningar och ger utifrån dem <strong>välgrundade och nyanserade</strong> förslag för att optimera driften."
+        }
+      }, {
+        "text" : "Eleven genomför <strong>________</strong> med handledare provtagning, analys och dosering av olika medier.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven genomför <strong>i samråd</strong> med handledare provtagning, analys och dosering av olika medier.",
+          "C" : "Eleven genomför <strong>efter samråd</strong> med handledare provtagning, analys och dosering av olika medier.",
+          "A" : "Eleven genomför <strong>efter samråd</strong> med handledare provtagning, analys och dosering av olika medier."
+        }
+      }, {
+        "text" : "I sitt arbete hanterar och vårdar eleven verktyg och instrument med <strong>________</strong> handlag utifrån givna instruktioner och arbetsbeskrivningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt arbete hanterar och vårdar eleven verktyg och instrument med <strong>visst</strong> handlag utifrån givna instruktioner och arbetsbeskrivningar.",
+          "C" : "I sitt arbete hanterar och vårdar eleven verktyg och instrument med <strong>gott</strong> handlag utifrån givna instruktioner och arbetsbeskrivningar.",
+          "A" : "I sitt arbete hanterar och vårdar eleven verktyg och instrument med <strong>mycket gott</strong> handlag utifrån givna instruktioner och arbetsbeskrivningar."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven problem som uppkommer och löser dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven problem som uppkommer och löser dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "I arbetet samverkar och kommunicerar eleven <strong>________</strong> med andra samt använder ett <strong>________</strong> fackspråk som fungerar för arbetsuppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet samverkar och kommunicerar eleven <strong>med viss säkerhet</strong> med andra samt använder ett <strong>enkelt</strong> fackspråk som fungerar för arbetsuppgiften.",
+          "C" : "I arbetet samverkar och kommunicerar eleven <strong>med viss säkerhet</strong> med andra samt använder ett fackspråk som fungerar för arbetsuppgiften.",
+          "A" : "I arbetet samverkar och kommunicerar eleven <strong>med säkerhet</strong> med andra samt använder ett <strong>nyanserat</strong> fackspråk som fungerar för arbetsuppgiften."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för säkerhetsföreskrifter och miljökrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för säkerhetsföreskrifter och miljökrav.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för säkerhetsföreskrifter och miljökrav.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för säkerhetsföreskrifter och miljökrav."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Reservkraft",
+    "description" : "Kursen reservkraft omfattar punkterna 1–8 under rubriken Ämnets syfte.",
+    "code" : "KRARER0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Uppbyggnad och funktion hos dieselmotor-, gasturbin- och batterianläggningar.", "Drift och underhåll av dieselmotoranläggningar.", "Drift och underhåll av gasturbinanläggningar.", "Drift och underhåll av batterianläggningar.", "Drift och underhåll av mindre och mobila reservkraftanläggningar.", "Planering, övervakning och provkörning.", "Beräkningsmetoder för optimering av driften.", "Olika typer av konsekvenser vid avbrott i produktionen.", "Verktyg, instrument och manualer.", "Infasning av olika system samt krav och säkerhet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> uppbyggnad och funktion av olika enkla reservkraftanläggningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> uppbyggnad och funktion av olika enkla reservkraftanläggningar.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> uppbyggnad och funktion av olika enkla reservkraftanläggningar.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> uppbyggnad och funktion av olika enkla reservkraftanläggningar."
+        }
+      }, {
+        "text" : "I beskrivningen gör eleven <strong>________</strong> kopplingar till relevanta naturvetenskapliga principer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningen gör eleven <strong>enkla</strong> kopplingar till relevanta naturvetenskapliga principer.",
+          "C" : "I beskrivningen gör eleven <strong>välgrundade</strong> kopplingar till relevanta naturvetenskapliga principer.",
+          "A" : "I beskrivningen gör eleven <strong>välgrundade och nyanserade</strong> kopplingar till relevanta naturvetenskapliga principer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare vanligt förekommande praktiska arbetsuppgifter i en reservkraftanläggning på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare vanligt förekommande praktiska arbetsuppgifter i en reservkraftanläggning på ett säkert sätt.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare vanligt förekommande praktiska arbetsuppgifter i en reservkraftanläggning på ett säkert sätt.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare vanligt förekommande praktiska arbetsuppgifter i en reservkraftanläggning på ett säkert sätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven genomför <strong>________</strong> energiberäkningar och ger utifrån dem <strong>________</strong> förslag för att optimera driften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven genomför <strong>med viss säkerhet enkla</strong> energiberäkningar och ger utifrån dem <strong>enkla</strong> förslag för att optimera driften.",
+          "C" : "Eleven genomför <strong>med viss säkerhet</strong> energiberäkningar och ger utifrån dem <strong>välgrundade</strong> förslag för att optimera driften.",
+          "A" : "Eleven genomför <strong>med säkerhet avancerade</strong> energiberäkningar och ger utifrån dem <strong>välgrundade och nyanserade</strong> förslag för att optimera driften."
+        }
+      }, {
+        "text" : "Eleven genomför <strong>________</strong> med handledare provtagning, analys och dosering av olika medier.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven genomför <strong>i samråd</strong> med handledare provtagning, analys och dosering av olika medier.",
+          "C" : "Eleven genomför <strong>efter samråd</strong> med handledare provtagning, analys och dosering av olika medier.",
+          "A" : "Eleven genomför <strong>efter samråd</strong> med handledare provtagning, analys och dosering av olika medier."
+        }
+      }, {
+        "text" : "I sitt arbete hanterar och vårdar eleven verktyg och instrument med <strong>________</strong> handlag utifrån givna instruktioner och arbetsbeskrivningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt arbete hanterar och vårdar eleven verktyg och instrument med <strong>visst</strong> handlag utifrån givna instruktioner och arbetsbeskrivningar.",
+          "C" : "I sitt arbete hanterar och vårdar eleven verktyg och instrument med <strong>gott</strong> handlag utifrån givna instruktioner och arbetsbeskrivningar.",
+          "A" : "I sitt arbete hanterar och vårdar eleven verktyg och instrument med <strong>mycket gott</strong> handlag utifrån givna instruktioner och arbetsbeskrivningar."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven problem som uppkommer och löser dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven problem som uppkommer och löser dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "I arbetet samverkar och kommunicerar eleven <strong>________</strong> med andra samt använder ett <strong>________</strong> fackspråk som fungerar för arbetsuppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet samverkar och kommunicerar eleven <strong>med viss säkerhet</strong> med andra samt använder ett <strong>enkelt</strong> fackspråk som fungerar för arbetsuppgiften.",
+          "C" : "I arbetet samverkar och kommunicerar eleven <strong>med viss säkerhet</strong> med andra samt använder ett fackspråk som fungerar för arbetsuppgiften.",
+          "A" : "I arbetet samverkar och kommunicerar eleven <strong>med säkerhet</strong> med andra samt använder ett <strong>nyanserat</strong> fackspråk som fungerar för arbetsuppgiften."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för säkerhetsföreskrifter och miljökrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för säkerhetsföreskrifter och miljökrav.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för säkerhetsföreskrifter och miljökrav.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för säkerhetsföreskrifter och miljökrav."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

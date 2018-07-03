@@ -39,7 +39,7 @@ dependencies {
     compile("org.jetbrains.kotlin:kotlin-stdlib-jdk8:${kotlinVersion}")
     compile("org.jsoup:jsoup:1.11.2")
     compile("org.apache.commons:commons-compress:1.16.1")
-    testCompile("com.fasterxml.jackson.module:jackson-module-kotlin:2.9.4.1")
+    compile("com.fasterxml.jackson.module:jackson-module-kotlin:2.9.4.1")
     testCompile('junit:junit:4.12')
 }
 dokka {

@@ -1,0 +1,295 @@
+{
+  "name" : "Ellära",
+  "description" : "Ämnet ellära behandlar lik- och enfasväxelströmskretsar samt trefassystem med belastningar av olika slag. Det behandlar också ledningsburna störningar och säkerhetsfrågor.",
+  "code" : "ELL",
+  "designation" : "",
+  "skolfsId" : "2010:154",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet ellära ska syfta till att eleverna utvecklar färdigheter i att mäta och beräkna elektriska storheter i lik- och enfasväxelströmskretsar samt i trefassystem med belastningar av olika slag.", "Den ska också bidra till att eleverna utvecklar förmåga att söka och avhjälpa fel i lik- och enfasväxelströmskretsar samt i trefassystem.", "Dessutom ska undervisningen leda till att eleverna utvecklar förståelse av hur ledningsbundna störningar uppkommer samt deras verkan på elsystemet." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om säkerhetsfrågor och om bestämmelser och standarder inom elområdet." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att praktiskt utföra mätning och beräkning av elektriska storheter i lik- och enfasväxelströmskretsar samt i trefassystem.", "Den ska också bidra till att eleverna ges möjlighet att praktiskt söka och avhjälpa fel med hjälp av scheman, ritningar, mätinstrument och övrig utrustning." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet ellära ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om elsystemets uppbyggnad och funktion.", "Kunskaper om lik- och enfasväxelströmskretsars uppbyggnad och funktion samt färdigheter i att mäta och beräkna elektriska storheter i dessa med belastningar av olika slag.", "Kunskaper om trefassystems uppbyggnad och funktion samt färdigheter i att mäta och beräkna elektriska storheter i dessa med belastningar av olika slag.", "Kunskaper om uppkomsten av störningar och om deras verkan på elsystemet.", "Förmåga att söka och avhjälpa fel i lik- och enfasväxelströmskretsar.", "Förmåga att söka och avhjälpa fel i trefassystem.", "Kunskaper om säkerhetsfrågor och om bestämmelser och standarder inom elområdet." ]
+  } ],
+  "courses" : [ {
+    "name" : "Ellära 1",
+    "description" : "Kursen ellära 1 omfattar punkterna 2, 4–5 och 7 under rubriken Ämnets syfte.",
+    "code" : "ELLELL01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Ledare, halvledare och isolatorer.", "Elektriska storheter i lik- och enfasväxelströmskretsar.", "Grundläggande principer för motorer, generatorer och transformatorer samt för överföring av elenergi.", "Elektrisk serie och parallell koppling.", "Lik- och enfasväxelström.", "Elektriska och magnetiska fält.", "Elektromagnetisk kompabilitet (EMC), övertoner och faskompensering.", "Resistiva, induktiva och kapacitiva kretsar.", "Olika mättekniker samt metoder för att analysera mätvärden och utföra felsökning och felavhjälpning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för lik- och enfasväxelströmskretsars uppbyggnad och funktion samt för olika belastningars inverkan på kretsar och elsystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för lik- och enfasväxelströmskretsars uppbyggnad och funktion samt för olika belastningars inverkan på kretsar och elsystem.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för lik- och enfasväxelströmskretsars uppbyggnad och funktion samt för olika belastningars inverkan på kretsar och elsystem.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för lik- och enfasväxelströmskretsars uppbyggnad och funktion samt för olika belastningars inverkan på kretsar och elsystem."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare elektriska mätningar på lik- och enfasväxelströmskretsar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare elektriska mätningar på lik- och enfasväxelströmskretsar.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare elektriska mätningar på lik- och enfasväxelströmskretsar.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare elektriska mätningar på lik- och enfasväxelströmskretsar."
+        }
+      }, {
+        "text" : "Inför arbetet väljer eleven <strong>________</strong> lämpliga mätmetoder och mätinstrument.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Inför arbetet väljer eleven <strong>med viss säkerhet</strong> lämpliga mätmetoder och mätinstrument.",
+          "C" : "Inför arbetet väljer eleven <strong>med viss säkerhet</strong> lämpliga mätmetoder och mätinstrument.",
+          "A" : "Inför arbetet väljer eleven <strong>med säkerhet</strong> lämpliga mätmetoder och mätinstrument."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> riskbedömning och anpassar vid behov mätningen efter den.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> riskbedömning och anpassar vid behov mätningen efter den.",
+          "C" : "Dessutom gör eleven en riskbedömning och anpassar vid behov mätningen efter den.",
+          "A" : "Dessutom gör eleven en <strong>välgrundad</strong> riskbedömning och anpassar vid behov mätningen efter den."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare <strong>________</strong> beräkningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare <strong>enkla</strong> beräkningar.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare beräkningar.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare <strong>avancerade</strong> beräkningar."
+        }
+      }, {
+        "text" : "Utifrån resultaten av mätningarna och beräkningarna föreslår eleven <strong>________</strong> lämpliga åtgärder för att avhjälpa fel i elsystemet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Utifrån resultaten av mätningarna och beräkningarna föreslår eleven <strong>med viss säkerhet</strong> lämpliga åtgärder för att avhjälpa fel i elsystemet.",
+          "C" : "Utifrån resultaten av mätningarna och beräkningarna föreslår eleven <strong>med viss säkerhet</strong> lämpliga åtgärder för att avhjälpa fel i elsystemet.",
+          "A" : "Utifrån resultaten av mätningarna och beräkningarna föreslår eleven <strong>med säkerhet</strong> lämpliga åtgärder för att avhjälpa fel i elsystemet."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare dessa åtgärder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare dessa åtgärder.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare dessa åtgärder.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare dessa åtgärder."
+        }
+      }, {
+        "text" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet.",
+          "C" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet.",
+          "A" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Ellära 2",
+    "description" : "Kursen ellära 2 omfattar punkterna 3–4 och 6–7 under rubriken Ämnets syfte.",
+    "code" : "ELLELL02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Trefassystemets uppbyggnad och funktion från transformator till belastning.", "Resistiva, induktiva och kapacitiva kretsar i trefasnät.", "Skillnader mellan symmetrisk och osymmetrisk belastning.", "Trefasmotorers och trefastransformatorers funktion och påverkan i trefassystemet.", "Olika spänningssystems funktion inom distribution och industri.", "TN-C-systemets samt TN-S-systemets uppbyggnad, funktion och användning.", "Elektriska och magnetiska fälts uppkomst och verkan.", "Vagabonderande strömmars uppkomst och utbredning.", "Skyddsledarens funktion och verkan.", "Linjära och olinjära lasters verkan på uppkomsten av övertoner.", "Kraftelektroniska utrustningars användning och funktion.", "Filtrering, stabilisering och andra åtgärder för att minska ledningsburna störningar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för trefassystemets uppbyggnad och funktion samt för olika belastningars inverkan på elsystemet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för trefassystemets uppbyggnad och funktion samt för olika belastningars inverkan på elsystemet.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för trefassystemets uppbyggnad och funktion samt för olika belastningars inverkan på elsystemet.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för trefassystemets uppbyggnad och funktion samt för olika belastningars inverkan på elsystemet."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare elektriska mätningar på trefassystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare elektriska mätningar på trefassystem.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare elektriska mätningar på trefassystem.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare elektriska mätningar på trefassystem."
+        }
+      }, {
+        "text" : "Inför arbetet väljer eleven <strong>________</strong> lämpliga mätmetoder och mätinstrument.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Inför arbetet väljer eleven <strong>med viss säkerhet</strong> lämpliga mätmetoder och mätinstrument.",
+          "C" : "Inför arbetet väljer eleven <strong>med viss säkerhet</strong> lämpliga mätmetoder och mätinstrument.",
+          "A" : "Inför arbetet väljer eleven <strong>med säkerhet</strong> lämpliga mätmetoder och mätinstrument."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> riskbedömning och anpassar vid behov mätningen efter den.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> riskbedömning och anpassar vid behov mätningen efter den.",
+          "C" : "Dessutom gör eleven en riskbedömning och anpassar vid behov mätningen efter den.",
+          "A" : "Dessutom gör eleven en <strong>välgrundad</strong> riskbedömning och anpassar vid behov mätningen efter den."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare <strong>________</strong> beräkningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare <strong>enkla</strong> beräkningar.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare beräkningar.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare <strong>avancerade</strong> beräkningar."
+        }
+      }, {
+        "text" : "Utifrån resultaten av mätningarna och beräkningarna föreslår eleven <strong>________</strong> lämpliga åtgärder för att avhjälpa fel i elsystemet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Utifrån resultaten av mätningarna och beräkningarna föreslår eleven <strong>med viss säkerhet</strong> lämpliga åtgärder för att avhjälpa fel i elsystemet.",
+          "C" : "Utifrån resultaten av mätningarna och beräkningarna föreslår eleven <strong>med viss säkerhet</strong> lämpliga åtgärder för att avhjälpa fel i elsystemet.",
+          "A" : "Utifrån resultaten av mätningarna och beräkningarna föreslår eleven <strong>med säkerhet</strong> lämpliga åtgärder för att avhjälpa fel i elsystemet."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare dessa åtgärder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare dessa åtgärder.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare dessa åtgärder.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare dessa åtgärder."
+        }
+      }, {
+        "text" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet.",
+          "C" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet.",
+          "A" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Praktisk ellära",
+    "description" : "Kursen praktisk ellära omfattar punkterna 1–7 under rubriken Ämnets syfte.",
+    "code" : "ELLPRA0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Elsystemets uppbyggnad och funktion från transformator till belastning.", "Elektriskt material, till exempel ledare, halvledare och isolatorer.", "Elektriska storheter och samband.", "Likströmskretsars och enfasväxelströmskretsars funktion.", "Skillnader mellan symmetrisk och osymmetrisk belastning.", "Olika spänningssystems funktion inom distribution och industri.", "TN-C-systemets och TN-S-systemets uppbyggnad, funktion och användning.", "Elektriska och magnetiska fälts uppkomst och verkan.", "Vagabonderande strömmars uppkomst och utbredning.", "Skyddsledarens funktion och verkan.", "Övertonernas verkan på elnätet.", "Kraftelektroniska utrustningars användning och verkan på nätet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för elsystemets, lik- och enfasväxelströmskretsars och trefassystems uppbyggnad och funktion samt för olika belastningars inverkan på elsystemet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för elsystemets, lik- och enfasväxelströmskretsars och trefassystems uppbyggnad och funktion samt för olika belastningars inverkan på elsystemet.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för elsystemets, lik- och enfasväxelströmskretsars och trefassystems uppbyggnad och funktion samt för olika belastningars inverkan på elsystemet.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för elsystemets, lik- och enfasväxelströmskretsars och trefassystems uppbyggnad och funktion samt för olika belastningars inverkan på elsystemet."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare elektriska mätningar på elsystemet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare elektriska mätningar på elsystemet.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare elektriska mätningar på elsystemet.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare elektriska mätningar på elsystemet."
+        }
+      }, {
+        "text" : "Inför arbetet väljer eleven <strong>________</strong> lämpliga mätmetoder och mätinstrument.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Inför arbetet väljer eleven <strong>med viss säkerhet</strong> lämpliga mätmetoder och mätinstrument.",
+          "C" : "Inför arbetet väljer eleven <strong>med viss säkerhet</strong> lämpliga mätmetoder och mätinstrument.",
+          "A" : "Inför arbetet väljer eleven <strong>med säkerhet</strong> lämpliga mätmetoder och mätinstrument <strong>samt motiverar sina val</strong>."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> riskbedömning och anpassar vid behov mätningen efter den.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> riskbedömning och anpassar vid behov mätningen efter den.",
+          "C" : "Dessutom gör eleven en riskbedömning och anpassar vid behov mätningen efter den.",
+          "A" : "Dessutom gör eleven en <strong>välgrundad</strong> riskbedömning och anpassar vid behov mätningen efter den."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare <strong>________</strong> beräkningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare <strong>enkla</strong> beräkningar.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare beräkningar.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare <strong>avancerade</strong> beräkningar."
+        }
+      }, {
+        "text" : "Utifrån resultaten av mätningarna och beräkningarna föreslår eleven <strong>________</strong> lämpliga åtgärder för att avhjälpa fel i elsystemet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Utifrån resultaten av mätningarna och beräkningarna föreslår eleven <strong>med viss säkerhet</strong> lämpliga åtgärder för att avhjälpa fel i elsystemet.",
+          "C" : "Utifrån resultaten av mätningarna och beräkningarna föreslår eleven <strong>med viss säkerhet</strong> lämpliga åtgärder för att avhjälpa fel i elsystemet.",
+          "A" : "Utifrån resultaten av mätningarna och beräkningarna föreslår eleven <strong>med säkerhet</strong> lämpliga åtgärder för att avhjälpa fel i elsystemet."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare dessa åtgärder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare dessa åtgärder.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare dessa åtgärder.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare dessa åtgärder."
+        }
+      }, {
+        "text" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet.",
+          "C" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet.",
+          "A" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

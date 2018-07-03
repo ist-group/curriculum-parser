@@ -1,0 +1,257 @@
+{
+  "name" : "Sjöfartssäkerhet",
+  "description" : "Ämnet sjöfartssäkerhet behandlar den teknik och de metoder som används på fartyg för att förhindra och hantera nödsituationer ombord. Ämnet behandlar även arbetsmiljö och skydd av den marina miljön.",
+  "code" : "SJO",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet sjöfartssäkerhet ska syfta till att eleverna utvecklar förmåga att utföra säkerhets-, arbetsmiljö- och miljöskyddsarbete på fartyg.", "Den ska bidra till att eleverna utvecklar kunskaper om rederiers och fartygs säkerhetsorganisation.", "Dessa kunskaper är enligt nationella och internationella regler nödvändiga för tjänstgöring ombord på fartyg." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom praktiska övningar och ett undersökande arbetssätt tillsammans med teoretiska förklaringar ska eleverna ges möjlighet att utveckla kunskaper i ämnet.", "Med hjälp av tekniska och naturvetenskapliga begrepp och teorier analyseras och förklaras risker och nödsituationer.", "I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke.", "Dessa arbetsuppgifter ska utgå från ett problemlösande arbetssätt." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet sjöfartssäkerhet ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om lagar och andra bestämmelser som reglerar området.", "Kunskaper om säkerhets- och miljöskyddsorganisationen i rederier och på fartyg.", "Förståelse av arbetsmiljön och arbetsmiljöarbetet ombord på fartyg i handelsflottan.", "Kunskaper om konstruktioner och teknisk utrustning för säkerhet och miljöskydd på fartyg.", "Färdigheter i att använda nödutrustning och utföra nödåtgärder ombord på fartyg samt ge första hjälpen vid olycksfall.", "Förmåga att utföra säkerhets-, arbetsmiljö- och miljöskyddsarbete på fartyg.", "Förmåga att kommunicera och använda de termer och begrepp som används inom området." ]
+  } ],
+  "courses" : [ {
+    "name" : "Grundläggande säkerhet",
+    "description" : "Kursen grundläggande säkerhet omfattar punkterna 1–7 under rubriken Ämnets syfte, med särskild betoning på punkt 5. I kursen behandlas grundläggande kunskaper i ämnet. ",
+    "code" : "SJOGRN0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Överlevnadsteknik",
+      "lines" : [ "Nödsituationer till sjöss.", "Livräddningsutrustning ombord på fartyg.", "Livbåts- och livflotteutrustning.", "Personlig livräddningsutrustning.", "Överlevnadsmetoder.", "Handhavande av radioutrustning, pyrotekniska signaler, emergency position indicating radio beacon (EPIRB) och search and rescue transponder (SART)." ]
+    }, {
+      "heading" : "Brandskydd",
+      "lines" : [ "Grundläggande brandteori.", "Brandskyddsorganisationen ombord på fartyg.", "Brandskyddsutrustning, brand- och rökdetektorer samt automatiska brandlarm.", "Brandskyddsåtgärder på fartyg.", "Släckmedel och släckmetoder samt rökdykning." ]
+    }, {
+      "heading" : "Första hjälpen",
+      "lines" : [ "Kroppens uppbyggnad och funktioner.", "Lägesbedömning av olycksplats och skadade.", "Omedelbara åtgärder vid olycksfall, ABC-vård och HLR." ]
+    }, {
+      "heading" : "Nödåtgärder",
+      "lines" : [ "Nödrutiner ombord på fartyg.", "Nödsignaler, larmlistor, samlingsstationer och nödutgångar.", "Åtgärder vid nödsituationer och larm.", "Interna kommunikations- och alarmsystem.", "Värdet av utbildning och övningar." ]
+    }, {
+      "heading" : "Skydd av den marina miljön",
+      "lines" : [ "Sjöfartens påverkan på den marina miljön.", "Miljöskyddsåtgärder på fartyg.", "Hantering av farligt gods." ]
+    }, {
+      "heading" : "Personlig säkerhet",
+      "lines" : [ "Säkra arbetsprocedurer samt säkerhetsinstruktioner.", "Säkerhets- och skyddsutrustning.", "Skyddsåtgärder vid ingång i slutna utrymmen." ]
+    }, {
+      "heading" : "Relationer på arbetsplatsen",
+      "lines" : [ "Förutsättningar för och hinder mot god kommunikation mellan individer och grupper inom besättningen.", "Relationernas betydelse på arbetsplatsen.", "Grundläggande principer för samarbete och konfliktlösning.", "Anställningsvillkor, sjömäns rättigheter och skyldigheter, riskerna med alkohol- och drogmissbruk." ]
+    }, {
+      "heading" : "Åtgärder mot uttröttning",
+      "lines" : [ "Nödvändigheten av vila samt effekterna av sömnbrist och störd dygnsrytm.", "Arbetsscheman och effekterna av förändringar i dem.", "Effekterna av fysisk och psykisk stress." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> lagar och andra bestämmelser som styr säkerhet, miljöskydd och arbetsmiljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> lagar och andra bestämmelser som styr säkerhet, miljöskydd och arbetsmiljö.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> lagar och andra bestämmelser som styr säkerhet, miljöskydd och arbetsmiljö.",
+          "A" : "Eleven beskriver <strong>utförligt</strong> lagar och andra bestämmelser som styr säkerhet, miljöskydd och arbetsmiljö."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> rederiets och fartygets säkerhets- och miljöskyddsorganisation samt de säkerhets- och miljöskyddsuppgifter som utförs på handelsfartyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> rederiets och fartygets säkerhets- och miljöskyddsorganisation samt de säkerhets- och miljöskyddsuppgifter som utförs på handelsfartyg.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> rederiets och fartygets säkerhets- och miljöskyddsorganisation samt de säkerhets- och miljöskyddsuppgifter som utförs på handelsfartyg.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> rederiets och fartygets säkerhets- och miljöskyddsorganisation samt de säkerhets- och miljöskyddsuppgifter som utförs på handelsfartyg."
+        }
+      }, {
+        "text" : "Vidare beskriver eleven <strong>________</strong> fartygets tekniska utrustning för säkerhet och miljöskydd.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare beskriver eleven <strong>översiktligt</strong> fartygets tekniska utrustning för säkerhet och miljöskydd.",
+          "C" : "Vidare beskriver eleven <strong>utförligt</strong> fartygets tekniska utrustning för säkerhet och miljöskydd.",
+          "A" : "Vidare beskriver eleven <strong>utförligt och nyanserat</strong> fartygets tekniska utrustning för säkerhet och miljöskydd."
+        }
+      }, {
+        "text" : "Eleven diskuterar <strong>________</strong> risker med drogmissbruk och uttröttning samt gör <strong>________</strong> riskbedömningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> risker med drogmissbruk och uttröttning samt gör <strong>enkla</strong> riskbedömningar.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> risker med drogmissbruk och uttröttning samt gör riskbedömningar.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat</strong> risker med drogmissbruk och uttröttning samt gör <strong>välgrundade</strong> riskbedömningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare arbetsuppgifter i samband med säkerhets-, miljöskydds- och arbetsmiljöarbetet på fartyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare arbetsuppgifter i samband med säkerhets-, miljöskydds- och arbetsmiljöarbetet på fartyg.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare arbetsuppgifter i samband med säkerhets-, miljöskydds- och arbetsmiljöarbetet på fartyg.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare arbetsuppgifter i samband med säkerhets-, miljöskydds- och arbetsmiljöarbetet på fartyg."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> den utrustning och de verktyg som är lämpliga för arbetsuppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>i enkla situationer</strong> den utrustning och de verktyg som är lämpliga för arbetsuppgiften.",
+          "C" : "I arbetet använder eleven den utrustning och de verktyg som är lämpliga för arbetsuppgiften.",
+          "A" : "I arbetet använder eleven <strong>i komplexa situationer</strong> den utrustning och de verktyg som är lämpliga för arbetsuppgiften."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven genomför <strong>________</strong> sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven genomför <strong>med viss säkerhet</strong> sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner.",
+          "C" : "Eleven genomför <strong>med viss säkerhet</strong> sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner.",
+          "A" : "Eleven genomför <strong>med säkerhet</strong> sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner."
+        }
+      }, {
+        "text" : "I arbetet samarbetar och kommunicerar eleven <strong>________</strong> med andra för att utföra olika uppgifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet samarbetar och kommunicerar eleven <strong>med viss säkerhet</strong> med andra för att utföra olika uppgifter.",
+          "C" : "I arbetet samarbetar och kommunicerar eleven <strong>med viss säkerhet</strong> med andra för att utföra olika uppgifter.",
+          "A" : "I arbetet samarbetar och kommunicerar eleven <strong>med säkerhet</strong> med andra för att utföra olika uppgifter."
+        }
+      }, {
+        "text" : "I kommunikationen använder eleven <strong>________</strong> termer och begrepp som är relevanta för området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.",
+          "C" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.",
+          "A" : "I kommunikationen använder eleven <strong>med säkerhet</strong> termer och begrepp som är relevanta för området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Säkerhet och miljö",
+    "description" : "Kursen säkerhet och miljö omfattar punkterna 1–7 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet. ",
+    "code" : "SJOSAE0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Säkerhets- och miljöskyddsorganisation",
+      "lines" : [ "Rederiers och fartygs säkerhets- och miljöskyddsorganisation.", "Systematiskt säkerhetsarbete på fartyg." ]
+    }, {
+      "heading" : "Personlig säkerhet",
+      "lines" : [ "Elektriska, mekaniska, kemiska och biologiska risker.", "Fartygs säkerhetsinstruktioner.", "Tillverkares säkerhetsinstruktioner.", "Tillstånd och checklistor för farliga arbeten.", "Personlig skyddsutrustning.", "Arbete på hög höjd och på fartygets utsida.", "Arbete i slutna utrymmen.", "Ergonomi, till exempel vid lyft." ]
+    }, {
+      "heading" : "Miljöskyddsarbete på fartyg",
+      "lines" : [ "Åtgärder för att förebygga förorening av den marina miljön.", "Utrustning för att förhindra förorening.", "Metoder för avfallshantering på fartyg." ]
+    }, {
+      "heading" : "Räddningsfarkoster och beredskapsbåtar",
+      "lines" : [ "Handhavande av räddningsfarkoster och beredskapsbåtar under och efter sjösättning.", "Drift och skötsel av räddningsfarkosters motorer.", "Omhändertagande av överlevande.", "Handhavande av lokaliseringsutrustning, radioutrustning och pyrotekniska signaler.", "Handhavande av räddningsfarkoster efter övergivande av fartyget.", "VHF-telefoni." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> lagar och andra bestämmelser som styr säkerhet, miljöskydd och arbetsmiljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> lagar och andra bestämmelser som styr säkerhet, miljöskydd och arbetsmiljö.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> lagar och andra bestämmelser som styr säkerhet, miljöskydd och arbetsmiljö.",
+          "A" : "Eleven beskriver <strong>utförligt</strong> lagar och andra bestämmelser som styr säkerhet, miljöskydd och arbetsmiljö."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> rederiets och fartygets säkerhets- och miljöskyddsorganisation samt de säkerhets- och miljöskyddsuppgifter som utförs på handelsfartyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> rederiets och fartygets säkerhets- och miljöskyddsorganisation samt de säkerhets- och miljöskyddsuppgifter som utförs på handelsfartyg.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> rederiets och fartygets säkerhets- och miljöskyddsorganisation samt de säkerhets- och miljöskyddsuppgifter som utförs på handelsfartyg.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> rederiets och fartygets säkerhets- och miljöskyddsorganisation samt de säkerhets- och miljöskyddsuppgifter som utförs på handelsfartyg."
+        }
+      }, {
+        "text" : "Vidare beskriver eleven <strong>________</strong> fartygets tekniska utrustning för säkerhet och miljöskydd.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare beskriver eleven <strong>översiktligt</strong> fartygets tekniska utrustning för säkerhet och miljöskydd.",
+          "C" : "Vidare beskriver eleven <strong>utförligt</strong> fartygets tekniska utrustning för säkerhet och miljöskydd.",
+          "A" : "Vidare beskriver eleven <strong>utförligt och nyanserat</strong> fartygets tekniska utrustning för säkerhet och miljöskydd."
+        }
+      }, {
+        "text" : "Eleven diskuterar <strong>________</strong> risker samt gör <strong>________</strong> riskbedömningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> risker samt gör <strong>enkla</strong> riskbedömningar.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> risker samt gör riskbedömningar.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat</strong> risker samt gör <strong>välgrundade</strong> riskbedömningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare arbetsuppgifter i samband med säkerhets-, miljöskydds- och arbetsmiljöarbetet på fartyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare arbetsuppgifter i samband med säkerhets-, miljöskydds- och arbetsmiljöarbetet på fartyg.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare arbetsuppgifter i samband med säkerhets-, miljöskydds- och arbetsmiljöarbetet på fartyg.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare arbetsuppgifter i samband med säkerhets-, miljöskydds- och arbetsmiljöarbetet på fartyg."
+        }
+      }, {
+        "text" : "I arbetet väljer och använder eleven <strong>________</strong> den utrustning och de verktyg som är lämpliga för arbetsuppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet väljer och använder eleven <strong>i enkla situationer</strong> den utrustning och de verktyg som är lämpliga för arbetsuppgiften.",
+          "C" : "I arbetet väljer och använder eleven den utrustning och de verktyg som är lämpliga för arbetsuppgiften.",
+          "A" : "I arbetet väljer och använder eleven <strong>i komplexa situationer</strong> den utrustning och de verktyg som är lämpliga för arbetsuppgiften."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven genomför <strong>________</strong> sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner samt tar ansvar för materiella värden samt för egen och andras säkerhet ombord.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven genomför <strong>med viss säkerhet</strong> sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner samt tar ansvar för materiella värden samt för egen och andras säkerhet ombord.",
+          "C" : "Eleven genomför <strong>med viss säkerhet</strong> sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner samt tar ansvar för materiella värden samt för egen och andras säkerhet ombord.",
+          "A" : "Eleven genomför <strong>med säkerhet</strong> sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner samt tar ansvar för materiella värden samt för egen och andras säkerhet ombord."
+        }
+      }, {
+        "text" : "I arbetet kommunicerar och samarbetar eleven <strong>________</strong> med andra för att utföra olika uppgifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet kommunicerar och samarbetar eleven <strong>med viss säkerhet</strong> med andra för att utföra olika uppgifter.",
+          "C" : "I arbetet kommunicerar och samarbetar eleven <strong>med viss säkerhet</strong> med andra för att utföra olika uppgifter.",
+          "A" : "I arbetet kommunicerar och samarbetar eleven <strong>med säkerhet</strong> med andra för att utföra olika uppgifter."
+        }
+      }, {
+        "text" : "I kommunikationen använder eleven <strong>________</strong> termer och begrepp som är relevanta för området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.",
+          "C" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.",
+          "A" : "I kommunikationen använder eleven <strong>med säkerhet</strong> termer och begrepp som är relevanta för området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  } ]
+}

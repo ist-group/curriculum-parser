@@ -1,0 +1,585 @@
+{
+  "name" : "Godshantering",
+  "description" : "Ämnet godshantering behandlar godshantering med hjälp av truckar, maskiner och olika typer av lastbärare. Det behandlar också lastning, lossning och lastsäkring av gods samt lagar och andra bestämmelser som reglerar yrkesmässig godshantering.",
+  "code" : "GOD",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet godshantering ska syfta till att eleverna utvecklar förmåga att framföra truckar och maskiner för godshantering.", "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om den utrustning som används för godshantering samt förmåga att använda rätt utrustning för olika typer av godshantering.", "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om olika typer av lastbärare och deras användningsområden.", "Den ska också leda till att eleverna utvecklar kunskaper om förutsättningarna för hantering av gods i olika typer av lastbärare.", "Dessutom ska eleverna ges möjlighet att utveckla förmåga att arbeta utifrån krav på säkerhet, kvalitet och miljö." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som är konstruerade så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke.", "Dessa arbetsuppgifter ska utgå från ett problemlösande och laborativt arbetssätt." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet godshantering ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om olika typer av lastbärare, godsmärkning och symboler.", "Kunskaper om olika typer av fraktdokument.", "Förmåga att framföra truckar och arbetsmaskiner i skiftande miljöer samt att utföra olika arbeten inom godshantering.", "Förmåga att använda tillsatsaggregat och övrig godshanteringsutrustning kopplad till truckar och arbetsmaskiner.", "Förmåga att använda lastsäkrings- och lyftutrustning samt att utföra lastsäkring av olika typer av gods.", "Förmåga att utföra olika typer av beräkningar i samband med hantering av truckar, arbetsredskap, lastbärare och gods samt vid lastsäkring.", "Förmåga att arbeta på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten." ]
+  } ],
+  "courses" : [ {
+    "name" : "Godshantering – vux",
+    "description" : "Kursen godshantering – vux omfattar punkterna 1 och 3–7 under rubriken Ämnets syfte.",
+    "code" : "GODGOD1",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Kapacitet hos lyftredskap.", "Tillsatsaggregat och bakgavellyft.", "Godsmärkning och symboler på gods som visar föraren hur godset ska hanteras, till exempel godstyngdpunkt, hanteras varsamt, denna sida upp, och slingas här.", "Farligt gods och risker i samband med hantering av farligt gods.", "Körning och manövrering av truckar och hjullastare samt lastbilsmonterad kran.", "Hantering av gods med truck.", "Hantering av gods med hjullastare.", "Hantering av gods med lastbilsmonterad kran.", "Hantering och byte av redskap för olika användningsområden.", "Lyftmetoder, staplingsmetoder och förankringsmetoder.", "Tyngdpunktsberäkning för lastning, stapling och hantering av gods.", "Uppställningsstabilitet och belastning vid lyftmoment för lastning och lossning av gods.", "Hantering av olika typer av lastbärare, till exempel EUR-pallen, burar och IBC-behållare.", "Metoder och regler för teckengivning.", "Lagar och andra bestämmelser som reglerar lyft och hantering av gods med truck, hjullastare och lastbilsmonterad kran." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> styrkan på olika lyftredskap, deras användningsområden samt lyft- och staplingsmetoder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> styrkan på olika lyftredskap, deras användningsområden samt lyft- och staplingsmetoder.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> styrkan på olika lyftredskap, deras användningsområden samt lyft- och staplingsmetoder.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> styrkan på olika lyftredskap, deras användningsområden samt lyft- och staplingsmetoder."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> olika tillsatsaggregats uppbyggnad och funktion samt hur godsets tyngdpunkt påverkar maskinens stabilitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> olika tillsatsaggregats uppbyggnad och funktion samt hur godsets tyngdpunkt påverkar maskinens stabilitet.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> olika tillsatsaggregats uppbyggnad och funktion samt hur godsets tyngdpunkt påverkar maskinens stabilitet.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> olika tillsatsaggregats uppbyggnad och funktion samt hur godsets tyngdpunkt påverkar maskinens stabilitet."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> olika symboler för godsmärkning samt metoder och regler för teckengivning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> olika symboler för godsmärkning samt metoder och regler för teckengivning.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> olika symboler för godsmärkning samt metoder och regler för teckengivning.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt</strong> olika symboler för godsmärkning samt metoder och regler för teckengivning."
+        }
+      }, {
+        "text" : "Eleven redogör även <strong>________</strong> för de krav som ställs för märkning och hantering av farligt gods och ger <strong>________</strong> exempel på risker i denna hantering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör även <strong>översiktligt</strong> för de krav som ställs för märkning och hantering av farligt gods och ger <strong>enkla</strong> exempel på risker i denna hantering.",
+          "C" : "Eleven redogör även <strong>utförligt</strong> för de krav som ställs för märkning och hantering av farligt gods och ger <strong>välgrundade</strong> exempel på risker i denna hantering.",
+          "A" : "Eleven redogör även <strong>utförligt och nyanserat</strong> för de krav som ställs för märkning och hantering av farligt gods och ger <strong>välgrundade och nyanserade</strong> exempel på risker i denna hantering."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven hanterar <strong>________</strong> och i bekanta situationer olika typer av gods med hjälp av truck, hjullastare och kran.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar <strong>med viss säkerhet</strong> och i bekanta situationer olika typer av gods med hjälp av truck, hjullastare och kran.",
+          "C" : "Eleven hanterar <strong>med viss säkerhet</strong> och i bekanta <strong>och delvis nya</strong> situationer olika typer av gods med hjälp av truck, hjullastare och kran.",
+          "A" : "Eleven hanterar <strong>med säkerhet</strong> och i bekanta <strong>och nya</strong> situationer olika typer av gods med hjälp av truck, hjullastare och kran."
+        }
+      }, {
+        "text" : "Eleven manövrerar i bekanta situationer truckar och maskiner med redskap samt utför <strong>________</strong> med handledare säkerhetskontroller på fordon och lyftutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven manövrerar i bekanta situationer truckar och maskiner med redskap samt utför <strong>i samråd</strong> med handledare säkerhetskontroller på fordon och lyftutrustning.",
+          "C" : "Eleven manövrerar i bekanta <strong>och delvis nya</strong> situationer truckar och maskiner med redskap samt utför <strong>efter samråd</strong> med handledare säkerhetskontroller på fordon och lyftutrustning.",
+          "A" : "Eleven manövrerar i bekanta <strong>och nya</strong> situationer truckar och maskiner med redskap samt utför <strong>efter samråd</strong> med handledare säkerhetskontroller på fordon och lyftutrustning."
+        }
+      }, {
+        "text" : "I arbetet utför eleven <strong>________</strong> med handledare <strong>________</strong> beräkningar av godsvikt, tyngdpunkt och lyftredskapets kapacitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet utför eleven <strong>i samråd</strong> med handledare <strong>enkla</strong> beräkningar av godsvikt, tyngdpunkt och lyftredskapets kapacitet.",
+          "C" : "I arbetet utför eleven <strong>efter samråd</strong> med handledare beräkningar av godsvikt, tyngdpunkt och lyftredskapets kapacitet.",
+          "A" : "I arbetet utför eleven <strong>efter samråd</strong> med handledare <strong>avancerade</strong> beräkningar av godsvikt, tyngdpunkt och lyftredskapets kapacitet."
+        }
+      }, {
+        "text" : "Dessutom hanterar eleven <strong>________</strong> emballage och lastbärare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom hanterar eleven <strong>med viss säkerhet</strong> emballage och lastbärare.",
+          "C" : "Dessutom hanterar eleven <strong>med viss säkerhet</strong> emballage och lastbärare.",
+          "A" : "Dessutom hanterar eleven <strong>med säkerhet</strong> emballage och lastbärare."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar utifrån de krav på säkerhet som reglerar arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar utifrån de krav på säkerhet som reglerar arbetet.",
+          "C" : "Eleven arbetar utifrån de krav på säkerhet som reglerar arbetet.",
+          "A" : "Eleven arbetar utifrån de krav på säkerhet som reglerar arbetet."
+        }
+      }, {
+        "text" : "Dessutom tar eleven ansvar för kundens egendom samt för lokaler och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom tar eleven ansvar för kundens egendom samt för lokaler och utrustning.",
+          "C" : "Dessutom tar eleven ansvar för kundens egendom samt för lokaler och utrustning.",
+          "A" : "Dessutom tar eleven ansvar för kundens egendom samt för lokaler och utrustning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar för att nå planerade resultat.",
+          "C" : "Eleven samarbetar <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+          "A" : "Eleven samarbetar <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Hantering av varor och gods",
+    "description" : "Kursen hantering av varor och gods omfattar punkterna 1–5 och 7 under rubriken Ämnets syfte.",
+    "code" : "GODHAT0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Begrepp och terminologi i fråga om transporthandlingar.", "Klassning och identifiering av gods.", "Lastning, lossning och hantering av olika varor och gods med hjälp av de maskiner och den utrustning som krävs.", "Risker med olika ämnen vid hantering av gods.", "Märkning och etikettering på emballage och förpackningar förknippade med hantering av gods.", "Arbetsmetoder och principer för lastning och lossning av gods efter genomförd riskbedömning.", "Särskilda krav på förpackningar och emballage.", "Godsskyddande åtgärder i samband med transport. Separationskrav och särskild hanteringsutrustning.", "Säkerhetsåtgärder och användning av föreskriven skyddsutrustning enligt transportkort och resultat av riskbedömningar.", "Brandskydd, första hjälpen och åtgärder vid olycka." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> olika <strong>________</strong> situationer i samband med godsskyddande åtgärder, märkning och etikettering av gods samt transporthandlingar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> olika <strong>enkla</strong> situationer i samband med godsskyddande åtgärder, märkning och etikettering av gods samt transporthandlingar.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> olika situationer i samband med godsskyddande åtgärder, märkning och etikettering av gods samt transporthandlingar.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> olika <strong>komplexa</strong> situationer i samband med godsskyddande åtgärder, märkning och etikettering av gods samt transporthandlingar."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> regelverket för transport, klassning och identifiering av gods.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> regelverket för transport, klassning och identifiering av gods.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> regelverket för transport, klassning och identifiering av gods.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> regelverket för transport, klassning och identifiering av gods."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven framför truckar och arbetsmaskiner samt lastar, lossar och hanterar <strong>________</strong> med handledare och i bekanta situationer olika typer av varor och gods enligt praxis.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven framför truckar och arbetsmaskiner samt lastar, lossar och hanterar <strong>i samråd</strong> med handledare och i bekanta situationer olika typer av varor och gods enligt praxis.",
+          "C" : "Eleven framför truckar och arbetsmaskiner samt lastar, lossar och hanterar <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer olika typer av varor och gods enligt praxis.",
+          "A" : "Eleven framför truckar och arbetsmaskiner samt lastar, lossar och hanterar <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer olika typer av varor och gods enligt praxis."
+        }
+      }, {
+        "text" : "Eleven hanterar också i bekanta situationer gods utifrån risker, märkning och etikettering på emballage och förpackningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar också i bekanta situationer gods utifrån risker, märkning och etikettering på emballage och förpackningar.",
+          "C" : "Eleven hanterar också i bekanta <strong>och delvis nya</strong> situationer gods utifrån risker, märkning och etikettering på emballage och förpackningar.",
+          "A" : "Eleven hanterar också i bekanta <strong>och nya</strong> situationer gods utifrån risker, märkning och etikettering på emballage och förpackningar."
+        }
+      }, {
+        "text" : "Dessutom lastar och lossar eleven <strong>________</strong> med handledare gods enligt de regler som finns inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom lastar och lossar eleven <strong>i samråd</strong> med handledare gods enligt de regler som finns inom området.",
+          "C" : "Dessutom lastar och lossar eleven <strong>efter samråd</strong> med handledare gods enligt de regler som finns inom området.",
+          "A" : "Dessutom lastar och lossar eleven <strong>efter samråd</strong> med handledare gods enligt de regler som finns inom området."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> transporthandlingar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> transporthandlingar.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> transporthandlingar.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> transporthandlingar."
+        }
+      }, {
+        "text" : "Dessutom väljer eleven i bekanta situationer förpackningar och emballage för olika gods.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom väljer eleven i bekanta situationer förpackningar och emballage för olika gods.",
+          "C" : "Dessutom väljer eleven i bekanta <strong>och delvis nya</strong> situationer förpackningar och emballage för olika gods.",
+          "A" : "Dessutom väljer eleven i bekanta <strong>och nya</strong> situationer förpackningar och emballage för olika gods."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven vidtar föreskrivna säkerhetsåtgärder och använder skyddsutrustning samt arbetar utifrån de krav på säkerhet som reglerar arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven vidtar föreskrivna säkerhetsåtgärder och använder skyddsutrustning samt arbetar utifrån de krav på säkerhet som reglerar arbetet.",
+          "C" : "Eleven vidtar föreskrivna säkerhetsåtgärder och använder skyddsutrustning samt arbetar utifrån de krav på säkerhet som reglerar arbetet.",
+          "A" : "Eleven vidtar föreskrivna säkerhetsåtgärder och använder skyddsutrustning samt arbetar utifrån de krav på säkerhet som reglerar arbetet."
+        }
+      }, {
+        "text" : "Dessutom tar eleven ansvar för kundens egendom samt för lokaler och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom tar eleven ansvar för kundens egendom samt för lokaler och utrustning.",
+          "C" : "Dessutom tar eleven ansvar för kundens egendom samt för lokaler och utrustning.",
+          "A" : "Dessutom tar eleven ansvar för kundens egendom samt för lokaler och utrustning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar för att nå planerade resultat.",
+          "C" : "Eleven samarbetar <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+          "A" : "Eleven samarbetar <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Lastbärare",
+    "description" : "Kursen lastbärare omfattar punkterna 1 och 3–7 under rubriken Ämnets syfte.",
+    "code" : "GODLAS0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika lastbärares uppbyggnad och lastförutsättningar.", "Begrepp och terminologi inom godshantering för vägtrafik, järnväg, flyg, kombitrafik och för ro-ro-trafik.", "Funktion hos, användning och användningsområde för förekommande utrustning för lastsäkring och kapacitetsmärkning.", "Metoder och hanteringsprinciper för lastning och lossning av olika lastbärare.", "Hantering av olika typer av lastbärare.", "Säkring av lastbärare vid lastning och lossning.", "Lastsäkring av olika typer av gods i olika typer av lastbärare, inklusive beräkningsmetoder och arbetsmetoder.", "Förutsättningar som påverkar vidare transport med olika transportslag vid omlastning.", "Regler för och hantering av gasade lastbärare." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> olika lastbärares uppbyggnad, funktion och lastningsförutsättningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> olika lastbärares uppbyggnad, funktion och lastningsförutsättningar.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> olika lastbärares uppbyggnad, funktion och lastningsförutsättningar.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> olika lastbärares uppbyggnad, funktion och lastningsförutsättningar."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> regler och förutsättningar för lastning och lossning av lastbärare samt hur krav på lastsäkring uppfylls med olika typer av lastsäkringsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> regler och förutsättningar för lastning och lossning av lastbärare samt hur krav på lastsäkring uppfylls med olika typer av lastsäkringsutrustning.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> regler och förutsättningar för lastning och lossning av lastbärare samt hur krav på lastsäkring uppfylls med olika typer av lastsäkringsutrustning.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> regler och förutsättningar för lastning och lossning av lastbärare samt hur krav på lastsäkring uppfylls med olika typer av lastsäkringsutrustning."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> olika lastsäkringsmetoder och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> olika lastsäkringsmetoder och utrustning.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> olika lastsäkringsmetoder och utrustning.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> olika lastsäkringsmetoder och utrustning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven framför truckar och arbetsmaskiner samt genomför <strong>________</strong> lastning och lossning av olika typer av lastbärare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven framför truckar och arbetsmaskiner samt genomför <strong>enkel</strong> lastning och lossning av olika typer av lastbärare.",
+          "C" : "Eleven framför truckar och arbetsmaskiner samt genomför lastning och lossning av olika typer av lastbärare.",
+          "A" : "Eleven framför truckar och arbetsmaskiner samt genomför <strong>avancerad</strong> lastning och lossning av olika typer av lastbärare."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare lastsäkring i lastbärare och använder i bekanta situationer utrustning och övriga hjälpmedel enligt praxis.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare lastsäkring i lastbärare och använder i bekanta situationer utrustning och övriga hjälpmedel enligt praxis.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare lastsäkring i lastbärare och använder i bekanta <strong>och delvis nya</strong> situationer utrustning och övriga hjälpmedel enligt praxis.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare lastsäkring i lastbärare och använder i bekanta <strong>och nya</strong> situationer utrustning och övriga hjälpmedel enligt praxis."
+        }
+      }, {
+        "text" : "I arbetet utför eleven <strong>________</strong> med handledare <strong>________</strong> beräkningar i samband med lastning, lastsäkring och lossning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet utför eleven <strong>i samråd</strong> med handledare <strong>enkla</strong> beräkningar i samband med lastning, lastsäkring och lossning.",
+          "C" : "I arbetet utför eleven <strong>efter samråd</strong> med handledare beräkningar i samband med lastning, lastsäkring och lossning.",
+          "A" : "I arbetet utför eleven <strong>efter samråd</strong> med handledare <strong>avancerade</strong> beräkningar i samband med lastning, lastsäkring och lossning."
+        }
+      }, {
+        "text" : "Dessutom arbetar eleven i bekanta situationer utifrån förutsättningar som påverkar vidare transport med olika transportslag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom arbetar eleven i bekanta situationer utifrån förutsättningar som påverkar vidare transport med olika transportslag.",
+          "C" : "Dessutom arbetar eleven i bekanta <strong>och delvis nya</strong> situationer utifrån förutsättningar som påverkar vidare transport med olika transportslag.",
+          "A" : "Dessutom arbetar eleven i bekanta <strong>och nya</strong> situationer utifrån förutsättningar som påverkar vidare transport med olika transportslag."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar utifrån de krav på säkerhet som reglerar arbetet samt utifrån lagar och andra bestämmelser som styr arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar utifrån de krav på säkerhet som reglerar arbetet samt utifrån lagar och andra bestämmelser som styr arbetet.",
+          "C" : "Eleven arbetar utifrån de krav på säkerhet som reglerar arbetet samt utifrån lagar och andra bestämmelser som styr arbetet.",
+          "A" : "Eleven arbetar utifrån de krav på säkerhet som reglerar arbetet samt utifrån lagar och andra bestämmelser som styr arbetet."
+        }
+      }, {
+        "text" : "Dessutom tar eleven ansvar för kundens egendom samt för lokaler och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom tar eleven ansvar för kundens egendom samt för lokaler och utrustning.",
+          "C" : "Dessutom tar eleven ansvar för kundens egendom samt för lokaler och utrustning.",
+          "A" : "Dessutom tar eleven ansvar för kundens egendom samt för lokaler och utrustning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar för att nå planerade resultat.",
+          "C" : "Eleven samarbetar <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+          "A" : "Eleven samarbetar <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Maskinell godshantering",
+    "description" : "Kursen maskinell godshantering omfattar punkterna 1–7 under rubriken Ämnets syfte.",
+    "code" : "GODMAL0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Kapacitet hos lyftredskap.", "Tillsatsaggregat och bakgavellyft.", "Fraktdokument och godshandlingar.", "Kapacitetsskyltar och märkning på truckar och maskiner.", "Godsmärkning och symboler på gods som visar föraren hur godset ska hanteras, till exempel godstyngdpunkt, hanteras varsamt, denna sida upp, och slingas här.", "Körning och manövrering av lättare truckar och maskiner, till exempel hjullastare.", "Hantering och byte av redskap för olika användningsområden.", "Lyftmetoder, staplingsmetoder och förankringsmetoder.", "Uppställningsstabilitet och belastning vid lyftmoment för lastning och lossning av gods.", "Tyngdpunktsberäkning för lastning, stapling och hantering av gods.", "Lyftdiagram.", "Hantering av olika typer av lastbärare, till exempel EUR-pallen, burar och IBC-behållare.", "Aktivt arbete med säkerhetsrutiner.", "Metoder och regler för teckengivning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> styrkan på olika lyftredskap, deras användningsområden samt lyft- och staplingsmetoder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> styrkan på olika lyftredskap, deras användningsområden samt lyft- och staplingsmetoder.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> styrkan på olika lyftredskap, deras användningsområden samt lyft- och staplingsmetoder.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> styrkan på olika lyftredskap, deras användningsområden samt lyft- och staplingsmetoder."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> olika tillsatsaggregats uppbyggnad och funktion samt hur godsets tyngdpunkt påverkar maskinens stabilitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> olika tillsatsaggregats uppbyggnad och funktion samt hur godsets tyngdpunkt påverkar maskinens stabilitet.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> olika tillsatsaggregats uppbyggnad och funktion samt hur godsets tyngdpunkt påverkar maskinens stabilitet.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> olika tillsatsaggregats uppbyggnad och funktion samt hur godsets tyngdpunkt påverkar maskinens stabilitet."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> metoder och regler för teckengivning, innehållet i fraktdokument och godshandlingar samt olika symboler för godsmärkning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> metoder och regler för teckengivning, innehållet i fraktdokument och godshandlingar samt olika symboler för godsmärkning.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> metoder och regler för teckengivning, innehållet i fraktdokument och godshandlingar samt olika symboler för godsmärkning.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> metoder och regler för teckengivning, innehållet i fraktdokument och godshandlingar samt olika symboler för godsmärkning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven manövrerar i bekanta situationer lättare truckar och maskiner med redskap samt utför <strong>________</strong> med handledare säkerhetskontroller på fordon och lyftutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven manövrerar i bekanta situationer lättare truckar och maskiner med redskap samt utför <strong>i samråd</strong> med handledare säkerhetskontroller på fordon och lyftutrustning.",
+          "C" : "Eleven manövrerar i bekanta <strong>och delvis nya</strong> situationer lättare truckar och maskiner med redskap samt utför <strong>efter samråd</strong> med handledare säkerhetskontroller på fordon och lyftutrustning.",
+          "A" : "Eleven manövrerar i bekanta <strong>och nya</strong> situationer lättare truckar och maskiner med redskap samt utför <strong>efter samråd</strong> med handledare säkerhetskontroller på fordon och lyftutrustning."
+        }
+      }, {
+        "text" : "Dessutom hanterar eleven i bekanta situationer lastmaskiner för mottagande och lastning av godsslag för lagerhantering eller godstransport.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom hanterar eleven i bekanta situationer lastmaskiner för mottagande och lastning av godsslag för lagerhantering eller godstransport.",
+          "C" : "Dessutom hanterar eleven i bekanta <strong>och delvis nya</strong> situationer lastmaskiner för mottagande och lastning av godsslag för lagerhantering eller godstransport.",
+          "A" : "Dessutom hanterar eleven i bekanta <strong>och nya</strong> situationer lastmaskiner för mottagande och lastning av godsslag för lagerhantering eller godstransport."
+        }
+      }, {
+        "text" : "I arbetet utför eleven <strong>________</strong> med handledare <strong>________</strong> beräkningar av godsvikt, tyngdpunkt och lyftredskapets kapacitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet utför eleven <strong>i samråd</strong> med handledare <strong>enkla</strong> beräkningar av godsvikt, tyngdpunkt och lyftredskapets kapacitet.",
+          "C" : "I arbetet utför eleven <strong>efter samråd</strong> med handledare beräkningar av godsvikt, tyngdpunkt och lyftredskapets kapacitet.",
+          "A" : "I arbetet utför eleven <strong>efter samråd</strong> med handledare <strong>avancerade</strong> beräkningar av godsvikt, tyngdpunkt och lyftredskapets kapacitet."
+        }
+      }, {
+        "text" : "Dessutom hanterar eleven <strong>________</strong> emballage och lastbärare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom hanterar eleven <strong>med viss säkerhet</strong> emballage och lastbärare.",
+          "C" : "Dessutom hanterar eleven <strong>med viss säkerhet</strong> emballage och lastbärare.",
+          "A" : "Dessutom hanterar eleven <strong>med säkerhet</strong> emballage och lastbärare."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar utifrån de krav på säkerhet som reglerar arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar utifrån de krav på säkerhet som reglerar arbetet.",
+          "C" : "Eleven arbetar utifrån de krav på säkerhet som reglerar arbetet.",
+          "A" : "Eleven arbetar utifrån de krav på säkerhet som reglerar arbetet."
+        }
+      }, {
+        "text" : "Dessutom tar eleven ansvar för kundens egendom samt för lokaler och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom tar eleven ansvar för kundens egendom samt för lokaler och utrustning.",
+          "C" : "Dessutom tar eleven ansvar för kundens egendom samt för lokaler och utrustning.",
+          "A" : "Dessutom tar eleven ansvar för kundens egendom samt för lokaler och utrustning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar för att nå planerade resultat.",
+          "C" : "Eleven samarbetar <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+          "A" : "Eleven samarbetar <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Tunga arbetsmaskiner",
+    "description" : "Kursen tunga arbetsmaskiner omfattar punkterna 1–7 under rubriken Ämnets syfte.",
+    "code" : "GODTUN0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Fraktdokument och godshandlingar.", "Godsmärkning och symboler på gods som visar föraren hur godset ska hanteras, till exempel godstyngdpunkt, hanteras varsamt, denna sida upp och slingas här.", "Särskilda risker förknippade med tunga arbetsmaskiner.", "Metoder och regler för teckengivning och radiodirigering vid till exempel lyft där föraren själv inte ser hela arbetsområdet.", "Körning och manövrering av tunga truckar och maskiner som används vid godshantering, till exempel tung motviktstruck, containertruck och timmertruck.", "Hantering och byte av redskap för olika användningsområden.", "Lyftmetoder, staplingsmetoder och förankringsmetoder för containrar, trailrar och flak.", "Tyngdpunktsberäkning för lastning, stapling och hantering av gods.", "Stabilitet och marktrycksbegränsningar vid hantering av tungt gods.", "Aktivt arbete med säkerhetsrutiner." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> styrkan på olika lyftredskap, deras användningsområden samt lyft- och staplingsmetoder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> styrkan på olika lyftredskap, deras användningsområden samt lyft- och staplingsmetoder.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> styrkan på olika lyftredskap, deras användningsområden samt lyft- och staplingsmetoder.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> styrkan på olika lyftredskap, deras användningsområden samt lyft- och staplingsmetoder."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> olika tillsatsaggregats uppbyggnad och funktion samt hur godsets tyngdpunkt påverkar maskinens stabilitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> olika tillsatsaggregats uppbyggnad och funktion samt hur godsets tyngdpunkt påverkar maskinens stabilitet.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> olika tillsatsaggregats uppbyggnad och funktion samt hur godsets tyngdpunkt påverkar maskinens stabilitet.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> olika tillsatsaggregats uppbyggnad och funktion samt hur godsets tyngdpunkt påverkar maskinens stabilitet."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> innehållet i fraktdokument och godshandlingar samt olika symboler för godsmärkning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> innehållet i fraktdokument och godshandlingar samt olika symboler för godsmärkning.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> innehållet i fraktdokument och godshandlingar samt olika symboler för godsmärkning.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> innehållet i fraktdokument och godshandlingar samt olika symboler för godsmärkning."
+        }
+      }, {
+        "text" : "I beskrivningarna redogör eleven <strong>________</strong> för särskilda risker förknippade med tunga arbetsmaskiner samt metoder och regler för teckengivning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningarna redogör eleven <strong>översiktligt</strong> för särskilda risker förknippade med tunga arbetsmaskiner samt metoder och regler för teckengivning.",
+          "C" : "I beskrivningarna redogör eleven <strong>utförligt</strong> för särskilda risker förknippade med tunga arbetsmaskiner samt metoder och regler för teckengivning.",
+          "A" : "I beskrivningarna redogör eleven <strong>utförligt och nyanserat</strong> för särskilda risker förknippade med tunga arbetsmaskiner samt metoder och regler för teckengivning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven manövrerar i bekanta situationer tunga truckar och maskiner med redskap som används vid godshantering samt utför <strong>________</strong> med handledare säkerhetskontroller på fordon och lyftutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven manövrerar i bekanta situationer tunga truckar och maskiner med redskap som används vid godshantering samt utför <strong>i samråd</strong> med handledare säkerhetskontroller på fordon och lyftutrustning.",
+          "C" : "Eleven manövrerar i bekanta <strong>och delvis nya</strong> situationer tunga truckar och maskiner med redskap som används vid godshantering samt utför <strong>efter samråd</strong> med handledare säkerhetskontroller på fordon och lyftutrustning.",
+          "A" : "Eleven manövrerar i bekanta <strong>och nya</strong> situationer tunga truckar och maskiner med redskap som används vid godshantering samt utför <strong>efter samråd</strong> med handledare säkerhetskontroller på fordon och lyftutrustning."
+        }
+      }, {
+        "text" : "Dessutom hanterar eleven i bekanta situationer lastmaskiner för mottagande och lastning av godsslag för lagerhantering eller godstransport.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom hanterar eleven i bekanta situationer lastmaskiner för mottagande och lastning av godsslag för lagerhantering eller godstransport.",
+          "C" : "Dessutom hanterar eleven i bekanta <strong>och delvis nya</strong> situationer lastmaskiner för mottagande och lastning av godsslag för lagerhantering eller godstransport.",
+          "A" : "Dessutom hanterar eleven i bekanta <strong>och nya</strong> situationer lastmaskiner för mottagande och lastning av godsslag för lagerhantering eller godstransport."
+        }
+      }, {
+        "text" : "I arbetet utför eleven <strong>________</strong> med handledare <strong>________</strong> beräkningar av godsvikt, tyngdpunkt och lyftredskapets kapacitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet utför eleven <strong>i samråd</strong> med handledare <strong>enkla</strong> beräkningar av godsvikt, tyngdpunkt och lyftredskapets kapacitet.",
+          "C" : "I arbetet utför eleven <strong>efter samråd</strong> med handledare beräkningar av godsvikt, tyngdpunkt och lyftredskapets kapacitet.",
+          "A" : "I arbetet utför eleven <strong>efter samråd</strong> med handledare <strong>avancerade</strong> beräkningar av godsvikt, tyngdpunkt och lyftredskapets kapacitet."
+        }
+      }, {
+        "text" : "Dessutom hanterar eleven <strong>________</strong> emballage och lastbärare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom hanterar eleven <strong>med viss säkerhet</strong> emballage och lastbärare.",
+          "C" : "Dessutom hanterar eleven <strong>med viss säkerhet</strong> emballage och lastbärare.",
+          "A" : "Dessutom hanterar eleven <strong>med säkerhet</strong> emballage och lastbärare."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar utifrån de krav på säkerhet som reglerar arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar utifrån de krav på säkerhet som reglerar arbetet.",
+          "C" : "Eleven arbetar utifrån de krav på säkerhet som reglerar arbetet.",
+          "A" : "Eleven arbetar utifrån de krav på säkerhet som reglerar arbetet."
+        }
+      }, {
+        "text" : "Dessutom tar eleven ansvar för kundens egendom samt för lokaler och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom tar eleven ansvar för kundens egendom samt för lokaler och utrustning.",
+          "C" : "Dessutom tar eleven ansvar för kundens egendom samt för lokaler och utrustning.",
+          "A" : "Dessutom tar eleven ansvar för kundens egendom samt för lokaler och utrustning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar för att nå planerade resultat.",
+          "C" : "Eleven samarbetar <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+          "A" : "Eleven samarbetar <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  } ]
+}

@@ -1,0 +1,605 @@
+{
+  "name" : "Kyl- och värmepumpsteknik",
+  "description" : "Att kyl- och värmepumpsanläggningar är installerade på ett riktigt sätt är väsentligt ur miljösynpunkt och för effektiv energihushållning. Ämnet kyl- och värmepumpsteknik behandlar systemförståelse av och processkännedom om kyl- och värmepumpar. Det är till sin karaktär delvis naturvetenskapligt eftersom mekanik och värmelära ingår.",
+  "code" : "KYL",
+  "designation" : "",
+  "skolfsId" : "2010:78",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet kyl- och värmepumpsteknik ska syfta till att eleverna utvecklar färdigheter i att utföra installation, drift, underhåll och service på kyl- och värmepumpsanläggningar.", "I undervisningen ska eleverna ges möjlighet att utveckla systemförståelse och processkännedom.", "Undervisningen ska också leda till att eleverna utvecklar kunskaper för att kunna arbeta på ett säkert och miljömedvetet sätt i enlighet med lagar och andra bestämmelser som styr verksamheten.", "Eleverna ska även ges möjlighet att utveckla kunskaper om hantering av alternativa köldmedier i kyl- och värmepumpssystem." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom laborationer och experiment med laborationsutrustning och genom experiment på egenbyggda kylanläggningar ska eleverna ges möjlighet att utveckla systemförståelse samt förmåga till problemlösning vid installation och service av kyl- och värmepumpssystem.", "Undervisningen ska genomföras så att de praktiska och teoretiska kunskaperna kopplas samman." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet kyl- och värmepumpsteknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om kyl- och värmepumpstekniska systems uppbyggnad och funktion samt om miljökrav som gäller för dessa.", "Kunskaper om produkter, material, montagedetaljer och upphängningsanordningar, deras egenskaper och funktion.", "Kunskaper om kylprocessen och om olika köldbärare och köldmedier och deras miljöpåverkan.", "Färdigheter i att planera, utföra och bedöma installationsarbeten utifrån estetiska och hantverksmässiga krav.", "Förmåga att utföra drift- och säkerhetskontroller och att arbeta på ett skydds- och miljömedvetet sätt.", "Förmåga att läsa ritningar, manualer och handlingar för att lösa förekommande arbetsuppgifter.", "Förmåga att dokumentera och utvärdera utfört arbete samt att använda fackspråk.", "Färdigheter i att samarbeta och kommunicera." ]
+  } ],
+  "courses" : [ {
+    "name" : "Kyl- och värmepumpsteknik – energieffektivisering",
+    "description" : "Kursen kyl- och värmepumpsteknik – energieffektivisering omfattar punkterna 1–3 och 5–8 under rubriken Ämnets syfte.",
+    "code" : "KYLKYL0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Kylsystemets uppbyggnad och funktion.", "Kylsystemets komponenters uppgifter och funktioner samt hållbarhet, korrosionsskydd och mekaniska påverkan.", "Kapacitets- och varvtalsreglering av kompressorer, pumpar och fläktar.", "Energiackumulering i köld- och värmebärare.", "Energibesparing i kyl- och värmepumpssystem.", "Effektivisering av kyl- och värmepumpssystem i samverkan med ventilations-, värme- och återvinningssystem.", "Mätning för kontroll av energianvändning.", "Ritningar och manualer.", "Metoder för dokumentation." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för kyl- och värmepumpanläggningars tekniska konstruktion, för kylprocessen samt för metoder för energieffektivisering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för kyl- och värmepumpanläggningars tekniska konstruktion, för kylprocessen samt för metoder för energieffektivisering.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för kyl- och värmepumpanläggningars tekniska konstruktion, för kylprocessen samt för metoder för energieffektivisering.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för kyl- och värmepumpanläggningars tekniska konstruktion, för kylprocessen samt för metoder för energieffektivisering."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för olika köldbärare och köldmedier samt deras miljöpåverkan.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för olika köldbärare och köldmedier samt deras miljöpåverkan.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för olika köldbärare och köldmedier samt deras miljöpåverkan.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för olika köldbärare och köldmedier samt deras miljöpåverkan."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och genomför <strong>________</strong> med handledare servicearbete på kyl- och värmepumpssystem utifrån arbetsbeskrivningar, ritningar samt lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och genomför <strong>i samråd</strong> med handledare servicearbete på kyl- och värmepumpssystem utifrån arbetsbeskrivningar, ritningar samt lagar och andra bestämmelser.",
+          "C" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare servicearbete på kyl- och värmepumpssystem utifrån arbetsbeskrivningar, ritningar samt lagar och andra bestämmelser.",
+          "A" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare servicearbete på kyl- och värmepumpssystem utifrån arbetsbeskrivningar, ritningar samt lagar och andra bestämmelser."
+        }
+      }, {
+        "text" : "Inför arbetet gör eleven en <strong>________</strong> bedömning av kyl- och värmesystemet samt föreslår <strong>________</strong> åtgärder för att effektivisera systemets energiförbrukning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Inför arbetet gör eleven en <strong>enkel</strong> bedömning av kyl- och värmesystemet samt föreslår <strong>med viss säkerhet</strong> åtgärder för att effektivisera systemets energiförbrukning.",
+          "C" : "Inför arbetet gör eleven en <strong>välgrundad</strong> bedömning av kyl- och värmesystemet samt föreslår <strong>med viss säkerhet</strong> åtgärder för att effektivisera systemets energiförbrukning.",
+          "A" : "Inför arbetet gör eleven en <strong>välgrundad och nyanserad</strong> bedömning av kyl- och värmesystemet samt föreslår <strong>med säkerhet</strong> åtgärder för att effektivisera systemets energiförbrukning."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> riskbedömning och anpassar sin planering vid behov.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> riskbedömning och anpassar sin planering vid behov.",
+          "C" : "Dessutom gör eleven en riskbedömning och anpassar sin planering vid behov.",
+          "A" : "Dessutom gör eleven en <strong>välgrundad</strong> riskbedömning och anpassar sin planering vid behov."
+        }
+      }, {
+        "text" : "Vidare tolkar och använder eleven <strong>________</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>________</strong> lämplig utrustning och metod.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>med viss säkerhet</strong> lämplig utrustning och metod.",
+          "C" : "Vidare tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>med viss säkerhet</strong> lämplig utrustning och metod.",
+          "A" : "Vidare tolkar och använder eleven <strong>med säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>med säkerhet</strong> lämplig utrustning och metod."
+        }
+      }, {
+        "text" : "Eleven utför arbetsuppgiften <strong>________</strong> med handledare och med ett resultat som uppfyller fastställda kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetsuppgiften <strong>i samråd</strong> med handledare och med ett resultat som uppfyller fastställda kvalitetskrav.",
+          "C" : "Eleven utför arbetsuppgiften <strong>efter samråd</strong> med handledare och med ett resultat som uppfyller fastställda kvalitetskrav.",
+          "A" : "Eleven utför arbetsuppgiften <strong>efter samråd</strong> med handledare och med ett resultat som uppfyller fastställda kvalitetskrav."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Efter utförd service genomför eleven <strong>________</strong> med handledare provdrift samt mäter och dokumenterar driftdata.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Efter utförd service genomför eleven <strong>i samråd</strong> med handledare provdrift samt mäter och dokumenterar driftdata.",
+          "C" : "Efter utförd service genomför eleven <strong>efter samråd</strong> med handledare provdrift samt mäter och dokumenterar driftdata.",
+          "A" : "Efter utförd service genomför eleven <strong>efter samråd</strong> med handledare provdrift samt mäter och dokumenterar driftdata."
+        }
+      }, {
+        "text" : "När arbetsuppgiften är utförd gör eleven en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd gör eleven en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling.",
+          "C" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling.",
+          "A" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling."
+        }
+      }, {
+        "text" : "Eleven samarbetar med andra och använder <strong>________</strong> fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar med andra och använder <strong>enkelt</strong> fackspråk.",
+          "C" : "Eleven samarbetar med andra och använder fackspråk.",
+          "A" : "Eleven samarbetar med andra och använder <strong>nyanserat</strong> fackspråk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Kyl- och värmepumpsteknik – grund",
+    "description" : "Kursen kyl- och värmepumpsteknik – grund omfattar punkterna 1–3 och 5–8 under rubriken Ämnets syfte.",
+    "code" : "KYLKYO0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Kylsystemets uppbyggnad och funktion.", "Olika uppbyggnadssätt, till exempel direkta, delvis indirekta och fullständigt indirekta system.", "Kylsystemets komponenters uppgifter och funktioner samt hållbarhet, korrosionsskydd och mekanisk påverkan.", "Hantering av olika köldmedier och nödvändiga miljöaspekter på dem.", "Arbetsmiljöaspekter på köldmedier, köldbärare och oljor.", "Driftövervakning med mätning och övervakning av tryck och temperatur samt läcksökning.", "Mätning av överhettning och underkylning i kylprocesser.", "Egenkontroll av kyl- och värmepumpsaggregat." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> grundläggande principer för olika kyl- och värmepumpssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> grundläggande principer för olika kyl- och värmepumpssystem.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> grundläggande principer för olika kyl- och värmepumpssystem.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> grundläggande principer för olika kyl- och värmepumpssystem."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för vanliga kyl- och värmepumpanläggningars tekniska konstruktion, komponenternas egenskaper samt vanligt förekommande fel, hur dessa kan uppstå och åtgärdas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för vanliga kyl- och värmepumpanläggningars tekniska konstruktion, komponenternas egenskaper samt vanligt förekommande fel, hur dessa kan uppstå och åtgärdas.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för vanliga kyl- och värmepumpanläggningars tekniska konstruktion, komponenternas egenskaper samt vanligt förekommande fel, hur dessa kan uppstå och åtgärdas.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för vanliga kyl- och värmepumpanläggningars tekniska konstruktion, komponenternas egenskaper samt vanligt förekommande fel, hur dessa kan uppstå och åtgärdas."
+        }
+      }, {
+        "text" : "Eleven redogör även <strong>________</strong> för de miljökrav som gäller verksamheten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör även <strong>översiktligt</strong> för de miljökrav som gäller verksamheten.",
+          "C" : "Eleven redogör även <strong>utförligt</strong> för de miljökrav som gäller verksamheten.",
+          "A" : "Eleven redogör även <strong>utförligt och nyanserat</strong> för de miljökrav som gäller verksamheten."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar <strong>________</strong> med handledare enkla driftövervakningsuppgifter utifrån arbetsbeskrivningar, ritningar och lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar <strong>i samråd</strong> med handledare enkla driftövervakningsuppgifter utifrån arbetsbeskrivningar, ritningar och lagar och andra bestämmelser.",
+          "C" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare enkla driftövervakningsuppgifter utifrån arbetsbeskrivningar, ritningar och lagar och andra bestämmelser.",
+          "A" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare enkla <strong>och även avancerade</strong> driftövervakningsuppgifter utifrån arbetsbeskrivningar, ritningar och lagar och andra bestämmelser."
+        }
+      }, {
+        "text" : "Inför arbetsuppgiften gör eleven en <strong>________</strong> riskbedömning och anpassar sin planering vid behov.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Inför arbetsuppgiften gör eleven en <strong>enkel</strong> riskbedömning och anpassar sin planering vid behov.",
+          "C" : "Inför arbetsuppgiften gör eleven en riskbedömning och anpassar sin planering vid behov.",
+          "A" : "Inför arbetsuppgiften gör eleven en <strong>välgrundad</strong> riskbedömning och anpassar sin planering vid behov."
+        }
+      }, {
+        "text" : "Vidare väljer eleven <strong>________</strong> arbetsmetoder, verktyg, utrustning och material.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare väljer eleven <strong>med viss säkerhet</strong> arbetsmetoder, verktyg, utrustning och material.",
+          "C" : "Vidare väljer eleven <strong>med viss säkerhet</strong> arbetsmetoder, verktyg, utrustning och material.",
+          "A" : "Vidare väljer eleven <strong>med säkerhet</strong> arbetsmetoder, verktyg, utrustning och material."
+        }
+      }, {
+        "text" : "Eleven utför arbetsuppgiften <strong>________</strong> med handledare och med ett resultat som uppfyller fastställda kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetsuppgiften <strong>i samråd</strong> med handledare och med ett resultat som uppfyller fastställda kvalitetskrav.",
+          "C" : "Eleven utför arbetsuppgiften <strong>efter samråd</strong> med handledare och med ett resultat som uppfyller fastställda kvalitetskrav.",
+          "A" : "Eleven utför arbetsuppgiften <strong>efter samråd</strong> med handledare och med ett resultat som uppfyller fastställda kvalitetskrav."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "När arbetsuppgiften är utförd gör eleven en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd gör eleven en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling.",
+          "C" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling.",
+          "A" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling."
+        }
+      }, {
+        "text" : "Eleven samarbetar med andra och använder <strong>________</strong> fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar med andra och använder <strong>enkelt</strong> fackspråk.",
+          "C" : "Eleven samarbetar med andra och använder fackspråk.",
+          "A" : "Eleven samarbetar med andra och använder <strong>nyanserat</strong> fackspråk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Kyl- och värmepumpsteknik – installation",
+    "description" : "Kursen kyl- och värmepumpsteknik – installation omfattar punkterna 1–2, 4 och 6–8 under rubriken Ämnets syfte.",
+    "code" : "KYLKYC0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Regulatorers funktion i kyl- och värmepumpssystem.", "Val av material och komponenter, deras egenskaper och funktion.", "Miljö- och arbetsmiljöaspekter på installationer av kylanläggningar.", "Montageanvisningar, ritningar och andra handlingar för kylinstallationer.", "Installation av rörsystem och elsystem.", "Installationskontroll.", "Täthetsprovning och genomgång av tryckprovning.", "Kontroll av mät- och styrutrustning.", "Tömning och fyllning av köldmedel.", "Provdrift och uppmätning av driftdata.", "Metoder för dokumentation av utför arbete." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> vanliga kyl- och värmepumpanläggningars tekniska konstruktion samt komponenternas och materialens egenskaper, funktion och användningsområde.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> vanliga kyl- och värmepumpanläggningars tekniska konstruktion samt komponenternas och materialens egenskaper, funktion och användningsområde.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> vanliga kyl- och värmepumpanläggningars tekniska konstruktion samt komponenternas och materialens egenskaper, funktion och användningsområde.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> vanliga kyl- och värmepumpanläggningars tekniska konstruktion samt komponenternas och materialens egenskaper, funktion och användningsområde."
+        }
+      }, {
+        "text" : "Eleven redogör även <strong>________</strong> för de miljökrav som gäller verksamheten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör även <strong>översiktligt</strong> för de miljökrav som gäller verksamheten.",
+          "C" : "Eleven redogör även <strong>utförligt</strong> för de miljökrav som gäller verksamheten.",
+          "A" : "Eleven redogör även <strong>utförligt och nyanserat</strong> för de miljökrav som gäller verksamheten."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och genomför <strong>________</strong> med handledare installation av rör- och elsystem utifrån arbetsbeskrivningar, ritningar samt lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och genomför <strong>i samråd</strong> med handledare installation av rör- och elsystem utifrån arbetsbeskrivningar, ritningar samt lagar och andra bestämmelser.",
+          "C" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare installation av rör- och elsystem utifrån arbetsbeskrivningar, ritningar samt lagar och andra bestämmelser.",
+          "A" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare installation av rör- och elsystem utifrån arbetsbeskrivningar, ritningar samt lagar och andra bestämmelser."
+        }
+      }, {
+        "text" : "Inför arbetet gör eleven en <strong>________</strong> riskbedömning och anpassar sin planering vid behov.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Inför arbetet gör eleven en <strong>enkel</strong> riskbedömning och anpassar sin planering vid behov.",
+          "C" : "Inför arbetet gör eleven en riskbedömning och anpassar sin planering vid behov.",
+          "A" : "Inför arbetet gör eleven en <strong>välgrundad</strong> riskbedömning och anpassar sin planering vid behov."
+        }
+      }, {
+        "text" : "Vidare tolkar och använder eleven <strong>________</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>________</strong> lämplig utrustning och metod.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>med viss säkerhet</strong> lämplig utrustning och metod.",
+          "C" : "Vidare tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>med viss säkerhet</strong> lämplig utrustning och metod.",
+          "A" : "Vidare tolkar och använder eleven <strong>med säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>med säkerhet</strong> lämplig utrustning och metod."
+        }
+      }, {
+        "text" : "Eleven utför arbetsuppgiften <strong>________</strong> med handledare och med ett resultat som uppfyller fastställda kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetsuppgiften <strong>i samråd</strong> med handledare och med ett resultat som uppfyller fastställda kvalitetskrav.",
+          "C" : "Eleven utför arbetsuppgiften <strong>efter samråd</strong> med handledare och med ett resultat som uppfyller fastställda kvalitetskrav.",
+          "A" : "Eleven utför arbetsuppgiften <strong>efter samråd</strong> med handledare och med ett resultat som uppfyller fastställda kvalitetskrav."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Efter utförd installation genomför eleven <strong>________</strong> med handledare provdrift samt mäter och dokumenterar provdata.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Efter utförd installation genomför eleven <strong>i samråd</strong> med handledare provdrift samt mäter och dokumenterar provdata.",
+          "C" : "Efter utförd installation genomför eleven <strong>efter samråd</strong> med handledare provdrift samt mäter och dokumenterar provdata.",
+          "A" : "Efter utförd installation genomför eleven <strong>efter samråd</strong> med handledare provdrift samt mäter och dokumenterar provdata."
+        }
+      }, {
+        "text" : "När arbetsuppgiften är utförd gör eleven en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd gör eleven en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling.",
+          "C" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling.",
+          "A" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling."
+        }
+      }, {
+        "text" : "Eleven samarbetar med andra och använder <strong>________</strong> fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar med andra och använder <strong>enkelt</strong> fackspråk.",
+          "C" : "Eleven samarbetar med andra och använder fackspråk.",
+          "A" : "Eleven samarbetar med andra och använder <strong>nyanserat</strong> fackspråk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Kyl- och värmepumpsteknik – miljö och säkerhet",
+    "description" : "Kursen kyl- och värmepumpsteknik – miljö och säkerhet omfattar punkterna 1, 3 och 5–8 under rubriken Ämnets syfte.",
+    "code" : "KYLKYH0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Kyl- och värmepumpssystem, deras funktion och miljöpåverkan.", "Köldbärare och köldmedier, deras egenskaper och miljöpåverkan.", "Miljöpåverkans historiska orsaker och konsekvenser.", "Miljö-, hälso- och säkerhetsfrågor ur ett samhälleligt perspektiv.", "Lagar och andra bestämmelsers påverkan på arbeten med kyl- och värmepumpssystem.", "Trycksäkerhet vid provning och drift av kyl- och värmepumpsinstallationer.", "Miljö- och säkerhetsaspekter i förhållande till hållbar utveckling.", "Metoder för att utvärdera miljöaspekter.", "Trycksäkerhet vid provning och drift av kyl- och värmepumpsinstallationer." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för kyl- och värmepumpanläggningars tekniska konstruktion och funktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för kyl- och värmepumpanläggningars tekniska konstruktion och funktion.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för kyl- och värmepumpanläggningars tekniska konstruktion och funktion.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för kyl- och värmepumpanläggningars tekniska konstruktion och funktion."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för kylprocessen, för olika köldbärare och köldmedier samt deras miljöpåverkan.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för kylprocessen, för olika köldbärare och köldmedier samt deras miljöpåverkan.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för kylprocessen, för olika köldbärare och köldmedier samt deras miljöpåverkan.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för kylprocessen, för olika köldbärare och köldmedier samt deras miljöpåverkan."
+        }
+      }, {
+        "text" : "Eleven redogör även <strong>________</strong> för kyl- och värmepumpanläggningars miljöpåverkan ut ett historiskt perspektiv.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör även <strong>översiktligt</strong> för kyl- och värmepumpanläggningars miljöpåverkan ut ett historiskt perspektiv.",
+          "C" : "Eleven redogör även <strong>utförligt</strong> för kyl- och värmepumpanläggningars miljöpåverkan ut ett historiskt perspektiv.",
+          "A" : "Eleven redogör även <strong>utförligt och nyanserat</strong> för kyl- och värmepumpanläggningars miljöpåverkan ut ett historiskt perspektiv."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och genomför <strong>________</strong> med handledare säkerhets- och driftskontroller på kyl- och värmepumpssystem utifrån arbetsbeskrivningar, ritningar samt lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och genomför <strong>i samråd</strong> med handledare säkerhets- och driftskontroller på kyl- och värmepumpssystem utifrån arbetsbeskrivningar, ritningar samt lagar och andra bestämmelser.",
+          "C" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare säkerhets- och driftskontroller på kyl- och värmepumpssystem utifrån arbetsbeskrivningar, ritningar samt lagar och andra bestämmelser.",
+          "A" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare säkerhets- och driftskontroller på kyl- och värmepumpssystem utifrån arbetsbeskrivningar, ritningar och lagar och andra bestämmelser."
+        }
+      }, {
+        "text" : "Inför arbetet gör eleven en <strong>________</strong> bedömning av kyl- och värmesystemet samt föreslår <strong>________</strong> åtgärder för att förbättra systemet ur miljö- och säkerhetssynpunkt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Inför arbetet gör eleven en <strong>enkel</strong> bedömning av kyl- och värmesystemet samt föreslår <strong>med viss säkerhet</strong> åtgärder för att förbättra systemet ur miljö- och säkerhetssynpunkt.",
+          "C" : "Inför arbetet gör eleven en <strong>välgrundad</strong> bedömning av kyl- och värmesystemet samt föreslår <strong>med viss säkerhet</strong> åtgärder för att förbättra systemet ur miljö- och säkerhetssynpunkt.",
+          "A" : "Inför arbetet gör eleven en <strong>välgrundad och nyanserad</strong> bedömning av kyl- och värmesystemet samt föreslår <strong>med säkerhet</strong> åtgärder för att förbättra systemet ur miljö- och säkerhetssynpunkt."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> riskbedömning och anpassar sin planering vid behov.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> riskbedömning och anpassar sin planering vid behov.",
+          "C" : "Dessutom gör eleven en riskbedömning och anpassar sin planering vid behov.",
+          "A" : "Dessutom gör eleven en <strong>välgrundad</strong> riskbedömning och anpassar sin planering vid behov."
+        }
+      }, {
+        "text" : "Vidare tolkar och använder eleven <strong>________</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>________</strong> lämplig utrustning och metod.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>med viss säkerhet</strong> lämplig utrustning och metod.",
+          "C" : "Vidare tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>med viss säkerhet</strong> lämplig utrustning och metod.",
+          "A" : "Vidare tolkar och använder eleven <strong>med säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>med säkerhet</strong> lämplig utrustning och metod."
+        }
+      }, {
+        "text" : "Eleven utför arbetsuppgiften <strong>________</strong> med handledare och med ett tillfredsställande resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetsuppgiften <strong>i samråd</strong> med handledare och med ett tillfredsställande resultat.",
+          "C" : "Eleven utför arbetsuppgiften <strong>efter samråd</strong> med handledare och med ett tillfredsställande resultat.",
+          "A" : "Eleven utför arbetsuppgiften <strong>efter samråd</strong> med handledare och med ett tillfredsställande resultat."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "När arbetsuppgiften är utförd gör eleven en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd gör eleven en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven, ur miljö- och säkerhetssynpunkt, sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven, ur miljö- och säkerhetssynpunkt, sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom utvärderar eleven, ur miljö- och säkerhetssynpunkt, sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Dessutom utvärderar eleven, ur miljö- och säkerhetssynpunkt, sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling.",
+          "C" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling.",
+          "A" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling."
+        }
+      }, {
+        "text" : "Eleven samarbetar med andra och använder <strong>________</strong> fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar med andra och använder <strong>enkelt</strong> fackspråk.",
+          "C" : "Eleven samarbetar med andra och använder fackspråk.",
+          "A" : "Eleven samarbetar med andra och använder <strong>nyanserat</strong> fackspråk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Kyl- och värmepumpsteknik – service",
+    "description" : "Kursen kyl- och värmepumpsteknik – service omfattar punkterna 1–3 och 5–8 under rubriken Ämnets syfte.",
+    "code" : "KYLKYV0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Äldre och nyare typer av kyl- och värmepumpanläggningar med olika typer av köld- och värmebärare samt hantering av dessa i enlighet med miljö- och säkerhetskrav.", "Kylsystemets komponenters uppgifter och funktioner.", "Planering av servicearbete utifrån ritningar och manualer.", "Driftskontroll och läcksökning samt systemens energieffektivitet.", "Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för sig själv som för andra. Ergonomiskt riktigt arbetssätt.", "Metoder för utvärdering och dokumentation av utfört arbete.", "Kundkommunikation." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> olika typer av kyl- och värmepumpanläggningars tekniska konstruktion samt komponenternas och materialens egenskaper, funktion och användningsområde.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> olika typer av kyl- och värmepumpanläggningars tekniska konstruktion samt komponenternas och materialens egenskaper, funktion och användningsområde.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> olika typer av kyl- och värmepumpanläggningars tekniska konstruktion samt komponenternas och materialens egenskaper, funktion och användningsområde.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> olika typer av kyl- och värmepumpanläggningars tekniska konstruktion samt komponenternas och materialens egenskaper, funktion och användningsområde."
+        }
+      }, {
+        "text" : "Eleven redogör även <strong>________</strong> för de miljökrav som gäller verksamheten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör även <strong>översiktligt</strong> för de miljökrav som gäller verksamheten.",
+          "C" : "Eleven redogör även <strong>utförligt</strong> för de miljökrav som gäller verksamheten.",
+          "A" : "Eleven redogör även <strong>utförligt och nyanserat</strong> för de miljökrav som gäller verksamheten."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och genomför <strong>________</strong> med handledare servicearbete på kyl- och värmepumpssystem utifrån arbetsbeskrivningar, ritningar samt lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och genomför <strong>i samråd</strong> med handledare servicearbete på kyl- och värmepumpssystem utifrån arbetsbeskrivningar, ritningar samt lagar och andra bestämmelser.",
+          "C" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare servicearbete på kyl- och värmepumpssystem utifrån arbetsbeskrivningar, ritningar samt lagar och andra bestämmelser.",
+          "A" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare servicearbete på kyl- och värmepumpssystem utifrån arbetsbeskrivningar, ritningar och lagar och andra bestämmelser."
+        }
+      }, {
+        "text" : "Inför arbetet gör eleven en <strong>________</strong> bedömning av kyl- och värmesystemets tekniska konstruktion samt en <strong>________</strong> riskbedömning och anpassar sin planering vid behov.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Inför arbetet gör eleven en <strong>enkel</strong> bedömning av kyl- och värmesystemets tekniska konstruktion samt en <strong>enkel</strong> riskbedömning och anpassar sin planering vid behov.",
+          "C" : "Inför arbetet gör eleven en <strong>välgrundad</strong> bedömning av kyl- och värmesystemets tekniska konstruktion samt en riskbedömning och anpassar sin planering vid behov.",
+          "A" : "Inför arbetet gör eleven en <strong>välgrundad och nyanserad</strong> bedömning av kyl- och värmesystemets tekniska konstruktion samt en <strong>välgrundad</strong> riskbedömning och anpassar sin planering vid behov."
+        }
+      }, {
+        "text" : "Vidare tolkar och använder eleven <strong>________</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>________</strong> lämplig utrustning och metod.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>med viss säkerhet</strong> lämplig utrustning och metod.",
+          "C" : "Vidare tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>med viss säkerhet</strong> lämplig utrustning och metod.",
+          "A" : "Vidare tolkar och använder eleven <strong>med säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>med säkerhet</strong> lämplig utrustning och metod."
+        }
+      }, {
+        "text" : "Eleven utför arbetsuppgiften <strong>________</strong> med handledare och med ett resultat som uppfyller fastställda kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetsuppgiften <strong>i samråd</strong> med handledare och med ett resultat som uppfyller fastställda kvalitetskrav.",
+          "C" : "Eleven utför arbetsuppgiften <strong>efter samråd</strong> med handledare och med ett resultat som uppfyller fastställda kvalitetskrav.",
+          "A" : "Eleven utför arbetsuppgiften <strong>efter samråd</strong> med handledare och med ett resultat som uppfyller fastställda kvalitetskrav."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Efter utförd service genomför eleven <strong>________</strong> med handledare provdrift samt mäter och dokumenterar driftdata.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Efter utförd service genomför eleven <strong>i samråd</strong> med handledare provdrift samt mäter och dokumenterar driftdata.",
+          "C" : "Efter utförd service genomför eleven <strong>efter samråd</strong> med handledare provdrift samt mäter och dokumenterar driftdata.",
+          "A" : "Efter utförd service genomför eleven <strong>efter samråd</strong> med handledare provdrift samt mäter och dokumenterar driftdata."
+        }
+      }, {
+        "text" : "När arbetsuppgiften är utförd gör eleven en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd gör eleven en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling.",
+          "C" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling.",
+          "A" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling."
+        }
+      }, {
+        "text" : "Eleven samarbetar med andra och använder <strong>________</strong> fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar med andra och använder <strong>enkelt</strong> fackspråk.",
+          "C" : "Eleven samarbetar med andra och använder fackspråk.",
+          "A" : "Eleven samarbetar med andra och använder <strong>nyanserat</strong> fackspråk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  } ]
+}

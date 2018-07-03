@@ -1,0 +1,101 @@
+{
+  "name" : "Hygienkunskap",
+  "description" : "Ämnet hygienkunskap behandlar livsmedelslagstiftning och andra hygienbestämmelser. Det tar även upp hur livsmedelshygien påverkar livsmedlens hållbarhet.",
+  "code" : "HYG",
+  "designation" : "",
+  "skolfsId" : "2010:66",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet hygienkunskap ska syfta till att eleverna utvecklar förmåga att säkert hantera råvaror och färdiga produkter.", "Eleverna ska ges möjlighet att utveckla kunskaper om de hygienbestämmelser som gäller för arbete i hela livsmedelskedjan där hanteringen och produktionsmetoderna påverkar livsmedlens hygieniska kvalitet.", "Undervisningen ska bidra till att eleverna utvecklar kunskaper om mikroorganismers förekomst, livsbetingelser och betydelse i samband med livsmedelshantering.", "Eleverna ska ges möjlighet att utveckla förmåga att genomföra provtagning på råvaror och färdiga produkter samt genomföra egenkontroll." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar förmåga att dokumentera och kvalitetssäkra arbetet samt reflektera över hur arbetsprocessen påverkar resultatet." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom undervisningen ska eleverna ges möjlighet att praktiskt tillämpa sina kunskaper om hygien." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet hygienkunskap ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om mikroorganismers betydelse i samband med livsmedelshantering.", "Kunskaper om livsmedelsburna smittor och förgiftningar.", "Kunskaper om den personliga hygienens betydelse och färdigheter i att hantera livsmedel på ett hygieniskt sätt.", "Förmåga att genomföra provtagningar på råvaror och färdiga livsmedelsprodukter.", "Förmåga att rengöra utrustning och lokaler så att livsmedelshanteringen blir säker.", "Kunskaper om lagar och andra bestämmelser inom området.", "Färdigheter i att följa system för kontroll av livsmedelshygien samt att utföra egenkontroll." ]
+  } ],
+  "courses" : [ {
+    "name" : "Hygien",
+    "description" : "Kursen hygien omfattar punkterna 1–7 under rubriken Ämnets syfte.",
+    "code" : "HYGHYG0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Mikroorganismers förekomst, egenskaper, livsbetingelser och betydelse.", "Smittvägar, livsmedelsburna infektioner och matförgiftningar.", "God hygienpraxis i samband med livsmedelshantering.", "Metoder för hantering av råvaror samt för tillagning, varmhållning, nedkylning, uppvärmning och förvaring av livsmedel.", "Provtagning och andra kontroller.", "Rengöring av utrustning och lokaler.", "Lagar och andra bestämmelser inom livsmedelsområdet.", "Kontrollprogram för livsmedelshygien." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven identifierar <strong>________</strong> förekomster av mikroorganismer samt beskriver <strong>________</strong> deras betydelse i samband med livsmedelshantering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven identifierar <strong>med viss säkerhet</strong> förekomster av mikroorganismer samt beskriver <strong>översiktligt</strong> deras betydelse i samband med livsmedelshantering.",
+          "C" : "Eleven identifierar <strong>med viss säkerhet</strong> förekomster av mikroorganismer samt beskriver <strong>utförligt</strong> deras betydelse i samband med livsmedelshantering.",
+          "A" : "Eleven identifierar <strong>med säkerhet</strong> förekomster av mikroorganismer samt beskriver <strong>utförligt och nyanserat</strong> deras betydelse i samband med livsmedelshantering."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> livsmedelsburna smittor och förgiftningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> livsmedelsburna smittor och förgiftningar.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> livsmedelsburna smittor och förgiftningar.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> livsmedelsburna smittor och förgiftningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I sitt arbete hanterar eleven livsmedel på ett hygieniskt sätt samt redogör <strong>________</strong> för risker i hanteringen och arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt arbete hanterar eleven livsmedel på ett hygieniskt sätt samt redogör <strong>översiktligt</strong> för risker i hanteringen och arbetet.",
+          "C" : "I sitt arbete hanterar eleven livsmedel på ett hygieniskt sätt samt redogör <strong>utförligt</strong> för risker i hanteringen och arbetet.",
+          "A" : "I sitt arbete hanterar eleven livsmedel på ett hygieniskt sätt samt redogör <strong>utförligt och nyanserat</strong> för risker i hanteringen och arbetet."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare provtagningar på råvaror och färdiga livsmedelsprodukter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare provtagningar på råvaror och färdiga livsmedelsprodukter.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare provtagningar på råvaror och färdiga livsmedelsprodukter.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare provtagningar på råvaror och färdiga livsmedelsprodukter."
+        }
+      }, {
+        "text" : "Efter genomfört arbete rengör eleven noggrant utrustning och lokaler enligt krav för säker livsmedelshantering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Efter genomfört arbete rengör eleven noggrant utrustning och lokaler enligt krav för säker livsmedelshantering.",
+          "C" : "Efter genomfört arbete rengör eleven noggrant utrustning och lokaler enligt krav för säker livsmedelshantering.",
+          "A" : "Efter genomfört arbete rengör eleven noggrant <strong>och metodiskt</strong> utrustning och lokaler enligt krav för säker livsmedelshantering."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven följer lagar och andra bestämmelser, följer system för kontroll av livsmedelshygien samt utför <strong>________</strong> med handledare egenkontroll.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven följer lagar och andra bestämmelser, följer system för kontroll av livsmedelshygien samt utför <strong>i samråd</strong> med handledare egenkontroll.",
+          "C" : "Eleven följer lagar och andra bestämmelser, följer system för kontroll av livsmedelshygien samt utför <strong>efter samråd</strong> med handledare egenkontroll.",
+          "A" : "Eleven följer lagar och andra bestämmelser, följer system för kontroll av livsmedelshygien samt utför <strong>efter samråd</strong> med handledare egenkontoll."
+        }
+      }, {
+        "text" : "Eleven motiverar <strong>________</strong> sitt handlande utifrån god hygienpraxis, lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven motiverar <strong>översiktligt</strong> sitt handlande utifrån god hygienpraxis, lagar och andra bestämmelser.",
+          "C" : "Eleven motiverar <strong>utförligt</strong> sitt handlande utifrån god hygienpraxis, lagar och andra bestämmelser.",
+          "A" : "Eleven motiverar <strong>utförligt och nyanserat</strong> sitt handlande utifrån god hygienpraxis, lagar och andra bestämmelser."
+        }
+      }, {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

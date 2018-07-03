@@ -1,0 +1,237 @@
+{
+  "name" : "Båtkunskap",
+  "description" : "Ämnet båtkunskap behandlar sjövägsregler och navigation för att framföra båtar eller skepp inomskärs och i kustnära vatten. Det behandlar även sjövett, sjösäkerhet och båtlivets inverkan på miljön.",
+  "code" : "BAT",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet båtkunskap ska syfta till att eleverna utvecklar förmåga att framföra olika typer av båtar och skepp på ett säkert och sjömannamässigt sätt.", "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper i navigation och om de regler som gäller till sjöss.", "Undervisningen ska leda till att eleverna utvecklar kunskaper om förebyggande säkerhetsåtgärder samt om åtgärder vid brand, överlevnad och olycksfall.", "Undervisningen ska dessutom bidra till att eleverna utvecklar förståelse av hur båtlivet påverkar vatten- och djurliv samt kunskap om de särskilda krav på miljöhänsyn som ställs inom området." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke.", "Dessa arbetsuppgifter ska utgå från ett problemlösande arbetssätt." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet båtkunskap ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om olika fartygs egenskaper och användningsområden.", "Förmåga att hantera och framföra båtar på ett sjömannamässigt och säkerhetsmedvetet sätt, samt med hänsyn till miljön.", "Förmåga att hantera och framföra skepp med hänsyn till deras maskinstyrka och manöversystem.", "Kunskaper om sjövägsregler och navigation för framförande av fartyg.", "Kunskaper om förebyggande säkerhetsåtgärder samt förmåga att vidta rätt åtgärd vid brand, olycksfall och överlevnad.", "Förmåga att agera i olika situationer på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar området." ]
+  } ],
+  "courses" : [ {
+    "name" : "Kustnavigation och säkerhet",
+    "description" : "Kursen kustnavigation och säkerhet omfattar punkterna 2–6 under rubriken Ämnets syfte, med särskild betoning på punkterna 3 och 5.",
+    "code" : "BATKUS0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Hantering och framförande av båtar och skepp i kustnära vatten.", "Olika metoder för hantering och framförande beroende på maskinstyrka och manöversystem.", "Val av naturhamn och ankrings- och förtöjningsmetod.", "Kursrättning med hänsyn till deviation, missvisning, vind eller strömmar.", "Positions- och lägesbestämningar i kustnära vatten.", "Olika tillvägagångssätt vid bogsering av olika typer av flytetyg.", "Handhavande av livräddningsfarkoster.", "Brandrisker och brandbekämpning ombord.", "Åtgärder vid brandskada, olycksfall eller akut sjukdom ombord.", "Personlig skyddsutrustning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven hanterar och framför <strong>________</strong> och i <strong>________</strong> situationer olika typer av fartyg i kustnära vatten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar och framför <strong>med viss säkerhet</strong> och i <strong>bekanta</strong> situationer olika typer av fartyg i kustnära vatten.",
+          "C" : "Eleven hanterar och framför <strong>med viss säkerhet</strong> och i <strong>nya</strong> situationer olika typer av fartyg i kustnära vatten.",
+          "A" : "Eleven hanterar och framför <strong>med säkerhet</strong> och i <strong>nya</strong> situationer olika typer av fartyg i kustnära vatten."
+        }
+      }, {
+        "text" : "I hantering och framförande genomför eleven med <strong>________</strong> handlag olika uppgifter på ett säkert och sjömannamässigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I hantering och framförande genomför eleven med <strong>visst</strong> handlag olika uppgifter på ett säkert och sjömannamässigt sätt.",
+          "C" : "I hantering och framförande genomför eleven med <strong>gott</strong> handlag olika uppgifter på ett säkert och sjömannamässigt sätt.",
+          "A" : "I hantering och framförande genomför eleven med <strong>mycket gott</strong> handlag olika uppgifter på ett säkert och sjömannamässigt sätt."
+        }
+      }, {
+        "text" : "Eleven arbetar utifrån <strong>________</strong> metoder med olika typer av fartyg och manöversystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar utifrån <strong>givna</strong> metoder med olika typer av fartyg och manöversystem.",
+          "C" : "Eleven <strong>väljer lämplig metod och</strong> arbetar utifrån metoden med olika typer av fartyg och manöversystem.",
+          "A" : "Eleven <strong>väljer lämplig metod, motiverar sitt val av metod och</strong> arbetar utifrån metoden med olika typer av fartyg och manöversystem."
+        }
+      }, {
+        "text" : "I arbetet gör eleven <strong>________</strong> riskbedömningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet gör eleven <strong>enkla</strong> riskbedömningar.",
+          "C" : "I arbetet gör eleven riskbedömningar.",
+          "A" : "I arbetet gör eleven <strong>välgrundade</strong> riskbedömningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven navigerar, <strong>________</strong> med handledare, med olika typer av fartyg inomskärs och i kustnära vatten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven navigerar, <strong>i samråd</strong> med handledare, med olika typer av fartyg inomskärs och i kustnära vatten.",
+          "C" : "Eleven navigerar, <strong>efter samråd</strong> med handledare, med olika typer av fartyg inomskärs och i kustnära vatten.",
+          "A" : "Eleven navigerar, <strong>efter samråd</strong> med handledare, med olika typer av fartyg inomskärs och i kustnära vatten."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för sjövägsregler och regler för navigation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för sjövägsregler och regler för navigation.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för sjövägsregler och regler för navigation.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för sjövägsregler och regler för navigation."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I arbetet samarbetar eleven med andra och kommunicerar på ett språk som är relevant för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet samarbetar eleven med andra och kommunicerar på ett språk som är relevant för uppgiften.",
+          "C" : "I arbetet samarbetar eleven med andra och kommunicerar på ett språk som är relevant för uppgiften.",
+          "A" : "I arbetet samarbetar eleven med andra och kommunicerar <strong>i nya situationer</strong> på ett språk som är relevant för uppgiften."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> de termer och begrepp som är relevanta för ämnet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> de termer och begrepp som är relevanta för ämnet.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> de termer och begrepp som är relevanta för ämnet.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> de termer och begrepp som är relevanta för ämnet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven resonerar <strong>________</strong>, utifrån olika <strong>________</strong> fallbeskrivningar, om förebyggande säkerhetsåtgärder och åtgärder vid brand, olycksfall och överlevnad.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven resonerar <strong>översiktligt</strong>, utifrån olika <strong>enkla</strong> fallbeskrivningar, om förebyggande säkerhetsåtgärder och åtgärder vid brand, olycksfall och överlevnad.",
+          "C" : "Eleven resonerar <strong>utförligt</strong>, utifrån olika fallbeskrivningar, om förebyggande säkerhetsåtgärder och åtgärder vid brand, olycksfall och överlevnad.",
+          "A" : "Eleven resonerar <strong>utförligt och nyanserat</strong>, utifrån olika fallbeskrivningar, om förebyggande säkerhetsåtgärder och åtgärder vid brand, olycksfall och överlevnad."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> de lagar och bestämmelser som reglerar området, samt arbetar utifrån krav på säkerhet, kvalitet och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> de lagar och bestämmelser som reglerar området, samt arbetar utifrån krav på säkerhet, kvalitet och miljö.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> de lagar och bestämmelser som reglerar området, samt arbetar utifrån krav på säkerhet, kvalitet och miljö.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> de lagar och bestämmelser som reglerar området, samt arbetar utifrån krav på säkerhet, kvalitet och miljö."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Skärgårdsnavigation",
+    "description" : "Kursen kustnavigation och säkerhet omfattar punkterna 1–6 under rubriken Ämnets syfte, med särskild betoning på punkterna 3 och 5.",
+    "code" : "BATSKA0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika båttyper, deras användningsområden och egenskaper.", "Manövrering av olika typer av båtar inomskärs.", "Ut- och tilläggningar i olika hamn- och väderleksförhållanden.", "Kontroll före avfärd.", "Förtöjning med ankare, boj, vid y-bommar samt förtöjning med långsida mot kaj.", "Knopslagning.", "Sjökort, styrning efter kompass, kurskontroll i enslinje, navigering i utprickat farvatten och positions- och lägesbestämningar.", "Fyrbelysningssystem och lanternor.", "Internationella sjövägsregler, sjötrafikförordning samt sjölagen.", "Säkerhet ombord.", "Sjöräddningsorganisationer.", "Båtlivets påverkan på miljön." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> olika båttyper, deras egenskaper och användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> olika båttyper, deras egenskaper och användningsområden.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> olika båttyper, deras egenskaper och användningsområden.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> olika båttyper, deras egenskaper och användningsområden."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven hanterar och framför <strong>________</strong> och i <strong>________</strong> situationer olika typer av fartyg inomskärs.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar och framför <strong>med viss säkerhet</strong> och i <strong>bekanta</strong> situationer olika typer av fartyg inomskärs.",
+          "C" : "Eleven hanterar och framför <strong>med viss säkerhet</strong> och i <strong>nya</strong> situationer olika typer av fartyg inomskärs.",
+          "A" : "Eleven hanterar och framför <strong>med säkerhet</strong> och i <strong>nya</strong> situationer olika typer av fartyg inomskärs."
+        }
+      }, {
+        "text" : "I hantering och framförande genomför eleven med <strong>________</strong> handlag olika uppgifter på ett säkert och sjömannamässigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I hantering och framförande genomför eleven med <strong>visst</strong> handlag olika uppgifter på ett säkert och sjömannamässigt sätt.",
+          "C" : "I hantering och framförande genomför eleven med <strong>gott</strong> handlag olika uppgifter på ett säkert och sjömannamässigt sätt.",
+          "A" : "I hantering och framförande genomför eleven med <strong>mycket gott</strong> handlag olika uppgifter på ett säkert och sjömannamässigt sätt."
+        }
+      }, {
+        "text" : "I arbetet gör eleven <strong>________</strong> riskbedömningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet gör eleven <strong>enkla</strong> riskbedömningar.",
+          "C" : "I arbetet gör eleven riskbedömningar.",
+          "A" : "I arbetet gör eleven <strong>välgrundade</strong> riskbedömningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven navigerar, <strong>________</strong> med handledare, med olika typer av fartyg inomskärs och i kustnära vatten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven navigerar, <strong>i samråd</strong> med handledare, med olika typer av fartyg inomskärs och i kustnära vatten.",
+          "C" : "Eleven navigerar, <strong>efter samråd</strong> med handledare, med olika typer av fartyg inomskärs och i kustnära vatten.",
+          "A" : "Eleven navigerar, <strong>efter samråd</strong> med handledare, med olika typer av fartyg inomskärs och i kustnära vatten."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för sjövägsregler och regler för navigation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för sjövägsregler och regler för navigation.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för sjövägsregler och regler för navigation.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för sjövägsregler och regler för navigation."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I arbetet samarbetar eleven med andra och kommunicerar på ett språk som är relevant för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet samarbetar eleven med andra och kommunicerar på ett språk som är relevant för uppgiften.",
+          "C" : "I arbetet samarbetar eleven med andra och kommunicerar på ett språk som är relevant för uppgiften.",
+          "A" : "I arbetet samarbetar eleven med andra och kommunicerar <strong>i nya situationer</strong> på ett språk som är relevant för uppgiften."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> de termer och begrepp som är relevanta för ämnet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> de termer och begrepp som är relevanta för ämnet.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> de termer och begrepp som är relevanta för ämnet.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> de termer och begrepp som är relevanta för ämnet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven ger <strong>________</strong> exempel på förebyggande säkerhetsåtgärder och åtgärder vid brand, olycksfall och överlevnad.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven ger <strong>något</strong> exempel på förebyggande säkerhetsåtgärder och åtgärder vid brand, olycksfall och överlevnad.",
+          "C" : "Eleven ger <strong>några</strong> exempel på förebyggande säkerhetsåtgärder och åtgärder vid brand, olycksfall och överlevnad.",
+          "A" : "Eleven ger <strong>flera</strong> exempel på förebyggande säkerhetsåtgärder och åtgärder vid brand, olycksfall och överlevnad."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> med stöd av <strong>________</strong> exempel hur båtlivet påverkar miljön samt vatten- och djurliv.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> med stöd av <strong>enkla</strong> exempel hur båtlivet påverkar miljön samt vatten- och djurliv.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> med stöd av <strong>välgrundade</strong> exempel hur båtlivet påverkar miljön samt vatten- och djurliv.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> med stöd av <strong>välgrundade och nyanserade</strong> exempel hur båtlivet påverkar miljön samt vatten- och djurliv."
+        }
+      }, {
+        "text" : "Eleven beskriver <strong>________</strong> de lagar och bestämmelser som reglerar området, samt arbetar utifrån krav på säkerhet, kvalitet och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> de lagar och bestämmelser som reglerar området, samt arbetar utifrån krav på säkerhet, kvalitet och miljö.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> de lagar och bestämmelser som reglerar området, samt arbetar utifrån krav på säkerhet, kvalitet och miljö.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> de lagar och bestämmelser som reglerar området, samt arbetar utifrån krav på säkerhet, kvalitet och miljö."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

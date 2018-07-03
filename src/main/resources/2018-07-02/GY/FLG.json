@@ -1,0 +1,281 @@
+{
+  "name" : "Flygplatsteknik",
+  "description" : "Ämnet flygplatsteknik behandlar flygplatsen som arbetsplats och de olika verksamheter som förekommer på en flygplats. I ämnet betonas säkerhets- och miljöaspekter.",
+  "code" : "FLG",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet flygplatsteknik ska syfta till att eleverna utvecklar kunskaper om olika arbetsområden på en flygplats.", "I undervisningen ska eleverna ges möjlighet att utveckla förmåga att utföra de olika arbetsuppgifter som förekommer på en flygplats på ett säkert och ansvarsfullt sätt.", "Vidare ska undervisningen ge eleverna möjlighet att utveckla förmåga att framföra de fordon som används på flygplatser på det sätt som arbetet kräver.", "Den ska dessutom bidra till att eleverna utvecklar förståelse av hur verksamheten påverkar miljön på och runt en flygplats." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om de nationella och internationella regelverk som styr verksamheten, och förmåga att arbeta utifrån dessa.", "Undervisningen ska leda till att eleverna utvecklar förmåga att skapa och upprätthålla goda relationer med kunder och medarbetare, samt förmåga att kommunicera på det sätt yrket kräver, på både svenska och engelska." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke.", "Ett problemlösande och laborativt arbetssätt ska prägla undervisningen." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet flygplatsteknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om flygplatsers uppbyggnad och funktion samt om olika arbetsområden och verksamheter inom flygplatser.", "Kunskaper om de internationella och nationella regelverk som reglerar verksamheten, de skydds- och säkerhetsföreskrifter som reglerar arbetet samt om de risker arbetet innebär.", "Förmåga att genomföra arbetsuppgifter på flygplatsen inom områdena räddningstjänst, ramptjänst, fälttjänst och säkerhetstjänst.", "Förmåga att framföra transport- och servicefordon på ett säkert och ansvarsfullt sätt.", "Förmåga att hantera farligt gods och genomföra tanktransporter på flygplatser.", "Förmåga att välja och använda arbetsmetoder och utrustning.", "Förmåga att arbeta på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten.", "Förmåga att samarbeta med andra och kommunicera med medarbetare och kunder.", "Förmåga att använda ett yrkesmässigt språk samt att använda både svenska och engelska instruktioner och manualer." ]
+  } ],
+  "courses" : [ {
+    "name" : "Flygplatsen",
+    "description" : "Kursen flygplatsen omfattar punkterna 1–9 under rubriken Ämnets syfte.",
+    "code" : "FLGFLY0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Flygplatsens uppbyggnad. Flygplatsen som arbetsplats och de olika verksamheter som förekommer.", "Nationella och internationella organisationer och intressenter inom området.", "Grunderna för trafikledning.", "Tekniska system som förekommer på flygplatser.", "Biljetthanteringssystem.", "Säkerhetstjänst på och runt en flygplats.", "Miljöpåverkan på och i anslutning till flygplatser.", "Marktrafikregler på och i anslutning till flygplatsen.", "Luftfartygs konstruktion. Uppbyggnad av olika system i ett flygplan samt flygplans strukturella begränsningar och skaderisker.", "Enklare markservice på flygplan.", "Avisning och hur luftfartygs aerodynamik påverkas av till exempel regn och is.", "Användning av el- och teleteknisk utrustning samt skötsel och tolkning av mätinstrument.", "Risker vid arbete med luftfartyg.", "Brandbekämpning. Flygplatsens brand- och räddningsfunktioner.", "Tillsyn, service och säkerhetskontroll på de fordon och utrustning som används på flygplatser.", "Färdplanering och beräkning av lastmängd och viktfördelning. Administrativa rutiner som används för transportuppdrag på flygplatser.", "Olika slags tanktransporter, hantering av bränsle, tankning av flygplan samt åtgärder vid såväl mindre spill som haveri. Myndigheters krav vid transport av bränsle och tankning av flygplan.", "De vanligaste typerna av fordon och utrustning för tanktransporter, de vanligaste produkterna som transporteras i tankfordon samt de regler som gäller för dessa transporter.", "Särskilda risker med tank- och bulktransporter.", "Yrkesbegrepp. Engelskspråkiga instruktioner och manualer. Dokumentation på engelska." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> flygplatsens uppbyggnad och funktion samt olika arbetsområden och verksamheter inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> flygplatsens uppbyggnad och funktion samt olika arbetsområden och verksamheter inom området.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> flygplatsens uppbyggnad och funktion samt olika arbetsområden och verksamheter inom området.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> flygplatsens uppbyggnad och funktion samt olika arbetsområden och verksamheter inom området."
+        }
+      }, {
+        "text" : "Dessutom resonerar eleven <strong>________</strong> utifrån några exempel om risker i arbetet och redogör <strong>________</strong> för regelverk och föreskrifter som styr verksamheterna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom resonerar eleven <strong>översiktligt</strong> utifrån några exempel om risker i arbetet och redogör <strong>översiktligt</strong> för regelverk och föreskrifter som styr verksamheterna.",
+          "C" : "Dessutom resonerar eleven <strong>utförligt</strong> utifrån några exempel om risker i arbetet och redogör <strong>utförligt</strong> för regelverk och föreskrifter som styr verksamheterna.",
+          "A" : "Dessutom resonerar eleven <strong>utförligt och nyanserat</strong> utifrån några exempel om risker i arbetet och redogör <strong>utförligt</strong> för regelverk och föreskrifter som styr verksamheterna."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare i bekanta situationer arbetsuppgifter inom områdena räddningstjänst, ramptjänst och säkerhetstjänst.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare i bekanta situationer arbetsuppgifter inom områdena räddningstjänst, ramptjänst och säkerhetstjänst.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare i bekanta <strong>och delvis nya</strong> situationer arbetsuppgifter inom områdena räddningstjänst, ramptjänst och säkerhetstjänst.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare i bekanta <strong>och nya situationer</strong> arbetsuppgifter inom områdena räddningstjänst, ramptjänst och säkerhetstjänst."
+        }
+      }, {
+        "text" : "Eleven hanterar <strong>________</strong> med handledare farligt gods i bekanta situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar <strong>i samråd</strong> med handledare farligt gods i bekanta situationer.",
+          "C" : "Eleven hanterar <strong>efter samråd</strong> med handledare farligt gods i bekanta <strong>och delvis nya</strong> situationer.",
+          "A" : "Eleven hanterar <strong>efter samråd</strong> med handledare farligt gods i bekanta <strong>och nya</strong> situationer."
+        }
+      }, {
+        "text" : "Eleven manövrerar och framför med <strong>________</strong> handlag transport- och servicefordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven manövrerar och framför med <strong>visst</strong> handlag transport- och servicefordon.",
+          "C" : "Eleven manövrerar och framför med <strong>gott</strong> handlag transport- och servicefordon.",
+          "A" : "Eleven manövrerar och framför med <strong>mycket gott</strong> handlag transport- och servicefordon."
+        }
+      }, {
+        "text" : "I arbetet väljer eleven <strong>________</strong> relevanta arbetsmetoder och relevant utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet väljer eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning.",
+          "C" : "I arbetet väljer eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning.",
+          "A" : "I arbetet väljer eleven <strong>med säkerhet</strong> relevanta arbetsmetoder och relevant utrustning."
+        }
+      }, {
+        "text" : "Eleven arbetar <strong>________</strong> med handledare på ett säkert sätt och följer lagar och andra bestämmelser som gäller för arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar <strong>i samråd</strong> med handledare på ett säkert sätt och följer lagar och andra bestämmelser som gäller för arbetet.",
+          "C" : "Eleven arbetar <strong>efter samråd</strong> med handledare på ett säkert sätt och följer lagar och andra bestämmelser som gäller för arbetet.",
+          "A" : "Eleven arbetar <strong>efter samråd</strong> med handledare på ett säkert sätt och följer lagar och andra bestämmelser som gäller för arbetet."
+        }
+      }, {
+        "text" : "Eleven genomför <strong>________</strong> riskbedömningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven genomför <strong>enkla</strong> riskbedömningar.",
+          "C" : "Eleven genomför riskbedömningar.",
+          "A" : "Eleven genomför <strong>välgrundade</strong> riskbedömningar."
+        }
+      }, {
+        "text" : "Eleven tar ansvar för andras egendom och för anläggningens lokaler, fordon och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för andras egendom och för anläggningens lokaler, fordon och utrustning.",
+          "C" : "Eleven tar ansvar för andras egendom och för anläggningens lokaler, fordon och utrustning.",
+          "A" : "Eleven tar ansvar för andras egendom och för anläggningens lokaler, fordon och utrustning."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar med andra för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar med andra för att nå planerade resultat.",
+          "C" : "Eleven samarbetar med andra <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+          "A" : "Eleven samarbetar med andra <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat."
+        }
+      }, {
+        "text" : "I kommunikation med andra använder eleven <strong>________</strong> yrkesspecifika begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> yrkesspecifika begrepp.",
+          "C" : "I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> yrkesspecifika begrepp.",
+          "A" : "I kommunikation med andra använder eleven <strong>med säkerhet</strong> yrkesspecifika begrepp."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> svenska och engelska instruktioner och manualer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska instruktioner och manualer.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska instruktioner och manualer.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> svenska och engelska instruktioner och manualer."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> dokumentation på engelska.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> dokumentation på engelska.",
+          "C" : "Dessutom gör eleven en <strong>noggrann</strong> dokumentation på engelska.",
+          "A" : "Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation på engelska."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Fälthållning",
+    "description" : "Kursen fälthållning omfattar punkterna 1–4 och 6–9 under rubriken Ämnets syfte.",
+    "code" : "FLGFAL0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Flygplatsens och bansystemets uppbyggnad.", "Säkerhetsbestämmelser i samband med fälthållning.", "Risker vid arbete på flygplats. Miljöpåverkan på och i anslutning till flygplatser.", "Risker för kollisioner mellan flygplan, flygplan och fåglar eller flygplan och vilt. Åtgärder för att minimera dessa risker.", "Manövrering och framförande av fälthållningsfordon samt fordonskombinationer för sommar- och vinterväghållning.", "Koppling av utrustning till respektive fordon.", "Service, tillsyn, underhåll och säkerhetskontroll av fordon och utrustning.", "Sommarfälthållning med olika typer av fordon och redskap.", "Vinterfälthållning med olika typer av fordon och redskap. Regler och åtgärder för vinterfälthållning.", "Mekanisk och kemisk halkbekämpning.", "Fältinspektion samt mätning och rapportering av bromsverkan.", "Mindre reparationer av asfalt- och betongbeläggning.", "Kontroll av hinderfrihet, erforderliga åtgärder samt markering av ytor och hinder.", "Mindre reparationer på fältbelysning.", "Kontroll av dagvattensystem.", "Reparation och bärgning av fordon, även vid dåliga yttre förhållanden.", "Yrkesbegrepp. Engelskspråkiga instruktioner och manualer. Dokumentation på engelska." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> flygfältets uppbyggnad och funktion samt olika arbetsområden och verksamheter inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> flygfältets uppbyggnad och funktion samt olika arbetsområden och verksamheter inom området.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> flygfältets uppbyggnad och funktion samt olika arbetsområden och verksamheter inom området.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> flygfältets uppbyggnad och funktion samt olika arbetsområden och verksamheter inom området."
+        }
+      }, {
+        "text" : "Dessutom resonerar eleven <strong>________</strong> utifrån några exempel om risker i arbetet och redogör <strong>________</strong> för regelverk och föreskrifter som styr verksamheterna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom resonerar eleven <strong>översiktligt</strong> utifrån några exempel om risker i arbetet och redogör <strong>översiktligt</strong> för regelverk och föreskrifter som styr verksamheterna.",
+          "C" : "Dessutom resonerar eleven <strong>utförligt</strong> utifrån några exempel om risker i arbetet och redogör <strong>utförligt</strong> för regelverk och föreskrifter som styr verksamheterna.",
+          "A" : "Dessutom resonerar eleven <strong>utförligt och nyanserat</strong> utifrån några exempel om risker i arbetet och redogör <strong>utförligt</strong> för regelverk och föreskrifter som styr verksamheterna."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare i bekanta situationer arbetsuppgifter inom området fälthållning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare i bekanta situationer arbetsuppgifter inom området fälthållning.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare i bekanta <strong>och delvis nya</strong> situationer arbetsuppgifter inom området fälthållning.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare i bekanta <strong>och nya</strong> situationer arbetsuppgifter inom området fälthållning."
+        }
+      }, {
+        "text" : "Eleven manövrerar och framför med <strong>________</strong> handlag fälthållningsfordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven manövrerar och framför med <strong>visst</strong> handlag fälthållningsfordon.",
+          "C" : "Eleven manövrerar och framför med <strong>gott</strong> handlag fälthållningsfordon.",
+          "A" : "Eleven manövrerar och framför med <strong>mycket gott</strong> handlag fälthållningsfordon."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare i bekanta situationer sommar- och vinterfälthållningsarbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare i bekanta situationer sommar- och vinterfälthållningsarbete.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare i bekanta <strong>och delvis nya</strong> situationer sommar- och vinterfälthållningsarbete.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare i bekanta <strong>och nya</strong> situationer sommar- och vinterfälthållningsarbete."
+        }
+      }, {
+        "text" : "I arbetet väljer eleven <strong>________</strong> relevanta arbetsmetoder och relevant utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet väljer eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning.",
+          "C" : "I arbetet väljer eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning.",
+          "A" : "I arbetet väljer eleven <strong>med säkerhet</strong> relevanta arbetsmetoder och relevant utrustning."
+        }
+      }, {
+        "text" : "Eleven arbetar <strong>________</strong> med handledare på ett säkert sätt och följer lagar och andra bestämmelser som gäller för arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar <strong>i samråd</strong> med handledare på ett säkert sätt och följer lagar och andra bestämmelser som gäller för arbetet.",
+          "C" : "Eleven arbetar <strong>efter samråd</strong> med handledare på ett säkert sätt och följer lagar och andra bestämmelser som gäller för arbetet.",
+          "A" : "Eleven arbetar <strong>efter samråd</strong> med handledare på ett säkert sätt och följer lagar och andra bestämmelser som gäller för arbetet."
+        }
+      }, {
+        "text" : "Eleven genomför <strong>________</strong> riskbedömningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven genomför <strong>enkla</strong> riskbedömningar.",
+          "C" : "Eleven genomför riskbedömningar.",
+          "A" : "Eleven genomför <strong>välgrundade</strong> riskbedömningar."
+        }
+      }, {
+        "text" : "Eleven tar ansvar för andras egendom och för anläggningens lokaler, fordon och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för andras egendom och för anläggningens lokaler, fordon och utrustning.",
+          "C" : "Eleven tar ansvar för andras egendom och för anläggningens lokaler, fordon och utrustning.",
+          "A" : "Eleven tar ansvar för andras egendom och för anläggningens lokaler, fordon och utrustning."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar med andra för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar med andra för att nå planerade resultat.",
+          "C" : "Eleven samarbetar med andra <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+          "A" : "Eleven samarbetar med andra <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat."
+        }
+      }, {
+        "text" : "I kommunikation med andra använder eleven <strong>________</strong> yrkesspecifika begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> yrkesspecifika begrepp.",
+          "C" : "I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> yrkesspecifika begrepp.",
+          "A" : "I kommunikation med andra använder eleven <strong>med säkerhet</strong> yrkesspecifika begrepp."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> svenska och engelska instruktioner och manualer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska instruktioner och manualer.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska instruktioner och manualer.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> svenska och engelska instruktioner och manualer."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> dokumentation på engelska.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> dokumentation på engelska.",
+          "C" : "Dessutom gör eleven en <strong>noggrann</strong> dokumentation på engelska.",
+          "A" : "Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation på engelska."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  } ]
+}

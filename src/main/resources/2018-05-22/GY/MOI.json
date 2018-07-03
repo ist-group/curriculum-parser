@@ -1,0 +1,135 @@
+{
+  "name" : "Mobila applikationer",
+  "description" : "Ämnet mobila applikationer behandlar olika tekniker för att utveckla programvara riktad mot mobila enheter samt processen från idé till färdigt program. Ämnet mobila applikationer får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.",
+  "code" : "MOI",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet mobila applikationer ska syfta till att eleverna utvecklar färdigheter i att skapa applikationer anpassade för mobila enheter med hjälp av en eller flera tekniker.", "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om olika mobila enheters konstruktion och funktionalitet samt samspelet mellan olika sorters applikationslogik.", "Genom undervisningen ska eleverna även ges möjlighet att utveckla förmågan att utforma produkter som följer standarder samt riktlinjer för god praxis, användbarhet, tillgänglighet och säkerhet.", "Undervisningen ska dessutom leda till att eleverna utvecklar kunskaper om mobila enheters möjligheter och begränsningar." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om och färdigheter i att använda utvecklingsverktyg för att producera och kontrollera framställning av den kod som ligger till grund för applikationen.", "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om projektarbete och dess olika faser, enskilt eller i grupp." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet mobila applikationer ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om olika tekniker som kan användas för att bygga mobila applikationer.", "Förmåga att planera, genomföra, dokumentera och utvärdera utvecklingsprojekt för mobila applikationer.", "Kunskaper om gränssnitt mot användare, datalagring och mobilspecifik kringutrustning.", "Kunskaper om applikationsarkitektur inklusive separation av olika slags logik.", "Kunskaper om lagar och andra bestämmelser inom området samt förmåga att göra etiska överväganden och reflektera över integritetsfrågor.", "Förmåga att samarbeta och kommunicera med andra och färdigheter i att använda fackspråk." ]
+  } ],
+  "courses" : [ {
+    "name" : "Mobila applikationer",
+    "description" : "Kursen mobila applikationer omfattar punkterna 1–6 under rubriken Ämnets syfte.",
+    "code" : "MOIMOB3",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Utvecklingsprocessen för att utveckla en mobil applikation från målsättning, planering, specifikation av struktur och design, kodning, optimering, testning, till dokumentation och uppföljning.", "Kvalitetssäkring av applikationens funktion med speciell hänsyn tagen till mobila applikationers begränsningar, till exempel risk för bruten kontakt med server.", "Design av gränssnitt för mobila applikationer.", "Applikationer som är användarvänliga och robusta.", "Översikt över olika plattformar och dess olika operativ- och ekosystem.", "Användning av API.", "Tekniker för att undvika att användargränssnittet blockeras som asynkrona anrop eller flertrådiga applikationer.", "Mobila plattformar och dess samhällspåverkan.", "Utnyttjande av kringutrustning, till exempel kamera eller GPS.", "Lagar och andra bestämmelser som styr digital information, till exempel personuppgiftslagen och lagen om elektronisk kommunikation.", "Terminologi inom mobil applikationsutveckling." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> mobil plattform och dess operativsystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt någon</strong> mobil plattform och dess operativsystem.",
+          "C" : "Eleven beskriver <strong>utförligt några</strong> mobila plattformar och dess operativsystem.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat flera</strong> mobila plattformar och dess operativsystem."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör en <strong>________</strong> projektplan för en tänkt produkt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> projektplan för en tänkt produkt.",
+          "C" : "Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt produkt.",
+          "A" : "Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt produkt. <strong>Vid behov reviderar eleven planen</strong>."
+        }
+      }, {
+        "text" : "Utifrån projektplanen utvecklar eleven <strong>________</strong> med handledare produkten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Utifrån projektplanen utvecklar eleven <strong>i samråd</strong> med handledare produkten.",
+          "C" : "Utifrån projektplanen utvecklar eleven <strong>efter samråd</strong> med handledare produkten.",
+          "A" : "Utifrån projektplanen utvecklar eleven <strong>efter samråd</strong> med handledare produkten."
+        }
+      }, {
+        "text" : "I arbetet utvecklar eleven kod som med <strong>________</strong> resultat följer standarder och använder <strong>________</strong> funktioner i ett lämpligt API.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet utvecklar eleven kod som med <strong>tillfredsställande</strong> resultat följer standarder och använder <strong>enkla</strong> funktioner i ett lämpligt API.",
+          "C" : "I arbetet utvecklar eleven kod som med <strong>tillfredsställande</strong> resultat följer standarder och använder funktioner i ett lämpligt API.",
+          "A" : "I arbetet utvecklar eleven kod som med <strong>gott</strong> resultat följer standarder och använder <strong>avancerade</strong> funktioner i ett lämpligt API."
+        }
+      }, {
+        "text" : "Eleven anpassar sin produkt med <strong>________</strong> handlag så att användargränssnittet inte blockeras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven anpassar sin produkt med <strong>visst</strong> handlag så att användargränssnittet inte blockeras.",
+          "C" : "Eleven anpassar sin produkt med <strong>gott</strong> handlag så att användargränssnittet inte blockeras.",
+          "A" : "Eleven anpassar sin produkt med <strong>mycket gott</strong> handlag så att användargränssnittet inte blockeras."
+        }
+      }, {
+        "text" : "I arbetet bearbetar eleven <strong>________</strong> gränssnitt, så att det blir anpassat för att fungera i produkten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet bearbetar eleven <strong>med viss säkerhet något</strong> gränssnitt, så att det blir anpassat för att fungera i produkten.",
+          "C" : "I arbetet bearbetar eleven <strong>med viss säkerhet några</strong> gränssnitt, så att det blir anpassat för att fungera i produkten.",
+          "A" : "I arbetet bearbetar eleven <strong>med säkerhet flera</strong> gränssnitt, så att det blir anpassat för att fungera i produkten."
+        }
+      }, {
+        "text" : "Produkten är av <strong>________</strong> kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Produkten är av <strong>tillfredsställande</strong> kvalitet.",
+          "C" : "Produkten är av <strong>tillfredsställande</strong> kvalitet.",
+          "A" : "Produkten är av <strong>god</strong> kvalitet."
+        }
+      }, {
+        "text" : "Detta kontrollerar eleven <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Detta kontrollerar eleven <strong>med någon automatisk test</strong>.",
+          "C" : "Detta kontrollerar eleven <strong>med några automatiska och manuella tester</strong>.",
+          "A" : "Detta kontrollerar eleven <strong>med flera automatiska och manuella tester</strong>."
+        }
+      }, {
+        "text" : "Eleven testar produkten <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven testar produkten <strong>på någon mobil plattform</strong>.",
+          "C" : "Eleven testar produkten på <strong>flera</strong> mobila plattformar som använder samma eller olika operativsystem.",
+          "A" : "Eleven testar produkten på <strong>flera</strong> mobila plattformar som använder samma eller olika operativsystem. <strong>Eleven <strong>anpassar produkten</strong> så att den <strong>fungerar på plattformar i störande omgivningar</strong></strong>."
+        }
+      }, {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> dokumentation av de moment som har utförts samt utvärderar med <strong>________</strong> omdömen sitt arbete och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av de moment som har utförts samt utvärderar med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+          "C" : "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av de moment som har utförts samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
+          "A" : "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av de moment som har utförts <strong>med koppling till generella principer och testresultat</strong> samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>och <strong>ger förslag på hur arbetet kan förbättras</strong></strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för innehållet i lagar och andra bestämmelser som rör digital information samt följer dem i sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för innehållet i lagar och andra bestämmelser som rör digital information samt följer dem i sitt arbete.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för innehållet i lagar och andra bestämmelser som rör digital information samt följer dem i sitt arbete.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för innehållet i lagar och andra bestämmelser som rör publicering på webben samt följer dem i sitt arbete."
+        }
+      }, {
+        "text" : "Eleven hanterar lösenord och annan känslig data på ett etiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar lösenord och annan känslig data på ett etiskt och säkert sätt.",
+          "C" : "Eleven hanterar lösenord och annan känslig data på ett etiskt och säkert sätt <strong>samt för välgrundade resonemang</strong> om andra webbrelaterade frågor om etik och integritet.",
+          "A" : "Eleven hanterar lösenord och annan känslig data på ett etiskt och säkert sätt <strong>samt för välgrundade och nyanserade resonemang</strong> om andra webbrelaterade frågor etik och integritet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven kommunicerar med andra använder hon eller han <strong>________</strong> relevant fackspråk och samarbetar med andra för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven kommunicerar med andra använder hon eller han <strong>med viss säkerhet</strong> relevant fackspråk och samarbetar med andra för att nå planerade resultat.",
+          "C" : "När eleven kommunicerar med andra använder hon eller han <strong>med viss säkerhet</strong> relevant fackspråk och samarbetar med andra för att nå planerade resultat.",
+          "A" : "När eleven kommunicerar med andra använder hon eller han <strong>med säkerhet</strong> relevant fackspråk och samarbetar med andra för att nå planerade resultat."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

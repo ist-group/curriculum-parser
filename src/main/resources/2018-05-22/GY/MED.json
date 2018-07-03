@@ -1,0 +1,176 @@
+{
+  "name" : "Medicin",
+  "description" : "Ämnet medicin grundar sig huvudsakligen på de medicinska kunskapsområdena anatomi, fysiologi, mikrobiologi, farmakologi, patologi och geriatrik men i ämnet finns också inslag av vårdvetenskap. Ämnet behandlar människans fysiska uppbyggnad och funktion vid hälsa och ohälsa.",
+  "code" : "MED",
+  "designation" : "",
+  "skolfsId" : "2010:96",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet medicin ska syfta till att eleverna utvecklar kunskaper om människans fysiska, psykiska och sociala förutsättningar vid hälsa och ohälsa.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om orsaker, symtom, diagnoser, behandlingar, vård och omsorg vid olika sjukdomar samt förmåga att handla vid akuta sjukdomar och skador.", "Eleverna ska också ges möjlighet att utveckla förmåga att observera och rapportera förändringar i patienters och brukares hälsotillstånd.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper i medicinsk terminologi som bidrar till kommunikativ förmåga inom området." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska genom praktiska övningar leda till att eleverna utvecklar förmåga att utföra första hjälpen och hjärt-lungräddning." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet medicin ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om hur människokroppen är uppbyggd och fungerar samt kunskaper om människans normala fysiska utveckling genom livet.", "Kunskaper om sjukdomar samt förmåga att uppfatta symtom på sjukdom.", "Kunskaper om läkemedel och läkemedelsanvändning samt om lagar och andra bestämmelser.", "Kunskaper om mikroorganismer och deras spridningsvägar samt kroppens försvarssystem.", "Förmåga att ge första hjälpen och hjärt-lungräddning. Kunskaper om samhällets hjälpinsatser vid krig och katastrofer samt kunskaper om brandsäkerhetsarbete.", "Förmåga att använda medicinsk terminologi." ]
+  } ],
+  "courses" : [ {
+    "name" : "Medicin 1",
+    "description" : "Kursen medicin 1 omfattar punkterna 1–6 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "MEDMED01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Människokroppens uppbyggnad och utveckling samt dess förmåga till ämnesomsättning, rörelse, retbarhet, skydd, försvar och fortplantning.", "Vanliga sjukdomar och deras orsaker, symtom och diagnoser, undersökningar, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar.", "Vanliga läkemedel, deras verkningssätt, användningsområden och biverkningar samt lagar och andra bestämmelser som gäller för läkemedelsanvändning.", "Vanliga mikroorganismer och deras spridningsvägar.", "Första hjälpen vid skador och akuta sjukdomar samt hjärt-lungräddning.", "Samhällets hjälpinsatser vid krig och katastrofer.", "Brandsäkerhetsarbete som att upptäcka och åtgärda brandrisker samt agerande i händelse av brand.", "Medicinsk terminologi." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> människokroppens uppbyggnad och funktion samt människans normala fysiska utveckling.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> människokroppens uppbyggnad och funktion samt människans normala fysiska utveckling.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> människokroppens uppbyggnad och funktion samt människans normala fysiska utveckling.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> människokroppens uppbyggnad och funktion samt människans normala fysiska utveckling."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> vanliga sjukdomar och deras fysiska och psykiska symtom.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> vanliga sjukdomar och deras fysiska och psykiska symtom.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> vanliga sjukdomar och deras fysiska och psykiska symtom.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> vanliga sjukdomar och deras fysiska och psykiska symtom."
+        }
+      }, {
+        "text" : "Dessutom ger eleven exempel på relevanta undersökningsmetoder, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom ger eleven exempel på relevanta undersökningsmetoder, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar.",
+          "C" : "Dessutom ger eleven exempel på, <strong>och förklarar sambanden mellan</strong>, relevanta undersökningsmetoder, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar. <strong>Eleven förklarar även översiktligt några samband mellan människa, miljö, livsstil och sjukdom</strong>.",
+          "A" : "Dessutom ger eleven exempel på, <strong>och förklarar nyanserat sambanden mellan</strong>, relevanta undersökningsmetoder, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar. <strong>Eleven förklarar även nyanserat några samband mellan människa, miljö, livsstil och sjukdom</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> vanliga läkemedel, deras verkningssätt, användningsområden och biverkningar samt hänvisar till lagar och andra bestämmelser som gäller för läkemedelsanvändning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> vanliga läkemedel, deras verkningssätt, användningsområden och biverkningar samt hänvisar till lagar och andra bestämmelser som gäller för läkemedelsanvändning.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> vanliga läkemedel, deras verkningssätt, användningsområden och biverkningar samt hänvisar till lagar och andra bestämmelser som gäller för läkemedelsanvändning.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> vanliga läkemedel, deras verkningssätt, användningsområden och biverkningar samt hänvisar till lagar och andra bestämmelser som gäller för läkemedelsanvändning."
+        }
+      }, {
+        "text" : "Eleven ger också exempel på mikroorganismer och beskriver <strong>________</strong> hur de kan spridas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven ger också exempel på mikroorganismer och beskriver <strong>översiktligt</strong> hur de kan spridas.",
+          "C" : "Eleven ger också exempel på mikroorganismer och beskriver <strong>utförligt</strong> hur de kan spridas.",
+          "A" : "Eleven ger också exempel på mikroorganismer och beskriver <strong>utförligt och nyanserat</strong> hur de kan spridas."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> hur första hjälpen och hjärt-lungräddning ges, samt genomför dessa insatser <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> hur första hjälpen och hjärt-lungräddning ges, samt genomför dessa insatser <strong>i samråd</strong> med handledare.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> hur första hjälpen och hjärt-lungräddning ges samt genomför dessa insatser <strong>efter samråd</strong> med handledare.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> hur första hjälpen och hjärt-lungräddning ges, samt genomför dessa insatser <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Eleven beskriver <strong>________</strong> samhällets hjälpinsatser vid krig och katastrofer samt åtgärder för att förebygga brand och hur man ska agera då brand uppstått.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> samhällets hjälpinsatser vid krig och katastrofer samt åtgärder för att förebygga brand och hur man ska agera då brand uppstått.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> samhällets hjälpinsatser vid krig och katastrofer samt åtgärder för att förebygga brand och hur man ska agera då brand uppstått.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> samhällets hjälpinsatser vid krig och katastrofer samt åtgärder för att förebygga brand och hur man ska agera då brand uppstått."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I beskrivningarna använder eleven <strong>________</strong> medicinsk terminologi.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningarna använder eleven <strong>med viss säkerhet enkel</strong> medicinsk terminologi.",
+          "C" : "I beskrivningarna använder eleven <strong>med viss säkerhet</strong> medicinsk terminologi.",
+          "A" : "I beskrivningarna använder eleven <strong>med säkerhet</strong> medicinsk terminologi."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 150,
+    "year" : null
+  }, {
+    "name" : "Medicin 2",
+    "description" : "Kursen medicin 2 omfattar punkterna 1–4 och 6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "MEDMED02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Människokroppens uppbyggnad med fördjupning i dess förmåga till ämnesomsättning, rörelse, retbarhet, skydd, försvar och fortplantning.", "Fysiologiska processer med utgångspunkt i hälsa.", "Sjukdomar och deras orsaker, symtom och diagnoser. Undersökningar, medicinska behandlingar, vård och omsorg vid dessa sjukdomar.", "Vatten-, elektrolyt-, syrabas- och näringsbalans.", "Farmakologi inklusive specifika läkemedel, deras verkningssätt, användningsområden och biverkningar.", "Mikroorganismer och kroppens försvarssystem.", "Medicinsk terminologi." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> människokroppens uppbyggnad och funktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> människokroppens uppbyggnad och funktion.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> människokroppens uppbyggnad och funktion.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> människokroppens uppbyggnad och funktion."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> olika sjukdomar och deras specifika fysiska och psykiska symtom.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> olika sjukdomar och deras specifika fysiska och psykiska symtom.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> olika sjukdomar och deras specifika fysiska och psykiska symtom.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> olika sjukdomar och deras specifika fysiska och psykiska symtom."
+        }
+      }, {
+        "text" : "Dessutom ger eleven exempel på relevanta undersökningsmetoder, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom ger eleven exempel på relevanta undersökningsmetoder, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar.",
+          "C" : "Dessutom ger eleven exempel på, <strong>och förklarar sambanden mellan</strong>, relevanta undersökningsmetoder, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar.",
+          "A" : "Dessutom ger eleven exempel på, <strong>och förklarar nyanserat sambanden mellan</strong>, relevanta undersökningsmetoder, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar."
+        }
+      }, {
+        "text" : "Eleven beskriver <strong>________</strong> kroppens vätske- och näringsbalans samt ger exempel på sjukdomar där balansen kan rubbas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> kroppens vätske- och näringsbalans samt ger exempel på sjukdomar där balansen kan rubbas.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> kroppens vätske- och näringsbalans, ger exempel på sjukdomar där balansen kan rubbas <strong>samt beskriver symtom som uppkommer när balansen är rubbad</strong>. <strong>Eleven förklarar utförligt några samband mellan människa, miljö, livsstil och specifika sjukdomar</strong>.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> kroppens vätske- och näringsbalans, ger exempel på sjukdomar där balansen kan rubbas <strong>samt beskriver symtom som uppkommer när balansen är rubbad och motiverar varför de uppkommer</strong>. <strong>Eleven förklarar utförligt och nyanserat några samband mellan människa, miljö, livsstil och specifika sjukdomar. Dessutom värderar eleven med enkla omdömen olika förklaringar till samband mellan sjukdom och människans fysiska, psykiska och sociala förutsättningar</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> specifika läkemedel, deras verkningssätt, användningsområden och biverkningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> specifika läkemedel, deras verkningssätt, användningsområden och biverkningar.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> specifika läkemedel, deras verkningssätt, användningsområden och biverkningar.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> specifika läkemedel, deras verkningssätt, användningsområden och biverkningar."
+        }
+      }, {
+        "text" : "Eleven ger också exempel på mikroorganismer och beskriver <strong>________</strong> hur de kan spridas samt beskriver <strong>________</strong> kroppens försvarssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven ger också exempel på mikroorganismer och beskriver <strong>översiktligt</strong> hur de kan spridas samt beskriver <strong>översiktligt</strong> kroppens försvarssystem.",
+          "C" : "Eleven ger också exempel på mikroorganismer och beskriver <strong>utförligt</strong> hur de kan spridas samt beskriver <strong>utförligt</strong> kroppens försvarssystem.",
+          "A" : "Eleven ger också exempel på mikroorganismer och beskriver <strong>utförligt och nyanserat</strong> hur de kan spridas samt beskriver <strong>utförligt och nyanserat</strong> kroppens försvarssystem."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I beskrivningarna använder eleven <strong>________</strong> medicinsk terminologi.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningarna använder eleven <strong>med viss säkerhet enkel</strong> medicinsk terminologi.",
+          "C" : "I beskrivningarna använder eleven <strong>med viss säkerhet</strong> medicinsk terminologi.",
+          "A" : "I beskrivningarna använder eleven <strong>med säkerhet</strong> medicinsk terminologi."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

@@ -1,0 +1,327 @@
+{
+  "name" : "Gränssnittsdesign",
+  "description" : "Ämnet gränssnittsdesign behandlar interaktionen mellan dator och människa med fokus på designaspekterna i utveckling av användbara, tillgängliga och tilltalande gränssnitt.",
+  "code" : "GRÄ",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet gränssnittsdesign ska syfta till att eleverna utvecklar kunskaper om principerna bakom olika gränssnitt.", "Eleverna ska ges möjlighet att skapa användbara, estetiskt tilltalande och tillgängliga användargränssnitt för interaktion med exempelvis webbplatser, mjukvaruapplikationer eller inbyggda system.", "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om de element som ett gränssnitt utgörs av, olika metoder för användaren att skicka indata och ta emot utdata, terminologi inom området, formspråk och de principer en gränssnittsdesigner bör följa." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om projektmetodik för gränssnittsdesign från förstudie och målbeskrivning till färdig prototyp och stilguide.", "Eleverna ska också ges möjlighet att utveckla kunskaper om metoder för användbarhetstestning." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet gränssnittsdesign ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förmåga att planera, genomföra och utvärdera projekt för att utveckla gränssnitt till applikationer.", "Kunskaper om hur digital bild, film, text och ljud anpassas till ett gränssnitt.", "Förmåga att skapa en estetiskt tilltalande och målgruppsanpassad design av gränssnitt.", "Förmåga att skapa ett användarvänligt gränssnitt samt kunskaper om vilka principer som styr detta.", "Kunskaper om hur tillgänglighet påverkas av kognitiva faktorer vid skapandet av gränssnitt.", "Kunskaper om på vilket sätt integritet och etik har betydelse för utformningen av datorsystem och gränssnitt.", "Kunskaper om lagar och andra bestämmelser inom området." ]
+  } ],
+  "courses" : [ {
+    "name" : "Gränssnitt 3D",
+    "description" : "Kursen gränssnitt 3D omfattar punkterna 1–7 under rubriken Ämnets syfte.",
+    "code" : "GRÄGRN0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Begreppsbildning kring och användning av virtuell och förstärkt verklighet samt tjänster utformade efter geografisk kontext.", "Genomförande av förstudier genom problemformulering utifrån kundönskemål, identifikation av målgrupper och typanvändare.", "Undersökning av tekniska förutsättningar och formulering av målsättningar och framgångskriterier.", "Genomförande av gränssnittsdesignprojekt med idégenerering, skisser, återkoppling till beställare, interaktiv prototyp, testning, dokumentation och överlämnande för implementering.", "Datorstöd för projekthantering.", "Utvecklingsverktyg för tredimensionell grafik.", "Modellering och texturer.", "Samverkan mellan tredimensionell användarmiljö, text och ljud.", "Människa–datorinteraktion (HCI) samt användbarhet och tillgänglighet.", "Metoder och teknik för navigation i tredimensionella miljöer.", "Förflyttning genom tredimensionella miljöer och interaktion med tredimensionella objekt.", "Datorsystem (ubicomp) och gränssnitt i vardagen.", "Frågor som rör integritet och etik.", "Lagar och andra bestämmelser inom området." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör en <strong>________</strong> projektplan för att utveckla ett gränssnitt till en applikation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> projektplan för att utveckla ett gränssnitt till en applikation.",
+          "C" : "Eleven gör en <strong>genomarbetad</strong> projektplan för att utveckla ett gränssnitt till en applikation.",
+          "A" : "Eleven gör en <strong>genomarbetad</strong> projektplan för att utveckla ett gränssnitt till en applikation."
+        }
+      }, {
+        "text" : "Projektplanen innehåller en <strong>________</strong> problemformulering utifrån kundönskemål, identifikation av målgruppen och dess behov samt projektets tekniska förutsättningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Projektplanen innehåller en <strong>enkel</strong> problemformulering utifrån kundönskemål, identifikation av målgruppen och dess behov samt projektets tekniska förutsättningar.",
+          "C" : "Projektplanen innehåller en problemformulering utifrån kundönskemål, identifikation av målgruppen och dess behov samt projektets tekniska förutsättningar.",
+          "A" : "Projektplanen innehåller en <strong>komplex</strong> problemformulering utifrån kundönskemål, identifikation av målgruppen och dess behov samt projektets tekniska förutsättningar."
+        }
+      }, {
+        "text" : "Eleven värderar med <strong>________</strong> omdömen sin projektplan.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven värderar med <strong>enkla</strong> omdömen sin projektplan.",
+          "C" : "Eleven värderar med <strong>nyanserade</strong> omdömen sin projektplan.",
+          "A" : "Eleven värderar med <strong>nyanserade</strong> omdömen sin projektplan <strong>ur flera perspektiv samt föreslår vid behov förbättringar av planen</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utvecklar några <strong>________</strong> tredimensionella objekt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvecklar några <strong>enkla</strong> tredimensionella objekt.",
+          "C" : "Eleven utvecklar några tredimensionella objekt.",
+          "A" : "Eleven utvecklar några tredimensionella objekt."
+        }
+      }, {
+        "text" : "Eleven utformar också med <strong>________</strong> resultat navigation och interaktivitet för en virtuell miljö eller förstärkt verklighet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utformar också med <strong>tillfredsställande</strong> resultat navigation och interaktivitet för en virtuell miljö eller förstärkt verklighet.",
+          "C" : "Eleven utformar också med <strong>tillfredsställande</strong> resultat navigation och interaktivitet för en virtuell miljö eller förstärkt verklighet.",
+          "A" : "Eleven utformar också med <strong>gott</strong> resultat navigation och interaktivitet för en virtuell miljö eller förstärkt verklighet."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för olika datakällor som kan användas för att ge information till användaren av gränssnittet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för olika datakällor som kan användas för att ge information till användaren av gränssnittet.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för olika datakällor som kan användas för att ge information till användaren av gränssnittet.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för olika datakällor som kan användas för att ge information till användaren av gränssnittet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven bearbetar gränssnittet på <strong>________</strong> sätt enligt principer för visuell design.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven bearbetar gränssnittet på <strong>något</strong> sätt enligt principer för visuell design.",
+          "C" : "Eleven bearbetar gränssnittet på <strong>några olika</strong> sätt enligt principer för visuell design.",
+          "A" : "Eleven bearbetar gränssnittet på <strong>flera olika</strong> sätt enligt principer för visuell design."
+        }
+      }, {
+        "text" : "Resultatet är <strong>________</strong> och anpassat till användarens behov utifrån <strong>________</strong> princip för användbarhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet är <strong>tillfredsställande</strong> och anpassat till användarens behov utifrån <strong>någon enkel</strong> princip för användbarhet.",
+          "C" : "Resultatet är <strong>tillfredsställande</strong> och anpassat till användarens behov utifrån <strong>några</strong> principer för användbarhet.",
+          "A" : "Resultatet är <strong>gott</strong> och anpassat till användarens behov utifrån <strong>flera</strong> principer för användbarhet."
+        }
+      }, {
+        "text" : "Detta gör eleven genom att anpassa den visuella designen och interaktionen så att gränssnittet har en <strong>________</strong> kvalitet i fråga om uppfattningsbarhet och användbarhet också för användare med funktionsnedsättningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Detta gör eleven genom att anpassa den visuella designen och interaktionen så att gränssnittet har en <strong>tillfredsställande</strong> kvalitet i fråga om uppfattningsbarhet och användbarhet också för användare med funktionsnedsättningar.",
+          "C" : "Detta gör eleven genom att anpassa den visuella designen och interaktionen så att gränssnittet har en <strong>tillfredsställande</strong> kvalitet i fråga om uppfattningsbarhet och användbarhet också för användare med funktionsnedsättningar.",
+          "A" : "Detta gör eleven genom att anpassa den visuella designen och interaktionen, så att gränssnittet har en <strong>god</strong> kvalitet i fråga om uppfattningsbarhet och användbarhet också för användare med funktionsnedsättningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven följer <strong>________</strong> av de vedertagna konventioner som finns för den typ av applikation för vilken gränssnittet är avsett.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven följer <strong>någon</strong> av de vedertagna konventioner som finns för den typ av applikation för vilken gränssnittet är avsett.",
+          "C" : "Eleven följer <strong>några</strong> av de vedertagna konventioner som finns för den typ av applikation för vilken gränssnittet är avsett.",
+          "A" : "Eleven följer <strong>flera</strong> av de vedertagna konventioner som finns för den typ av applikation för vilken gränssnittet är avsett."
+        }
+      }, {
+        "text" : "Eleven utvecklar en huvudsakligen interaktiv prototyp med <strong>________</strong> resultat i fråga om funktion, utseende och användbarhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvecklar en huvudsakligen interaktiv prototyp med <strong>tillfredsställande</strong> resultat i fråga om funktion, utseende och användbarhet.",
+          "C" : "Eleven utvecklar en huvudsakligen interaktiv prototyp med <strong>tillfredsställande</strong> resultat i fråga om funktion, utseende och användbarhet.",
+          "A" : "Eleven utvecklar en huvudsakligen interaktiv prototyp med <strong>gott</strong> resultat i fråga om funktion, utseende och användbarhet."
+        }
+      }, {
+        "text" : "Dessutom testar eleven prototypens användbarhet med <strong>________</strong> metoder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom testar eleven prototypens användbarhet med <strong>några enkla</strong> metoder.",
+          "C" : "Dessutom testar eleven prototypens användbarhet med <strong>några</strong> metoder.",
+          "A" : "Dessutom testar eleven prototypens användbarhet med <strong>flera</strong> metoder."
+        }
+      }, {
+        "text" : "Eleven kompletterar prototypen med en stilguide som täcker <strong>________</strong> av designens viktiga delar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kompletterar prototypen med en stilguide som täcker <strong>någon</strong> av designens viktiga delar.",
+          "C" : "Eleven kompletterar prototypen med en stilguide som täcker <strong>några</strong> av designens viktiga delar.",
+          "A" : "Eleven kompletterar prototypen med en stilguide som täcker <strong>flera</strong> av designens viktiga delar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör en <strong>________</strong> dokumentation av sitt arbete samt utvärderar med <strong>________</strong> omdömen sitt arbete och resultat utifrån projektplanen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete samt utvärderar med <strong>enkla</strong> omdömen sitt arbete och resultat utifrån projektplanen.",
+          "C" : "Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat utifrån projektplanen.",
+          "A" : "Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat utifrån projektplanen. <strong>Dessutom ger eleven förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "I utvärderingen diskuterar eleven <strong>________</strong> hur det egna gränssnittet förhåller sig till teoribildningen om människa–datorinteraktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I utvärderingen diskuterar eleven <strong>översiktligt</strong> hur det egna gränssnittet förhåller sig till teoribildningen om människa–datorinteraktion.",
+          "C" : "I utvärderingen diskuterar eleven <strong>utförligt</strong> hur det egna gränssnittet förhåller sig till teoribildningen om människa–datorinteraktion.",
+          "A" : "I utvärderingen diskuterar eleven <strong>utförligt och nyanserat</strong> hur det egna gränssnittet förhåller sig till teoribildningen om människa–datorinteraktion."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong>, utifrån några exempel i vardagen, för på vilket sätt integritet och etik har betydelse för utformningen av datorsystem, gränssnitt och tjänster utformade efter geografisk kontext.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong>, utifrån några exempel i vardagen, för på vilket sätt integritet och etik har betydelse för utformningen av datorsystem, gränssnitt och tjänster utformade efter geografisk kontext.",
+          "C" : "Eleven redogör <strong>utförligt</strong>, utifrån några exempel i vardagen, för på vilket sätt integritet och etik har betydelse för utformningen av datorsystem, gränssnitt och tjänster utformade efter geografisk kontext.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong>, utifrån några exempel i vardagen, för på vilket sätt integritet och etik har betydelse för utformningen av datorsystem, gränssnitt och tjänster utformade efter geografisk kontext."
+        }
+      }, {
+        "text" : "Dessutom hänvisar eleven i sin redogörelse till lagar och andra bestämmelser inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom hänvisar eleven i sin redogörelse till lagar och andra bestämmelser inom området.",
+          "C" : "Dessutom hänvisar eleven i sin redogörelse till lagar och andra bestämmelser inom området.",
+          "A" : "Dessutom hänvisar eleven i sin redogörelse till lagar och andra bestämmelser inom området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> terminologi inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> terminologi inom området.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> terminologi inom området.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> terminologi inom området."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Gränssnittsdesign",
+    "description" : "Kursen gränssnittsdesign omfattar punkterna 1–7 under rubriken Ämnets syfte.",
+    "code" : "GRÄGRÄ0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Gränssnitt för en applikation.", "Genomförande av förstudier genom problemformulering utifrån kundönskemål, identifikation av målgrupper och typanvändare, undersökning av tekniska förutsättningar och liknande applikationer samt formulering av målsättningar och framgångskriterier.", "Genomförande av gränssnittsdesignprojekt, vilket innebär idégenerering, skisser, återkoppling till beställare, interaktiv prototyp, testning, dokumentation och överlämnande för implementering.", "Datorstöd för projekthantering.", "Inhämtning och värdering av information.", "Redigering och anpassning av digital bild, film och ljud till ett gränssnitt.", "Kommunikationsteknik och textbearbetning för effektiv anpassning till relevant medium.", "Faktorer som skapar en god användarupplevelse.", "Typsnitt, färgscheman och principer för layout av gränssnitt.", "Informationsarkitektur och användarvänlig navigation.", "Konventioner och formspråk eller mönster för interaktion, inmatnings- och utmatningsmetoder och vanligt förekommande gränssnittselement, till exempel textinmatningsfält eller knappar.", "Faktorer som möjliggör kommunikation av specifika budskap.", "Principer för användbarhet samt metoder för att testa användbarhet.", "Krav på ett inkluderande gränssnitt. Riktlinjer, principer, tekniker och testning för tillgänglighet.", "Datorsystem (ubicomp) och gränssnitt i vardagen.", "Frågor som rör integritet och etik.", "Lagar och andra bestämmelser inom området." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör en <strong>________</strong> projektplan för att utveckla ett gränssnitt till en applikation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> projektplan för att utveckla ett gränssnitt till en applikation.",
+          "C" : "Eleven gör en <strong>genomarbetad</strong> projektplan för att utveckla ett gränssnitt till en applikation.",
+          "A" : "Eleven gör en <strong>genomarbetad</strong> projektplan för att utveckla ett gränssnitt till en applikation."
+        }
+      }, {
+        "text" : "Projektplanen innehåller en <strong>________</strong> problemformulering utifrån kundönskemål, identifikation av målgruppen och dess behov samt projektets tekniska förutsättningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Projektplanen innehåller en <strong>enkel</strong> problemformulering utifrån kundönskemål, identifikation av målgruppen och dess behov samt projektets tekniska förutsättningar.",
+          "C" : "Projektplanen innehåller en problemformulering utifrån kundönskemål, identifikation av målgruppen och dess behov samt projektets tekniska förutsättningar.",
+          "A" : "Projektplanen innehåller en <strong>komplex</strong> problemformulering utifrån kundönskemål, identifikation av målgruppen och dess behov samt projektets tekniska förutsättningar."
+        }
+      }, {
+        "text" : "Eleven värderar med <strong>________</strong> omdömen sin projektplan.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven värderar med <strong>enkla</strong> omdömen sin projektplan.",
+          "C" : "Eleven värderar med <strong>nyanserade</strong> omdömen sin projektplan.",
+          "A" : "Eleven värderar med <strong>nyanserade</strong> omdömen sin projektplan <strong>ur flera perspektiv samt föreslår vid behov förbättringar av planen</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "För att utveckla gränssnittet hämtar eller skapar eleven texter, bilder och eventuell annan media samt infogar dessa i gränssnittet till applikationen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "För att utveckla gränssnittet hämtar eller skapar eleven texter, bilder och eventuell annan media samt infogar dessa i gränssnittet till applikationen.",
+          "C" : "För att utveckla gränssnittet hämtar eller skapar eleven texter, bilder och eventuell annan media samt infogar dessa i gränssnittet till applikationen.",
+          "A" : "För att utveckla gränssnittet hämtar eleven eller skapar eleven texter, bilder och eventuell annan media samt infogar dessa i gränssnittet till applikationen."
+        }
+      }, {
+        "text" : "Eleven bearbetar gränssnittet på <strong>________</strong> sätt enligt principer för visuell design.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven bearbetar gränssnittet på <strong>något</strong> sätt enligt principer för visuell design.",
+          "C" : "Eleven bearbetar gränssnittet på <strong>några olika</strong> sätt enligt principer för visuell design.",
+          "A" : "Eleven bearbetar gränssnittet på <strong>flera olika</strong> sätt enligt principer för visuell design."
+        }
+      }, {
+        "text" : "Resultatet är <strong>________</strong> och anpassat till användarens behov utifrån <strong>________</strong> princip för användbarhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet är <strong>tillfredsställande</strong> och anpassat till användarens behov utifrån <strong>någon enkel</strong> princip för användbarhet.",
+          "C" : "Resultatet är <strong>tillfredsställande</strong> anpassat till användarens behov utifrån <strong>några</strong> principer för användbarhet.",
+          "A" : "Resultatet är <strong>gott</strong> och anpassat till användarens behov utifrån <strong>flera komplexa</strong> principer för användbarhet."
+        }
+      }, {
+        "text" : "Detta gör eleven genom att anpassa den visuella designen och interaktionen så att gränssnittet har en <strong>________</strong> kvalitet i fråga om uppfattningsbarhet och användbarhet också för användare med funktionsnedsättningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Detta gör eleven genom att anpassa den visuella designen och interaktionen så att gränssnittet har en <strong>tillfredsställande</strong> kvalitet i fråga om uppfattningsbarhet och användbarhet också för användare med funktionsnedsättningar.",
+          "C" : "Detta gör eleven genom att anpassa den visuella designen och interaktionen så att gränssnittet har en <strong>tillfredsställande</strong> kvalitet i fråga om uppfattningsbarhet och användbarhet också för användare med funktionsnedsättningar.",
+          "A" : "Detta gör eleven genom att anpassa den visuella designen och interaktionen så att gränssnittet har en <strong>god</strong> kvalitet i fråga om uppfattningsbarhet och användbarhet också för användare med funktionsnedsättningar."
+        }
+      }, {
+        "text" : "Dessutom för gränssnittet fram kundens önskade budskap på ett <strong>________</strong> sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom för gränssnittet fram kundens önskade budskap på ett <strong>tillfredsställande</strong> sätt.",
+          "C" : "Dessutom för gränssnittet fram kundens önskade budskap på ett <strong>tillfredsställande</strong> sätt.",
+          "A" : "Dessutom för gränssnittet fram kundens önskade budskap på ett <strong>gott</strong> sätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven följer <strong>________</strong> av de vedertagna konventioner som finns för den plattform som hon eller han arbetar med.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven följer <strong>någon</strong> av de vedertagna konventioner som finns för den plattform som hon eller han arbetar med.",
+          "C" : "Eleven följer <strong>några</strong> av de vedertagna konventioner som finns för den plattform som hon eller han arbetar med.",
+          "A" : "Eleven följer <strong>flera</strong> av de vedertagna konventioner som finns för den plattform som hon eller han arbetar med."
+        }
+      }, {
+        "text" : "Eleven utvecklar en huvudsakligen interaktiv prototyp med <strong>________</strong> resultat i fråga om funktion, utseende och användbarhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvecklar en huvudsakligen interaktiv prototyp med <strong>tillfredsställande</strong> resultat i fråga om funktion, utseende och användbarhet.",
+          "C" : "Eleven utvecklar en huvudsakligen interaktiv prototyp med <strong>tillfredsställande</strong> resultat i fråga om funktion, utseende och användbarhet.",
+          "A" : "Eleven utvecklar en huvudsakligen interaktiv prototyp med <strong>gott</strong> resultat i fråga om funktion, utseende och användbarhet."
+        }
+      }, {
+        "text" : "Dessutom testar eleven prototypens användbarhet med <strong>________</strong> metoder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom testar eleven prototypens användbarhet med <strong>några enkla</strong> metoder.",
+          "C" : "Dessutom testar eleven prototypens användbarhet med <strong>några</strong> metoder.",
+          "A" : "Dessutom testar eleven prototypens användbarhet med <strong>flera</strong> metoder <strong>samt återkopplar resultaten från sin testning till sin design</strong>."
+        }
+      }, {
+        "text" : "Prototypen kompletteras med en stilguide som täcker <strong>________</strong> av designens viktigaste delar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Prototypen kompletteras med en stilguide som täcker <strong>någon</strong> av designens viktigaste delar.",
+          "C" : "Prototypen kompletteras med en stilguide som täcker <strong>några</strong> av designens viktigaste delar.",
+          "A" : "Prototypen kompletteras med en stilguide som täcker <strong>flera</strong> av designens viktigaste delar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör en <strong>________</strong> dokumentation av sitt arbete samt utvärderar med <strong>________</strong> omdömen sitt arbete och resultat utifrån projektplanen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete samt utvärderar med <strong>enkla</strong> omdömen sitt arbete och resultat utifrån projektplanen.",
+          "C" : "Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat utifrån projektplanen.",
+          "A" : "Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat utifrån projektplanen. Dessutom <strong>ger eleven förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "I utvärderingen diskuterar eleven <strong>________</strong> hur det egna gränssnittet förhåller sig till generella principer för hur en god användarupplevelse skapas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I utvärderingen diskuterar eleven <strong>översiktligt</strong> hur det egna gränssnittet förhåller sig till generella principer för hur en god användarupplevelse skapas.",
+          "C" : "I utvärderingen diskuterar eleven <strong>utförligt</strong> hur det egna gränssnittet förhåller sig till generella principer för hur en god användarupplevelse skapas.",
+          "A" : "I utvärderingen diskuterar eleven <strong>utförligt och nyanserat</strong> hur det egna gränssnittet förhåller sig till generella principer för hur en god användarupplevelse skapas. <strong>Dessutom ger eleven förslag på hur resultatet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong>, utifrån några exempel i vardagen, för på vilket sätt integritet och etik har betydelse för utformningen av datorsystem och gränssnitt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong>, utifrån några exempel i vardagen, för på vilket sätt integritet och etik har betydelse för utformningen av datorsystem och gränssnitt.",
+          "C" : "Eleven redogör <strong>utförligt</strong>, utifrån några exempel i vardagen, för på vilket sätt integritet och etik har betydelse för utformningen av datorsystem och gränssnitt.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong>, utifrån några exempel i vardagen, för på vilket sätt integritet och etik har betydelse för utformningen av datorsystem och gränssnitt."
+        }
+      }, {
+        "text" : "Dessutom hänvisar eleven i sin redogörelse till lagar och andra bestämmelser inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom hänvisar eleven i sin redogörelse till lagar och andra bestämmelser inom området.",
+          "C" : "Dessutom hänvisar eleven i sin redogörelse till lagar och andra bestämmelser inom området.",
+          "A" : "Dessutom hänvisar eleven i sin redogörelse till lagar och andra bestämmelser inom området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> terminologi inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> terminologi inom området.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> terminologi inom området.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> terminologi inom området."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

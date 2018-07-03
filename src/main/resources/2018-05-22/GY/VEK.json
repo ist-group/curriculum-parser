@@ -1,0 +1,104 @@
+{
+  "name" : "Verktygs- och materialhantering",
+  "description" : "Ämnet verktygs- och materialhantering behandlar planering, beräkning och utförande av montagearbeten inom många olika områden. Vidare behandlar ämnet hur man hanterar verktyg, material, maskiner och fästdon samt i vilka sammanhang de får och kan användas.",
+  "code" : "VEK",
+  "designation" : "",
+  "skolfsId" : "2010:82",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet verktygs- och materialhantering ska syfta till att eleverna utvecklar kunskaper om hur utrustning, material och fästdon väljs, används och vårdas på ett säkert och arbetsmiljöriktigt sätt.", "Den ska också leda till att eleverna utvecklar förmåga att planera, utföra, utvärdera och dokumentera arbeten i enlighet med miljö- och arbetslivskrav.", "Dessutom ska eleverna ges möjlighet att utveckla kunskaper om brandrisker och förebyggande brandskydd i sin arbetsmiljö." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska leda till att eleverna utvecklar färdigheter i att använda verktygens manualer och ritningar med materialbeteckningar.", "Den ska också bidra till att eleverna utvecklar kunskaper om den tekniska utvecklingen avseende verktyg, material och fästdon." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom praktiska monteringsövningar ska eleverna ges möjlighet att utveckla förmåga att välja, använda och vårda verktyg, material och fästdon på ett säkert, ergonomiskt riktigt och miljömedvetet sätt.", "Eleverna ska också ges möjlighet att utveckla förmåga att kommunicera och samverka i sin arbetsutövning." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet verktygs- och materialhantering ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förmåga att välja och använda verktyg, maskiner, material och fästdon.", "Kunskaper om nödvändiga säkerhetsaspekter.", "Färdigheter i att utföra monteringsarbeten i enlighet med lagar och andra bestämmelser, anvisningar och standarder.", "Förmåga att tolka ritningar och materialbeteckningar.", "Förmåga att använda och följa verktygens manualer.", "Kunskaper om ergonomi och arbetsmiljö för den aktuella arbetsuppgiften.", "Förmåga att vårda aktuella verktyg och maskiner.", "Färdigheter i att utföra kvalitetskontroll av gjorda arbetsuppgifter." ]
+  } ],
+  "courses" : [ {
+    "name" : "Verktygs- och materialhantering",
+    "description" : "Kursen verktygs- och materialhantering omfattar punkterna 1–8 under rubriken Ämnets syfte.",
+    "code" : "VEKVEK0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Faktorer som påverkar val av verktyg, maskiner, material och fästdon.", "Användning och vård av verktyg och maskiner för den aktuella arbetsuppgiften, ur hållbarhets-, säkerhets- och miljöaspekter.", "Säkerhetsaspekter på och begränsningar av vad som får göras utifrån olika behörighetskrav.", "Montering i enlighet med lagar och andra bestämmelser, anvisningar och standarder för olika material och fästdon.", "Tolkning och tillämpning av montageritningar och materialbeteckningar för den aktuella arbetsuppgiften.", "Manualer och anvisningar från verktygstillverkare.", "Ergonomi och arbetsmiljö för den aktuella arbetsuppgiften och hur verktygen kan underlätta arbetet.", "Kvalitetskontroll i form av belastningsprövning, egenkontroll och dokumentation av arbetet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven väljer och använder <strong>________</strong> med handledare verktyg, maskiner, material och fästdon på adekvat sätt för olika arbetsuppgifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven väljer och använder <strong>i samråd</strong> med handledare verktyg, maskiner, material och fästdon på adekvat sätt för olika arbetsuppgifter.",
+          "C" : "Eleven väljer och använder <strong>efter samråd</strong> med handledare verktyg, maskiner, material och fästdon på adekvat sätt för olika arbetsuppgifter.",
+          "A" : "Eleven väljer och använder <strong>efter samråd</strong> med handledare verktyg, maskiner, material och fästdon på adekvat sätt för olika arbetsuppgifter."
+        }
+      }, {
+        "text" : "I arbetet tar eleven hänsyn till nödvändiga säkerhetsaspekter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet tar eleven hänsyn till nödvändiga säkerhetsaspekter.",
+          "C" : "I arbetet tar eleven hänsyn till nödvändiga säkerhetsaspekter.",
+          "A" : "I arbetet tar eleven hänsyn till nödvändiga säkerhetsaspekter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare <strong>________</strong> monteringsarbeten i enlighet med lagar och andra bestämmelser, anvisningar och standarder med ett <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare <strong>enkla</strong> monteringsarbeten i enlighet med lagar och andra bestämmelser, anvisningar och standarder med ett <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare monteringsarbeten i enlighet med lagar och andra bestämmelser, anvisningar och standarder med ett <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare <strong>komplexa</strong> monteringsarbeten i enlighet med lagar och andra bestämmelser, anvisningar och standarder med ett <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "I arbetet tolkar eleven <strong>________</strong> ritningar och materialbeteckningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet tolkar eleven <strong>med viss säkerhet</strong> ritningar och materialbeteckningar.",
+          "C" : "I arbetet tolkar eleven <strong>med viss säkerhet</strong> ritningar och materialbeteckningar.",
+          "A" : "I arbetet tolkar eleven <strong>med säkerhet</strong> ritningar och materialbeteckningar."
+        }
+      }, {
+        "text" : "Vidare använder och följer eleven <strong>________</strong> verktygens manualer samt utför arbetet ergonomiskt och på ett sätt som är säkert för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare använder och följer eleven <strong>med viss säkerhet</strong> verktygens manualer samt utför arbetet ergonomiskt och på ett sätt som är säkert för eleven själv och andra.",
+          "C" : "Vidare använder och följer eleven <strong>med viss säkerhet</strong> verktygens manualer samt utför arbetet ergonomiskt och på ett sätt som är säkert för eleven själv och andra.",
+          "A" : "Vidare använder och följer eleven <strong>med säkerhet</strong> verktygens manualer samt utför arbetet ergonomiskt och på ett sätt som är säkert för eleven själv och andra."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört vårdar eleven <strong>________</strong> med handledare verktyg och maskiner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört vårdar eleven <strong>i samråd</strong> med handledare verktyg och maskiner.",
+          "C" : "När arbetet är utfört vårdar eleven <strong>efter samråd</strong> med handledare verktyg och maskiner.",
+          "A" : "När arbetet är utfört vårdar eleven <strong>efter samråd</strong> med handledare verktyg och maskiner."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare kvalitetskontroll av gjorda arbetsuppgifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare kvalitetskontroll av gjorda arbetsuppgifter.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare kvalitetskontroll av gjorda arbetsuppgifter.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare kvalitetskontroll av gjorda arbetsuppgifter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

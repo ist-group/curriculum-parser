@@ -1,0 +1,165 @@
+{
+  "name" : "Fordonsvård",
+  "description" : "Ämnet fordonsvård behandlar vård och underhåll av fordon. Ämnet handlar om rengöring och rekonditionering av fordon. I ämnet ingår material, metoder, produkter och utrustning för fordonsvård.",
+  "code" : "FOS",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet fordonsvård ska syfta till att eleverna utvecklar kunskaper om vård och underhåll av fordon samt förmåga att utföra arbetsuppgifter inom området.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om material, utrustning och produkter som används för exteriör och interiör rengöring och skötsel av fordon.", "Eleverna ska också ges möjlighet att utveckla kunskaper om produkternas påverkan på miljön.", "Undervisningen ska bidra till att eleverna utvecklar förmåga att söka information om material och produkter som används inom fordonsvård.", "I undervisningen ska eleverna ges möjlighet att utveckla förmåga att välja produkter och utrustning för vård och underhåll av material.", "Undervisningen ska bidra till att eleverna utvecklar förståelse av vad vård och underhåll innebär för fordons livslängd.", "Undervisningen ska leda till att eleverna utvecklar förmåga att utföra arbetsuppgifter inom fordonsvård." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Vidare ska undervisningen ge eleverna möjlighet att utveckla förmåga att sköta och underhålla redskap och teknisk utrustning som används i samband med fordonsvård.", "Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper om lagar och andra bestämmelser inom området, till exempel arbetsmiljö och säkerhet.", "Undervisningen ska leda till att eleverna utvecklar förmåga att utföra arbetsuppgifter på ett säkert sätt och med hänsyn till miljön." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Praktiskt arbete och ett undersökande och problemlösande arbetssätt ska ingå i undervisningen.", "Undervisningen ska ge eleverna möjlighet att reflektera över och samtala om resultatet av genomfört arbete med hänsyn till kvalitet och miljö." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet fordonsvård ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om material, utrustning och produkter som används inom fordonsvård.", "Förmåga att välja utrustning och produkter för vård och underhåll av material.", "Förmåga att utföra arbetsuppgifter inom fordonsvård på ett ergonomiskt och säkert sätt och med hänsyn till miljön." ]
+  } ],
+  "courses" : [ {
+    "name" : "Fordonsvård – personbil",
+    "description" : "Kursen fordonsvård – personbil omfattar punkterna 1–3 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "FOSFOD5",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Fordonsunderhålls betydelse för miljö, säkerhet, prestanda och ekonomi.", "Produkter som används inom fordonsvård för personbilar och lätta lastbilar, till exempel rengörings-, lack- och rostskyddsmedel.", "Material, verktyg och maskiner som används inom fordonsvård.", "Miljökrav vid fordonsvård.", "Informationssystem och manualer för arbete inom fordonsvård.", "Exteriör fordonstvätt och ytbehandling av personbilar och lätta lastbilar.", "Interiör fordonstvätt av personbilar och lätta lastbilar.", "Motortvätt på personbilar och lätta lastbilar.", "Underredstvätt av personbilar och lätta lastbilar.", "Lackeringens kondition och val av åtgärder beroende på fordonstyp och användningsområde.", "Byte och påfyllning av vätskor, till exempel bromsvätska och motorolja.", "Underhåll av verktyg, utrustning och verkstadsmiljöer.", "Ergonomi, arbetsmiljö och säkerhet.", "Lagar och andra bestämmelser, till exempel miljölagar och säkerhetsbestämmelser." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva material, utrustning och produkter som används inom fordonsvård.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva material, utrustning och produkter som används inom fordonsvård.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> material, utrustning och produkter som används inom fordonsvård.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> material, utrustning och produkter som används inom fordonsvård."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att välja utrustning och produkter för vård och underhåll av material.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att välja utrustning och produkter för vård och underhåll av material.",
+          "C" : "Eleven väljer <strong>med viss säkerhet</strong> utrustning och produkter för vård och underhåll av material.",
+          "A" : "Eleven väljer <strong>med säkerhet</strong> utrustning och produkter för vård och underhåll av material."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att utföra arbetsmoment inom fordonsvård på ett ergonomiskt och säkert sätt och med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att utföra arbetsmoment inom fordonsvård på ett ergonomiskt och säkert sätt och med hänsyn till miljön.",
+          "C" : "Eleven utför också <strong>med tillfredsställande resultat</strong> arbetsmoment inom fordonsvård på ett ergonomiskt och säkert sätt och med hänsyn till miljön.",
+          "A" : "Eleven utför också <strong>med gott resultat</strong> arbetsmoment inom fordonsvård på ett ergonomiskt och säkert sätt och med hänsyn till miljön."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Fordonsvård – tunga fordon",
+    "description" : "Kursen fordonsvård – tunga fordon omfattar punkterna 1–3 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "FOSFOO5",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Fordonsunderhålls betydelse för miljö, säkerhet, prestanda och ekonomi.", "Produkter som används inom fordonsvård för lastbilar, maskiner och andra fordon, till exempel rengörings-, lack- och rostskyddsmedel.", "Material, verktyg och maskiner som används inom fordonsvård.", "Miljökrav vid fordonsvård.", "Informationssystem och manualer för arbete inom fordonsvård.", "Exteriör fordonstvätt och ytbehandling av lastbilar, maskiner och andra fordon.", "Interiör fordonstvätt av lastbilar, maskiner och andra fordon.", "Motortvätt på lastbilar, maskiner och andra fordon.", "Underredstvätt av lastbilar, maskiner och andra fordon.", "Lackering, kondition och val av åtgärder beroende på fordonstyp och användningsområde.", "Byte och påfyllning av vätskor, till exempel spolarvätska och olja.", "Underhåll av verktyg, utrustning och verkstadsmiljöer.", "Ergonomi, arbetsmiljö och säkerhet.", "Lagar och andra bestämmelser, till exempel miljölagar och säkerhetsbestämmelser." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva material, utrustning och produkter som används inom fordonsvård.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva material, utrustning och produkter som används inom fordonsvård.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> material, utrustning och produkter som används inom fordonsvård.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> material, utrustning och produkter som används inom fordonsvård."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att välja utrustning och produkter för vård och underhåll av material.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att välja utrustning och produkter för vård och underhåll av material.",
+          "C" : "Eleven väljer <strong>med viss säkerhet</strong> utrustning och produkter för vård och underhåll av material.",
+          "A" : "Eleven väljer <strong>med säkerhet</strong> utrustning och produkter för vård och underhåll av material."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att utföra arbetsmoment inom fordonsvård på ett ergonomiskt och säkert sätt och med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att utföra arbetsmoment inom fordonsvård på ett ergonomiskt och säkert sätt och med hänsyn till miljön.",
+          "C" : "Eleven utför också <strong>med tillfredsställande resultat</strong> arbetsmoment inom fordonsvård på ett ergonomiskt och säkert sätt och med hänsyn till miljön.",
+          "A" : "Eleven utför också <strong>med gott resultat</strong> arbetsmoment inom fordonsvård på ett ergonomiskt och säkert sätt och med hänsyn till miljön."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Rekonditionering 1",
+    "description" : "Kursen rekonditionering 1 omfattar punkterna 1–3 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "FOSREK51",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Produkter som används inom rekonditionering, till exempel rengörings-, lack- och ytbehandlingsmedel.", "Material, verktyg och maskiner som används inom rekonditionering.", "Exteriör rengöring och ytbehandling av fordon, till exempel vaxning och reparation av mindre lackskador med pensel.", "Interiör rengöring och ytbehandling av fordon. Rengöring och ytbehandling av textil, läder och plast, till exempel fläckborttagning på klädsel.", "Underhåll av verktyg, utrustning och verkstadsmiljöer.", "Miljökrav vid rekonditionering.", "Ergonomi, arbetsmiljö och säkerhet.", "Lagar och andra bestämmelser, till exempel miljölagar och brandsäkerhet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva material, utrustning och produkter som används inom rekonditionering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva material, utrustning och produkter som används inom rekonditionering.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> material, utrustning och produkter som används inom rekonditionering.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> material, utrustning och produkter som används inom rekonditionering."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att välja utrustning och produkter för vård och underhåll av material.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att välja utrustning och produkter för vård och underhåll av material.",
+          "C" : "Eleven väljer <strong>med viss säkerhet</strong> utrustning och produkter för vård och underhåll av material.",
+          "A" : "Eleven väljer <strong>med säkerhet</strong> utrustning och produkter för vård och underhåll av material."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att utföra arbetsmoment inom rekonditionering på ett ergonomiskt och säkert sätt och med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att utföra arbetsmoment inom rekonditionering på ett ergonomiskt och säkert sätt och med hänsyn till miljön.",
+          "C" : "Eleven utför också <strong>med tillfredsställande resultat</strong> arbetsmoment inom rekonditionering på ett ergonomiskt och säkert sätt och med hänsyn till miljön.",
+          "A" : "Eleven utför också <strong>med gott resultat</strong> arbetsmoment inom rekonditionering på ett ergonomiskt och säkert sätt och med hänsyn till miljön."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Rekonditionering 2",
+    "description" : "Kursen rekonditionering 2 omfattar punkterna 1–3 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "FOSREK52",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Produkter som används inom rekonditionering, till exempel rengörings-, lack- och ytbehandlingsmedel. Produkternas egenskaper och användningsområden.", "Material, verktyg och maskiner som används inom rekonditionering.", "Informationssystem och manualer för arbete inom rekonditionering.", "Exteriör rengöring och ytbehandling av fordon, till exempel vaxning och reparation av mindre lackskador med pensel.", "Interiör rengöring och ytbehandling av fordon. Rengöring och ytbehandling av textil, läder och plast, till exempel fläckborttagning på klädsel.", "Ergonomi, arbetsmiljö och säkerhet.", "Lagar och andra bestämmelser, till exempel miljölagar och brandsäkerhet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva material, utrustning och produkter som används inom rekonditionering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva material, utrustning och produkter som används inom rekonditionering.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> material, utrustning och produkter som används inom rekonditionering.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> material, utrustning och produkter som används inom rekonditionering."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att välja utrustning och produkter för vård och underhåll av material.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att välja utrustning och produkter för vård och underhåll av material.",
+          "C" : "Eleven väljer <strong>med viss säkerhet</strong> utrustning och produkter för vård och underhåll av material.",
+          "A" : "Eleven väljer <strong>med säkerhet</strong> utrustning och produkter för vård och underhåll av material."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att utföra arbetsmoment inom rekonditionering på ett ergonomiskt och säkert sätt och med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att utföra arbetsmoment inom rekonditionering på ett ergonomiskt och säkert sätt och med hänsyn till miljön.",
+          "C" : "Eleven utför också <strong>med tillfredsställande resultat</strong> arbetsmoment inom rekonditionering på ett ergonomiskt och säkert sätt och med hänsyn till miljön.",
+          "A" : "Eleven utför också <strong>med gott resultat</strong> arbetsmoment inom rekonditionering på ett ergonomiskt och säkert sätt och med hänsyn till miljön."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

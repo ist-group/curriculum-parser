@@ -1,0 +1,142 @@
+{
+  "name" : "ATV- och MC-teknik",
+  "description" : "Ämnet ATV- och MC-teknik behandlar underhåll och reparation av terränghjulingar och motorcyklar. Ämnet omfattar funktion hos och uppbyggnad av dessa fordonstyper samt användningsområden och branscher inom området.",
+  "code" : "ATV",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet ATV- och MC-teknik ska syfta till att eleverna utvecklar förmåga att genomföra tillsyn, underhåll, diagnostisering och reparationer av all terrain vehicle (ATV) och motorcyklar.", "Den ska dessutom leda till att eleverna utvecklar tekniskt kunnande inom området och förmåga att använda teknik på ett korrekt sätt i ett givet sammanhang.", "Undervisningen ska bidra till att stimulera elevernas intresse för ATV och motorcyklar samt för utrustning och ny teknik.", "Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om de system och komponenter som förekommer inom området, samt förståelse av hur dessa samverkar i fordonet.", "Undervisningen ska även bidra till att eleverna utvecklar förmåga att arbeta med problemlösning både självständigt och tillsammans med andra.", "Genom undervisningen ska eleverna ges möjlighet att utveckla en yrkesidentitet, förmåga att använda ett yrkesmässigt språk samt förmåga att omsätta idéer i praktisk verksamhet." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Eleverna ska ges möjlighet att utveckla förmåga att hantera de informationssystem som används för att lösa arbetsuppgifterna.", "Undervisningen ska leda till att eleverna utvecklar kunskaper om lagar och bestämmelser som reglerar området, och förmåga att arbeta utifrån de krav på miljö, kvalitet och säkerhet som reglerar branschen." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke.", "Dessa arbetsuppgifter ska utgå från ett problemlösande och laborativt arbetssätt." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet ATV- och MC-teknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om terränghjulingars och motorcyklars komponenter, system, uppbyggnad och användningsområden samt hur komponenter och system fungerar och samverkar i fordonet.", "Förmåga att utföra tillsyn, diagnos, underhåll och reparation av terränghjulingar och motorcyklar.", "Förmåga att välja den arbetsmetod som passar för uppgiften.", "Förmåga att använda verktyg och utrustning.", "Förmåga att i arbetet ta ansvar för maskinella och ekonomiska värden samt för sin egen och andras säkerhet.", "Förmåga att använda såväl svenska som engelska manualer och de informationssystem som arbetet kräver.", "Kunskaper om lagar och andra bestämmelser samt förmåga att arbeta utifrån de krav på säkerhet, miljö och kvalitet som reglerar arbetsuppgifterna.", "Förmåga att samarbeta och kommunicera med andra samt att använda begrepp och uttryck som är relevanta för ämnesområdet." ]
+  } ],
+  "courses" : [ {
+    "name" : "Reparation av motorcyklar och ATV",
+    "description" : "Kursen reparation av motorcyklar och ATV omfattar punkterna 1–8 under rubriken Ämnets syfte.",
+    "code" : "ATVREP0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Bromsystemens konstruktion, funktion, komponenter och kringutrustning.", "Ottomotorns konstruktion, funktion, huvudkomponenter och kringutrustning.", "Tvåtaktsmotorns konstruktion, funktion, huvudkomponenter och kringutrustning.", "Elsystems konstruktion, funktion och huvudkomponenter.", "Kraftöverföringens konstruktion, funktion, huvudkomponenter och kringutrustning.", "Däcks och hjuls konstruktion, klassificering och dimensionering för motorcyklar och ATV.", "Konstruktion och funktion hos hjulupphängning för motorcyklar och ATV samt dess komponenter och kringutrustning.", "Konstruktion och funktion hos fjädringssystem för motorcyklar och ATV samt dess komponenter och kringutrustning.", "Konstruktion och funktion av ram och chassi för motorcyklar och ATV, samt deras komponenter och kringutrustning.", "Metoder för tillsyn, underhåll samt säkerhets- och funktionskontroll.", "Metoder för diagnostisering och reparation.", "Demontering, montering och justering av komponenter i samband med reparationsarbete.", "Kontrollbesiktning av motorcyklar och ATV samt bestämmelser för besiktning av dessa fordon.", "Sammanfogningstekniker som används inom området.", "Diagnosutrustning som används inom området.", "Arbetsinstruktioner och servicelitteratur på svenska och engelska, inklusive information i datormiljö." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> system och komponenter i motorcyklar och ATV samt hur de fungerar och samverkar i fordonet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> system och komponenter i motorcyklar och ATV samt hur de fungerar och samverkar i fordonet.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> system och komponenter i motorcyklar och ATV samt hur de fungerar och samverkar i fordonet.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> system och komponenter i motorcyklar och ATV samt hur de fungerar och samverkar i fordonet."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> hur motorcyklar och ATV är uppbyggda och hur de används.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> hur motorcyklar och ATV är uppbyggda och hur de används.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> hur motorcyklar och ATV är uppbyggda och hur de används.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> hur motorcyklar och ATV är uppbyggda och hur de används."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare och i bekanta situationer tillsyn, underhåll samt säkerhets- och funktionskontroll på motorcyklar och ATV.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare och i bekanta situationer tillsyn, underhåll samt säkerhets- och funktionskontroll på motorcyklar och ATV.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer tillsyn, underhåll samt säkerhets- och funktionskontroll på motorcyklar och ATV.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer tillsyn, underhåll samt säkerhets- och funktionskontroll på motorcyklar och ATV."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare och i bekanta situationer diagnos och reparation av motorcyklar och ATV.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare och i bekanta situationer diagnos och reparation av motorcyklar och ATV.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer diagnos och reparation av motorcyklar och ATV.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer diagnos och reparation av motorcyklar och ATV."
+        }
+      }, {
+        "text" : "Eleven väljer <strong>________</strong> med handledare den metod och utrustning som är lämplig för arbetsuppgiften och motiverar sitt val med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven väljer <strong>i samråd</strong> med handledare den metod och utrustning som är lämplig för arbetsuppgiften och motiverar sitt val med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven väljer <strong>efter samråd</strong> med handledare den metod och utrustning som är lämplig för arbetsuppgiften och motiverar sitt val med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven väljer <strong>efter samråd</strong> med handledare den metod och utrustning som är lämplig för arbetsuppgiften och motiverar sitt val med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I arbetet använder eleven med <strong>________</strong> handlag relevanta arbetsmetoder och relevant utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven med <strong>visst</strong> handlag relevanta arbetsmetoder och relevant utrustning.",
+          "C" : "I arbetet använder eleven med <strong>gott</strong> handlag relevanta arbetsmetoder och relevant utrustning.",
+          "A" : "I arbetet använder eleven med <strong>mycket gott</strong> handlag relevanta arbetsmetoder och relevant utrustning."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> både svenska och engelska manualer och informationssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> både svenska och engelska manualer och informationssystem.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> både svenska och engelska manualer och informationssystem.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> både svenska och engelska manualer och informationssystem."
+        }
+      }, {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning."
+        }
+      }, {
+        "text" : "Dessutom arbetar eleven säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom arbetar eleven säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+          "C" : "Dessutom arbetar eleven säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+          "A" : "Dessutom arbetar eleven säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>________</strong> med medarbetare och kunder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet</strong> med medarbetare och kunder.",
+          "C" : "Eleven samarbetar <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet</strong> med medarbetare och kunder.",
+          "A" : "Eleven samarbetar <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med säkerhet</strong> med medarbetare och kunder."
+        }
+      }, {
+        "text" : "I kommunikationen använder eleven <strong>________</strong> tekniska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "C" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "A" : "I kommunikationen använder eleven <strong>med säkerhet</strong> tekniska begrepp."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  } ]
+}

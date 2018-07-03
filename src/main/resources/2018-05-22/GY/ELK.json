@@ -1,0 +1,200 @@
+{
+  "name" : "Elektronikproduktion",
+  "description" : "Ämnet elektronikproduktion behandlar produktionsprocessens olika steg vid tillverkning av elektronikprodukter, från beredning och montering fram till utprovning och leveranskontroll. Ämnet behandlar också de metoder och maskiner som används i produktionsprocessens olika steg.",
+  "code" : "ELK",
+  "designation" : "",
+  "skolfsId" : "2010:152",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet elektronikproduktion ska syfta till att eleverna utvecklar kunskaper i montering av elektronikkomponenter och metoder för lödteknik.", "Den ska ge eleverna möjlighet att utveckla kunskaper om olika monteringstekniker samt om monterings- och lödmaskiner för elektronikproduktion.", "Undervisningen ska även leda till att eleverna utvecklar kunskaper om de metoder och testutrustningar som används för provning och testning vid elektronikproduktion.", "Undervisningen ska omfatta både teoretiska och praktiska moment samt ge eleverna möjlighet att uttrycka sig såväl skriftligt som muntligt." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet elektronikproduktion ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om monteringsmaskiners och lödmaskiners konstruktion och arbetssätt.", "Förmåga att planera och utföra enklare montering och lödning.", "Förmåga att planera och utföra provning och kontroll av elektronik och elektronikapparater.", "Förmåga att tolka arbetsinstruktioner, manualer, elektronikscheman och andra dokument på både svenska och engelska.", "Färdigheter i att felsöka och reparera enklare fel i elektronik och elektronikapparater.", "Förmåga att använda metoder, verktyg och övrig utrustning.", "Kunskaper om kvalitetskrav och säkerhetskrav vid elektronikproduktion.", "Förmåga att utvärdera sitt arbete och resultat samt kunskaper om kvalitetsbedömning, kvalitetsarbete och arbetsmiljö." ]
+  } ],
+  "courses" : [ {
+    "name" : "Elektronikproduktionsteknik",
+    "description" : "Kursen elektronikproduktionsteknik omfattar punkterna 1–2, 4 och 6–8 under rubriken Ämnets syfte, med särskild betoning på punkt 2. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "ELKELO0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Monteringsmaskiner för komponenter.", "Lödmaskiner för våglödning, ångzonslödning, hällödning och IR-lödning.", "Produktionsprocessens olika steg: beredning, montering, lödning, avsyning och testning.", "Planering och beredning av monteringsarbetet.", "Arbetsinstruktioner, manualer, elektronikscheman och andra dokument på både svenska och engelska.", "Mönsterkort av olika material och materialens lödegenskaper.", "Produktionsmetoder och monteringstekniker samt verktyg och övrig utrustning.", "Krav för lödcertifikat.", "ESD-skydd (electrostatic discharge) av komponenter och arbetsplatser.", "Produktionsflöde och kvalitetsbedömning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> hur monteringsmaskiner och lödmaskiner är konstruerade och arbetar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur monteringsmaskiner och lödmaskiner är konstruerade och arbetar.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur monteringsmaskiner och lödmaskiner är konstruerade och arbetar.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur monteringsmaskiner och lödmaskiner är konstruerade och arbetar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare vanligt förekommande montering och lödning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare vanligt förekommande montering och lödning.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare vanligt förekommande montering och lödning.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare vanligt förekommande montering och lödning."
+        }
+      }, {
+        "text" : "I planeringen tolkar eleven <strong>________</strong> arbetsinstruktioner, manualer, elektronikscheman och andra dokument.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> arbetsinstruktioner, manualer, elektronikscheman och andra dokument.",
+          "C" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> arbetsinstruktioner, manualer, elektronikscheman och andra dokument.",
+          "A" : "I planeringen tolkar eleven <strong>med säkerhet</strong> arbetsinstruktioner, manualer, elektronikscheman och andra dokument."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare monteringen och lödningen utifrån fastställda kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare monteringen och lödningen utifrån fastställda kvalitetskrav.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare monteringen och lödningen utifrån fastställda kvalitetskrav.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare monteringen och lödningen utifrån fastställda kvalitetskrav."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> metoder, verktyg och övrig utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> metoder, verktyg och övrig utrustning.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> metoder, verktyg och övrig utrustning.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> metoder, verktyg och övrig utrustning."
+        }
+      }, {
+        "text" : "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra, och resultatet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra, och resultatet är <strong>tillfredsställande</strong>.",
+          "C" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra, och resultatet är <strong>tillfredsställande</strong>.",
+          "A" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra, och resultatet är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört utvärderar eleven med <strong>________</strong> omdömen sitt arbete och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört utvärderar eleven med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+          "C" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
+          "A" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Dessutom för eleven <strong>________</strong> resonemang om vikten av kvalitetsbedömning, kvalitetsarbete och en god arbetsmiljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom för eleven <strong>enkla</strong> resonemang om vikten av kvalitetsbedömning, kvalitetsarbete och en god arbetsmiljö.",
+          "C" : "Dessutom för eleven <strong>välgrundade</strong> resonemang om vikten av kvalitetsbedömning, kvalitetsarbete och en god arbetsmiljö.",
+          "A" : "Dessutom för eleven <strong>välgrundade och nyanserade</strong> resonemang om vikten av kvalitetsbedömning, kvalitetsarbete och en god arbetsmiljö."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Provning och kontrollarbete",
+    "description" : "Kursen provning och kontrollarbete omfattar punkterna 3–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 3 och 5. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "ELKPRV0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Praktiskt provningsarbete med automatisk teststation.", "Montering av enklare testutrustningar.", "Underhåll och funktionsprov av testutrustningar.", "Testmetoder och verifieringsmetoder för elektronikproduktion.", "Testutrustningar i produktionen.", "Mätteknik och mätinstrument.", "Felsökningsmetoder.", "Granskning och bedömning av monterade mönsterkort.", "Reparationsteknik vid lödfel.", "Reparationsmetoder vid komponentfel.", "Kvalitetsarbete.", "Arbetsplatsens arbetsorganisation samt arbetsmiljökrav vid elektronikproduktion." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare vanligt förekommande provning och kontroll av elektronik och elektronikapparater.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare vanligt förekommande provning och kontroll av elektronik och elektronikapparater.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare vanligt förekommande provning och kontroll av elektronik och elektronikapparater.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare vanligt förekommande provning och kontroll av elektronik och elektronikapparater."
+        }
+      }, {
+        "text" : "I planeringen tolkar eleven <strong>________</strong> arbetsinstruktioner, manualer, elektronikscheman och andra dokument.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> arbetsinstruktioner, manualer, elektronikscheman och andra dokument.",
+          "C" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> arbetsinstruktioner, manualer, elektronikscheman och andra dokument.",
+          "A" : "I planeringen tolkar eleven <strong>med säkerhet</strong> arbetsinstruktioner, manualer, elektronikscheman och andra dokument."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare provningen och kontrollen utifrån fastställda kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare provningen och kontrollen utifrån fastställda kvalitetskrav.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare provningen och kontrollen utifrån fastställda kvalitetskrav.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare provningen och kontrollen utifrån fastställda kvalitetskrav."
+        }
+      }, {
+        "text" : "Dessutom felsöker och reparerar eleven <strong>________</strong> med handledare enklare fel som har uppkommit under tillverkningsprocessen av elektronik och elektronikapparater.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom felsöker och reparerar eleven <strong>i samråd</strong> med handledare enklare fel som har uppkommit under tillverkningsprocessen av elektronik och elektronikapparater.",
+          "C" : "Dessutom felsöker och reparerar eleven <strong>efter samråd</strong> med handledare enklare fel som har uppkommit under tillverkningsprocessen av elektronik och elektronikapparater.",
+          "A" : "Dessutom felsöker och reparerar eleven <strong>efter samråd</strong> med handledare enklare fel som har uppkommit under tillverkningsprocessen av elektronik och elektronikapparater."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> metoder, verktyg och övrig utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> metoder, verktyg och övrig utrustning.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> metoder, verktyg och övrig utrustning.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> metoder, verktyg och övrig utrustning."
+        }
+      }, {
+        "text" : "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra, och resultatet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra, och resultatet är <strong>tillfredsställande</strong>.",
+          "C" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra, och resultatet är <strong>tillfredsställande</strong>.",
+          "A" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra, och resultatet är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört utvärderar eleven med <strong>________</strong> omdömen sitt arbete och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört utvärderar eleven med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+          "C" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
+          "A" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Dessutom för eleven <strong>________</strong> resonemang om vikten av kvalitetsbedömning, kvalitetsarbete och en god arbetsmiljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom för eleven <strong>enkla</strong> resonemang om vikten av kvalitetsbedömning, kvalitetsarbete och en god arbetsmiljö.",
+          "C" : "Dessutom för eleven <strong>välgrundade</strong> resonemang om vikten av kvalitetsbedömning, kvalitetsarbete och en god arbetsmiljö.",
+          "A" : "Dessutom för eleven <strong>välgrundade och nyanserade</strong> resonemang om vikten av kvalitetsbedömning, kvalitetsarbete och en god arbetsmiljö."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

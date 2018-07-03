@@ -1,0 +1,547 @@
+{
+  "name" : "Skogsproduktion",
+  "description" : "Ämnet skogsproduktion behandlar produktion av olika typer av virkesråvaror med hänsyn till skogens produktionsförmåga och en hållbar utveckling för skogen. Det behandlar också anläggning av ny skog, skötsel av ungskogar och avverkning av äldre skogar. I ämnet behandlas även virkets tekniska egenskaper och olika användningsområden. Dessutom behandlas produktion av skogsbränsle, specialiserad skogsskötsel och virkesmätning.",
+  "code" : "SKG",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet skogsproduktion ska syfta till att eleverna utvecklar kunskaper i skogsskötsel och virkeslära.", "I undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera och genomföra arbetsuppgifter inom skogsproduktion samt bedöma skogstillstånd och behov av åtgärder inom skogsproduktion.", "Genom undervisningen ska eleverna också ges möjlighet att utveckla förmåga att utföra arbetsuppgifter med hänsyn till natur- och kulturvärden samt till det rörliga friluftslivet.", "Eleverna ska vidare ges möjlighet att utveckla förmåga att aptera och virkessortera.", "Genom praktiska övningar ska eleverna ges möjlighet att arbeta med skogsskötsel.", "Fältstudier ska bidra till att eleverna utvecklar kunskaper om trädslag och ståndorter samt om skador och skadegörare på växande träd och virke.", "Genom exkursioner ska eleverna ges möjlighet att utveckla förståelse av natur- och kulturvärden." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet skogsproduktion ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om svenska trädslag, om deras egenskaper och användningsområden samt om ståndorter.", "Förmåga att identifiera skador och skadegörare på växande träd och virke samt att föreslå motåtgärder.", "Förmåga att tolka och upprätta skogsbruksplaner med hänsyn tagen till natur- och kulturvärden.", "Förmåga att planera och genomföra arbetsuppgifter inom skogsproduktion.", "Förmåga att utföra klassning och aptering av virke.", "Förmåga att göra ekonomiska beräkningar för åtgärder inom skogsproduktion.", "Förmåga att arbeta säkert och ergonomiskt.", "Kunskaper om lagar och andra bestämmelser som rör skogsbruket samt om skogens certifieringssystem." ]
+  } ],
+  "courses" : [ {
+    "name" : "Skogsskötsel 1",
+    "description" : "Kursen skogsskötsel 1 omfattar punkterna 1–4 och 6–8 under rubriken Ämnets syfte, med särskild betoning på förmåga att genomföra arbetsuppgifter inom skogsproduktion.",
+    "code" : "SKGSKO01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Svenska trädslag samt deras egenskaper, ståndortskrav och användningsområden.", "Begreppet ståndortsindex.", "Vanliga skadegörare på växande träd.", "Förebyggande åtgärder mot vanliga skadegörare på växande träd.", "Grundläggande metoder för tolkning av skogsbruksplaner.", "Röjning och uppföljning av röjningsarbete i olika typer av bestånd.", "Markberedning och olika föryngringsmetoder.", "Gallring och grundläggande metoder för uppföljning av gallring.", "Grundläggande metoder för skogsuppskattning samt användning av skogsuppskattningsinstrument och gallringsmallar.", "Bonitering med höjdutvecklingskurvor.", "Ekonomiska beräkningar av kostnader och intäkter för olika skogsskötselåtgärder.", "Ergonomi, arbetsmiljö och säkerhet i samband med skogsskötsel.", "Brandförebyggande åtgärder.", "Certifieringssystem inom skogsbruk.", "Lagar och andra bestämmelser inom området, till exempel skogsvårdslagen." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven identifierar <strong>________</strong> och namnger, i samband med fältstudier, de vanligaste svenska trädslagen samt beskriver <strong>________</strong> deras egenskaper och användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven identifierar <strong>med viss säkerhet</strong> och namnger, i samband med fältstudier, de vanligaste svenska trädslagen samt beskriver <strong>översiktligt</strong> deras egenskaper och användningsområden.",
+          "C" : "Eleven identifierar <strong>med viss säkerhet</strong> och namnger, i samband med fältstudier, de vanligaste svenska trädslagen samt beskriver <strong>utförligt</strong> deras egenskaper och användningsområden.",
+          "A" : "Eleven identifierar <strong>med säkerhet</strong> och namnger, i samband med fältstudier, de vanligaste svenska trädslagen samt beskriver <strong>utförligt och nyanserat</strong> deras egenskaper och användningsområden."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för innebörden i begreppet ståndortsindex.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för innebörden i begreppet ståndortsindex.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för innebörden i begreppet ståndortsindex.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för innebörden i begreppet ståndortsindex."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för de vanligaste skadegörarna på växande träd samt för åtgärder för att förebygga skador.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för de vanligaste skadegörarna på växande träd samt för åtgärder för att förebygga skador.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för de vanligaste skadegörarna på växande träd samt för åtgärder för att förebygga skador.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för de vanligaste skadegörarna på växande träd samt för åtgärder för att förebygga skador."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tolkar <strong>________</strong> skogsbruksplaner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tolkar <strong>med viss säkerhet</strong> skogsbruksplaner.",
+          "C" : "Eleven tolkar <strong>med viss säkerhet</strong> skogsbruksplaner.",
+          "A" : "Eleven tolkar <strong>med säkerhet</strong> skogsbruksplaner."
+        }
+      }, {
+        "text" : "Eleven följer arbetsinstruktioner och genomför <strong>________</strong> med handledare arbetsuppgifter inom skogsvård och avverkning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven följer arbetsinstruktioner och genomför <strong>i samråd</strong> med handledare arbetsuppgifter inom skogsvård och avverkning.",
+          "C" : "Eleven följer arbetsinstruktioner och genomför <strong>efter samråd</strong> med handledare arbetsuppgifter inom skogsvård och avverkning.",
+          "A" : "Eleven följer arbetsinstruktioner och genomför <strong>efter samråd</strong> med handledare arbetsuppgifter inom skogsvård och avverkning."
+        }
+      }, {
+        "text" : "Dessutom genomför eleven <strong>________</strong> med handledare gallringsarbete och uppföljning av gallring.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom genomför eleven <strong>i samråd</strong> med handledare gallringsarbete och uppföljning av gallring.",
+          "C" : "Dessutom genomför eleven <strong>efter samråd</strong> med handledare gallringsarbete och uppföljning av gallring.",
+          "A" : "Dessutom genomför eleven <strong>efter samråd</strong> med handledare gallringsarbete och uppföljning av gallring."
+        }
+      }, {
+        "text" : "I arbetet löser eleven <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> med handledare teknisk utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>i samråd</strong> med handledare teknisk utrustning.",
+          "C" : "Eleven använder <strong>efter samråd</strong> med handledare teknisk utrustning.",
+          "A" : "Eleven använder <strong>efter samråd</strong> med handledare teknisk utrustning."
+        }
+      }, {
+        "text" : "Eleven använder också <strong>________</strong> skogsuppskattningsinstrument och gallringsmallar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder också <strong>med viss säkerhet</strong> skogsuppskattningsinstrument och gallringsmallar.",
+          "C" : "Eleven använder också <strong>med viss säkerhet</strong> skogsuppskattningsinstrument och gallringsmallar.",
+          "A" : "Eleven använder också <strong>med säkerhet</strong> skogsuppskattningsinstrument och gallringsmallar."
+        }
+      }, {
+        "text" : "Dessutom gör eleven <strong>________</strong> ekonomiska beräkningar av kostnader och intäkter för olika skogsskötselåtgärder samt värderar sitt resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven <strong>enkla</strong> ekonomiska beräkningar av kostnader och intäkter för olika skogsskötselåtgärder samt värderar sitt resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom gör eleven ekonomiska beräkningar av kostnader och intäkter för olika skogsskötselåtgärder samt värderar sitt resultat med <strong>enkla</strong> omdömen.",
+          "A" : "Dessutom gör eleven <strong>avancerade</strong> ekonomiska beräkningar av kostnader och intäkter för olika skogsskötselåtgärder samt värderar sitt resultat med <strong>nyanserade</strong> omdömen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter.",
+          "C" : "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter.",
+          "A" : "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med certifieringssystem, lagar och andra bestämmelser som gäller inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med certifieringssystem, lagar och andra bestämmelser som gäller inom området.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med certifieringssystem, lagar och andra bestämmelser som gäller inom området.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med certifieringssystem, lagar och andra bestämmelser som gäller inom området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Skogsskötsel 2",
+    "description" : "Kursen skogsskötsel 2 omfattar punkterna 1–4 och 6–8 under rubriken Ämnets syfte, med särskild betoning på punkt 4.",
+    "code" : "SKGSKO02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Skador på växande skog på grund av vind, snöbrott, frost och torka samt vilt, insekter och svampar.", "Karttyper, planeringsunderlag och traktdirektiv för åtgärder i skogen. Upprättande och uppdatering av skogsbruksplaner.", "Naturhänsyn och kulturmiljövård.", "Planering och genomförande av beståndsanläggning, beståndsvård, beståndsavveckling, skogsgödsling och uttag av energiråvara.", "Behov och effekter av olika typer av dikningsåtgärder.", "Ståndortsegenskaper och bonitering.", "Ekonomiska beräkningar och kalkyler för olika skogsskötselåtgärder på kort och lång sikt.", "Ergonomi, arbetsmiljö och säkerhet i samband med skogsskötsel.", "Certifieringssystem inom skogsbruk.", "Lagar och andra bestämmelser inom området, till exempel skogsvårdslagen.", "Krav på standard för och underhåll av skogsbilvägar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven identifierar, i samband med arbete i skogen, <strong>________</strong> vanliga skador och skadegörare på växande skog.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven identifierar, i samband med arbete i skogen, <strong>med viss säkerhet</strong> vanliga skador och skadegörare på växande skog.",
+          "C" : "Eleven identifierar, i samband med arbete i skogen, <strong>med viss säkerhet</strong> vanliga skador och skadegörare på växande skog.",
+          "A" : "Eleven identifierar, i samband med arbete i skogen, <strong>med säkerhet</strong> vanliga skador och skadegörare på växande skog."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för vad som orsakat skadorna och ger <strong>________</strong> förslag på motåtgärder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för vad som orsakat skadorna och ger <strong>enkla</strong> förslag på motåtgärder.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för vad som orsakat skadorna och ger <strong>välgrundade</strong> förslag på motåtgärder.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för vad som orsakat skadorna och ger <strong>välgrundade och nyanserade</strong> förslag på motåtgärder."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven upprättar <strong>________</strong> med handledare en enkel plan för skogsskötsel i vilken eleven tar hänsyn till natur- och kulturvärden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven upprättar <strong>i samråd</strong> med handledare en enkel plan för skogsskötsel i vilken eleven tar hänsyn till natur- och kulturvärden.",
+          "C" : "Eleven upprättar <strong>efter samråd</strong> med handledare en enkel plan för skogsskötsel i vilken eleven tar hänsyn till natur- och kulturvärden.",
+          "A" : "Eleven upprättar <strong>efter samråd</strong> med handledare en enkel plan för skogsskötsel i vilken eleven tar hänsyn till natur- och kulturvärden."
+        }
+      }, {
+        "text" : "Eleven planerar och genomför <strong>________</strong> med handledare arbetsuppgifter inom skogsskötsel.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och genomför <strong>i samråd</strong> med handledare arbetsuppgifter inom skogsskötsel.",
+          "C" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare arbetsuppgifter inom skogsskötsel.",
+          "A" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare arbetsuppgifter inom skogsskötsel."
+        }
+      }, {
+        "text" : "I planeringen gör eleven <strong>________</strong> bedömningar av när och hur olika arbetsuppgifter ska genomföras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen gör eleven <strong>enkla</strong> bedömningar av när och hur olika arbetsuppgifter ska genomföras.",
+          "C" : "I planeringen gör eleven <strong>välgrundade</strong> bedömningar av när och hur olika arbetsuppgifter ska genomföras.",
+          "A" : "I planeringen gör eleven <strong>välgrundade och nyanserade</strong> bedömningar av när och hur olika arbetsuppgifter ska genomföras."
+        }
+      }, {
+        "text" : "I arbetet löser eleven <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "Dessutom gör eleven <strong>________</strong> ekonomiska beräkningar av kostnader och intäkter för olika skogsskötselåtgärder samt värderar sitt resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven <strong>enkla</strong> ekonomiska beräkningar av kostnader och intäkter för olika skogsskötselåtgärder samt värderar sitt resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom gör eleven ekonomiska beräkningar av kostnader och intäkter för olika skogsskötselåtgärder samt värderar sitt resultat med <strong>enkla</strong> omdömen.",
+          "A" : "Dessutom gör eleven <strong>avancerade</strong> ekonomiska beräkningar av kostnader och intäkter för olika skogsskötselåtgärder samt värderar sitt resultat med <strong>nyanserade</strong> omdömen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter.",
+          "C" : "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter.",
+          "A" : "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med certifieringssystem, lagar och andra bestämmelser som gäller inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med certifieringssystem, lagar och andra bestämmelser som gäller inom området.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med certifieringssystem, lagar och andra bestämmelser som gäller inom området.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med certifieringssystem, lagar och andra bestämmelser som gäller inom området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> bedömning av arbetsresultatet och rapporterar det.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> bedömning av arbetsresultatet och rapporterar det.",
+          "C" : "När arbetet är utfört gör eleven en <strong>välgrundad</strong> bedömning av arbetsresultatet och rapporterar det.",
+          "A" : "När arbetet är utfört gör eleven en <strong>välgrundad och nyanserad</strong> bedömning av arbetsresultatet och rapporterar det."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Skogsskötsel – specialisering",
+    "description" : "Kursen skogsskötsel – specialisering omfattar punkterna 1–4 och 6–8. I kursen behandlas fördjupade kunskaper inom valt specialområde.",
+    "code" : "SKGSKG00S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Särskilda krav inom skogsbruket, till exempel hänsyn till naturvärden, kulturvärden och sociala värden.", "Planering och genomförande av arbetsuppgifter inom valt specialområde inom skogsbruk, till exempel ädellövskog, produktion av skogsbränsle, urskogsliknande skogar, fjällskogar, skärgårdsskogar eller tätortsnära skogar.", "Ekonomiska beräkningar och kalkyler för verksamheten.", "Ergonomi, arbetsmiljö och säkerhet i samband med det valda specialområdet.", "Certifieringssystem inom valt specialområde.", "Lagar och andra bestämmelser, till exempel skogsvårdslagen." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven identifierar, i samband med arbete i skogen, <strong>________</strong> vanliga skador och skadegörare på växande skog.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven identifierar, i samband med arbete i skogen, <strong>med viss säkerhet</strong> vanliga skador och skadegörare på växande skog.",
+          "C" : "Eleven identifierar, i samband med arbete i skogen, <strong>med viss säkerhet</strong> vanliga skador och skadegörare på växande skog.",
+          "A" : "Eleven identifierar, i samband med arbete i skogen, <strong>med säkerhet</strong> vanliga skador och skadegörare på växande skog."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för vad som orsakat skadorna och ger <strong>________</strong> förslag på motåtgärder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för vad som orsakat skadorna och ger <strong>enkla</strong> förslag på motåtgärder.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för vad som orsakat skadorna och ger <strong>välgrundade</strong> förslag på motåtgärder.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för vad som orsakat skadorna och ger <strong>välgrundade och nyanserade</strong> förslag på motåtgärder."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven upprättar <strong>________</strong> med handledare en <strong>________</strong> plan för skogsskötsel inom valt specialområde samt tar i planen hänsyn till natur- och kulturvärden och sociala värden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven upprättar <strong>i samråd</strong> med handledare en <strong>enkel</strong> plan för skogsskötsel inom valt specialområde samt tar i planen hänsyn till natur- och kulturvärden och sociala värden.",
+          "C" : "Eleven upprättar <strong>efter samråd</strong> med handledare en <strong>genomarbetad</strong> plan för skogsskötsel inom valt specialområde samt tar i planen hänsyn till natur- och kulturvärden och sociala värden.",
+          "A" : "Eleven upprättar <strong>efter samråd</strong> med handledare en <strong>genomarbetad</strong> plan för skogsskötsel inom valt specialområde samt tar i planen hänsyn till natur- och kulturvärden och sociala värden."
+        }
+      }, {
+        "text" : "Eleven planerar och genomför <strong>________</strong> med handledare arbetsuppgifter inom valt specialområde inom skogsbruk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och genomför <strong>i samråd</strong> med handledare arbetsuppgifter inom valt specialområde inom skogsbruk.",
+          "C" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare arbetsuppgifter inom valt specialområde inom skogsbruk.",
+          "A" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare arbetsuppgifter inom valt specialområde inom skogsbruk."
+        }
+      }, {
+        "text" : "I planeringen gör eleven <strong>________</strong> bedömningar av när och hur olika arbetsuppgifter ska genomföras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen gör eleven <strong>enkla</strong> bedömningar av när och hur olika arbetsuppgifter ska genomföras.",
+          "C" : "I planeringen gör eleven <strong>välgrundade</strong> bedömningar av när och hur olika arbetsuppgifter ska genomföras.",
+          "A" : "I planeringen gör eleven <strong>välgrundade och nyanserade</strong> bedömningar av när och hur olika arbetsuppgifter ska genomföras."
+        }
+      }, {
+        "text" : "I arbetet löser eleven <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "Dessutom gör eleven <strong>________</strong> ekonomiska beräkningar av kostnader och intäkter för olika skogsskötselåtgärder samt värderar sitt resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven <strong>enkla</strong> ekonomiska beräkningar av kostnader och intäkter för olika skogsskötselåtgärder samt värderar sitt resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom gör eleven ekonomiska beräkningar av kostnader och intäkter för olika skogsskötselåtgärder samt värderar sitt resultat med <strong>enkla</strong> omdömen.",
+          "A" : "Dessutom gör eleven ekonomiska <strong>avancerade</strong> beräkningar av kostnader och intäkter för olika skogsskötselåtgärder samt värderar sitt resultat med <strong>nyanserade</strong> omdömen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter.",
+          "C" : "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter.",
+          "A" : "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med certifieringssystem, lagar och andra bestämmelser som gäller inom det valda specialområdet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med certifieringssystem, lagar och andra bestämmelser som gäller inom det valda specialområdet.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med certifieringssystem, lagar och andra bestämmelser som gäller inom det valda specialområdet.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med certifieringssystem, lagar och andra bestämmelser som gäller inom det valda specialområdet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> bedömning av arbetsresultatet och rapporterar det.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> bedömning av arbetsresultatet och rapporterar det.",
+          "C" : "När arbetet är utfört gör eleven en <strong>välgrundad</strong> bedömning av arbetsresultatet och rapporterar det.",
+          "A" : "När arbetet är utfört gör eleven en <strong>välgrundad och nyanserad</strong> bedömning av arbetsresultatet och rapporterar det."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Virkeslära",
+    "description" : "Kursen virkeslära omfattar punkterna 1–2 och 5–8 under rubriken Ämnets syfte.",
+    "code" : "SKGVIR0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika trädslags egenskaper och användningsområden.", "Träets egenskaper, virkets förädling och användning samt sortiment.", "Skadesvampar och insektsangrepp på virke samt förebyggande åtgärder för virkesskydd.", "Aptering enligt instruktioner.", "Hantering, kvalitetsbedömning, volymberäkning och prissättning.", "Skogliga mått och omräkningstal.", "Ekonomisk aptering och prislistans uppbyggnad.", "Virkesförsäljning, kontraktering och organisation av virkesmätning.", "Uppföljning och virkesredovisning.", "Virkesmätningslagen och andra bestämmelser inom området." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för egenskaper hos och användningsområden för olika trädslag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för egenskaper hos och användningsområden för olika trädslag.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för egenskaper hos och användningsområden för olika trädslag.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för egenskaper hos och användningsområden för olika trädslag."
+        }
+      }, {
+        "text" : "Dessutom identifierar eleven <strong>________</strong> vanliga skadegörare på virke samt ger <strong>________</strong> förslag på motåtgärder för att skydda virket.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom identifierar eleven <strong>med viss säkerhet</strong> vanliga skadegörare på virke samt ger <strong>enkla</strong> förslag på motåtgärder för att skydda virket.",
+          "C" : "Dessutom identifierar eleven <strong>med viss säkerhet</strong> vanliga skadegörare på virke samt ger <strong>välgrundade</strong> förslag på motåtgärder för att skydda virket.",
+          "A" : "Dessutom identifierar eleven <strong>med säkerhet</strong> vanliga skadegörare på virke samt ger <strong>välgrundade och nyanserade</strong> förslag på motåtgärder för att skydda virket."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare klassning och aptering av virke enligt apteringsinstruktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare klassning och aptering av virke enligt apteringsinstruktioner.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare klassning och aptering av virke enligt apteringsinstruktioner.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare klassning och aptering av virke enligt apteringsinstruktioner."
+        }
+      }, {
+        "text" : "I arbetet löser eleven <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "Eleven gör <strong>________</strong> beräkningar med skogliga mått och omräkningstal samt värderar sitt resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör <strong>enkla</strong> beräkningar med skogliga mått och omräkningstal samt värderar sitt resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven gör beräkningar med skogliga mått och omräkningstal samt värderar sitt resultat med <strong>enkla</strong> omdömen.",
+          "A" : "Eleven gör <strong>avancerade</strong> beräkningar med skogliga mått och omräkningstal samt värderar sitt resultat med <strong>nyanserade</strong> omdömen."
+        }
+      }, {
+        "text" : "Dessutom föreslår eleven <strong>________</strong> med handledare uttag av lämpliga virkessortiment vid avverkning samt redogör <strong>________</strong> för virkesförsäljning och kontraktering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom föreslår eleven <strong>i samråd</strong> med handledare uttag av lämpliga virkessortiment vid avverkning samt redogör <strong>översiktligt</strong> för virkesförsäljning och kontraktering.",
+          "C" : "Dessutom föreslår eleven <strong>efter samråd</strong> med handledare uttag av lämpliga virkessortiment vid avverkning samt redogör <strong>utförligt</strong> för virkesförsäljning och kontraktering.",
+          "A" : "Dessutom föreslår eleven <strong>efter samråd</strong> med handledare uttag av lämpliga virkessortiment vid avverkning samt redogör <strong>utförligt och nyanserat</strong> för virkesförsäljning och kontraktering."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter.",
+          "C" : "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter.",
+          "A" : "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör virkeshantering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör virkeshantering.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör virkeshantering.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör virkeshantering."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Virkesmätning",
+    "description" : "Kursen virkesmätning omfattar punkterna 1–2 och 5–8 under rubriken Ämnets syfte.",
+    "code" : "SKGVIK0",
+    "centralContent" : [ {
+      "heading" : "Undervisning i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Virkets byggnad.", "Identifiering av virkesskador. Skadornas orsaker samt bedömning av skadornas inverkan på slutprodukten.", "Timmerklassning.", "Virkesmätning vid terminal och skogsarbetsplats.", "Arbetsorganisation vid en mätstation.", "Användning och skötsel av teknisk utrustning och andra hjälpmedel för mätning och redovisning.", "Statistiska beräkningsmetoder som används i samband med virkesmätning.", "Ergonomi, arbetsmiljö och säkerhet i samband med virkesmätning.", "Virkesmätningsföreningens uppgift och organisation samt föreningens förhållande till virkesmarknadens parter.", "Branschens bestämmelser och instruktioner för virkesmätning.", "Redovisningsbestämmelser som används i samband med virkesmätning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för virkets byggnad.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för virkets byggnad.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för virkets byggnad.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för virkets byggnad."
+        }
+      }, {
+        "text" : "Dessutom identifierar eleven <strong>________</strong> vanliga skadegörare på virke, redogör <strong>________</strong> för skadornas inverkan på slutprodukten samt ger <strong>________</strong> förslag på motåtgärder för att skydda virket.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom identifierar eleven <strong>med viss säkerhet</strong> vanliga skadegörare på virke, redogör <strong>översiktligt</strong> för skadornas inverkan på slutprodukten samt ger <strong>enkla</strong> förslag på motåtgärder för att skydda virket.",
+          "C" : "Dessutom identifierar eleven <strong>med viss säkerhet</strong> vanliga skadegörare på virke, redogör <strong>utförligt</strong> för skadornas inverkan på slutprodukten samt ger <strong>välgrundade</strong> förslag på motåtgärder för att skydda virket.",
+          "A" : "Dessutom identifierar eleven <strong>med säkerhet</strong> vanliga skadegörare på virke, redogör <strong>utförligt och nyanserat</strong> för skadornas inverkan på slutprodukten samt ger <strong>välgrundade och nyanserade</strong> förslag på motåtgärder för att skydda virket."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare timmerklassning och virkesmätning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare timmerklassning och virkesmätning.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare timmerklassning och virkesmätning.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare timmerklassning och virkesmätning."
+        }
+      }, {
+        "text" : "Eleven använder och sköter också <strong>________</strong> med handledare teknisk utrustning för mätning och redovisning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder och sköter också <strong>i samråd</strong> med handledare teknisk utrustning för mätning och redovisning.",
+          "C" : "Eleven använder och sköter också <strong>efter samråd</strong> med handledare teknisk utrustning för mätning och redovisning.",
+          "A" : "Eleven använder och sköter också <strong>efter samråd</strong> med handledare teknisk utrustning för mätning och redovisning."
+        }
+      }, {
+        "text" : "I arbetet löser eleven <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "Dessutom gör eleven <strong>________</strong> statistiska beräkningar samt värderar sitt resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven <strong>enkla</strong> statistiska beräkningar samt värderar sitt resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom gör eleven statistiska beräkningar samt värderar sitt resultat med <strong>enkla</strong> omdömen.",
+          "A" : "Dessutom gör eleven <strong>avancerade</strong> statistiska beräkningar samt värderar sitt resultat med <strong>nyanserade</strong> omdömen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter.",
+          "C" : "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter.",
+          "A" : "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med certifieringssystem, lagar och andra bestämmelser som rör virkeshantering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med certifieringssystem, lagar och andra bestämmelser som rör virkeshantering.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med certifieringssystem, lagar och andra bestämmelser som rör virkeshantering.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med certifieringssystem, lagar och andra bestämmelser som rör virkeshantering."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

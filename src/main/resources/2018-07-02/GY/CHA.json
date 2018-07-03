@@ -1,0 +1,575 @@
+{
+  "name" : "Charkuterikunskap",
+  "description" : "Ämnet charkuterikunskap behandlar olika hantverksmässiga tillverkningsmetoder för att framställa charkuterivaror. I ämnet behandlas också olika köttråvaror, hur råvaror används inom näringen samt betydelsen av produktkvalitet.",
+  "code" : "CHA",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet charkuterikunskap ska syfta till att eleverna utvecklar förmåga att tillverka charkuteriprodukter med moderna och traditionella hantverksmetoder.", "I undervisningen ska eleverna ges möjlighet att utveckla förmåga att följa recept, välja och hantera råvaror samt utveckla kunskaper om hur kvaliteten på olika råvaror påverkar slutprodukten.", "Undervisningen ska också leda till att eleverna utvecklar förmåga att skapa estetiskt tilltalande och smakrika slutprodukter." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar kunskaper om hygien, ergonomi, arbetsmiljö och säkerhet samt om lagar och andra bestämmelser som gäller för yrkesområdet.", "Den ska ge eleverna möjlighet att utveckla färdigheter i att organisera och utföra arbetet samt förmåga att bedöma arbetet och reflektera över hur arbetsprocessen påverkar resultatet.", "Undervisningen ska dessutom bidra till att eleverna utvecklar kreativitet samt problemlösnings- och initiativförmåga.", "Dessutom ska eleverna ges möjlighet att utföra arbetsuppgifter såväl individuellt som i samarbete med andra." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom praktiska övningar i undervisningen ska eleverna ges möjlighet att utveckla färdigheter inom charkuteriområdet." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet charkuterikunskap ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om olika köttråvarors kvalitet och om deras egenskaper samt om andra råvaror och tillsatser.", "Förmåga att tillverka charkuterivaror.", "Förmåga att läsa, följa och utarbeta recept samt att utföra recept- och näringsberäkningar och effektivitetsbedömningar.", "Förmåga att använda utrustning, maskiner och verktyg.", "Förmåga att förpacka och förvara charkuterivaror.", "Kunskaper om lagar och andra bestämmelser inom området.", "Förmåga att underhålla utrustning, maskiner och verktyg.", "Förmåga att utvärdera sitt arbete och resultat." ]
+  } ],
+  "courses" : [ {
+    "name" : "Charkuteri 1",
+    "description" : "Kursen charkuteri 1 omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas grundläggande färdigheter i ämnet.",
+    "code" : "CHACHA01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika köttråvaror inom charkindustrin, deras kvalitet samt biokemiska och fysiologiska egenskaper. Köttsorteringar. Andra råvaror och tillsatser som är vanligt förekommande vid tillverkning av charkuterivaror.", "Tillverkning av oblandade och blandade charkuterivaror, i huvudsak emulsionsprodukter.", "Tillverkningsprocessen – uppvägning, beredning, formning, värmebehandling och kylning.", "Hantering och förvaring av vanligt förekommande råvaror i charkindustrin.", "Hur man läser recept samt beräkning av recept- och näringsinnehåll.", "Användning och vård av produktionsutrustning och maskiner inom charkindustrin.", "Förpackning, förvaring och märkning av charkuterivaror.", "Arbetsmiljö, ergonomi och säkerhet.", "Praktisk hygien och egenkontroll." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för olika köttråvarors kvalitet, deras biokemiska och fysiologiska egenskaper samt deras användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för olika köttråvarors kvalitet, deras biokemiska och fysiologiska egenskaper samt deras användningsområden.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för olika köttråvarors kvalitet, deras biokemiska och fysiologiska egenskaper samt deras användningsområden.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för olika köttråvarors kvalitet, deras biokemiska och fysiologiska egenskaper samt deras användningsområden."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för andra råvaror samt för tillsatser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för andra råvaror samt för tillsatser.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för andra råvaror samt för tillsatser.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för andra råvaror samt för tillsatser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar <strong>________</strong> med handledare tillverkning av charkuterivaror samt tillverkar dessa <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar <strong>i samråd</strong> med handledare tillverkning av charkuterivaror samt tillverkar dessa <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare tillverkning av charkuterivaror samt tillverkar dessa <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare tillverkning av charkuterivaror samt tillverkar dessa <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "I arbetet läser och följer eleven <strong>________</strong> recept samt gör <strong>________</strong> enkla recept- och näringsberäkningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet läser och följer eleven <strong>med viss säkerhet</strong> recept samt gör <strong>med viss säkerhet</strong> enkla recept- och näringsberäkningar.",
+          "C" : "I arbetet läser och följer eleven <strong>med viss säkerhet</strong> recept samt gör <strong>med viss säkerhet</strong> enkla recept- och näringsberäkningar.",
+          "A" : "I arbetet läser och följer eleven <strong>med säkerhet</strong> recept samt gör <strong>med säkerhet</strong> enkla recept- och näringsberäkningar."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> utrustning, maskiner och verktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg.",
+          "C" : "Dessutom använder eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg.",
+          "A" : "Dessutom använder eleven <strong>med säkerhet</strong> utrustning, maskiner och verktyg."
+        }
+      }, {
+        "text" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, förvarar och märker <strong>________</strong> charkuterivaror i enlighet med lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, förvarar och märker <strong>med viss säkerhet</strong> charkuterivaror i enlighet med lagar och andra bestämmelser.",
+          "C" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, förvarar och märker <strong>med viss säkerhet</strong> charkuterivaror i enlighet med lagar och andra bestämmelser.",
+          "A" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, förvarar och märker <strong>med säkerhet</strong> charkuterivaror i enlighet med lagar och andra bestämmelser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>________</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>översiktligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "C" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>utförligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "A" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>utförligt och nyanserat</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört genomför eleven <strong>________</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört genomför eleven <strong>i samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+          "C" : "När arbetet är utfört genomför eleven <strong>efter samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+          "A" : "När arbetet är utfört genomför eleven <strong>efter samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven med <strong>________</strong> omdömen sitt arbete och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+          "C" : "Dessutom utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
+          "A" : "Dessutom utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Charkuteri 2",
+    "description" : "Kursen charkuteri 2 omfattar punkterna 1–8 under rubriken Ämnets syfte.",
+    "code" : "CHACHA02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika köttråvaror inom charkindustrin, deras kvalitet samt biokemiska och fysiologiska egenskaper. Köttsorteringar. Alternativa råvaror och tillsatser som är vanligt förekommande vid tillverkning av charkuterivaror.", "Tillverkning av oblandade charkuterivaror – hela, tumlade och pressade.", "Tillverkningsprocessen – uppvägning, beredning, formning, värmebehandling och kylning.", "Olika saltningsmetoder inom charkindustrin.", "Formning i formar, konst- och naturtarm.", "Rök- och värmebehandlingsmetoder kopplat till hållbarhet, smak, färg och konsistens.", "Livsmedelskemi, kvalitet, felsökning och reflektion.", "Receptberäkningar och ekonomiska beräkningar.", "Användning och vård av produktionsutrustning och maskiner inom charkindustrin.", "Förpackning, förvaring och märkning av charkuterivaror.", "Arbetsmiljö, ergonomi och säkerhet.", "Praktisk hygien och egenkontroll." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för olika köttråvarors kvalitet, deras biokemiska och fysiologiska egenskaper samt deras användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för olika köttråvarors kvalitet, deras biokemiska och fysiologiska egenskaper samt deras användningsområden.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för olika köttråvarors kvalitet, deras biokemiska och fysiologiska egenskaper samt deras användningsområden.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för olika köttråvarors kvalitet, deras biokemiska och fysiologiska egenskaper samt deras användningsområden."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för andra råvaror samt för tillsatser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för andra råvaror samt för tillsatser.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för andra råvaror samt för tillsatser.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för andra råvaror samt för tillsatser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar <strong>________</strong> med handledare tillverkning av charkuterivaror samt tillverkar dessa <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar <strong>i samråd</strong> med handledare tillverkning av charkuterivaror samt tillverkar dessa <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare tillverkning av charkuterivaror samt tillverkar dessa <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare tillverkning av charkuterivaror samt tillverkar dessa <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "I arbetet läser och följer eleven <strong>________</strong> recept samt gör <strong>________</strong> recept- och näringsberäkningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet läser och följer eleven <strong>med viss säkerhet</strong> recept samt gör <strong>med viss säkerhet</strong> recept- och näringsberäkningar.",
+          "C" : "I arbetet läser och följer eleven <strong>med viss säkerhet</strong> recept samt gör <strong>med viss säkerhet</strong> recept- och näringsberäkningar.",
+          "A" : "I arbetet läser och följer eleven <strong>med säkerhet</strong> recept samt gör <strong>med säkerhet</strong> recept- och näringsberäkningar."
+        }
+      }, {
+        "text" : "Dessutom värderar eleven med <strong>________</strong> omdömen råvarornas kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom värderar eleven med <strong>enkla</strong> omdömen råvarornas kvalitet.",
+          "C" : "Dessutom värderar eleven med <strong>enkla</strong> omdömen råvarornas kvalitet.",
+          "A" : "Dessutom värderar eleven med <strong>nyanserade</strong> omdömen råvarornas kvalitet."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> utrustning, maskiner och verktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> utrustning, maskiner och verktyg."
+        }
+      }, {
+        "text" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, förvarar och märker <strong>________</strong> charkuterivaror i enlighet med lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, förvarar och märker <strong>med viss säkerhet</strong> charkuterivaror i enlighet med lagar och andra bestämmelser.",
+          "C" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, förvarar och märker <strong>med viss säkerhet</strong> charkuterivaror i enlighet med lagar och andra bestämmelser.",
+          "A" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, förvarar och märker <strong>med säkerhet</strong> charkuterivaror i enlighet med lagar och andra bestämmelser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>________</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>översiktligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "C" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>utförligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "A" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>utförligt och nyanserat</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet."
+        }
+      }, {
+        "text" : "Dessutom arbetar eleven <strong>________</strong> på ett ekonomiskt och miljömässigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom arbetar eleven <strong>med viss säkerhet</strong> på ett ekonomiskt och miljömässigt sätt.",
+          "C" : "Dessutom arbetar eleven <strong>med viss säkerhet</strong> på ett ekonomiskt och miljömässigt sätt.",
+          "A" : "Dessutom arbetar eleven <strong>med säkerhet</strong> på ett ekonomiskt och miljömässigt sätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört genomför eleven <strong>________</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört genomför eleven <strong>i samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+          "C" : "När arbetet är utfört genomför eleven <strong>efter samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+          "A" : "När arbetet är utfört genomför eleven <strong>efter samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven med <strong>________</strong> omdömen sitt arbete och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+          "C" : "Dessutom utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
+          "A" : "Dessutom utvärderar eleven med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Charkuteri 3",
+    "description" : "Kursen charkuteri 3 omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade färdigheter i ämnet.",
+    "code" : "CHACHA03",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika köttråvaror inom charkindustrin, deras kvalitet samt biokemiska och fysiologiska egenskaper. Köttsorteringar. Alternativa råvaror som är vanligt förekommande inom charkindustrin samt deras kvalitet och egenskaper.", "Vanligt förekommande tillsatser och hjälpmedel vid charktillverkning.", "Tillverkning av blandade och oblandade charkuterivaror.", "Tillverkning av internationella och lokala charkuterivaror.", "Organisation och planering av tillverkning.", "Tillverkningsprocessen – uppvägning, beredning, formning, värmebehandling och kylning.", "Behandlingsmetoder, till exempel rökning, fermentering och torkning.", "Livsmedelskemi, kvalitet, felsökning och reflektion.", "Omvandling och skapande av recept.", "Recept-, produktions-, närings- och ekonomiska beräkningar.", "Användning och vård av produktionsutrustning och maskiner inom charkindustrin.", "Förpackning, förvaring och märkning av charkuterivaror.", "Arbetsmiljö, ergonomi och säkerhet.", "Praktisk hygien och egenkontroll." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för olika köttråvarors kvalitet, deras biokemiska och fysiologiska egenskaper samt deras användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för olika köttråvarors kvalitet, deras biokemiska och fysiologiska egenskaper samt deras användningsområden.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för olika köttråvarors kvalitet, deras biokemiska och fysiologiska egenskaper samt deras användningsområden.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för olika köttråvarors kvalitet, deras biokemiska och fysiologiska egenskaper samt deras användningsområden."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för andra råvaror samt för tillsatser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för andra råvaror samt för tillsatser.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för andra råvaror samt för tillsatser.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för andra råvaror samt för tillsatser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar <strong>________</strong> med handledare tillverkning av charkuterivaror samt tillverkar dessa med <strong>________</strong> handlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar <strong>i samråd</strong> med handledare tillverkning av charkuterivaror samt tillverkar dessa med <strong>visst</strong> handlag.",
+          "C" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare tillverkning av charkuterivaror samt tillverkar dessa med <strong>gott</strong> handlag.",
+          "A" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare tillverkning av charkuterivaror samt tillverkar dessa med <strong>mycket gott</strong> handlag."
+        }
+      }, {
+        "text" : "I arbetet läser och följer eleven <strong>________</strong> recept samt gör <strong>________</strong> recept- och näringsberäkningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet läser och följer eleven <strong>med viss säkerhet</strong> recept samt gör <strong>med viss säkerhet</strong> recept- och näringsberäkningar.",
+          "C" : "I arbetet läser och följer eleven <strong>med viss säkerhet</strong> recept samt gör <strong>med viss säkerhet</strong> recept- och näringsberäkningar.",
+          "A" : "I arbetet läser och följer eleven <strong>med säkerhet</strong> recept samt gör <strong>med säkerhet</strong> recept- och näringsberäkningar."
+        }
+      }, {
+        "text" : "Dessutom värderar eleven med <strong>________</strong> omdömen råvarornas kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom värderar eleven med <strong>enkla</strong> omdömen råvarornas kvalitet.",
+          "C" : "Dessutom värderar eleven med <strong>nyanserade</strong> omdömen råvarornas kvalitet.",
+          "A" : "Dessutom värderar eleven med <strong>nyanserade</strong> omdömen råvarornas kvalitet."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> utrustning, maskiner och verktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> utrustning, maskiner och verktyg."
+        }
+      }, {
+        "text" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, förvarar och märker <strong>________</strong> charkuterivaror i enlighet med lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, förvarar och märker <strong>med viss säkerhet</strong> charkuterivaror i enlighet med lagar och andra bestämmelser.",
+          "C" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, förvarar och märker <strong>med viss säkerhet</strong> charkuterivaror i enlighet med lagar och andra bestämmelser.",
+          "A" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, förvarar och märker <strong>med säkerhet</strong> charkuterivaror i enlighet med lagar och andra bestämmelser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>________</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>översiktligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "C" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>utförligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "A" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>utförligt och nyanserat</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet."
+        }
+      }, {
+        "text" : "Dessutom arbetar eleven <strong>________</strong> på ett ekonomiskt och miljömässigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom arbetar eleven <strong>med viss säkerhet</strong> på ett ekonomiskt och miljömässigt sätt.",
+          "C" : "Dessutom arbetar eleven <strong>med viss säkerhet</strong> på ett ekonomiskt och miljömässigt sätt.",
+          "A" : "Dessutom arbetar eleven <strong>med säkerhet</strong> på ett ekonomiskt och miljömässigt sätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört genomför eleven <strong>________</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört genomför eleven <strong>i samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+          "C" : "När arbetet är utfört genomför eleven <strong>efter samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+          "A" : "När arbetet är utfört genomför eleven <strong>efter samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven med <strong>________</strong> omdömen produkternas kvalitet och sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven med <strong>enkla</strong> omdömen produkternas kvalitet och sitt arbete.",
+          "C" : "Dessutom utvärderar eleven med <strong>nyanserade</strong> omdömen produkternas kvalitet och sitt arbete.",
+          "A" : "Dessutom utvärderar eleven med <strong>nyanserade</strong> omdömen produkternas kvalitet och sitt arbete <strong>samt ger förslag på hur kvaliteten och arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Charkuteri 4",
+    "description" : "Kursen charkuteri 4 omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade färdigheter i ämnet.",
+    "code" : "CHACHA04",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika köttråvaror, deras kvalitet samt biokemiska och fysiologiska egenskaper. Köttsorteringar, alternativa råvaror och tillsatser.", "Yrkesmässig tillverkning av vanligt förekommande blandade och oblandade charkuterivaror.", "Tillverkning av lokala charkuterivaror.", "Organisation och planering av tillverkning. Arbetstempo.", "Tillverkningsprocessen – uppvägning, beredning, formning, värmebehandling och kylning.", "Recept-, produktions-, närings- och ekonomiska beräkningar. Optimering av recept utifrån ett ekonomiskt perspektiv.", "Produktkvalitet och normer.", "Användning och vård av industriutrustning och industrimaskiner inom charkindustrin.", "Förpackning, förvaring och märkning av charkuterivaror.", "Arbetsmiljö, ergonomi och säkerhet.", "Praktisk hygien och egenkontroll." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för olika köttråvarors kvalitet, deras biokemiska och fysiologiska egenskaper samt deras användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för olika köttråvarors kvalitet, deras biokemiska och fysiologiska egenskaper samt deras användningsområden.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för olika köttråvarors kvalitet, deras biokemiska och fysiologiska egenskaper samt deras användningsområden.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för olika köttråvarors kvalitet, deras biokemiska och fysiologiska egenskaper samt deras användningsområden."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för andra råvaror samt för tillsatser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för andra råvaror samt för tillsatser.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för andra råvaror samt för tillsatser.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för andra råvaror samt för tillsatser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar <strong>________</strong> med handledare tillverkning av charkuterivaror.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar <strong>i samråd</strong> med handledare tillverkning av charkuterivaror.",
+          "C" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare tillverkning av charkuterivaror.",
+          "A" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare tillverkning av charkuterivaror."
+        }
+      }, {
+        "text" : "Eleven tillverkar charkuterivaror med <strong>________</strong> handlag och med <strong>________</strong> kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tillverkar charkuterivaror med <strong>visst</strong> handlag och med <strong>tillfredsställande</strong> kvalitet.",
+          "C" : "Eleven tillverkar charkuterivaror med <strong>gott</strong> handlag och med <strong>tillfredsställande</strong> kvalitet.",
+          "A" : "Eleven tillverkar charkuterivaror med <strong>mycket gott</strong> handlag och med <strong>god</strong> kvalitet."
+        }
+      }, {
+        "text" : "I arbetet läser och följer eleven <strong>________</strong> recept samt gör <strong>________</strong> recept- och näringsberäkningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet läser och följer eleven <strong>med viss säkerhet</strong> recept samt gör <strong>med viss säkerhet</strong> recept- och näringsberäkningar.",
+          "C" : "I arbetet läser och följer eleven <strong>med viss säkerhet</strong> recept samt gör <strong>med viss säkerhet</strong> recept- och näringsberäkningar.",
+          "A" : "I arbetet läser och följer eleven <strong>med säkerhet</strong> recept samt gör <strong>med säkerhet</strong> recept- och näringsberäkningar."
+        }
+      }, {
+        "text" : "Dessutom värderar eleven med <strong>________</strong> omdömen råvarornas kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom värderar eleven med <strong>enkla</strong> omdömen råvarornas kvalitet.",
+          "C" : "Dessutom värderar eleven med <strong>nyanserade</strong> omdömen råvarornas kvalitet.",
+          "A" : "Dessutom värderar eleven med <strong>nyanserade</strong> omdömen råvarornas kvalitet."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> utrustning, maskiner och verktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> utrustning, maskiner och verktyg."
+        }
+      }, {
+        "text" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, förvarar och märker <strong>________</strong> charkuterivaror i enlighet med lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, förvarar och märker <strong>med viss säkerhet</strong> charkuterivaror i enlighet med lagar och andra bestämmelser.",
+          "C" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, förvarar och märker <strong>med viss säkerhet</strong> charkuterivaror i enlighet med lagar och andra bestämmelser.",
+          "A" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, förvarar och märker <strong>med säkerhet</strong> charkuterivaror i enlighet med lagar och andra bestämmelser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>________</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>översiktligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "C" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>utförligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "A" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>utförligt och nyanserat</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet."
+        }
+      }, {
+        "text" : "Dessutom arbetar eleven <strong>________</strong> på ett ekonomiskt och miljömässigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom arbetar eleven <strong>med viss säkerhet</strong> på ett ekonomiskt och miljömässigt sätt.",
+          "C" : "Dessutom arbetar eleven <strong>med viss säkerhet</strong> på ett ekonomiskt och miljömässigt sätt.",
+          "A" : "Dessutom arbetar eleven <strong>med säkerhet</strong> på ett ekonomiskt och miljömässigt sätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört genomför eleven <strong>________</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört genomför eleven <strong>i samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+          "C" : "När arbetet är utfört genomför eleven <strong>efter samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+          "A" : "När arbetet är utfört genomför eleven <strong>efter samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven med <strong>________</strong> omdömen produkternas kvalitet, produktionens effektivitet och sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven med <strong>enkla</strong> omdömen produkternas kvalitet, produktionens effektivitet och sitt arbete.",
+          "C" : "Dessutom utvärderar eleven med <strong>nyanserade</strong> omdömen produkternas kvalitet, produktionens effektivitet och sitt arbete.",
+          "A" : "Dessutom utvärderar eleven med <strong>nyanserade</strong> omdömen produkternas kvalitet, produktionens effektivitet och sitt arbete <strong>samt ger förslag på hur kvaliteten, effektiviteten och det egna arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Charkuteri – specialisering",
+    "description" : "Kursen charkuteri – specialisering omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom valt specialiseringsområde.",
+    "code" : "CHACHA00S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Köttråvaror inom valt specialiseringsområde, deras kvalitet samt biokemiska och fysiologiska egenskaper. Köttsorteringar. Tillsatser och eventuella alternativa råvaror inom valt specialiseringsområde samt deras kvalitet och egenskaper.", "Yrkesmässiga tillverkningsmetoder av charkuterivaror inom valt specialiseringsområde. Exempel på specialiseringsområde kan vara lufttorkade och kallrökta produkter.", "Branschkrav då det gäller kvalitet och produktionens organisation och effektivitet.", "Trender, influenser och utveckling inom valt specialiseringsområde.", "Krav på utseende och smak inom valt specialiseringsområde.", "Kreativt framtagande av recept och arbetsbeskrivningar inom valt specialiseringsområde.", "Lönsamhet och ekonomiska konsekvenser vid val av råvaror samt sambandet mellan kvalitet och ekonomi.", "Produktkvalitet och normer.", "Användning och vård av utrustning och maskiner inom charkindustrin.", "Förpackning, förvaring och märkning av charkuterivaror.", "Arbetsmiljö, ergonomi och säkerhet.", "Lagar och andra bestämmelser inom yrkesområdet.", "Praktisk hygien och egenkontroll." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för olika köttråvarors kvalitet, deras biokemiska och fysiologiska egenskaper samt deras användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för olika köttråvarors kvalitet, deras biokemiska och fysiologiska egenskaper samt deras användningsområden.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för olika köttråvarors kvalitet, deras biokemiska och fysiologiska egenskaper samt deras användningsområden.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för olika köttråvarors kvalitet, deras biokemiska och fysiologiska egenskaper samt deras användningsområden."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för andra råvaror samt för tillsatser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för andra råvaror samt för tillsatser.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för andra råvaror samt för tillsatser.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för andra råvaror samt för tillsatser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar <strong>________</strong> med handledare tillverkning av charkuterivaror.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar <strong>i samråd</strong> med handledare tillverkning av charkuterivaror.",
+          "C" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare tillverkning av charkuterivaror.",
+          "A" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare tillverkning av charkuterivaror."
+        }
+      }, {
+        "text" : "Eleven tillverkar charkuterivaror med <strong>________</strong> handlag och med <strong>________</strong> kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tillverkar charkuterivaror med <strong>visst</strong> handlag och med <strong>tillfredsställande</strong> kvalitet.",
+          "C" : "Eleven tillverkar charkuterivaror med <strong>gott</strong> handlag och med <strong>tillfredsställande</strong> kvalitet.",
+          "A" : "Eleven tillverkar charkuterivaror med <strong>mycket gott</strong> handlag och med <strong>god</strong> kvalitet."
+        }
+      }, {
+        "text" : "I arbetet läser och följer eleven <strong>________</strong> recept samt gör <strong>________</strong> recept- och näringsberäkningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet läser och följer eleven <strong>med viss säkerhet</strong> recept samt gör <strong>med viss säkerhet</strong> recept- och näringsberäkningar.",
+          "C" : "I arbetet läser och följer eleven <strong>med viss säkerhet</strong> recept samt gör <strong>med viss säkerhet</strong> recept- och näringsberäkningar.",
+          "A" : "I arbetet läser och följer eleven <strong>med säkerhet</strong> recept samt gör <strong>med säkerhet</strong> recept- och näringsberäkningar."
+        }
+      }, {
+        "text" : "Dessutom värderar eleven med <strong>________</strong> omdömen råvarornas kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom värderar eleven med <strong>enkla</strong> omdömen råvarornas kvalitet.",
+          "C" : "Dessutom värderar eleven med <strong>nyanserade</strong> omdömen råvarornas kvalitet.",
+          "A" : "Dessutom värderar eleven med <strong>nyanserade</strong> omdömen råvarornas kvalitet."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> utrustning, maskiner och verktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> utrustning, maskiner och verktyg."
+        }
+      }, {
+        "text" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, förvarar och märker <strong>________</strong> charkuterivaror i enlighet med lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, förvarar och märker <strong>med viss säkerhet</strong> charkuterivaror i enlighet med lagar och andra bestämmelser.",
+          "C" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, förvarar och märker <strong>med viss säkerhet</strong> charkuterivaror i enlighet med lagar och andra bestämmelser.",
+          "A" : "Eleven hanterar, väljer förpackningsmaterial till, förpackar, förvarar och märker <strong>med säkerhet</strong> charkuterivaror i enlighet med lagar och andra bestämmelser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>________</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>översiktligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "C" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>utförligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "A" : "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar <strong>utförligt och nyanserat</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet."
+        }
+      }, {
+        "text" : "Dessutom arbetar eleven <strong>________</strong> på ett ekonomiskt och miljömässigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom arbetar eleven <strong>med viss säkerhet</strong> på ett ekonomiskt och miljömässigt sätt.",
+          "C" : "Dessutom arbetar eleven <strong>med viss säkerhet</strong> på ett ekonomiskt och miljömässigt sätt.",
+          "A" : "Dessutom arbetar eleven <strong>med säkerhet</strong> på ett ekonomiskt och miljömässigt sätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört genomför eleven <strong>________</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört genomför eleven <strong>i samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+          "C" : "När arbetet är utfört genomför eleven <strong>efter samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg.",
+          "A" : "När arbetet är utfört genomför eleven <strong>efter samråd</strong> med handledare underhåll av utrustning, maskiner och verktyg."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven med <strong>________</strong> omdömen produkternas kvalitet, produktionens effektivitet och sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven med <strong>enkla</strong> omdömen produkternas kvalitet, produktionens effektivitet och sitt arbete.",
+          "C" : "Dessutom utvärderar eleven med <strong>nyanserade</strong> omdömen produkternas kvalitet, produktionens effektivitet och sitt arbete.",
+          "A" : "Dessutom utvärderar eleven med <strong>nyanserade</strong> omdömen produkternas kvalitet, produktionens effektivitet och sitt arbete <strong>samt ger förslag på hur kvaliteten, effektiviteten och det egna arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

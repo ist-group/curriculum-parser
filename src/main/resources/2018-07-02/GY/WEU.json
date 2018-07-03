@@ -1,0 +1,406 @@
+{
+  "name" : "Webbutveckling",
+  "description" : "Ämnet webbutveckling behandlar de tekniker som används för att presentera och bearbeta information i webbläsaren samt utifrån dessa tekniker skapa och vidareutveckla statiska och dynamiska webbsidor, webbplatser eller webbapplikationer.",
+  "code" : "WEU",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Ämnet webbutveckling ska syfta till att eleverna utvecklar färdigheter i att skapa produkter med hjälp av olika webbtekniker.", "Eleverna ska ges möjlighet att utveckla kunskaper om olika webbteknikers konstruktion och funktionalitet samt kunskaper om samspelet mellan beställare, användare, formgivare och utvecklare.", "Genom undervisningen ska eleverna ges möjlighet att utveckla produkter som följer standarder, riktlinjer för god praxis, användbarhet och tillgänglighet även för användare med funktionsnedsättning.", "Undervisningen ska leda till att eleverna utvecklar kunskaper om relevanta lagar och andra bestämmelser samt förmåga att göra webbrelaterade etiska överväganden." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om och färdigheter i att använda verktyg för att producera och kontrollera den kod på en webbplats som exekveras av webbklienten." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om projekt som arbetsmetod och tillfälle till arbete i projektform." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet webbutveckling ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om webbens historia, betydelse och funktionalitet.", "Förmåga att planera, genomföra, testa, dokumentera och utvärdera utvecklingsprojekt för webbplatser samt applikationer som bygger på klientbaserade webbtekniker.", "Kunskaper om de tekniker som används för att bygga webbplatser och webbapplikationer.", "Förmåga att använda externa webbtjänster för informationsutbyte mellan webbplatser.", "Förmåga att utveckla dynamisk presentationslogik.", "Förmåga att bygga webbplatser och webbapplikationer enligt standarder och riktlinjer för god praxis samt med god tillgänglighet.", "Kunskaper om lagar och andra bestämmelser inom området samt förmåga att göra etiska överväganden och reflektera över integritetsfrågor.", "Kunskaper om säkerhet och förmåga att identifiera och motarbeta attacker.", "Förmåga att använda terminologi inom området." ]
+  } ],
+  "courses" : [ {
+    "name" : "Webbutveckling 1",
+    "description" : "Kursen webbutveckling 1 omfattar punkterna 1–3 och 6–9 under rubriken Ämnets syfte.",
+    "code" : "WEUWEB01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Webben som plattform, dess historia och samhällspåverkan.", "Teknisk orientering om webbens protokoll, adresser, säkerhet och samspelet mellan klient och server.", "Publikation av webbplatser med och utan webbpubliceringssystem.", "Processen för ett webbutvecklingsprojekt med målsättningar, planering, specifikation av struktur och design, kodning, optimering, testning, dokumentation och uppföljning.", "Märkspråk och deras inbördes roller, syntax och semantik – där det huvudsakliga innehållet är standarderna för HTML och CSS samt orientering om Ecmaskript och dokumentobjektsmodellen (DOM).", "Teckenkodning, begrepp, standarder och handhavande.", "Bilder och media med alternativa format, optimering och tillgänglighet.", "Riktlinjer för god praxis inom webbutveckling.", "Interoperabilitet genom att följa standarder och testa på olika användaragenter.", "Applikationer som fungerar oberoende av val av användaragent, operativsystem eller hårdvaruplattform och hur tillgänglighet uppnås även för användare med funktionsnedsättning.", "Kvalitetssäkring av applikationens funktion och validering av kodens kvalitet.", "Säkerhet och sätt att identifiera hot och sårbarheter samt hur attacker kan motverkas genom effektiva åtgärder.", "Lagar och andra bestämmelser som styr digital information, till exempel personuppgiftslagen och lagen om elektronisk kommunikation.", "Terminologi inom området webbutveckling." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> webbens historia och dess påverkan på samhället och de grundläggande tekniker som webben bygger på.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> webbens historia och dess påverkan på samhället och de grundläggande tekniker som webben bygger på.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> webbens historia och dess påverkan på samhället och de grundläggande tekniker som webben bygger på.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> webbens historia och dess påverkan på samhället och de grundläggande tekniker som webben bygger på."
+        }
+      }, {
+        "text" : "Eleven använder med <strong>________</strong> handlag webbpubliceringssystem och redogör <strong>________</strong> för dess funktionalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder med <strong>visst</strong> handlag webbpubliceringssystem och redogör <strong>översiktligt</strong> för dess funktionalitet.",
+          "C" : "Eleven använder med <strong>gott</strong> handlag webbpubliceringssystem och redogör <strong>utförligt</strong> för dess funktionalitet.",
+          "A" : "Eleven använder med <strong>mycket gott</strong> handlag webbpubliceringssystem och redogör <strong>utförligt och nyanserat</strong> för dess funktionalitet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven upprättar en <strong>________</strong> projektplan för en tänkt produkt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven upprättar en <strong>enkel</strong> projektplan för en tänkt produkt.",
+          "C" : "Eleven upprättar en <strong>genomarbetad</strong> projektplan för en tänkt produkt.",
+          "A" : "Eleven upprättar en <strong>genomarbetad</strong> projektplan för en tänkt produkt och <strong>reviderar den vid behov</strong>."
+        }
+      }, {
+        "text" : "Eleven utvecklar utifrån planen en produkt <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvecklar utifrån planen en produkt <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven utvecklar utifrån planen en produkt <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven utvecklar utifrån planen en produkt <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "I arbetet utvecklar eleven kod som med <strong>________</strong> resultat följer standarder och omfattar <strong>________</strong> av de grundläggande teknikerna för märkspråk och stilmallar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet utvecklar eleven kod som med <strong>tillfredsställande</strong> resultat följer standarder och omfattar <strong>någon</strong> av de grundläggande teknikerna för märkspråk och stilmallar.",
+          "C" : "I arbetet utvecklar eleven kod som med <strong>tillfredsställande</strong> resultat följer standarder och som omfattar <strong>några</strong> av de grundläggande teknikerna för märkspråk och stilmallar. <strong>I produkten infogar eleven enkla skript</strong>.",
+          "A" : "I arbetet utvecklar eleven kod som med <strong>gott</strong> resultat följer standarder och som omfattar <strong>flera</strong> av de grundläggande teknikerna för märkspråk och stilmallar. <strong>I produkten infogar eleven diskreta domskript</strong>."
+        }
+      }, {
+        "text" : "Eleven bearbetar också <strong>________</strong> text, bild och eventuell annan media så att de anpassas till produkten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven bearbetar också <strong>med viss säkerhet enkel</strong> text, bild och eventuell annan media så att de anpassas till produkten.",
+          "C" : "Eleven bearbetar <strong>med viss säkerhet och via flera moment</strong> text, bild och eventuell annan media, så att de anpassas till produkten.",
+          "A" : "Eleven bearbetar <strong>med säkerhet och via flera moment</strong> text, bild och eventuell annan media så att de anpassas till produkten."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Produkten är av <strong>________</strong> kvalitet och följer etablerad god praxis vilket eleven kontrollerar med <strong>________</strong> tester.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Produkten är av <strong>tillfredsställande</strong> kvalitet och följer etablerad god praxis vilket eleven kontrollerar med <strong>begränsade</strong> tester.",
+          "C" : "Produkten är av <strong>tillfredsställande</strong> kvalitet och följer etablerad god praxis vilket eleven kontrollerar med <strong>automatiserade</strong> tester.",
+          "A" : "Produkten är av <strong>god</strong> kvalitet och följer etablerad god praxis vilket eleven kontrollerar med <strong>omfattande automatiserade och manuella</strong> tester."
+        }
+      }, {
+        "text" : "Eleven testar produkten i <strong>________</strong> webbläsare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven testar produkten i <strong>någon</strong> webbläsare.",
+          "C" : "Eleven testar produkten i <strong>några</strong> webbläsare.",
+          "A" : "Eleven testar produkten i <strong>flera</strong> webbläsare."
+        }
+      }, {
+        "text" : "Eleven testar också produkten på <strong>________</strong> plattform och vidtar <strong>________</strong> åtgärder för att åstadkomma snabb överföring av bilder eller andra mediafiler.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven testar också produkten på <strong>någon</strong> plattform och vidtar <strong>begränsade</strong> åtgärder för att åstadkomma snabb överföring av bilder eller andra mediafiler.",
+          "C" : "Eleven testar också produkten på <strong>några</strong> plattformar <strong>inklusive traditionella datorer eller mobila enheter</strong> och vidtar åtgärder för att åstadkomma snabb överföring av bilder och andra mediafiler.",
+          "A" : "Eleven testar också produkten på <strong>flera</strong> plattformar <strong>inklusive traditionella datorer och mobila enheter</strong>, vidtar <strong>omfattande</strong> åtgärder <strong>samt optimerar</strong> bilder eller andra mediafiler för att åstadkomma snabb överföring av dessa <strong>och för att reducera antalet överföringar per sida</strong>."
+        }
+      }, {
+        "text" : "Dessutom bygger eleven en webbplats som med <strong>________</strong> resultat följer grundläggande principer för tillgänglighet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom bygger eleven en webbplats som med <strong>tillfredsställande</strong> resultat följer grundläggande principer för tillgänglighet.",
+          "C" : "Dessutom bygger eleven en webbplats som med <strong>tillfredsställande</strong> resultat följer grundläggande principer för tillgänglighet <strong>och kontrollerar detta med några automatiserade tester</strong>.",
+          "A" : "Dessutom bygger eleven en webbplats som med <strong>gott</strong> resultat följer grundläggande principer för tillgänglighet <strong>och kontrollerar detta med automatiserade tester och simuleringar</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> dokumentation av de moment som har utförts och utvärderar med <strong>________</strong> omdömen sitt arbete och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av de moment som har utförts och utvärderar med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+          "C" : "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av de moment som har utförts och utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
+          "A" : "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av de moment som har utförts <strong>med koppling till generella principer och testresultat</strong> och utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för innehållet i lagar och andra bestämmelser som rör publicering på webben samt följer dem i sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för innehållet i lagar och andra bestämmelser som rör publicering på webben samt följer dem i sitt arbete.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för innehållet i lagar och andra bestämmelser som rör publicering på webben samt följer dem i sitt arbete.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för innehållet i lagar och andra bestämmelser som rör publicering på webben samt följer dem i sitt arbete."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för relevanta säkerhetslösningar samt hanterar lösenord och annan känslig data på ett etiskt riktigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för relevanta säkerhetslösningar samt hanterar lösenord och annan känslig data på ett etiskt riktigt sätt.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för relevanta säkerhetslösningar samt hanterar lösenord och annan känslig data på ett etiskt riktigt sätt.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för relevanta säkerhetslösningar samt hanterar lösenord och annan känslig data på ett etiskt riktigt sätt."
+        }
+      }, {
+        "text" : "Eleven för dessutom <strong>________</strong> resonemang om webbrelaterade frågor om etik och integritet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven för dessutom <strong>enkla</strong> resonemang om webbrelaterade frågor om etik och integritet.",
+          "C" : "Eleven för dessutom <strong>välgrundade</strong> resonemang om webbrelaterade frågor om etik och integritet. <strong>Eleven beskriver även hur tredjepartskod kan innebära problem för produktens säkerhet</strong>.",
+          "A" : "Eleven för dessutom <strong>välgrundade och nyanserade</strong> resonemang om webbrelaterade frågor om etik och integritet. <strong>Eleven beskriver även hur tredjepartskod kan innebära problem för produktens säkerhet samt beskriver grundläggande säkerhetskriterier vid val av webbhotell</strong>."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> terminologi inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> terminologi inom området.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> terminologi inom området.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> terminologi inom området."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Webbutveckling 2",
+    "description" : "Kursen webbutveckling 2 omfattar punkterna 1–3 och 5–9 under rubriken Ämnets syfte.",
+    "code" : "WEUWEB02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Webben som plattform för applikationer av olika slag.", "Utvecklingsprocessen för ett webbtekniskt projekt med målsättningar, planering, specifikation av struktur och design, kodning, optimering, testning, dokumentation och uppföljning.", "Fördjupning i märkspråk där det huvudsakliga innehållet är standarderna för HTML och CSS med särskilt fokus på responsiv design.", "Språk med stöd för variabler för att förenkla CSS-generering.", "Ramverk eller klassbibliotek inom design eller skriptspråk.", "Skriptspråk för webbutveckling på klientsidan och dokumentobjektsmodell.", "Bilder, ljud, video och två- eller tredimensionell interaktiv grafik för webbapplikationer.", "Riktlinjer för god praxis inom webbutveckling.", "Uppnående av interoperabilitet genom att följa standarder och testa på olika plattformar.", "Applikationer som fungerar oberoende av vald plattform och hur tillgänglighet uppnås även för användare med funktionsnedsättning.", "Kvalitetssäkring av applikationens funktion och validering av kodens kvalitet.", "Lagar och andra bestämmelser som styr digital information, till exempel personuppgiftslagen och lagen om elektronisk kommunikation.", "Säkerhet och sätt att identifiera hot och sårbarheter samt hur attacker kan motverkas genom effektiva åtgärder.", "Terminologi inom området webbutveckling." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> webben som plattform samt gör en <strong>________</strong> jämförelse med <strong>________</strong> annat alternativ.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> webben som plattform samt gör en <strong>enkel</strong> jämförelse med <strong>något</strong> annat alternativ.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> webben som plattform samt gör en <strong>välgrundad</strong> jämförelse med <strong>några</strong> andra alternativ.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> webben som plattform samt gör en <strong>välgrundad och nyanserad</strong> jämförelse med <strong>flera</strong> andra alternativ."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör en <strong>________</strong> projektplan för en tänkt produkt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> projektplan för en tänkt produkt.",
+          "C" : "Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt produkt.",
+          "A" : "Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt produkt, <strong>vid behov reviderar eleven planen</strong>."
+        }
+      }, {
+        "text" : "Utifrån projektplanen utvecklar eleven <strong>________</strong> med handledare produkten där logiker som styr innehåll, design och beteende <strong>________</strong> är åtskilda.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Utifrån projektplanen utvecklar eleven <strong>i samråd</strong> med handledare produkten där logiker som styr innehåll, design och beteende <strong>i begränsad utsträckning</strong> är åtskilda.",
+          "C" : "Utifrån projektplanen utvecklar eleven <strong>efter samråd</strong> med handledare produkten där logiker som styr innehåll, design och beteende är åtskilda.",
+          "A" : "Utifrån projektplanen utvecklar eleven <strong>efter samråd</strong> med handledare produkten där logiker som styr innehåll, design och beteende <strong>i omfattande utsträckning</strong> är åtskilda."
+        }
+      }, {
+        "text" : "I arbetet utvecklar eleven kod som med <strong>________</strong> resultat följer standarder och som omfattar <strong>________</strong> teknik för märkspråk och stilmallar där eleven <strong>________</strong> använder tekniker för att generera stilmallskod.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet utvecklar eleven kod som med <strong>tillfredsställande</strong> resultat följer standarder och som omfattar <strong>någon</strong> teknik för märkspråk och stilmallar där eleven <strong>i begränsad utsträckning</strong> använder tekniker för att generera stilmallskod.",
+          "C" : "I arbetet utvecklar eleven kod som med <strong>tillfredsställande</strong> resultat följer standarder och som omfattar <strong>några</strong> tekniker för märkspråk och stilmallar där eleven använder tekniker för att generera stilmallskod.",
+          "A" : "I arbetet utvecklar eleven kod som med <strong>gott</strong> resultat följer standarder och som omfattar <strong>flera</strong> tekniker för märkspråk och stilmallar där eleven <strong>i omfattande utsträckning</strong> använder tekniker för att generera stilmallskod."
+        }
+      }, {
+        "text" : "I arbetet bearbetar eleven med <strong>________</strong> resultattext, bild och eventuell annan media så att de blir anpassade för att fungera i produkten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet bearbetar eleven med <strong>tillfredsställande</strong> resultattext, bild och eventuell annan media så att de blir anpassade för att fungera i produkten.",
+          "C" : "I arbetet bearbetar eleven med <strong>tillfredsställande</strong> resultat <strong>och via flera moment</strong> text, bild och eventuell annan media så att de blir anpassade för att fungera i produkten.",
+          "A" : "I arbetet bearbetar eleven med <strong>gott</strong> resultat <strong>och via flera moment</strong> text, bild och eventuell annan media så att de blir anpassade för att fungera i produkten."
+        }
+      }, {
+        "text" : "Eleven utvecklar med <strong>________</strong> funktionalitet inom något eller några av områdena domskript, interaktiv 2D-grafik, 3D-grafik eller animationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvecklar med <strong>tillfredsställande</strong> funktionalitet inom något eller några av områdena domskript, interaktiv 2D-grafik, 3D-grafik eller animationer.",
+          "C" : "Eleven utvecklar med <strong>tillfredsställande</strong> resultat funktionalitet inom något eller några av områdena domskript, interaktiv 2D-grafik, 3D-grafik eller animationer.",
+          "A" : "Eleven utvecklar med <strong>gott</strong> resultat funktionalitet inom något eller några av områdena domskript, interaktiv 2D-grafik, 3D-grafik eller animationer."
+        }
+      }, {
+        "text" : "I sitt arbete inkluderar eleven <strong>________</strong> funktion från ett klassbibliotek eller ramverk inom områdena design eller skript.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt arbete inkluderar eleven <strong>någon enkel</strong> funktion från ett klassbibliotek eller ramverk inom områdena design eller skript.",
+          "C" : "I sitt arbete inkluderar eleven <strong>några</strong> funktioner från ett klassbibliotek eller ramverk inom områdena design eller skript.",
+          "A" : "I sitt arbete inkluderar eleven <strong>flera</strong> funktioner <strong>av komplex natur</strong> från ett klassbibliotek eller ramverk inom områdena design eller skript."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Produkten är av <strong>________</strong> kvalitet när det gäller funktion vilket eleven kontrollerar med hjälp av <strong>________</strong> test.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Produkten är av <strong>tillfredsställande</strong> kvalitet när det gäller funktion vilket eleven kontrollerar med hjälp av <strong>någon</strong> test.",
+          "C" : "Produkten är av <strong>tillfredsställande</strong> kvalitet när det gäller funktion vilket eleven kontrollerar med hjälp av <strong>några</strong> tester.",
+          "A" : "Produkten är av <strong>god</strong> kvalitet när det gäller funktion vilket eleven kontrollerar med hjälp av <strong>flera</strong> tester, <strong>även <strong>manuella</strong></strong>."
+        }
+      }, {
+        "text" : "Dessutom kontrollerar eleven <strong>________</strong> produktens tillgänglighet med automatiserade tester.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom kontrollerar eleven <strong>med viss säkerhet</strong> produktens tillgänglighet med automatiserade tester.",
+          "C" : "Dessutom kontrollerar eleven <strong>med viss säkerhet</strong> produktens tillgänglighet med automatiserade tester <strong>och begränsad manuell testning</strong>.",
+          "A" : "Dessutom kontrollerar eleven <strong>med säkerhet</strong> produktens tillgänglighet med automatiserade tester <strong>och simuleringar samt manuella tester</strong>."
+        }
+      }, {
+        "text" : "Eleven vidtar <strong>________</strong> åtgärd för att åstadkomma snabb överföring av bilder och andra mediafiler.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven vidtar <strong>någon</strong> åtgärd för att åstadkomma snabb överföring av bilder och andra mediafiler.",
+          "C" : "Eleven vidtar <strong>några</strong> åtgärder för att åstadkomma snabb överföring av bilder och andra mediafiler.",
+          "A" : "Eleven vidtar <strong>optimeringar av</strong> bilder och andra mediafiler för att åstadkomma snabb överföring av dessa <strong>och vidtar åtgärder för att reducera antalet överföringar per sida</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> dokumentation av de moment som har utförts samt utvärderar med <strong>________</strong> omdömen sitt arbete och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av de moment som har utförts samt utvärderar med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+          "C" : "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av de moment som har utförts samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat. <strong>I utvärderingen resonerar eleven kring eventuella avvikelser samt motiverar översiktligt de val som har gjorts</strong>.",
+          "A" : "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av de moment som har utförts <strong>med koppling till generella principer och testresultat</strong> samt utvärderar med <strong>utförliga och nyanserade</strong> omdömen sitt arbete och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>. <strong>I utvärderingen resonerar eleven kring eventuella avvikelser samt motiverar <strong>utförligt</strong> de val som har gjorts</strong>."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för innehållet i lagar och andra bestämmelser som rör publicering på webben samt följer dem i sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för innehållet i lagar och andra bestämmelser som rör publicering på webben samt följer dem i sitt arbete.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för innehållet i lagar och andra bestämmelser som rör publicering på webben samt följer dem i sitt arbete.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för innehållet i lagar och andra bestämmelser som rör publicering på webben samt följer dem i sitt arbete."
+        }
+      }, {
+        "text" : "Dessutom för eleven <strong>________</strong> resonemang kring webbrelaterade frågor om etik och integritet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom för eleven <strong>enkla</strong> resonemang kring webbrelaterade frågor om etik och integritet.",
+          "C" : "Dessutom för eleven <strong>välgrundade</strong> resonemang kring webbrelaterade frågor om etik och integritet.",
+          "A" : "Dessutom för eleven <strong>välgrundade och nyanserade</strong> resonemang kring webbrelaterade frågor om etik och integritet."
+        }
+      }, {
+        "text" : "Eleven tar hänsyn till säkerhetsaspekter i sitt arbete och i fråga om produkten samt kontrollerar produktens säkerhet med <strong>________</strong> test.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar hänsyn till säkerhetsaspekter i sitt arbete och i fråga om produkten samt kontrollerar produktens säkerhet med <strong>någon</strong> test.",
+          "C" : "Eleven tar hänsyn till säkerhetsaspekter i sitt arbete och i fråga om produkten samt kontrollerar produktens säkerhet med <strong>några</strong> tester.",
+          "A" : "Eleven tar hänsyn till säkerhetsaspekter i sitt arbete och i fråga om produkten samt kontrollerar produktens säkerhet med <strong>flera</strong> tester."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> terminologi inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> terminologi inom området.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> terminologi inom området.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> terminologi inom området."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Webbutveckling 3",
+    "description" : "Kursen webbutveckling 3 omfattar punkterna 2–9 under rubriken Ämnets syfte. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.",
+    "code" : "WEUWEB33",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Konsumtion av webbtjänster, protokoll, gränssnitt och format för datautbyte.", "Processen för ett webbutvecklingsprojekt enligt standardiserad metod för mjukvaruutveckling.", "Verktyg för pakethantering.", "Optimering av processer med hjälp av verktyg, till exempel minifiering av javascript och CSS.", "Riktlinjer för god praxis inom webbutveckling.", "Klientsidestekniker för webbapplikationer.", "Skriptspråk för webbutveckling på klientsidan och dokumentobjektsmodellen.", "Interaktion med webbservern via skript.", "Interaktiv webbgrafik och skalbar vektorgrafik.", "Interoperabilitet.", "Applikationer som fungerar oberoende av val av användaragent, operativsystem eller hårdvaruplattform.", "Kvalitetssäkring av applikationens funktion samt validering av kodens kvalitet.", "Kvalitetssäkring av skript genom olika manuella och automatiserade tester, till exempel med enhetstester.", "Lagar och andra bestämmelser som styr digital information.", "Säkerhet och sätt att identifiera hot och sårbarheter samt hur attacker kan motverkas genom effektiva åtgärder.", "Terminologi inom området webbutveckling." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven följer <strong>________</strong> en projektplan för framtagning av en eller flera produkter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven följer <strong>med viss säkerhet</strong> en projektplan för framtagning av en eller flera produkter.",
+          "C" : "Eleven följer <strong>med viss säkerhet</strong> en projektplan för framtagning av en eller flera produkter.",
+          "A" : "Eleven följer <strong>med säkerhet</strong> en projektplan för framtagning av en eller flera produkter."
+        }
+      }, {
+        "text" : "Planen uppfyller standardiserad projektmetodik för mjukvaruutveckling.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Planen uppfyller standardiserad projektmetodik för mjukvaruutveckling.",
+          "C" : "Planen uppfyller standardiserad projektmetodik för mjukvaruutveckling.",
+          "A" : "Planen uppfyller standardiserad projektmetodik för mjukvaruutveckling."
+        }
+      }, {
+        "text" : "Utifrån projektplanen utvecklar eleven <strong>________</strong> med handledare produkten eller produkterna där logiker som styr innehåll, design och beteende är åtskilda.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Utifrån projektplanen utvecklar eleven <strong>i samråd</strong> med handledare produkten eller produkterna där logiker som styr innehåll, design och beteende är åtskilda.",
+          "C" : "Utifrån projektplanen utvecklar eleven <strong>efter samråd</strong> med handledare produkten eller produkterna där logiker som styr innehåll, design och beteende är åtskilda.",
+          "A" : "Utifrån projektplanen utvecklar eleven <strong>efter samråd</strong> med handledare produkten eller produkterna där logiker som styr innehåll, design och beteende är åtskilda."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> pakethantering vid installation av olika klassbibliotek och ramverk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> pakethantering vid installation av olika klassbibliotek och ramverk.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> pakethantering vid installation av olika klassbibliotek och ramverk.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> pakethantering vid installation av olika klassbibliotek och ramverk."
+        }
+      }, {
+        "text" : "I arbetet utvecklar eleven kod som med <strong>________</strong> resultat följer standarder och etablerad god praxis.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet utvecklar eleven kod som med <strong>tillfredsställande</strong> resultat följer standarder och etablerad god praxis.",
+          "C" : "I arbetet utvecklar eleven kod som med <strong>tillfredsställande</strong> resultat följer standarder och etablerad god praxis.",
+          "A" : "I arbetet utvecklar eleven kod som med <strong>gott</strong> resultat följer standarder och etablerad god praxis."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utvecklar <strong>________</strong> skript för användarinteraktion och <strong>________</strong> skript för kommunikation med webbtjänster med <strong>________</strong> funktionalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvecklar <strong>något</strong> skript för användarinteraktion och <strong>något</strong> skript för kommunikation med webbtjänster med <strong>tillfredsställande</strong> funktionalitet.",
+          "C" : "Eleven utvecklar <strong>några</strong> skript för användarinteraktion och <strong>några</strong> skript för kommunikation med webbtjänster med <strong>tillfredsställande</strong> funktionalitet.",
+          "A" : "Eleven utvecklar <strong>flera</strong> skript för användarinteraktion och <strong>flera</strong> skript för kommunikation med webbtjänster med <strong>god</strong> funktionalitet."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> tekniker för asynkrona anrop för sin produkt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet enkla</strong> tekniker för asynkrona anrop för sin produkt.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> tekniker för asynkrona anrop för sin produkt.",
+          "A" : "Eleven använder <strong>med säkerhet avancerade</strong> tekniker för asynkrona anrop för sin produkt."
+        }
+      }, {
+        "text" : "Dessutom utvecklar eleven två- eller tredimensionell interaktiv grafik med <strong>________</strong> funktionalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvecklar eleven två- eller tredimensionell interaktiv grafik med <strong>tillfredsställande</strong> funktionalitet.",
+          "C" : "Dessutom utvecklar eleven två- eller tredimensionell interaktiv grafik med <strong>tillfredsställande</strong> funktionalitet.",
+          "A" : "Dessutom utvecklar eleven två- eller tredimensionell interaktiv grafik med <strong>god</strong> funktionalitet."
+        }
+      }, {
+        "text" : "Produkten eller produkterna är av <strong>________</strong> kvalitet när det gäller funktion och tillgänglighet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Produkten eller produkterna är av <strong>tillfredsställande</strong> kvalitet när det gäller funktion och tillgänglighet.",
+          "C" : "Produkten eller produkterna är av <strong>tillfredsställande</strong> kvalitet när det gäller funktion och tillgänglighet.",
+          "A" : "Produkten eller produkterna är av <strong>god</strong> kvalitet när det gäller funktion och tillgänglighet."
+        }
+      }, {
+        "text" : "Detta kontrollerar eleven med <strong>________</strong></strong> tester.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Detta kontrollerar eleven med <strong><strong>automatiserade</strong></strong> tester.",
+          "C" : "Detta kontrollerar eleven med <strong>manuella och automatiserade</strong> tester.",
+          "A" : "Detta kontrollerar eleven med <strong>manuella och automatiserade</strong> tester."
+        }
+      }, {
+        "text" : "Eleven vidtar <strong>________</strong> åtgärd för att åstadkomma god prestanda för produkten eller produkterna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven vidtar <strong>någon</strong> åtgärd för att åstadkomma god prestanda för produkten eller produkterna.",
+          "C" : "Eleven vidtar <strong>några</strong> åtgärder för att åstadkomma god prestanda för produkten eller produkterna.",
+          "A" : "Eleven vidtar <strong>flera</strong> åtgärder för att åstadkomma god prestanda för produkten eller produkterna."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> dokumentation i enlighet med vald projektmetod samt utvärderar med <strong>________</strong> omdömen sitt arbete och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation i enlighet med vald projektmetod samt utvärderar med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+          "C" : "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation i enlighet med vald projektmetod samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
+          "A" : "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation i enlighet med vald projektmetod samt utvärderar med <strong>utförliga och nyanserade</strong> omdömen sitt arbete och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Eleven följer i sitt arbete lagar och andra bestämmelser som rör mjukvaruutveckling och publicering på webben.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven följer i sitt arbete lagar och andra bestämmelser som rör mjukvaruutveckling och publicering på webben.",
+          "C" : "Eleven följer i sitt arbete lagar och andra bestämmelser som rör mjukvaruutveckling och publicering på webben.",
+          "A" : "Eleven följer i sitt arbete lagar och andra bestämmelser som rör mjukvaruutveckling och publicering på webben."
+        }
+      }, {
+        "text" : "Eleven tar hänsyn till säkerhetsaspekter i sitt arbete och i fråga om produkten eller produkterna samt kontrollerar säkerheten genom <strong>________</strong> tester.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar hänsyn till säkerhetsaspekter i sitt arbete och i fråga om produkten eller produkterna samt kontrollerar säkerheten genom <strong>begränsade</strong> tester.",
+          "C" : "Eleven tar hänsyn till säkerhetsaspekter i sitt arbete och i fråga om produkten eller produkterna samt kontrollerar säkerheten genom tester.",
+          "A" : "Eleven tar hänsyn till säkerhetsaspekter i sitt arbete och i fråga om produkten eller produkterna samt kontrollerar säkerheten genom <strong>omfattande</strong> tester."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> terminologi inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> terminologi inom området.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> terminologi inom området.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> terminologi inom området."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

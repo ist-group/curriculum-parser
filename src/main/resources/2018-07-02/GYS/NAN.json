@@ -1,0 +1,265 @@
+{
+  "name" : "Naturkunskap",
+  "description" : "Ämnet naturkunskap behandlar sambanden mellan individen, samhället och naturen. I ämnet ingår fältstudier och undersökningar av naturen och funktioner i människokroppen. Ämnet omfattar också återvinning och kretslopp.",
+  "code" : "NAN",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet naturkunskap ska syfta till att eleverna utvecklar kunskaper om växter och djur och sambanden i naturen.", "Eleverna ska också ges möjlighet att utveckla kunskaper om energi och energianvändning.", "Undervisningen ska bidra till att eleverna utvecklar förmåga att använda dessa kunskaper för att reflektera över energi-, miljö- och klimatfrågor, biologisk mångfald och jordens resursfördelning.", "Genom undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om människokroppen och förmåga att reflektera över sexualitet, relationer och sambanden mellan hälsa, levnadsförhållanden och miljö." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Vidare ska undervisningen bidra till att eleverna utvecklar förmåga att göra personliga val och ställningstaganden med utgångspunkt i kunskaper om naturen och människokroppen.", "Genom att samtala om och utforska sin omvärld ska eleverna ges möjlighet att befästa, fördjupa och utveckla kunskaper inom ämnet för att kunna möta, förstå och påverka sin samtid." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om kretsloppssamhället, hantering av avfall samt återvinning av material.", "Eleverna ska också ges möjlighet att utveckla förmåga att utföra arbetsuppgifter inom hantering av avfall och återvinning." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska fältstudier och ett undersökande arbetssätt ingå.", "Eleverna ska ges möjlighet att använda digital teknik och annan utrustning för att avläsa och tolka företeelser i naturen och funktioner i människokroppen." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet naturkunskap ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om växter och djur och sambanden i naturen.", "Förmåga att reflektera över sambanden mellan hälsa, levnadsförhållanden, miljö- och klimatfrågor och jordens resursfördelning.", "Kunskaper om samband i människokroppen.", "Förmåga att genomföra undersökningar av naturen och funktioner i människokroppen.", "Förmåga att utföra arbetsuppgifter i samband med återvinning av material och hantering av restavfall." ]
+  } ],
+  "courses" : [ {
+    "name" : "Naturkunskap 1",
+    "description" : "Kursen naturkunskap 1 omfattar punkterna 1–4 under rubriken Ämnets syfte.",
+    "code" : "NANNAT51",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Natur och samhälle",
+      "lines" : [ "Växter, djur och sambanden mellan organismerna och miljön i ett ekosystem.", "Människans beroende av och påverkan på ekosystemen.", "Energikällor, energianvändning och klimatpåverkan." ]
+    }, {
+      "heading" : "Kropp och hälsa",
+      "lines" : [ "Människokroppens organ och organsystem samt deras uppbyggnad och funktion.", "Människors sexualitet, relationer och sexuella hälsa." ]
+    }, {
+      "heading" : "Metoder och arbetssätt",
+      "lines" : [ "Fältstudier i närmiljön och undersökningar av funktioner i människokroppen. Planering, utförande och dokumentation av fältstudier och undersökningar.", "Olika metoder inom naturkunskap, till exempel observationer, sortering och mätningar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva växter, djur och ekosystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva växter, djur och ekosystem.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> växter, djur och ekosystem.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> växter, djur och ekosystem."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att beskriva samband i människokroppen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att beskriva samband i människokroppen.",
+          "C" : "Eleven beskriver också <strong>på ett enkelt sätt</strong> samband i människokroppen.",
+          "A" : "Eleven beskriver också <strong>på ett utvecklat sätt</strong> samband i människokroppen."
+        }
+      }, {
+        "text" : "Dessutom <strong>________</strong> eleven i att samtala om hälsa, levnadsförhållanden, miljö, klimat och resursfördelning och i att beskriva samband.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom <strong>medverkar</strong> eleven i att samtala om hälsa, levnadsförhållanden, miljö, klimat och resursfördelning och i att beskriva samband.",
+          "C" : "Dessutom samtalar eleven om hälsa, levnadsförhållanden, miljö, klimat och resursfördelning och beskriver <strong>lätt identifierbara</strong> samband.",
+          "A" : "Dessutom samtalar eleven om hälsa, levnadsförhållanden, miljö, klimat och resursfördelning och beskriver <strong>förhållandevis komplexa</strong> samband."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven genomför fältstudier i närmiljön och undersökningar av funktioner i människokroppen <strong>________</strong> eleven i att använda metoder och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven genomför fältstudier i närmiljön och undersökningar av funktioner i människokroppen <strong>medverkar</strong> eleven i att använda metoder och utrustning.",
+          "C" : "När eleven genomför fältstudier i närmiljön och undersökningar av funktioner i människokroppen använder eleven metoder och utrustning <strong>på ett delvis ändamålsenligt sätt</strong>.",
+          "A" : "När eleven genomför fältstudier i närmiljön och undersökningar av funktioner i människokroppen använder eleven metoder och utrustning <strong>på ett ändamålsenligt sätt</strong>."
+        }
+      } ]
+    } ],
+    "point" : 50,
+    "year" : null
+  }, {
+    "name" : "Naturkunskap 2",
+    "description" : "Kursen naturkunskap 2 omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "NANNAT52",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Natur och samhälle",
+      "lines" : [ "Olika typer av ekosystem, till exempel jordbrukslandskap och sjöar. Biologisk mångfald och vad som gynnar respektive hotar den.", "Ekonomiska och sociala aspekter på hållbar utveckling, till exempel konsumtion, resursfördelning och jämställdhet.", "Möjligheter att som konsument och samhällsmedborgare bidra till en hållbar utveckling." ]
+    }, {
+      "heading" : "Kropp och hälsa",
+      "lines" : [ "Några vanliga sjukdomar och hur de påverkar kroppen.", "Bakterier, virus och antibiotika.", "Sambanden mellan individens levnadsförhållanden och hälsa, till exempel kost, motion och sömn." ]
+    }, {
+      "heading" : "Metoder och arbetssätt",
+      "lines" : [ "Fältstudier i närmiljön och undersökningar av funktioner i människokroppen. Planering, utförande och dokumentation av fältstudier och undersökningar.", "Olika metoder inom naturkunskap, till exempel observationer, sortering och mätningar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva olika typer av ekosystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva olika typer av ekosystem.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> olika typer av ekosystem.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> olika typer av ekosystem."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att beskriva hur sjukdomar kan påverka människokroppen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att beskriva hur sjukdomar kan påverka människokroppen.",
+          "C" : "Eleven beskriver också <strong>på ett enkelt sätt</strong> hur sjukdomar kan påverka människokroppen.",
+          "A" : "Eleven beskriver också <strong>på ett utvecklat sätt</strong> hur sjukdomar kan påverka människokroppen."
+        }
+      }, {
+        "text" : "Dessutom <strong>________</strong> eleven i att samtala om hälsa, levnadsförhållanden, miljö, klimat och resursfördelning och i att beskriva samband.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom <strong>medverkar</strong> eleven i att samtala om hälsa, levnadsförhållanden, miljö, klimat och resursfördelning och i att beskriva samband.",
+          "C" : "Dessutom samtalar eleven om hälsa, levnadsförhållanden, miljö, klimat och resursfördelning och beskriver <strong>enkla</strong> samband.",
+          "A" : "Dessutom samtalar eleven om hälsa, levnadsförhållanden, miljö, klimat och resursfördelning och beskriver <strong>utvecklade</strong> samband."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven genomför fältstudier i närmiljön och undersökningar av funktioner i människokroppen <strong>________</strong> eleven i att använda metoder och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven genomför fältstudier i närmiljön och undersökningar av funktioner i människokroppen <strong>medverkar</strong> eleven i att använda metoder och utrustning.",
+          "C" : "När eleven genomför fältstudier i närmiljön och undersökningar av funktioner i människokroppen använder eleven metoder och utrustning <strong>på ett delvis ändamålsenligt sätt</strong>.",
+          "A" : "När eleven genomför fältstudier i närmiljön och undersökningar av funktioner i människokroppen använder eleven metoder och utrustning <strong>på ett ändamålsenligt sätt</strong>."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Naturkunskap 3",
+    "description" : "Kursen naturkunskap 3 omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "NANNAT53",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Fördjupning inom något eller några av ämnets kunskapsområden.", "Kunskapsområdets betydelse i samhället, till exempel inom livsmedelsproduktion, miljövård samt hälso- och sjukvård.", "Experiment, fältstudier och observationer inom kunskapsområdet och hur de kan planeras, genomföras och dokumenteras." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva samband i naturen eller människokroppen utifrån något kunskapsområde.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva samband i naturen eller människokroppen utifrån något kunskapsområde.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> samband i naturen eller människokroppen utifrån något kunskapsområde.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> samband i naturen eller människokroppen utifrån något kunskapsområde."
+        }
+      }, {
+        "text" : "Dessutom <strong>________</strong> eleven i att samtala om hälsa, levnadsförhållanden, miljö, klimat och resursfördelning med koppling till kunskapsområdet och i att beskriva samband.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom <strong>medverkar</strong> eleven i att samtala om hälsa, levnadsförhållanden, miljö, klimat och resursfördelning med koppling till kunskapsområdet och i att beskriva samband.",
+          "C" : "Dessutom samtalar eleven om hälsa, levnadsförhållanden, miljö, klimat och resursfördelning med koppling till kunskapsområdet och beskriver <strong>enkla</strong> samband.",
+          "A" : "Dessutom samtalar eleven om hälsa, levnadsförhållanden, miljö, klimat och resursfördelning med koppling till kunskapsområdet och beskriver <strong>utvecklade</strong> samband."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven genomför fältstudier och andra undersökningar <strong>________</strong> eleven i att använda metoder och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven genomför fältstudier och andra undersökningar <strong>medverkar</strong> eleven i att använda metoder och utrustning.",
+          "C" : "När eleven genomför fältstudier och andra undersökningar använder eleven metoder och utrustning <strong>på ett delvis ändamålsenligt sätt</strong>.",
+          "A" : "När eleven genomför fältstudier och andra undersökningar använder eleven metoder och utrustning <strong>på ett ändamålsenligt sätt</strong>."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Återvinning och kretslopp 1",
+    "description" : "Kursen återvinning och kretslopp 1 omfattar punkterna 1, 3 och 5 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "NANATE51",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Återvinningscentralers och miljöstationers funktion och syfte.", "Avfallskategorier. Organiskt avfall, miljöfarligt avfall, brännbart avfall och avfall som läggs på deponi.", "Återanvändning av produkter, återvinning av material och hantering av restmaterial.", "Källsortering av material och hantering av avfall i hushåll och på arbetsplatser, till exempel i kök och på kontor.", "Arbetsuppgifter inom området, till exempel sortering av avfall för återvinning av material, demontering av produkter för återvinning av material och hantering av miljöfarligt avfall.", "Arbetsmiljö och säkerhet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva kretslopp för olika material.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva kretslopp för olika material.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> kretslopp för olika material.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> kretslopp för olika material."
+        }
+      }, {
+        "text" : "Dessutom <strong>________</strong> eleven i att föra resonemang om miljö och resursfördelning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom <strong>medverkar</strong> eleven i att föra resonemang om miljö och resursfördelning.",
+          "C" : "Dessutom för eleven <strong>enkla</strong> resonemang om miljö och resursfördelning.",
+          "A" : "Dessutom för eleven <strong>utvecklade</strong> resonemang om miljö och resursfördelning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att utföra ett urval av arbetsuppgifter inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att utföra ett urval av arbetsuppgifter inom området.",
+          "C" : "Eleven utför ett urval av arbetsuppgifter inom området <strong>med tillfredsställande resultat</strong>.",
+          "A" : "Eleven utför ett urval av arbetsuppgifter inom området <strong>med gott resultat</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att arbeta på ett säkert sätt inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att arbeta på ett säkert sätt inom området.",
+          "C" : "Eleven arbetar på ett säkert sätt inom området.",
+          "A" : "Eleven arbetar på ett säkert sätt inom området."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Återvinning och kretslopp 2",
+    "description" : "Kursen återvinning och kretslopp 2 omfattar punkterna 1, 3 och 5 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "NANATE52",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Kretsloppssamhälle.", "Producentansvar, kommunal avfallshantering och returinsamlingssystem.", "Förädling av restprodukter, till exempel glasavfall till nytt glas och glasfiberisolering, organiskt avfall till biogas och biogödsel samt returpapper till nytt papper.", "Arbetsuppgifter inom området, till exempel sortering av avfall för återvinning av material, demontering av produkter för återvinning av material och hantering av miljöfarligt avfall.", "Sortering av miljöfarligt, organiskt och brännbart avfall samt avfall som läggs på deponi." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva ett kretsloppssamhälle.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva ett kretsloppssamhälle.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> ett kretsloppssamhälle.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> ett kretsloppssamhälle."
+        }
+      }, {
+        "text" : "Dessutom <strong>________</strong> eleven i att ge exempel på avfallskategorier.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom <strong>medverkar</strong> eleven i att ge exempel på avfallskategorier.",
+          "C" : "Dessutom ger eleven <strong>något</strong> exempel på avfallskategorier.",
+          "A" : "Dessutom ger eleven <strong>några</strong> exempel på avfallskategorier."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att utföra ett urval av arbetsuppgifter inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att utföra ett urval av arbetsuppgifter inom området.",
+          "C" : "Eleven utför ett urval av arbetsuppgifter inom området <strong>med tillfredsställande resultat</strong>.",
+          "A" : "Eleven utför ett urval av arbetsuppgifter inom området <strong>med gott resultat</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att använda metoder för hantering av material och avfall på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att använda metoder för hantering av material och avfall på ett säkert sätt.",
+          "C" : "Eleven använder metoder för hantering av material och avfall på ett säkert <strong>och delvis ändamålsenligt sätt</strong>.",
+          "A" : "Eleven använder metoder för hantering av material och avfall på ett säkert <strong>och ändamålsenligt sätt</strong>."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

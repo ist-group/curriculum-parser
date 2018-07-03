@@ -1,0 +1,695 @@
+{
+  "name" : "Larm och säkerhetsteknik",
+  "description" : "Larm- och säkerhetstekniska systems huvuduppgift är att varna för eller skydda mot olika typer av faror för människa eller egendom. Allt arbete med denna typ av system kräver ett väl utvecklat yrkesetiskt förhållningssätt samt goda kunskaper om lagar, förordningar och standarder inom området. För att montera och installera larm och övervakningssystem krävs såväl systemkunskap som kunskap om diskreta komponenter.",
+  "code" : "LAR",
+  "designation" : "",
+  "skolfsId" : "2010:160",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet larm och säkerhetsteknik ska syfta till att eleverna utvecklar kunskaper om tekniska system med huvuduppgift att varna för eller skydda mot olika typer av faror för människa eller egendom.", "Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att installera och ge service på larm och säkerhetssystem utifrån utrustningens dokumentation i form av scheman, ritningar och manualer.", "I undervisningen ska eleverna även ges möjlighet att planera arbetsuppgifter och därigenom utveckla förmåga att arbeta enligt yrkespraxis." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar kunskap om lagar, förordningar och standarder inom området samt ett yrkesetiskt förhållningssätt vid arbete med larm och säkerhetssystem.", "Vidare ska undervisningen leda till att eleverna utvecklar förmåga att arbeta på ett säkert och miljömässigt sätt samt kunskaper om dokumentation av utfört arbete." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska ett undersökande arbetssätt förekomma.", "I praktiska övningar ska eleverna ges möjlighet att utveckla kunskaper i problemlösning som krävs för installation och service på larm och säkerhetstekniska system." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet larm och säkerhetsteknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om uppbyggnad, funktion och driftegenskaper hos larm och säkerhetssystem.", "Kunskaper om risker när man bygger larm och säkerhetssystem.", "Förmåga att installera larm och säkerhetssystem.", "Kunskaper om lagar, föreskrifter, förordningar och rekommendationer som reglerar arbete med larm och säkerhetssystem.", "Förmåga att kunna registrera och dokumentera installation och förändringar.", "Förmåga att tolka funktionen hos larm och säkerhetssystem med ledning av scheman, ritningar och övriga anvisningar.", "Förmåga att kontrollera, prova, felsöka och avhjälpa fel på larm och säkerhetssystem." ]
+  } ],
+  "courses" : [ {
+    "name" : "Brandlarmssystem",
+    "description" : "Kursen brandlarmssystem omfattar punkterna 1–8 under rubriken Ämnets syfte.",
+    "code" : "LARBRN0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika typer av system som finns inom brandlarmsområdet.", "Olika typer av bränder samt med vilken detektor bästa detektion kan uppnås.", "Larm-, övervaknings- och presentationssystemens funktion och uppbyggnad samt hur deras parametrar sätts.", "Utrymningslarmets ingående komponenter, funktioner samt hörbarhetens begränsningar i olika typer av miljöer.", "Regler och krav som styr en anläggnings utformning samt vilka kriterier som påverkar val och placering av system och detektorer.", "Installation av ett brandlarmssystem med tillhörande komponenter.", "Praktisk projektering av brandlarmssystem med hänsyn till gällande regelverk samt med beaktande av risken för falska larm.", "Larmförmedling.", "Olika typer av verktyg, instrument och övrig utrustning.", "Vanliga mätinstrument och hjälpmedel för felsökning.", "Metoder för felsökning och reparationer i brandlarmssystem." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för uppbyggnad av och funktion hos olika typer av brandlarmssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för uppbyggnad av och funktion hos olika typer av brandlarmssystem.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för uppbyggnad av och funktion hos olika typer av brandlarmssystem.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för uppbyggnad av och funktion hos olika typer av brandlarmssystem."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för olika typer av risker när man bygger brandlarmssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för olika typer av risker när man bygger brandlarmssystem.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för olika typer av risker när man bygger brandlarmssystem.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för olika typer av risker när man bygger brandlarmssystem."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare installationer och service av brandlarmssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare installationer och service av brandlarmssystem.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare installationer och service av brandlarmssystem.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare installationer och service av brandlarmssystem."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför i olika miljöer och med <strong>________</strong> handlag vanligt förekommande arbeten med brandlarmssystem på ett sätt som är säkert för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför i olika miljöer och med <strong>visst</strong> handlag vanligt förekommande arbeten med brandlarmssystem på ett sätt som är säkert för eleven själv och andra.",
+          "C" : "Eleven utför i olika miljöer och med <strong>gott</strong> handlag vanligt förekommande arbeten med brandlarmssystem på ett sätt som är säkert för eleven själv och andra.",
+          "A" : "Eleven utför i olika miljöer och med <strong>mycket gott</strong> handlag vanligt förekommande arbeten med brandlarmssystem på ett sätt som är säkert för eleven själv och andra."
+        }
+      }, {
+        "text" : "Inför arbetet väljer eleven <strong>________</strong> med handledare material avsedda för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Inför arbetet väljer eleven <strong>i samråd</strong> med handledare material avsedda för uppgiften.",
+          "C" : "Inför arbetet väljer eleven <strong>efter samråd</strong> med handledare material avsedda för uppgiften.",
+          "A" : "Inför arbetet väljer eleven <strong>efter samråd</strong> med handledare material avsedda för uppgiften."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>i samråd</strong> med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet.",
+          "C" : "Dessutom använder eleven <strong>efter samråd</strong> med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet.",
+          "A" : "Dessutom använder eleven <strong>efter samråd</strong> med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet."
+        }
+      }, {
+        "text" : "Under arbetet väljer eleven <strong>________</strong> verktyg, instrument och övrig utrustning samt använder dem med <strong>________</strong> handlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet väljer eleven <strong>med viss säkerhet</strong> verktyg, instrument och övrig utrustning samt använder dem med <strong>visst</strong> handlag.",
+          "C" : "Under arbetet väljer eleven <strong>med viss säkerhet</strong> verktyg, instrument och övrig utrustning samt använder dem med <strong>gott</strong> handlag.",
+          "A" : "Under arbetet väljer eleven <strong>med säkerhet</strong> verktyg, instrument och övrig utrustning samt använder dem med <strong>mycket gott</strong> handlag."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Eleven kontrollerar säkerheten och driftsätter installationen <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kontrollerar säkerheten och driftsätter installationen <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven kontrollerar säkerheten och driftsätter installationen <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven kontrollerar säkerheten och driftsätter installationen <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete uppfyller på ett <strong>________</strong> sätt ställda kvalitets- och miljökrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete uppfyller på ett <strong>tillfredsställande</strong> sätt ställda kvalitets- och miljökrav.",
+          "C" : "Resultatet av elevens arbete uppfyller på ett <strong>tillfredsställande</strong> sätt ställda kvalitets- och miljökrav.",
+          "A" : "Resultatet av elevens arbete uppfyller på ett <strong>gott</strong> sätt ställda kvalitets- och miljökrav."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Efter utfört arbete gör eleven en <strong>________</strong> dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Efter utfört arbete gör eleven en <strong>enkel</strong> dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området.",
+          "C" : "Efter utfört arbete gör eleven en <strong>noggrann</strong> dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området.",
+          "A" : "Efter utfört arbete gör eleven en <strong>noggrann och utförlig</strong> dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området."
+        }
+      }, {
+        "text" : "Eleven utvärderar sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven utvärderar sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven utvärderar sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kontrollerar och felsöker <strong>________</strong> med handledare anläggningar och system samt reparerar <strong>________</strong> fel som uppkommer i såväl nya som befintliga installationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kontrollerar och felsöker <strong>i samråd</strong> med handledare anläggningar och system samt reparerar <strong>enkla</strong> fel som uppkommer i såväl nya som befintliga installationer.",
+          "C" : "Eleven kontrollerar och felsöker <strong>efter samråd</strong> med handledare anläggningar och system samt reparerar fel som uppkommer i såväl nya som befintliga installationer.",
+          "A" : "Eleven kontrollerar och felsöker <strong>efter samråd</strong> med handledare anläggningar och system samt reparerar <strong>avancerade</strong> fel som uppkommer i såväl nya som befintliga installationer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "CCTV-system",
+    "description" : "Kursen CCTV-system omfattar punkterna 1–8 under rubriken Ämnets syfte.",
+    "code" : "LARCCT0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika typer av CCTV-system samt när olika varianter av system är att föredra.", "Belysningsstyrka, reflektionsfaktor och färgtemperatur som krävs för att uppnå bra bild.", "Olika typer av lagringsmedia som används för att dokumentera de händelseförlopp som kameran registrerar.", "Rätt val av monitor med tanke på användningsområde, upplösning, färg och liknande.", "Kriterier som styr val av kamera samt lämplig optik med tanke på syftet med övervakningen samt de miljömässiga förhållandena.", "Användning av bildöverföring för att verifiera händelser internt i objektet och externt när det gäller larmcentral och åtgärder.", "Lagar och regler som styr en anläggnings utformning samt kriterier som påverkar val och placering av kameror och övriga komponenter.", "Praktisk installation av CCTV-system med tillhörande komponenter.", "Praktisk projektering av CCTV-system med hänsyn till gällande lagar och regler.", "Larmförmedling.", "Olika typer av verktyg, instrument och övrig utrustning.", "Vanliga mätinstrument och hjälpmedel för felsökning.", "Metoder för felsökning och reparationer i CCTV-system." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för uppbyggnad av och funktion hos CCTV-system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för uppbyggnad av och funktion hos CCTV-system.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för uppbyggnad av och funktion hos CCTV-system.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för uppbyggnad av och funktion hos CCTV-system."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för olika typer av risker när man bygger CCTV-system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för olika typer av risker när man bygger CCTV-system.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för olika typer av risker när man bygger CCTV-system.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för olika typer av risker när man bygger CCTV-system."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare installationer och service av CCTV-system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare installationer och service av CCTV-system.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare installationer och service av CCTV-system.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare installationer och service av CCTV-system."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför i olika miljöer och med <strong>________</strong> handlag vanligt förekommande arbeten med CCTV-system på ett sätt som är säkert för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför i olika miljöer och med <strong>visst</strong> handlag vanligt förekommande arbeten med CCTV-system på ett sätt som är säkert för eleven själv och andra.",
+          "C" : "Eleven utför i olika miljöer och med <strong>gott</strong> handlag vanligt förekommande arbeten med CCTV-system på ett sätt som är säkert för eleven själv och andra.",
+          "A" : "Eleven utför i olika miljöer och med <strong>mycket gott</strong> handlag vanligt förekommande arbeten med CCTV-system på ett sätt som är säkert för eleven själv och andra."
+        }
+      }, {
+        "text" : "Inför arbetet väljer eleven <strong>________</strong> med handledare material avsedda för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Inför arbetet väljer eleven <strong>i samråd</strong> med handledare material avsedda för uppgiften.",
+          "C" : "Inför arbetet väljer eleven <strong>efter samråd</strong> med handledare material avsedda för uppgiften.",
+          "A" : "Inför arbetet väljer eleven <strong>efter samråd</strong> med handledare material avsedda för uppgiften."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>i samråd</strong> med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet.",
+          "C" : "Dessutom använder eleven <strong>efter samråd</strong> med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet.",
+          "A" : "Dessutom använder eleven <strong>efter samråd</strong> med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet."
+        }
+      }, {
+        "text" : "Under arbetet väljer eleven <strong>________</strong> verktyg, instrument och övrig utrustning samt använder dem med <strong>________</strong> handlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet väljer eleven <strong>med viss säkerhet</strong> verktyg, instrument och övrig utrustning samt använder dem med <strong>visst</strong> handlag.",
+          "C" : "Under arbetet väljer eleven <strong>med viss säkerhet</strong> verktyg, instrument och övrig utrustning samt använder dem med <strong>gott</strong> handlag.",
+          "A" : "Under arbetet väljer eleven <strong>med säkerhet</strong> verktyg, instrument och övrig utrustning samt använder dem med <strong>mycket gott</strong> handlag."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Eleven kontrollerar säkerheten och driftsätter installationen <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kontrollerar säkerheten och driftsätter installationen <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven kontrollerar säkerheten och driftsätter installationen <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven kontrollerar säkerheten och driftsätter installationen <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete uppfyller på ett <strong>________</strong> sätt ställda kvalitets- och miljökrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete uppfyller på ett <strong>tillfredsställande</strong> sätt ställda kvalitets- och miljökrav.",
+          "C" : "Resultatet av elevens arbete uppfyller på ett <strong>tillfredsställande</strong> sätt ställda kvalitets- och miljökrav.",
+          "A" : "Resultatet av elevens arbete uppfyller på ett <strong>gott</strong> sätt ställda kvalitets- och miljökrav."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Efter utfört arbete gör eleven en <strong>________</strong> dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Efter utfört arbete gör eleven en <strong>enkel</strong> dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området.",
+          "C" : "Efter utfört arbete gör eleven en <strong>noggrann</strong> dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området.",
+          "A" : "Efter utfört arbete gör eleven en <strong>noggrann och utförligt</strong> dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området."
+        }
+      }, {
+        "text" : "Eleven utvärderar sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven utvärderar sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven utvärderar sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kontrollerar och felsöker <strong>________</strong> med handledare anläggningar och system samt reparerar <strong>________</strong> fel som uppkommer i såväl nya som befintliga installationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kontrollerar och felsöker <strong>i samråd</strong> med handledare anläggningar och system samt reparerar <strong>enkla</strong> fel som uppkommer i såväl nya som befintliga installationer.",
+          "C" : "Eleven kontrollerar och felsöker <strong>efter samråd</strong> med handledare anläggningar och system samt reparerar fel som uppkommer i såväl nya som befintliga installationer.",
+          "A" : "Eleven kontrollerar och felsöker <strong>efter samråd</strong> med handledare anläggningar och system samt reparerar <strong>avancerade</strong> fel som uppkommer i såväl nya som befintliga installationer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Inbrottslarmssystem",
+    "description" : "Kursen inbrottslarmssystem omfattar punkterna 1–8 under rubriken Ämnets syfte.",
+    "code" : "LARINB0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika typer av larm-, övervaknings- och presentationssystems funktion och uppbyggnad samt hur deras parametrar sätts.", "Val av inbrottslarmssystem.", "Olika angreppssätt som kan användas vid inbrott samt med vilken detektor bästa detektion uppnås.", "Överfallslarmets ingående komponenter och funktioner samt i vilka olika sammanhang de kan komma till användning.", "Regler och krav som styr en anläggnings utformning samt vilka kriterier som påverkar val och placering av system och detektorer.", "Installation av inbrottslarmssystem med tillhörande komponenter.", "Projektering av ett inbrottslarmssystem med hänsyn till gällande regelverk samt med beaktande av risken för falska larm.", "Larmförmedling.", "Olika typer av verktyg, instrument och övrig utrustning.", "Vanliga mätinstrument och hjälpmedel för felsökning.", "Metoder för felsökning och reparationer i inbrottslarm." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för uppbyggnad av och funktion hos olika typer av inbrottslarmssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för uppbyggnad av och funktion hos olika typer av inbrottslarmssystem.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för uppbyggnad av och funktion hos olika typer av inbrottslarmssystem.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för uppbyggnad av och funktion hos olika typer av inbrottslarmssystem."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för olika typer av risker när man bygger inbrottslarmssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för olika typer av risker när man bygger inbrottslarmssystem.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för olika typer av risker när man bygger inbrottslarmssystem.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för olika typer av risker när man bygger inbrottslarmssystem."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare installationer och service av inbrottslarmssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare installationer och service av inbrottslarmssystem.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare installationer och service av inbrottslarmssystem.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare installationer och service av inbrottslarmssystem."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför i olika miljöer och med <strong>________</strong> handlag vanligt förekommande arbeten med inbrottslarmssystem på ett sätt som är säkert för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför i olika miljöer och med <strong>visst</strong> handlag vanligt förekommande arbeten med inbrottslarmssystem på ett sätt som är säkert för eleven själv och andra.",
+          "C" : "Eleven utför i olika miljöer och med <strong>gott</strong> handlag vanligt förekommande arbeten med inbrottslarmssystem på ett sätt som är säkert för eleven själv och andra.",
+          "A" : "Eleven utför i olika miljöer och med <strong>mycket gott</strong> handlag vanligt förekommande arbeten med inbrottslarmssystem på ett sätt som är säkert för eleven själv och andra."
+        }
+      }, {
+        "text" : "Inför arbetet väljer eleven <strong>________</strong> med handledare material avsedda för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Inför arbetet väljer eleven <strong>i samråd</strong> med handledare material avsedda för uppgiften.",
+          "C" : "Inför arbetet väljer eleven <strong>efter samråd</strong> med handledare material avsedda för uppgiften.",
+          "A" : "Inför arbetet väljer eleven <strong>efter samråd</strong> med handledare material avsedda för uppgiften."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>i samråd</strong> med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet.",
+          "C" : "Dessutom använder eleven <strong>efter samråd</strong> med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet.",
+          "A" : "Dessutom använder eleven <strong>efter samråd</strong> med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet."
+        }
+      }, {
+        "text" : "Under arbetet väljer eleven <strong>________</strong> verktyg, instrument och övrig utrustning samt använder dem med <strong>________</strong> handlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet väljer eleven <strong>med viss säkerhet</strong> verktyg, instrument och övrig utrustning samt använder dem med <strong>visst</strong> handlag.",
+          "C" : "Under arbetet väljer eleven <strong>med viss säkerhet</strong> verktyg, instrument och övrig utrustning samt använder dem med <strong>gott</strong> handlag.",
+          "A" : "Under arbetet väljer eleven <strong>med säkerhet</strong> verktyg, instrument och övrig utrustning samt använder dem med <strong>mycket gott</strong> handlag."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Eleven kontrollerar säkerheten och driftsätter installationen <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kontrollerar säkerheten och driftsätter installationen <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven kontrollerar säkerheten och driftsätter installationen <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven kontrollerar säkerheten och driftsätter installationen <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete uppfyller på ett <strong>________</strong> sätt ställda kvalitets- och miljökrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete uppfyller på ett <strong>tillfredsställande</strong> sätt ställda kvalitets- och miljökrav.",
+          "C" : "Resultatet av elevens arbete uppfyller på ett <strong>tillfredsställande</strong> sätt ställda kvalitets- och miljökrav.",
+          "A" : "Resultatet av elevens arbete uppfyller på ett <strong>gott</strong> sätt ställda kvalitets- och miljökrav."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Efter utfört arbete gör eleven en <strong>________</strong> dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Efter utfört arbete gör eleven en <strong>enkel</strong> dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området.",
+          "C" : "Efter utfört arbete gör eleven en <strong>noggrann</strong> dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området.",
+          "A" : "Efter utfört arbete gör eleven en <strong>noggrann och utförlig</strong> dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området."
+        }
+      }, {
+        "text" : "Eleven utvärderar sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven utvärderar sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven utvärderar sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kontrollerar och felsöker <strong>________</strong> med handledare anläggningar och system samt reparerar <strong>________</strong> fel som uppkommer i såväl nya som befintliga installationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kontrollerar och felsöker <strong>i samråd</strong> med handledare anläggningar och system samt reparerar <strong>enkla</strong> fel som uppkommer i såväl nya som befintliga installationer.",
+          "C" : "Eleven kontrollerar och felsöker <strong>efter samråd</strong> med handledare anläggningar och system samt reparerar fel som uppkommer i såväl nya som befintliga installationer.",
+          "A" : "Eleven kontrollerar och felsöker <strong>efter samråd</strong> med handledare anläggningar och system samt reparerar <strong>avancerade</strong> fel som uppkommer i såväl nya som befintliga installationer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Larm-, övervaknings- och säkerhetssystem",
+    "description" : "Kursen larm-, övervaknings- och säkerhetssystem omfattar punkterna 1–8 under rubriken Ämnets syfte.",
+    "code" : "LARLAM0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Uppbyggnad och funktion hos vanliga larm-, övervaknings- och säkerhetssystem.", "Risker vid installation av larm och säkerhetssystem. Försäkringsbolagens krav på installationer och installatörer.", "Planering och genomgång av ritningsunderlag inför installation av anläggningar för larm-, övervaknings- och säkerhetssystem.", "Krav på registrering och dokumentation av utfört arbete.", "Installation, driftsättning och provning av mindre anläggningar för inbrottslarm, brandlarm och passerkontroll.", "Installation, integrering, driftsättning och provning av mindre trådlösa system och enheter för larm och övervakning.", "Olika typer av verktyg, instrument och övrig utrustning.", "Vanliga mätinstrument och hjälpmedel för felsökning.", "Metoder för felsökning och reparationer i larm-, övervaknings- och säkerhetssystem." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för uppbyggnad av och funktion hos vanliga larm-, övervaknings- och säkerhetssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för uppbyggnad av och funktion hos vanliga larm-, övervaknings- och säkerhetssystem.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för uppbyggnad av och funktion hos vanliga larm-, övervaknings- och säkerhetssystem.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för uppbyggnad av och funktion hos vanliga larm-, övervaknings- och säkerhetssystem."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för olika typer av risker när man bygger larm och säkerhetssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för olika typer av risker när man bygger larm och säkerhetssystem.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för olika typer av risker när man bygger larm och säkerhetssystem.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för olika typer av risker när man bygger larm och säkerhetssystem."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare installationer och service av vanligt förekommande larm och säkerhetssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare installationer och service av vanligt förekommande larm och säkerhetssystem.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare installationer och service av vanligt förekommande larm och säkerhetssystem.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare installationer och service av vanligt förekommande larm och säkerhetssystem."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför i olika miljöer och med <strong>________</strong> handlag vanligt förekommande arbeten med larm och säkerhetssystem på ett sätt som är säkert för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför i olika miljöer och med <strong>visst</strong> handlag vanligt förekommande arbeten med larm och säkerhetssystem på ett sätt som är säkert för eleven själv och andra.",
+          "C" : "Eleven utför i olika miljöer och med <strong>gott</strong> handlag vanligt förekommande arbeten med larm och säkerhetssystem på ett sätt som är säkert för eleven själv och andra.",
+          "A" : "Eleven utför i olika miljöer och med <strong>mycket gott</strong> handlag vanligt förekommande arbeten med larm och säkerhetssystem på ett sätt som är säkert för eleven själv och andra."
+        }
+      }, {
+        "text" : "Inför arbetet väljer eleven <strong>________</strong> med handledare material avsedda för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Inför arbetet väljer eleven <strong>i samråd</strong> med handledare material avsedda för uppgiften.",
+          "C" : "Inför arbetet väljer eleven <strong>efter samråd</strong> med handledare material avsedda för uppgiften.",
+          "A" : "Inför arbetet väljer eleven <strong>efter samråd</strong> med handledare material avsedda för uppgiften."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>i samråd</strong> med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet.",
+          "C" : "Dessutom använder eleven <strong>efter samråd</strong> med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet.",
+          "A" : "Dessutom använder eleven <strong>efter samråd</strong> med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet."
+        }
+      }, {
+        "text" : "Under arbetet väljer eleven <strong>________</strong> verktyg, instrument och övrig utrustning samt använder dem med <strong>________</strong> handlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet väljer eleven <strong>med viss säkerhet</strong> verktyg, instrument och övrig utrustning samt använder dem med <strong>visst</strong> handlag.",
+          "C" : "Under arbetet väljer eleven <strong>med viss säkerhet</strong> verktyg, instrument och övrig utrustning samt använder dem med <strong>gott</strong> handlag.",
+          "A" : "Under arbetet väljer eleven <strong>med säkerhet</strong> verktyg, instrument och övrig utrustning samt använder dem med <strong>mycket gott</strong> handlag."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Eleven kontrollerar säkerheten och driftsätter installationen <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kontrollerar säkerheten och driftsätter installationen <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven kontrollerar säkerheten och driftsätter installationen <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven kontrollerar säkerheten och driftsätter installationen <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete uppfyller på ett <strong>________</strong> sätt ställda kvalitets- och miljökrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete uppfyller på ett <strong>tillfredsställande</strong> sätt ställda kvalitets- och miljökrav.",
+          "C" : "Resultatet av elevens arbete uppfyller på ett <strong>tillfredsställande</strong> sätt ställda kvalitets- och miljökrav.",
+          "A" : "Resultatet av elevens arbete uppfyller på ett <strong>gott</strong> sätt ställda kvalitets- och miljökrav."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Efter utfört arbete gör eleven en <strong>________</strong> dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Efter utfört arbete gör eleven en <strong>enkel</strong> dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området.",
+          "C" : "Efter utfört arbete gör eleven en <strong>noggrann</strong> dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området.",
+          "A" : "Efter utfört arbete gör eleven en <strong>noggrann och utförlig</strong> dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området."
+        }
+      }, {
+        "text" : "Eleven utvärderar sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven utvärderar sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven utvärderar sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kontrollerar och felsöker <strong>________</strong> med handledare anläggningar och system samt reparerar <strong>________</strong> fel som uppkommer i såväl nya som befintliga installationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kontrollerar och felsöker <strong>i samråd</strong> med handledare anläggningar och system samt reparerar <strong>enkla</strong> fel som uppkommer i såväl nya som befintliga installationer.",
+          "C" : "Eleven kontrollerar och felsöker <strong>efter samråd</strong> med handledare anläggningar och system samt reparerar fel som uppkommer i såväl nya som befintliga installationer.",
+          "A" : "Eleven kontrollerar och felsöker <strong>efter samråd</strong> med handledare anläggningar och system samt reparerar <strong>avancerade</strong> fel som uppkommer i såväl nya som befintliga installationer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Passersystem",
+    "description" : "Kursen passerkontrollsystem omfattar punkterna 1–8 under rubriken Ämnets syfte.",
+    "code" : "LARPAS0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande central innehåll:",
+      "lines" : [ "Olika typer av passersystem, deras uppbyggnad och funktion.", "Centralutrustning i form av datorer och programvara och undercentraler som är grundläggande i ett passersystem.", "Dörrmiljön.", "Centralenhetens och platsutrustningens systemmässiga placering samt hur de knyts till varandra kommunikationsmässigt.", "Olika slags koder som kan lagras i kodmedier samt olika teknik som används i olika typer av kodmedier.", "Standarder och krav som styr en anläggnings utformning samt vilka kriterier som påverkar val och placering av system och komponenter.", "Upprättande av ljudförbindelse i passerkontrollsystem.", "Installation av passersystem med tillhörande komponenter.", "Projektering av passersystem med hänsyn till gällande regelverk samt med beaktande av risken för falska larm.", "Programmering av passersystem med hänsyn till objektstyp, användarfunktioner samt övriga krav.", "Olika typer av verktyg, instrument och övrig utrustning.", "Vanliga mätinstrument och hjälpmedel för felsökning.", "Metoder för felsökning och reparationer i passersystem." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för uppbyggnad av och funktion hos olika typer av passersystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för uppbyggnad av och funktion hos olika typer av passersystem.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för uppbyggnad av och funktion hos olika typer av passersystem.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för uppbyggnad av och funktion hos olika typer av passersystem."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för olika typer av risker när man bygger passersystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för olika typer av risker när man bygger passersystem.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för olika typer av risker när man bygger passersystem.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för olika typer av risker när man bygger passersystem."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare installationer och service av passersystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare installationer och service av passersystem.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare installationer och service av passersystem.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare installationer och service av passersystem."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför i olika miljöer och med <strong>________</strong> handlag vanligt förekommande arbeten med passersystem på ett sätt som är säkert för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför i olika miljöer och med <strong>visst</strong> handlag vanligt förekommande arbeten med passersystem på ett sätt som är säkert för eleven själv och andra.",
+          "C" : "Eleven utför i olika miljöer och med <strong>gott</strong> handlag vanligt förekommande arbeten med passersystem på ett sätt som är säkert för eleven själv och andra.",
+          "A" : "Eleven utför i olika miljöer och med <strong>mycket gott</strong> handlag vanligt förekommande arbeten med passersystem på ett sätt som är säkert för eleven själv och andra."
+        }
+      }, {
+        "text" : "Inför arbetet väljer eleven <strong>________</strong> med handledare material avsedda för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Inför arbetet väljer eleven <strong>i samråd</strong> med handledare material avsedda för uppgiften.",
+          "C" : "Inför arbetet väljer eleven <strong>efter samråd</strong> med handledare material avsedda för uppgiften.",
+          "A" : "Inför arbetet väljer eleven <strong>efter samråd</strong> med handledare material avsedda för uppgiften."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>i samråd</strong> med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet.",
+          "C" : "Dessutom använder eleven <strong>efter samråd</strong> med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet.",
+          "A" : "Dessutom använder eleven <strong>efter samråd</strong> med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet."
+        }
+      }, {
+        "text" : "Under arbetet väljer eleven <strong>________</strong> verktyg, instrument och övrig utrustning samt använder dem med <strong>________</strong> handlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet väljer eleven <strong>med viss säkerhet</strong> verktyg, instrument och övrig utrustning samt använder dem med <strong>visst</strong> handlag.",
+          "C" : "Under arbetet väljer eleven <strong>med viss säkerhet</strong> verktyg, instrument och övrig utrustning samt använder dem med <strong>gott</strong> handlag.",
+          "A" : "Under arbetet väljer eleven <strong>med säkerhet</strong> verktyg, instrument och övrig utrustning samt använder dem med <strong>mycket gott</strong> handlag."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Eleven kontrollerar säkerheten och driftsätter installationen <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kontrollerar säkerheten och driftsätter installationen <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven kontrollerar säkerheten och driftsätter installationen <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven kontrollerar säkerheten och driftsätter installationen <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete uppfyller på ett <strong>________</strong> sätt ställda kvalitets- och miljökrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete uppfyller på ett <strong>tillfredsställande</strong> sätt ställda kvalitets- och miljökrav.",
+          "C" : "Resultatet av elevens arbete uppfyller på ett <strong>tillfredsställande</strong> sätt ställda kvalitets- och miljökrav.",
+          "A" : "Resultatet av elevens arbete uppfyller på ett <strong>gott</strong> sätt ställda kvalitets- och miljökrav."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Efter utfört arbete gör eleven en <strong>________</strong> dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Efter utfört arbete gör eleven en <strong>enkel</strong> dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området.",
+          "C" : "Efter utfört arbete gör eleven en <strong>noggrann</strong> dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området.",
+          "A" : "Efter utfört arbete gör eleven en <strong>noggrann och utförlig</strong> dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området."
+        }
+      }, {
+        "text" : "Eleven utvärderar sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven utvärderar sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven utvärderar sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kontrollerar och felsöker <strong>________</strong> med handledare anläggningar och system samt reparerar <strong>________</strong> fel som uppkommer i såväl nya som befintliga installationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kontrollerar och felsöker <strong>i samråd</strong> med handledare anläggningar och system samt reparerar <strong>enkla</strong> fel som uppkommer i såväl nya som befintliga installationer.",
+          "C" : "Eleven kontrollerar och felsöker <strong>efter samråd</strong> med handledare anläggningar och system samt reparerar fel som uppkommer i såväl nya som befintliga installationer.",
+          "A" : "Eleven kontrollerar och felsöker <strong>efter samråd</strong> med handledare anläggningar och system samt reparerar <strong>avancerade</strong> fel som uppkommer i såväl nya som befintliga installationer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

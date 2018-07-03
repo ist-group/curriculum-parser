@@ -1,0 +1,60 @@
+{
+  "name" : "Digitalt skapande",
+  "description" : "Ämnet digitalt skapande behandlar digitala verktyg för att skapa, gestalta och kommunicera olika former av estetiska uttryck. Ämnet handlar om de tekniker som används inom området samt om hur bild, ljud och rörelse samverkar med varandra. I ämnet ingår lagar och andra bestämmelser samt etiska frågeställningar i samband med digitalt skapande.",
+  "code" : "DII",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet digitalt skapande ska syfta till att eleverna utvecklar kunskaper om digitala verktyg samt förmåga att skapa, gestalta och kommunicera med hjälp av dessa.", "Det kan handla om att framställa olika former av presentationer, till exempel en naturupplevelse eller en produkt.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hårdvara och programvara för digitalt skapande.", "Eleverna ska också ges möjlighet att utveckla kunskaper om olika tekniker samt om hur bild, ljud och rörelse samverkar i digitala produktioner.", "Undervisningen ska bidra till att eleverna utvecklar kunskaper om den digitala skapandeprocessen från idé till färdig produkt samt om hur digitala produktioner sprids.", "Undervisningen ska leda till att eleverna utvecklar förmåga att utforma och presentera digitala produktioner." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Vidare ska eleverna ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser inom området samt om etik i samband med digitalt skapande." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Fältstudier, skapande arbete och ett undersökande arbetssätt ska ingå i undervisningen.", "Eleverna ska ges möjlighet att reflektera över och samtala om egna och andras skapade produkter samt om etiska frågeställningar i samband med digitalt skapande." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet digitalt skapande ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om digitala verktyg samt tekniker för att skapa och gestalta olika estetiska uttryck.", "Förmåga att skapa och gestalta estetiska uttryck med digital teknik.", "Förmåga att presentera digitala produktioner." ]
+  } ],
+  "courses" : [ {
+    "name" : "Digitalt skapande",
+    "description" : "Kursen digitalt skapande omfattar punkterna 1–3 under rubriken Ämnets syfte.",
+    "code" : "DIIDIG5",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Digitalt skapande, gränslandet mellan konst och teknik.", "Digitala verktyg samt tekniker för skapande och gestaltande.", "Programvara och hårdvara som används för digitalt skapande.", "Kombinationer av olika estetiska uttrycksmedel i digitala produktioner, till exempel bild, ljud och rörelse.", "Digitala skapandeprocesser, från idé till färdig produkt.", "Presentation och spridning av digitala produktioner." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva digitala verktyg samt tekniker för att skapa och gestalta olika estetiska uttryck.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva digitala verktyg samt tekniker för att skapa och gestalta olika estetiska uttryck.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> digitala verktyg samt tekniker för att skapa och gestalta olika estetiska uttryck.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> digitala verktyg samt tekniker för att skapa och gestalta olika estetiska uttryck."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att skapa och gestalta estetiska uttryck med digital teknik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att skapa och gestalta estetiska uttryck med digital teknik.",
+          "C" : "Eleven skapar och gestaltar estetiska uttryck med digital teknik <strong>med tillfredsställande resultat</strong>.",
+          "A" : "Eleven skapar och gestaltar estetiska uttryck med digital teknik <strong>med gott resultat</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att presentera digitala produktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att presentera digitala produktioner.",
+          "C" : "Eleven presenterar också <strong>med viss säkerhet</strong> digitala produktioner.",
+          "A" : "Eleven presenterar också <strong>med säkerhet</strong> digitala produktioner."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

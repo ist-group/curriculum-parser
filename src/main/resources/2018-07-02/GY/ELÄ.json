@@ -1,0 +1,179 @@
+{
+  "name" : "Elmätteknik",
+  "description" : "Ämnet elmätteknik handlar om hur olika instrument för att mäta elektriska storheter används. Även mätning av icke-elektriska storheter behandlas efter att de omvandlats med mätomvandlare till elektriska storheter.",
+  "code" : "ELÄ",
+  "designation" : "",
+  "skolfsId" : "2010:155",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet elmätteknik ska syfta till att eleverna utvecklar kunskaper om mätning av elektriska storheter.", "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om vanligt förekommande mätgivare och om metoder för att samla in mätvärden.", "Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper om analys av mätresultat och av de fel och störningar som kan kan påverka mätresultatet." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom experiment, ett undersökande arbetssätt och praktiska övningar ska eleverna ges möjlighet att utveckla sådana kunskaper i praktisk problemlösning som krävs vid arbete med mätgivare och mätinstrument." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet elmätteknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om begrepp inom mätteknik.", "Färdigheter i att använda oscilloskop och multimeter.", "Färdigheter i att använda spektrumanalysator.", "Förmåga att välja och använda mätgivare.", "Kunskaper om elektriska störningar.", "Förmåga att analysera mätresultat.", "Förmåga att dokumentara mätresultat." ]
+  } ],
+  "courses" : [ {
+    "name" : "Elmätteknik 1",
+    "description" : "Kursen elmätteknik 1 omfattar punkterna 1–2, 4 och 6–7 under rubriken Ämnets syfte.",
+    "code" : "ELÄELM01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Grundläggande mättekniska begrepp, till exempel definitioner av måttenheter.", "Oscilloskop och multimeter, funktion och användningsområden. Användning av oscilloskop och multimeter för mätning av elektrisk ström, elektrisk spänning samt resistans med fokus på storlek och fasläge.", "Olika typer av mätgivare. Grundläggande egenskaper och användningsområden. Val av mätgivare.", "Metoder för analys av mätresultat samt mätresultats osäkerhet.", "Grundläggande standarder och metoder för dokumentation av mätresultat." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för grundläggande begrepp inom området mätteknik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för grundläggande begrepp inom området mätteknik.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för grundläggande begrepp inom området mätteknik.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för grundläggande begrepp inom området mätteknik."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> med handledare oscilloskop och multimeter för att mäta ström, spänning och impedans samt dokumenterar med <strong>________</strong> resultat dessa storheters variation i tiden enligt gällande standarder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>i samråd</strong> med handledare oscilloskop och multimeter för att mäta ström, spänning och impedans samt dokumenterar med <strong>tillfredsställande</strong> resultat dessa storheters variation i tiden enligt gällande standarder.",
+          "C" : "Eleven använder <strong>efter samråd</strong> med handledare oscilloskop och multimeter för att mäta ström, spänning och impedans samt dokumenterar med <strong>tillfredsställande</strong> resultat dessa storheters variation i tiden enligt gällande standarder.",
+          "A" : "Eleven använder <strong>efter samråd</strong> med handledare oscilloskop och multimeter för att mäta ström, spänning och impedans samt dokumenterar med <strong>gott</strong> resultat dessa storheters variation i tiden enligt gällande standarder."
+        }
+      }, {
+        "text" : "Eleven väljer mätgivare och använder den <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven väljer mätgivare och använder den <strong>med viss säkerhet</strong>.",
+          "C" : "Eleven väljer mätgivare och använder den <strong>med viss säkerhet</strong>.",
+          "A" : "Eleven väljer mätgivare och använder den <strong>med säkerhet</strong>."
+        }
+      }, {
+        "text" : "Dessutom motiverar eleven <strong>________</strong> sitt val av mätgivare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom motiverar eleven <strong>översiktligt</strong> sitt val av mätgivare.",
+          "C" : "Dessutom motiverar eleven <strong>utförligt</strong> sitt val av mätgivare.",
+          "A" : "Dessutom motiverar eleven <strong>utförligt och nyanserat</strong> sitt val av mätgivare."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör en <strong>________</strong> tolkning av sina mätresultat samt en <strong>________</strong> dokumentation av dem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> tolkning av sina mätresultat samt en <strong>enkel</strong> dokumentation av dem.",
+          "C" : "Eleven gör en tolkning av sina mätresultat samt en <strong>noggrann</strong> dokumentation av dem.",
+          "A" : "Eleven gör en <strong>komplex</strong> tolkning av sina mätresultat samt en <strong>noggrann och utförlig</strong> dokumentation av dem."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Elmätteknik 2",
+    "description" : "Kursen elmätteknik 2 omfattar punkterna 1–7 under rubriken Ämnets syfte.",
+    "code" : "ELÄELM02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Mättekniska begrepp, särskilt hur spårbarhet skapas.", "Oscilloskop och multimeter, funktion och användningsområden. Användning av oscilloskop och multimeter för mätning av ström, spänning och impedans samt dessa storheters variation i tiden.", "Spektrumanalysatorer för att mäta olika egenskaper hos elektriska mätobjekt genom att analysera tidssignalen och signalens spektrum.", "Fysikaliska funktioner hos olika mätgivare samt användningsområden för dessa. Val av mätgivare.", "Orsaker till att elektriska störningar uppstår, hur de fortplantas och hur de kan reduceras.", "Metoder för analys av mätresultat. Mätresultats osäkerhet.", "Standarder och metoder för dokumentation av mätresultat." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för grundläggande begrepp inom området mätteknik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för grundläggande begrepp inom området mätteknik.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för grundläggande begrepp inom området mätteknik.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för grundläggande begrepp inom området mätteknik."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> med handledare oscilloskop och multimeter för att mäta ström, spänning och impedans samt dokumenterar <strong>________</strong> dessa storheters variation i tiden enligt gällande standarder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>i samråd</strong> med handledare oscilloskop och multimeter för att mäta ström, spänning och impedans samt dokumenterar <strong>med tillfredsställande resultat</strong> dessa storheters variation i tiden enligt gällande standarder.",
+          "C" : "Eleven använder <strong>efter samråd</strong> med handledare oscilloskop och multimeter för att mäta ström, spänning och impedans samt dokumenterar <strong>med tillfredsställande resultat</strong> dessa storheters variation i tiden enligt gällande standarder.",
+          "A" : "Eleven använder <strong>efter samråd</strong> med handledare oscilloskop och multimeter för att mäta ström, spänning och impedans samt dokumenterar <strong>med gott resultat</strong> dessa storheters variation i tiden enligt gällande standarder."
+        }
+      }, {
+        "text" : "Med hjälp av spektrumanalysator mäter eleven några variabler hos elektriska mätobjekt och analyserar dessa <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Med hjälp av spektrumanalysator mäter eleven några variabler hos elektriska mätobjekt och analyserar dessa <strong>med viss säkerhet</strong>.",
+          "C" : "Med hjälp av spektrumanalysator mäter eleven några variabler hos elektriska mätobjekt och analyserar dessa <strong>med viss säkerhet</strong>.",
+          "A" : "Med hjälp av spektrumanalysator mäter eleven några variabler hos elektriska mätobjekt och analyserar dessa <strong>med säkerhet</strong>."
+        }
+      }, {
+        "text" : "Eleven väljer mätgivare och använder den <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven väljer mätgivare och använder den <strong>med viss säkerhet</strong>.",
+          "C" : "Eleven väljer mätgivare och använder den <strong>med viss säkerhet</strong>.",
+          "A" : "Eleven väljer mätgivare och använder den <strong>med säkerhet</strong>."
+        }
+      }, {
+        "text" : "Eleven beskriver <strong>________</strong> hur mätgivare fungerar och när de ska användas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur mätgivare fungerar och när de ska användas.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur mätgivare fungerar och när de ska användas.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur mätgivare fungerar och när de ska användas."
+        }
+      }, {
+        "text" : "Dessutom motiverar eleven <strong>________</strong> sitt val av mätgivare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom motiverar eleven <strong>översiktligt</strong> sitt val av mätgivare.",
+          "C" : "Dessutom motiverar eleven <strong>utförligt</strong> sitt val av mätgivare.",
+          "A" : "Dessutom motiverar eleven <strong>utförligt och nyanserat</strong> sitt val av mätgivare."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör en <strong>________</strong> tolkning av sina mätresultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> tolkning av sina mätresultat.",
+          "C" : "Eleven gör en tolkning av sina mätresultat.",
+          "A" : "Eleven gör en <strong>komplex</strong> tolkning av sina mätresultat."
+        }
+      }, {
+        "text" : "I samband med tolkningen redogör eleven <strong>________</strong> för hur elektriska störningar kan påverka mätresultat samt hur de uppstår, fortplantas och kan reduceras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I samband med tolkningen redogör eleven <strong>översiktligt</strong> för hur elektriska störningar kan påverka mätresultat samt hur de uppstår, fortplantas och kan reduceras.",
+          "C" : "I samband med tolkningen redogör eleven <strong>utförligt</strong> för hur elektriska störningar kan påverka mätresultat samt hur de uppstår, fortplantas och kan reduceras.",
+          "A" : "I samband med tolkningen redogör eleven <strong>utförligt och nyanserat</strong> för hur elektriska störningar kan påverka mätresultat samt hur de uppstår, fortplantas och kan reduceras."
+        }
+      }, {
+        "text" : "Eleven gör en <strong>________</strong> dokumentation av mätresultaten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> dokumentation av mätresultaten.",
+          "C" : "Eleven gör en <strong>noggrann</strong> dokumentation av mätresultaten.",
+          "A" : "Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av mätresultaten."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

@@ -1,0 +1,204 @@
+{
+  "name" : "Verkstadsteknik",
+  "description" : "Ämnet verkstadsteknik behandlar bearbetning och sammanfogning av olika material. Ämnet handlar om tekniker och utrustning som används för att bearbeta och sammanfoga material. I ämnet ingår också skötsel och underhåll av verkstadsteknisk utrustning.",
+  "code" : "VES",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet verkstadsteknik ska syfta till att eleverna utvecklar kunskaper om skärande bearbetning och sammanfogning av material samt förmåga att utföra arbetsuppgifter inom dessa områden.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om de tekniker och metoder som används för att bearbeta och sammanfoga olika material.", "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om material och den tekniska utrustningens funktion, konstruktion och användningsområden.", "Eleverna ska ges möjlighet att utveckla förmåga att sköta och underhålla samt utföra funktions- och säkerhetskontroller av den tekniska utrustningen." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska leda till att eleverna utvecklar förmåga att utföra arbetsuppgifter inom skärande bearbetning och sammanfogning av material samt förmåga att sköta och underhålla material och utrustning på ett säkert sätt." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om ergonomi, arbetsmiljö och säkerhet samt om hållbar utveckling.", "Eleverna ska även ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser inom området." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Praktiskt arbete, ett undersökande och problemlösande arbetssätt ska ingå i undervisningen.", "I undervisningen ska eleverna ges möjlighet att reflektera över och samtala om arbetsmiljö, säkerhet och hållbar utveckling.", "Eleverna ska också ges möjlighet att samtala om resultat och kvalitet på genomfört arbete." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet verkstadsteknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om material, tekniker och verkstadsteknisk utrustning.", "Förmåga att utföra arbetsuppgifter inom sammanfogning och bearbetning av material på ett säkert sätt.", "Förmåga att sköta och underhålla material och verkstadsteknisk utrustning på ett säkert sätt samt med hänsyn till miljön." ]
+  } ],
+  "courses" : [ {
+    "name" : "Sammanfogningsteknik 1",
+    "description" : "Kursen sammanfogningsteknik 1 omfattar punkterna 1–3 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "VESSAM51",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Materialkunskap inom sammanfogningsteknik. Val av material och beräkning av materialåtgång.", "Tekniker och metoder inom sammanfogningsteknik. Limning, nitning och lödning.", "Svetstekniker, till exempel gasmetallbågsvetsning, motståndssvetsning och metallbågsvetsning. Olika svetslägen.", "Skisser, ritningar och instruktioner.", "Verktyg och teknisk utrustning som används i samband med sammanfogning av material. Funktion, konstruktion och användningsområden.", "Underhåll och skötsel av verkstadsutrustning enligt säkerhetsföreskrifter. Skyddsutrustning.", "Ergonomi, arbetsmiljö och säkerhet.", "Hantering av restavfall, återvinning och källsortering." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva material, tekniker och verkstadsteknisk utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva material, tekniker och verkstadsteknisk utrustning.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> material, tekniker och verkstadsteknisk utrustning.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> material, tekniker och verkstadsteknisk utrustning."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att utföra arbetsmoment inom sammanfogning och bearbetning av material på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att utföra arbetsmoment inom sammanfogning och bearbetning av material på ett säkert sätt.",
+          "C" : "Eleven utför <strong>med tillfredsställande resultat</strong> arbetsmoment inom sammanfogning och bearbetning av material på ett säkert sätt.",
+          "A" : "Eleven utför <strong>med gott resultat</strong> arbetsmoment inom sammanfogning och bearbetning av material på ett säkert sätt."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att sköta och underhålla material och verkstadsteknisk utrustning på ett säkert sätt samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att sköta och underhålla material och verkstadsteknisk utrustning på ett säkert sätt samt med hänsyn till miljön.",
+          "C" : "Eleven sköter och underhåller också <strong>med tillfredsställande resultat</strong> material och verkstadsteknisk utrustning på ett säkert sätt samt med hänsyn till miljön.",
+          "A" : "Eleven sköter och underhåller också <strong>med gott resultat</strong> material och verkstadsteknisk utrustning på ett säkert sätt samt med hänsyn till miljön."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Sammanfogningsteknik 2",
+    "description" : "Kursen sammanfogningsteknik 2 omfattar punkterna 1–3 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "VESSAM52",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Fördjupning inom någon eller några sammanfogningstekniker, till exempel olika tekniker inom svetsning eller limning.", "Ergonomi, arbetsmiljö och säkerhet.", "Hantering av restavfall, återvinning och källsortering." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva material, tekniker och verkstadsteknisk utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva material, tekniker och verkstadsteknisk utrustning.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> material, tekniker och verkstadsteknisk utrustning.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> material, tekniker och verkstadsteknisk utrustning."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att utföra arbetsmoment inom sammanfogning och bearbetning av material på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att utföra arbetsmoment inom sammanfogning och bearbetning av material på ett säkert sätt.",
+          "C" : "Eleven utför <strong>med tillfredsställande resultat</strong> arbetsmoment inom sammanfogning och bearbetning av material på ett säkert sätt.",
+          "A" : "Eleven utför <strong>med gott resultat</strong> arbetsmoment inom sammanfogning och bearbetning av material på ett säkert sätt."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att sköta och underhålla material och verkstadsteknisk utrustning på ett säkert sätt samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att sköta och underhålla material och verkstadsteknisk utrustning på ett säkert sätt samt med hänsyn till miljön.",
+          "C" : "Eleven sköter och underhåller också <strong>med tillfredsställande resultat</strong> material och verkstadsteknisk utrustning på ett säkert sätt och med hänsyn till miljön.",
+          "A" : "Eleven sköter och underhåller också <strong>med gott resultat</strong> material och verkstadsteknisk utrustning på ett säkert sätt och med hänsyn till miljön."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Skärande bearbetning 1",
+    "description" : "Kursen skärande bearbetning 1 omfattar punkterna 1–3 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "VESSKA51",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Materialkunskap inom skärande bearbetning. Val av material. Beräkning av materialåtgång.", "Verktyg och teknisk utrustning som används i samband med skärande bearbetning. Funktion, konstruktion och användningsområden.", "Tekniker och metoder för maskinbearbetning, till exempel svarvning, fräsning och borrning. Skisser, ritningar och instruktioner.", "Tekniker och metoder för bänkarbete, till exempel gängning, gradning och filning. Skisser, ritningar och instruktioner.", "Underhåll och skötsel av verkstadsutrustning enligt säkerhetsföreskrifter. Skyddsutrustning.", "Ergonomi, arbetsmiljö och säkerhet.", "Hantering av restavfall, återvinning och källsortering." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva material, tekniker och verkstadsteknisk utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva material, tekniker och verkstadsteknisk utrustning.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> material, tekniker och verkstadsteknisk utrustning.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> material, tekniker och verkstadsteknisk utrustning."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att utföra arbetsmoment inom bearbetning av material på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att utföra arbetsmoment inom bearbetning av material på ett säkert sätt.",
+          "C" : "Eleven utför <strong>med tillfredsställande resultat</strong> arbetsmoment inom bearbetning av material på ett säkert sätt.",
+          "A" : "Eleven utför <strong>med gott resultat</strong> arbetsmoment inom bearbetning av material på ett säkert sätt."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att sköta och underhålla material och verkstadsteknisk utrustning på ett säkert sätt samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att sköta och underhålla material och verkstadsteknisk utrustning på ett säkert sätt samt med hänsyn till miljön.",
+          "C" : "Eleven sköter och underhåller också <strong>med tillfredsställande resultat</strong> material och verkstadsteknisk utrustning på ett säkert sätt samt med hänsyn till miljön.",
+          "A" : "Eleven sköter och underhåller också <strong>med gott resultat</strong> material och verkstadsteknisk utrustning på ett säkert sätt samt med hänsyn till miljön."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Skärande bearbetning 2",
+    "description" : "Kursen skärande bearbetning 2 omfattar punkterna 1–3 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "VESSKA52",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Fördjupning inom någon eller några tekniker inom skärande bearbetning, till exempel svarvning eller fräsning.", "Ergonomi, arbetsmiljö och säkerhet.", "Hantering av restavfall, återvinning och källsortering." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva material, tekniker och verkstadsteknisk utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva material, tekniker och verkstadsteknisk utrustning.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> material, tekniker och verkstadsteknisk utrustning.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> material, tekniker och verkstadsteknisk utrustning."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att utföra arbetsmoment inom bearbetning av material på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att utföra arbetsmoment inom bearbetning av material på ett säkert sätt.",
+          "C" : "Eleven utför <strong>med tillfredsställande resultat</strong> arbetsmoment inom bearbetning av material på ett säkert sätt.",
+          "A" : "Eleven utför <strong>med gott resultat</strong> arbetsmoment inom bearbetning av material på ett säkert sätt."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att sköta och underhålla material och verkstadsteknisk utrustning på ett säkert sätt samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att sköta och underhålla material och verkstadsteknisk utrustning på ett säkert sätt samt med hänsyn till miljön.",
+          "C" : "Eleven sköter och underhåller också <strong>med tillfredsställande resultat</strong> material och verkstadsteknisk utrustning på ett säkert sätt samt med hänsyn till miljön.",
+          "A" : "Eleven sköter och underhåller också <strong>med gott resultat</strong> material och verkstadsteknisk utrustning på ett säkert sätt samt med hänsyn till miljön."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Verkstadsteknik – grund",
+    "description" : "Kursen verkstadsteknik – grund omfattar punkterna 1–3 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "VESVER5",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Material och verkstadsteknisk utrustning som används för att bearbeta och sammanfoga material. Egenskaper, konstruktion, funktion och användningsområden.", "Tekniker och metoder inom sammanfogning, till exempel svetsning, limning och lödning.", "Tekniker och metoder inom skärande bearbetning, till exempel svarvning, fräsning och borrning.", "Skötsel och underhåll av verkstadsteknisk utrustning enligt säkerhetsföreskrifter. Skyddsutrustning.", "Ergonomi, säkerhet och arbetsmiljö.", "Hantering av restprodukter, återvinning och källsortering." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva material, tekniker och verkstadsteknisk utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva material, tekniker och verkstadsteknisk utrustning.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> material, tekniker och verkstadsteknisk utrustning.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> material, tekniker och verkstadsteknisk utrustning."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att utföra arbetsmoment inom sammanfogning och bearbetning av material på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att utföra arbetsmoment inom sammanfogning och bearbetning av material på ett säkert sätt.",
+          "C" : "Eleven utför <strong>med tillfredsställande resultat</strong> arbetsmoment inom sammanfogning och bearbetning av material på ett säkert sätt.",
+          "A" : "Eleven utför <strong>med gott resultat</strong> arbetsmoment inom sammanfogning och bearbetning av material på ett säkert sätt."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att sköta och underhålla material och verkstadsteknisk utrustning på ett säkert sätt samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att sköta och underhålla material och verkstadsteknisk utrustning på ett säkert sätt samt med hänsyn till miljön.",
+          "C" : "Eleven sköter och underhåller också <strong>med tillfredsställande resultat</strong> material och verkstadsteknisk utrustning på ett säkert sätt samt med hänsyn till miljön.",
+          "A" : "Eleven sköter och underhåller också <strong>med gott resultat</strong> material och verkstadsteknisk utrustning på ett säkert sätt och med hänsyn till miljön."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

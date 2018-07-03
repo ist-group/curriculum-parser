@@ -1,0 +1,597 @@
+{
+  "name" : "Personbilsteknik",
+  "description" : "Ämnet personbilsteknik behandlar funktion hos samt tillsyn, service, underhåll och reparation av personbilar och lätta transportfordon.",
+  "code" : "PER",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet personbilsteknik ska syfta till att eleverna utvecklar förmåga att genomföra underhåll, diagnostisering och reparationer av personbilar och lätta transportfordon.", "Den ska ge eleverna möjlighet att utveckla tekniskt kunnande med tillämpning inom området personbilsteknik samt förmåga att använda teknik på ett korrekt sätt i ett givet sammanhang.", "Undervisningen ska leda till att eleverna utvecklar förmåga att arbeta med problemlösning såväl självständigt som tillsammans med andra.", "Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om system och komponenter samt om hur de samverkar i fordon." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att stimulera elevernas intresse för personbilar och lätta transportfordon samt för utrustning och ny teknik.", "Genom undervisningen ska eleverna även ges möjlighet att utveckla en yrkesidentitet och förmåga att använda ett yrkesmässigt språk." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke.", "Dessa arbetsuppgifter ska utgå från ett problemlösande och laborativt arbetssätt." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet personbilsteknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om personbilar och lätta transportfordon.", "Kunskaper om komponenter och system samt om hur de samverkar.", "Förmåga att utföra diagnos, service, underhåll och reparation av personbilar och lätta transportfordon.", "Förmåga att utföra funktions- och säkerhetskontroll.", "Förmåga att välja och använda arbetsmetoder och utrustning.", "Förmåga att arbeta på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten.", "Förmåga att använda såväl svenska som engelska manualer samt digitala informationssystem.", "Förmåga att använda ett yrkesmässigt språk." ]
+  } ],
+  "courses" : [ {
+    "name" : "Bromsar, kaross och chassi",
+    "description" : "Kursen bromsar, kaross och chassi omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "PERBRO0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Funktion hos och konstruktion av bromssystemet samt komponenter, detaljer och kringutrustning.", "Funktion hos och konstruktion av hjul och hjulupphängning samt komponenter, detaljer och kringutrustning, inklusive släpfordon.", "Funktion hos och konstruktion av styrsystemet samt komponenter och kringutrustning.", "Funktion hos och konstruktion av fjädringssystemet samt komponenter, detaljer och kringutrustning.", "Funktion hos och konstruktion av kaross och ram samt chassikomponenter, inklusive bilinredningar och övriga komponenter och detaljer. Reparationsmetoder för mindre skador, till exempel rost- och lackskador.", "Isocyanaters uppbyggnad och verkningssätt samt regelverk runt hanteringen av dem.", "Limmade bilrutors uppbyggnad, inklusive metoder för att reparera stenskott.", "Plastens samverkande principer samt metoder för reparation av plastkomponenter.", "Metoder för diagnos, service, underhåll, funktions- och säkerhetskontroll samt reparation av bromsar och chassikomponenter.", "Demontering, montering och justering av komponenter i samband med reparationsarbete.", "Arbetsinstruktioner, servicelitteratur och informationsmaterial om reservdelshantering på svenska och engelska, inklusive information i datormiljö." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven ger <strong>________</strong> exempel på och beskriver <strong>________</strong> funktionsprinciper för och konstruktioner av bromsar och chassikomponenter i personbilar och lätta transportfordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven ger <strong>några</strong> exempel på och beskriver <strong>översiktligt</strong> funktionsprinciper för och konstruktioner av bromsar och chassikomponenter i personbilar och lätta transportfordon.",
+          "C" : "Eleven ger <strong>flera</strong> exempel på och beskriver <strong>utförligt</strong> funktionsprinciper för och konstruktioner av bromsar och chassikomponenter i personbilar och lätta transportfordon.",
+          "A" : "Eleven ger <strong>flera</strong> exempel på och beskriver <strong>utförligt och nyanserat</strong> funktionsprinciper för och konstruktioner av bromsar och chassikomponenter i personbilar och lätta transportfordon."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför, <strong>________</strong> med handledare och i bekanta situationer, <strong>________</strong> diagnos, service och reparation samt <strong>________</strong> underhåll av bromsar, kaross och chassi i personbilar och lätta transportfordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför, <strong>i samråd</strong> med handledare och i bekanta situationer, <strong>enkel</strong> diagnos, service och reparation samt <strong>enkelt</strong> underhåll av bromsar, kaross och chassi i personbilar och lätta transportfordon.",
+          "C" : "Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer, diagnos, service och reparation samt underhåll av bromsar, kaross och chassi i personbilar och lätta transportfordon.",
+          "A" : "Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer, <strong>avancerad</strong> diagnos, service och reparation samt <strong>avancerat</strong> underhåll av bromsar, kaross och chassi i personbilar och lätta transportfordon."
+        }
+      }, {
+        "text" : "Dessutom utför eleven, <strong>________</strong> med handledare och i bekanta situationer, byten av komponenter, detaljer och kringutrustning samt funktions- och säkerhetskontroll av bromsar, kaross och chassi i personbilar och lätta transportfordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven, <strong>i samråd</strong> med handledare och i bekanta situationer, byten av komponenter, detaljer och kringutrustning samt funktions- och säkerhetskontroll av bromsar, kaross och chassi i personbilar och lätta transportfordon.",
+          "C" : "Dessutom utför eleven, <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer, byten av komponenter, detaljer och kringutrustning samt funktions- och säkerhetskontroll av bromsar, kaross och chassi i personbilar och lätta transportfordon.",
+          "A" : "Dessutom utför eleven, <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer, byten av komponenter, detaljer och kringutrustning samt funktions- och säkerhetskontroll av bromsar, kaross och chassi i personbilar och lätta transportfordon."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+          "C" : "I arbetet <strong>väljer och</strong> använder eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+          "A" : "I arbetet <strong>väljer och</strong> använder eleven <strong>med säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> svenska och engelska manualer samt digitala informationssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> svenska och engelska manualer samt digitala informationssystem."
+        }
+      }, {
+        "text" : "I kommunikation med andra använder eleven <strong>________</strong> tekniska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "C" : "I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "A" : "I kommunikation med andra använder eleven <strong>med säkerhet</strong> tekniska begrepp."
+        }
+      }, {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning."
+        }
+      }, {
+        "text" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+          "C" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+          "A" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Komfort- och säkerhetssystem 1a",
+    "description" : "Kursen komfort- och säkerhetssystem 1a omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "PERKOM01a",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Funktion hos och konstruktion av elektroniska broms- och stabilitetssystem samt komponenter, detaljer och kringutrustning, till exempel ABS-system (anti-lock braking system), ESP-system (electronic stability program) och motsvarande fordonsfunktioner.", "Funktion hos och konstruktion av elektroniska säkerhetssystem samt interaktiva körsystem, till exempel krockkudde, SRS-system och motsvarande fordonsfunktioner.", "Funktion hos och konstruktion av reglerbara hjulupphängningssystem, stötdämparsystem och fjädringssystem, till exempel EHPS-system (elektrohydraulik) och motsvarande fordonsfunktioner.", "Funktion hos och konstruktion av reglerbara styrsystem, till exempel EPS-system (electric power steering) och motsvarande fordonsfunktioner.", "Funktion hos och konstruktion av avstånds- och hastighetsreglerande system, till exempel ADAS-system (advanced driver assistance system), ACC-system (adaptive cruise control) och motsvarande fordonsfunktioner.", "Funktion hos och konstruktion av temperaturregleringssystem för klimat i fordon. Systemens komponenter, detaljer och kringutrustning samt hantering av kylmedier, olja och spårmedel.", "Funktion hos och konstruktion av motor- och kupévärmare samt komponenter, detaljer och kringutrustning.", "Metoder för diagnos, service, underhåll, funktions- och säkerhetskontroll samt reparation av komfort- och säkerhetssystem.", "Demontering, montering och justering av komponenter och detaljer i samband med reparationsarbete.", "ESD-säkerhet (electrostatic discharge) samt bestämmelser för arbete med fordonselektronik.", "Lagar och andra bestämmelser som reglerar arbetet med kylanläggningar på personbilar och lätta transportfordon.", "Arbetsinstruktioner, servicelitteratur och informationsmaterial om reservdelshantering på svenska och engelska, inklusive information i datormiljö." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven ger <strong>________</strong> exempel på och beskriver <strong>________</strong> funktionsprinciper för och konstruktioner av komfort- och säkerhetssystem i personbilar och lätta transportfordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven ger <strong>några</strong> exempel på och beskriver <strong>översiktligt</strong> funktionsprinciper för och konstruktioner av komfort- och säkerhetssystem i personbilar och lätta transportfordon.",
+          "C" : "Eleven ger <strong>flera</strong> exempel på och beskriver <strong>utförligt</strong> funktionsprinciper för och konstruktioner av komfort- och säkerhetssystem i personbilar och lätta transportfordon.",
+          "A" : "Eleven ger <strong>flera</strong> exempel på och beskriver <strong>utförligt och nyanserat</strong> funktionsprinciper för och konstruktioner av komfort- och säkerhetssystem i personbilar och lätta transportfordon."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför, <strong>________</strong> med handledare och i bekanta situationer, <strong>________</strong> diagnos, service och reparation samt <strong>________</strong> underhåll av komfort- och säkerhetssystem i personbilar och lätta transportfordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför, <strong>i samråd</strong> med handledare och i bekanta situationer, <strong>enkel</strong> diagnos, service och reparation samt <strong>enkelt</strong> underhåll av komfort- och säkerhetssystem i personbilar och lätta transportfordon.",
+          "C" : "Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer, diagnos, service och reparation samt underhåll av komfort- och säkerhetssystem i personbilar och lätta transportfordon.",
+          "A" : "Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer, <strong>avancerad</strong> diagnos, service och reparation samt <strong>avancerat</strong> underhåll av komfort- och säkerhetssystem i personbilar och lätta transportfordon."
+        }
+      }, {
+        "text" : "Dessutom utför eleven, <strong>________</strong> med handledare och i bekanta situationer, byten av komponenter, detaljer och kringutrustning samt funktions- och säkerhetskontroll av komfort- och säkerhetssystem i personbilar och lätta transportfordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven, <strong>i samråd</strong> med handledare och i bekanta situationer, byten av komponenter, detaljer och kringutrustning samt funktions- och säkerhetskontroll av komfort- och säkerhetssystem i personbilar och lätta transportfordon.",
+          "C" : "Dessutom utför eleven, <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer, byten av komponenter, detaljer och kringutrustning samt funktions- och säkerhetskontroll av komfort- och säkerhetssystem i personbilar och lätta transportfordon.",
+          "A" : "Dessutom utför eleven, <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer, byten av komponenter, detaljer och kringutrustning samt funktions- och säkerhetskontroll av komfort- och säkerhetssystem i personbilar och lätta transportfordon."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+          "C" : "I arbetet <strong>väljer och</strong> använder eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+          "A" : "I arbetet <strong>väljer och</strong> använder eleven <strong>med säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> svenska och engelska manualer samt digitala informationssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> svenska och engelska manualer samt digitala informationssystem."
+        }
+      }, {
+        "text" : "I kommunikation med andra använder eleven <strong>________</strong> tekniska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "C" : "I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "A" : "I kommunikation med andra använder eleven <strong>med säkerhet</strong> tekniska begrepp."
+        }
+      }, {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning."
+        }
+      }, {
+        "text" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+          "C" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+          "A" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Komfort- och säkerhetssystem 1b",
+    "description" : "Kursen komfort- och säkerhetssystem 1b omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "PERKOM01b",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Funktion hos och konstruktion av givare och komponenter i elektroniska fordonssystem för komfort och säkerhet, manövrering och övervakning samt motsvarande fordonsfunktioner.", "Funktion hos och konstruktion av elektroniska fordonstekniska styr- och reglersystem, till exempel canbussystem (controller area network), fiberoptik och trådlös teknik samt motsvarande fordonsfunktioner.", "Funktion hos och konstruktion av radio- och stereosystems komponenter, kompletta ljudsystem i fordon och motsvarande fordonsfunktioner.", "Funktion hos och konstruktion av kommunikationssystems komponenter, till exempel radio, telefon, sändare och mottagare i fordon samt motsvarande fordonsfunktioner.", "Funktion hos och konstruktion av komponenter i navigationsutrustning, till exempel GPS-sändare och GPS-mottagare i fordon samt motsvarande fordonsfunktioner.", "Funktion hos och konstruktion av trådlösa system, till exempel mellan yttre sändare eller mottagare och fordon samt motsvarande fordonsfunktioner.", "Lagar och andra bestämmelser som reglerar förändringar som påverkar bilars och lätta lastbilars kör- och säkerhetsegenskaper." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven ger <strong>________</strong> exempel på och beskriver <strong>________</strong> funktionsprinciper för och konstruktioner av komfort- och säkerhetssystem i personbilar och lätta transportfordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven ger <strong>några</strong> exempel på och beskriver <strong>översiktligt</strong> funktionsprinciper för och konstruktioner av komfort- och säkerhetssystem i personbilar och lätta transportfordon.",
+          "C" : "Eleven ger <strong>flera</strong> exempel på och beskriver <strong>utförligt</strong> funktionsprinciper för och konstruktioner av komfort- och säkerhetssystem i personbilar och lätta transportfordon.",
+          "A" : "Eleven ger <strong>flera</strong> exempel på och beskriver <strong>utförligt och nyanserat</strong> funktionsprinciper för och konstruktioner av komfort- och säkerhetssystem i personbilar och lätta transportfordon."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför, <strong>________</strong> med handledare och i bekanta situationer, <strong>________</strong> diagnos, service och reparation samt <strong>________</strong> underhåll av komfort- och säkerhetssystem i personbilar och lätta transportfordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför, <strong>i samråd</strong> med handledare och i bekanta situationer, <strong>enkel</strong> diagnos, service och reparation samt <strong>enkelt</strong> underhåll av komfort- och säkerhetssystem i personbilar och lätta transportfordon.",
+          "C" : "Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer, diagnos, service och reparation samt underhåll av komfort- och säkerhetssystem i personbilar och lätta transportfordon.",
+          "A" : "Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer, <strong>avancerad</strong> diagnos, service och reparation samt <strong>avancerat</strong> underhåll av komfort- och säkerhetssystem i personbilar och lätta transportfordon."
+        }
+      }, {
+        "text" : "Dessutom utför eleven, <strong>________</strong> med handledare och i bekanta situationer, byten av komponenter, detaljer och kringutrustning samt funktions- och säkerhetskontroll av komfort- och säkerhetssystem i personbilar och lätta transportfordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven, <strong>i samråd</strong> med handledare och i bekanta situationer, byten av komponenter, detaljer och kringutrustning samt funktions- och säkerhetskontroll av komfort- och säkerhetssystem i personbilar och lätta transportfordon.",
+          "C" : "Dessutom utför eleven, <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer, byten av komponenter, detaljer och kringutrustning samt funktions- och säkerhetskontroll av komfort- och säkerhetssystem i personbilar och lätta transportfordon.",
+          "A" : "Dessutom utför eleven, <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer, byten av komponenter, detaljer och kringutrustning samt funktions- och säkerhetskontroll av komfort- och säkerhetssystem i personbilar och lätta transportfordon."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+          "C" : "I arbetet <strong>väljer och</strong> använder eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+          "A" : "I arbetet <strong>väljer och</strong> använder eleven <strong>med säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> svenska och engelska manualer samt digitala informationssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> svenska och engelska manualer samt digitala informationssystem."
+        }
+      }, {
+        "text" : "I kommunikation med andra använder eleven <strong>________</strong> tekniska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "C" : "I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "A" : "I kommunikation med andra använder eleven <strong>med säkerhet</strong> tekniska begrepp."
+        }
+      }, {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning."
+        }
+      }, {
+        "text" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+          "C" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+          "A" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Motor och kraftöverföring",
+    "description" : "Kursen motor och kraftöverföring omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "PERMOT0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Funktion hos och konstruktion av ottomotorn samt inre komponenter, detaljer och kringutrustning.", "Funktion hos och konstruktion av dieselmotorn samt inre komponenter, detaljer och kringutrustning.", "Alternativa bränslen och hybridteknik.", "Funktion hos och konstruktion av manuella växellådor samt inre komponenter och kringutrustning.", "Funktion hos och konstruktion av automatiska växellådor samt komponenter och övrig utrustning.", "Funktion hos och konstruktion av manöversystem för växlingsreglering samt komponenter och övrig utrustning.", "Funktion hos och konstruktion av kraftöverföring samt komponenter, detaljer och övrig utrustning.", "Metoder för diagnos, service, underhåll, funktions- och säkerhetskontroll samt reparation av motor och kraftöverföring.", "Demontering, montering och justering av komponenter i samband med reparationsarbeten.", "Arbetsinstruktioner, servicelitteratur och informationsmaterial om reservdelshantering på svenska och engelska, inklusive information i datormiljö." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven ger <strong>________</strong> exempel på och beskriver <strong>________</strong> funktionsprinciper för och konstruktioner av motor och kraftöverföring i personbilar och lätta transportfordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven ger <strong>några</strong> exempel på och beskriver <strong>översiktligt</strong> funktionsprinciper för och konstruktioner av motor och kraftöverföring i personbilar och lätta transportfordon.",
+          "C" : "Eleven ger <strong>flera</strong> exempel på och beskriver <strong>utförligt</strong> funktionsprinciper för och konstruktioner av motor och kraftöverföring i personbilar och lätta transportfordon.",
+          "A" : "Eleven ger <strong>flera</strong> exempel på och beskriver <strong>utförligt och nyanserat</strong> funktionsprinciper för och konstruktioner av motor och kraftöverföring i personbilar och lätta transportfordon."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför, <strong>________</strong> med handledare och i bekanta situationer, <strong>________</strong> diagnos, service och reparation samt <strong>________</strong> underhåll av motor och kraftöverföring i personbilar och lätta transportfordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför, <strong>i samråd</strong> med handledare och i bekanta situationer, <strong>enkel</strong> diagnos, service och reparation samt <strong>enkelt</strong> underhåll av motor och kraftöverföring i personbilar och lätta transportfordon.",
+          "C" : "Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer, diagnos, service och reparation samt underhåll av motor och kraftöverföring i personbilar och lätta transportfordon.",
+          "A" : "Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer, <strong>avancerad</strong> diagnos, service och reparation samt <strong>avancerat</strong> underhåll av motor och kraftöverföring i personbilar och lätta transportfordon."
+        }
+      }, {
+        "text" : "Dessutom utför eleven, <strong>________</strong> med handledare och i bekanta situationer, byten av komponenter, detaljer och kringutrustning samt funktions- och säkerhetskontroll av motor och kraftöverföring i personbilar och lätta transportfordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven, <strong>i samråd</strong> med handledare och i bekanta situationer, byten av komponenter, detaljer och kringutrustning samt funktions- och säkerhetskontroll av motor och kraftöverföring i personbilar och lätta transportfordon.",
+          "C" : "Dessutom utför eleven, <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer, byten av komponenter, detaljer och kringutrustning samt funktions- och säkerhetskontroll av motor och kraftöverföring i personbilar och lätta transportfordon.",
+          "A" : "Dessutom utför eleven, <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer, byten av komponenter, detaljer och kringutrustning samt funktions- och säkerhetskontroll av motor och kraftöverföring i personbilar och lätta transportfordon."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+          "C" : "I arbetet <strong>väljer och</strong> använder eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+          "A" : "I arbetet <strong>väljer och</strong> använder eleven <strong>med säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> svenska och engelska manualer samt digitala informationssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> svenska och engelska manualer samt digitala informationssystem."
+        }
+      }, {
+        "text" : "I kommunikation med andra använder eleven <strong>________</strong> tekniska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "C" : "I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "A" : "I kommunikation med andra använder eleven <strong>med säkerhet</strong> tekniska begrepp."
+        }
+      }, {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning."
+        }
+      }, {
+        "text" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+          "C" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+          "A" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 300,
+    "year" : null
+  }, {
+    "name" : "Personbilsteknik – introduktion",
+    "description" : "Kursen personbilsteknik – introduktion omfattar punkterna 1–8 under rubriken Ämnets syfte.",
+    "code" : "PERPES0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Personbilars och lätta transportfordons konstruktion i relation till användningsområden och teknik.", "Funktionsprinciper för fordons huvudkomponenter och huvudsystem samt hur dessa komponenter och system samverkar med varandra.", "Felsökning, underhåll och reparation i samband med funktions- och säkerhetskontroll.", "Funktions- och säkerhetskontroll, till exempel periodiska inspektioner och service.", "Handhavande, vård och tillsyn av personbilar och lätta transportfordon, inklusive arbetsuppföljning, reklamations- och garantiärenden samt konsumentlagar.", "Konsekvenser av eftersatt underhåll, beträffande ekonomi, driftstörningar och trafiksäkerhet.", "Faktorer som påverkar miljö samt kostnader för drift och underhåll.", "Arbetsmetoder, arbetsinstruktioner och servicelitteratur från verkstadshandböcker på svenska och engelska, inklusive information som finns lagrad i datormiljö.", "Administrativa verkstadsfunktioner anpassade för fordonsbranschen, inklusive arbetsorder, reservdelsbeställning, offert och prisförslag.", "Begrepp i samband med teknisk information om handhavande, kontroll och vård av personbilar och lätta transportfordon." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven ger <strong>________</strong> exempel på och beskriver <strong>________</strong> funktions- och säkerhetsprinciper för personbilar och lätta transportfordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven ger <strong>några</strong> exempel på och beskriver <strong>översiktligt</strong> funktions- och säkerhetsprinciper för personbilar och lätta transportfordon.",
+          "C" : "Eleven ger <strong>flera</strong> exempel på och beskriver <strong>utförligt</strong> funktions- och säkerhetsprinciper för personbilar och lätta transportfordon.",
+          "A" : "Eleven ger <strong>flera</strong> exempel på och beskriver <strong>utförligt och nyanserat</strong> funktions- och säkerhetsprinciper för personbilar och lätta transportfordon."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> fordons huvudkomponenter och huvudsystem samt hur komponenter och system samverkar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> fordons huvudkomponenter och huvudsystem samt hur komponenter och system samverkar.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> fordons huvudkomponenter och huvudsystem samt hur komponenter och system samverkar.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> fordons huvudkomponenter och huvudsystem samt hur komponenter och system samverkar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför, <strong>________</strong> med handledare och i bekanta situationer, <strong>________</strong> service och reparation samt <strong>________</strong> underhåll av personbilar och lätta transportfordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför, <strong>i samråd</strong> med handledare och i bekanta situationer, <strong>enkel</strong> service och reparation samt <strong>enkelt</strong> underhåll av personbilar och lätta transportfordon.",
+          "C" : "Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer, service och reparation samt underhåll av personbilar och lätta transportfordon.",
+          "A" : "Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer, <strong>avancerad</strong> service och reparation samt <strong>avancerat</strong> underhåll av personbilar och lätta transportfordon."
+        }
+      }, {
+        "text" : "Dessutom utför eleven, <strong>________</strong> med handledare och i bekanta situationer, funktions- och säkerhetskontroll av personbilar och lätta transportfordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven, <strong>i samråd</strong> med handledare och i bekanta situationer, funktions- och säkerhetskontroll av personbilar och lätta transportfordon.",
+          "C" : "Dessutom utför eleven, <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer, funktions- och säkerhetskontroll av personbilar och lätta transportfordon.",
+          "A" : "Dessutom utför eleven, <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer, funktions- och säkerhetskontroll av personbilar och lätta transportfordon."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+          "C" : "I arbetet <strong>väljer och</strong> använder eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+          "A" : "I arbetet <strong>väljer och</strong> använder eleven <strong>med säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> svenska och engelska manualer samt digitala informationssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> svenska och engelska manualer samt digitala informationssystem."
+        }
+      }, {
+        "text" : "I kommunikation med andra använder eleven <strong>________</strong> tekniska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "C" : "I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "A" : "I kommunikation med andra använder eleven <strong>med säkerhet</strong> tekniska begrepp."
+        }
+      }, {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning."
+        }
+      }, {
+        "text" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+          "C" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+          "A" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Reparation av personbilar och lätta transportfordon",
+    "description" : "Kursen reparation av personbilar och lätta transportfordon omfattar punkterna 1–8 under rubriken Ämnets syfte.",
+    "code" : "PERREA0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Bromssystems konstruktion, funktion och huvudkomponenter, inklusive släpfordon.", "Rörelseenergi och retardation.", "Funktion hos och konstruktion av ottomotorns yttre huvudkomponenter och kringutrustning.", "Funktion hos och konstruktion av dieselmotorns yttre huvudkomponenter och kringutrustning.", "Elsystemets konstruktion, funktion och huvudkomponenter, inklusive scheman och ritningssymboler, till exempel ISO, SIS och DIN.", "Kraftöverföringens konstruktion, funktion, huvudkomponenter och kringutrustning.", "Funktion hos och konstruktion av manövreringssystem, övervakningssystem, säkerhetssystem och komfortsystem samt deras huvudkomponenter och samverkan med varandra.", "Däcks och bilhjuls konstruktion, klassificeringssystem och dimensionering på personbilar och lätta transportfordon samt på släpfordon.", "Metoder för diagnos, service, underhåll, funktions- och säkerhetskontroll samt reparation av personbilar och lätta transportfordon.", "Demontering, montering och justering av komponenter i samband med reparationsarbete.", "Kontrollbesiktning av fordon samt bestämmelser för besiktning av personbilar, lätta transportfordon och släpfordon.", "Underhåll, reparation samt kostnadseffektivt arbetssätt och kundvänlig behandling vid arbete med personbilar och lätta transportfordon.", "Kundrelationer, inklusive vägledning av kunden utifrån en lagmässig, teknisk och ekonomisk värdering.", "Användning av branschrelaterad diagnosutrustning i samband med arbete på fordon och i anknytning till arbetsmomentets övriga behov.", "Svets- och värmeutrustning för arbete med personbilar, lätta transportfordon och släpfordon samt vid montering av utrustning.", "Arbetsinstruktioner, servicelitteratur och informationsmaterial om reservdelshantering på svenska och engelska, inklusive information i datormiljö.", "Administrativa funktioner, kommunikationssystem, garantier samt dialog för felsökning och reparation, inklusive information i datormiljö.", "Yrkesmässig dokumentation av vanligt förekommande service och reparationer.", "Rengöring, vård, kontroll, reparation samt justering och kalibrering av verktyg och verkstadsutrustning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven ger <strong>________</strong> exempel på och beskriver <strong>________</strong> funktionsprinciper för och konstruktioner av personbilar och lätta transportfordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven ger <strong>några</strong> exempel på och beskriver <strong>översiktligt</strong> funktionsprinciper för och konstruktioner av personbilar och lätta transportfordon.",
+          "C" : "Eleven ger <strong>flera</strong> exempel på och beskriver <strong>utförligt</strong> funktionsprinciper för och konstruktioner av personbilar och lätta transportfordon.",
+          "A" : "Eleven ger <strong>flera</strong> exempel på och beskriver <strong>utförligt och nyanserat</strong> funktionsprinciper för och konstruktioner av personbilar och lätta transportfordon."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> fordons komponenter och system samt hur de samverkar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> fordons komponenter och system samt hur de samverkar.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> fordons komponenter och system samt hur de samverkar.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> fordons komponenter och system samt hur de samverkar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför, <strong>________</strong> med handledare och i bekanta situationer, kontrollbesiktning, <strong>________</strong> diagnos, service och reparation samt <strong>________</strong> underhåll av personbilar och lätta transportfordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför, <strong>i samråd</strong> med handledare och i bekanta situationer, kontrollbesiktning, <strong>enkel</strong> diagnos, service och reparation samt <strong>enkelt</strong> underhåll av personbilar och lätta transportfordon.",
+          "C" : "Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer, kontrollbesiktning, diagnos, service och reparation samt underhåll av personbilar och lätta transportfordon.",
+          "A" : "Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer, kontrollbesiktning, <strong>avancerad</strong> diagnos, service och reparation samt <strong>avancerat</strong> underhåll av personbilar och lätta transportfordon."
+        }
+      }, {
+        "text" : "Dessutom utför eleven, <strong>________</strong> med handledare och i bekanta situationer, montering av förfabricerad utrustning på och funktions- och säkerhetskontroll av personbilar och lätta transportfordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven, <strong>i samråd</strong> med handledare och i bekanta situationer, montering av förfabricerad utrustning på och funktions- och säkerhetskontroll av personbilar och lätta transportfordon.",
+          "C" : "Dessutom utför eleven, <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer, montering av förfabricerad utrustning på och funktions- och säkerhetskontroll av personbilar och lätta transportfordon.",
+          "A" : "Dessutom utför eleven, <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer, montering av förfabricerad utrustning på och funktions- och säkerhetskontroll av personbilar och lätta transportfordon."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+          "C" : "I arbetet <strong>väljer och</strong> använder eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+          "A" : "I arbetet <strong>väljer och</strong> använder eleven <strong>med säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> svenska och engelska manualer samt digitala informationssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> svenska och engelska manualer samt digitala informationssystem."
+        }
+      }, {
+        "text" : "I kommunikation med andra använder eleven <strong>________</strong> tekniska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "C" : "I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "A" : "I kommunikation med andra använder eleven <strong>med säkerhet</strong> tekniska begrepp."
+        }
+      }, {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning."
+        }
+      }, {
+        "text" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+          "C" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+          "A" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 300,
+    "year" : null
+  } ]
+}

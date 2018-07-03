@@ -1,0 +1,200 @@
+{
+  "name" : "Hotell",
+  "description" : "Ämnet hotell behandlar besöksnäringens olika verksamheter. Ämnet handlar om verksamheternas produkter, tjänster och yrkesroller. I ämnet ingår metoder och utrustning samt hygien, säkerhet och service.",
+  "code" : "HOE",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet hotell ska syfta till att eleverna utvecklar kunskaper om besöksnäringens verksamheter samt förmåga att utföra arbetsuppgifter inom området.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om besöksnäringens verksamheter, till exempel olika former av logi, konferensverksamheter och evenemang.", "Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper om verksamheternas produkter och tjänster samt om olika målgrupper och deras krav på boende, tjänster och service.", "Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om olika yrkesroller i verksamheten.", "Undervisningen ska också bidra till att eleverna utvecklar förmåga att utifrån branschens etiska regler kommunicera med kunder och gäster på ett serviceinriktat sätt.", "Undervisningen ska leda till att eleverna utvecklar kunskaper om besöksnäringen och förståelse av ett serviceinriktat arbetssätt." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hygien, ergonomi och miljöhänsyn i samband med arbete inom besöksnäringens verksamheter.", "Eleverna ska också ges möjlighet att utveckla kunskaper om och förmåga att använda metoder, redskap och annan utrustning inom besöksnäringens olika verksamheter.", "Dessutom ska eleverna ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser inom branschen.", "Undervisningen ska leda till att eleverna utvecklar förmåga att utföra arbetsuppgifter inom besöksnäringen på ett hygieniskt och serviceinriktat sätt." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Fältstudier, praktiskt arbete och ett problemlösande arbetssätt ska ingå i undervisningen.", "Undervisningen ska ge eleverna möjlighet att reflektera över och samtala om mötet med människor och innebörden av god service.", "Undervisningen ska också ge eleverna möjlighet att reflektera över och samtala om etiska regler inom branschen samt om hygien och hygienbestämmelser." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet hotell ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om besöksnäringens olika verksamheter och yrkesroller.", "Kunskaper om besöksnäringens produkter, tjänster och målgrupper.", "Förmåga att välja, använda och sköta redskap samt annan utrustning inom besöksnäringens olika verksamheter.", "Förmåga att utföra arbetsuppgifter inom området på ett hygieniskt, serviceinriktat och säkert sätt." ]
+  } ],
+  "courses" : [ {
+    "name" : "Hotell",
+    "description" : "Kursen hotell omfattar punkterna 1–2 och 4 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "HOEHOT5",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Besöksnäringens olika former av logi, till exempel camping, hotell och vandrarhem. Miljömärkning och certifieringar.", "Olika former av konferens- och evenemangsanläggningar. Anläggningar för konferenser, idrottstävlingar och konserter.", "Organisation, yrkesroller samt arbetsuppgifter inom hotell, konferenser och evenemang.", "Möte med gäster och kunder. Service och bemötande.", "Olika målgrupper och deras krav på boende, tjänster och service. Omtanke och tillgänglighet för gäster med särskilda behov, till exempel funktionsnedsättningar eller allergier.", "Ergonomi och arbetsmiljö.", "Säkerhet, till exempel brandskydd och hygienföreskrifter." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva besöksnäringens olika verksamheter och yrkesroller.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva besöksnäringens olika verksamheter och yrkesroller.",
+          "C" : "Eleven <strong>beskriver på ett enkelt sätt</strong> besöksnäringens olika verksamheter och yrkesroller.",
+          "A" : "Eleven <strong>beskriver på ett utvecklat sätt</strong> besöksnäringens olika verksamheter och yrkesroller."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att beskriva besöksnäringens produkter, tjänster och målgrupper.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att beskriva besöksnäringens produkter, tjänster och målgrupper.",
+          "C" : "Eleven beskriver också <strong>på ett enkelt sätt</strong> besöksnäringens produkter, tjänster och målgrupper.",
+          "A" : "Eleven beskriver också <strong>på ett utvecklat sätt</strong> besöksnäringens produkter, tjänster och målgrupper."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> dessutom i att utföra arbetsmoment inom området på ett hygieniskt, serviceinriktat och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> dessutom i att utföra arbetsmoment inom området på ett hygieniskt, serviceinriktat och säkert sätt.",
+          "C" : "Eleven utför dessutom <strong>med tillfredsställande resultat</strong> arbetsmoment inom området på ett hygieniskt, serviceinriktat och säkert sätt.",
+          "A" : "Eleven utför dessutom <strong>med gott resultat</strong> arbetsmoment inom området på ett hygieniskt, serviceinriktat och säkert sätt."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Konferens och evenemang 1",
+    "description" : "Kursen konferens och evenemang 1 omfattar punkterna 2–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "HOEKON51",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Anläggningar för konferens och evenemang samt deras utbud av produkter och tjänster.", "Organisation, yrkesroller samt arbetsuppgifter inom konferenser och evenemang.", "Iordningsställande av lokaler, till exempel genom olika möbleringsformer.", "Kaffe och andra förfriskningar.", "Möte med gäster och kunder. Service och bemötande.", "Ergonomi och arbetsmiljö.", "Lagar och andra bestämmelser i samband med konferens och evenemang." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva produkter, tjänster samt målgrupper inom konferens- och evenemangsverksamheter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva produkter, tjänster samt målgrupper inom konferens- och evenemangsverksamheter.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> produkter, tjänster samt målgrupper inom konferens- och evenemangsverksamheter.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> produkter, tjänster samt målgrupper inom konferens- och evenemangsverksamheter."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att välja, använda och sköta redskap samt annan utrustning som används i samband med konferenser och evenemang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att välja, använda och sköta redskap samt annan utrustning som används i samband med konferenser och evenemang.",
+          "C" : "Eleven väljer, använder och sköter också redskap samt annan utrustning som används i samband med konferenser och evenemang <strong>på ett delvis ändamålsenligt sätt</strong>.",
+          "A" : "Eleven väljer, använder och sköter också redskap samt annan utrustning som används i samband med konferenser och evenemang <strong>på ett ändamålsenligt sätt</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> dessutom i att utföra arbetsmoment inom området på ett hygieniskt, serviceinriktat och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> dessutom i att utföra arbetsmoment inom området på ett hygieniskt, serviceinriktat och säkert sätt.",
+          "C" : "Eleven utför dessutom <strong>med tillfredsställande resultat</strong> arbetsmoment inom området på ett hygieniskt, serviceinriktat och säkert sätt.",
+          "A" : "Eleven utför dessutom <strong>med gott resultat</strong> arbetsmoment inom området på ett hygieniskt, serviceinriktat och säkert sätt."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Konferens och evenemang 2",
+    "description" : "Kursen konferens och evenemang 2 omfattar punkterna 2–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "HOEKON52",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Anläggningar för konferens och evenemang samt deras utbud av produkter och tjänster. Tillgänglighet för personer med funktionsnedsättning. Olika målgruppers behov av service.", "Organisation, yrkesroller och arbetsuppgifter inom konferenser och evenemang.", "Iordningsställande och skötsel av lokaler.", "Teknisk utrustning för olika konferenser och evenemang, till exempel ljud-, bild- och ljusanläggningar.", "Möte med gäster och kunder, service och bemötande. Serviceinriktad kommunikation via till exempel telefon och dator.", "Ergonomi och arbetsmiljö.", "Lagar och andra bestämmelser i samband med konferens och evenemang." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva produkter, tjänster samt målgrupper inom konferens- och evenemangsverksamheter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva produkter, tjänster samt målgrupper inom konferens- och evenemangsverksamheter.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> produkter, tjänster samt målgrupper inom konferens- och evenemangsverksamheter.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> produkter, tjänster samt målgrupper inom konferens- och evenemangsverksamheter."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att välja, använda och sköta redskap samt annan utrustning som används i samband med konferenser och evenemang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att välja, använda och sköta redskap samt annan utrustning som används i samband med konferenser och evenemang.",
+          "C" : "Eleven väljer, använder och sköter också redskap samt annan utrustning som används i samband med konferenser och evenemang <strong>på ett delvis ändamålsenligt sätt</strong>.",
+          "A" : "Eleven väljer, använder och sköter också redskap samt annan utrustning som används i samband med konferenser och evenemang <strong>på ett ändamålsenligt sätt</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> dessutom i att utföra arbetsmoment inom området på ett hygieniskt, serviceinriktat och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> dessutom i att utföra arbetsmoment inom området på ett hygieniskt, serviceinriktat och säkert sätt.",
+          "C" : "Eleven utför dessutom <strong>med tillfredsställande resultat</strong> arbetsmoment inom området på ett hygieniskt, serviceinriktat och säkert sätt.",
+          "A" : "Eleven utför dessutom <strong>med gott resultat</strong> arbetsmoment inom området på ett hygieniskt, serviceinriktat och säkert sätt."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Våningsservice 1",
+    "description" : "Kursen våningsservice 1 omfattar punkterna 2–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "HOEVAN51",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Organisation, yrkesroller och arbetsuppgifter inom våningsservice (housekeeping), till exempel städning, bäddning och dekorering med blommor.", "Lokalvård. Material, utrustning och teknik för systematisk samt säker städning och bäddning. Kontroll av utfört arbete efter checklista.", "Hygien och utrustning i samband med arbete inom våningsservice.", "Inredning i gästrum och övriga lokaler, med hänsyn till säkerhet, miljö och ergonomi.", "Möte med gäster och kunder. Service och bemötande.", "Ergonomi och arbetsmiljö.", "Lagar och andra bestämmelser i samband med våningsservice." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva produkter, tjänster och målgrupper inom våningsservice.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva produkter, tjänster och målgrupper inom våningsservice.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> produkter, tjänster och målgrupper inom våningsservice.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> produkter, tjänster och målgrupper inom våningsservice."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att välja, använda och sköta redskap samt annan utrustning inom våningsservice.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att välja, använda och sköta redskap samt annan utrustning inom våningsservice.",
+          "C" : "Eleven väljer, använder och sköter också redskap samt annan utrustning inom våningsservice <strong>på ett delvis ändamålsenligt sätt</strong>.",
+          "A" : "Eleven väljer, använder och sköter också redskap samt annan utrustning inom våningsservice <strong>på ett ändamålsenligt sätt</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> dessutom i att utföra arbetsmoment inom området på ett hygieniskt, serviceinriktat och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> dessutom i att utföra arbetsmoment inom området på ett hygieniskt, serviceinriktat och säkert sätt.",
+          "C" : "Eleven utför dessutom <strong>med tillfredsställande resultat</strong> arbetsmoment inom området på ett hygieniskt, serviceinriktat och säkert sätt.",
+          "A" : "Eleven utför dessutom <strong>med gott resultat</strong> arbetsmoment inom området på ett hygieniskt, serviceinriktat och säkert sätt."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Våningsservice 2",
+    "description" : "Kursen våningsservice 2 omfattar punkterna 2–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "HOEVAN52",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Organisation, yrkesroller och arbetsuppgifter inom våningsservice (housekeeping), till exempel städning och bäddning. Olika målgruppers behov av service.", "Lokalvård. Material, utrustning och teknik för systematisk samt säker städning och bäddning. Kontroll av utfört arbete efter checklista. Skötsel av utrustning. Rengöringsmedel för olika ändamål.", "Hygien och utrustning i samband med arbete inom våningsservice. Smitta och smittspridning.", "Blommor och dekorationer. Design, färg och form samt dess påverkan på upplevelsen av vistelsen på hotell.", "Inredning i gästrum och övriga lokaler med hänsyn till säkerhet, miljö och ergonomi.", "Möte med gäster och kunder. Service och bemötande.", "Ergonomi och arbetsmiljö.", "Lagar och andra bestämmelser i samband med våningsservice." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva produkter, tjänster och målgrupper inom våningsservice.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva produkter, tjänster och målgrupper inom våningsservice.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> produkter, tjänster och målgrupper inom våningsservice.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> produkter, tjänster och målgrupper inom våningsservice."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att välja, använda och sköta redskap samt annan utrustning inom våningsservice.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att välja, använda och sköta redskap samt annan utrustning inom våningsservice.",
+          "C" : "Eleven väljer, använder och sköter också redskap samt annan utrustning inom våningsservice <strong>på ett delvis ändamålsenligt sätt</strong>.",
+          "A" : "Eleven väljer, använder och sköter också redskap samt annan utrustning inom våningsservice <strong>på ett ändamålsenligt sätt</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> dessutom i att utföra arbetsmoment inom området på ett hygieniskt, serviceinriktat och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> dessutom i att utföra arbetsmoment inom området på ett hygieniskt, serviceinriktat och säkert sätt.",
+          "C" : "Eleven utför dessutom <strong>med tillfredsställande resultat</strong> arbetsmoment inom området på ett hygieniskt, serviceinriktat och säkert sätt.",
+          "A" : "Eleven utför dessutom <strong>med gott resultat</strong> arbetsmoment inom området på ett hygieniskt, serviceinriktat och säkert sätt."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

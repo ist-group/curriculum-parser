@@ -1,0 +1,525 @@
+{
+  "name" : "Teknisk isolering",
+  "description" : "Den tekniska utvecklingen i samhället ställer allt större krav på inomhusmiljö och minskad energiförbrukning. Ämnet teknisk isolering behandlar isolering av tekniska installationer samt lagar och andra bestämmelser inom området.",
+  "code" : "TEI",
+  "designation" : "",
+  "skolfsId" : "2010:80",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet teknisk isolering ska syfta till att eleverna utvecklar färdigheter i att utföra isolering av varma och kalla installationer och av luftbehandlingssystem samt isolering för att dämpa ljud.", "Den ska också leda till att eleverna utvecklar kunskaper om skydd mot brand- och brandgasspridning.", "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om material för isolering och ytbeklädnad samt om arbetsmetoder vid isolering av VVS-installationer.", "Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att använda ritningar och beskrivningar." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska leda till att eleverna utvecklar kunskaper om arbetsmiljö, bygglagstiftning och övriga bestämmelser som styr verksamheten.", "Eleverna ska också utveckla kunskaper i att förebygga och hantera brand i den egna arbetsmiljön.", "Dessutom ska undervisningen ge eleverna möjlighet att utveckla servicekänsla och kunskaper i entreprenörskap.", "Eleverna ska ges möjlighet att utveckla kunskaper om yrkesetik.", "Undervisningen ska också bidra till att eleverna utvecklar ett hantverkskunnande vid hantering av de verktyg, maskiner och material som förekommer inom isoleringsbranschen." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom ett problemlösande arbetssätt och praktiskt laborativa övningar i undervisningen ska eleverna ges möjlighet att utveckla förmåga att arbeta ansvarsfullt, individuellt och i samarbete med andra.", "Undervisningen ska genomföras så att de praktiska och teoretiska kunskaperna kopplas samman." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet teknisk isolering ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om isoleringsmaterial, hur dessa är konstruerade samt vilka egenskaper och användningsområden de har.", "Kunskaper om material för ytbeklädnad, hur dessa är konstruerade samt vilka egenskaper och användningsområden de har.", "Förmåga att planera och utföra isolering av tekniska installationer inom bygg- och industrisektorn samt att tillverka och montera material för ytbeklädnad utifrån hantverksmässiga och estetiska krav.", "Färdigheter i att använda ritningar och beskrivningar samt kunskaper om lagar och andra bestämmelser som styr verksamheten.", "Förmåga att använda verktyg, maskiner och andra hjälpmedel som förekommer inom teknisk isolering.", "Kunskaper om systematiskt arbetsmiljöarbete enligt gällande skyddsföreskrifter.", "Förmåga att utföra kontroller samt att värdera och dokumentera sitt arbete." ]
+  } ],
+  "courses" : [ {
+    "name" : "Brand- och ljudisolering",
+    "description" : "Kursen brand- och ljudisolering omfattar punkterna 1–7 under rubriken Ämnets syfte.",
+    "code" : "TEIBRA0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika typer av isoleringsmaterial och material för ytbeklädnad för brand- och ljudisolering. Materialens konstruktion, egenskaper och användningsområden.", "Planering och organisering av arbetsplatser och arbetsuppgifter vid brand- och ljudisolering av installationer och byggnadsdelar.", "Isoleringsteori, ritningar, arbetsbeskrivningar och monteringsanvisningar.", "Bygglagstiftningens krav på brandskydd och brandbelastning i byggmaterial samt skydd mot uppkomst av brand.", "Regler för bullernivå i byggnadsdelar.", "Brandceller och brandtekniska byggnadsklasser samt klassificering av byggnadsdelar.", "Montering av brandskyddsisolering av installationer.", "Montering av brandskiva och aluminiumplåt på ventilationsrigg.", "Isolering vid genomdragningar av rörledningar samt cirkulära och rektangulära ventilationskanaler.", "Ljudisolering samt hur uppkomst och transport av ljud i byggnadsdelar dämpas.", "Verktyg, maskiner och andra hjälpmedel.", "Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för egen del som för den som använder installationen.", "Ergonomiskt riktigt arbetssätt.", "Kontroll och dokumentation av utförda åtgärder." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> olika typer av isoleringsmaterial och material för ytbeklädnad för brand- och ljudisolering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> olika typer av isoleringsmaterial och material för ytbeklädnad för brand- och ljudisolering.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> olika typer av isoleringsmaterial och material för ytbeklädnad för brand- och ljudisolering.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> olika typer av isoleringsmaterial och material för ytbeklädnad för brand- och ljudisolering."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> hur dessa är konstruerade samt vilka egenskaper och användningsområden de har.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> hur dessa är konstruerade samt vilka egenskaper och användningsområden de har.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> hur dessa är konstruerade samt vilka egenskaper och användningsområden de har.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> hur dessa är konstruerade samt vilka egenskaper och användningsområden de har."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare sitt arbete.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete."
+        }
+      }, {
+        "text" : "I planeringen väljer eleven <strong>________</strong> någon vanligt förekommande metod.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen väljer eleven <strong>med viss säkerhet</strong> någon vanligt förekommande metod.",
+          "C" : "I planeringen väljer eleven <strong>med viss säkerhet</strong> någon vanligt förekommande metod.",
+          "A" : "I planeringen väljer eleven <strong>med säkerhet</strong> någon vanligt förekommande metod."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav."
+        }
+      }, {
+        "text" : "I arbetet använder eleven med <strong>________</strong> handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven med <strong>visst</strong> handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem.",
+          "C" : "I arbetet använder eleven med <strong>gott</strong> handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dessa.",
+          "A" : "I arbetet använder eleven med <strong>mycket gott</strong> handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.",
+          "C" : "Dessutom gör eleven en riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.",
+          "A" : "Dessutom gör eleven en riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört gör eleven <strong>________</strong> med handledare kontroller.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven <strong>i samråd</strong> med handledare kontroller.",
+          "C" : "När arbetet är utfört gör eleven <strong>efter samråd</strong> med handledare kontroller.",
+          "A" : "När arbetet är utfört gör eleven <strong>efter samråd</strong> med handledare kontroller."
+        }
+      }, {
+        "text" : "Eleven värderar också med <strong>________</strong> omdömen om arbetet uppfyller fastställda kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven värderar också med <strong>enkla</strong> omdömen om arbetet uppfyller fastställda kvalitetskrav.",
+          "C" : "Eleven värderar också med <strong>nyanserade</strong> omdömen om arbetet uppfyller fastställda kvalitetskrav.",
+          "A" : "Eleven värderar också med <strong>nyanserade</strong> omdömen om arbetet uppfyller fastställda kvalitetskrav <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> dokumentation av utförda åtgärder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> dokumentation av utförda åtgärder.",
+          "C" : "Dessutom gör eleven en <strong>noggrann</strong> dokumentation av utförda åtgärder.",
+          "A" : "Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation av utförda åtgärder."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Industriisolering",
+    "description" : "Kursen industriisolering omfattar punkterna 1–7 under rubriken Ämnets syfte.",
+    "code" : "TEIINT0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika typer av isoleringsmaterial och material för ytbeklädnad för industriisolering. Materialens konstruktion, egenskaper och användningsområden.", "Planering och organisering av arbetsplatser och arbetsuppgifter vid isolering av industriobjekt.", "Isoleringsteori, ritningar, arbetsbeskrivningar och monteringsanvisningar.", "Isoleringsteknik inom industrisektorn, till exempel kyl- och värmebärande installationer, cisterner och pannor.", "Problem som kan uppstå med expansion i rörledningar och produkter samt hur de förebyggs.", "Metoder för isolering av cisternsidor och av kupade och koniska domgavlar med lämpligt isoleringsmaterial samt med ytbeklädnad av slät och korrugerad plåt.", "Metoder för isolering och ytbeklädnad av fläktar.", "Metoder för infällningar i rörsvep och böjar.", "Metoder för tillverkning av kåpor vid flänskopplingar och ventiler.", "Metoder för tillverkning av dimensionsförändringar och paketisolering.", "Arbetsmetoder vid falsning av olika plåtkvaliteter.", "Material och sammanfogningsmetoder vid taktäckning av cisterner.", "Material och arbetsmetoder för specialisolering, till exempel eldfast fiber, cellglas, spegelisolering och madrasser för svåråtkomliga detaljer och oregelbundna ytor.", "Verktyg, maskiner och andra hjälpmedel.", "Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för egen del som för den som använder installationen. Ergonomiskt riktigt arbetssätt.", "Kontroll och dokumentation av utförda åtgärder." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> olika typer av isoleringsmaterial och material för ytbeklädnad för industriisolering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> olika typer av isoleringsmaterial och material för ytbeklädnad för industriisolering.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> olika typer av isoleringsmaterial och material för ytbeklädnad för industriisolering.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> olika typer av isoleringsmaterial och material för ytbeklädnad för industriisolering."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> hur dessa är konstruerade samt vilka egenskaper och användningsområden de har.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> hur dessa är konstruerade samt vilka egenskaper och användningsområden de har.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> hur dessa är konstruerade samt vilka egenskaper och användningsområden de har.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> hur dessa är konstruerade samt vilka egenskaper och användningsområden de har."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare sitt arbete.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete."
+        }
+      }, {
+        "text" : "I planeringen väljer eleven <strong>________</strong> någon vanligt förekommande metod.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen väljer eleven <strong>med viss säkerhet</strong> någon vanligt förekommande metod.",
+          "C" : "I planeringen väljer eleven <strong>med viss säkerhet</strong> någon vanligt förekommande metod.",
+          "A" : "I planeringen väljer eleven <strong>med säkerhet</strong> någon vanligt förekommande metod."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav."
+        }
+      }, {
+        "text" : "I arbetet använder eleven med <strong>________</strong> handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven med <strong>visst</strong> handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem.",
+          "C" : "I arbetet använder eleven med <strong>gott</strong> handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem.",
+          "A" : "I arbetet använder eleven med <strong>mycket gott</strong> handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.",
+          "C" : "Dessutom gör eleven en riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.",
+          "A" : "Dessutom gör eleven en riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört gör eleven <strong>________</strong> med handledare kontroller.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven <strong>i samråd</strong> med handledare kontroller.",
+          "C" : "När arbetet är utfört gör eleven <strong>efter samråd</strong> med handledare kontroller.",
+          "A" : "När arbetet är utfört gör eleven <strong>efter samråd</strong> med handledare kontroller."
+        }
+      }, {
+        "text" : "Eleven värderar också med <strong>________</strong> omdömen om arbetet uppfyller fastställda kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven värderar också med <strong>enkla</strong> omdömen om arbetet uppfyller fastställda kvalitetskrav.",
+          "C" : "Eleven värderar också med <strong>nyanserade</strong> omdömen om arbetet uppfyller fastställda kvalitetskrav.",
+          "A" : "Eleven värderar också med <strong>nyanserade</strong> omdömen om arbetet uppfyller fastställda kvalitetskrav <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> dokumentation av utförda åtgärder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> dokumentation av utförda åtgärder.",
+          "C" : "Dessutom gör eleven en <strong>noggrann</strong> dokumentation av utförda åtgärder.",
+          "A" : "Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation av utförda åtgärder."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Kondensisolering",
+    "description" : "Kursen kondensisolering omfattar punkterna 1 och 3–7 under rubriken Ämnets syfte.",
+    "code" : "TEIKOD0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika typer av isoleringsmaterial samt deras konstruktion, egenskaper och användningsområden.", "Planering och organisering av arbetsplatser och arbetsuppgifter vid kondensisolering av kalla installationer.", "Montering av termisk isolering av kalla installationer.", "Isoleringsteori, ritningar, arbetsbeskrivningar och monteringsanvisningar.", "Problem som kan uppstå med kondens samt med värme- och fuktflöden vid kalla installationer.", "Brandkrav när cellgummi används.", "Montering av cellgummiisolering på rörinstallationer.", "Montering av kondensisolering med folierörskål.", "Montering av cellgummiisolering på apparater och komponenter.", "Isolering med polyuretanskumning av rörledningar vid högt ställda krav på funktionen i temperaturhållningen.", "Montering av ångbromsar.", "Verktyg, maskiner och andra hjälpmedel.", "Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för egen del som för den som använder installationen. Arbetsmiljön vid användning av limprodukter vid försegling av cellgummiisolering.", "Ergonomiskt riktigt arbetssätt.", "Kontroll och dokumentation av utförda åtgärder." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> olika typer av isoleringsmaterial, hur de är konstruerade samt vilka egenskaper och användningsområden de har.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> olika typer av isoleringsmaterial, hur de är konstruerade samt vilka egenskaper och användningsområden de har.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> olika typer av isoleringsmaterial, hur de är konstruerade samt vilka egenskaper och användningsområden de har.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> olika typer av isoleringsmaterial, hur de är konstruerade samt vilka egenskaper och användningsområden de har."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare sitt arbete.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete."
+        }
+      }, {
+        "text" : "I planeringen väljer eleven <strong>________</strong> någon vanligt förekommande metod.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen väljer eleven <strong>med viss säkerhet</strong> någon vanligt förekommande metod.",
+          "C" : "I planeringen väljer eleven <strong>med viss säkerhet</strong> någon vanligt förekommande metod.",
+          "A" : "I planeringen väljer eleven <strong>med säkerhet</strong> någon vanligt förekommande metod."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav."
+        }
+      }, {
+        "text" : "I arbetet använder eleven med <strong>________</strong> handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven med <strong>visst</strong> handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem.",
+          "C" : "I arbetet använder eleven med <strong>gott</strong> handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem.",
+          "A" : "I arbetet använder eleven med <strong>mycket gott</strong> handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.",
+          "C" : "Dessutom gör eleven en riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.",
+          "A" : "Dessutom gör eleven en riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört gör eleven <strong>________</strong> med handledare kontroller.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven <strong>i samråd</strong> med handledare kontroller.",
+          "C" : "När arbetet är utfört gör eleven <strong>efter samråd</strong> med handledare kontroller.",
+          "A" : "När arbetet är utfört gör eleven <strong>efter samråd</strong> med handledare kontroller."
+        }
+      }, {
+        "text" : "Eleven värderar också med <strong>________</strong> omdömen om arbetet uppfyller fastställda kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven värderar också med <strong>enkla</strong> omdömen om arbetet uppfyller fastställda kvalitetskrav.",
+          "C" : "Eleven värderar också med <strong>nyanserade</strong> omdömen om arbetet uppfyller fastställda kvalitetskrav.",
+          "A" : "Eleven värderar också med <strong>nyanserade</strong> omdömen om arbetet uppfyller fastställda kvalitetskrav <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> dokumentation av utförda åtgärder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> dokumentation av utförda åtgärder.",
+          "C" : "Dessutom gör eleven en <strong>noggrann</strong> dokumentation av utförda åtgärder.",
+          "A" : "Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation av utförda åtgärder."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "VVS-isolering",
+    "description" : "Kursen VVS-isolering omfattar punkterna 1–7 under rubriken Ämnets syfte.",
+    "code" : "TEIVVS0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika typer av isoleringsmaterial samt deras konstruktion, egenskaper och användningsområden. Historik över äldre isoleringsmaterial och arbetsmetoder.", "Material för ytbeklädnad av VVS-installationer samt materialens användningsområden.", "Planering och organisering av arbetsplatser och arbetsuppgifter vid isolering av VVS-installtioner.", "Isoleringsteori, ritningar, arbetsbeskrivningar och monteringsanvisningar.", "Isoleringsteknik med metoder och utrustning för VVS-installationer.", "Montering av rörskålar med spirallindning och bandning samt av olika ytbeklädnader, till exempel plastplåt och tunn mönsterpräglad aluminiumplåt.", "Utbredning av plastplåt och tunn mönsterpräglad aluminiumplåt.", "Verktyg, maskiner och andra hjälpmedel.", "Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för egen del som för den som använder installationen.", "Ergonomiskt riktigt arbetssätt.", "Kontroll och dokumentation av utförda åtgärder." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> olika typer av isoleringsmaterial, hur de är konstruerade samt vilka egenskaper och användningsområden de har.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> olika typer av isoleringsmaterial, hur de är konstruerade samt vilka egenskaper och användningsområden de har.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> olika typer av isoleringsmaterial, hur de är konstruerade samt vilka egenskaper och användningsområden de har.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> olika typer av isoleringsmaterial, hur de är konstruerade samt vilka egenskaper och användningsområden de har."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för äldre isoleringsmaterial och arbetsmetoder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för äldre isoleringsmaterial och arbetsmetoder.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för äldre isoleringsmaterial och arbetsmetoder.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för äldre isoleringsmaterial och arbetsmetoder."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> material för ytbeklädnad av VVS-installationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> material för ytbeklädnad av VVS-installationer.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> material för ytbeklädnad av VVS-installationer.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> material för ytbeklädnad av VVS-installationer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare sitt arbete.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete."
+        }
+      }, {
+        "text" : "I planeringen väljer eleven <strong>________</strong> någon vanligt förekommande metod.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen väljer eleven <strong>med viss säkerhet</strong> någon vanligt förekommande metod.",
+          "C" : "I planeringen väljer eleven <strong>med viss säkerhet</strong> någon vanligt förekommande metod.",
+          "A" : "I planeringen väljer eleven <strong>med säkerhet</strong> någon vanligt förekommande metod."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav."
+        }
+      }, {
+        "text" : "I arbetet använder eleven med <strong>________</strong> handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven med <strong>visst</strong> handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem.",
+          "C" : "I arbetet använder eleven med <strong>gott</strong> handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem.",
+          "A" : "I arbetet använder eleven med <strong>mycket gott</strong> handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.",
+          "C" : "Dessutom gör eleven en riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.",
+          "A" : "Dessutom gör eleven en riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört gör eleven <strong>________</strong> med handledare kontroller.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven <strong>i samråd</strong> med handledare kontroller.",
+          "C" : "När arbetet är utfört gör eleven <strong>efter samråd</strong> med handledare kontroller.",
+          "A" : "När arbetet är utfört gör eleven <strong>efter samråd</strong> med handledare kontroller."
+        }
+      }, {
+        "text" : "Eleven värderar också med <strong>________</strong> omdömen om arbetet uppfyller fastställda kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven värderar också med <strong>enkla</strong> omdömen om arbetet uppfyller fastställda kvalitetskrav.",
+          "C" : "Eleven värderar också med <strong>nyanserade</strong> omdömen om arbetet uppfyller fastställda kvalitetskrav.",
+          "A" : "Eleven värderar också med <strong>nyanserade</strong> omdömen om arbetet uppfyller fastställda kvalitetskrav <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> dokumentation av utförda åtgärder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> dokumentation av utförda åtgärder.",
+          "C" : "Dessutom gör eleven en <strong>noggrann</strong> dokumentation av utförda åtgärder.",
+          "A" : "Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation av utförda åtgärder."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Ytbeklädnad – grund",
+    "description" : "Kursen ytbeklädnad – grund omfattar punkterna 2–7 under rubriken Ämnets syfte.",
+    "code" : "TEIYTB0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika typer av material för ytbeklädnad samt deras konstruktion, egenskaper och användningsområden. Historik över äldre ytbeklädningsmaterial och arbetsmetoder.", "Planering och organisering av arbetsplatser och arbetsuppgifter vid isolering och utbredning av ytbeklädnad.", "Isoleringsteori, ritningar, arbetsbeskrivningar och monteringsanvisningar.", "Tillverkning av böjar, påstick, förgreningar och ändavslut i olika plåtkvaliteter.", "Isolering av rörinstallationer och ventilationskanaler med nätmatta och lamellmatta med hopfästning genom fästmetoder som syförfarande och kramling.", "Montering av ytbeklädnader på rörledningar, rörsvep och böjsegment.", "Konstruktion av och metoder för vanligt förekommande ytbeklädnadsdelar.", "Grundläggande arbetsmetoder för plåtbearbetning.", "Plåtutbredning med olika falstekniker.", "Sammanfogningsmetoder för sickning, falsning, nitning och skruvning.", "Måttsättning och beräkning av längd, diameter och omkrets för raka konstruktioner.", "Måttsättning och beräkning av radien på böjar samt metoder för uppdelning i segment.", "Måttsättning och beräkning av skärningshöjd.", "Anpassning av ytbeklädnad vid expansionsrörelser.", "Verktyg, maskiner och andra hjälpmedel.", "Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för egen del som för den som använder installationen.", "Ergonomiskt riktigt arbetssätt.", "Kontroll och dokumentation av utförda åtgärder." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> olika typer av material för ytbeklädnad, hur de är konstruerade samt vilka egenskaper och användningsområden de har.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> olika typer av material för ytbeklädnad, hur de är konstruerade samt vilka egenskaper och användningsområden de har.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> olika typer av material för ytbeklädnad, hur de är konstruerade samt vilka egenskaper och användningsområden de har.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> olika typer av material för ytbeklädnad, hur de är konstruerade samt vilka egenskaper och användningsområden de har."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för äldre ytbeklädningsmaterial och arbetsmetoder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för äldre ytbeklädningsmaterial och arbetsmetoder.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för äldre ytbeklädningsmaterial och arbetsmetoder.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för äldre ytbeklädningsmaterial och arbetsmetoder."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare sitt arbete.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete."
+        }
+      }, {
+        "text" : "I planeringen väljer eleven <strong>________</strong> någon vanligt förekommande metod.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen väljer eleven <strong>med viss säkerhet</strong> någon vanligt förekommande metod.",
+          "C" : "I planeringen väljer eleven <strong>med viss säkerhet</strong> någon vanligt förekommande metod.",
+          "A" : "I planeringen väljer eleven <strong>med säkerhet</strong> någon vanligt förekommande metod."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav."
+        }
+      }, {
+        "text" : "I arbetet använder eleven med <strong>________</strong> handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven med <strong>visst</strong> handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem.",
+          "C" : "I arbetet använder eleven med <strong>gott</strong> handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem.",
+          "A" : "I arbetet använder eleven med <strong>mycket gott</strong> handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.",
+          "C" : "Dessutom gör eleven en riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.",
+          "A" : "Dessutom gör eleven en riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört gör eleven <strong>________</strong> med handledare kontroller.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven <strong>i samråd</strong> med handledare kontroller.",
+          "C" : "När arbetet är utfört gör eleven <strong>efter samråd</strong> med handledare kontroller.",
+          "A" : "När arbetet är utfört gör eleven <strong>efter samråd</strong> med handledare kontroller."
+        }
+      }, {
+        "text" : "Eleven värderar också med <strong>________</strong> omdömen om arbetet uppfyller fastställda kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven värderar också med <strong>enkla</strong> omdömen om arbetet uppfyller fastställda kvalitetskrav.",
+          "C" : "Eleven värderar också med <strong>nyanserade</strong> omdömen om arbetet uppfyller fastställda kvalitetskrav.",
+          "A" : "Eleven värderar också med <strong>nyanserade</strong> omdömen om arbetet uppfyller fastställda kvalitetskrav <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> dokumentation av utförda åtgärder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> dokumentation av utförda åtgärder.",
+          "C" : "Dessutom gör eleven en <strong>noggrann</strong> dokumentation av utförda åtgärder.",
+          "A" : "Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation av utförda åtgärder."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  } ]
+}

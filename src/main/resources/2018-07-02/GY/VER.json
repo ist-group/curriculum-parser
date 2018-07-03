@@ -1,0 +1,100 @@
+{
+  "name" : "El- och verkstadsteknik",
+  "description" : "Ämnet el- och verkstadsteknik behandlar enklare installationer och elarbeten på elanläggningar samt vanligt förekommande verkstadsarbete ombord på fartyg.",
+  "code" : "VER",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet el- och verkstadsteknik ska syfta till att eleverna utvecklar kunskaper i att planera och utföra elarbete, verkstadsarbete och mekaniskt arbete ombord på fartyg.", "Den ska bidra till att eleverna utvecklar färdigheter i att hantera material, verktyg och utrustning i en verkstad.", "Eleverna ska ges möjlighet att utveckla förmåga att utifrån scheman och ritningar utföra elarbeten och verkstadsarbeten ombord på fartyg samt utveckla förmåga att använda material och utrustning på ett ansvarsfullt sätt." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som är konstruerade så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke.", "Genom praktiska övningar och ett undersökande arbetssätt tillsammans med teoretiska förklaringar ska eleverna ges möjlighet att utveckla kunskaper i ämnet." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet el- och verkstadsteknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förmåga att planera och utföra elarbete, verkstadsarbete och mekaniskt arbete ombord på fartyg.", "Förmåga att välja och använda olika maskiner, verktyg, instrument och material i arbetet.", "Förmåga att använda ritningar, scheman, standarder samt instruktioner och manualer i arbetet.", "Förmåga att arbeta miljö-, säkerhets- och kvalitetsmedvetet.", "Förmåga att använda termer och begrepp som används inom området." ]
+  } ],
+  "courses" : [ {
+    "name" : "El- och verkstadsteknik",
+    "description" : "Kursen el- och verkstadsteknik omfattar punkterna 1–5 under rubriken Ämnets syfte. ",
+    "code" : "VERVER0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Elarbete, till exempel losskoppling och anslutning av apparater, samt funktionsprovning.", "Verkstadsarbete, till exempel sammanfogning och skärande bearbetning.", "Pressverktyg för olika kontakttyper som används inom yrkesområdet.", "Handverktyg som används i verkstadsarbete.", "Enklare ritningar och måttsättning.", "Elsäkerhet för personer och egendom." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare enklare elarbete och verkstadsarbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare enklare elarbete och verkstadsarbete.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare enklare elarbete och verkstadsarbete.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare enklare elarbete och verkstadsarbete."
+        }
+      }, {
+        "text" : "I arbetet väljer eleven samt använder med <strong>________</strong> handlag den utrustning och de verktyg som är lämpliga för arbetsuppgiften i bekanta situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet väljer eleven samt använder med <strong>visst</strong> handlag den utrustning och de verktyg som är lämpliga för arbetsuppgiften i bekanta situationer.",
+          "C" : "I arbetet väljer eleven samt använder med <strong>gott</strong> handlag den utrustning och de verktyg som är lämpliga för arbetsuppgiften i bekanta <strong>och nya</strong> situationer.",
+          "A" : "I arbetet väljer eleven samt använder med <strong>mycket gott</strong> handlag den utrustning och de verktyg som är lämpliga för arbetsuppgiften i bekanta <strong>och nya</strong> situationer."
+        }
+      }, {
+        "text" : "Eleven genomför <strong>________</strong> funktionsprovning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven genomför <strong>med viss säkerhet</strong> funktionsprovning.",
+          "C" : "Eleven genomför <strong>med viss säkerhet</strong> funktionsprovning.",
+          "A" : "Eleven genomför <strong>med säkerhet</strong> funktionsprovning."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör inför arbetet en <strong>________</strong> planering utifrån de ritningar, scheman, standarder och instruktioner som är relevanta för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör inför arbetet en <strong>enkel</strong> planering utifrån de ritningar, scheman, standarder och instruktioner som är relevanta för uppgiften.",
+          "C" : "Eleven gör inför arbetet en <strong>enkel</strong> planering utifrån de ritningar, scheman, standarder och instruktioner som är relevanta för uppgiften.",
+          "A" : "Eleven gör inför arbetet en <strong>genomarbetad</strong> planering utifrån de ritningar, scheman, standarder och instruktioner som är relevanta för uppgiften."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare arbetet på ett säkert och miljömedvetet sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare arbetet på ett säkert och miljömedvetet sätt.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare arbetet på ett säkert och miljömedvetet sätt.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare arbetet på ett säkert och miljömedvetet sätt."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> termer och begrepp som är relevanta för området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> termer och begrepp som är relevanta för området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav"
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

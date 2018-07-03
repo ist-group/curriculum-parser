@@ -1,0 +1,193 @@
+{
+  "name" : "Kursplan för kommunal vuxenutbildning i svenska för invandrare",
+  "description" : "",
+  "code" : "SFI",
+  "designation" : "",
+  "skolfsId" : "2017:91",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Kommunal vuxenutbildning i svenska för invandrare är en kvalificerad språkutbildning som syftar till att ge vuxna invandrare grundläggande kunskaper i svenska språket.", "En elev med ett annat modersmål än svenska ska inom utbildningen få lära sig och utveckla ett funktionellt andraspråk.", "Utbildningen ska ge språkliga redskap för kommunikation och aktivt deltagande i vardags-, samhälls- och arbetsliv samt fortsatta studier.", "Utbildningen syftar också till att ge vuxna invandrare som saknar grundläggande läs- och skrivfärdigheter möjlighet att förvärva sådana färdigheter.", "En elev som inte är funktionellt litterat eller har ett annat skriftsystem än det latinska alfabetet ska få grundläggande läs- och skrivundervisning inom ramen för utbildningen." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Utbildningen ska rikta sig till personer som har olika erfarenheter, livssituation, kunskaper och studiemål.", "Undervisningen ska planeras och utformas tillsammans med eleven och anpassas till elevens intressen, erfarenheter, allsidiga kunskaper och långsiktiga mål." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Utbildningen ska, med utgångspunkt från individens behov, kunna kombineras med förvärvsarbete eller andra aktiviteter, till exempel arbetslivs- och samhällsorientering, validering, praktik eller annan utbildning.", "Undervisningen måste därför utformas så flexibelt som möjligt när det gäller tid, plats, innehåll och arbetsformer." ]
+  } ],
+  "courses" : [ {
+    "name" : "Kurs A",
+    "description" : "",
+    "code" : "SFIKUA9",
+    "centralContent" : [ ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven hämtar och förstår information i form av <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hämtar och förstår information i form av <strong>vanliga ord och symboler samt mycket enkla fraser</strong>.",
+          "C" : "Eleven skriver med <strong>ord, symboler och enkla fraser</strong> personliga uppgifter i några vanligt förekommande situationer.",
+          "A" : "Eleven deltar i mycket enkla, vardagliga samtal genom att använda <strong>ord, fraser och meningar</strong> samt ställa och besvara enkla frågor utifrån konkreta behov."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven läser och förstår <strong>________</strong> om något välbekant ämne.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven läser och förstår <strong>anpassade och mycket enkla texter</strong> om något välbekant ämne.",
+          "C" : "Eleven skriver på ett <strong>fungerande</strong> sätt av viktig information efter personliga behov.",
+          "A" : "Eleven väljer och använder på ett <strong>ändamålsenligt och effektivt</strong> sätt gester, frågor och andra strategier för att förstå och göra sig förstådd."
+        }
+      } ]
+    } ],
+    "point" : null,
+    "year" : null
+  }, {
+    "name" : "Kurs B",
+    "description" : "",
+    "code" : "SFIKUB9",
+    "centralContent" : [ ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven skriver enkla och <strong>________</strong> korta meddelanden, hälsningar och texter om sig själv och upplevda händelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven skriver enkla och <strong>begripliga</strong> korta meddelanden, hälsningar och texter om sig själv och upplevda händelser.",
+          "C" : "Eleven deltar i enkla samtal om välbekanta ämnen genom att framföra och reagera på påståenden, åsikter och önskemål samt ställa och besvara frågor på ett sätt som upprätthåller samtalet <strong>relativt väl</strong>.",
+          "A" : "Eleven deltar i enkla samtal om välbekanta ämnen genom att framföra och reagera på påståenden, åsikter och önskemål samt ställa och besvara frågor på ett sätt som upprätthåller samtalet <strong>väl</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven skapar <strong>________</strong> sammanhang i sina texter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven skapar <strong>i huvudsak fungerande</strong> sammanhang i sina texter.",
+          "C" : "",
+          "A" : ""
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven väljer och använder på ett <strong>________</strong> sätt några strategier för skrivande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven väljer och använder på ett <strong>i huvudsak fungerande</strong> sätt några strategier för skrivande.",
+          "C" : "Eleven väljer och använder på ett <strong>ändamålsenligt</strong> sätt strategier för att förstå och göra sig förstådd.",
+          "A" : "Eleven väljer och använder på ett <strong>ändamålsenligt och effektivt</strong> sätt strategier för att förstå och göra sig förstådd."
+        }
+      } ]
+    } ],
+    "point" : null,
+    "year" : null
+  }, {
+    "name" : "Kurs C",
+    "description" : "",
+    "code" : "SFIKUC9",
+    "centralContent" : [ ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven läser korta berättande och beskrivande texter om bekanta ämnen och visar sin förståelse genom att göra enkla sammanfattningar av <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven läser korta berättande och beskrivande texter om bekanta ämnen och visar sin förståelse genom att göra enkla sammanfattningar av <strong>huvudinnehållet</strong>.",
+          "C" : "Eleven deltar i enkla samtal och diskussioner om bekanta ämnen genom att framföra och efterfråga åsikter, tankar och information på ett sätt som <strong>för</strong> samtalen och diskussionerna <strong>framåt</strong>.",
+          "A" : "Eleven skriver sammanhängande och <strong>tydliga</strong> texter om erfarenheter, intryck och åsikter samt faktaorienterade texter om bekanta ämnen. Eleven skapar <strong>väl fungerande</strong> struktur i sina texter och visar prov på <strong>god variation</strong> i ordförråd och meningsbyggnad."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven hämtar specifik information i enkla faktaorienterade texter, tabeller och diagram och för <strong>________</strong> resonemang om informationen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hämtar specifik information i enkla faktaorienterade texter, tabeller och diagram och för <strong>enkla</strong> resonemang om informationen.",
+          "C" : "Eleven väljer och använder på ett <strong>ändamålsenligt</strong> sätt strategier som underlättar interaktionen.",
+          "A" : "Eleven väljer och använder på ett <strong>ändamålsenligt och effektivt</strong> sätt olika strategier för skrivande."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven visar sin förståelse för korta, tydliga instruktioner och föreskrifter genom att på ett <strong>________</strong> sätt agera utifrån dem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven visar sin förståelse för korta, tydliga instruktioner och föreskrifter genom att på ett <strong>i huvudsak fungerande</strong> sätt agera utifrån dem.",
+          "C" : "",
+          "A" : ""
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven väljer och använder på ett <strong>________</strong> sätt olika lässtrategier utifrån syftet med läsningen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven väljer och använder på ett <strong>i huvudsak fungerande</strong> sätt olika lässtrategier utifrån syftet med läsningen.",
+          "C" : "",
+          "A" : ""
+        }
+      } ]
+    } ],
+    "point" : null,
+    "year" : null
+  }, {
+    "name" : "Kurs D",
+    "description" : "",
+    "code" : "SFIKUD9",
+    "centralContent" : [ ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven skriver med <strong>________</strong> beskrivande, redogörande och argumenterande texter om bekanta ämnen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven skriver med <strong>visst flyt</strong> beskrivande, redogörande och argumenterande texter om bekanta ämnen.",
+          "C" : "Eleven deltar i samtal och diskussioner om bekanta ämnen genom att uttrycka och bemöta åsikter med <strong>utvecklade</strong> argument samt framföra och efterfråga tankar och information på ett sätt som <strong>för</strong> samtalen och diskussionerna <strong>framåt</strong>.",
+          "A" : "Eleven deltar i samtal och diskussioner om bekanta ämnen genom att uttrycka och bemöta åsikter med <strong>välutvecklade</strong> argument samt framföra och efterfråga tankar och information på ett sätt som <strong>för</strong> samtalen och diskussionerna <strong>framåt och fördjupar eller breddar dem</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven skapar <strong>________</strong> struktur i sina texter och visar <strong>________</strong> i ordförråd och meningsbyggnad.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven skapar <strong>i huvudsak fungerande</strong> struktur i sina texter och visar <strong>viss variation</strong> i ordförråd och meningsbyggnad.",
+          "C" : "Eleven väljer och använder på ett <strong>ändamålsenligt</strong> sätt strategier som löser problem i interaktionen.",
+          "A" : "Eleven väljer och använder på ett <strong>ändamålsenligt och effektivt</strong> sätt strategier som löser problem i interaktionen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder med <strong>________</strong> enkla och mer avancerade grammatiska strukturer i sina texter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder med <strong>viss säkerhet</strong> enkla och mer avancerade grammatiska strukturer i sina texter.",
+          "C" : "",
+          "A" : ""
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven för och sammanställer på ett <strong>________</strong> sätt anteckningar för eget skrivande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven för och sammanställer på ett <strong>i huvudsak fungerande</strong> sätt anteckningar för eget skrivande.",
+          "C" : "",
+          "A" : ""
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven väljer och använder på ett <strong>________</strong> sätt olika strategier för skrivande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven väljer och använder på ett <strong>i huvudsak fungerande</strong> sätt olika strategier för skrivande.",
+          "C" : "",
+          "A" : ""
+        }
+      } ]
+    } ],
+    "point" : null,
+    "year" : null
+  } ]
+}

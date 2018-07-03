@@ -1,0 +1,514 @@
+{
+  "name" : "Snöfordonsteknik",
+  "description" : "Ämnet snöfordonsteknik behandlar funktion hos samt handhavande och framförande av snöfordon. Det behandlar också tillsyn, felsökning, service och reparation av snöfordon. Ämnet behandlar vidare olika användningsområden för snöfordon.",
+  "code" : "SNO",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet snöfordonsteknik ska syfta till att eleverna utvecklar förmåga att framföra samt att genomföra diagnos, service, underhåll och reparationer av snöfordon.", "Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om de system och komponenter som förekommer i snöfordon samt förståelse av hur dessa samverkar.", "Undervisningen ska leda till att eleverna utvecklar tekniskt kunnande inom området snöfordon samt förmåga att använda teknik på ett korrekt sätt i ett givet sammanhang.", "Undervisningen ska ge eleverna möjlighet att utveckla förmåga att arbeta med problemlösning såväl självständigt som tillsammans med andra." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att stimulera elevernas intresse för snöfordon, deras utrustning och teknik.", "Undervisningen ska även leda till att eleverna utvecklar förmåga att hantera och framföra olika typer av snöfordon.", "Genom undervisningen ska eleverna även ges möjlighet att utveckla en yrkesidentitet och förmåga att använda ett yrkesmässigt språk." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke.", "Dessa arbetsuppgifter ska utgå från ett problemlösande och laborativt arbetssätt." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet snöfordonsteknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om snöfordon samt om deras utrustning och användningsområden.", "Kunskaper om snöfordons komponenter och system, samt förståelse av hur de samverkar.", "Förmåga att utföra diagnos, service, underhåll och reparation av snöfordon.", "Förmåga att utföra funktions- och säkerhetskontroll.", "Förmåga att välja och använda arbetsmetoder och utrustning.", "Förmåga att utföra olika typer av arbeten på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten.", "Förmåga att köra och manövrera pistmaskin i skiftande skidområden med rätt nyttjande av pistmaskinens kapacitet.", "Förmåga att använda såväl svenska som engelska manualer samt digitala informationssystem.", "Förmåga att använda ett yrkesmässigt språk." ]
+  } ],
+  "courses" : [ {
+    "name" : "Pistmaskiner och utrustning",
+    "description" : "Kursen pistmaskiner och utrustning omfattar punkterna 1–6 och 8 under rubriken Ämnets syfte.",
+    "code" : "SNOPIM0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Funktion hos och konstruktion av bromssystem.", "Funktion hos och konstruktion av elsystem.", "Funktion hos och konstruktion av hydraulsystem.", "Funktion hos och konstruktion av drivlina och kringutrustning.", "Funktion hos och konstruktion av styrsystem.", "Funktion hos och konstruktion av schakt- och fräsaggregat.", "Funktion hos och konstruktion av pendlande axlar.", "Funktion hos och konstruktion av olika servosystem, till exempel proportional och on-off.", "Funktion hos och konstruktion av pistmaskiners utrustning, till exempel vinsch, snöslunga och parkutrustning.", "Funktion hos och konstruktion av kraftuttagsdrivna maskiner.", "Metoder och bestämmelser för reparation av pistmaskiner och utrustning.", "Demontering, montering och justering av komponenter i samband med reparationsarbeten.", "Reparationsarbeten, kostnadseffektivt arbetssätt och kundvänlig behandling vid arbete med pistmaskiner och utrustning.", "Användning av branschrelaterad diagnosutrustning i samband med arbetsmoment.", "Rengöring och vård samt kontroll och reparation av verktyg och verkstadsutrustning.", "Arbetsinstruktioner, servicelitteratur och informationsmaterial om reservdelshantering på svenska och engelska, inklusive information i datormiljö.", "Administrativa funktioner, kommunikationssystem, garantier samt dialog för felsökning och reparation, inklusive information i datormiljö.", "Yrkesmässig dokumentation av reparationsarbeten." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven ger <strong>________</strong> exempel på och beskriver <strong>________</strong> funktionsprinciper för och konstruktioner av pistmaskiner och monterad utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven ger <strong>några</strong> exempel på och beskriver <strong>översiktligt</strong> funktionsprinciper för och konstruktioner av pistmaskiner och monterad utrustning.",
+          "C" : "Eleven ger <strong>flera</strong> exempel på och beskriver <strong>utförligt</strong> funktionsprinciper för och konstruktioner av pistmaskiner och monterad utrustning.",
+          "A" : "Eleven ger <strong>flera</strong> exempel på och beskriver <strong>utförligt och nyanserat</strong> funktionsprinciper för och konstruktioner av pistmaskiner och monterad utrustning."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> funktion hos och konstruktion av pistmaskiners olika komponenter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> funktion hos och konstruktion av pistmaskiners olika komponenter.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> funktion hos och konstruktion av pistmaskiners olika komponenter.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> funktion hos och konstruktion av pistmaskiners olika komponenter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför, <strong>________</strong> med handledare och i bekanta situationer, besiktning och <strong>________</strong> reparationer samt byten av komponenter på pistmaskiner och monterad utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför, <strong>i samråd</strong> med handledare och i bekanta situationer, besiktning och <strong>enkla</strong> reparationer samt byten av komponenter på pistmaskiner och monterad utrustning.",
+          "C" : "Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer, besiktning och reparationer samt byten av komponenter på pistmaskiner och monterad utrustning.",
+          "A" : "Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer, besiktning och <strong>avancerade</strong> reparationer samt byten av komponenter på pistmaskiner och monterad utrustning."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+          "C" : "I arbetet <strong>väljer och</strong> använder eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+          "A" : "I arbetet <strong>väljer och</strong> använder eleven <strong>med säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> svenska och engelska manualer samt digitala informationssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> svenska och engelska manualer samt digitala informationssystem."
+        }
+      }, {
+        "text" : "I kommunikation med andra använder eleven <strong>________</strong> tekniska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "C" : "I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "A" : "I kommunikation med andra använder eleven <strong>med säkerhet</strong> tekniska begrepp."
+        }
+      }, {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning."
+        }
+      }, {
+        "text" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+          "C" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+          "A" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Pistmaskinkörning",
+    "description" : "Kursen pistmaskinkörning omfattar punkterna 1–2, 4–5 och 7–8 under rubriken Ämnets syfte.",
+    "code" : "SNOPIS0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika typer av snöfordon, deras utrustning och användningsområden.", "Funktions- och säkerhetskontroll samt vård och underhåll av pistmaskin och utrustning.", "Användning av olika informationssystem för färdplanering och vägval samt planering av körtider.", "Körning och manövrering av pistmaskin i skiftande prepareringsområden med rätt nyttjande av pistmaskinens kapacitet.", "Val av inställningar och motorvarvtal samt användning av övriga tekniska funktioner för ökad framkomlighet i olika terrängförhållanden och väderlek.", "Avancerad körteknik och köruppträdande med hög säkerhetsnivå i prepareringsområden.", "Användning av mobil kommunikationsutrustning under färd.", "Ergonomi i förarmiljön." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> några användningsområden för olika pistmaskiner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> några användningsområden för olika pistmaskiner.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> några användningsområden för olika pistmaskiner.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> några användningsområden för olika pistmaskiner."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> några pistningstekniker som kräver extra planering före genomförande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> några pistningstekniker som kräver extra planering före genomförande.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> några pistningstekniker som kräver extra planering före genomförande.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> några pistningstekniker som kräver extra planering före genomförande."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare <strong>________</strong> pistning i bekanta prepareringsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare <strong>enkel</strong> pistning i bekanta prepareringsområden.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare pistning i bekanta <strong>och delvis nya</strong> prepareringsområden.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare <strong>avancerad</strong> pistning i bekanta <strong>och nya</strong> prepareringsområden."
+        }
+      }, {
+        "text" : "I planeringen väljer eleven <strong>________</strong> arbetsmetod, utrustning och tillvägagångssätt inför uppdraget samt utför i bekanta situationer funktionstillsyn och säkerhetskontroll.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen väljer eleven <strong>med viss säkerhet</strong> arbetsmetod, utrustning och tillvägagångssätt inför uppdraget samt utför i bekanta situationer funktionstillsyn och säkerhetskontroll.",
+          "C" : "I planeringen väljer eleven <strong>med viss säkerhet</strong> arbetsmetod, utrustning och tillvägagångssätt inför uppdraget samt utför i bekanta situationer funktionstillsyn och säkerhetskontroll.",
+          "A" : "I planeringen väljer eleven <strong>med säkerhet</strong> arbetsmetod, utrustning och tillvägagångssätt inför uppdraget samt utför i bekanta <strong>och nya</strong> situationer funktionstillsyn och säkerhetskontroll."
+        }
+      }, {
+        "text" : "Eleven färdigställer och förbereder i bekanta situationer pistmaskinen med utrustning för genomförandet av arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven färdigställer och förbereder i bekanta situationer pistmaskinen med utrustning för genomförandet av arbetet.",
+          "C" : "Eleven färdigställer och förbereder i bekanta situationer pistmaskinen med utrustning för genomförandet av arbetet.",
+          "A" : "Eleven färdigställer och förbereder i bekanta <strong>och nya</strong> situationer pistmaskinen med utrustning för genomförandet av arbetet."
+        }
+      }, {
+        "text" : "Dessutom planerar eleven <strong>________</strong> med handledare färdväg utifrån pistmaskinens kapacitet och anläggningens förutsättningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom planerar eleven <strong>i samråd</strong> med handledare färdväg utifrån pistmaskinens kapacitet och anläggningens förutsättningar.",
+          "C" : "Dessutom planerar eleven <strong>efter samråd</strong> med handledare färdväg utifrån pistmaskinens kapacitet och anläggningens förutsättningar.",
+          "A" : "Dessutom planerar eleven <strong>efter samråd</strong> med handledare färdväg utifrån pistmaskinens kapacitet och anläggningens förutsättningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven genomför <strong>________</strong> med handledare pistning i bekanta prepareringsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven genomför <strong>i samråd</strong> med handledare pistning i bekanta prepareringsområden.",
+          "C" : "Eleven genomför <strong>efter samråd</strong> med handledare pistning i bekanta <strong>och delvis nya</strong> prepareringsområden.",
+          "A" : "Eleven genomför <strong>efter samråd</strong> med handledare <strong>avancerad</strong> pistning i bekanta <strong>och nya</strong> prepareringsområden."
+        }
+      }, {
+        "text" : "I pistningen följer eleven de yrkesmässiga kvalitetskrav som styr arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I pistningen följer eleven de yrkesmässiga kvalitetskrav som styr arbetet.",
+          "C" : "I pistningen följer eleven de yrkesmässiga kvalitetskrav som styr arbetet.",
+          "A" : "I pistningen följer eleven de yrkesmässiga kvalitetskrav som styr arbetet."
+        }
+      }, {
+        "text" : "Eleven tar ansvar för anläggningens egendom samt för pistmaskin och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för anläggningens egendom samt för pistmaskin och utrustning.",
+          "C" : "Eleven tar ansvar för anläggningens egendom samt för pistmaskin och utrustning.",
+          "A" : "Eleven tar ansvar för anläggningens egendom samt för pistmaskin och utrustning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>________</strong> med medarbetare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet</strong> med medarbetare.",
+          "C" : "Eleven samarbetar <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet</strong> med medarbetare.",
+          "A" : "Eleven samarbetar <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med säkerhet</strong> med medarbetare."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Reparation av snöfordon",
+    "description" : "Kursen reparation av snöfordon omfattar punkterna 1–6 och 8 under rubriken Ämnets syfte.",
+    "code" : "SNOREP0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Elsystemets konstruktion och funktion samt dess huvudkomponenter inklusive schemasymboler, till exempel ISO, SIS och DIN.", "Bromssystemets konstruktion och funktion samt dess huvudkomponenter.", "Drivlinans konstruktion och funktion samt dess huvudkomponenter.", "Ramars, chassiers, axlars och fjädringssystems konstruktion och funktion samt deras huvudkomponenter.", "Styrsystems konstruktion och funktion samt deras huvudkomponenter.", "Demontering, montering och justering av komponenter i samband med service och reparationsarbeten.", "Svetsning av icke bärande konstruktioner.", "Underhåll, reparationsarbete samt kostnadseffektivt arbetssätt och kundvänlig behandling vid arbete med snöfordon.", "Lyft och transporter av tunga komponenter.", "Användning av branschrelaterad diagnosutrustning.", "Användning av branschrelaterad verkstadsutrustning.", "Rengöring och vård samt kontroll och reparation av verktyg och verkstadsutrustning.", "Bestämmelser om hur man får förändra egenskaper som påverkar handhavande och säkerhet.", "Bestämmelser och anvisningar om sammanfogningstekniker för snöfordon.", "Arbetsinstruktioner, servicelitteratur och informationsmaterial om reservdelshantering på svenska och engelska, inklusive information i datormiljö.", "Administrativa funktioner, kommunikationssystem, garantier samt dialog för felsökning och reparation, inklusive information i datormiljö.", "Yrkesmässig dokumentation av service och reparationsarbeten." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven ger <strong>________</strong> exempel på och beskriver <strong>________</strong> funktionsprinciper för och konstruktioner av snöfordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven ger <strong>några</strong> exempel på och beskriver <strong>översiktligt</strong> funktionsprinciper för och konstruktioner av snöfordon.",
+          "C" : "Eleven ger <strong>flera</strong> exempel på och beskriver <strong>utförligt</strong> funktionsprinciper för och konstruktioner av snöfordon.",
+          "A" : "Eleven ger <strong>flera</strong> exempel på och beskriver <strong>utförligt och nyanserat</strong> funktionsprinciper för och konstruktioner av snöfordon."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> funktion hos och konstruktion av snöfordons olika komponenter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> funktion hos och konstruktion av snöfordons olika komponenter.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> funktion hos och konstruktion av snöfordons olika komponenter.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> funktion hos och konstruktion av snöfordons olika komponenter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför, <strong>________</strong> med handledare och i bekanta situationer, <strong>________</strong> diagnos, service och reparation samt <strong>________</strong> underhåll på snöfordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför, <strong>i samråd</strong> med handledare och i bekanta situationer, <strong>enkel</strong> diagnos, service och reparation samt <strong>enkelt</strong> underhåll på snöfordon.",
+          "C" : "Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer, diagnos, service och reparation samt underhåll på snöfordon.",
+          "A" : "Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer, <strong>avancerad</strong> diagnos, service och reparation samt <strong>avancerat</strong> underhåll på snöfordon."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare och i bekanta situationer byten av komponenter, detaljer och kringutrustning på snöfordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare och i bekanta situationer byten av komponenter, detaljer och kringutrustning på snöfordon.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer byten av komponenter, detaljer och kringutrustning på snöfordon.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer byten av komponenter, detaljer och kringutrustning på snöfordon."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+          "C" : "I arbetet <strong>väljer och</strong> använder eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+          "A" : "I arbetet <strong>väljer och</strong> använder eleven <strong>med säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> svenska och engelska manualer samt digitala informationssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> svenska och engelska manualer samt digitala informationssystem."
+        }
+      }, {
+        "text" : "I kommunikation med andra använder eleven <strong>________</strong> tekniska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "C" : "I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "A" : "I kommunikation med andra använder eleven <strong>med säkerhet</strong> tekniska begrepp."
+        }
+      }, {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning."
+        }
+      }, {
+        "text" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+          "C" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+          "A" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 300,
+    "year" : null
+  }, {
+    "name" : "Reparation av snöskoter",
+    "description" : "Kursen reparation av snöskoter omfattar punkterna 1–6 och 8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "SNOREE0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Funktion hos och konstruktion av ottomotor i snöskoter samt motorns inre komponenter, detaljer och kringutrustning.", "Funktion hos och konstruktion av tvåtaktsmotor i snöskoter samt motorns inre komponenter, detaljer och kringutrustning.", "Alternativa bränslen.", "Funktion hos och konstruktion av manuella växellådor samt deras inre komponenter och kringutrustning.", "Funktion hos och konstruktion av variatorer samt deras komponenter och övrig utrustning.", "Funktion hos och konstruktion av kraftöverföring samt dess komponenter, detaljer och övrig utrustning.", "Funktion hos och konstruktion av framvagn, styrning och fjädring.", "Metoder för diagnos, service, underhåll, funktions- och säkerhetskontroll samt reparation av motor och kraftöverföring.", "Demontering, montering och justering av komponenter i samband med reparationsarbeten.", "Arbetsinstruktioner, servicelitteratur och informationsmaterial om reservdelshantering på svenska och engelska, inklusive information i datormiljö." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven ger <strong>________</strong> exempel på och beskriver <strong>________</strong> funktionsprinciper för och konstruktioner av motor, kraftöverföring, framvagn, styrning och fjädring i snöskotrar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven ger <strong>några</strong> exempel på och beskriver <strong>översiktligt</strong> funktionsprinciper för och konstruktioner av motor, kraftöverföring, framvagn, styrning och fjädring i snöskotrar.",
+          "C" : "Eleven ger <strong>flera</strong> exempel på och beskriver <strong>utförligt</strong> funktionsprinciper för och konstruktioner av motor, kraftöverföring, framvagn, styrning och fjädring i snöskotrar.",
+          "A" : "Eleven ger <strong>flera</strong> exempel på och beskriver <strong>utförligt och nyanserat</strong> funktionsprinciper för och konstruktioner av motor, kraftöverföring, framvagn, styrning och fjädring i snöskotrar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför, <strong>________</strong> med handledare och i bekanta situationer, <strong>________</strong> diagnos, service och reparation samt <strong>________</strong> underhåll av motor, kraftöverföring, framvagn, styrning och fjädring i snöskotrar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför, <strong>i samråd</strong> med handledare och i bekanta situationer, <strong>enkel</strong> diagnos, service och reparation samt <strong>enkelt</strong> underhåll av motor, kraftöverföring, framvagn, styrning och fjädring i snöskotrar.",
+          "C" : "Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer, diagnos, service och reparation samt underhåll av motor, kraftöverföring, framvagn, styrning och fjädring i snöskotrar.",
+          "A" : "Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer, <strong>avancerad</strong> diagnos, service och reparation samt <strong>avancerat</strong> underhåll av motor, kraftöverföring, framvagn, styrning och fjädring i snöskotrar."
+        }
+      }, {
+        "text" : "Dessutom utför eleven, <strong>________</strong> med handledare och i bekanta situationer, byten av komponenter, detaljer och kringutrustning, samt utför funktions- och säkerhetskontroll av motor, kraftöverföring, framvagn, styrning och fjädring i snöskotrar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven, <strong>i samråd</strong> med handledare och i bekanta situationer, byten av komponenter, detaljer och kringutrustning, samt utför funktions- och säkerhetskontroll av motor, kraftöverföring, framvagn, styrning och fjädring i snöskotrar.",
+          "C" : "Dessutom utför eleven, <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer, byten av komponenter, detaljer och kringutrustning, samt utför funktions- och säkerhetskontroll av motor, kraftöverföring, framvagn, styrning och fjädring i snöskotrar.",
+          "A" : "Dessutom utför eleven, <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer, byten av komponenter, detaljer och kringutrustning, samt utför funktions- och säkerhetskontroll av motor, kraftöverföring, framvagn, styrning och fjädring i snöskotrar."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+          "C" : "I arbetet <strong>väljer och</strong> använder eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+          "A" : "I arbetet <strong>väljer och</strong> använder eleven <strong>med säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> svenska och engelska manualer samt digitala informationssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> svenska och engelska manualer samt digitala informationssystem."
+        }
+      }, {
+        "text" : "I kommunikation med andra använder eleven <strong>________</strong> tekniska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "C" : "I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "A" : "I kommunikation med andra använder eleven <strong>med säkerhet</strong> tekniska begrepp."
+        }
+      }, {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning."
+        }
+      }, {
+        "text" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+          "C" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+          "A" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Snöfordon – introduktion",
+    "description" : "Kursen snöfordon – introduktion omfattar punkterna 1–6 och 8 under rubriken Ämnets syfte.",
+    "code" : "SNOSNO0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Konstruktionsprinciper för snöfordon.", "Funktionsprinciper för fordons system och deras huvudkomponenter samt hur komponenter och system samverkar med varandra.", "Konsekvenser av eftersatt underhåll, beträffande ekonomi, miljö och driftstörningar.", "Faktorer som påverkar kostnader för drift och underhåll.", "Felsökning, underhåll och reparation i samband med funktions- och säkerhetskontroll.", "Funktions- och säkerhetskontroll.", "Regler för handhavande, vård och tillsyn av snöfordon och tillbehör.", "Begrepp i samband med teknisk information om handhavande, kontroll och vård av snöfordon och tillbehör." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven ger <strong>________</strong> exempel på och beskriver <strong>________</strong> olika användningsområden och egenskaper hos snöfordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven ger <strong>några</strong> exempel på och beskriver <strong>översiktligt</strong> olika användningsområden och egenskaper hos snöfordon.",
+          "C" : "Eleven ger <strong>flera</strong> exempel på och beskriver <strong>utförligt</strong> olika användningsområden och egenskaper hos snöfordon.",
+          "A" : "Eleven ger <strong>flera</strong> exempel på och beskriver <strong>utförligt och nyanserat</strong> olika användningsområden och egenskaper hos snöfordon."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> snöfordons system och deras huvudkomponenter samt hur komponenter och system samverkar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> snöfordons system och deras huvudkomponenter samt hur komponenter och system samverkar.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> snöfordons system och deras huvudkomponenter samt hur komponenter och system samverkar.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> snöfordons system och deras huvudkomponenter samt hur komponenter och system samverkar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför, <strong>________</strong> med handledare och i bekanta situationer, <strong>________</strong> service och reparation samt funktions- och säkerhetskontroll av snöforfordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför, <strong>i samråd</strong> med handledare och i bekanta situationer, <strong>enkel</strong> service och reparation samt funktions- och säkerhetskontroll av snöforfordon.",
+          "C" : "Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer, service och reparation samt funktions- och säkerhetskontroll av snöfordon.",
+          "A" : "Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer, <strong>avancerad</strong> service och reparation samt funktions- och säkerhetskontroll av snöfordon."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+          "C" : "I arbetet <strong>väljer och</strong> använder eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.",
+          "A" : "I arbetet <strong>väljer och</strong> använder eleven <strong>med säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> svenska och engelska manualer samt digitala informationssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> svenska och engelska manualer samt digitala informationssystem."
+        }
+      }, {
+        "text" : "I kommunikation med andra använder eleven <strong>________</strong> tekniska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "C" : "I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "A" : "I kommunikation med andra använder eleven <strong>med säkerhet</strong> tekniska begrepp."
+        }
+      }, {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning."
+        }
+      }, {
+        "text" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+          "C" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+          "A" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  } ]
+}

@@ -1,0 +1,76 @@
+{
+  "name" : "Tillämpad programmering",
+  "description" : "Ämnet tillämpad programmering möjliggör en inom- och tvärvetenskaplig fördjupning inom ett valt kunskapsområde. Ämnet ger möjlighet att anlägga ett datavetenskapligt perspektiv på ett valt område. Tillämpad programmering kan omfatta många olika akademiska discipliner, till exempel programutveckling, programspråk, algoritmer och systemutveckling samt kan vara kopplad till olika tillämpningsområden som ekonomiska, humanistiska, konstnärliga, kreativa, medicinska, naturvetenskapliga, pedagogiska, samhällsvetenskapliga eller tekniska.",
+  "code" : "TIP",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet tillämpad programmering ska syfta till att eleverna breddar eller fördjupar sina kunskaper och färdigheter inom programmering tillämpat på ett valt kunskapsområde.", "Eleverna ska ges möjlighet att fördjupa ett vetenskapligt och professionellt förhållningssätt.", "Undervisningen ska också leda till att eleverna utvecklar förmåga att använda relevanta begrepp, teorier, modeller och metoder i syfte att behandla frågeställningar inom det valda kunskapsområdet.", "Dessutom ska undervisningen bidra till att eleverna utvecklar nyfikenhet för programmering, ett datavetenskapligt perspektiv på vår omvärld och en förståelse av dess betydelse i samhället." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska leda till att aktuell och relevant praxis, forskning och elevernas egna erfarenheter tas till vara.", "Dessutom ska undervisningen ge eleverna möjlighet att relatera de breddade eller fördjupade kunskaperna inom programmering till valt kunskapsområde samt bidra till att eleverna utvecklar förmåga att omsätta kunskaperna i handling." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet tillämpad programmering ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om relevanta begrepp, modeller, teorier och arbetsmetoder.", "Kunskaper om utvecklingsprocessen inom programmeringsområden och förståelse av sambanden mellan processens olika delar.", "Förmåga att identifiera, formulera och lösa problem genom att tillämpa programmering på det valda kunskapsområdet samt förmåga att reflektera över och värdera valda strategier, metoder och resultat.", "Förmåga att analysera konsekvenserna av programmeringens betydelse för individ, samhälle och teknisk utveckling utifrån hållbarhet, etik och genus." ]
+  } ],
+  "courses" : [ {
+    "name" : "Tillämpad programmering",
+    "description" : "Kursen tillämpad programmering omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom valt kunskapsområde.",
+    "code" : "TIPTIL0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Begrepp, teorier, modeller och metoder inom programmering.", "Förmåga att lösa problem i en datavetenskaplig kontext.", "Tillämpningar inom valt kunskapsområde, till exempel industriell programmering, spelprogrammering, utveckling av administrativa system eller pedagogiska program, applikationsutveckling eller som hjälpmedel för att skapa eller bearbeta bild, ljud och film.", "Hur tillämpad programmering kan användas som verktyg i behandlingen av omfångsrika problemsituationer. Programmeringens möjligheter och begränsningar i dessa situationer.", "Konsekvenser av tillämpad programmering för det valda kunskapsområdet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I sitt arbete använder eleven <strong>________</strong> grundläggande datavetenskapliga begrepp, teorier och modeller inom valt kunskapsområde.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt arbete använder eleven <strong>med viss säkerhet</strong> grundläggande datavetenskapliga begrepp, teorier och modeller inom valt kunskapsområde.",
+          "C" : "I sitt arbete använder eleven <strong>med viss säkerhet</strong> grundläggande datavetenskapliga begrepp, teorier och modeller inom valt kunskapsområde.",
+          "A" : "I sitt arbete använder eleven <strong>med säkerhet</strong> grundläggande datavetenskapliga begrepp, teorier och modeller inom valt kunskapsområde."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven identifierar och formulerar <strong>________</strong> med handledare ett <strong>________</strong> problem inom valt kunskapsområde.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven identifierar och formulerar <strong>i samråd</strong> med handledare ett <strong>enkelt</strong> problem inom valt kunskapsområde.",
+          "C" : "Eleven identifierar och formulerar <strong>efter samråd</strong> med handledare ett problem inom valt kunskapsområde.",
+          "A" : "Eleven identifierar och formulerar <strong>efter samråd</strong> med handledare ett <strong>avancerat</strong> problem inom valt kunskapsområde."
+        }
+      }, {
+        "text" : "Eleven väljer och använder <strong>________</strong> med handledare lämpliga algoritmer och lösningsmetoder samt dokumenterar arbetet och resultatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven väljer och använder <strong>i samråd</strong> med handledare lämpliga algoritmer och lösningsmetoder samt dokumenterar arbetet och resultatet.",
+          "C" : "Eleven väljer och använder <strong>efter samråd</strong> med handledare lämpliga algoritmer och lösningsmetoder samt dokumenterar arbetet och resultatet.",
+          "A" : "Eleven väljer och använder <strong>efter samråd</strong> med handledare lämpliga algoritmer och lösningsmetoder samt dokumenterar arbetet och resultatet."
+        }
+      }, {
+        "text" : "Dessutom löser eleven med hjälp av programmering problemet inom valt område med ett <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom löser eleven med hjälp av programmering problemet inom valt område med ett <strong>tillfredsställande</strong> resultat.",
+          "C" : "Dessutom löser eleven med hjälp av programmering problemet inom valt område med ett <strong>tillfredsställande</strong> resultat.",
+          "A" : "Dessutom löser eleven med hjälp av programmering problemet inom valt område med ett <strong>gott</strong> resultat."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven för ett <strong>________</strong> resonemang utifrån en analys av tillämpningens konsekvenser för sitt valda kunskapsområde.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven för ett <strong>enkelt</strong> resonemang utifrån en analys av tillämpningens konsekvenser för sitt valda kunskapsområde.",
+          "C" : "Eleven för ett <strong>välgrundat</strong> resonemang utifrån en analys av tillämpningens konsekvenser för sitt valda kunskapsområde.",
+          "A" : "Eleven för ett <strong>välgrundat och nyanserat</strong> resonemang utifrån en analys av tillämpningens konsekvenser för sitt valda kunskapsområde."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

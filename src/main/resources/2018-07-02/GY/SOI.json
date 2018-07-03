@@ -1,0 +1,246 @@
+{
+  "name" : "Sociologi",
+  "description" : "Ämnet sociologi behandlar sociala sammanhang och relationen mellan människan och samhället på individ-, grupp- och samhällsnivå.",
+  "code" : "SOI",
+  "designation" : "",
+  "skolfsId" : "2010:143",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet sociologi ska syfta till att eleverna utvecklar kunskaper om olika samhällsförhållanden och om hur människor formas av och skapar samhällen, kulturer och identiteter.", "Eleverna ska också ges möjlighet att utveckla kunskaper om olika teorier som finns om detta.", "Undervisningen ska även leda till att eleverna utvecklar kunskaper om människors handlingar, sociala relationer och sociala processer med utgångspunkt i såväl samhällsförändringar som människors möten i vardagen." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom undervisningen ska eleverna ges möjlighet att utveckla ett kritiskt förhållningssätt, vilket omfattar förmåga att söka, strukturera, värdera och använda information från olika källor och dra slutsatser utifrån det.", "Det innebär också att reflektera över och diskutera ämnesinnehållet samt egna och andras handlingar och attityder." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att använda metoder för insamling av information, till exempel intervjuer, enkäter och observationer.", "De ska också få använda metoder för bearbetning av information, till exempel statistik och textanalyser.", "Genom fältstudier ska eleverna ges möjlighet att få inblick i sociala sammanhang och i människors olika levnadsmiljöer." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet sociologi ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om hur människor och samhället formar varandra, utifrån olika teorier och teoretiska perspektiv.", "Förmåga att använda sociologiska begrepp, teorier och modeller.", "Färdigheter i att kritiskt samla in, bearbeta och använda information från olika källor och förmåga att använda olika metoder för att samla in och bearbeta information.", "Förmåga att diskutera samhällets, egna och andras attityder samt diskutera handlingar och värdera olika ståndpunkter.", "Förmåga att problematisera kulturmöten och sociala processer på individ-, grupp- och samhällsnivå." ]
+  } ],
+  "courses" : [ {
+    "name" : "Etnicitet och kulturmöten",
+    "description" : "Kursen etnicitet och kulturmöten omfattar punkterna 1–5 under rubriken Ämnets syfte.",
+    "code" : "SOIETN0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Svenska kulturer och kulturmöten i ett globaliserat och mångkulturellt samhälle.", "Innebörden i begreppen kultur, etnicitet, nationalitet och religion.", "Migration, dess bakgrund och konsekvenser för människors levnadsförhållanden och delaktighet i samhället.", "Politiska beslut och ställningstaganden i samband med migration.", "Kritisk bearbetning av information från olika källor.", "Aktuella företeelser i dagens mångkulturella samhälle och svensk samhällsdebatt om integrations- och segregationsfrågor." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> olika kulturer och kulturmöten i ett mångkulturellt samhälle.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> olika kulturer och kulturmöten i ett mångkulturellt samhälle.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> olika kulturer och kulturmöten i ett mångkulturellt samhälle.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> olika kulturer och kulturmöten i ett mångkulturellt samhälle."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för faktorer som påverkar människors villkor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för faktorer som påverkar människors villkor.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för faktorer som påverkar människors villkor.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för faktorer som påverkar människors villkor."
+        }
+      }, {
+        "text" : "Eleven redogör även <strong>________</strong> för migrationen, dess bakgrund och konsekvenser samt för politiska beslut och ställningstaganden i samband med migration.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör även <strong>översiktligt</strong> för migrationen, dess bakgrund och konsekvenser samt för politiska beslut och ställningstaganden i samband med migration.",
+          "C" : "Eleven redogör även <strong>utförligt</strong> för migrationen, dess bakgrund och konsekvenser samt för politiska beslut och ställningstaganden i samband med migration.",
+          "A" : "Eleven redogör även <strong>utförligt och nyanserat</strong> för migrationen, dess bakgrund och konsekvenser samt för politiska beslut och ställningstaganden i samband med migration."
+        }
+      }, {
+        "text" : "I beskrivningar och redogörelser använder eleven <strong>________</strong> centrala begrepp och teorier samt förklarar <strong>________</strong> samband och drar <strong>________</strong> slutsatser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningar och redogörelser använder eleven <strong>med viss säkerhet</strong> centrala begrepp och teorier samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.",
+          "C" : "I beskrivningar och redogörelser använder eleven <strong>med viss säkerhet</strong> centrala begrepp och teorier samt förklarar samband och drar <strong>välgrundade</strong> slutsatser.",
+          "A" : "I beskrivningar och redogörelser använder eleven <strong>med säkerhet</strong> centrala begrepp och teorier samt förklarar <strong>komplexa</strong> samband och drar <strong>välgrundade och nyanserade</strong> slutsatser. <strong>Dessutom värderar eleven teorierna med nyanserade omdömen och argumenterar för deras styrkor och svagheter</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven söker och bearbetar <strong>________</strong> information från olika källor samt värderar den med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven söker och bearbetar <strong>med viss säkerhet</strong> information från olika källor samt värderar den med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven söker och bearbetar <strong>med viss säkerhet</strong> information från olika källor samt värderar den med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven söker och bearbetar <strong>med säkerhet</strong> information från olika källor samt värderar den med <strong>nyanserade</strong> omdömen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven diskuterar <strong>________</strong> egna och andras attityder, värderingar och handlingar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> egna och andras attityder, värderingar och handlingar.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> egna och andras attityder, värderingar och handlingar.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat</strong> egna och andras attityder, värderingar och handlingar."
+        }
+      }, {
+        "text" : "I diskussioner framför eleven <strong>________</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I diskussioner framför eleven <strong>enkla</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+          "C" : "I diskussioner framför eleven <strong>välgrundade</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+          "A" : "I diskussioner framför eleven <strong>välgrundade och nyanserade</strong> argument för sina åsikter samt visar respekt för andras åsikter."
+        }
+      }, {
+        "text" : "Dessutom gör eleven <strong>________</strong> reflektioner över kulturmöten och sociala processer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven <strong>enkla</strong> reflektioner över kulturmöten och sociala processer.",
+          "C" : "Dessutom gör eleven <strong>välgrundade</strong> reflektioner över kulturmöten och sociala processer.",
+          "A" : "Dessutom gör eleven <strong>välgrundade och nyanserade</strong> reflektioner över kulturmöten och sociala processer."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Sociologi",
+    "description" : "Kursen sociologi omfattar punkterna 1–5 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "SOISOO0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Skapandet av samhällen, kulturer, identiteter, sociala processer och socialisation.", "Sociala strukturer utifrån klass, genus, etnicitet, kultur och religion.", "Sociala normer och kategoriseringar av människor.", "Innebörden av integritet, social kontroll, segregering och marginalisering.", "Diskriminering, jämställdhet och likabehandling.", "Metoder för att kritiskt bearbeta information, till exempel källkritik.", "Aktuella sociala frågor." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> olika samhällsförhållanden, sociala strukturer och normer samt kategoriseringar av människor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> olika samhällsförhållanden, sociala strukturer och normer samt kategoriseringar av människor.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> olika samhällsförhållanden, sociala strukturer och normer samt kategoriseringar av människor.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> olika samhällsförhållanden, sociala strukturer och normer samt kategoriseringar av människor."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hur dessa påverkar människors villkor och hur människor påverkar samhället.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hur dessa påverkar människors villkor och hur människor påverkar samhället.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hur dessa påverkar människors villkor och hur människor påverkar samhället.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur dessa påverkar människors villkor och hur människor påverkar samhället."
+        }
+      }, {
+        "text" : "I beskrivningar och redogörelser använder eleven <strong>________</strong> centrala begrepp, teorier och modeller samt förklarar <strong>________</strong> samband och drar <strong>________</strong> slutsatser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningar och redogörelser använder eleven <strong>med viss säkerhet</strong> centrala begrepp, teorier och modeller samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.",
+          "C" : "I beskrivningar och redogörelser använder eleven <strong>med viss säkerhet</strong> centrala begrepp, teorier och modeller samt förklarar samband och drar <strong>välgrundade</strong> slutsatser.",
+          "A" : "I beskrivningar och redogörelser använder eleven <strong>med säkerhet</strong> centrala begrepp, teorier och modeller samt förklarar <strong>komplexa</strong> samband och drar <strong>välgrundade</strong> slutsatser. <strong>Dessutom värderar eleven teorierna med nyanserade omdömen och argumenterar för deras styrkor och svagheter</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven söker och bearbetar <strong>________</strong> information från olika källor samt värderar den med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven söker och bearbetar <strong>med viss säkerhet</strong> information från olika källor samt värderar den med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven söker och bearbetar <strong>med viss säkerhet</strong> information från olika källor samt värderar den med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven söker och bearbetar <strong>med säkerhet</strong> information från olika källor samt värderar den med <strong>nyanserade</strong> omdömen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven diskuterar <strong>________</strong> egna och andras attityder, värderingar och handlingar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> egna och andras attityder, värderingar och handlingar.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> egna och andras attityder, värderingar och handlingar.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat</strong> egna och andras attityder, värderingar och handlingar."
+        }
+      }, {
+        "text" : "I diskussioner framför eleven <strong>________</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I diskussioner framför eleven <strong>enkla</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+          "C" : "I diskussioner framför eleven <strong>välgrundade</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+          "A" : "I diskussioner framför eleven <strong>välgrundade och nyanserade</strong> argument för sina åsikter samt visar respekt för andras åsikter."
+        }
+      }, {
+        "text" : "Dessutom gör eleven <strong>________</strong> reflektioner över kulturmöten och sociala processer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven <strong>enkla</strong> reflektioner över kulturmöten och sociala processer.",
+          "C" : "Dessutom gör eleven <strong>välgrundade</strong> reflektioner över kulturmöten och sociala processer.",
+          "A" : "Dessutom gör eleven <strong>välgrundade och nyanserade</strong> reflektioner över kulturmöten och sociala processer."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Ungdomskulturer",
+    "description" : "Kursen ungdomskulturer omfattar punkterna 1–5 under rubriken Ämnets syfte.",
+    "code" : "SOIUNG0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Ungdomars levnadsförhållanden samt deras roll i samhället, och hur detta har förändrats.", "Ungdomskulturers uppkomst, utveckling, kännetecken och uttryck ur ett historiskt och internationellt perspektiv.", "Skapandet av subkulturer och identiteter med utgångspunkt i genus, etnicitet och klass.", "Aktuella ungdomspolitiska mål, samhällets insatser och verksamheter med ungdomar.", "Kritisk bearbetning av information från olika källor." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> olika ungdomskulturer, deras uppkomst, utveckling och kännetecken, samt deras roll i identitetsskapandet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> olika ungdomskulturer, deras uppkomst, utveckling och kännetecken, samt deras roll i identitetsskapandet.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> olika ungdomskulturer, deras uppkomst, utveckling och kännetecken, samt deras roll i identitetsskapandet.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> olika ungdomskulturer, deras uppkomst, utveckling och kännetecken, samt deras roll i identitetsskapandet."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hur ungdomskulturer påverkar ungdomars levnadsförhållanden och deras roll i samhället.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hur ungdomskulturer påverkar ungdomars levnadsförhållanden och deras roll i samhället.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hur ungdomskulturer påverkar ungdomars levnadsförhållanden och deras roll i samhället.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur ungdomskulturer påverkar ungdomars levnadsförhållanden och deras roll i samhället."
+        }
+      }, {
+        "text" : "Eleven redogör även <strong>________</strong> för aktuella ungdomspolitiska mål och samhällets insatser och verksamheter med ungdomar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör även <strong>översiktligt</strong> för aktuella ungdomspolitiska mål och samhällets insatser och verksamheter med ungdomar.",
+          "C" : "Eleven redogör även <strong>utförligt</strong> för aktuella ungdomspolitiska mål och samhällets insatser och verksamheter med ungdomar.",
+          "A" : "Eleven redogör även <strong>utförligt och nyanserat</strong> för aktuella ungdomspolitiska mål och samhällets insatser och verksamheter med ungdomar."
+        }
+      }, {
+        "text" : "I beskrivningar och redogörelser använder eleven <strong>________</strong> centrala begrepp och teorier samt förklarar <strong>________</strong> samband och drar <strong>________</strong> slutsatser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningar och redogörelser använder eleven <strong>med viss säkerhet</strong> centrala begrepp och teorier samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.",
+          "C" : "I beskrivningar och redogörelser använder eleven <strong>med viss säkerhet</strong> centrala begrepp och teorier samt förklarar samband och drar <strong>välgrundade</strong> slutsatser.",
+          "A" : "I beskrivningar och redogörelser använder eleven <strong>med säkerhet</strong> centrala begrepp och teorier samt förklarar samband och drar <strong>välgrundade och nyanserade</strong> slutsatser. <strong>Dessutom värderar eleven teorierna med nyanserade omdömen och argumenterar för deras styrkor och svagheter</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven söker och bearbetar <strong>________</strong> information från olika källor samt värderar den med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven söker och bearbetar <strong>med viss säkerhet</strong> information från olika källor samt värderar den med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven söker och bearbetar <strong>med viss säkerhet</strong> information från olika källor samt värderar den med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven söker och bearbetar <strong>med säkerhet</strong> information från olika källor samt värderar den med <strong>nyanserade</strong> omdömen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven diskuterar <strong>________</strong> egna och andras attityder, värderingar och handlingar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> egna och andras attityder, värderingar och handlingar.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> egna och andras attityder, värderingar och handlingar.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat</strong> egna och andras attityder, värderingar och handlingar."
+        }
+      }, {
+        "text" : "I diskussioner framför eleven <strong>________</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I diskussioner framför eleven <strong>enkla</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+          "C" : "I diskussioner framför eleven <strong>välgrundade</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+          "A" : "I diskussioner framför eleven <strong>välgrundade och nyanserade</strong> argument för sina åsikter samt visar respekt för andras åsikter."
+        }
+      }, {
+        "text" : "Dessutom gör eleven <strong>________</strong> reflektioner över kulturmöten och sociala processer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven <strong>enkla</strong> reflektioner över kulturmöten och sociala processer.",
+          "C" : "Dessutom gör eleven <strong>välgrundade</strong> reflektioner över kulturmöten och sociala processer.",
+          "A" : "Dessutom gör eleven <strong>välgrundade och nyanserade</strong> reflektioner över kulturmöten och sociala processer."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

@@ -11,8 +11,9 @@ import java.io.File
 class KnowledgeRequirementParserTest {
 
     private val hasMissingRequirementsFromSkolverket = setOf("BYPRIT0", "RINRID02", "SPEIDT0", "TESPRO01", "TEYPRO01", "HAVFIN05S")
-    private val dataDir = File("./src/test/resources/opendata/")
-
+    private val courcesWithSwitchedLines = setOf("SVESVE01")
+    private val dataDir = File("./src/test/resources/opendata/2018-07-02")
+    private val validDataDir = File("./src/test/resources/valid/2018-07-02")
 
     @Test
     fun testAgainstJsonFilesGR() {
@@ -48,10 +49,10 @@ class KnowledgeRequirementParserTest {
             subjectMap[subject.code] = subject
         }
 
-        val subjectDir = File("./src/test/resources/valid/${syllabusType.name}")
+        val subjectDir = File("$validDataDir//${syllabusType.name}")
         if (!subjectDir.isDirectory) fail("${subjectDir.absolutePath} is not a directory")
 
-        for (file in File("./src/test/resources/valid/${syllabusType.name}").listFiles()) {
+        for (file in File("$validDataDir/${syllabusType.name}").listFiles()) {
             if (!file.name.endsWith(".json")) continue
             val parsedSubject = subjectMap[file.nameWithoutExtension]
             if (parsedSubject == null) {
@@ -96,31 +97,33 @@ class KnowledgeRequirementParserTest {
     private fun matchParsedKnowledgeRequirementTextWithOriginal(syllabusType: SyllabusType) {
         for (subject in Syllabus(syllabusType, dataDir).subjectHtml) {
             for (course in subject.courses) {
-                // Get the fully parsed course
-                val combined: MutableMap<GradeStep, StringBuilder> = HashMap()
-                val knowledgeRequirements = KnowledgeRequirementConverter()
-                        .getKnowledgeRequirements(course.knowledgeRequirement)
-                for (knp in knowledgeRequirements) {
-                    for (kn in knp.knowledgeRequirements) {
-                        for ((g, s) in kn.knowledgeRequirementChoice) {
-                            if (combined.containsKey(g)) {
-                                combined[g]?.append(" ")?.append(s)
-                            } else {
-                                combined[g] = StringBuilder(s)
+                if (!courcesWithSwitchedLines.contains(course.code)) {
+                    // Get the fully parsed course
+                    val combined: MutableMap<GradeStep, StringBuilder> = HashMap()
+                    val knowledgeRequirements = KnowledgeRequirementConverter()
+                            .getKnowledgeRequirements(course.knowledgeRequirement)
+                    for (knp in knowledgeRequirements) {
+                        for (kn in knp.knowledgeRequirements) {
+                            for ((g, s) in kn.knowledgeRequirementChoice) {
+                                if (combined.containsKey(g)) {
+                                    combined[g]?.append(" ")?.append(s)
+                                } else {
+                                    combined[g] = StringBuilder(s)
+                                }
                             }
                         }
                     }
-                }
 
-                for ((gradeStep, text) in combined) {
-                    val textExpected = Jsoup.parse(fixCurriculumErrors(course.knowledgeRequirement.getOrDefault(gradeStep, "")))
-                            .select("p")
-                            .text()
-                            .trim()
-                            .replace("  ", " ")
-                            .replace(Regex("\\.([A-zåäö])"), ". \$1")
-                    val textActual = Jsoup.parse(text.toString()).text().trim()
-                    assertEquals("course: ${subject.name}/${course.name} GradeStep: ${gradeStep.name}", textExpected, textActual)
+                    for ((gradeStep, text) in combined) {
+                        val textExpected = Jsoup.parse(fixCurriculumErrors(course.knowledgeRequirement.getOrDefault(gradeStep, "")))
+                                .select("p")
+                                .text()
+                                .trim()
+                                .replace("  ", " ")
+                                .replace(Regex("\\.([A-zåäö])"), ". \$1")
+                        val textActual = Jsoup.parse(text.toString()).text().trim()
+                        assertEquals("course: ${subject.name}/${course.name} GradeStep: ${gradeStep.name}", textExpected, textActual)
+                    }
                 }
             }
         }

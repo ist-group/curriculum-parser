@@ -1,0 +1,406 @@
+{
+  "name" : "Animation",
+  "description" : "Animation är en uttrycksform för att illustrera rörelse i bild och förekommer både som egen konstform och som verktyg för visualisering eller effekter i till exempel spelfilm, reklamfilm och musikvideor. Ämnet animation behandlar olika tekniker som klassisk animation med papper och penna och olika stopmotion-tekniker. I ämnet används flera uttrycksformer som rörliga bilder, ljud och grafisk form.",
+  "code" : "ANI",
+  "designation" : "",
+  "skolfsId" : "2010:168",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet animation ska syfta till att eleverna utvecklar kunskaper om planering, genomförande och publicering av animationer med aktuell teknik.", "Den ska ge eleverna möjlighet att utveckla färdigheter i flera former av berättande och gestaltning, där tyngdpunkten ska ligga på färg, form och modellering.", "Undervisningen ska leda till att eleverna utvecklar färdigheter i att arbeta med att utveckla karaktärer.", "Den ska också ge eleverna möjlighet att utveckla kunskaper om betydelsen av tempo, timing och rörelsemönster samt om betydelsen av relationen mellan karaktären och bakgrundsmiljön." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur val av rätt form och uttryck i relation till målgrupp och sammanhang samverkar.", "Eleverna ska också ges möjlighet att utveckla den egna kreativiteten och förmågan till analys, manusarbete och produktionsplanering.", "Vidare ska eleverna ges möjlighet att utveckla färdigheter i att arbeta i team under tidspress, planera och organisera arbetsuppgifter samt lösa problem.", "Undervisningen ska ge eleverna möjlighet att utveckla ett fackspråk för att kunna kommunicera i produktionsarbetet." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla förmåga att bedöma kvaliteten av animationer när det gäller form, innehåll och teknik." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar kunskaper om lagar och andra bestämmelser samt om arbetsmiljö." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att arbeta med såväl digitala som traditionella produktionsmetoder." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet animation ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förmåga att kommunicera filmiskt med animation.", "Kunskaper om hela produktionsprocessen från idé till publicering.", "Kunskaper om såväl traditionell som ny teknik och förmåga att hantera den.", "Förmåga att analysera rörelse, rytm och tempo och omsätta det i animation.", "Förmåga att forma ett eget bildspråk.", "Förmåga att använda relevanta begrepp.", "Förmåga att samverka med andra samt planera, genomföra och publicera animationer.", "Förmåga att söka kunskap, ge alternativa lösningar och ta ansvar för sitt eget arbete samt att medverka till förbättringar.", "Kunskaper om animationens historia och användningsområden samt förmåga att bedöma kvaliteter i animationer.", "Kunskaper om etiska förhållningssätt, lagar och andra bestämmelser om upphovsrätt och arbetsmiljö som gäller för området." ]
+  } ],
+  "courses" : [ {
+    "name" : "Animation 1",
+    "description" : " Kursen animation 1 omfattar punkterna 1–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 1, 3–4 och 9–10. ",
+    "code" : "ANIANI01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Filmens berättarkomponenter och dramaturgi, till exempel tids- och rumsliga förflyttningar och olika former av klippning.", "Manus och storyboard.", "Klassisk animation med papper och penna.", "Stopmotion-tekniker, till exempel cutout och pixilation.", "Grundläggande hantering av tekniska verktyg för animation, till exempel programvara och fotolistor.", "Rörelse, rytm och tempo i animation.", "Fotolistor och tidslinjer.", "Färg, form och perspektiv.", "Animation utifrån givna och styrda förutsättningar och förlagor.", "Orientering om genrer och stilar genom animationshistorien såväl studioproduktioner som experimentell independentfilm.", "Etiska frågor, lagar och andra bestämmelser om upphovsrätt och arbetsmiljö som gäller för området." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven skapar animationer med <strong>________</strong> berättarkomponenter och <strong>________</strong> dramaturgi.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven skapar animationer med <strong>enkla</strong> berättarkomponenter och <strong>enkel</strong> dramaturgi.",
+          "C" : "Eleven skapar animationer med berättarkomponenter och dramaturgi.",
+          "A" : "Eleven skapar animationer med <strong>genomtänkta</strong> berättarkomponenter och <strong>genomtänkt</strong> dramaturgi."
+        }
+      }, {
+        "text" : "Dessutom genomför eleven <strong>________</strong> med handledare produktionsprocessen från idé till färdig produkt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom genomför eleven <strong>i samråd</strong> med handledare produktionsprocessen från idé till färdig produkt.",
+          "C" : "Dessutom genomför eleven <strong>efter samråd</strong> med handledare produktionsprocessen från idé till färdig produkt.",
+          "A" : "Dessutom genomför eleven <strong>efter samråd med handledare</strong> produktionsprocessen från idé till färdig produkt."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> både traditionell och ny teknik för att skapa rörliga bilder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> både traditionell och ny teknik för att skapa rörliga bilder.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> både traditionell och ny teknik för att skapa rörliga bilder. <strong>Dessutom blandar eleven med viss säkerhet de olika teknikerna</strong>.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> både traditionell och ny teknik för att skapa rörliga bilder. <strong>Dessutom blandar eleven med säkerhet de olika teknikerna och väljer lämplig teknik utifrån vad animationen ska uttrycka</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven registrerar rörelse, rytm, tempo och kroppars fysiska egenskaper samt omsätter det <strong>________</strong> till animationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven registrerar rörelse, rytm, tempo och kroppars fysiska egenskaper samt omsätter det <strong>med viss säkerhet</strong> till animationer.",
+          "C" : "Eleven registrerar rörelse, rytm, tempo och kroppars fysiska egenskaper, <strong>diskuterar utförligt hur detta kan uttryckas i animationer</strong> samt omsätter det <strong>med viss säkerhet</strong> till animationer.",
+          "A" : "Eleven registrerar rörelse, rytm, tempo och kroppars fysiska egenskaper, <strong>diskuterar utförligt och nyanserat hur detta kan uttryckas i animationer</strong> samt omsätter det <strong>med säkerhet</strong> till animationer."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> fotolista och tidslinje.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> fotolista och tidslinje.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> fotolista och tidslinje.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> fotolista och tidslinje."
+        }
+      }, {
+        "text" : "Eleven formar ett eget bildspråk <strong>________</strong> givna förlagor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven formar ett eget bildspråk <strong>utifrån</strong> givna förlagor.",
+          "C" : "Eleven formar ett eget bildspråk <strong>utifrån</strong> givna förlagor.",
+          "A" : "Eleven formar ett eget bildspråk <strong>utan</strong> givna förlagor."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder relevanta begrepp för animation <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder relevanta begrepp för animation <strong>med viss säkerhet</strong>.",
+          "C" : "Eleven använder relevanta begrepp för animation <strong>med viss säkerhet</strong>.",
+          "A" : "Eleven använder relevanta begrepp för animation <strong>med säkerhet</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samverkar <strong>________</strong> med andra vid planering och produktion av animationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samverkar <strong>med viss säkerhet</strong> med andra vid planering och produktion av animationer.",
+          "C" : "Eleven samverkar <strong>med viss säkerhet</strong> med andra vid planering och produktion av animationer.",
+          "A" : "Eleven samverkar <strong>med säkerhet</strong> med andra vid planering och produktion av animationer."
+        }
+      }, {
+        "text" : "Eleven söker <strong>________</strong> kunskap, tar ansvar för sitt eget arbete och ger <strong>________</strong> förslag på hur arbetet kan förbättras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven söker <strong>med viss säkerhet</strong> kunskap, tar ansvar för sitt eget arbete och ger <strong>enkla</strong> förslag på hur arbetet kan förbättras.",
+          "C" : "Eleven söker <strong>med viss säkerhet</strong> kunskap, tar ansvar för sitt eget arbete och ger <strong>välgrundade</strong> förslag på hur arbetet kan förbättras.",
+          "A" : "Eleven söker <strong>med säkerhet</strong> kunskap, tar ansvar för sitt eget arbete och ger <strong>välgrundade och nyanserade</strong> förslag på hur arbetet kan förbättras."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för animationens historia och användningsområden samt gör <strong>________</strong> bedömningar av <strong>________</strong> kvaliteter i såväl egna som andras animationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för animationens historia och användningsområden samt gör <strong>enkla</strong> bedömningar av <strong>några</strong> kvaliteter i såväl egna som andras animationer.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för animationens historia och användningsområden samt gör <strong>välgrundade</strong> bedömningar av <strong>flera olika</strong> kvaliteter i såväl egna som andras animationer.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för animationens historia och användningsområden samt gör <strong>välgrundade och nyanserade</strong> bedömningar av <strong>flera olika</strong> kvaliteter i såväl egna som andras animationer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för etiska frågor, arbetsmiljöfrågor samt för lagar och andra bestämmelser om upphovsrätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för etiska frågor, arbetsmiljöfrågor samt för lagar och andra bestämmelser om upphovsrätt.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för etiska frågor, arbetsmiljöfrågor samt för lagar och andra bestämmelser om upphovsrätt. <strong>I sitt eget arbete följer eleven lagarna och bestämmelserna</strong>.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för etiska frågor, arbetsmiljöfrågor samt för lagar och andra bestämmelser om upphovsrätt. <strong>I sitt eget arbete följer eleven lagarna och bestämmelserna</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Animation 2",
+    "description" : " Kursen animation 2 omfattar punkterna 1–10 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet. ",
+    "code" : "ANIANI02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Filmens berättarkomponenter och dramaturgi, till exempel tids- och rumsliga förflyttningar och olika former av klippning.", "Manus och storyboard.", "Grundläggande produktionsplanering.", "Klassisk animation med papper och penna.", "Kombination av olika tekniska verktyg för animation, till exempel olika programvaror.", "Rörelse, rytm och tempo i animation.", "Synkron animation till existerande ljud.", "Färg, form och perspektiv.", "Sceneri, bakgrundsdesign och ljussättning.", "Karaktärsdesign.", "Animation utifrån givna och styrda förutsättningar och förlagor.", "Analys och värdering av det egna och andras arbete.", "Lagar och andra bestämmelser om upphovsrätt." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven skapar animationer med <strong>________</strong> berättarkomponenter och <strong>________</strong> dramaturgi.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven skapar animationer med <strong>enkla</strong> berättarkomponenter och <strong>enkel</strong> dramaturgi.",
+          "C" : "Eleven skapar animationer med berättarkomponenter och dramaturgi.",
+          "A" : "Eleven skapar animationer med <strong>genomtänkta</strong> berättarkomponenter och <strong>genomtänkt</strong> dramaturgi."
+        }
+      }, {
+        "text" : "Dessutom planerar och genomför eleven <strong>________</strong> med handledare produktionsprocessen från idé till färdig produkt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom planerar och genomför eleven <strong>i samråd</strong> med handledare produktionsprocessen från idé till färdig produkt.",
+          "C" : "Dessutom planerar och genomför eleven <strong>efter samråd</strong> med handledare produktionsprocessen från idé till färdig produkt.",
+          "A" : "Dessutom planerar och genomför eleven <strong>efter samråd</strong> med handledare produktionsprocessen från idé till färdig produkt."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> både traditionella och nya tekniker.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> både traditionella och nya tekniker.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet och experimenterar med</strong> både traditionella och nya tekniker.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet och experimenterar med</strong> både traditionella och nya tekniker. <strong>Dessutom väljer och blandar eleven olika tekniker</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven registrerar rörelse, rytm, tempo och kroppars fysiska egenskaper samt omsätter det <strong>________</strong> till animationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven registrerar rörelse, rytm, tempo och kroppars fysiska egenskaper samt omsätter det <strong>med viss säkerhet</strong> till animationer.",
+          "C" : "Eleven registrerar rörelse, rytm, tempo och kroppars fysiska egenskaper, <strong>diskuterar utförligt hur detta kan uttryckas i animationer</strong> samt omsätter det <strong>med viss säkerhet</strong> till animationer.",
+          "A" : "Eleven registrerar rörelse, rytm, tempo och kroppars fysiska egenskaper, <strong>diskuterar utförligt och nyanserat hur detta kan uttryckas i animationer</strong> samt omsätter det <strong>med säkerhet</strong> till animationer."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> fotolista och tidslinje.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> fotolista och tidslinje.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> fotolista och tidslinje.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> fotolista och tidslinje."
+        }
+      }, {
+        "text" : "Eleven formar <strong>________</strong> ett eget bildspråk genom att använda sceneri, bakgrundsdesign och ljussättning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven formar <strong>med viss säkerhet</strong> ett eget bildspråk genom att använda sceneri, bakgrundsdesign och ljussättning.",
+          "C" : "Eleven formar <strong>med viss säkerhet</strong> ett eget bildspråk genom att använda sceneri, bakgrundsdesign och ljussättning.",
+          "A" : "Eleven formar <strong>med säkerhet</strong> ett eget bildspråk genom att använda sceneri, bakgrundsdesign och ljussättning."
+        }
+      }, {
+        "text" : "I arbetet designar eleven <strong>________</strong> karaktärerna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet designar eleven <strong>med viss säkerhet</strong> karaktärerna.",
+          "C" : "I arbetet designar eleven <strong>med viss säkerhet och på ett konsekvent sätt</strong> karaktärerna.",
+          "A" : "I arbetet designar eleven <strong>med säkerhet och på ett konsekvent sätt</strong> karaktärerna <strong>samt motiverar utförligt och nyanserat sina val</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder relevanta begrepp för animation <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder relevanta begrepp för animation <strong>med viss säkerhet</strong>.",
+          "C" : "Eleven använder relevanta begrepp för animation <strong>med viss säkerhet</strong>.",
+          "A" : "Eleven använder relevanta begrepp för animation <strong>med säkerhet</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samverkar <strong>________</strong> med andra vid planering och produktion av animationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samverkar <strong>med viss säkerhet</strong> med andra vid planering och produktion av animationer.",
+          "C" : "Eleven samverkar <strong>med viss säkerhet</strong> med andra vid planering och produktion av animationer <strong>samt diskuterar översiktligt olika arbetssätt med andra</strong>.",
+          "A" : "Eleven samverkar <strong>med säkerhet</strong> med andra vid planering och produktion av animationer <strong>samt diskuterar utförligt olika arbetssätt med andra</strong>."
+        }
+      }, {
+        "text" : "Eleven söker <strong>________</strong> kunskap, tar ansvar för sitt eget arbete och ger <strong>________</strong> förslag på hur arbetet kan förbättras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven söker <strong>med viss säkerhet</strong> kunskap, tar ansvar för sitt eget arbete och ger <strong>enkla</strong> förslag på hur arbetet kan förbättras.",
+          "C" : "Eleven söker <strong>med viss säkerhet</strong> kunskap, tar ansvar för sitt eget arbete och ger <strong>välgrundade</strong> förslag på hur arbetet kan förbättras.",
+          "A" : "Eleven söker <strong>med säkerhet</strong> kunskap, tar ansvar för sitt eget arbete och ger <strong>välgrundade och nyanserade</strong> förslag på hur arbetet kan förbättras."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven diskuterar <strong>________</strong> kvalitativa aspekter samt gör <strong>________</strong> bedömningar av <strong>________</strong> kvaliteter i såväl egna som andras animationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt några</strong> kvalitativa aspekter samt gör <strong>enkla</strong> bedömningar av <strong>några</strong> kvaliteter i såväl egna som andras animationer.",
+          "C" : "Eleven diskuterar <strong>utförligt flera</strong> kvalitativa aspekter samt gör <strong>välgrundade</strong> bedömningar av <strong>flera olika</strong> kvaliteter i såväl egna som andras animationer.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat flera</strong> kvalitativa aspekter samt gör <strong>välgrundade och nyanserade</strong> bedömningar av <strong>flera olika</strong> kvaliteter i såväl egna som andras animationer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för etiska frågor, arbetsmiljöfrågor samt för lagar och andra bestämmelser om upphovsrätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för etiska frågor, arbetsmiljöfrågor samt för lagar och andra bestämmelser om upphovsrätt.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för etiska frågor, arbetsmiljöfrågor samt för lagar och andra bestämmelser om upphovsrätt.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för etiska frågor, arbetsmiljöfrågor samt för lagar och andra bestämmelser om upphovsrätt."
+        }
+      }, {
+        "text" : "I sitt eget arbete följer eleven lagarna och bestämmelserna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt eget arbete följer eleven lagarna och bestämmelserna.",
+          "C" : "I sitt eget arbete följer eleven lagarna och bestämmelserna.",
+          "A" : "I sitt eget arbete följer eleven lagarna och bestämmelserna."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Animation – specialisering",
+    "description" : "Kursen animation – specialisering omfattar punkterna 1–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 2, 5 och 7–8. I kursen behandlas fördjupade kunskaper inom valt material.",
+    "code" : "ANIANI00S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Produktionsprocessen: idé, synopsis, manus och storyboard, genomförande, efterbearbetning och publicering.", "Dokumentation och värdering av den pågående processen.", "Kombination av olika tekniska verktyg för animation inom valt material.", "Effektanimation, till exempel vatten, rök och eld.", "Det egna bildspråket och hur man kan utveckla sitt bildspråk.", "Lagar och andra bestämmelser om upphovsrätt." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven skapar animationer med berättarkomponenter och dramaturgi.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven skapar animationer med berättarkomponenter och dramaturgi.",
+          "C" : "Eleven skapar animationer med <strong>genomtänkta</strong> berättarkomponenter och <strong>genomtänkt</strong> dramaturgi.",
+          "A" : "Eleven skapar animationer med <strong>genomtänkta och tydliga</strong> berättarkomponenter och <strong>genomtänkt och tydlig</strong> dramaturgi."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> synopsis, manus och storyboard, genomför produktionen med <strong>________</strong> resultat samt efterbearbetar och publicerar <strong>________</strong> produktionen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>med viss säkerhet</strong> synopsis, manus och storyboard, genomför produktionen med <strong>tillfredsställande</strong> resultat samt efterbearbetar och publicerar <strong>med viss säkerhet</strong> produktionen.",
+          "C" : "Dessutom använder eleven <strong>med viss säkerhet</strong> synopsis, manus och storyboard, genomför produktionen med <strong>tillfredsställande</strong> resultat samt efterbearbetar och publicerar <strong>med viss säkerhet</strong> produktionen.",
+          "A" : "Dessutom använder eleven <strong>med säkerhet</strong> synopsis, manus och storyboard, genomför produktionen med <strong>gott</strong> resultat samt efterbearbetar och publicerar <strong>med säkerhet</strong> produktionen."
+        }
+      }, {
+        "text" : "I arbetet använder och blandar eleven <strong>________</strong> både traditionella och nya tekniker.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder och blandar eleven <strong>med viss säkerhet</strong> både traditionella och nya tekniker.",
+          "C" : "I arbetet använder och blandar eleven <strong>med viss säkerhet</strong> både traditionella och nya tekniker.",
+          "A" : "I arbetet använder och blandar eleven <strong>med säkerhet</strong> både traditionella och nya tekniker."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> effektanimationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>med viss säkerhet</strong> effektanimationer.",
+          "C" : "Dessutom använder eleven <strong>med viss säkerhet</strong> effektanimationer.",
+          "A" : "Dessutom använder eleven <strong>med säkerhet</strong> effektanimationer."
+        }
+      }, {
+        "text" : "När arbetet är genomfört gör eleven en <strong>________</strong> dokumentation av sitt arbete samt utvärderar med <strong>________</strong> omdömen sitt arbete och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är genomfört gör eleven en <strong>enkel</strong> dokumentation av sitt arbete samt utvärderar med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+          "C" : "När arbetet är genomfört gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete samt utvärderar med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+          "A" : "När arbetet är genomfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven registrerar rörelse, rytm, tempo och kroppars fysiska egenskaper, diskuterar <strong>________</strong> hur detta kan uttryckas i animationer samt omsätter det <strong>________</strong> till animationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven registrerar rörelse, rytm, tempo och kroppars fysiska egenskaper, diskuterar <strong>översiktligt</strong> hur detta kan uttryckas i animationer samt omsätter det <strong>med viss säkerhet</strong> till animationer.",
+          "C" : "Eleven registrerar rörelse, rytm, tempo och kroppars fysiska egenskaper, diskuterar <strong>utförligt</strong> hur detta kan uttryckas i animationer samt omsätter det <strong>med viss säkerhet</strong> till animationer.",
+          "A" : "Eleven registrerar rörelse, rytm, tempo och kroppars fysiska egenskaper, diskuterar <strong>utförligt och nyanserat</strong> hur detta kan uttryckas i animationer samt omsätter det <strong>med säkerhet</strong> till <strong>detaljrika</strong> animationer."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> fotolista och tidslinje.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> fotolista och tidslinje.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> fotolista och tidslinje.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> fotolista och tidslinje."
+        }
+      }, {
+        "text" : "Eleven formar <strong>________</strong> ett eget bildspråk och beskriver det <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven formar <strong>med viss säkerhet</strong> ett eget bildspråk och beskriver det <strong>översiktligt</strong>.",
+          "C" : "Eleven formar <strong>med viss säkerhet</strong> ett eget bildspråk, beskriver det <strong>utförligt och utvecklar det i någon riktning</strong>.",
+          "A" : "Eleven formar <strong>med säkerhet</strong> ett eget bildspråk, beskriver det <strong>utförligt och nyanserat och utvecklar det i någon riktning</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder relevanta begrepp för animation <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder relevanta begrepp för animation <strong>med viss säkerhet</strong>.",
+          "C" : "Eleven använder relevanta begrepp för animation <strong>med viss säkerhet</strong>.",
+          "A" : "Eleven använder relevanta begrepp för animation <strong>med säkerhet</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samverkar <strong>________</strong> med andra vid planering och produktion av animationer <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samverkar <strong>med viss säkerhet</strong> med andra vid planering och produktion av animationer <strong>samt diskuterar översiktligt olika arbetssätt med andra</strong>.",
+          "C" : "Eleven samverkar <strong>med viss säkerhet</strong> med andra vid planering och produktion av animationer <strong>samt diskuterar utförligt olika arbetssätt med andra</strong>.",
+          "A" : "Eleven samverkar <strong>med säkerhet</strong> med andra vid planering och produktion av animationer <strong>samt diskuterar utförligt och nyanserat olika arbetssätt med andra</strong>."
+        }
+      }, {
+        "text" : "Eleven söker <strong>________</strong> kunskap, tar ansvar för sitt eget arbete och ger <strong>________</strong> förslag på hur arbetet kan förbättras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven söker <strong>med viss säkerhet</strong> kunskap, tar ansvar för sitt eget arbete och ger <strong>enkla</strong> förslag på hur arbetet kan förbättras.",
+          "C" : "Eleven söker <strong>med viss säkerhet</strong> kunskap, tar ansvar för sitt eget arbete och ger <strong>välgrundade</strong> förslag på hur arbetet kan förbättras.",
+          "A" : "Eleven söker <strong>med säkerhet</strong> kunskap, tar ansvar för sitt eget arbete, <strong>presenterar egna idéer</strong> och ger <strong>välgrundade och nyanserade</strong> förslag på hur arbetet kan förbättras."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven diskuterar <strong>________</strong> kvalitativa aspekter samt gör <strong>________</strong> bedömningar av <strong>________</strong> kvaliteter i såväl egna som andras animationer utifrån animationens historia och användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt några</strong> kvalitativa aspekter samt gör <strong>enkla</strong> bedömningar av <strong>några</strong> kvaliteter i såväl egna som andras animationer utifrån animationens historia och användningsområden.",
+          "C" : "Eleven diskuterar <strong>utförligt flera</strong> kvalitativa aspekter samt gör <strong>välgrundade</strong> bedömningar av <strong>flera olika</strong> kvaliteter i såväl egna som andras animationer utifrån animationens historia och användningsområden.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat flera</strong> kvalitativa aspekter samt gör <strong>välgrundade och nyanserade</strong> bedömningar av <strong>flera olika</strong> kvaliteter i såväl egna som andras animationer utifrån animationens historia och användningsområden."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för etiska frågor, arbetsmiljöfrågor samt för lagar och andra bestämmelser om upphovsrätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för etiska frågor, arbetsmiljöfrågor samt för lagar och andra bestämmelser om upphovsrätt.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för etiska frågor, arbetsmiljöfrågor samt för lagar och andra bestämmelser om upphovsrätt.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för etiska frågor, arbetsmiljöfrågor samt för lagar och andra bestämmelser om upphovsrätt."
+        }
+      }, {
+        "text" : "I sitt eget arbete följer eleven lagarna och bestämmelserna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt eget arbete följer eleven lagarna och bestämmelserna.",
+          "C" : "I sitt eget arbete följer eleven lagarna och bestämmelserna.",
+          "A" : "I sitt eget arbete följer eleven lagarna och bestämmelserna."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

@@ -1,0 +1,260 @@
+{
+  "name" : "Matematik",
+  "description" : "Ämnet matematik behandlar begrepp, metoder och strategier för att kunna lösa matematiska problem i vardags- och yrkeslivet. I ämnet ingår att föra och följa matematiska resonemang samt att arbeta med olika undersökande aktiviteter.",
+  "code" : "MAM",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet matematik ska syfta till att eleverna utvecklar kunskaper om matematiska begrepp och metoder samt förmåga att använda dessa.", "Undervisningen ska också bidra till att eleverna utvecklar förmåga att använda olika strategier för att lösa matematiska problem.", "Vidare ska undervisningen bidra till att eleverna utvecklar förståelse för matematik som en undersökande och kreativ verksamhet." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom undervisningen ska eleverna ges möjlighet att använda matematik i olika sammanhang som kan uppstå i vardagen och i yrkeslivet.", "Undervisningen ska också leda till att eleverna utvecklar förmåga att använda digital teknik och andra redskap som kan användas för att lösa matematiska problem." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar förmåga att föra och följa matematiska resonemang.", "Genom undervisningen ska eleverna också ges möjlighet att utveckla förmåga att bedöma giltigheten i matematiska resonemang." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i matematik ska vara av undersökande karaktär och utgå från vardags- och yrkesrelaterade företeelser.", "Undervisningen ska också stärka elevernas tilltro till sin förmåga att använda matematik i olika sammanhang." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet matematik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förmåga att använda matematiska begrepp.", "Förmåga att använda matematiska metoder för att göra beräkningar och lösa matematiska uppgifter av standardkaraktär.", "Förmåga att välja strategier för att lösa matematiska problem i vardags- och yrkeslivet.", "Förmåga att föra och följa matematiska resonemang och bedöma riktighet och rimlighet i dessa." ]
+  } ],
+  "courses" : [ {
+    "name" : "Matematik 1",
+    "description" : "Kursen matematik 1 omfattar punkterna 1–4 under rubriken Ämnets syfte.",
+    "code" : "MAMMAT51",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Taluppfattning, aritmetik och algebra",
+      "lines" : [ "Metoder för beräkningar med rationella tal i vardags- och yrkeslivet. Överslagsberäkning, huvudräkning och strategier för att använda digital teknik.", "Enkla matematiska uttryck och ekvationer.", "Hjälpmedel som används i vardagen och inom olika yrkesområden, till exempel tumstock och passare.", "Rimlighetsbedömning vid uppskattningar och beräkningar." ]
+    }, {
+      "heading" : "Geometri",
+      "lines" : [ "Egenskaper hos och representationer av två- och tredimensionella geometriska objekt, till exempel rektangel, cirkel och klot.", "Geometriska begrepp som används i vardags- och yrkeslivet, till exempel omkrets, area och volym.", "Metoder för mätning och beräkning av storheter som används i vardags- och yrkeslivet, till exempel längd och area.", "Matematiska enheter och enhetsbyten som används i vardags- och yrkeslivet.", "Metoder för att uppskatta och mäta tid och tidsskillnader." ]
+    }, {
+      "heading" : "Samband och förändring",
+      "lines" : [ "Procentbegreppet och beräkningar med procent i vardagliga situationer, till exempel doseringar, rabatter och räntor." ]
+    }, {
+      "heading" : "Sannolikhet och statistik",
+      "lines" : [ "Beskrivande statistik med hjälp av tabeller och diagram. Hur statistiska resultat används i samhället och i yrkeslivet.", "Sannolikhet, till exempel i samband med risk- och säkerhetsbedömningar." ]
+    }, {
+      "heading" : "Problemlösning",
+      "lines" : [ "Matematiska modeller och hur de kan användas som verktyg när man löser problem i vardags- och yrkeslivet.", "Hur man identifierar ett matematiskt problem samt metoder och verktyg för att lösa det. Problemlösning med digitala verktyg." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva innebörden av matematiska begrepp och samband mellan begreppen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva innebörden av matematiska begrepp och samband mellan begreppen.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> innebörden av matematiska begrepp och samband mellan begreppen.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> innebörden av matematiska begrepp och samband mellan begreppen."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att använda matematiska metoder för att göra beräkningar och lösa uppgifter av standardkaraktär.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att använda matematiska metoder för att göra beräkningar och lösa uppgifter av standardkaraktär.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> matematiska metoder för att <strong>med tillfredsställande resultat</strong> göra beräkningar och lösa uppgifter av standardkaraktär.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> matematiska metoder för att <strong>med gott resultat</strong> göra beräkningar och lösa uppgifter av standardkaraktär."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven löser enkla matematiska problem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven löser enkla matematiska problem.",
+          "C" : "Eleven löser enkla matematiska problem.",
+          "A" : "Eleven löser enkla matematiska problem."
+        }
+      }, {
+        "text" : "I arbetet <strong>________</strong> eleven i att välja strategier och metoder med anpassning till problemets karaktär.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet <strong>medverkar</strong> eleven i att välja strategier och metoder med anpassning till problemets karaktär.",
+          "C" : "I arbetet väljer eleven strategier och metoder <strong>med viss anpassning</strong> till problemets karaktär.",
+          "A" : "I arbetet väljer eleven strategier och metoder <strong>med anpassning</strong> till problemets karaktär."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I redovisningar och samtal <strong>________</strong> eleven i att föra matematiska resonemang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I redovisningar och samtal <strong>medverkar</strong> eleven i att föra matematiska resonemang.",
+          "C" : "I redovisningar och samtal för eleven <strong>enkla</strong> matematiska resonemang.",
+          "A" : "I redovisningar och samtal för eleven <strong>utvecklade</strong> matematiska resonemang."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att ge omdömen om rimlighet i egna och andras resonemang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att ge omdömen om rimlighet i egna och andras resonemang.",
+          "C" : "Eleven ger också <strong>enkla</strong> omdömen om rimlighet i egna och andras resonemang.",
+          "A" : "Eleven ger också <strong>utvecklade</strong> omdömen om rimlighet i egna och andras resonemang."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Matematik 2",
+    "description" : "Kursen matematik 2 omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "MAMMAT52",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Taluppfattning, aritmetik och algebra",
+      "lines" : [ "Algebraiska uttryck och formler som är relevanta för användning i vardags- och yrkeslivet.", "Metoder för beräkningar med reella tal i vardags- och yrkeslivet. Överslagsberäkning, huvudräkning och strategier för att använda digital teknik.", "Hjälpmedel som används inom olika yrkesområden, till exempel kalkylator och litermått.", "Rimlighetsbedömning vid uppskattningar och beräkningar." ]
+    }, {
+      "heading" : "Geometri",
+      "lines" : [ "Geometriska begrepp som används i vardags- och yrkeslivet. Egenskaper hos och representationer av geometriska objekt, till exempel ritningar, konstruktioner och koordinatsystem.", "Metoder för mätning och beräkning av storheter som används i vardags- och yrkeslivet, till exempel volym, hastighet och massa.", "Metoder för att uppskatta, mäta och beräkna tid och tidsskillnader.", "Matematiska enheter, enhetsbyten och behandling av mätetal som används i vardags- och yrkeslivet." ]
+    }, {
+      "heading" : "Samband och förändring",
+      "lines" : [ "Procentbegreppet och beräkningar med procent i vardagliga situationer.", "Proportionalitet i samband med beräkningar, mätningar eller konstruktioner." ]
+    }, {
+      "heading" : "Sannolikhet och statistik",
+      "lines" : [ "Beskrivande statistik med hjälp av tabeller och diagram. Granskning av hur statistiska resultat används i samhället och i yrkeslivet." ]
+    }, {
+      "heading" : "Problemlösning",
+      "lines" : [ "Matematiska modeller och hur de kan användas som verktyg när man löser problem i vardags- och yrkeslivet.", "Hur man identifierar ett matematiskt problem samt metoder och verktyg för att lösa det. Problemlösning med digitala verktyg." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva innebörden av matematiska begrepp och samband mellan begreppen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva innebörden av matematiska begrepp och samband mellan begreppen.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> innebörden av matematiska begrepp och samband mellan begreppen.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> innebörden av matematiska begrepp och samband mellan begreppen."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att använda matematiska metoder för att göra beräkningar och lösa uppgifter av standardkaraktär.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att använda matematiska metoder för att göra beräkningar och lösa uppgifter av standardkaraktär.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> matematiska metoder för att <strong>med tillfredsställande resultat</strong> göra beräkningar och lösa uppgifter av standardkaraktär.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> matematiska metoder för att <strong>med gott resultat</strong> göra beräkningar och lösa uppgifter av standardkaraktär."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven löser matematiska problem med anknytning till vardagslivet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven löser matematiska problem med anknytning till vardagslivet.",
+          "C" : "Eleven löser matematiska problem med anknytning till vardagslivet.",
+          "A" : "Eleven löser matematiska problem med anknytning till vardagslivet."
+        }
+      }, {
+        "text" : "I arbetet <strong>________</strong> eleven i att välja strategier och metoder med anpassning till problemets karaktär.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet <strong>medverkar</strong> eleven i att välja strategier och metoder med anpassning till problemets karaktär.",
+          "C" : "I arbetet väljer eleven strategier och metoder <strong>med viss anpassning</strong> till problemets karaktär.",
+          "A" : "I arbetet väljer eleven strategier och metoder <strong>med anpassning</strong> till problemets karaktär."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I redovisningar och samtal <strong>________</strong> eleven i att föra matematiska resonemang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I redovisningar och samtal <strong>medverkar</strong> eleven i att föra matematiska resonemang.",
+          "C" : "I redovisningar och samtal för eleven <strong>enkla</strong> matematiska resonemang.",
+          "A" : "I redovisningar och samtal för eleven <strong>utvecklade</strong> matematiska resonemang."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att ge omdömen om rimlighet i egna och andras resonemang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att ge omdömen om rimlighet i egna och andras resonemang.",
+          "C" : "Eleven ger också <strong>enkla</strong> omdömen om rimlighet i egna och andras resonemang.",
+          "A" : "Eleven ger också <strong>utvecklade</strong> omdömen om rimlighet i egna och andras resonemang."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Matematik 3",
+    "description" : "Kursen matematik 3 omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "MAMMAT53",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Taluppfattning, aritmetik och algebra",
+      "lines" : [ "Algebraiska uttryck och formler som används i vardags- och yrkeslivet. Metoder för att lösa enklare linjära ekvationer.", "Metoder för beräkningar med reella tal inom vardags- och yrkeslivet. Överslagsberäkning, huvudräkning och strategier för att använda digital teknik.", "Hjälpmedel som används inom olika yrkesområden, till exempel mätverktyg, mallar och manualer.", "Rimlighetsbedömning vid uppskattningar och beräkningar." ]
+    }, {
+      "heading" : "Geometri",
+      "lines" : [ "Geometriska begrepp som används i vardags- och yrkeslivet. Egenskaper hos och representationer av geometriska objekt, till exempel ritningar, konstruktioner och koordinatsystem.", "Metoder för att uppskatta, mäta och beräkna tid och tidsskillnader.", "Matematiska enheter, enhetsbyten och behandling av mätetal som används i vardags- och yrkeslivet. Hur man avrundar på ett för situationen relevant sätt." ]
+    }, {
+      "heading" : "Samband och förändring",
+      "lines" : [ "Procentbegreppet och promille.", "Metoder för beräkning av räntor och amorteringar för olika typer av lån.", "Begreppen förhållande och proportionalitet i resonemang, beräkningar, mätningar och konstruktioner." ]
+    }, {
+      "heading" : "Sannolikhet och statistik",
+      "lines" : [ "Kalkylprogram och hur de kan användas för att beskriva och illustrera statistik." ]
+    }, {
+      "heading" : "Problemlösning",
+      "lines" : [ "Strategier för matematisk problemlösning, inklusive användning av digitala medier och verktyg.", "Matematiska modeller och hur de kan användas som verktyg i behandlingen av problemsituationer i vardags- och yrkeslivet. Matematikens möjligheter och begränsningar i dessa situationer." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva innebörden av matematiska begrepp och samband mellan begreppen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva innebörden av matematiska begrepp och samband mellan begreppen.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> innebörden av matematiska begrepp och samband mellan begreppen.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> innebörden av matematiska begrepp och samband mellan begreppen."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att använda matematiska metoder för att göra beräkningar och lösa uppgifter av standardkaraktär.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att använda matematiska metoder för att göra beräkningar och lösa uppgifter av standardkaraktär.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> matematiska metoder för att <strong>med tillfredsställande resultat</strong> göra beräkningar och lösa uppgifter av standardkaraktär.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> matematiska metoder för att <strong>med gott resultat</strong> göra beräkningar och lösa uppgifter av standardkaraktär."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven löser matematiska problem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven löser matematiska problem.",
+          "C" : "Eleven löser matematiska problem.",
+          "A" : "Eleven löser matematiska problem."
+        }
+      }, {
+        "text" : "I arbetet <strong>________</strong> eleven i att välja strategier och metoder med anpassning till problemets karaktär.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet <strong>medverkar</strong> eleven i att välja strategier och metoder med anpassning till problemets karaktär.",
+          "C" : "I arbetet väljer eleven strategier och metoder med <strong>viss</strong> anpassning till problemets karaktär.",
+          "A" : "I arbetet väljer eleven strategier och metoder med anpassning till problemets karaktär."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I redovisningar och samtal <strong>________</strong> eleven i att föra matematiska resonemang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I redovisningar och samtal <strong>medverkar</strong> eleven i att föra matematiska resonemang.",
+          "C" : "I redovisningar och samtal för eleven <strong>enkla</strong> matematiska resonemang.",
+          "A" : "I redovisningar och diskussioner för eleven <strong>utvecklade</strong> matematiska resonemang."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att ge omdömen om rimlighet i egna och andras resonemang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att ge omdömen om rimlighet i egna och andras resonemang.",
+          "C" : "Eleven ger också <strong>enkla</strong> omdömen om rimlighet i egna och andras resonemang.",
+          "A" : "Eleven ger också <strong>utvecklade</strong> omdömen om rimlighet i egna och andras resonemang."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

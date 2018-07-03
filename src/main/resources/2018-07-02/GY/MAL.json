@@ -1,0 +1,579 @@
+{
+  "name" : "Matlagningskunskap",
+  "description" : "Ämnet matlagningskunskap behandlar grundläggande matlagningsmetoder och variationer av dem samt hur matlagningens historia och olika mattraditioner påverkar dagens matlagning. I ämnet behandlas också hur råvaror används samt betydelsen av produktkvalitet. Dessutom behandlas bestämmelser om hygien och arbetsmiljö vid matlagning.",
+  "code" : "MAL",
+  "designation" : "",
+  "skolfsId" : "2010:68",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet matlagningskunskap ska syfta till att eleverna utvecklar förmåga att yrkesmässigt laga mat med moderna och traditionella hantverksmetoder.", "Den ska även bidra till att eleverna utvecklar förmåga att tillämpa näringslära och fastställda rekommendationer för god hälsa.", "Eleverna ska ges möjlighet att utveckla förmåga att utforma recept samt göra näringsvärdesberäkningar." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om hygien, ergonomi, arbetsmiljö- och säkerhetsfrågor samt om lagar och andra bestämmelser som gäller för yrkesområdet.", "Den ska ge eleverna möjlighet att utveckla färdigheter i att organisera och utföra arbetet samt förmåga att bedöma arbetet och reflektera över hur arbetsprocessen påverkar resultatet.", "Undervisningen ska dessutom bidra till att eleverna utvecklar kreativitet, problemlösningsförmåga och initiativförmåga samt förmåga att utföra sina uppgifter såväl individuellt som i samarbete med andra." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom att praktiskt tillämpa sina kunskaper ska eleverna ges möjlighet att pröva olika arbetsuppgifter som förekommer inom ämnesområdet." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet matlagningskunskap ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förmåga att planera och organisera matlagning inom olika verksamhetsområden.", "Förmåga att tillaga välsmakande och estetiskt tilltalande anrättningar utifrån trend och tradition samt att använda och vårda redskap, maskiner och annan utrustning.", "Kunskaper om ekonomiska konsekvenser vid val och inköp av råvaror samt vid tillagning och förvaring.", "Kunskaper om näringslära vid matlagning.", "Förmåga att utforma recept och menyer för olika verksamheter.", "Förmåga att arbeta på ett hygieniskt, ergonomiskt och säkert sätt.", "Kunskaper om lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.", "Förmåga att utvärdera utfört sitt arbete och resultat.", "Förmåga att samarbeta och kommunicera med andra." ]
+  } ],
+  "courses" : [ {
+    "name" : "Matlagning 1",
+    "description" : "Kursen matlagning 1 omfattar punkterna 1–3, 6–7 och 9 under rubriken Ämnets syfte. I kursen behandlas grundläggande färdigheter i ämnet.",
+    "code" : "MALMAL01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Grundläggande matlagning och matlagningsmetoder.", "Kalla och varma maträtter.", "Kökets redskap, maskiner och annan utrustning. Hur de används och hanteras på ett säkert sätt.", "Grunderna i identifiering, behandling och hantering av råvaror samt smakmässiga och ekonomiska konsekvenser av hur råvaror behandlas och förvaras.", "Hygien och dagliga hygienrutiner, till exempel rengöring av lokaler och utrustning.", "Ergonomi i det egna arbetet samt ergonomiska riskfaktorer.", "Arbetsmiljö och säkerhet samt lagar och andra bestämmelser som gäller inom området, till exempel livsmedelslagen.", "Grundläggande kommunikation för arbete i kök." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar <strong>________</strong> med handledare matlagning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar <strong>i samråd</strong> med handledare matlagning.",
+          "C" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare matlagning.",
+          "A" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare matlagning."
+        }
+      }, {
+        "text" : "Eleven tillagar metodiskt, hantverksmässigt och <strong>________</strong> med handledare maträtter med <strong>________</strong> kvalitet när det gäller smak och utseende.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tillagar metodiskt, hantverksmässigt och <strong>i samråd</strong> med handledare maträtter med <strong>tillfredsställande</strong> kvalitet när det gäller smak och utseende.",
+          "C" : "Eleven tillagar metodiskt, hantverksmässigt och <strong>efter samråd</strong> med handledare maträtter med <strong>tillfredsställande</strong> kvalitet när det gäller smak och utseende.",
+          "A" : "Eleven tillagar metodiskt, hantverksmässigt och <strong>efter samråd</strong> med handledare maträtter med <strong>god</strong> kvalitet när det gäller smak och utseende."
+        }
+      }, {
+        "text" : "I arbetet använder eleven med <strong>________</strong> handlag vanliga grundläggande metoder, redskap, maskiner och annan utrustning som är lämpliga för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven med <strong>visst</strong> handlag vanliga grundläggande metoder, redskap, maskiner och annan utrustning som är lämpliga för uppgiften.",
+          "C" : "I arbetet använder eleven med <strong>gott</strong> handlag vanliga grundläggande metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften.",
+          "A" : "I arbetet använder eleven med <strong>mycket gott</strong> handlag vanliga grundläggande metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften."
+        }
+      }, {
+        "text" : "I arbetet redogör eleven <strong>________</strong> för ekonomiska konsekvenser vid val av råvaror samt för deras hantering och förvaring.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet redogör eleven <strong>översiktligt</strong> för ekonomiska konsekvenser vid val av råvaror samt för deras hantering och förvaring.",
+          "C" : "I arbetet redogör eleven <strong>utförligt</strong> för ekonomiska konsekvenser vid val av råvaror samt för deras hantering och förvaring.",
+          "A" : "I arbetet redogör eleven <strong>utförligt och nyanserat</strong> för ekonomiska konsekvenser vid val av råvaror samt för deras hantering och förvaring."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <strong>________</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <strong>översiktligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "C" : "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <strong>översiktligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "A" : "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <strong>utförligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar och kommunicerar <strong>________</strong> med andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra.",
+          "C" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra.",
+          "A" : "Eleven samarbetar och kommunicerar <strong>med säkerhet</strong> med andra."
+        }
+      }, {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Matlagning 2",
+    "description" : "Kursen matlagning 2 omfattar punkterna 1–9 under rubriken Ämnets syfte, med särskild betoning på punkt 1.",
+    "code" : "MALMAL02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Yrkesmässig matlagning och metoder avsedda för restaurang och storkök.", "Rationella arbetssätt vid matlagning i restaurang och storkök.", "Kalla och varma maträtter, klassiska såväl som nyskapande.", "Kökets redskap, maskiner och annan utrustning. Hur de används, hanteras och vårdas på ett säkert sätt.", "Grundläggande allergi- och specialkostmatlagning.", "Råvaror och hur de kan kombineras på ett näringsmässigt, kreativt och ekonomiskt sätt.", "Hygien och dagliga hygienrutiner, till exempel rengöring av lokaler och utrustning.", "Ergonomi i det egna arbetet samt ergonomiska riskfaktorer.", "Arbetsmiljö och säkerhet samt lagar och andra bestämmelser som gäller inom området, till exempel livsmedelslagen.", "Metoder för utvärdering.", "Grundläggande kommunikation för arbete i kök samt grundläggande fackterminologi." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar <strong>________</strong> med handledare matlagning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar <strong>i samråd</strong> med handledare matlagning.",
+          "C" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare matlagning.",
+          "A" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare matlagning."
+        }
+      }, {
+        "text" : "Eleven tillagar metodiskt, hantverksmässigt och <strong>________</strong> med handledare maträtter med <strong>________</strong> kvalitet när det gäller smak och utseende.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tillagar metodiskt, hantverksmässigt och <strong>i samråd</strong> med handledare maträtter med <strong>tillfredsställande</strong> kvalitet när det gäller smak och utseende.",
+          "C" : "Eleven tillagar metodiskt, hantverksmässigt och <strong>efter samråd</strong> med handledare maträtter med <strong>tillfredsställande</strong> kvalitet när det gäller smak och utseende.",
+          "A" : "Eleven tillagar metodiskt, hantverksmässigt och <strong>efter samråd</strong> med handledare maträtter med <strong>god</strong> kvalitet när det gäller smak och utseende."
+        }
+      }, {
+        "text" : "I arbetet använder eleven med <strong>________</strong> handlag vanliga metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven med <strong>visst</strong> handlag vanliga metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften.",
+          "C" : "I arbetet använder eleven med <strong>gott</strong> handlag vanliga metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften.",
+          "A" : "I arbetet använder eleven med <strong>mycket gott</strong> handlag vanliga metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften."
+        }
+      }, {
+        "text" : "Eleven utför arbetet inom givna tidsramar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet inom givna tidsramar.",
+          "C" : "Eleven utför arbetet inom givna tidsramar.",
+          "A" : "Eleven utför arbetet inom givna tidsramar."
+        }
+      }, {
+        "text" : "Eleven tillagar även <strong>________</strong> med handledare allergi- och specialkoster.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tillagar även <strong>i samråd</strong> med handledare allergi- och specialkoster.",
+          "C" : "Eleven tillagar även <strong>efter samråd</strong> med handledare allergi- och specialkoster.",
+          "A" : "Eleven tillagar även <strong>efter samråd</strong> med handledare allergi- och specialkoster."
+        }
+      }, {
+        "text" : "I arbetet kombinerar eleven <strong>________</strong> råvaror med hänsyn tagen till ekonomi och näringsinnehåll.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet kombinerar eleven <strong>med viss säkerhet</strong> råvaror med hänsyn tagen till ekonomi och näringsinnehåll.",
+          "C" : "I arbetet kombinerar eleven <strong>med viss säkerhet</strong> råvaror med hänsyn tagen till ekonomi och näringsinnehåll.",
+          "A" : "I arbetet kombinerar eleven <strong>med säkerhet</strong> råvaror med hänsyn tagen till ekonomi och näringsinnehåll."
+        }
+      }, {
+        "text" : "Dessutom utformar eleven <strong>________</strong> recept och menyer för olika verksamheter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utformar eleven <strong>med viss säkerhet</strong> recept och menyer för olika verksamheter.",
+          "C" : "Dessutom utformar eleven <strong>med viss säkerhet</strong> recept och menyer för olika verksamheter.",
+          "A" : "Dessutom utformar eleven <strong>med säkerhet</strong> recept och menyer för olika verksamheter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <strong>________</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <strong>översiktligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "C" : "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <strong>översiktligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "A" : "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <strong>utförligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Eleven samarbetar och kommunicerar <strong>________</strong> med andra och använder grundläggande fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra och använder grundläggande fackspråk.",
+          "C" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra och använder grundläggande fackspråk.",
+          "A" : "Eleven samarbetar och kommunicerar <strong>med säkerhet</strong> med andra och använder grundläggande fackspråk."
+        }
+      }, {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Matlagning 3",
+    "description" : "Kursen matlagning 3 omfattar punkterna 1–9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1, 5 och 8. I kursen behandlas fördjupade färdigheter i ämnet.",
+    "code" : "MALMAL03",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Yrkesmässig matlagning och metoder, tekniker, redskap, maskiner och annan utrustning avsedd för restaurang och storkök.", "Kreativt skapande av kalla och varma maträtter.", "Kemiska och fysikaliska processer vid matlagning och hantering av råvaror.", "Fördjupning av hur råvaror kan hanteras och förvaras.", "Råvarors kvalitet och näringsinnehåll samt ekonomiska beräkningar när det gäller val av råvaror och prissättning av maträtter.", "Framtagande av recept, matsedlar och menyer.", "Hygien och dagliga hygienrutiner, till exempel rengöring av lokaler och utrustning.", "Arbetsmiljö och säkerhet samt lagar och andra bestämmelser som gäller inom området, till exempel livsmedelslagen.", "Egenkontroll.", "Kommunikation och logistik för arbete i kök samt fackterminologi." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar <strong>________</strong> med handledare matlagning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar <strong>i samråd</strong> med handledare matlagning.",
+          "C" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare matlagning.",
+          "A" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare matlagning."
+        }
+      }, {
+        "text" : "Eleven tillagar metodiskt, hantverksmässigt, tekniskt och <strong>________</strong> med handledare maträtter med <strong>________</strong> kvalitet när det gäller smak och utseende.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tillagar metodiskt, hantverksmässigt, tekniskt och <strong>i samråd</strong> med handledare maträtter med <strong>tillfredsställande</strong> kvalitet när det gäller smak och utseende.",
+          "C" : "Eleven tillagar metodiskt, hantverksmässigt, tekniskt och <strong>efter samråd</strong> med handledare maträtter med <strong>tillfredsställande</strong> kvalitet när det gäller smak och utseende.",
+          "A" : "Eleven tillagar metodiskt, hantverksmässigt, tekniskt och <strong>efter samråd</strong> med handledare maträtter med <strong>god</strong> kvalitet när det gäller smak och utseende."
+        }
+      }, {
+        "text" : "I arbetet använder eleven med <strong>________</strong> handlag metoder, redskap, maskiner och annan utrustning som är lämpliga för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven med <strong>visst</strong> handlag metoder, redskap, maskiner och annan utrustning som är lämpliga för uppgiften.",
+          "C" : "I arbetet använder eleven med <strong>gott</strong> handlag metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften.",
+          "A" : "I arbetet använder eleven med <strong>mycket gott</strong> handlag metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften."
+        }
+      }, {
+        "text" : "Eleven utför arbetet inom givna tidsramar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet inom givna tidsramar.",
+          "C" : "Eleven utför arbetet inom givna tidsramar.",
+          "A" : "Eleven utför arbetet inom givna tidsramar."
+        }
+      }, {
+        "text" : "I arbetet redogör eleven <strong>________</strong> för kemiska och fysikaliska processer vid matlagning samt vid hantering och förvaring av råvaror.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet redogör eleven <strong>översiktligt</strong> för kemiska och fysikaliska processer vid matlagning samt vid hantering och förvaring av råvaror.",
+          "C" : "I arbetet redogör eleven <strong>utförligt</strong> för kemiska och fysikaliska processer vid matlagning samt vid hantering och förvaring av råvaror.",
+          "A" : "I arbetet redogör eleven <strong>utförligt och nyanserat</strong> för kemiska och fysikaliska processer vid matlagning samt vid hantering och förvaring av råvaror."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> ekonomiska beräkningar vid val av råvaror och prissättning av maträtter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>med viss säkerhet</strong> ekonomiska beräkningar vid val av råvaror och prissättning av maträtter.",
+          "C" : "Dessutom utför eleven <strong>med viss säkerhet</strong> ekonomiska beräkningar vid val av råvaror och prissättning av maträtter.",
+          "A" : "Dessutom utför eleven <strong>med säkerhet</strong> ekonomiska beräkningar vid val av råvaror och prissättning av maträtter."
+        }
+      }, {
+        "text" : "Eleven utformar <strong>________</strong> recept, matsedlar och menyer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utformar <strong>med viss säkerhet</strong> recept, matsedlar och menyer.",
+          "C" : "Eleven utformar <strong>med viss säkerhet</strong> recept, matsedlar och menyer.",
+          "A" : "Eleven utformar <strong>med säkerhet</strong> recept, matsedlar och menyer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <strong>________</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <strong>översiktligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "C" : "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <strong>översiktligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "A" : "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <strong>utförligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört utvärderar eleven <strong>________</strong> med handledare sitt arbete med hjälp av egenkontroll.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört utvärderar eleven <strong>i samråd</strong> med handledare sitt arbete med hjälp av egenkontroll.",
+          "C" : "När arbetet är utfört utvärderar eleven <strong>efter samråd</strong> med handledare sitt arbete med hjälp av egenkontroll.",
+          "A" : "När arbetet är utfört utvärderar eleven <strong>efter samråd</strong> med handledare sitt arbete med hjälp av egenkontroll."
+        }
+      }, {
+        "text" : "Eleven samarbetar och kommunicerar <strong>________</strong> med andra och använder fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra och använder fackspråk.",
+          "C" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra och använder fackspråk.",
+          "A" : "Eleven samarbetar och kommunicerar <strong>med säkerhet</strong> med andra och använder fackspråk."
+        }
+      }, {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Matlagning 4",
+    "description" : "Kursen matlagning 4 omfattar punkterna 1–9 under rubriken Ämnets syfte. I kursen behandlas fördjupade färdigheter i ämnet.",
+    "code" : "MALMAL04",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Yrkesmässigt arbete inom restaurang och storkök.", "Tillverkning av avancerade maträtter och anrättningar.", "Restaurangekonomi. Ekonomisk planering, kalkylering och ekonomiska konsekvenser för verksamheter inom restaurang- och storköksbranschen.", "Kreativt framtagande av recept, matsedlar och menyer.", "Hygien och dagliga hygienrutiner, till exempel rengöring av lokaler och utrustning.", "Arbetsmiljö och säkerhet samt lagar och andra bestämmelser som gäller inom området, till exempel livsmedelslagen.", "Utförande och uppföljning av egenkontroll för att uppnå matsäkerhet.", "Kommunikation och logistik för arbete i kök samt fackterminologi." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar <strong>________</strong> med handledare matlagning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar <strong>i samråd</strong> med handledare matlagning.",
+          "C" : "Eleven planerar och organiserar <strong>efter samråd med handledare</strong> matlagning.",
+          "A" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare matlagning."
+        }
+      }, {
+        "text" : "Eleven tillagar metodiskt, hantverksmässigt, tekniskt och <strong>________</strong> med handledare avancerade maträtter och anrättningar med <strong>________</strong> kvalitet när det gäller smak och utseende.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tillagar metodiskt, hantverksmässigt, tekniskt och <strong>i samråd</strong> med handledare avancerade maträtter och anrättningar med <strong>tillfredsställande</strong> kvalitet när det gäller smak och utseende.",
+          "C" : "Eleven tillagar metodiskt, hantverksmässigt, tekniskt och <strong>efter samråd med handledare</strong> avancerade maträtter och anrättningar med <strong>tillfredsställande</strong> kvalitet när det gäller smak och utseende.",
+          "A" : "Eleven tillagar metodiskt, hantverksmässigt, tekniskt och <strong>efter samråd</strong> med handledare avancerade maträtter och anrättningar med <strong>god</strong> kvalitet när det gäller smak och utseende."
+        }
+      }, {
+        "text" : "I arbetet använder eleven med <strong>________</strong> handlag metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven med <strong>visst</strong> handlag metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften.",
+          "C" : "I arbetet använder eleven med <strong>gott</strong> handlag metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften.",
+          "A" : "I arbetet använder eleven med <strong>mycket gott</strong> handlag metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften."
+        }
+      }, {
+        "text" : "Eleven utför arbetet inom givna tidsramar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet inom givna tidsramar.",
+          "C" : "Eleven utför arbetet inom givna tidsramar.",
+          "A" : "Eleven utför arbetet inom givna tidsramar."
+        }
+      }, {
+        "text" : "I arbetet utför eleven <strong>________</strong> ekonomisk planering och kalkylering vid val av råvaror och prissättning av maträtter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet utför eleven <strong>med viss säkerhet</strong> ekonomisk planering och kalkylering vid val av råvaror och prissättning av maträtter.",
+          "C" : "I arbetet utför eleven <strong>med viss säkerhet</strong> ekonomisk planering och kalkylering vid val av råvaror och prissättning av maträtter.",
+          "A" : "I arbetet utför eleven <strong>med säkerhet</strong> ekonomisk planering och kalkylering vid val av råvaror och prissättning av maträtter."
+        }
+      }, {
+        "text" : "Eleven utformar <strong>________</strong> recept, matsedlar och menyer samt planerar <strong>________</strong> inköp utifrån ekonomiska konsekvenser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utformar <strong>med handledning</strong> recept, matsedlar och menyer samt planerar <strong>med viss säkerhet</strong> inköp utifrån ekonomiska konsekvenser.",
+          "C" : "Eleven utformar <strong>med viss säkerhet</strong> recept, matsedlar och menyer samt planerar <strong>med viss säkerhet</strong> inköp utifrån ekonomiska konsekvenser.",
+          "A" : "Eleven utformar <strong>med säkerhet</strong> recept, matsedlar och menyer samt planerar <strong>med säkerhet</strong> inköp utifrån ekonomiska konsekvenser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <strong>________</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <strong>översiktligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "C" : "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <strong>översiktligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "A" : "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <strong>utförligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört utvärderar eleven <strong>________</strong> med handledare sitt arbete med hjälp av egenkontroll.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört utvärderar eleven <strong>i samråd</strong> med handledare sitt arbete med hjälp av egenkontroll.",
+          "C" : "När arbetet är utfört utvärderar eleven <strong>efter samråd</strong> med handledare sitt arbete med hjälp av egenkontroll.",
+          "A" : "När arbetet är utfört utvärderar eleven <strong>efter samråd</strong> med handledare sitt arbete med hjälp av egenkontroll."
+        }
+      }, {
+        "text" : "Dessutom följer eleven <strong>________</strong> med handledare upp resultatet av egenkontrollen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom följer eleven <strong>i samråd</strong> med handledare upp resultatet av egenkontrollen.",
+          "C" : "Dessutom följer eleven <strong>efter samråd</strong> med handledare upp resultatet av egenkontrollen.",
+          "A" : "Dessutom följer eleven <strong>efter samråd</strong> med handledare upp resultatet av egenkontrollen."
+        }
+      }, {
+        "text" : "Eleven samarbetar och kommunicerar <strong>________</strong> med andra och använder fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra och använder fackspråk.",
+          "C" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra och använder fackspråk.",
+          "A" : "Eleven samarbetar och kommunicerar <strong>med säkerhet</strong> med andra och använder fackspråk."
+        }
+      }, {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Matlagning – specialisering",
+    "description" : "Kursen matlagning – specialisering omfattar punkterna 1–9 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom valt specialiseringsområde.",
+    "code" : "MALMAL00S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Yrkesmässig och experimentell matlagning inom valt specialiseringsområde. Exempel på specialiseringsområden kan vara kreativ matlagning, molekylär gastronomi, internationell matlagning, tematisk matlagning och snabbmat eller street food.", "Tillverkning av avancerade och experimentella maträtter och anrättningar.", "Matlagningens trender, traditioner och utveckling inom valt specialiseringsområde.", "Matkulturer i dag och i ett historiskt perspektiv inom valt specialiseringsområde. Hur matkulturer påverkas av andra kulturer.", "Ekonomiska och näringsmässiga konsekvenser vid val och inköp av råvaror samt vid tillagning och förvaring.", "Framtagande av recept, matsedlar och menyer inom valt specialiseringsområde.", "Hygien och dagliga hygienrutiner, till exempel rengöring av lokaler och utrustning.", "Arbetsmiljö och säkerhet samt lagar och andra bestämmelser som gäller inom området.", "Kommunikation med andra samt fackterminologi." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar <strong>________</strong> med handledare matlagning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar <strong>i samråd</strong> med handledare matlagning.",
+          "C" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare matlagning.",
+          "A" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare matlagning."
+        }
+      }, {
+        "text" : "Eleven tillagar metodiskt, hantverksmässigt, tekniskt och <strong>________</strong> med handledare avancerade och experimentella maträtter och anrättningar inom valt specialiseringsområde med <strong>________</strong> kvalitet när det gäller smak och utseende.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tillagar metodiskt, hantverksmässigt, tekniskt och <strong>i samråd</strong> med handledare avancerade och experimentella maträtter och anrättningar inom valt specialiseringsområde med <strong>tillfredsställande</strong> kvalitet när det gäller smak och utseende.",
+          "C" : "Eleven tillagar metodiskt, hantverksmässigt, tekniskt och <strong>efter samråd</strong> med handledare avancerade och experimentella maträtter och anrättningar inom valt specialiseringsområde med <strong>tillfredsställande</strong> kvalitet när det gäller smak och utseende.",
+          "A" : "Eleven tillagar metodiskt, hantverksmässigt, tekniskt och <strong>efter samråd</strong> med handledare avancerade och experimentella maträtter och anrättningar inom valt specialiseringsområde med <strong>god</strong> kvalitet när det gäller smak och utseende."
+        }
+      }, {
+        "text" : "I arbetet använder eleven med <strong>________</strong> handlag metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven med <strong>visst</strong> handlag metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften.",
+          "C" : "I arbetet använder eleven med <strong>gott</strong> handlag metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften.",
+          "A" : "I arbetet använder eleven med <strong>mycket gott</strong> handlag metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften."
+        }
+      }, {
+        "text" : "Eleven utför arbetet inom givna tidsramar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet inom givna tidsramar.",
+          "C" : "Eleven utför arbetet inom givna tidsramar.",
+          "A" : "Eleven utför arbetet inom givna tidsramar."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för trender, traditioner och utveckling inom valt specialiseringsområde samt för hur matkulturer förändras genom historien och påverkas av andra kulturer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för trender, traditioner och utveckling inom valt specialiseringsområde samt för hur matkulturer förändras genom historien och påverkas av andra kulturer.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för trender, traditioner och utveckling inom valt specialiseringsområde samt för hur matkulturer förändras genom historien och påverkas av andra kulturer.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för trender, traditioner och utveckling inom valt specialiseringsområde samt för hur matkulturer förändras genom historien och påverkas av andra kulturer."
+        }
+      }, {
+        "text" : "I arbetet redogör eleven <strong>________</strong> för ekonomiska och näringsmässiga konsekvenser vid val och inköp av råvaror samt vid tillagning och förvaring.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet redogör eleven <strong>översiktligt</strong> för ekonomiska och näringsmässiga konsekvenser vid val och inköp av råvaror samt vid tillagning och förvaring.",
+          "C" : "I arbetet redogör eleven <strong>utförligt</strong> för ekonomiska och näringsmässiga konsekvenser vid val och inköp av råvaror samt vid tillagning och förvaring.",
+          "A" : "I arbetet redogör eleven <strong>utförligt och nyanserat</strong> för ekonomiska och näringsmässiga konsekvenser vid val och inköp av råvaror samt vid tillagning och förvaring."
+        }
+      }, {
+        "text" : "Eleven utformar <strong>________</strong> recept, matsedlar och menyer inom valt specialiseringsområde.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utformar <strong>med viss säkerhet</strong> recept, matsedlar och menyer inom valt specialiseringsområde.",
+          "C" : "Eleven utformar <strong>med viss säkerhet</strong> recept, matsedlar och menyer inom valt specialiseringsområde.",
+          "A" : "Eleven utformar <strong>med säkerhet</strong> recept, matsedlar och menyer inom valt specialiseringsområde."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <strong>________</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <strong>översiktligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "C" : "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <strong>översiktligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "A" : "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <strong>utförligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Eleven samarbetar och kommunicerar <strong>________</strong> med andra och använder fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra och använder fackspråk.",
+          "C" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra och använder fackspråk.",
+          "A" : "Eleven samarbetar och kommunicerar <strong>med säkerhet</strong> med andra och använder fackspråk."
+        }
+      }, {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Specialkoster",
+    "description" : "Kursen specialkoster omfattar punkterna 1–9 under rubriken Ämnets syfte. I kursen behandlas fördjupade färdigheter i ämnet.",
+    "code" : "MALSPE0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Yrkesmässig tillagning av specialkoster.", "Immunologi och födoämnesintolerans.", "Mat och måltider för olika behov.", "Ekonomiska konsekvenser vid val av råvaror samt vid hantering och förvaring.", "Näringsberäkningar av måltider med hjälp av datorprogram.", "Svenska näringsrekommendationer.", "Kreativt framtagande av recept, matsedlar och menyer för olika specialkoster.", "Hygien och dagliga hygienrutiner, till exempel rengöring av lokaler och utrustning.", "Arbetsmiljö och livsmedelssäkerhet samt lagar och andra bestämmelser som gäller inom området.", "Kommunikation med andra samt fackterminologi." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar <strong>________</strong> med handledare matlagning av olika specialkoster.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar <strong>i samråd</strong> med handledare matlagning av olika specialkoster.",
+          "C" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare matlagning av olika specialkoster.",
+          "A" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare matlagning av olika specialkoster."
+        }
+      }, {
+        "text" : "<strong>________</strong> med handledare tillagar eleven på ett metodiskt, hantverksmässigt och tekniskt sätt anrättningar som har <strong>________</strong> kvalitet i fråga om smak, utseende och näringsinnehåll samt är anpassade till olika behov och födoämnesintoleranser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "<strong>I samråd</strong> med handledare tillagar eleven på ett metodiskt, hantverksmässigt och tekniskt sätt anrättningar som har <strong>tillfredsställande</strong> kvalitet i fråga om smak, utseende och näringsinnehåll samt är anpassade till olika behov och födoämnesintoleranser.",
+          "C" : "<strong>Efter samråd</strong> med handledare tillagar eleven på ett metodiskt, hantverksmässigt och tekniskt sätt anrättningar som har <strong>tillfredsställande</strong> kvalitet i fråga om smak, utseende och näringsinnehåll samt är anpassade till olika behov och födoämnesintoleranser.",
+          "A" : "<strong>Efter samråd</strong> med handledare tillagar eleven på ett metodiskt, hantverksmässigt och tekniskt sätt anrättningar som har <strong>god</strong> kvalitet i fråga om smak, utseende och näringsinnehåll samt är anpassade till olika behov och födoämnesintoleranser."
+        }
+      }, {
+        "text" : "I arbetet använder eleven med <strong>________</strong> handlag metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven med <strong>visst</strong> handlag metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften.",
+          "C" : "I arbetet använder eleven med <strong>gott</strong> handlag metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften.",
+          "A" : "I arbetet använder eleven med <strong>mycket gott</strong> handlag metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften."
+        }
+      }, {
+        "text" : "Eleven utför arbetet inom givna tidsramar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet inom givna tidsramar.",
+          "C" : "Eleven utför arbetet inom givna tidsramar.",
+          "A" : "Eleven utför arbetet inom givna tidsramar."
+        }
+      }, {
+        "text" : "I arbetet redogör eleven <strong>________</strong> för ekonomiska konsekvenser vid val av råvaror samt vid hantering och förvaring.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet redogör eleven <strong>översiktligt</strong> för ekonomiska konsekvenser vid val av råvaror samt vid hantering och förvaring.",
+          "C" : "I arbetet redogör eleven <strong>utförligt</strong> för ekonomiska konsekvenser vid val av råvaror samt vid hantering och förvaring.",
+          "A" : "I arbetet redogör eleven <strong>utförligt och nyanserat</strong> för ekonomiska konsekvenser vid val av råvaror samt vid hantering och förvaring."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> näringsberäkningar av måltider med hjälp av datorprogram samt gör en <strong>________</strong> bedömning av måltiden utifrån svenska näringsrekommendationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>med viss säkerhet</strong> näringsberäkningar av måltider med hjälp av datorprogram samt gör en <strong>enkel</strong> bedömning av måltiden utifrån svenska näringsrekommendationer.",
+          "C" : "Eleven utför <strong>med viss säkerhet</strong> näringsberäkningar av måltider med hjälp av datorprogram samt gör en <strong>välgrundad</strong> bedömning av måltiden utifrån svenska näringsrekommendationer.",
+          "A" : "Eleven utför <strong>med säkerhet</strong> näringsberäkningar av måltider med hjälp av datorprogram samt gör en <strong>välgrundad och nyanserad</strong> bedömning av måltiden utifrån svenska näringsrekommendationer."
+        }
+      }, {
+        "text" : "Eleven utformar <strong>________</strong> recept, matsedlar och menyer för specialkoster.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utformar <strong>med viss säkerhet</strong> recept, matsedlar och menyer för specialkoster.",
+          "C" : "Eleven utformar <strong>med viss säkerhet</strong> recept, matsedlar och menyer för specialkoster.",
+          "A" : "Eleven utformar <strong>med säkerhet</strong> recept, matsedlar och menyer för specialkoster."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <strong>________</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <strong>översiktligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "C" : "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <strong>översiktligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.",
+          "A" : "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <strong>utförligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Eleven samarbetar och kommunicerar <strong>________</strong> med andra och använder fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra och använder fackspråk.",
+          "C" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra och använder fackspråk.",
+          "A" : "Eleven samarbetar och kommunicerar <strong>med säkerhet</strong> med andra och använder fackspråk."
+        }
+      }, {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

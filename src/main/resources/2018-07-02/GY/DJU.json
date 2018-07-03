@@ -1,0 +1,724 @@
+{
+  "name" : "Djur",
+  "description" : "Ämnet djur behandlar skötsel av djur och anläggningar. I ämnet behandlas djur för livsmedelsproduktion och landskapsvård samt hästar, hundar och sällskapsdjur. Ämnet omfattar också de djurarter som förekommer inom zoohandeln. Det ökade intresset för djur i olika sammanhang skapar nya verksamhetsområden och arbetstillfällen inom naturbruket. Ämnet behandlar också djurens betydelse i ekosystemen. Centralt i ämnet är hantering av djur, djurens behov, djuretik samt lagar och andra bestämmelser som reglerar djurhållning av olika slag.",
+  "code" : "DJU",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet djur ska syfta till att eleverna utvecklar kunskaper för yrkesarbete med djur.", "Den ska leda till att eleverna utvecklar förmåga att sköta djur med utgångspunkt i djurs behov och naturliga beteende samt med vetenskapligt beprövade metoder som grund.", "Eleverna ska ges möjlighet att utveckla förmåga att följa fasta rutiner och ta ansvar i arbetet med djur samt kunskaper om foder och foderhantering.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur man förebygger skador och sjukdomar hos djur samt hur man minimerar påverkan på miljön.", "Undervisningen ska dessutom bidra till att eleverna utvecklar kunskaper om lagar och andra bestämmelser som gäller i samband med djurhållning av olika slag." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom praktiska övningar i undervisningen ska eleverna ges möjlighet att utveckla förmåga att hantera och sköta djur och anläggningar samt teknisk utrustning.", "Genom stallturer och fältstudier i olika djurmiljöer ska eleverna ges möjlighet att följa djurs utveckling, hälsa och välbefinnande.", "Genom observationer och fältstudier ska eleverna ges möjlighet att utveckla kunskaper om etologi." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet djur ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om djurarter och artgrupper, om djurens betydelse i ekosystemen samt om djurens betydelse för människan och i olika verksamheter.", "Kunskaper om etologi i samband med djurhållning.", "Kunskaper om näringsfysiologi, utfodring och foderhantering.", "Förmåga att sköta och hantera djur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav.", "Förmåga att sköta och hantera utrustning och anläggningar på ett säkert sätt.", "Förmåga att arbeta ergonomiskt och med hänsyn till miljön.", "Kunskaper om hygien och smittskydd samt förmåga att följa hygienrutiner och förebygga ohälsa hos djuren.", "Kunskaper om lagar och andra bestämmelser som rör djurhållning." ]
+  } ],
+  "courses" : [ {
+    "name" : "Djur i zoohandel",
+    "description" : "Kursen djur i zoohandel omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1–2 och 4.",
+    "code" : "DJUDJI0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Information vid försäljning av djur",
+      "lines" : [ "Djurart och släkt med svenskt och vetenskapligt namn.", "Djurets kön.", "Djurartens storlek och livslängd.", "Djurartens aktivitetsmönster och sociala organisation i naturen.", "Djurartens behov av utrymme, inredning, klimat och ljus.", "Rymningssäkert utrymme.", "Miljöomställning.", "Näringsbehov.", "Vintervila.", "Djurens hälsa och vanliga sjukdomar hos aktuell djurart." ]
+    }, {
+      "heading" : "Arbetsuppgifter",
+      "lines" : [ "Planering och genomförande av dagliga skötselrutiner av djur i zoohandel, till exempel utfodring och städning av burar.", "Planering och genomförande av fasta rutiner, till exempel visitering, kloklippning och klimatkontroll i lokaler.", "Planering och genomförande av rengöring, iordningställande och miljöberikning av burar, akvarier och terrarier.", "Könsbestämning av djur i zoohandel.", "Uppfödning och avel av djur i zoohandel.", "Hygien, desinficering och avfallshantering.", "Hantering av djurflöden med hänsyn till smittskyddsaspekter.", "Hantering av butiksvaror.", "Försäljning av djur, foder och tillbehör samt rådgivning i samband med det.", "Information om djur och produkter i samband med kundmöten.", "Skriftlig information vid försäljning av djur enligt bestämmelser som gäller inom området." ]
+    }, {
+      "heading" : "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+      "lines" : [ "Ergonomi, arbetsmiljö och säkerhet i samband med arbete med djur i zoohandel.", "Lagar och andra bestämmelser som rör arbete med djur i zoohandel vad gäller till exempel djurskydd, handel med djur, införsel och hotade arter." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven identifierar <strong>________</strong> och namnger med vetenskapliga och yrkesmässiga termer ett brett sortiment av djurarter som säljs i zoohandeln.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven identifierar <strong>med viss säkerhet</strong> och namnger med vetenskapliga och yrkesmässiga termer ett brett sortiment av djurarter som säljs i zoohandeln.",
+          "C" : "Eleven identifierar <strong>med viss säkerhet</strong> och namnger med vetenskapliga och yrkesmässiga termer ett brett sortiment av djurarter som säljs i zoohandeln.",
+          "A" : "Eleven identifierar <strong>med säkerhet</strong> och namnger med vetenskapliga och yrkesmässiga termer ett brett sortiment av djurarter som säljs i zoohandeln."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för de olika djurarternas naturliga beteende.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för de olika djurarternas naturliga beteende.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för de olika djurarternas naturliga beteende.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för de olika djurarternas naturliga beteende."
+        }
+      }, {
+        "text" : "När eleven observerar djurens beteende identifierar hon eller han <strong>________</strong> tecken som tyder på ohälsa eller vantrivsel.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven observerar djurens beteende identifierar hon eller han <strong>med viss säkerhet</strong> tecken som tyder på ohälsa eller vantrivsel.",
+          "C" : "När eleven observerar djurens beteende identifierar hon eller han <strong>med viss säkerhet</strong> tecken som tyder på ohälsa eller vantrivsel.",
+          "A" : "När eleven observerar djurens beteende identifierar hon eller han <strong>med säkerhet</strong> tecken som tyder på ohälsa eller vantrivsel."
+        }
+      }, {
+        "text" : "Eleven gör <strong>________</strong> bedömningar av sina observationer och föreslår <strong>________</strong> åtgärder för att förbättra djurens hälsa och närmiljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör <strong>enkla</strong> bedömningar av sina observationer och föreslår <strong>enkla</strong> åtgärder för att förbättra djurens hälsa och närmiljö.",
+          "C" : "Eleven gör <strong>välgrundade</strong> bedömningar av sina observationer och föreslår åtgärder för att förbättra djurens hälsa och närmiljö.",
+          "A" : "Eleven gör <strong>välgrundade och nyanserade</strong> bedömningar av sina observationer och föreslår <strong>avancerade</strong> åtgärder för att förbättra djurens hälsa och närmiljö."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare sitt arbete samt sköter och hanterar <strong>________</strong> med handledare djur i zoohandeln på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare sitt arbete samt sköter och hanterar <strong>i samråd</strong> med handledare djur i zoohandeln på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete samt sköter och hanterar <strong>efter samråd</strong> med handledare djur i zoohandeln på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete samt sköter och hanterar <strong>efter samråd</strong> med handledare djur i zoohandeln på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav."
+        }
+      }, {
+        "text" : "Dessutom sköter och hanterar eleven <strong>________</strong> med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom sköter och hanterar eleven <strong>i samråd</strong> med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt.",
+          "C" : "Dessutom sköter och hanterar eleven <strong>efter samråd</strong> med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt.",
+          "A" : "Dessutom sköter och hanterar eleven <strong>efter samråd</strong> med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "I arbetet löser eleven <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt och tar hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och tar hänsyn till miljön.",
+          "C" : "Eleven arbetar ergonomiskt och tar hänsyn till miljön.",
+          "A" : "Eleven arbetar ergonomiskt och tar hänsyn till miljön."
+        }
+      }, {
+        "text" : "I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>________</strong> för hygien och smittskydd.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>översiktligt</strong> för hygien och smittskydd.",
+          "C" : "I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>utförligt</strong> för hygien och smittskydd.",
+          "A" : "I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>utförligt och nyanserat</strong> för hygien och smittskydd."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Inför försäljning av djur sammanställer eleven <strong>________</strong> med handledare skriftlig information om djuren och i vilken miljö djuren kan vistas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Inför försäljning av djur sammanställer eleven <strong>i samråd</strong> med handledare skriftlig information om djuren och i vilken miljö djuren kan vistas.",
+          "C" : "Inför försäljning av djur sammanställer eleven <strong>efter samråd</strong> med handledare skriftlig information om djuren och i vilken miljö djuren kan vistas.",
+          "A" : "Inför försäljning av djur sammanställer eleven <strong>efter samråd</strong> med handledare skriftlig information om djuren och i vilken miljö djuren kan vistas."
+        }
+      }, {
+        "text" : "Dessutom informerar eleven muntligt vid försäljning av djur och svarar på <strong>________</strong> frågor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom informerar eleven muntligt vid försäljning av djur och svarar på <strong>enkla</strong> frågor.",
+          "C" : "Dessutom informerar eleven muntligt vid försäljning av djur och svarar på frågor.",
+          "A" : "Dessutom informerar eleven muntligt vid försäljning av djur och svarar på <strong>avancerade</strong> frågor."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Djur – specialisering",
+    "description" : "Kursen djur – specialisering omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom vald specialisering.",
+    "code" : "DJUDJU00S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Fördjupning inom vald specialisering.", "Djurarter och djurraser inom vald specialisering.", "Etologi inom vald specialisering.", "Foder, utfodring och djurens näringsbehov inom vald specialisering.", "Arbetsplanering och genomförande av arbetsuppgifter inom vald specialisering.", "Skötsel och hantering av djur inom vald specialisering.", "Skötsel och hantering av anläggningar och utrustning inom vald specialisering.", "Ergonomi, arbetsmiljö och säkerhet.", "Hygien, smittskydd och förebyggande hälsoarbete.", "Lagar och andra bestämmelser inom vald specialisering, vad gäller till exempel djurskydd, handel med djur, införsel och hotade arter." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven observerar djurs beteende och identifierar i samband med det <strong>________</strong> tecken som tyder på ohälsa eller vantrivsel.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven observerar djurs beteende och identifierar i samband med det <strong>med viss säkerhet</strong> tecken som tyder på ohälsa eller vantrivsel.",
+          "C" : "Eleven observerar djurs beteende och identifierar i samband med det <strong>med viss säkerhet</strong> tecken som tyder på ohälsa eller vantrivsel.",
+          "A" : "Eleven observerar djurs beteende och identifierar i samband med det <strong>med säkerhet</strong> tecken som tyder på ohälsa eller vantrivsel."
+        }
+      }, {
+        "text" : "Eleven gör <strong>________</strong> bedömningar av sina observationer och föreslår <strong>________</strong> åtgärder för att förbättra djurens hälsa och närmiljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör <strong>enkla</strong> bedömningar av sina observationer och föreslår <strong>enkla</strong> åtgärder för att förbättra djurens hälsa och närmiljö.",
+          "C" : "Eleven gör <strong>välgrundade</strong> bedömningar av sina observationer och föreslår åtgärder för att förbättra djurens hälsa och närmiljö.",
+          "A" : "Eleven gör <strong>välgrundade och nyanserade</strong> bedömningar av sina observationer och föreslår <strong>avancerade</strong> åtgärder för att förbättra djurens hälsa och närmiljö."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare sitt arbete inom vald specialisering samt sköter och hanterar <strong>________</strong> med handledare djur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare sitt arbete inom vald specialisering samt sköter och hanterar <strong>i samråd</strong> med handledare djur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete inom vald specialisering samt sköter och hanterar <strong>efter samråd</strong> med handledare djur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete inom vald specialisering samt sköter och hanterar <strong>efter samråd</strong> med handledare djur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav."
+        }
+      }, {
+        "text" : "Dessutom sköter och hanterar eleven <strong>________</strong> med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom sköter och hanterar eleven <strong>i samråd</strong> med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt.",
+          "C" : "Dessutom sköter och hanterar eleven <strong>efter samråd</strong> med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt.",
+          "A" : "Dessutom sköter och hanterar eleven <strong>efter samråd</strong> med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "I arbetet löser eleven <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt och tar hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och tar hänsyn till miljön.",
+          "C" : "Eleven arbetar ergonomiskt och tar hänsyn till miljön.",
+          "A" : "Eleven arbetar ergonomiskt och tar hänsyn till miljön."
+        }
+      }, {
+        "text" : "I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>________</strong> för hygien och smittskydd.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>översiktligt</strong> för hygien och smittskydd.",
+          "C" : "I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>utförligt</strong> för hygien och smittskydd.",
+          "A" : "I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>utförligt och nyanserat</strong> för hygien och smittskydd."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Djuren i naturbruket",
+    "description" : "Kursen djuren i naturbruket omfattar punkterna 1 och 3–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 4 och 5.",
+    "code" : "DJUDJR0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Djuren i naturbruket",
+      "lines" : [ "Djurslag inom naturbruket, olika djurslags ursprung samt domesticering av djur.", "Djurens betydelse i naturbruket och i ekosystemen samt för den biologiska mångfalden.", "Djurens användningsområden för produktion, inom sport samt för miljö och livskvalitet.", "Produkter och tjänster från djur.", "Djurens ekonomiska betydelse inom naturbruket.", "Fodrets näringsinnehåll och kvalitet." ]
+    }, {
+      "heading" : "Arbetsuppgifter",
+      "lines" : [ "Hantering av naturbrukets djur med utgångspunkt i djurens behov och i etiska ställningstaganden.", "Utfodring och foderhantering med adekvat teknisk utrustning.", "Hantering av strömedel och gödsel med adekvat teknisk utrustning och med utgångspunkt från djurens behov och miljölagstiftning." ]
+    }, {
+      "heading" : "Arbetsmiljö, säkerhetsfrågor samt lagar och andra bestämmelser",
+      "lines" : [ "Ergonomi, arbetsmiljö och säkerhet i samband med arbete med djur.", "Djurskyddslagstiftning som rör djuren i naturbruket.", "Miljölagstiftning i samband med djurhållning och gödselhantering.", "Livsmedelslagstiftning som reglerar produktion av livsmedel." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för olika djurslag inom naturbruket, djurens betydelse i naturbruket och i ekosystemen samt för djurens betydelse för den biologiska mångfalden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för olika djurslag inom naturbruket, djurens betydelse i naturbruket och i ekosystemen samt för djurens betydelse för den biologiska mångfalden.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för olika djurslag inom naturbruket, djurens betydelse i naturbruket och i ekosystemen samt för djurens betydelse för den biologiska mångfalden.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för olika djurslag inom naturbruket, djurens betydelse i naturbruket och i ekosystemen samt för djurens betydelse för den biologiska mångfalden."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för utfodring och foderhantering samt för fodrets näringsinnehåll och kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för utfodring och foderhantering samt för fodrets näringsinnehåll och kvalitet.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för utfodring och foderhantering samt för fodrets näringsinnehåll och kvalitet.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för utfodring och foderhantering samt för fodrets näringsinnehåll och kvalitet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven följer arbetsinstruktioner och sköter och hanterar <strong>________</strong> med handledare djur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven följer arbetsinstruktioner och sköter och hanterar <strong>i samråd</strong> med handledare djur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav.",
+          "C" : "Eleven följer arbetsinstruktioner och sköter och hanterar <strong>efter samråd</strong> med handledare djur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav.",
+          "A" : "Eleven följer arbetsinstruktioner och sköter och hanterar <strong>efter samråd</strong> med handledare djur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav."
+        }
+      }, {
+        "text" : "Dessutom sköter och hanterar eleven <strong>________</strong> med handledare utrustning och anläggningar på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom sköter och hanterar eleven <strong>i samråd</strong> med handledare utrustning och anläggningar på ett säkert sätt.",
+          "C" : "Dessutom sköter och hanterar eleven <strong>efter samråd</strong> med handledare utrustning och anläggningar på ett säkert sätt.",
+          "A" : "Dessutom sköter och hanterar eleven <strong>efter samråd</strong> med handledare utrustning och anläggningar på ett säkert sätt."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "I arbetet löser eleven <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt och tar hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och tar hänsyn till miljön.",
+          "C" : "Eleven arbetar ergonomiskt och tar hänsyn till miljön.",
+          "A" : "Eleven arbetar ergonomiskt och tar hänsyn till miljön."
+        }
+      }, {
+        "text" : "I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren.",
+          "C" : "I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren.",
+          "A" : "I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Djurhållning",
+    "description" : "Kursen djurhållning omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 4–5 och 7.",
+    "code" : "DJUDJH0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Biologisk grund",
+      "lines" : [ "Olika djurgrupper och deras beteende i samband med tillsyn och skötsel.", "Djurens krav på stallklimat innefattande värme, ventilation, luftfuktighet och ljus.", "Olika fodermedel och fodersmältning hos olika djurslag.", "Djurens krav på vattentillgång och vattenkvalitet.", "Hygien och smittskydd." ]
+    }, {
+      "heading" : "Arbetsuppgifter",
+      "lines" : [ "Arbetsrutiner vid skötsel av djur, till exempel vid utfodring, gödselhantering och tillsyn.", "Hantering av djur i djurstallar, rasthagar och betesdrift med utgångspunkt i djurens beteende och behov.", "Utfodring och foderhantering med utgångspunkt i djurens behov och med aktuell teknisk utrustning. Kontroll av kvalitet och foderhygien.", "Skötsel av byggnader och djuranläggningar samt hantering och underhåll av aktuell teknisk utrustning.", "Funktionskontroll av teknisk utrustning. Användning av fordon i samband med arbetsuppgifter inom djurhållning." ]
+    }, {
+      "heading" : "Arbetsmiljö, säkerhetsfrågor och andra bestämmelser",
+      "lines" : [ "Ergonomi, arbetsmiljö och säkerhet i samband med arbete med djur.", "Djurskyddslagstiftning som rör djuren i naturbruket.", "Miljölagstiftning i samband med djurhållning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för olika djurgrupper och deras beteende.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för olika djurgrupper och deras beteende.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för olika djurgrupper och deras beteende.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för olika djurgrupper och deras beteende."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för stallklimatets betydelse för djurens välbefinnande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för stallklimatets betydelse för djurens välbefinnande.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för stallklimatets betydelse för djurens välbefinnande.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för stallklimatets betydelse för djurens välbefinnande."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för olika fodermedel, deras användningsområden och olika djurarters val av föda samt för djurens krav på vattentillgång och vattenkvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för olika fodermedel, deras användningsområden och olika djurarters val av föda samt för djurens krav på vattentillgång och vattenkvalitet.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för olika fodermedel, deras användningsområden och olika djurarters val av föda samt för djurens krav på vattentillgång och vattenkvalitet.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för olika fodermedel, deras användningsområden och olika djurarters val av föda samt för djurens krav på vattentillgång och vattenkvalitet."
+        }
+      }, {
+        "text" : "I redogörelsen förklarar eleven <strong>________</strong> sambandet mellan typ av fodersmältning och val av foder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I redogörelsen förklarar eleven <strong>översiktligt</strong> sambandet mellan typ av fodersmältning och val av foder.",
+          "C" : "I redogörelsen förklarar eleven <strong>utförligt</strong> sambandet mellan typ av fodersmältning och val av foder.",
+          "A" : "I redogörelsen förklarar eleven <strong>utförligt och nyanserat</strong> sambandet mellan typ av fodersmältning och val av foder."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven följer arbetsinstruktioner och sköter och hanterar <strong>________</strong> med handledare djur på ett etiskt och säkert sätt, med aktuella metoder samt utifrån djurens behov och verksamhetens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven följer arbetsinstruktioner och sköter och hanterar <strong>i samråd</strong> med handledare djur på ett etiskt och säkert sätt, med aktuella metoder samt utifrån djurens behov och verksamhetens krav.",
+          "C" : "Eleven följer arbetsinstruktioner och sköter och hanterar <strong>efter samråd</strong> med handledare djur på ett etiskt och säkert sätt, med aktuella metoder samt utifrån djurens behov och verksamhetens krav.",
+          "A" : "Eleven följer arbetsinstruktioner och sköter och hanterar <strong>efter samråd</strong> med handledare djur på ett etiskt och säkert sätt, med aktuella metoder samt utifrån djurens behov och verksamhetens krav."
+        }
+      }, {
+        "text" : "I arbetet kontrollerar eleven <strong>________</strong> med handledare stallklimatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet kontrollerar eleven <strong>i samråd</strong> med handledare stallklimatet.",
+          "C" : "I arbetet kontrollerar eleven <strong>efter samråd</strong> med handledare stallklimatet.",
+          "A" : "I arbetet kontrollerar eleven <strong>efter samråd</strong> med handledare stallklimatet."
+        }
+      }, {
+        "text" : "Eleven sköter och hanterar också <strong>________</strong> med handledare utrustning, byggnader och anläggningar på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven sköter och hanterar också <strong>i samråd</strong> med handledare utrustning, byggnader och anläggningar på ett säkert sätt.",
+          "C" : "Eleven sköter och hanterar också <strong>efter samråd</strong> med handledare utrustning, byggnader och anläggningar på ett säkert sätt.",
+          "A" : "Eleven sköter och hanterar också <strong>efter samråd</strong> med handledare utrustning, byggnader och anläggningar på ett säkert sätt."
+        }
+      }, {
+        "text" : "Dessutom kör eleven <strong>________</strong> med handledare fordon på ett säkert sätt när hon eller han arbetar med skötsel av djur och anläggningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom kör eleven <strong>i samråd</strong> med handledare fordon på ett säkert sätt när hon eller han arbetar med skötsel av djur och anläggningar.",
+          "C" : "Dessutom kör eleven <strong>efter samråd</strong> med handledare fordon på ett säkert sätt när hon eller han arbetar med skötsel av djur och anläggningar.",
+          "A" : "Dessutom kör eleven <strong>efter samråd</strong> med handledare fordon på ett säkert sätt när hon eller han arbetar med skötsel av djur och anläggningar."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "I arbetet löser eleven <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt och tar hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och tar hänsyn till miljön.",
+          "C" : "Eleven arbetar ergonomiskt och tar hänsyn till miljön.",
+          "A" : "Eleven arbetar ergonomiskt och tar hänsyn till miljön."
+        }
+      }, {
+        "text" : "I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>________</strong> för hygien och smittskydd.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>översiktligt</strong> för hygien och smittskydd.",
+          "C" : "I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>utförligt</strong> för hygien och smittskydd.",
+          "A" : "I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>utförligt och nyanserat</strong> för hygien och smittskydd."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Sällskapsdjur 1",
+    "description" : "Kursen sällskapsdjur 1 omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 4–5.",
+    "code" : "DJUSÄL01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Biologisk grund",
+      "lines" : [ "Identifiering och namngivning av ett begränsat antal djurarter med vetenskapliga och yrkesmässiga termer.", "Sällskapsdjurens historik och betydelse för människan.", "Djurarternas naturliga beteenden och naturliga livsmiljö. Arternas egenskaper och särskilda behov.", "Djurarternas olika vistelsemiljöer vad gäller till exempel temperatur, ljus, bomaterial och tillgång på vatten.", "Rutiner för att upptäcka beteendeförändringar hos sällskapsdjur. Orsaker till beteendeförändringar som följd av skador och sjukdomar.", "Vanliga sjukdomar och förebyggande hälsovård samt vård av sjuka djur." ]
+    }, {
+      "heading" : "Arbetsuppgifter och utrustning",
+      "lines" : [ "Daglig skötsel av olika sällskapsdjur vad gäller till exempel utfodring, tillsyn, kontroll av utrustning och rengöring.", "Hantering av vanligt förekommande sällskapsdjur.", "Återkommande rutinåtgärder, till exempel visitation, hälsokontroll, pälsvård och kloklippning.", "Hantering av djurfoder.", "Olika typer av vistelseutrymmen, till exempel hundgårdar, hundboxar, burar, akvarier, terrarier och bolådor samt djurens behov, vistelseutrymmens utformning och materialval.", "Strömedel, till exempel kutterspån, torv och halm.", "Skötsel och underhåll av vistelseutrymmen.", "Underhåll, skötsel och hantering av aktuell teknisk utrustning." ]
+    }, {
+      "heading" : "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+      "lines" : [ "Ergonomi, arbetsmiljö och säkerhet i samband med arbete med sällskapsdjur.", "Lagar och andra bestämmelser i samband med arbete med sällskapsdjur." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven identifierar <strong>________</strong> och namnger med vetenskapliga och yrkesmässiga termer några av de djurarter som används som sällskapsdjur.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven identifierar <strong>med viss säkerhet</strong> och namnger med vetenskapliga och yrkesmässiga termer några av de djurarter som används som sällskapsdjur.",
+          "C" : "Eleven identifierar <strong>med viss säkerhet</strong> och namnger med vetenskapliga och yrkesmässiga termer några av de djurarter som används som sällskapsdjur.",
+          "A" : "Eleven identifierar <strong>med säkerhet</strong> och namnger med vetenskapliga och yrkesmässiga termer några av de djurarter som används som sällskapsdjur."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för de olika sällskapsdjurens betydelse för människan.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för de olika sällskapsdjurens betydelse för människan.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för de olika sällskapsdjurens betydelse för människan.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för de olika sällskapsdjurens betydelse för människan."
+        }
+      }, {
+        "text" : "I samband med praktiskt arbete med djur observerar eleven djurens beteende samt beskriver <strong>________</strong> tecken på välmående och tecken som kan tyda på ohälsa eller vantrivsel.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I samband med praktiskt arbete med djur observerar eleven djurens beteende samt beskriver <strong>översiktligt</strong> tecken på välmående och tecken som kan tyda på ohälsa eller vantrivsel.",
+          "C" : "I samband med praktiskt arbete med djur observerar eleven djurens beteende samt beskriver <strong>utförligt</strong> tecken på välmående och tecken som kan tyda på ohälsa eller vantrivsel.",
+          "A" : "I samband med praktiskt arbete med djur observerar eleven djurens beteende samt beskriver <strong>utförligt och nyanserat</strong> tecken på välmående och tecken som kan tyda på ohälsa eller vantrivsel."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för djurens miljö, de faktorer som påverkar djurens hälsa och de åtgärder som bidrar till god djurhälsa.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för djurens miljö, de faktorer som påverkar djurens hälsa och de åtgärder som bidrar till god djurhälsa.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för djurens miljö, de faktorer som påverkar djurens hälsa och de åtgärder som bidrar till god djurhälsa.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för djurens miljö, de faktorer som påverkar djurens hälsa och de åtgärder som bidrar till god djurhälsa."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för utfodring och foderhantering samt för fodrets näringsinnehåll och kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för utfodring och foderhantering samt för fodrets näringsinnehåll och kvalitet.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för utfodring och foderhantering samt för fodrets näringsinnehåll och kvalitet.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för utfodring och foderhantering samt för fodrets näringsinnehåll och kvalitet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven följer arbetsinstruktioner och sköter och hanterar <strong>________</strong> med handledare sällskapsdjur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven följer arbetsinstruktioner och sköter och hanterar <strong>i samråd</strong> med handledare sällskapsdjur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav.",
+          "C" : "Eleven följer arbetsinstruktioner och sköter och hanterar <strong>efter samråd</strong> med handledare sällskapsdjur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav.",
+          "A" : "Eleven följer arbetsinstruktioner och sköter och hanterar <strong>efter samråd</strong> med handledare sällskapsdjur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav."
+        }
+      }, {
+        "text" : "Dessutom sköter och hanterar eleven <strong>________</strong> med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom sköter och hanterar eleven <strong>i samråd</strong> med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt.",
+          "C" : "Dessutom sköter och hanterar eleven <strong>efter samråd</strong> med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt.",
+          "A" : "Dessutom sköter och hanterar eleven <strong>efter samråd</strong> med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "I arbetet löser eleven <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt och tar hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och tar hänsyn till miljön.",
+          "C" : "Eleven arbetar ergonomiskt och tar hänsyn till miljön.",
+          "A" : "Eleven arbetar ergonomiskt och tar hänsyn till miljön."
+        }
+      }, {
+        "text" : "I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>________</strong> för hygien och smittskydd.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>översiktligt</strong> för hygien och smittskydd.",
+          "C" : "I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>utförligt</strong> för hygien och smittskydd.",
+          "A" : "I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>utförligt och nyanserat</strong> för hygien och smittskydd."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Sällskapsdjur 2",
+    "description" : "Kursen sällskapsdjur 2 omfattar punkterna 1–8 under Ämnets syfte.",
+    "code" : "DJUSÄL02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Biologisk grund",
+      "lines" : [ "Identifiering och namngivning av ett flertal djurarter med vetenskapliga och yrkesmässiga termer.", "Djurarternas naturliga beteenden och naturliga livsmiljö. Arternas egenskaper och särskilda behov samt deras naturliga livsmiljö vad gäller till exempel temperatur, ljus, bottenmaterial och tillgång på vatten.", "Djurs påverkan av miljöomställningar och stress.", "Klimatkontroll i djurmiljön.", "Miljöberikning för att stimulera djurens naturliga beteende.", "Reproduktion och avel innefattande till exempel könsbestämning, dräktighetstid och avvänjningsålder.", "Avlivning och hantering av döda djur.", "Foder och foderberäkning, fodrets näringsinnehåll och kvalitet samt artspecifika foderbehov." ]
+    }, {
+      "heading" : "Arbetsuppgifter och utrustning",
+      "lines" : [ "Utarbetande av planer för skötsel av sällskapsdjur. Arbetsuppgifter utifrån uppgjord plan samt uppföljning och rapportering.", "Hantering av vanligt förekommande sällskapsdjur.", "Val av vistelseutrymme för olika djurarter.", "Rutiner för att upptäcka beteendeförändringar hos sällskapsdjur. Orsaker till beteendeförändringar som följd av skador och sjukdomar samt lämpliga åtgärder." ]
+    }, {
+      "heading" : "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+      "lines" : [ "Ergonomi, arbetsmiljö och säkerhet i samband med arbete med sällskapsdjur.", "Lagar och andra bestämmelser i samband med arbete med sällskapsdjur." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven identifierar <strong>________</strong> och namnger med vetenskapliga och yrkesmässiga termer ett flertal av de djurarter som används som sällskapsdjur.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven identifierar <strong>med viss säkerhet</strong> och namnger med vetenskapliga och yrkesmässiga termer ett flertal av de djurarter som används som sällskapsdjur.",
+          "C" : "Eleven identifierar <strong>med viss säkerhet</strong> och namnger med vetenskapliga och yrkesmässiga termer ett flertal av de djurarter som används som sällskapsdjur.",
+          "A" : "Eleven identifierar <strong>med säkerhet</strong> och namnger med vetenskapliga och yrkesmässiga termer ett flertal av de djurarter som används som sällskapsdjur."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för de olika djurarternas naturliga beteende.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för de olika djurarternas naturliga beteende.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för de olika djurarternas naturliga beteende.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för de olika djurarternas naturliga beteende."
+        }
+      }, {
+        "text" : "När eleven observerar djurens beteende identifierar hon eller han <strong>________</strong> tecken som tyder på ohälsa eller vantrivsel.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven observerar djurens beteende identifierar hon eller han <strong>med viss säkerhet</strong> tecken som tyder på ohälsa eller vantrivsel.",
+          "C" : "När eleven observerar djurens beteende identifierar hon eller han <strong>med viss säkerhet</strong> tecken som tyder på ohälsa eller vantrivsel.",
+          "A" : "När eleven observerar djurens beteende identifierar hon eller han <strong>med säkerhet</strong> tecken som tyder på ohälsa eller vantrivsel."
+        }
+      }, {
+        "text" : "Eleven gör <strong>________</strong> bedömningar av sina observationer och föreslår <strong>________</strong> åtgärder för att förbättra djurens hälsa och närmiljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör <strong>enkla</strong> bedömningar av sina observationer och föreslår <strong>enkla</strong> åtgärder för att förbättra djurens hälsa och närmiljö.",
+          "C" : "Eleven gör <strong>välgrundade</strong> bedömningar av sina observationer och föreslår åtgärder för att förbättra djurens hälsa och närmiljö.",
+          "A" : "Eleven gör <strong>välgrundade och nyanserade</strong> bedömningar av sina observationer och föreslår <strong>avancerade</strong> åtgärder för att förbättra djurens hälsa och närmiljö."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för sällskapsdjurens reproduktionsbiologi samt för hur avelsarbete går till.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för sällskapsdjurens reproduktionsbiologi samt för hur avelsarbete går till.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för sällskapsdjurens reproduktionsbiologi samt för hur avelsarbete går till.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för sällskapsdjurens reproduktionsbiologi samt för hur avelsarbete går till."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för när och hur sällskapsdjur bör avlivas samt för hur döda djur bör hanteras på ett etiskt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för när och hur sällskapsdjur bör avlivas samt för hur döda djur bör hanteras på ett etiskt sätt.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för när och hur sällskapsdjur bör avlivas samt för hur döda djur bör hanteras på ett etiskt sätt.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för när och hur sällskapsdjur bör avlivas samt för hur döda djur bör hanteras på ett etiskt sätt."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för olika fodermedel och deras egenskaper samt gör <strong>________</strong> med handledare <strong>________</strong> foderberäkningar för olika djurarter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för olika fodermedel och deras egenskaper samt gör <strong>i samråd</strong> med handledare <strong>enkla</strong> foderberäkningar för olika djurarter.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för olika fodermedel och deras egenskaper samt gör <strong>efter samråd</strong> med handledare foderberäkningar för olika djurarter.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för olika fodermedel och deras egenskaper samt gör <strong>efter samråd</strong> med handledare <strong>avancerade</strong> foderberäkningar för olika djurarter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare sitt arbete samt sköter och hanterar <strong>________</strong> med handledare sällskapsdjur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare sitt arbete samt sköter och hanterar <strong>i samråd</strong> med handledare sällskapsdjur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete samt sköter och hanterar <strong>efter samråd</strong> med handledare sällskapsdjur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete samt sköter och hanterar <strong>efter samråd</strong> med handledare sällskapsdjur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav."
+        }
+      }, {
+        "text" : "Dessutom sköter och hanterar eleven <strong>________</strong> med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom sköter och hanterar eleven <strong>i samråd</strong> med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt.",
+          "C" : "Dessutom sköter och hanterar eleven <strong>efter samråd</strong> med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt.",
+          "A" : "Dessutom sköter och hanterar eleven <strong>efter samråd</strong> med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "I arbetet löser eleven <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt och tar hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och tar hänsyn till miljön.",
+          "C" : "Eleven arbetar ergonomiskt och tar hänsyn till miljön.",
+          "A" : "Eleven arbetar ergonomiskt och tar hänsyn till miljön."
+        }
+      }, {
+        "text" : "I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>________</strong> för hygien och smittskydd.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>översiktligt</strong> för hygien och smittskydd.",
+          "C" : "I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>utförligt</strong> för hygien och smittskydd.",
+          "A" : "I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>utförligt och nyanserat</strong> för hygien och smittskydd."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

@@ -1,0 +1,121 @@
+{
+  "name" : "Datalagring",
+  "description" : "Ämnet datalagring behandlar hur lösningar för datalagring designas och hur det är möjligt att effektivt komma åt lagrad data från mjukvaruapplikationer. Ämnet datalagring får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.",
+  "code" : "DAA",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet datalagring ska syfta till att eleverna utvecklar kunskaper om olika former av datalagring, främst med databashanterare av olika slag.", "Genom undervisningen ska eleverna ges möjlighet att utveckla förståelse av olika datamodeller och förmåga att använda dem för att implementera datalagring." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om flera aspekter av datalagring, främst funktionalitet, prestanda, skalbarhet och säkerhet.", "Undervisningen ska också leda till att eleverna utvecklar förmåga att hantera lagrad data ansvarsfullt, säkert och med hänsyn till lagstiftning och personlig integritet." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om begrepp inom området samt förmåga att kommunicera om datalagring." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Eleverna ska ges möjlighet att utveckla förmåga att skapa system för lagring och åtkomst av data.", "Undervisningen ska leda till att eleverna utvecklar förmåga att skapa ändamålsenliga datalagringslösningar genom att genomföra utvecklingsprojekt." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet datalagring ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om olika datamodeller, datalagringslösningar och databastyper samt om deras användningsområden och om vanligt förekommande produkter inom området.", "Kunskaper om begreppsbildning och terminologi inom området.", "Kunskaper om datalagring i datafiler.", "Kunskaper om relationsdatabaser och andra typer av databaser.", "Förmåga att skapa datamodeller och en fungerande struktur för datalagring.", "Förmåga att skapa, använda, felsöka och optimera datalagring samt att använda olika verktyg för detta.", "Förmåga att använda ramverk, gränssnitt och frågespråk för att komma åt lagrad data.", "Kunskaper om säkerhet samt lagar och andra bestämmelser inom området." ]
+  } ],
+  "courses" : [ {
+    "name" : "Datalagring",
+    "description" : "Kursen datalagring omfattar punkterna 1–8 under rubriken Ämnets syfte.",
+    "code" : "DAADAT3",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Terminologi och grundläggande teori om datalagring.", "Grundläggande teoribildning för datamodeller.", "Datalagring i strukturerade filer i olika format.", "Datalagring i relationsdatabas samt i någon ytterligare typ av databas.", "Prestandaoptimering och skalbarhet.", "Dataintegritet, feltolerans och säkerhet.", "Verktyg för administration och utveckling.", "Frågespråk och verktyg för manipulering av lagrad data.", "Åtkomst av data för att skapa, läsa, ändra eller radera data samt för att skapa och redigera schema.", "Programvarugränssnitt för åtkomst till lagrad data.", "Auktorisering av dataåtkomst, säker lagring och handhavande av känsliga uppgifter.", "Datasäkerhet och backup.", "Lagstiftning, andra bestämmelser och integritetsfrågor." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för grundläggande teorier inom området och använder <strong>________</strong> förekommande terminologi.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för grundläggande teorier inom området och använder <strong>med viss säkerhet</strong> förekommande terminologi.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för grundläggande teorier inom området och använder <strong>med viss säkerhet</strong> förekommande terminologi.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för grundläggande teorier inom området och använder <strong>med säkerhet</strong> förekommande terminologi."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör en <strong>________</strong> analys av data som är aktuell för lagring och skapar med <strong>________</strong> resultat en modell av denna data.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> analys av data som är aktuell för lagring och skapar med <strong>tillfredsställande</strong> resultat en modell av denna data.",
+          "C" : "Eleven gör en analys av data som är aktuell för lagring och skapar med <strong>tillfredsställande</strong> resultat en modell av denna data.",
+          "A" : "Eleven gör en <strong>avancerad</strong> analys av data som är aktuell för lagring och skapar med <strong>gott</strong> resultat en modell av denna data."
+        }
+      }, {
+        "text" : "Dessutom väljer eleven <strong>________</strong> en lämplig datalagringslösning och ger <strong>________</strong> motiv för sitt val.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom väljer eleven <strong>med viss säkerhet</strong> en lämplig datalagringslösning och ger <strong>enkla</strong> motiv för sitt val.",
+          "C" : "Dessutom väljer eleven <strong>med viss säkerhet</strong> en lämplig datalagringslösning och ger <strong>välgrundade</strong> motiv för sitt val.",
+          "A" : "Dessutom väljer eleven <strong>med säkerhet</strong> en lämplig datalagringslösning och ger <strong>välgrundade och nyanserade</strong> motiv för sitt val."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven implementerar med <strong>________</strong> resultat avseende teknisk funktion datalagring utifrån sin modell.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven implementerar med <strong>tillfredsställande</strong> resultat avseende teknisk funktion datalagring utifrån sin modell.",
+          "C" : "Eleven implementerar med <strong>tillfredsställande</strong> resultat avseende teknisk funktion datalagring utifrån sin modell.",
+          "A" : "Eleven implementerar med <strong>gott</strong> resultat avseende teknisk <strong>och optimal</strong> funktion datalagring utifrån sin modell."
+        }
+      }, {
+        "text" : "Dessutom identifierar eleven <strong>________</strong> möjliga problem avseende prestanda, dataintegritet och säkerhet samt åtgärdar dem med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom identifierar eleven <strong>några</strong> möjliga problem avseende prestanda, dataintegritet och säkerhet samt åtgärdar dem med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Dessutom identifierar eleven <strong>några</strong> möjliga problem avseende prestanda, dataintegritet, <strong>feltolerans</strong> och säkerhet samt åtgärdar dem med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Dessutom identifierar eleven <strong>flera</strong> möjliga problem avseende prestanda, <strong>skalbarhet</strong>, dataintegritet, <strong>feltolerans</strong> och säkerhet samt åtgärdar dem med <strong>gott</strong> resultat."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven demonstrerar med <strong>________</strong> handlag operationer gentemot lagrad data samt skapar och vid behov redigerar ett <strong>________</strong> databasschema.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven demonstrerar med <strong>visst</strong> handlag operationer gentemot lagrad data samt skapar och vid behov redigerar ett <strong>enkelt</strong> databasschema.",
+          "C" : "Eleven demonstrerar med <strong>gott</strong> handlag operationer gentemot lagrad data samt skapar och vid behov redigerar ett databasschema.",
+          "A" : "Eleven demonstrerar med <strong>mycket gott</strong> handlag operationer gentemot lagrad data samt skapar och vid behov redigerar ett <strong>avancerat</strong> databasschema."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för åtkomst direkt via programspråkets inbyggda gränssnitt och genom ramverk eller externa kodbibliotek.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för åtkomst direkt via programspråkets inbyggda gränssnitt och genom ramverk eller externa kodbibliotek.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för åtkomst direkt via programspråkets inbyggda gränssnitt och genom ramverk eller externa kodbibliotek.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för åtkomst direkt via programspråkets inbyggda gränssnitt och genom ramverk eller externa kodbibliotek."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utvecklar med <strong>________</strong> resultat fungerande funktioner för auktorisering och lösningar för lagring av data, så att den är säkrad mot obehörig åtkomst eller misstag gjorda av användare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvecklar med <strong>tillfredsställande</strong> resultat fungerande funktioner för auktorisering och lösningar för lagring av data, så att den är säkrad mot obehörig åtkomst eller misstag gjorda av användare.",
+          "C" : "Eleven utvecklar med <strong>tillfredsställande</strong> resultat fungerande funktioner för auktorisering och lösningar för lagring av data, så att den är säkrad mot obehörig åtkomst eller misstag gjorda av användare.",
+          "A" : "Eleven utvecklar med <strong>gott</strong> resultat fungerande funktioner för auktorisering och lösningar för lagring av data, så att den är säkrad mot obehörig åtkomst eller misstag gjorda av användare."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven hanterar lagrad data ansvarsfullt och enligt gällande lagstiftning samt resonerar <strong>________</strong> om personlig integritet och andra etiska frågor i relation till datalagring.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar lagrad data ansvarsfullt och enligt gällande lagstiftning samt resonerar <strong>översiktligt</strong> om personlig integritet och andra etiska frågor i relation till datalagring.",
+          "C" : "Eleven hanterar lagrad data ansvarsfullt och enligt gällande lagstiftning samt resonerar <strong>utförligt</strong> om personlig integritet och andra etiska frågor i relation till datalagring.",
+          "A" : "Eleven hanterar lagrad data ansvarsfullt och enligt gällande lagstiftning samt resonerar <strong>utförligt och nyanserat</strong> om personlig integritet och andra etiska frågor i relation till datalagring."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

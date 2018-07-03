@@ -1,0 +1,1040 @@
+{
+  "name" : "Marin el och elektronik",
+  "description" : "Ämnet marin el och elektronik behandlar den elektronik, de elektriska installationer och elektriska system som förekommer i fritidsbåtar. Ämnet behandlar även materiallära samt arbetsmetoder och verktyg för elektriska installationer i fritidsbåtar.",
+  "code" : "MAI",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet marin el och elektronik ska syfta till att eleverna utvecklar förmåga att installera el och elektronik samt utföra support och service både på elektriska installationer och i elektroniska system i fritidsbåtar.", "Undervisningen ska leda till att eleverna utvecklar förmåga att läsa och tolka kopplingsscheman och servicemanualer på svenska och engelska.", "Dessutom ska undervisningen ge eleverna möjlighet att utveckla kunskaper om mätteknik samt förmåga att använda mätinstrument för olika mätuppgifter." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att utveckla förmåga att arbeta utifrån de lagar och andra bestämmelser som reglerar arbetet när det gäller elektriska och elektroniska installationer i fritidsbåtar." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke.", "Dessa arbetsuppgifter ska utgå från ett problemlösande arbetssätt." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet marin el och elektronik ska ge eleverna möjlighet att utveckla följande:",
+    "lines" : [ "Kunskaper om olika elektriska och elektroniska system som förekommer i fritidsbåtar.", "Förmåga att genomföra dimensionering och installation av elektriska och elektroniska system i fritidsbåtar. Förmåga att kvalitetssäkra och driftsätta installationer.", "Förmåga att genomföra felsökning, reparation, underhåll av elektriska och elektroniska system i fritidsbåtar.", "Förmåga att konfigurera och programmera installationer.", "Förmåga att planera, välja och använda arbetsmetod, material, verktyg och maskiner som är lämpliga för uppgiften.", "Förmåga att använda mätinstrument för olika mätuppgifter och att analysera mätvärden.", "Förmåga att samarbeta och kommunicera med andra samt att använda begrepp och uttryck som är relevanta för ämnesområdet.", "Förmåga att utföra olika typer av arbeten på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån de lagar och andra bestämmelser som reglerar verksamheten.", "Förmåga att beräkna kostnad, materialåtgång och tidsåtgång för ett arbete, samt kunskaper om de krav som gäller vid hantering av kundobjekt. Förmåga att dokumentera, presentera och utvärdera arbetsprocess och resultat." ]
+  } ],
+  "courses" : [ {
+    "name" : "Båtel 1",
+    "description" : "Kursen båtel 1 omfattar punkterna 1–3 och 5–9 under rubriken Ämnets syfte.",
+    "code" : "MAIBAT01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Batteri och laddningssystem.", "Förläggning och anslutningsteknik i elektriska installationer.", "Beräkningar och mätning av elektriska storheter i framför allt likströmsmiljö.", "Dimensionering och fördelningsteknik i samband med svagströmsinstallationer i fritidsbåtar.", "Kontroll inför drifttagning och funktionsprovning.", "Arbetsplanering. Val av metoder och verktyg.", "Material och kapslingsklasser.", "Mätinstrument och digital utrustning.", "Enklare elinstallationer utifrån ritning, schema samt instruktioner.", "Yrkets fackspråk, termer och begrepp.", "Lagar och andra bestämmelser om miljö och säkerhet inom området. Nationella och internationella regelverk och publikationer som gäller elinstallationer i maritima miljöer.", "Behörighetskrav för elinstallationer.", "Krav för heta arbeten.", "Beräkningar av material- och tidsåtgång samt kostnader.", "Dokumentation, presentation och utvärdering av resultat." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> elektriska system som förekommer i fritidsbåtar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> elektriska system som förekommer i fritidsbåtar.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> elektriska system som förekommer i fritidsbåtar.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> elektriska system som förekommer i fritidsbåtar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare enklare elinstallationer och servicearbeten på elektriska installationer i fritidsbåtar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare enklare elinstallationer och servicearbeten på elektriska installationer i fritidsbåtar.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare enklare elinstallationer och servicearbeten på elektriska installationer i fritidsbåtar.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare enklare elinstallationer och servicearbeten på elektriska installationer i fritidsbåtar."
+        }
+      }, {
+        "text" : "Dessutom dimensionerar och driftsätter eleven <strong>________</strong> med handledare installationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom dimensionerar och driftsätter eleven <strong>i samråd</strong> med handledare installationer.",
+          "C" : "Dessutom dimensionerar och driftsätter eleven <strong>efter samråd</strong> med handledare installationer.",
+          "A" : "Dessutom dimensionerar och driftsätter eleven <strong>efter samråd</strong> med handledare installationer."
+        }
+      }, {
+        "text" : "Eleven gör en <strong>________</strong> planering inför arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> planering inför arbetet.",
+          "C" : "Eleven gör en <strong>enkel</strong> planering inför arbetet.",
+          "A" : "Eleven gör en <strong>genomarbetad</strong> planering inför arbetet."
+        }
+      }, {
+        "text" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>________</strong> situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>bekanta</strong> situationer.",
+          "C" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>bekanta</strong> situationer.",
+          "A" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>nya</strong> situationer."
+        }
+      }, {
+        "text" : "I arbetet läser och tolkar eleven <strong>________</strong> kopplingsscheman och instruktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> kopplingsscheman och instruktioner.",
+          "C" : "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> kopplingsscheman och instruktioner.",
+          "A" : "I arbetet läser och tolkar eleven <strong>med säkerhet</strong> kopplingsscheman och instruktioner."
+        }
+      }, {
+        "text" : "Eleven använder med <strong>________</strong> handlag de mätinstrument, den digitala teknik och de informationssystem uppgiften kräver.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder med <strong>visst</strong> handlag de mätinstrument, den digitala teknik och de informationssystem uppgiften kräver.",
+          "C" : "Eleven använder med <strong>gott</strong> handlag de mätinstrument, den digitala teknik och de informationssystem uppgiften kräver.",
+          "A" : "Eleven använder med <strong>mycket gott</strong> handlag de mätinstrument, den digitala teknik och de informationssystem uppgiften kräver."
+        }
+      }, {
+        "text" : "I arbetet samarbetar och kommunicerar eleven <strong>________</strong> med andra på ett för yrket relevant språk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet samarbetar och kommunicerar eleven <strong>med viss säkerhet</strong> med andra på ett för yrket relevant språk.",
+          "C" : "I arbetet samarbetar och kommunicerar eleven <strong>med viss säkerhet</strong> med andra på ett för yrket relevant språk.",
+          "A" : "I arbetet samarbetar och kommunicerar eleven <strong>med säkerhet</strong> med andra på ett för yrket relevant språk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar <strong>________</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar <strong>i samråd</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+          "C" : "Eleven arbetar <strong>efter samråd</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+          "A" : "Eleven arbetar <strong>efter samråd</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> lagar och andra bestämmelser som reglerar arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> lagar och andra bestämmelser som reglerar arbetet.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> lagar och andra bestämmelser som reglerar arbetet.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt</strong> lagar och andra bestämmelser som reglerar arbetet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör en <strong>________</strong> dokumentation av sitt arbete samt presenterar <strong>________</strong> sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete samt presenterar <strong>med viss säkerhet</strong> sitt arbete.",
+          "C" : "Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete samt presenterar <strong>med viss säkerhet</strong> sitt arbete.",
+          "A" : "Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete samt presenterar <strong>med säkerhet</strong> sitt arbete."
+        }
+      }, {
+        "text" : "Dessutom gör eleven <strong>________</strong> beräkningar av material- och tidsåtgång samt kostnad för olika arbeten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven <strong>enkla</strong> beräkningar av material- och tidsåtgång samt kostnad för olika arbeten.",
+          "C" : "Dessutom gör eleven beräkningar av material- och tidsåtgång samt kostnad för olika arbeten.",
+          "A" : "Dessutom gör eleven <strong>komplexa</strong> beräkningar av material- och tidsåtgång samt kostnad för olika arbeten."
+        }
+      }, {
+        "text" : "Eleven utvärderar med <strong>________</strong> omdömen både arbetsprocess och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar med <strong>enkla</strong> omdömen både arbetsprocess och resultat.",
+          "C" : "Eleven utvärderar med <strong>nyanserade</strong> omdömen både arbetsprocess och resultat.",
+          "A" : "Eleven utvärderar med <strong>nyanserade</strong> omdömen både arbetsprocess och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Båtel 2",
+    "description" : "Kursen båtel 2 omfattar punkterna 1–3 och 5–9 under rubriken Ämnets syfte.",
+    "code" : "MAIBAT02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Galvaniska strömmar och isolation.", "Principer för selektivitet.", "Utförande av enklare starkströmsinstallationer, till exempel landströmsinstallationer.", "Dimensionering, fördelning samt installationskrav på anläggningar upp till 400 V systemspänning i båtar.", "Beräkningar och mätning av elektriska storheter i likströms- och växelströmsanläggningar.", "Kontroll inför drifttagning samt funktionsprovning av elektriska system.", "Arbetsplanering. Val av metoder, verktyg och material.", "Mätinstrument och digital utrustning.", "Kopplingsscheman och instruktioner.", "Yrkets fackspråk, termer och begrepp.", "Ellag och starkströmsförordning.", "Dokumentation av elinstallationer.", "Beräkningar av material- och tidsåtgång samt kostnader.", "Dokumentation, presentation och utvärdering av resultat." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> elektriska system som förekommer i fritidsbåtar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> elektriska system som förekommer i fritidsbåtar.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> elektriska system som förekommer i fritidsbåtar.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> elektriska system som förekommer i fritidsbåtar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare enklare elinstallationer och servicearbeten på elektriska installationer i fritidsbåtar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare enklare elinstallationer och servicearbeten på elektriska installationer i fritidsbåtar.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare enklare elinstallationer och servicearbeten på elektriska installationer i fritidsbåtar.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare enklare elinstallationer och servicearbeten på elektriska installationer i fritidsbåtar."
+        }
+      }, {
+        "text" : "Dessutom dimensionerar och driftsätter eleven <strong>________</strong> med handledare installationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom dimensionerar och driftsätter eleven <strong>i samråd</strong> med handledare installationer.",
+          "C" : "Dessutom dimensionerar och driftsätter eleven <strong>efter samråd</strong> med handledare installationer.",
+          "A" : "Dessutom dimensionerar och driftsätter eleven <strong>efter samråd</strong> med handledare installationer."
+        }
+      }, {
+        "text" : "Eleven gör en <strong>________</strong> planering inför arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> planering inför arbetet.",
+          "C" : "Eleven gör en <strong>genomarbetad</strong> planering inför arbetet.",
+          "A" : "Eleven gör en <strong>genomarbetad</strong> planering inför arbetet."
+        }
+      }, {
+        "text" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>________</strong> situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>bekanta</strong> situationer.",
+          "C" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>nya</strong> situationer.",
+          "A" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>nya</strong> situationer."
+        }
+      }, {
+        "text" : "I arbetet läser och tolkar eleven <strong>________</strong> kopplingsscheman och instruktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> kopplingsscheman och instruktioner.",
+          "C" : "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> kopplingsscheman och instruktioner.",
+          "A" : "I arbetet läser och tolkar eleven <strong>med säkerhet</strong> kopplingsscheman och instruktioner."
+        }
+      }, {
+        "text" : "Eleven använder med <strong>________</strong> handlag de mätinstrument, den digitala teknik och de informationssystem uppgiften kräver.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder med <strong>visst</strong> handlag de mätinstrument, den digitala teknik och de informationssystem uppgiften kräver.",
+          "C" : "Eleven använder med <strong>gott</strong> handlag de mätinstrument, den digitala teknik och de informationssystem uppgiften kräver.",
+          "A" : "Eleven använder med <strong>mycket gott</strong> handlag de mätinstrument, den digitala teknik och de informationssystem uppgiften kräver."
+        }
+      }, {
+        "text" : "I arbetet samarbetar och kommunicerar eleven <strong>________</strong> med andra på ett för yrket relevant språk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet samarbetar och kommunicerar eleven <strong>med viss säkerhet</strong> med andra på ett för yrket relevant språk.",
+          "C" : "I arbetet samarbetar och kommunicerar eleven <strong>med viss säkerhet</strong> med andra på ett för yrket relevant språk.",
+          "A" : "I arbetet samarbetar och kommunicerar eleven <strong>med säkerhet</strong> med andra på ett för yrket relevant språk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar <strong>________</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar <strong>i samråd</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+          "C" : "Eleven arbetar <strong>efter samråd</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+          "A" : "Eleven arbetar <strong>efter samråd</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> lagar och andra bestämmelser som reglerar arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> lagar och andra bestämmelser som reglerar arbetet.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> lagar och andra bestämmelser som reglerar arbetet.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt</strong> lagar och andra bestämmelser som reglerar arbetet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör en <strong>________</strong> dokumentation av sitt arbete samt presenterar <strong>________</strong> sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete samt presenterar <strong>med viss säkerhet</strong> sitt arbete.",
+          "C" : "Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete samt presenterar <strong>med viss säkerhet</strong> sitt arbete.",
+          "A" : "Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete samt presenterar <strong>med säkerhet</strong> sitt arbete."
+        }
+      }, {
+        "text" : "Dessutom gör eleven <strong>________</strong> beräkningar av material- och tidsåtgång samt kostnad för olika arbeten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven <strong>enkla</strong> beräkningar av material- och tidsåtgång samt kostnad för olika arbeten.",
+          "C" : "Dessutom gör eleven beräkningar av material- och tidsåtgång samt kostnad för olika arbeten.",
+          "A" : "Dessutom gör eleven <strong>komplexa</strong> beräkningar av material- och tidsåtgång samt kostnad för olika arbeten."
+        }
+      }, {
+        "text" : "Eleven utvärderar med <strong>________</strong> omdömen både arbetsprocess och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar med <strong>enkla</strong> omdömen både arbetsprocess och resultat.",
+          "C" : "Eleven utvärderar med <strong>nyanserade</strong> omdömen både arbetsprocess och resultat.",
+          "A" : "Eleven utvärderar med <strong>nyanserade</strong> omdömen både arbetsprocess och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Marinelektronik 1",
+    "description" : "Kursen marinelektronik 1 omfattar punkterna 1–9 under rubriken Ämnets syfte. ",
+    "code" : "MAIMAR01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Funktion och användningsområden för navigationsinstrument, till exempel logg, ekolod, GPS.", "Egenskaper och arbetssätt hos resistorer, kondensatorer, spolar, dioder och transistorer.", "Installation och driftsättning av enkla navigationsinstrument.", "Montering och installationsteknik för givare och instrument.", "Metoder för att undvika elektriska störningar.", "Arbetsplanering. Val av metoder, verktyg och material.", "Mätinstrument och digital utrustning.", "Tolkning av installationsbeskrivningar och servicemanualer.", "Schemaritningsteknik, symboler och funktioner.", "Lödnings- och förbindningsteknik.", "Mätteknik för krets- och komponentmätningar.", "Yrkets fackspråk, termer och begrepp.", "Krav på arbetsmiljö och säkerhet gällande elektroniska installationer i marin miljö.", "Beräkningar av material- och tidsåtgång samt kostnader.", "Dokumentation, presentation och utvärdering av resultat." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> funktion och användningsområden för navigationsinstrument.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> funktion och användningsområden för navigationsinstrument.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> funktion och användningsområden för navigationsinstrument.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> funktion och användningsområden för navigationsinstrument."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för egenskaper och arbetssätt hos resistorer, kondensatorer, spolar, dioder och transistorer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för egenskaper och arbetssätt hos resistorer, kondensatorer, spolar, dioder och transistorer.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för egenskaper och arbetssätt hos resistorer, kondensatorer, spolar, dioder och transistorer.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för egenskaper och arbetssätt hos resistorer, kondensatorer, spolar, dioder och transistorer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare arbeten med montering och driftsättning av enkla navigationsinstrument i fritidsbåtar utifrån tillverkarens anvisningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare arbeten med montering och driftsättning av enkla navigationsinstrument i fritidsbåtar utifrån tillverkarens anvisningar.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare arbeten med montering och driftsättning av enkla navigationsinstrument i fritidsbåtar utifrån tillverkarens anvisningar.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare arbeten med montering och driftsättning av enkla navigationsinstrument i fritidsbåtar utifrån tillverkarens anvisningar."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare servicearbeten på navigationsinstrument.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare servicearbeten på navigationsinstrument.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare servicearbeten på navigationsinstrument.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare servicearbeten på navigationsinstrument."
+        }
+      }, {
+        "text" : "Eleven konfigurerar <strong>________</strong> med handledare installationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven konfigurerar <strong>i samråd</strong> med handledare installationer.",
+          "C" : "Eleven konfigurerar <strong>efter samråd</strong> med handledare installationer.",
+          "A" : "Eleven konfigurerar <strong>efter samråd</strong> med handledare installationer."
+        }
+      }, {
+        "text" : "Inför arbetet gör eleven en <strong>________</strong> planering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Inför arbetet gör eleven en <strong>enkel</strong> planering.",
+          "C" : "Inför arbetet gör eleven en <strong>enkel</strong> planering.",
+          "A" : "Inför arbetet gör eleven en <strong>genomarbetad</strong> planering."
+        }
+      }, {
+        "text" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>________</strong> situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>bekanta</strong> situationer.",
+          "C" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>bekanta</strong> situationer.",
+          "A" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>nya</strong> situationer."
+        }
+      }, {
+        "text" : "I arbetet läser och tolkar eleven <strong>________</strong> kopplingsscheman och instruktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> kopplingsscheman och instruktioner.",
+          "C" : "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> kopplingsscheman och instruktioner.",
+          "A" : "I arbetet läser och tolkar eleven <strong>med säkerhet</strong> kopplingsscheman och instruktioner."
+        }
+      }, {
+        "text" : "Eleven utför med <strong>________</strong> handlag enklare lödningsarbeten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför med <strong>visst</strong> handlag enklare lödningsarbeten.",
+          "C" : "Eleven utför med <strong>gott</strong> handlag enklare lödningsarbeten.",
+          "A" : "Eleven utför med <strong>mycket gott</strong> handlag enklare lödningsarbeten."
+        }
+      }, {
+        "text" : "Dessutom använder eleven med <strong>________</strong> handlag de mätinstrument, den digitala teknik och de informationssystem uppgiften kräver.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven med <strong>visst</strong> handlag de mätinstrument, den digitala teknik och de informationssystem uppgiften kräver.",
+          "C" : "Dessutom använder eleven med <strong>gott</strong> handlag de mätinstrument, den digitala teknik och de informationssystem uppgiften kräver.",
+          "A" : "Dessutom använder eleven med <strong>mycket gott</strong> handlag de mätinstrument, den digitala teknik och de informationssystem uppgiften kräver."
+        }
+      }, {
+        "text" : "I arbetet samarbetar och kommunicerar eleven <strong>________</strong> med andra på ett för yrket relevant språk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet samarbetar och kommunicerar eleven <strong>med viss säkerhet</strong> med andra på ett för yrket relevant språk.",
+          "C" : "I arbetet samarbetar och kommunicerar eleven <strong>med viss säkerhet</strong> med andra på ett för yrket relevant språk.",
+          "A" : "I arbetet samarbetar och kommunicerar eleven <strong>med säkerhet</strong> med andra på ett för yrket relevant språk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar <strong>________</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar <strong>i samråd</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+          "C" : "Eleven arbetar <strong>efter samråd</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+          "A" : "Eleven arbetar <strong>efter samråd</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör en <strong>________</strong> dokumentation av sitt arbete samt presenterar <strong>________</strong> sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete samt presenterar <strong>med viss säkerhet</strong> sitt arbete.",
+          "C" : "Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete samt presenterar <strong>med viss säkerhet</strong> sitt arbete.",
+          "A" : "Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete samt presenterar <strong>med säkerhet</strong> sitt arbete."
+        }
+      }, {
+        "text" : "Dessutom gör eleven <strong>________</strong> beräkningar av material- och tidsåtgång samt kostnad för olika arbeten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven <strong>enkla</strong> beräkningar av material- och tidsåtgång samt kostnad för olika arbeten.",
+          "C" : "Dessutom gör eleven beräkningar av material- och tidsåtgång samt kostnad för olika arbeten.",
+          "A" : "Dessutom gör eleven <strong>komplexa</strong> beräkningar av material- och tidsåtgång samt kostnad för olika arbeten."
+        }
+      }, {
+        "text" : "Eleven utvärderar med <strong>________</strong> omdömen både arbetsprocess och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar med <strong>enkla</strong> omdömen både arbetsprocess och resultat.",
+          "C" : "Eleven utvärderar med <strong>nyanserade</strong> omdömen både arbetsprocess och resultat.",
+          "A" : "Eleven utvärderar med <strong>nyanserade</strong> omdömen både arbetsprocess och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Marinelektronik 2",
+    "description" : "Kursen marinelektronik 2 omfattar punkterna 1–9 under rubriken Ämnets syfte. ",
+    "code" : "MAIMAR02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Funktion och användningsområden för mer avancerad navigationsutrustning, till exempel multifunktionsdisplayer, autopilot, radar och AIS.", "Marina audio- och videosystem.", "Uppbyggnad av PLC och PC-baserade system i marina miljöer.", "Binära talsystem.", "Analoga och digitala system.", "Radio och övriga kommunikationssystem. Montage av olika typer av antenner för till exempel radio och satellit.", "Planering för och genomförande av sammankoppling mellan olika systemplattformar eller fabrikat.", "Installation, programmering och driftsättning av marina elektroniksystem.", "Mätteknik och mätinstrument.", "Metoder för systematisk felsökning och reparation.", "Användande av diagnossystem.", "Tolkning av installationsbeskrivningar och servicemanualer.", "Upprättande av installationsritningar för navigationsutrustningar.", "Yrkets fackspråk, termer och begrepp.", "Material, arbetsmiljö och de regelverk och styrdokument som gäller vid arbete och hantering av elektroniksystem i fritidsbåtar.", "Beräkningar av material- och tidsåtgång samt kostnader.", "Dokumentation, presentation och utvärdering av arbete." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> funktion och användningsområden för datorbaserade system i marina installationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> funktion och användningsområden för datorbaserade system i marina installationer.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> funktion och användningsområden för datorbaserade system i marina installationer.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> funktion och användningsområden för datorbaserade system i marina installationer."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för egenskaper och arbetssätt hos analoga och digitala system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för egenskaper och arbetssätt hos analoga och digitala system.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för egenskaper och arbetssätt hos analoga och digitala system.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för egenskaper och arbetssätt hos analoga och digitala system."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare arbeten med montering och driftsättning av navigations- och kommunikationsutrustning i fritidsbåtar utifrån tillverkarens anvisningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare arbeten med montering och driftsättning av navigations- och kommunikationsutrustning i fritidsbåtar utifrån tillverkarens anvisningar.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare arbeten med montering och driftsättning av navigations- och kommunikationsutrustning i fritidsbåtar utifrån tillverkarens anvisningar.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare arbeten med montering och driftsättning av navigations- och kommunikationsutrustning i fritidsbåtar utifrån tillverkarens anvisningar."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare servicearbeten på navigations- och kommunikationsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare servicearbeten på navigations- och kommunikationsutrustning.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare servicearbeten på navigations- och kommunikationsutrustning.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare servicearbeten på navigations- och kommunikationsutrustning."
+        }
+      }, {
+        "text" : "I arbetet använder eleven med <strong>________</strong> handlag mätinstrument för enklare felsökning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven med <strong>visst</strong> handlag mätinstrument för enklare felsökning.",
+          "C" : "I arbetet använder eleven med <strong>gott</strong> handlag mätinstrument för enklare felsökning.",
+          "A" : "I arbetet använder eleven med <strong>mycket gott</strong> handlag mätinstrument för enklare felsökning."
+        }
+      }, {
+        "text" : "Eleven konfigurerar <strong>________</strong> med handledare installationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven konfigurerar <strong>i samråd</strong> med handledare installationer.",
+          "C" : "Eleven konfigurerar <strong>efter samråd</strong> med handledare installationer.",
+          "A" : "Eleven konfigurerar <strong>efter samråd</strong> med handledare installationer."
+        }
+      }, {
+        "text" : "Inför arbetet gör eleven en <strong>________</strong> planering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Inför arbetet gör eleven en <strong>enkel</strong> planering.",
+          "C" : "Inför arbetet gör eleven en <strong>genomarbetad</strong> planering.",
+          "A" : "Inför arbetet gör eleven en <strong>genomarbetad</strong> planering."
+        }
+      }, {
+        "text" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>________</strong> situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>bekanta</strong> situationer.",
+          "C" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>nya</strong> situationer.",
+          "A" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>nya</strong> situationer."
+        }
+      }, {
+        "text" : "I arbetet läser och tolkar eleven <strong>________</strong> kopplingsscheman och instruktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> kopplingsscheman och instruktioner.",
+          "C" : "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> kopplingsscheman och instruktioner.",
+          "A" : "I arbetet läser och tolkar eleven <strong>med säkerhet</strong> kopplingsscheman och instruktioner."
+        }
+      }, {
+        "text" : "Dessutom upprättar eleven <strong>________</strong> installationsritningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom upprättar eleven <strong>med viss säkerhet</strong> installationsritningar.",
+          "C" : "Dessutom upprättar eleven <strong>med viss säkerhet</strong> installationsritningar.",
+          "A" : "Dessutom upprättar eleven <strong>med säkerhet</strong> installationsritningar."
+        }
+      }, {
+        "text" : "Vidare använder eleven med <strong>________</strong> handlag den digitala teknik och de informationssystem uppgiften kräver.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare använder eleven med <strong>visst</strong> handlag den digitala teknik och de informationssystem uppgiften kräver.",
+          "C" : "Vidare använder eleven med <strong>gott</strong> handlag den digitala teknik och de informationssystem uppgiften kräver.",
+          "A" : "Vidare använder eleven med <strong>mycket gott</strong> handlag den digitala teknik och de informationssystem uppgiften kräver."
+        }
+      }, {
+        "text" : "I arbetet samarbetar och kommunicerar eleven <strong>________</strong> med andra på ett för yrket relevant språk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet samarbetar och kommunicerar eleven <strong>med viss säkerhet</strong> med andra på ett för yrket relevant språk.",
+          "C" : "I arbetet samarbetar och kommunicerar eleven <strong>med viss säkerhet</strong> med andra på ett för yrket relevant språk.",
+          "A" : "I arbetet samarbetar och kommunicerar eleven <strong>med säkerhet</strong> med andra på ett för yrket relevant språk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar <strong>________</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar <strong>i samråd</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+          "C" : "Eleven arbetar <strong>efter samråd</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+          "A" : "Eleven arbetar <strong>efter samråd</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör en <strong>________</strong> dokumentation av sitt arbete samt presenterar <strong>________</strong> sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete samt presenterar <strong>med viss säkerhet</strong> sitt arbete.",
+          "C" : "Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete samt presenterar <strong>med viss säkerhet</strong> sitt arbete.",
+          "A" : "Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete samt presenterar <strong>med säkerhet</strong> sitt arbete."
+        }
+      }, {
+        "text" : "Dessutom gör eleven <strong>________</strong> beräkningar av material- och tidsåtgång samt kostnad för olika arbeten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven <strong>enkla</strong> beräkningar av material- och tidsåtgång samt kostnad för olika arbeten.",
+          "C" : "Dessutom gör eleven beräkningar av material- och tidsåtgång samt kostnad för olika arbeten.",
+          "A" : "Dessutom gör eleven <strong>komplexa</strong> beräkningar av material- och tidsåtgång samt kostnad för olika arbeten."
+        }
+      }, {
+        "text" : "Eleven utvärderar med <strong>________</strong> omdömen både arbetsprocess och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar med <strong>enkla</strong> omdömen både arbetsprocess och resultat.",
+          "C" : "Eleven utvärderar med <strong>nyanserade</strong> omdömen både arbetsprocess och resultat.",
+          "A" : "Eleven utvärderar med <strong>nyanserade</strong> omdömen både arbetsprocess och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Marinelektronik 3",
+    "description" : "Kursen marinelektronik 3 omfattar punkterna 1–9 under rubriken Ämnets syfte. ",
+    "code" : "MAIMAR03",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Skillnader mellan olika kommunikationsgränssnitt.", "Uppbyggnad av CanBus-baserade strömförsörjningsanläggningar.", "Uppbyggnad och programmeringar av datorbaserade system i marina miljöer.", "Lokala nätverkssystem.", "Mätteknik och mätinstrument.", "Felsökning i digitala system.", "Tolkning av installationsbeskrivningar och servicemanualer.", "Upprättande av system- och installationsritningar.", "Yrkets fackspråk, termer och begrepp.", "Beräkningar av material- och tidsåtgång samt kostnader.", "Dokumentation, presentation och utvärdering av arbete." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för principer och användningsområden för olika kommunikationsgränssnitt i marina installationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för principer och användningsområden för olika kommunikationsgränssnitt i marina installationer.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för principer och användningsområden för olika kommunikationsgränssnitt i marina installationer.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för principer och användningsområden för olika kommunikationsgränssnitt i marina installationer."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för egenskaper och arbetssätt hos datorbaserade system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för egenskaper och arbetssätt hos datorbaserade system.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för egenskaper och arbetssätt hos datorbaserade system.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för egenskaper och arbetssätt hos datorbaserade system."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare montering och driftsättning av marina elektroniksystem i fritidsbåtar utifrån tillverkarens anvisningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare montering och driftsättning av marina elektroniksystem i fritidsbåtar utifrån tillverkarens anvisningar.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare montering och driftsättning av marina elektroniksystem i fritidsbåtar utifrån tillverkarens anvisningar.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare montering och driftsättning av marina elektroniksystem i fritidsbåtar utifrån tillverkarens anvisningar."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare servicearbeten på marina elektroniksystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare servicearbeten på marina elektroniksystem.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare servicearbeten på marina elektroniksystem.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare servicearbeten på marina elektroniksystem."
+        }
+      }, {
+        "text" : "I arbetet använder eleven med <strong>________</strong> handlag mätinstrument för felsökning i analoga och digitala system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven med <strong>visst</strong> handlag mätinstrument för felsökning i analoga och digitala system.",
+          "C" : "I arbetet använder eleven med <strong>gott</strong> handlag mätinstrument för felsökning i analoga och digitala system.",
+          "A" : "I arbetet använder eleven med <strong>mycket gott</strong> handlag mätinstrument för felsökning i analoga och digitala system."
+        }
+      }, {
+        "text" : "Eleven konfigurerar och programmerar <strong>________</strong> med handledare installationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven konfigurerar och programmerar <strong>i samråd</strong> med handledare installationer.",
+          "C" : "Eleven konfigurerar och programmerar <strong>efter samråd</strong> med handledare installationer.",
+          "A" : "Eleven konfigurerar och programmerar <strong>efter samråd</strong> med handledare installationer."
+        }
+      }, {
+        "text" : "Inför arbetet gör eleven en <strong>________</strong> planering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Inför arbetet gör eleven en <strong>enkel</strong> planering.",
+          "C" : "Inför arbetet gör eleven en <strong>genomarbetad</strong> planering.",
+          "A" : "Inför arbetet gör eleven en <strong>genomarbetad</strong> planering."
+        }
+      }, {
+        "text" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>________</strong> situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>bekanta</strong> situationer.",
+          "C" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>nya</strong> situationer.",
+          "A" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>nya</strong> situationer."
+        }
+      }, {
+        "text" : "I arbetet läser och tolkar eleven <strong>________</strong> kopplingsscheman och instruktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> kopplingsscheman och instruktioner.",
+          "C" : "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> kopplingsscheman och instruktioner.",
+          "A" : "I arbetet läser och tolkar eleven <strong>med säkerhet</strong> kopplingsscheman och instruktioner."
+        }
+      }, {
+        "text" : "Dessutom upprättar eleven <strong>________</strong> installations- och systemritningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom upprättar eleven <strong>med viss säkerhet</strong> installations- och systemritningar.",
+          "C" : "Dessutom upprättar eleven <strong>med viss säkerhet</strong> installations- och systemritningar.",
+          "A" : "Dessutom upprättar eleven <strong>med säkerhet</strong> installations- och systemritningar."
+        }
+      }, {
+        "text" : "Vidare använder eleven med <strong>________</strong> handlag den digitala teknik och de informationssystem uppgiften kräver.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare använder eleven med <strong>visst</strong> handlag den digitala teknik och de informationssystem uppgiften kräver.",
+          "C" : "Vidare använder eleven med <strong>gott</strong> handlag den digitala teknik och de informationssystem uppgiften kräver.",
+          "A" : "Vidare använder eleven med <strong>mycket gott</strong> handlag den digitala teknik och de informationssystem uppgiften kräver."
+        }
+      }, {
+        "text" : "I arbetet samarbetar och kommunicerar eleven <strong>________</strong> med andra på ett för yrket relevant språk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet samarbetar och kommunicerar eleven <strong>med viss säkerhet</strong> med andra på ett för yrket relevant språk.",
+          "C" : "I arbetet samarbetar och kommunicerar eleven <strong>med viss säkerhet</strong> med andra på ett för yrket relevant språk.",
+          "A" : "I arbetet samarbetar och kommunicerar eleven <strong>med säkerhet</strong> med andra på ett för yrket relevant språk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar <strong>________</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar <strong>i samråd</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+          "C" : "Eleven arbetar <strong>efter samråd</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+          "A" : "Eleven arbetar <strong>efter samråd</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör en <strong>________</strong> dokumentation av sitt arbete samt presenterar <strong>________</strong> sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete samt presenterar <strong>med viss säkerhet</strong> sitt arbete.",
+          "C" : "Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete samt presenterar <strong>med viss säkerhet</strong> sitt arbete.",
+          "A" : "Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete samt presenterar <strong>med säkerhet</strong> sitt arbete."
+        }
+      }, {
+        "text" : "Dessutom gör eleven <strong>________</strong> beräkningar av material- och tidsåtgång samt kostnad för olika arbeten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven <strong>enkla</strong> beräkningar av material- och tidsåtgång samt kostnad för olika arbeten.",
+          "C" : "Dessutom gör eleven beräkningar av material- och tidsåtgång samt kostnad för olika arbeten.",
+          "A" : "Dessutom gör eleven <strong>komplexa</strong> beräkningar av material- och tidsåtgång samt kostnad för olika arbeten."
+        }
+      }, {
+        "text" : "Eleven utvärderar med <strong>________</strong> omdömen både arbetsprocess och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar med <strong>enkla</strong> omdömen både arbetsprocess och resultat.",
+          "C" : "Eleven utvärderar med <strong>nyanserade</strong> omdömen både arbetsprocess och resultat.",
+          "A" : "Eleven utvärderar med <strong>nyanserade</strong> omdömen både arbetsprocess och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Motorelektronik 1",
+    "description" : "Kursen motorelektronik 1 omfattar punkterna 1–9 under rubriken Ämnets syfte. ",
+    "code" : "MAIMOT01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Kontroll och övervakningssystem för marina motorer samt vilka krav på presentation och larm som förekommer.", "Funktioner på givare och aktuatorer ingående i marina motorers styrsystem.", "Faktorer som påverkar motorns driftförhållanden.", "Inkoppling av elektroniksystem för marina motorer.", "Sammankopplingstekniker för kommunikation mellan motortekniska installationer och annan utrustning.", "Branschanpassade diagnossystem för service, underhåll samt felsökning.", "Systematisk felsökning på motorelektroniska system.", "Tolkning av installationsbeskrivningar och servicemanualer.", "Yrkets fackspråk, termer och begrepp.", "Beräkningar av material- och tidsåtgång samt kostnader.", "Dokumentation, presentation och utvärdering av arbete." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för funktion och användningsområden hos styr- och övervakningssystem för marina motorer samt de ingående delarna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för funktion och användningsområden hos styr- och övervakningssystem för marina motorer samt de ingående delarna.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för funktion och användningsområden hos styr- och övervakningssystem för marina motorer samt de ingående delarna.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för funktion och användningsområden hos styr- och övervakningssystem för marina motorer samt de ingående delarna."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för faktorer som påverkar motorns driftförhållanden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för faktorer som påverkar motorns driftförhållanden.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för faktorer som påverkar motorns driftförhållanden.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för faktorer som påverkar motorns driftförhållanden."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare arbeten i marina motorers elektroniksystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare arbeten i marina motorers elektroniksystem.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare arbeten i marina motorers elektroniksystem.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare arbeten i marina motorers elektroniksystem."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare sammankoppling mellan motortekniska installationer och annan utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare sammankoppling mellan motortekniska installationer och annan utrustning.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare sammankoppling mellan motortekniska installationer och annan utrustning.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare sammankoppling mellan motortekniska installationer och annan utrustning."
+        }
+      }, {
+        "text" : "I arbetet använder eleven med <strong>________</strong> handlag diagnosutrustning och mätinstrument för systematisk felsökning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven med <strong>visst</strong> handlag diagnosutrustning och mätinstrument för systematisk felsökning.",
+          "C" : "I arbetet använder eleven med <strong>gott</strong> handlag diagnosutrustning och mätinstrument för systematisk felsökning.",
+          "A" : "I arbetet använder eleven med <strong>mycket gott</strong> handlag diagnosutrustning och mätinstrument för systematisk felsökning."
+        }
+      }, {
+        "text" : "Eleven uppdaterar <strong>________</strong> med handledare mjukvara för motorinstallationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven uppdaterar <strong>i samråd</strong> med handledare mjukvara för motorinstallationer.",
+          "C" : "Eleven uppdaterar <strong>efter samråd</strong> med handledare mjukvara för motorinstallationer.",
+          "A" : "Eleven uppdaterar <strong>efter samråd</strong> med handledare mjukvara för motorinstallationer."
+        }
+      }, {
+        "text" : "Inför arbetet gör eleven en <strong>________</strong> planering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Inför arbetet gör eleven en <strong>enkel</strong> planering.",
+          "C" : "Inför arbetet gör eleven en <strong>enkel</strong> planering.",
+          "A" : "Inför arbetet gör eleven en <strong>genomarbetad</strong> planering."
+        }
+      }, {
+        "text" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>________</strong> situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>bekanta</strong> situationer.",
+          "C" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>bekanta</strong> situationer.",
+          "A" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>nya</strong> situationer."
+        }
+      }, {
+        "text" : "I arbetet tolkar och använder eleven <strong>________</strong> installations- och servicemanualer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet tolkar och använder eleven <strong>med viss säkerhet</strong> installations- och servicemanualer.",
+          "C" : "I arbetet tolkar och använder eleven <strong>med viss säkerhet</strong> installations- och servicemanualer.",
+          "A" : "I arbetet tolkar och använder eleven <strong>med säkerhet</strong> installations- och servicemanualer."
+        }
+      }, {
+        "text" : "Vidare använder eleven med <strong>________</strong> handlag den digitala teknik och de informationssystem uppgiften kräver.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare använder eleven med <strong>visst</strong> handlag den digitala teknik och de informationssystem uppgiften kräver.",
+          "C" : "Vidare använder eleven med <strong>gott</strong> handlag den digitala teknik och de informationssystem uppgiften kräver.",
+          "A" : "Vidare använder eleven med <strong>mycket gott</strong> handlag den digitala teknik och de informationssystem uppgiften kräver."
+        }
+      }, {
+        "text" : "I arbetet samarbetar och kommunicerar eleven <strong>________</strong> med andra på ett för yrket relevant språk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet samarbetar och kommunicerar eleven <strong>med viss säkerhet</strong> med andra på ett för yrket relevant språk.",
+          "C" : "I arbetet samarbetar och kommunicerar eleven <strong>med viss säkerhet</strong> med andra på ett för yrket relevant språk.",
+          "A" : "I arbetet samarbetar och kommunicerar eleven <strong>med säkerhet</strong> med andra på ett för yrket relevant språk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar <strong>________</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar <strong>i samråd</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+          "C" : "Eleven arbetar <strong>efter samråd</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+          "A" : "Eleven arbetar <strong>efter samråd</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör en <strong>________</strong> dokumentation av sitt arbete samt presenterar <strong>________</strong> sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete samt presenterar <strong>med viss säkerhet</strong> sitt arbete.",
+          "C" : "Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete samt presenterar <strong>med viss säkerhet</strong> sitt arbete.",
+          "A" : "Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete samt presenterar <strong>med säkerhet</strong> sitt arbete."
+        }
+      }, {
+        "text" : "Dessutom gör eleven <strong>________</strong> beräkningar av material- och tidsåtgång samt kostnad för olika arbeten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven <strong>enkla</strong> beräkningar av material- och tidsåtgång samt kostnad för olika arbeten.",
+          "C" : "Dessutom gör eleven beräkningar av material- och tidsåtgång samt kostnad för olika arbeten.",
+          "A" : "Dessutom gör eleven <strong>komplexa</strong> beräkningar av material- och tidsåtgång samt kostnad för olika arbeten."
+        }
+      }, {
+        "text" : "Eleven utvärderar med <strong>________</strong> omdömen både arbetsprocessen och resultatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar med <strong>enkla</strong> omdömen både arbetsprocessen och resultatet.",
+          "C" : "Eleven utvärderar med <strong>nyanserade</strong> omdömen både arbetsprocessen och resultatet.",
+          "A" : "Eleven utvärderar med <strong>nyanserade</strong> omdömen både arbetsprocessen och resultatet <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Motorelektronik 2",
+    "description" : "Kursen motorelektronik 2 omfattar punkterna 1–3 och 5–9 under rubriken Ämnets syfte.",
+    "code" : "MAIMOT02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Uppbyggnad och programmering av datorbaserade kontrollsystem för presentation av motordata.", "Sammankopplingstekniker för kommunikation mellan motortekniska installationer samt multifunktionsdisplayer.", "Analytisk felsökning på motorelektroniska system.", "Oscilloskopbaserade diagnosverktyg.", "Tolkning av installationsbeskrivningar och servicemanualer.", "Yrkets fackspråk, termer och begrepp.", "Beräkningar av material- och tidsåtgång samt kostnader.", "Sambandet mellan kvalitet och ekonomi.", "Dokumentation, presentation och utvärdering av arbete." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för funktion och användningsområden hos styr- och övervakningssystem för marina motorer samt de ingående delarna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för funktion och användningsområden hos styr- och övervakningssystem för marina motorer samt de ingående delarna.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för funktion och användningsområden hos styr- och övervakningssystem för marina motorer samt de ingående delarna.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för funktion och användningsområden hos styr- och övervakningssystem för marina motorer samt de ingående delarna."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare arbeten i marina motorers elektroniksystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare arbeten i marina motorers elektroniksystem.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare arbeten i marina motorers elektroniksystem.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare arbeten i marina motorers elektroniksystem."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare sammankoppling mellan motortekniska installationer och datorbaserade presentationssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare sammankoppling mellan motortekniska installationer och datorbaserade presentationssystem.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare sammankoppling mellan motortekniska installationer och datorbaserade presentationssystem.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare sammankoppling mellan motortekniska installationer och datorbaserade presentationssystem."
+        }
+      }, {
+        "text" : "I arbetet använder eleven med <strong>________</strong> handlag diagnosutrustning och mätinstrument för analytisk felsökning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven med <strong>visst</strong> handlag diagnosutrustning och mätinstrument för analytisk felsökning.",
+          "C" : "I arbetet använder eleven med <strong>gott</strong> handlag diagnosutrustning och mätinstrument för analytisk felsökning.",
+          "A" : "I arbetet använder eleven med <strong>mycket gott</strong> handlag diagnosutrustning och mätinstrument för analytisk felsökning."
+        }
+      }, {
+        "text" : "Inför arbetet gör eleven en <strong>________</strong> planering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Inför arbetet gör eleven en <strong>enkel</strong> planering.",
+          "C" : "Inför arbetet gör eleven en <strong>genomarbetad</strong> planering.",
+          "A" : "Inför arbetet gör eleven en <strong>genomarbetad</strong> planering."
+        }
+      }, {
+        "text" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>________</strong> situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>bekanta</strong> situationer.",
+          "C" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>nya</strong> situationer.",
+          "A" : "Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, material och verktyg i <strong>nya</strong> situationer."
+        }
+      }, {
+        "text" : "I arbetet tolkar och använder eleven <strong>________</strong> installations- och servicemanualer i sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet tolkar och använder eleven <strong>med viss säkerhet</strong> installations- och servicemanualer i sitt arbete.",
+          "C" : "I arbetet tolkar och använder eleven <strong>med viss säkerhet</strong> installations- och servicemanualer i sitt arbete.",
+          "A" : "I arbetet tolkar och använder eleven <strong>med säkerhet</strong> installations- och servicemanualer i sitt arbete."
+        }
+      }, {
+        "text" : "Dessutom upprättar eleven <strong>________</strong> dokumentation och säkerhetskopia av programmerade funktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom upprättar eleven <strong>med viss säkerhet</strong> dokumentation och säkerhetskopia av programmerade funktioner.",
+          "C" : "Dessutom upprättar eleven <strong>med viss säkerhet</strong> dokumentation och säkerhetskopia av programmerade funktioner.",
+          "A" : "Dessutom upprättar eleven <strong>med säkerhet</strong> dokumentation och säkerhetskopia av programmerade funktioner."
+        }
+      }, {
+        "text" : "Vidare använder eleven med <strong>________</strong> handlag den digitala teknik och de informationssystem uppgiften kräver.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare använder eleven med <strong>visst</strong> handlag den digitala teknik och de informationssystem uppgiften kräver.",
+          "C" : "Vidare använder eleven med <strong>gott</strong> handlag den digitala teknik och de informationssystem uppgiften kräver.",
+          "A" : "Vidare använder eleven med <strong>mycket gott</strong> handlag den digitala teknik och de informationssystem uppgiften kräver."
+        }
+      }, {
+        "text" : "I arbetet samarbetar och kommunicerar eleven <strong>________</strong> med andra på ett för yrket relevant språk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet samarbetar och kommunicerar eleven <strong>med viss säkerhet</strong> med andra på ett för yrket relevant språk.",
+          "C" : "I arbetet samarbetar och kommunicerar eleven <strong>med viss säkerhet</strong> med andra på ett för yrket relevant språk.",
+          "A" : "I arbetet samarbetar och kommunicerar eleven <strong>med säkerhet</strong> med andra på ett för yrket relevant språk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar <strong>________</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar <strong>i samråd</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+          "C" : "Eleven arbetar <strong>efter samråd</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+          "A" : "Eleven arbetar <strong>efter samråd</strong> med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör en <strong>________</strong> dokumentation av sitt arbete samt presenterar <strong>________</strong> sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete samt presenterar <strong>med viss säkerhet</strong> sitt arbete.",
+          "C" : "Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete samt presenterar <strong>med viss säkerhet</strong> sitt arbete.",
+          "A" : "Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete samt presenterar <strong>med säkerhet</strong> sitt arbete."
+        }
+      }, {
+        "text" : "Dessutom gör eleven <strong>________</strong> beräkningar av material- och tidsåtgång samt kostnad för olika arbeten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven <strong>enkla</strong> beräkningar av material- och tidsåtgång samt kostnad för olika arbeten.",
+          "C" : "Dessutom gör eleven beräkningar av material- och tidsåtgång samt kostnad för olika arbeten.",
+          "A" : "Dessutom gör eleven <strong>komplexa</strong> beräkningar av material- och tidsåtgång samt kostnad för olika arbeten."
+        }
+      }, {
+        "text" : "Eleven utvärderar med <strong>________</strong> omdömen både arbetsprocessen och resultatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar med <strong>enkla</strong> omdömen både arbetsprocessen och resultatet.",
+          "C" : "Eleven utvärderar med <strong>nyanserade</strong> omdömen både arbetsprocessen och resultatet.",
+          "A" : "Eleven utvärderar med <strong>nyanserade</strong> omdömen både arbetsprocessen och resultatet <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

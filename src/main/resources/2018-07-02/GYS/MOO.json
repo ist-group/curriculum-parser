@@ -1,0 +1,109 @@
+{
+  "name" : "Motor- och röjmotorsåg",
+  "description" : "Ämnet behandlar arbete med motorsåg och röjmotorsåg samt sågens konstruktion och funktion. Centralt i ämnet är säkerhet i arbete och användning av skyddsutrustning.",
+  "code" : "MOO",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet motor- och röjmotorsåg ska syfta till att eleverna utvecklar kunskaper om motorsågens och röjmotorsågens konstruktion och funktion samt förmåga att utföra arbetsuppgifter med motor- och röjmotorsåg.", "Motorsåg och röjmotorsåg används inom naturbruket i arbetet med skogsvård och avverkning, vid skötsel och underhåll av utemiljöer samt inom natur- och landskapsvård." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om utrustningens konstruktion och funktion samt förmåga att tolka instruktioner för arbete med motor- och röjmotorsåg.", "Undervisningen ska bidra till att eleverna utvecklar kunskaper om de lagar och andra bestämmelser som gäller i samband med användning av motor- och röjmotorsåg.", "Eleverna ska ges möjlighet att utveckla förmåga att utföra säkerhetskontroller samt sköta och underhålla den tekniska utrustningen.", "Undervisningen ska leda till att eleverna utvecklar förmåga att utföra arbetsuppgifter med motor- och röjmotorsåg på ett ergonomiskt och säkert sätt." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Praktiska övningar och praktiskt arbete med motorsåg och röjmotorsåg ska ingå i undervisningen.", "I undervisningen ska eleverna ges möjlighet att reflektera och samtala om olycksrisker och säkerhet i samband med användning av motor- och röjmotorsåg." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet motor- och röjmotorsåg ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om den tekniska utrustningens konstruktion och funktion.", "Kunskaper om risker i arbete med motorsåg och röjmotorsåg samt om lagar och andra bestämmelser.", "Förmåga att utföra säkerhetskontroller, service och underhåll av den tekniska utrustningen.", "Förmåga att utföra arbetsuppgifter med motorsåg på ett ergonomiskt och säkert sätt.", "Förmåga att utföra arbetsuppgifter med röjmotorsåg på ett ergonomiskt och säkert sätt." ]
+  } ],
+  "courses" : [ {
+    "name" : "Motorsåg",
+    "description" : "Kursen motorsåg omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "MOOMOT5",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Motorsågens konstruktion, funktion och säkerhetsanordningar.", "Skyddsutrustning vid arbete med motorsåg. Miljö- och säkerhetsföreskrifter.", "Daglig tillsyn av motorsåg.", "Demontering och montering av kedja och svärd. Filning och kontroll av motorsågskedja.", "Arbetsuppgifter med motorsåg. Kvistning, aptering och kapning av fällda träd, kapning av virke samt fällning av träd i varierande storlek.", "Val av brytmån, sågning av riktskär och fällskär samt fällning.", "Fällhjälpmedel, till exempel brytjärn och kilar.", "Lyftsax, lyftkrok och måttband.", "Risker med fastfällda träd och stammar i spänn." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva den tekniska utrustningens konstruktion och funktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva den tekniska utrustningens konstruktion och funktion.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> den tekniska utrustningens konstruktion och funktion.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> den tekniska utrustningens konstruktion och funktion."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att beskriva risker i arbetet med motorsåg samt lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva risker i arbetet med motorsåg samt lagar och andra bestämmelser.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> risker i arbetet med motorsåg samt lagar och andra bestämmelser.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> risker i arbetet med motorsåg samt lagar och andra bestämmelser."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att utföra säkerhetskontroller, service och underhåll av den tekniska utrustningen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att utföra säkerhetskontroller, service och underhåll av den tekniska utrustningen.",
+          "C" : "Eleven utför säkerhetskontroller, service och underhåll av den tekniska utrustningen <strong>med tillfredsställande resultat</strong>.",
+          "A" : "Eleven utför säkerhetskontroller, service och underhåll av den tekniska utrustningen <strong>med gott resultat</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att utföra arbetsuppgifter med motorsåg på ett ergonomiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att utföra arbetsuppgifter med motorsåg på ett ergonomiskt och säkert sätt.",
+          "C" : "Eleven utför arbetsuppgifter med motorsåg på ett ergonomiskt och säkert sätt.",
+          "A" : "Eleven utför arbetsuppgifter med motorsåg på ett ergonomiskt och säkert sätt."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Röjmotorsåg",
+    "description" : "Kursen röjmotorsåg omfattar punkterna 1–3 och 5 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "MOOROJ5",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Röjmotorsågens konstruktion, funktion och säkerhetsanordningar.", "Skyddsutrustning vid arbete med röjmotorsåg. Miljö- och säkerhetsföreskrifter.", "Daglig tillsyn av röjmotorsåg.", "Demontering och montering av röjsågsklinga. Filning och kontroll av röjsågsklinga.", "Arbetsuppgifter med röjmotorsåg, till exempel röjning av ledningsgator, dikeskanter och i naturvårdsområden. Riktad fällning. Ergonomi och säkerhet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva den tekniska utrustningens konstruktion och funktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva den tekniska utrustningens konstruktion och funktion.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> den tekniska utrustningens konstruktion och funktion.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> den tekniska utrustningens konstruktion och funktion."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att beskriva risker i arbetet med röjmotorsåg samt lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva risker i arbetet med röjmotorsåg samt lagar och andra bestämmelser.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> risker i arbetet med röjmotorsåg samt lagar och andra bestämmelser.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> risker i arbetet med röjmotorsåg samt lagar och andra bestämmelser."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att utföra säkerhetskontroller, service och underhåll av den tekniska utrustningen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att utföra säkerhetskontroller, service och underhåll av den tekniska utrustningen.",
+          "C" : "Eleven utför säkerhetskontroller, service och underhåll av den tekniska utrustningen <strong>med tillfredsställande resultat</strong>.",
+          "A" : "Eleven utför säkerhetskontroller, service och underhåll av den tekniska utrustningen <strong>med gott resultat</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att utföra arbetsuppgifter med röjmotorsåg på ett ergonomiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att utföra arbetsuppgifter med röjmotorsåg på ett ergonomiskt och säkert sätt.",
+          "C" : "Eleven utför arbetsuppgifter med röjmotorsåg på ett ergonomiskt och säkert sätt.",
+          "A" : "Eleven utför arbetsuppgifter med röjmotorsåg på ett ergonomiskt och säkert sätt."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

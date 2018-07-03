@@ -1,0 +1,1068 @@
+{
+  "name" : "Datorstyrd produktion",
+  "description" : "Ämnet datorstyrd produktion behandlar teknik och metoder för datorstyrd produktion, från hantverksmässigt arbete med datorstyrd utrustning avsedd för prototyp och enstyckstillverkning till serieproduktion med grupper av sammankopplade datorstyrda maskiner. Det behandlar också effektiv användning av datorstyrd teknik med hög automatiseringsgrad.",
+  "code" : "DAR",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet datorstyrd produktion ska syfta till att eleverna utvecklar kunskaper om metoder, teknik och utrustning som används inom datorstyrd industriell produktion.", "Undervisningen ska leda till att eleverna utvecklar förmåga att tillverka produkter med hjälp av datorstyrd utrustning.", "Den ska också ge eleverna möjlighet att utveckla kunskaper om operatörens roll i datorstyrd industriell produktion och förståelse av det ansvar som följer med arbetsuppgifterna inom ämnesområdet." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om vanligt förekommande redskap för programmering och produktionsstyrning.", "Eleverna ska också ges möjlighet att utveckla kunskaper om verktyg och system för processövervakning samt om hur kommunikation mellan utrustningar styrs och övervakas.", "Undervisningen ska dessutom bidra till att eleverna utvecklar kunskaper om metoder för strukturerad produktion, eftersom ordning och noggrannhet är avgörande faktorer för en framgångsrik industriell produktion." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att samtala om och reflektera över teknikens möjligheter samt bidra till att eleverna utvecklar förmåga att lösa produktionstekniska problem.", "Estetik och form har stor betydelse för hur produkter uppfattas, och eleverna ska därför ges möjlighet att utveckla förståelse av dessa aspekter av produktionen." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet datorstyrd produktion ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förmåga att läsa och tolka produktionsunderlag, att planera och programmera i styrsystem samt att simulera, testa och optimera program. Förmåga att utföra produktionsarbete i datorstyrd utrustning.", "Förmåga att planera, programmera och utföra produktionsarbete i produktionsgrupper med flera samverkande programmerbara utrustningar.", "Kunskaper om säkerhetsrisker vid arbete med datorstyrd produktionsutrustning samt kunskaper om hur risker kan minimeras.", "Förmåga att utföra felsökning och enklare underhållsarbete i datorstyrd produktionsutrustning.", "Kunskaper om begrepp, metoder, teknik och utrustning som används inom datorstyrd industriell produktion.", "Förmåga att mäta, bedöma och dokumentera kvaliteten på utfört arbete.", "Kunskaper om verktyg och metoder för processövervakning och kommunikation mellan utrustningar samt operatörens roll vid arbete i datorstyrda produktionssystem.", "Kunskaper om produktionsekonomi och förståelse av det egna ansvarstagandets betydelse för produktionen.", "Förmåga att tolka och bearbeta information om styrtekniska villkor och status hos utrustningen samt förmåga att lösa produktionstekniska problem.", "Förmåga att kommunicera med olika målgrupper och använda begrepp och uttryck som är relevanta för ämnesområdet." ]
+  } ],
+  "courses" : [ {
+    "name" : "Cad/cam",
+    "description" : "Kursen cad/cam omfattar punkterna 1, 5–6 och 10 under rubriken Ämnets syfte.",
+    "code" : "DARCAD0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Ritteknik för 2D, 3D och solidmodellering inom valt område.", "Cad/cam-teknikens möjligheter.", "Anpassning av cam-system för aktuellt område.", "Beredning och planering för generering av programkod till datorstyrd utrustning.", "Generering av koder, överföring av cam-resultat till maskin, anpassning av programmet för maskinen samt iordningställande av maskin för bearbetning.", "Kommunikation och informationsutbyte mellan utrustningar och applikationer.", "Produktionsunderlag för aktuell utrustning samt kontroll, och vid behov komplettering, av geometri och programkod.", "Anpassning med hänsyn tagen till miljö, ekonomi och säkerhet.", "Kontroll, bedömning och dokumentation av kvaliteten på utfört arbete." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar arbete i cam-system för programmering, simulering och testning av bearbetningsprogram för datorstyrd produktionsutrustning <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar arbete i cam-system för programmering, simulering och testning av bearbetningsprogram för datorstyrd produktionsutrustning <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven planerar och organiserar arbete i cam-system för programmering, simulering och testning av bearbetningsprogram för datorstyrd produktionsutrustning <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven planerar och organiserar arbete i cam-system för programmering, simulering och testning av bearbetningsprogram för datorstyrd produktionsutrustning <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Dessutom planerar och organiserar eleven <strong>________</strong> med handledare iordningställande av och arbete med datorstyrd produktionsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom planerar och organiserar eleven <strong>i samråd</strong> med handledare iordningställande av och arbete med datorstyrd produktionsutrustning.",
+          "C" : "Dessutom planerar och organiserar eleven <strong>efter samråd</strong> med handledare iordningställande av och arbete med datorstyrd produktionsutrustning.",
+          "A" : "Dessutom planerar och organiserar eleven <strong>efter samråd</strong> med handledare iordningställande av och arbete med datorstyrd produktionsutrustning."
+        }
+      }, {
+        "text" : "I planeringen tolkar eleven <strong>________</strong> instruktioner och tillverkningsunderlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "C" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "A" : "I planeringen tolkar eleven <strong>med säkerhet</strong> instruktioner och tillverkningsunderlag. <strong>Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det</strong>."
+        }
+      }, {
+        "text" : "Vidare väljer eleven <strong>________</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare väljer eleven <strong>i samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+          "C" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+          "A" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför med noggrannhet och <strong>________</strong> med handledare cam<strong>________</strong>programmering, simulering, testning och överföring av bearbetningsprogram samt iordningställande av datorstyrd produktionsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför med noggrannhet och <strong>i samråd</strong> med handledare cam<strong>-</strong>programmering, simulering, testning och överföring av bearbetningsprogram samt iordningställande av datorstyrd produktionsutrustning.",
+          "C" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare cam-programmering, simulering, testning och överföring av bearbetningsprogram samt iordningställande av datorstyrd produktionsutrustning.",
+          "A" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare cam-programmering, simulering, testning och överföring av bearbetningsprogram samt iordningställande av datorstyrd produktionsutrustning."
+        }
+      }, {
+        "text" : "Dessutom utför eleven med noggrannhet och <strong>________</strong> med handledare produktionsarbete i datorstyrd utrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven med noggrannhet och <strong>i samråd</strong> med handledare produktionsarbete i datorstyrd utrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "C" : "Dessutom utför eleven med noggrannhet och <strong>efter samråd</strong> med handledare produktionsarbete i datorstyrd utrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "A" : "Dessutom utför eleven med noggrannhet och <strong>i samråd</strong> med handledare produktionsarbete i datorstyrd utrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong> utifrån givna kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong> utifrån givna kvalitetskrav."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> instruktioner och tillverkningsunderlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner och tillverkningsunderlag."
+        }
+      }, {
+        "text" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>________</strong> handlag och håller god ordning på arbetsplatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>visst</strong> handlag och håller god ordning på arbetsplatsen.",
+          "C" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>gott</strong> handlag och håller god ordning på arbetsplatsen.",
+          "A" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>mycket gott</strong> handlag och håller god ordning på arbetsplatsen."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön.",
+          "C" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön.",
+          "A" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "När arbetsuppgiften är utförd gör eleven en <strong>________</strong> dokumentation av arbetsprocessen och resultatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd gör eleven en <strong>enkel</strong> dokumentation av arbetsprocessen och resultatet.",
+          "C" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann</strong> dokumentation av arbetsprocessen och resultatet.",
+          "A" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann och utförlig</strong> dokumentation av arbetsprocessen och resultatet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar i sitt arbete med andra samt använder <strong>________</strong> korrekt fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar i sitt arbete med andra samt använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "C" : "Eleven samarbetar i sitt arbete med andra samt använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "A" : "Eleven samarbetar i sitt arbete med andra samt använder <strong>med säkerhet</strong> korrekt fackspråk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Datorstyrd produktion 1",
+    "description" : "Kursen datorstyrd produktion 1 omfattar punkterna 1, 4–6 och 10 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper för vald utrustning eller valda metoder och programmeringssätt.",
+    "code" : "DARDAT01S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Programmering efter etablerade koder för valt programmeringssätt, manuellt och med programmeringsstöd samt med pc-baserade hjälpsystem.", "Simulering och testkörning av valda program.", "Iordningställande av vald datorstyrd utrustning för enklare bearbetning eller produktion.", "Tolkning av tillverkningsunderlag till styrsystem och överförande av dessa till aktuell utrustning.", "Tillverkning av produkter efter eget skapat program.", "Enklare felsökning och systematiskt underhåll.", "Föreskrifter för arbetsmiljö samt person- och maskinsäkerhet.", "Resultatkontroll samt justering av program och inställningar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar programmering, simulering och testning i datorstyrd produktionsutrustning <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar programmering, simulering och testning i datorstyrd produktionsutrustning <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven planerar och organiserar programmering, simulering och testning i datorstyrd produktionsutrustning <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven planerar och organiserar programmering, simulering och testning i datorstyrd produktionsutrustning <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Dessutom planerar och organiserar eleven <strong>________</strong> med handledare iordningställande av och arbete med datorstyrd produktionsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom planerar och organiserar eleven <strong>i samråd</strong> med handledare iordningställande av och arbete med datorstyrd produktionsutrustning.",
+          "C" : "Dessutom planerar och organiserar eleven <strong>efter samråd</strong> med handledare iordningställande av och arbete med datorstyrd produktionsutrustning.",
+          "A" : "Dessutom planerar och organiserar eleven <strong>efter samråd</strong> med handledare iordningställande av och arbete med datorstyrd produktionsutrustning."
+        }
+      }, {
+        "text" : "I planeringen tolkar eleven <strong>________</strong> instruktioner och tillverkningsunderlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "C" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "A" : "I planeringen tolkar eleven <strong>med säkerhet</strong> instruktioner och tillverkningsunderlag. <strong>Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det</strong>."
+        }
+      }, {
+        "text" : "Vidare väljer eleven <strong>________</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare väljer eleven <strong>i samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+          "C" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+          "A" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför med noggrannhet och <strong>________</strong> med handledare programmering, simulering och testning samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför med noggrannhet och <strong>i samråd</strong> med handledare programmering, simulering och testning samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "C" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare programmering, simulering och testning samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "A" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare programmering, simulering och testning samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong> utifrån givna kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong> utifrån givna kvalitetskrav."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> instruktioner och tillverkningsunderlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner och tillverkningsunderlag."
+        }
+      }, {
+        "text" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>________</strong> handlag och håller god ordning på arbetsplatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>visst</strong> handlag och håller god ordning på arbetsplatsen.",
+          "C" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>gott</strong> handlag och håller god ordning på arbetsplatsen.",
+          "A" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>mycket gott</strong> handlag och håller god ordning på arbetsplatsen."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön.",
+          "C" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön.",
+          "A" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "När arbetsuppgiften är utförd gör eleven en <strong>________</strong> dokumentation av arbetsprocessen och resultatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd gör eleven en <strong>enkel</strong> dokumentation av arbetsprocessen och resultatet.",
+          "C" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann</strong> dokumentation av arbetsprocessen och resultatet.",
+          "A" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann och utförlig</strong> dokumentation av arbetsprocessen och resultatet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar i sitt arbete med andra samt redogör <strong>________</strong> för betydelsen av samarbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar i sitt arbete med andra samt redogör <strong>översiktligt</strong> för betydelsen av samarbete.",
+          "C" : "Eleven samarbetar i sitt arbete med andra samt redogör <strong>utförligt</strong> för betydelsen av samarbete.",
+          "A" : "Eleven samarbetar i sitt arbete med andra samt redogör <strong>utförligt och nyanserat</strong> för betydelsen av samarbete."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> korrekt fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "C" : "Dessutom använder eleven <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "A" : "Dessutom använder eleven <strong>med säkerhet</strong> korrekt fackspråk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Datorstyrd produktion 2",
+    "description" : "Kursen datorstyrd produktion 2 omfattar punkterna 1, 4–6, och 10 under rubriken Ämnets syfte.",
+    "code" : "DARDAT02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Planering av och programmering för produktion i datorstyrd utrustning.", "Tolkning och överföring av tillverkningsunderlag och ritningar till utrustning genom manuell programmering och med dialogbaserat programmeringsstöd.", "Programmeringsstöd, till exempel cykler, subprogram och konturprogrammering.", "Justeringar i program och maskininställningar.", "Val av utrustning, verktyg och metod för att uppnå rätt kvalitet på tillverkade produkter.", "Felsökning och systematiskt underhåll.", "Föreskrifter för arbetsmiljö samt person- och maskinsäkerhet.", "Kontroll, bedömning och dokumentation av kvaliteten på utfört arbete." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar programmering med styrsystemets stödfunktioner samt simulering och testning i datorstyrd produktionsutrustning <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar programmering med styrsystemets stödfunktioner samt simulering och testning i datorstyrd produktionsutrustning <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven planerar och organiserar programmering med styrsystemets stödfunktioner samt simulering och testning i datorstyrd produktionsutrustning <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven planerar och organiserar programmering med styrsystemets stödfunktioner samt simulering och testning i datorstyrd produktionsutrustning <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Dessutom planerar och organiserar eleven <strong>________</strong> med handledare iordningställande av och arbete med datorstyrd produktionsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom planerar och organiserar eleven <strong>i samråd</strong> med handledare iordningställande av och arbete med datorstyrd produktionsutrustning.",
+          "C" : "Dessutom planerar och organiserar eleven <strong>efter samråd</strong> med handledare iordningställande av och arbete med datorstyrd produktionsutrustning.",
+          "A" : "Dessutom planerar och organiserar eleven <strong>efter samråd</strong> med handledare iordningställande av och arbete med datorstyrd produktionsutrustning."
+        }
+      }, {
+        "text" : "I planeringen tolkar eleven <strong>________</strong> instruktioner och tillverkningsunderlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "C" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "A" : "I planeringen tolkar eleven <strong>med säkerhet</strong> instruktioner och tillverkningsunderlag. <strong>Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det</strong>."
+        }
+      }, {
+        "text" : "Vidare väljer eleven <strong>________</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare väljer eleven <strong>i samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+          "C" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+          "A" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför med noggrannhet och <strong>________</strong> med handledare programmering med hjälp av styrsystemets stödfunktioner, simulering och testning samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter, givna instruktioner och kravspecifikationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför med noggrannhet och <strong>i samråd</strong> med handledare programmering med hjälp av styrsystemets stödfunktioner, simulering och testning samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter, givna instruktioner och kravspecifikationer.",
+          "C" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare programmering med hjälp av styrsystemets stödfunktioner, simulering och testning samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter, givna instruktioner och kravspecifikationer.",
+          "A" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare programmering med styrsystemets stödfunktioner, simulering och testning samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter, givna instruktioner och kravspecifikationer."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong> utifrån givna kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong> utifrån givna kvalitetskrav."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> instruktioner och tillverkningsunderlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner och tillverkningsunderlag."
+        }
+      }, {
+        "text" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>________</strong> handlag och håller god ordning på arbetsplatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>visst</strong> handlag och håller god ordning på arbetsplatsen.",
+          "C" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>gott</strong> handlag och håller god ordning på arbetsplatsen.",
+          "A" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>mycket gott</strong> handlag och håller god ordning på arbetsplatsen."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön.",
+          "C" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön.",
+          "A" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Dessutom vårdar eleven <strong>________</strong> utrustningen enligt instruktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom vårdar eleven <strong>med viss säkerhet</strong> utrustningen enligt instruktion.",
+          "C" : "Dessutom vårdar eleven <strong>med viss säkerhet</strong> utrustningen enligt instruktion.",
+          "A" : "Dessutom vårdar eleven <strong>med säkerhet</strong> utrustningen enligt instruktion."
+        }
+      }, {
+        "text" : "När arbetsuppgiften är utförd gör eleven en <strong>________</strong> dokumentation av arbetsprocessen och resultatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd gör eleven en <strong>enkel</strong> dokumentation av arbetsprocessen och resultatet.",
+          "C" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann</strong> dokumentation av arbetsprocessen och resultatet.",
+          "A" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann och utförlig</strong> dokumentation av arbetsprocessen och resultatet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar i sitt arbete med andra samt använder <strong>________</strong> korrekt fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar i sitt arbete med andra samt använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "C" : "Eleven samarbetar i sitt arbete med andra samt använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "A" : "Eleven samarbetar i sitt arbete med andra samt använder <strong>med säkerhet</strong> korrekt fackspråk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Datorstyrd produktion 3",
+    "description" : "Kursen datorstyrd produktion 3 omfattar punkterna 1–2, 4–6 och 8–10 under rubriken Ämnets syfte.",
+    "code" : "DARDAT03",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Programmering och produktionsförberedelse med hjälp av pc-baserat programmeringsstöd.", "Avancerade produktionsunderlag och komplexa program.", "Val av utrustning, verktyg och teknik för optimalt produktionsresultat.", "Produktionsarbete i datorstyrd utrustning enligt angivna kvalitetskrav.", "Avancerad felsökning och systematiskt underhåll.", "Påverkan på produktionsekonomi med koppling till val av utrustning, verktyg och teknik.", "Föreskrifter för arbetsmiljö samt person- och maskinsäkerhet.", "Kontroll, bedömning och dokumentation av kvaliteten på utfört arbete." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar programmering, simulering, testning och optimering av datorstyrd produktionsutrustning <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar programmering, simulering, testning och optimering av datorstyrd produktionsutrustning <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven planerar och organiserar programmering, simulering, testning och optimering av datorstyrd produktionsutrustning <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven planerar och organiserar programmering, simulering, testning och optimering av datorstyrd produktionsutrustning <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Dessutom planerar och organiserar eleven <strong>________</strong> med handledare iordningställande av och arbete med datorstyrd produktionsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom planerar och organiserar eleven <strong>i samråd</strong> med handledare iordningställande av och arbete med datorstyrd produktionsutrustning.",
+          "C" : "Dessutom planerar och organiserar eleven <strong>efter samråd</strong> med handledare iordningställande av och arbete med datorstyrd produktionsutrustning.",
+          "A" : "Dessutom planerar och organiserar eleven <strong>efter samråd</strong> med handledare iordningställande av och arbete med datorstyrd produktionsutrustning."
+        }
+      }, {
+        "text" : "I planeringen tolkar eleven <strong>________</strong> instruktioner och tillverkningsunderlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "C" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "A" : "I planeringen tolkar eleven <strong>med säkerhet</strong> instruktioner och tillverkningsunderlag. <strong>Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det</strong>."
+        }
+      }, {
+        "text" : "Vidare väljer eleven <strong>________</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare väljer eleven <strong>i samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+          "C" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+          "A" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför med noggrannhet och <strong>________</strong> med handledare programmering, simulering, testning och optimering samt iordningställande av och produktionsarbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför med noggrannhet och <strong>i samråd</strong> med handledare programmering, simulering, testning och optimering samt iordningställande av och produktionsarbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "C" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare programmering, simulering, testning och optimering samt iordningställande av och produktionsarbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "A" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare programmering, simulering, testning och optimering samt iordningställande av och produktionsarbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong> utifrån givna kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong> utifrån givna kvalitetskrav."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> instruktioner och tillverkningsunderlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner och tillverkningsunderlag."
+        }
+      }, {
+        "text" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>________</strong> handlag och håller god ordning på arbetsplatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>visst</strong> handlag och håller god ordning på arbetsplatsen.",
+          "C" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>gott</strong> handlag och håller god ordning på arbetsplatsen.",
+          "A" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>mycket gott</strong> handlag och håller god ordning på arbetsplatsen."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön.",
+          "C" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön.",
+          "A" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Dessutom vårdar eleven <strong>________</strong> utrustningen enligt instruktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom vårdar eleven <strong>med viss säkerhet</strong> utrustningen enligt instruktion.",
+          "C" : "Dessutom vårdar eleven <strong>med viss säkerhet</strong> utrustningen enligt instruktion.",
+          "A" : "Dessutom vårdar eleven <strong>med säkerhet</strong> utrustningen enligt instruktion."
+        }
+      }, {
+        "text" : "När arbetsuppgiften är utförd gör eleven en <strong>________</strong> dokumentation av arbetsprocessen och resultatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd gör eleven en <strong>enkel</strong> dokumentation av arbetsprocessen och resultatet.",
+          "C" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann</strong> dokumentation av arbetsprocessen och resultatet.",
+          "A" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann och utförlig</strong> dokumentation av arbetsprocessen och resultatet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat produktionsekonomi, kvalitet och slutresultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat produktionsekonomi, kvalitet och slutresultat.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat produktionsekonomi, kvalitet och slutresultat.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat produktionsekonomi, kvalitet och slutresultat."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar i sitt arbete med andra samt använder <strong>________</strong> korrekt fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar i sitt arbete med andra samt använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "C" : "Eleven samarbetar i sitt arbete med andra samt använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "A" : "Eleven samarbetar i sitt arbete med andra samt använder <strong>med säkerhet</strong> korrekt fackspråk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Datorstyrd produktion 4",
+    "description" : "Kursen datorstyrd produktion 4 omfattar punkterna 1, 4–6, 8 och 10 under rubriken Ämnets syfte.",
+    "code" : "DARDAT04",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Programmering och operatörsarbete med utrustning för komplettbearbetning.", "3D-bearbetning och programmering för bearbetning av ytor med oregelbundna former.", "Operatörsarbete i datorstyrd utrustning för komplettbearbetning.", "Bearbetning med programmerbara uppspänningsutrustningar.", "Felsökning och systematiskt underhåll.", "Påverkan på produktionsekonomi med koppling till val av utrustning, verktyg och teknik.", "Föreskrifter för arbetsmiljö samt person- och maskinsäkerhet.", "Kontroll, bedömning och dokumentation av kvaliteten på utfört arbete." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar programmering, simulering, testning och optimering av datorstyrd produktionsutrustning <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar programmering, simulering, testning och optimering av datorstyrd produktionsutrustning <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven planerar och organiserar programmering, simulering, testning och optimering av datorstyrd produktionsutrustning <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven planerar och organiserar programmering, simulering, testning och optimering av datorstyrd produktionsutrustning <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Dessutom planerar och organiserar eleven <strong>________</strong> med handledare iordningställande av och arbete med datorstyrd produktionsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom planerar och organiserar eleven <strong>i samråd</strong> med handledare iordningställande av och arbete med datorstyrd produktionsutrustning.",
+          "C" : "Dessutom planerar och organiserar eleven <strong>efter samråd</strong> med handledare iordningställande av och arbete med datorstyrd produktionsutrustning.",
+          "A" : "Dessutom planerar och organiserar eleven <strong>efter samråd</strong> med handledare iordningställande av och arbete med datorstyrd produktionsutrustning."
+        }
+      }, {
+        "text" : "I planeringen tolkar eleven <strong>________</strong> instruktioner och tillverkningsunderlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "C" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "A" : "I planeringen tolkar eleven <strong>med säkerhet</strong> instruktioner och tillverkningsunderlag. <strong>Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det</strong>."
+        }
+      }, {
+        "text" : "Vidare väljer eleven <strong>________</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare väljer eleven <strong>i samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+          "C" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+          "A" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför med noggrannhet och <strong>________</strong> med handledare programmering, simulering, testning och optimering samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför med noggrannhet och <strong>i samråd</strong> med handledare programmering, simulering, testning och optimering samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "C" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare programmering, simulering, testning och optimering samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "A" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare programmering, simulering, testning och optimering samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong> utifrån givna kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong> utifrån givna kvalitetskrav."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> instruktioner och tillverkningsunderlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner och tillverkningsunderlag."
+        }
+      }, {
+        "text" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>________</strong> handlag och håller god ordning på arbetsplatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>visst</strong> handlag och håller god ordning på arbetsplatsen.",
+          "C" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>gott</strong> handlag och håller god ordning på arbetsplatsen.",
+          "A" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>mycket gott</strong> handlag och håller god ordning på arbetsplatsen."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön.",
+          "C" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön.",
+          "A" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Dessutom vårdar eleven <strong>________</strong> utrustningen enligt instruktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom vårdar eleven <strong>med viss säkerhet</strong> utrustningen enligt instruktion.",
+          "C" : "Dessutom vårdar eleven <strong>med viss säkerhet</strong> utrustningen enligt instruktion.",
+          "A" : "Dessutom vårdar eleven <strong>med säkerhet</strong> utrustningen enligt instruktion."
+        }
+      }, {
+        "text" : "När arbetsuppgiften är utförd gör eleven en <strong>________</strong> dokumentation av arbetsprocessen och resultatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd gör eleven en <strong>enkel</strong> dokumentation av arbetsprocessen och resultatet.",
+          "C" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann</strong> dokumentation av arbetsprocessen och resultatet.",
+          "A" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann och utförlig</strong> dokumentation av arbetsprocessen och resultatet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat produktionsekonomi, kvalitet och slutresultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat produktionsekonomi, kvalitet och slutresultat.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat produktionsekonomi, kvalitet och slutresultat.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat produktionsekonomi, kvalitet och slutresultat."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar i sitt arbete med andra samt använder <strong>________</strong> korrekt fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar i sitt arbete med andra samt använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "C" : "Eleven samarbetar i sitt arbete med andra samt använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "A" : "Eleven samarbetar i sitt arbete med andra samt använder <strong>med säkerhet</strong> korrekt fackspråk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Datorstyrd produktion 5",
+    "description" : "Kursen datorstyrd produktion 5 omfattar punkterna 1 och 3–10 under rubriken Ämnets syfte.",
+    "code" : "DARDAT05",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Programmering, problemlösning och operatörsarbete i datorstyrd utrustning med programmerbar villkorsstyrd kringutrustning och materialhanteringssystem.", "Enklare säkerhetsanalys vid automatiserad bearbetning.", "Operatörsarbete i datorstyrd utrustning med övervakning och styrning med hjälp av kvalitetsstyrningsmetoder.", "Operatörsarbete i robotbetjänad utrustning.", "Arbete med metoder och verktyg för processtyrning.", "Produktionstekniska åtgärder för förbättrad produktionsekonomi med koppling till val av utrustning, verktyg och teknik.", "Föreskrifter för arbetsmiljö samt person- och maskinsäkerhet.", "Kontroll, bedömning och dokumentation av kvaliteten på utfört arbete." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar programmering, simulering och testning av datorstyrda produktionsutrustningar <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar programmering, simulering och testning av datorstyrda produktionsutrustningar <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven planerar och organiserar programmering, simulering och testning av datorstyrda produktionsutrustningar <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven planerar och organiserar programmering, simulering och testning av datorstyrda produktionsutrustningar <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Dessutom planerar och organiserar eleven <strong>________</strong> med handledare iordningställande av och arbete med datorstyrda produktionsutrustningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom planerar och organiserar eleven <strong>i samråd</strong> med handledare iordningställande av och arbete med datorstyrda produktionsutrustningar.",
+          "C" : "Dessutom planerar och organiserar eleven <strong>efter samråd</strong> med handledare iordningställande av och arbete med datorstyrda produktionsutrustningar.",
+          "A" : "Dessutom planerar och organiserar eleven <strong>efter samråd</strong> med handledare iordningställande av och arbete med datorstyrda produktionsutrustningar."
+        }
+      }, {
+        "text" : "I planeringen tolkar eleven <strong>________</strong> instruktioner och tillverkningsunderlag samt gör en <strong>________</strong> värdering av säkerhetsriskerna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag samt gör en <strong>enkel</strong> värdering av säkerhetsriskerna.",
+          "C" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag samt gör en <strong>nyanserad</strong> värdering av säkerhetsriskerna.",
+          "A" : "I planeringen tolkar eleven <strong>med säkerhet</strong> instruktioner och tillverkningsunderlag samt gör en <strong>nyanserade</strong> värdering av säkerhetsriskerna. <strong>Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter detta samt utifrån sin värdering av säkerhetsriskerna</strong>."
+        }
+      }, {
+        "text" : "Vidare väljer eleven <strong>________</strong> med handledare arbetsmetoder, verktyg, utrustning och material som produktionstekniskt passar för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare väljer eleven <strong>i samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som produktionstekniskt passar för uppgiften.",
+          "C" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som produktionstekniskt passar för uppgiften.",
+          "A" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som är produktionstekniskt lämpligt för uppgiften."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför med noggrannhet och <strong>________</strong> med handledare programmering, simulering och testning samt iordningställande av och arbete med datorstyrda produktionsutrustningar i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför med noggrannhet och <strong>i samråd</strong> med handledare programmering, simulering och testning samt iordningställande av och arbete med datorstyrda produktionsutrustningar i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "C" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare programmering, simulering och testning samt iordningställande av och arbete med datorstyrda produktionsutrustningar i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "A" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare programmering, simulering och testning samt i ordningsställande av och arbete med datorstyrda produktionsutrusningar i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong> utifrån givna kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong> utifrån givna kvalitetskrav."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> instruktioner och tillverkningsunderlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner och tillverkningsunderlag."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> optimering av datorstyrda produktionsutrustningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>med viss säkerhet</strong> optimering av datorstyrda produktionsutrustningar.",
+          "C" : "Dessutom utför eleven <strong>med viss säkerhet</strong> optimering av datorstyrda produktionsutrustningar.",
+          "A" : "Dessutom utför eleven <strong>med säkerhet</strong> optimering av datorstyrda produktionsutrustningar."
+        }
+      }, {
+        "text" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>________</strong> handlag och håller god ordning på arbetsplatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>visst</strong> handlag och håller god ordning på arbetsplatsen.",
+          "C" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>gott</strong> handlag och håller god ordning på arbetsplatsen.",
+          "A" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>mycket gott</strong> handlag och håller god ordning på arbetsplatsen."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön.",
+          "C" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön.",
+          "A" : "Eleven arbetar ergonomiskt och på ett för sig själv och andra säkert sätt samt med hänsyn till miljön."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Dessutom vårdar eleven <strong>________</strong> utrustningen enligt instruktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom vårdar eleven <strong>med viss säkerhet</strong> utrustningen enligt instruktion.",
+          "C" : "Dessutom vårdar eleven <strong>med viss säkerhet</strong> utrustningen enligt instruktion.",
+          "A" : "Dessutom vårdar eleven <strong>med säkerhet</strong> utrustningen enligt instruktion."
+        }
+      }, {
+        "text" : "När arbetsuppgiften är utförd gör eleven en <strong>________</strong> dokumentation av arbetsprocessen och resultatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd gör eleven en <strong>enkel</strong> dokumentation av arbetsprocessen och resultatet.",
+          "C" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann</strong> dokumentation av arbetsprocessen och resultatet.",
+          "A" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann och utförlig</strong> dokumentation av arbetsprocessen och resultatet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat produktionsekonomi, kvalitet och slutresultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat produktionsekonomi, kvalitet och slutresultat.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat produktionsekonomi, kvalitet och slutresultat.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för det material, den teknik, de metoder och verktyg som använts för arbetsuppgiften samt hur dessa påverkat produktionsekonomi, kvalitet och slutresultat."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar i sitt arbete med andra samt använder <strong>________</strong> korrekt fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar i sitt arbete med andra samt använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "C" : "Eleven samarbetar i sitt arbete med andra samt använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "A" : "Eleven samarbetar i sitt arbete med andra samt använder <strong>med säkerhet</strong> korrekt fackspråk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Datorstyrd produktion 6",
+    "description" : "Kursen datorstyrd produktion 6 omfattar punkterna 1–10 under rubriken Ämnets syfte.",
+    "code" : "DARDAT06",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Programmering av kommunikation mellan grupper av datorstyrd utrustning.", "Arbete i robotbetjänad produktionsgrupp.", "Hanteringssystem för råmaterial och för bearbetat material.", "Produktionstekniska problem vid automatiserad tillverkning.", "Säkerhetsanalys vid automatiserad bearbetning.", "Arbete med datorstyrd mätutrustning och automatiserad processövervakning.", "Automatiserad kvalitetskontroll och bearbetningsövervakning.", "Förebyggande underhåll av utrustningen samt kontroll och åtgärder vid driftstörningar.", "Påverkan på produktionsekonomi med koppling till val av utrustning, verktyg och teknik.", "Driftsäkerhet, felsökning och säkerhetsrisker i automatiserad produktion.", "Föreskrifter för arbetsmiljö samt person- och maskinsäkerhet.", "Kontroll, bedömning och dokumentation av kvaliteten på utfört arbete." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar programmering, simulering, testning och optimering av datorstyrd produktionsutrustning <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar programmering, simulering, testning och optimering av datorstyrd produktionsutrustning <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven planerar och organiserar programmering, simulering, testning och optimering av datorstyrd produktionsutrustning <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven planerar och organiserar programmering, simulering, testning och optimering av datorstyrd produktionsutrustning <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Dessutom planerar och organiserar eleven <strong>________</strong> med handledare iordningställande av och arbete med datorstyrd produktionsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom planerar och organiserar eleven <strong>i samråd</strong> med handledare iordningställande av och arbete med datorstyrd produktionsutrustning.",
+          "C" : "Dessutom planerar och organiserar eleven <strong>efter samråd</strong> med handledare iordningställande av och arbete med datorstyrd produktionsutrustning.",
+          "A" : "Dessutom planerar och organiserar eleven <strong>efter samråd</strong> med handledare iordningställande av och arbete med datorstyrd produktionsutrustning."
+        }
+      }, {
+        "text" : "Eleven förutser också produktionstekniska problem som kan uppstå och anpassar <strong>________</strong> med handledare planering och organisation efter detta.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven förutser också produktionstekniska problem som kan uppstå och anpassar <strong>i samråd</strong> med handledare planering och organisation efter detta.",
+          "C" : "Eleven förutser också produktionstekniska problem som kan uppstå och anpassar <strong>efter samråd</strong> med handledare planering och organisation efter detta.",
+          "A" : "Eleven förutser också produktionstekniska problem som kan uppstå och anpassar <strong>efter samråd</strong> med handledare planering och organisation efter detta."
+        }
+      }, {
+        "text" : "I planeringen tolkar eleven <strong>________</strong> instruktioner och tillverkningsunderlag samt gör en <strong>________</strong> värdering av säkerhetsriskerna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag samt gör en <strong>enkel</strong> värdering av säkerhetsriskerna.",
+          "C" : "I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag samt gör en <strong>nyanserad</strong> värdering av säkerhetsriskerna.",
+          "A" : "I planeringen tolkar eleven <strong>med säkerhet</strong> instruktioner och tillverkningsunderlag samt gör en <strong>nyanserad</strong> värdering av säkerhetsriskerna. <strong>Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter detta samt utifrån sin värdering av säkerhetsriskerna</strong>."
+        }
+      }, {
+        "text" : "Vidare väljer eleven <strong>________</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare väljer eleven <strong>i samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+          "C" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.",
+          "A" : "Vidare väljer eleven <strong>efter samråd</strong> med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför med noggrannhet och <strong>________</strong> med handledare programmering, simulering, testning och optimering samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför med noggrannhet och <strong>i samråd</strong> med handledare programmering, simulering, testning och optimering samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "C" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare programmering, simulering, testning och optimering samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer.",
+          "A" : "Eleven utför med noggrannhet och <strong>efter samråd</strong> med handledare programmering, simulering, testning och optimering samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong> utifrån givna kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong> utifrån givna kvalitetskrav."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> instruktioner och tillverkningsunderlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner och tillverkningsunderlag.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner och tillverkningsunderlag."
+        }
+      }, {
+        "text" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>________</strong> handlag och håller god ordning på arbetsplatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>visst</strong> handlag och håller god ordning på arbetsplatsen.",
+          "C" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>gott</strong> handlag och håller god ordning på arbetsplatsen.",
+          "A" : "Eleven hanterar material, utrustning, verktyg och maskiner med <strong>mycket gott</strong> handlag och håller god ordning på arbetsplatsen."
+        }
+      }, {
+        "text" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön.",
+          "C" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön.",
+          "A" : "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön."
+        }
+      }, {
+        "text" : "Under arbetet avläser och tolkar eleven <strong>________</strong> information från övervakningssystem och föreslår åtgärder som påverkar resultatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet avläser och tolkar eleven <strong>med viss säkerhet</strong> information från övervakningssystem och föreslår åtgärder som påverkar resultatet.",
+          "C" : "Under arbetet avläser och tolkar eleven <strong>med viss säkerhet</strong> information från övervakningssystem och föreslår åtgärder som påverkar resultatet.",
+          "A" : "Under arbetet avläser och tolkar eleven <strong>med säkerhet</strong> information från övervakningssystem och föreslår åtgärder som påverkar resultatet."
+        }
+      }, {
+        "text" : "Dessutom upptäcker eleven eventuella produktionstekniska problem och åtgärdar dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom upptäcker eleven eventuella produktionstekniska problem och åtgärdar dem <strong>i samråd</strong> med handledare.",
+          "C" : "Dessutom upptäcker eleven eventuella produktionstekniska problem och åtgärdar dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Dessutom upptäcker eleven eventuella produktionstekniska problem och åtgärdar dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Eleven vårdar <strong>________</strong> utrustningen enligt instruktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven vårdar <strong>med viss säkerhet</strong> utrustningen enligt instruktion.",
+          "C" : "Eleven vårdar <strong>med viss säkerhet</strong> utrustningen enligt instruktion.",
+          "A" : "Eleven vårdar <strong>med viss säkerhet</strong> utrustningen enligt instruktion."
+        }
+      }, {
+        "text" : "När arbetsuppgiften är utförd gör eleven en <strong>________</strong> dokumentation av arbetsprocessen och resultatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd gör eleven en <strong>enkel</strong> dokumentation av arbetsprocessen och resultatet.",
+          "C" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann</strong> dokumentation av arbetsprocessen och resultatet.",
+          "A" : "När arbetsuppgiften är utförd gör eleven en <strong>noggrann och utförlig</strong> dokumentation av arbetsprocessen och resultatet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat produktionsekonomi, kvalitet och slutresultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat produktionsekonomi, kvalitet och slutresultat.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat produktionsekonomi, kvalitet och slutresultat.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat produktionsekonomi, kvalitet och slutresultat."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för de metoder som använts för automatisk kvalitetskontroll.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för de metoder som använts för automatisk kvalitetskontroll.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för de metoder som använts för automatisk kvalitetskontroll.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för de metoder som använts för automatisk kvalitetskontroll."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för eventuella avvikelser från specifikationen och den egna arbetsinsatsen."
+        }
+      }, {
+        "text" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar i sitt arbete med andra samt använder <strong>________</strong> korrekt fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar i sitt arbete med andra samt använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "C" : "Eleven samarbetar i sitt arbete med andra samt använder <strong>med viss säkerhet</strong> korrekt fackspråk.",
+          "A" : "Eleven samarbetar i sitt arbete med andra samt använder <strong>med säkerhet</strong> korrekt fackspråk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

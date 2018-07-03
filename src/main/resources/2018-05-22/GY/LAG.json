@@ -1,0 +1,367 @@
+{
+  "name" : "Lager och terminal",
+  "description" : "Ämnet lager och terminal behandlar olika logistikflöden, kopplingar mellan olika transportslag och hanteringsmetoder samt hur samspelet mellan dessa påverkar gods- och varuflöden. Ämnet bygger på förutsättningarna för en modern och rationell lager- och terminalhantering. I ämnet behandlas också de specifika krav och det regelverk som är kopplat till yrkesmässig lager- och terminalhantering.",
+  "code" : "LAG",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet lager och terminal ska syfta till att eleverna utvecklar kunskaper om logistik och tekniska lösningar för en effektiv och rationell godshantering.", "Den ska leda till att eleverna utvecklar förmåga att hantera de maskiner och den utrustning som krävs för en effektiv lagerhantering.", "Eleverna ska ges möjlighet att utveckla förmåga att optimera lager- och terminalytor samt kunskaper om alternativa lagersystem för gods- och varuflöden och lageradministration." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om dokumentationskrav för export och import av varor, de rutiner och frakthandlingar som följer nationella och internationella transporter samt kunskaper inom informationsteknik.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur olika logistiklösningar påverkar samhälle, ekonomi och miljö samt om samband som bidrar till en långsiktig hållbar utveckling.", "Undervisningen ska också bidra till att eleverna utvecklar kunskaper om den enskildes delaktighet och ansvar för säkerhet, miljö och arbetsmiljö." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke.", "Dessa arbetsuppgifter ska utgå från ett problemlösande och laborativt arbetssätt." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet lager och terminal ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om transportbranschen samt om olika transportslag och logistiklösningar.", "Kunskaper om olika lagermiljöer och lagerstrukturer.", "Förmåga att hantera varor och gods i olika lagermiljöer och terminaler.", "Förmåga att använda it-stöd och dator för processer inom order och lagerhantering samt tekniska lösningar för en effektiv och rationell lager- och terminalhantering.", "Förmåga att utföra paketering och emballering samt vikt- och volymberäkning av gods och varor.", "Förmåga att disponera lager- och terminalytor för ett optimalt varuflöde.", "Förmåga att motivera sin lagerhantering utifrån ekonomiska och miljömässiga faktorer.", "Förmåga att arbeta på ett ergonomiskt, säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten." ]
+  } ],
+  "courses" : [ {
+    "name" : "Lageradministration och terminallogistik",
+    "description" : "Kursen lageradministration och terminallogistik omfattar punkterna 1–8 under rubriken Ämnets syfte.",
+    "code" : "LAGLAG0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Organisation och arbetsrutiner inom lager och terminalhantering.", "Logistikens betydelse för samhället samt den inverkan på människor och miljö som olika transportslag och logistiklösningar för med sig.", "De fyra transportslagen utifrån godsslag, mängder och varuflöden.", "Olika modeller för distributions- och transportsystem där kraven på terminallogistik utgör en central del av flödet.", "Funktions- och hanteringsprinciper för transaktioner i lager, lagerrutiner och inventering.", "Funktioner för alternativa logistiklösningar, till exempel tredjepartslösningar, cross-docking och specifik terminalhantering.", "Hantering av gods i lager och terminal med hjälp av de maskiner och den utrustning som krävs.", "Planering och dimensionering av lager. Planering av olika logistiklösningar. Planering av hantering av gods på terminal.", "It-stöd kopplat till hantering i lager- och terminalsystem.", "Hantering och metoder för användning av datorstödd logistik.", "Kostnadsberäkningar.", "Lagerhanteringens betydelse för logistikkostnader och leveransservice.", "Olika transportslags fördelar och nackdelar utifrån ekonomiska och miljömässiga faktorer." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> transportbranschens struktur och förutsättningar, logistikens betydelse för samhället samt den inverkan på människor och miljö som olika transportslag och logistiklösningar för med sig.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> transportbranschens struktur och förutsättningar, logistikens betydelse för samhället samt den inverkan på människor och miljö som olika transportslag och logistiklösningar för med sig.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> transportbranschens struktur och förutsättningar, logistikens betydelse för samhället samt den inverkan på människor och miljö som olika transportslag och logistiklösningar för med sig.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> transportbranschens struktur och förutsättningar, logistikens betydelse för samhället samt den inverkan på människor och miljö som olika transportslag och logistiklösningar för med sig."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> processer för transaktioner och flöden i lager samt villkor och förutsättningar för lager och terminalhantering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> processer för transaktioner och flöden i lager samt villkor och förutsättningar för lager och terminalhantering.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> processer för transaktioner och flöden i lager samt villkor och förutsättningar för lager och terminalhantering.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> processer för transaktioner och flöden i lager samt villkor och förutsättningar för lager och terminalhantering."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> rutiner för inventeringar samt lagerhanteringens betydelse för kostnader och leveransservice.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> rutiner för inventeringar samt lagerhanteringens betydelse för kostnader och leveransservice.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> rutiner för inventeringar samt lagerhanteringens betydelse för kostnader och leveransservice.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> rutiner för inventeringar samt lagerhanteringens betydelse för kostnader och leveransservice."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven hanterar <strong>________</strong> gods i lager och terminal.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar <strong>med viss säkerhet</strong> gods i lager och terminal.",
+          "C" : "Eleven hanterar <strong>med viss säkerhet</strong> gods i lager och terminal.",
+          "A" : "Eleven hanterar <strong>med säkerhet</strong> gods i lager och terminal."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> strategier för att planera lagren och terminalytorna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>enkla</strong> strategier för att planera lagren och terminalytorna.",
+          "C" : "I arbetet använder eleven strategier för att planera lagren och terminalytorna.",
+          "A" : "I arbetet använder eleven <strong>avancerade</strong> strategier för att planera lagren och terminalytorna."
+        }
+      }, {
+        "text" : "Eleven använder it-stöd och dator för lagerhantering och dimensionering av lager.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder it-stöd och dator för lagerhantering och dimensionering av lager.",
+          "C" : "Eleven använder it-stöd och dator för lagerhantering och dimensionering av lager.",
+          "A" : "Eleven använder it-stöd och dator för lagerhantering och dimensionering av lager."
+        }
+      }, {
+        "text" : "Dessutom använder eleven i bekanta situationer <strong>________</strong> tekniska lösningar för en effektiv och rationell lager- och terminalhantering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven i bekanta situationer <strong>enkla</strong> tekniska lösningar för en effektiv och rationell lager- och terminalhantering.",
+          "C" : "Dessutom använder eleven i bekanta <strong>och delvis nya</strong> situationer tekniska lösningar för en effektiv och rationell lager- och terminalhantering.",
+          "A" : "Dessutom använder eleven i bekanta <strong>och nya</strong> situationer <strong>avancerade</strong> tekniska lösningar för en effektiv och rationell lager- och terminalhantering."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare <strong>________</strong> vikt- och volymberäkningar för olika godsslag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare <strong>enkla</strong> vikt- och volymberäkningar för olika godsslag.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare vikt- och volymberäkningar för olika godsslag.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare <strong>avancerade</strong> vikt- och volymberäkningar för olika godsslag."
+        }
+      }, {
+        "text" : "I arbetet ger eleven exempel på hur organisation, rutiner och lagerhantering påverkar effektivisering av varuflöden i lager samt beskriver <strong>________</strong> hur godsflöden kan styras för en optimal disponering av ytor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet ger eleven exempel på hur organisation, rutiner och lagerhantering påverkar effektivisering av varuflöden i lager samt beskriver <strong>översiktligt</strong> hur godsflöden kan styras för en optimal disponering av ytor.",
+          "C" : "I arbetet ger eleven exempel på hur organisation, rutiner och lagerhantering påverkar effektivisering av varuflöden i lager samt beskriver <strong>utförligt</strong> hur godsflöden kan styras för en optimal disponering av ytor.",
+          "A" : "I arbetet ger eleven exempel på hur organisation, rutiner och lagerhantering påverkar effektivisering av varuflöden i lager samt beskriver <strong>utförligt och nyanserat</strong> hur godsflöden kan styras för en optimal disponering av ytor."
+        }
+      }, {
+        "text" : "Dessutom motiverar eleven <strong>________</strong> sin lagerhantering utifrån ekonomiska och miljömässiga faktorer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom motiverar eleven <strong>översiktligt</strong> sin lagerhantering utifrån ekonomiska och miljömässiga faktorer.",
+          "C" : "Dessutom motiverar eleven <strong>utförligt</strong> sin lagerhantering utifrån ekonomiska och miljömässiga faktorer.",
+          "A" : "Dessutom motiverar eleven <strong>utförligt och nyanserat</strong> sin lagerhantering utifrån ekonomiska och miljömässiga faktorer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar ergonomiskt, säkert, miljömässigt och kvalitetsmässigt utifrån lagar och andra bestämmelser som reglerar arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt, säkert, miljömässigt och kvalitetsmässigt utifrån lagar och andra bestämmelser som reglerar arbetet.",
+          "C" : "Eleven arbetar ergonomiskt, säkert, miljömässigt och kvalitetsmässigt utifrån lagar och andra bestämmelser som reglerar arbetet.",
+          "A" : "Eleven arbetar ergonomiskt, säkert, miljömässigt och kvalitetsmässigt utifrån lagar och andra bestämmelser som reglerar arbetet."
+        }
+      }, {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lokaler och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lokaler och utrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lokaler och utrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lokaler och utrustning."
+        }
+      }, {
+        "text" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+          "C" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+          "A" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Lagerprocesser",
+    "description" : "Kursen lagerprocesser omfattar punkterna 2–5 och 8 under rubriken Ämnets syfte.",
+    "code" : "LAGLAP0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Alternativa lagersystem och lagerstrukturer för gods- och varuflöden.", "Administrativa funktioner i fråga om ansvarsbestämmelser, anpassade till hantering av varor och gods i lagermiljöer.", "Hantering av varor och gods i funktionsspecifika lagermiljöer med hjälp av de maskiner och den utrustning som krävs.", "Hantering av farligt gods i olika lagermiljöer.", "Processer för orderhantering och orderplockning av varor och gods.", "Hanteringsprinciper och funktioner för maskiner och utrustning i lagermiljöer.", "Tekniska lösningar och hjälpmedel för en effektiv och rationell lager- och terminalhantering.", "Principer och regler för paketering och emballering av varor och gods. Olika förekommande förpackningsslag samt förekommande material för emballering.", "Principer och regler för vikt- och volymberäkning av gods. Högsta vikt på kollin och förpackningar samt begränsningar för stapling och övrig hantering", "Fraktberäkningsregler utifrån olika typer av gods och transportslag. Definitioner och begrepp, till exempel pallplatser, flakmeter, kubikmeter, vikt och enhetslaster.", "Hantering och upprättande av transportdokument utifrån vikt- och volymberäkning av gods samt eventuella hanteringsinstruktioner.", "Faktorer som påverkar arbetsmiljö och säkerhet i lagermiljöer. Riskbedömningar och former för systematiskt arbetsmiljöarbete." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven ger exempel på och beskriver <strong>________</strong> olika typer av lagermiljöer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven ger exempel på och beskriver <strong>översiktligt</strong> olika typer av lagermiljöer.",
+          "C" : "Eleven ger exempel på och beskriver <strong>utförligt</strong> olika typer av lagermiljöer.",
+          "A" : "Eleven ger exempel på och beskriver <strong>utförligt och nyanserat</strong> olika typer av lagermiljöer."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> sammanhang och relationer utifrån givna frågeställningar om ansvarsbestämmelser förknippade med fraktberäkningsregler och transportdokument.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt enkla</strong> sammanhang och relationer utifrån givna frågeställningar om ansvarsbestämmelser förknippade med fraktberäkningsregler och transportdokument.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> sammanhang och relationer utifrån givna frågeställningar om ansvarsbestämmelser förknippade med fraktberäkningsregler och transportdokument.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat komplexa</strong> sammanhang och relationer utifrån givna frågeställningar om ansvarsbestämmelser förknippade med fraktberäkningsregler och transportdokument."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> arbetsmiljöregler.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> arbetsmiljöregler.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> arbetsmiljöregler.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> arbetsmiljöregler."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven hanterar <strong>________</strong> varor och gods i olika lagermiljöer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar <strong>med viss säkerhet</strong> varor och gods i olika lagermiljöer.",
+          "C" : "Eleven hanterar <strong>med viss säkerhet</strong> varor och gods i olika lagermiljöer.",
+          "A" : "Eleven hanterar <strong>med säkerhet</strong> varor och gods i olika lagermiljöer."
+        }
+      }, {
+        "text" : "Dessutom hanterar eleven i bekanta situationer <strong>________</strong> tekniska hjälpmedel i olika lagermiljöer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom hanterar eleven i bekanta situationer <strong>enkla</strong> tekniska hjälpmedel i olika lagermiljöer.",
+          "C" : "Dessutom hanterar eleven i bekanta <strong>och delvis nya</strong> situationer tekniska hjälpmedel i olika lagermiljöer.",
+          "A" : "Dessutom hanterar eleven i bekanta <strong>och nya</strong> situationer <strong>avancerade</strong> tekniska hjälpmedel i olika lagermiljöer."
+        }
+      }, {
+        "text" : "I arbetet väljer eleven <strong>________</strong> en strategi för paketering och emballering av gods samt följer sin planering och genomför arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet väljer eleven <strong>med viss säkerhet</strong> en strategi för paketering och emballering av gods samt följer sin planering och genomför arbetet.",
+          "C" : "I arbetet väljer eleven <strong>med viss säkerhet</strong> en strategi för paketering och emballering av gods samt följer sin planering och genomför arbetet.",
+          "A" : "I arbetet väljer eleven <strong>med säkerhet</strong> en strategi för paketering och emballering av gods samt följer sin planering och genomför arbetet."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare <strong>________</strong> vikt- och volymberäkningar av gods, som underlag för övergripande kostnadskalkyler och prissättning av tjänster.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare <strong>enkla</strong> vikt- och volymberäkningar av gods, som underlag för övergripande kostnadskalkyler och prissättning av tjänster.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare vikt- och volymberäkningar av gods, som underlag för övergripande kostnadskalkyler och prissättning av tjänster.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare <strong>avancerade</strong> vikt- och volymberäkningar av gods, som underlag för övergripande kostnadskalkyler och prissättning av tjänster."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar ergonomiskt, säkert, miljömässigt och kvalitetsmässigt utifrån lagar och andra bestämmelser som reglerar arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt, säkert, miljömässigt och kvalitetsmässigt utifrån lagar och andra bestämmelser som reglerar arbetet.",
+          "C" : "Eleven arbetar ergonomiskt, säkert, miljömässigt och kvalitetsmässigt utifrån lagar och andra bestämmelser som reglerar arbetet.",
+          "A" : "Eleven arbetar ergonomiskt, säkert, miljömässigt och kvalitetsmässigt utifrån lagar och andra bestämmelser som reglerar arbetet."
+        }
+      }, {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lokaler och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lokaler och utrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lokaler och utrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lokaler och utrustning."
+        }
+      }, {
+        "text" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+          "C" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+          "A" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Plocklagerhantering",
+    "description" : "Kursen plocklagerhantering omfattar punkterna 2–3, 5–6 och 8 under rubriken Ämnets syfte.",
+    "code" : "LAGPLO0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika typer av plocklager, till exempel automatiserade plocklager.", "Hantering av de maskiner och den utrustning som krävs för varuhantering i plocklager.", "Plocklagers struktur och styrning.", "Reservdelslagers betydelse för eftermarknad och kundservice.", "Alternativa försörjningsupplägg för reservdelshantering.", "Lagerdesign och distributionsupplägg.", "Lagrets roll i materialflödet.", "Artiklar som styrs via lager.", "Lagrets funktion i kedjan från producent till kund.", "Materialflödens påverkan av antal lager.", "Leverantörsstyrda lager.", "Olika lagerstyrningssystem.", "Styrning av centrallager och lokala lager.", "Prognostisering för lagerstyrning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> olika lagers struktur och funktion samt ger exempel på materialflöden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> olika lagers struktur och funktion samt ger exempel på materialflöden.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> olika lagers struktur och funktion samt ger exempel på materialflöden.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> olika lagers struktur och funktion samt ger exempel på materialflöden."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> plocklagers struktur, styrning och betydelse.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> plocklagers struktur, styrning och betydelse.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> plocklagers struktur, styrning och betydelse.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> plocklagers struktur, styrning och betydelse."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> lagrets roll i kedjan från producent till kund.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> lagrets roll i kedjan från producent till kund.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> lagrets roll i kedjan från producent till kund.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> lagrets roll i kedjan från producent till kund."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och genomför <strong>________</strong> med handledare och i bekanta situationer plockning, packning, lastning och lastsäkring av varor i olika typer av plocklager.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och genomför <strong>i samråd</strong> med handledare och i bekanta situationer plockning, packning, lastning och lastsäkring av varor i olika typer av plocklager.",
+          "C" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer plockning, packning, lastning och lastsäkring av varor i olika typer av plocklager.",
+          "A" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer plockning, packning, lastning och lastsäkring av varor i olika typer av plocklager."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> rutiner för materialstyrning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> rutiner för materialstyrning.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> rutiner för materialstyrning.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> rutiner för materialstyrning."
+        }
+      }, {
+        "text" : "Eleven emballerar och använder <strong>________</strong> förpackningar enligt praxis.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven emballerar och använder <strong>med viss säkerhet</strong> förpackningar enligt praxis.",
+          "C" : "Eleven emballerar och använder <strong>med viss säkerhet</strong> förpackningar enligt praxis.",
+          "A" : "Eleven emballerar och använder <strong>med säkerhet</strong> förpackningar enligt praxis."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare <strong>________</strong> prognoser och dimensioneringar av olika lagerytor för ett optimalt varuflöde.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare <strong>enkla</strong> prognoser och dimensioneringar av olika lagerytor för ett optimalt varuflöde.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare prognoser och dimensioneringar av olika lagerytor för ett optimalt varuflöde.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare <strong>avancerade</strong> prognoser och dimensioneringar av olika lagerytor för ett optimalt varuflöde."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar ergonomiskt, säkert, miljömässigt och kvalitetsmässigt utifrån lagar och andra bestämmelser som reglerar arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt, säkert, miljömässigt och kvalitetsmässigt utifrån lagar och andra bestämmelser som reglerar arbetet.",
+          "C" : "Eleven arbetar ergonomiskt, säkert, miljömässigt och kvalitetsmässigt utifrån lagar och andra bestämmelser som reglerar arbetet.",
+          "A" : "Eleven arbetar ergonomiskt, säkert, miljömässigt och kvalitetsmässigt utifrån lagar och andra bestämmelser som reglerar arbetet."
+        }
+      }, {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lokaler och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lokaler och utrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lokaler och utrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lokaler och utrustning."
+        }
+      }, {
+        "text" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+          "C" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+          "A" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

@@ -1,0 +1,152 @@
+{
+  "name" : "Mekatronik",
+  "description" : "Mekatronik är en sammanslagning av mekanik och elektronik. De två teknikområdena slås ihop för att man ska kunna studera sådan teknisk utrustning i vardagen som integrerar elektriska och mekaniska funktioner. I ämnet mekatronik behandlas samverkan mellan olika teknikområden inom produkter och processer. Ämnet kan delas upp i två delar – produktmekatronik och processmekatronik. Produktmekatronik behandlar produkters uppbyggnad, och processmekatronik behandlar uppbyggnaden av de processer som bygger dessa produkter.",
+  "code" : "MEK",
+  "designation" : "",
+  "skolfsId" : "2010:161",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet mekatronik ska syfta till att eleverna utvecklar förmåga att bygga mekatroniska system samt kunskaper om hur mekanisk struktur, elektroteknik samt styr- och reglerteknik samverkar i människors vardag i tekniska system.", "Vidare ska undervisningen leda till att eleverna utvecklar kunskaper om hur naturvetenskapliga principer kan beskrivas med hjälp av matematiska formler.", "I undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om hur tekniska system kan brytas ned i delsystem." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla förståelse av tekniken i vardagen.", "I undervisningen ska eleverna ges möjlighet att arbeta både praktiskt och teoretiskt med olika arbetsuppgifter.", "Dessutom ska undervisningen ge eleverna möjlighet att träna sin förmåga att planera dessa arbetsuppgifter." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet mekatronik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förmåga att planera, bygga och dokumentera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik.", "Förmåga att använda ritningar och manualer samt samarbeta med andra.", "Färdigheter i att använda informationsteknik som stöd vid byggnation och programmering av mekatroniska system.", "Kunskaper om hur mekanisk struktur, elektroteknik samt styr- och reglerteknik kan sammanföras till ett system.", "Förståelse av hur matematik och fysik kan användas för att beskriva principer inom ellära och mekanik." ]
+  } ],
+  "courses" : [ {
+    "name" : "Mekatronik 1",
+    "description" : "Kursen mekatronik 1 omfattar punkterna 1–2 och 4–5 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet utifrån en produktmekatronisk utgångspunkt.",
+    "code" : "MEKMEK01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Elarbete, mekaniskt arbete och enklare programmering av styrenheter.", "Tolkning av ritningar och manualer.", "Uppbyggnad av mekatroniska system från sensor, via styrenhet, till aktuator.", "Hur logiska grundfunktioner kan användas för olika styrtekniska lösningar.", "Tekniska lösningar i vardagen för omvandling av energi, materia eller information.", "Grundläggande mekaniska begrepp, till exempel hävstång, block, lutande planet, fackverk och balk.", "Grundläggande elektriska storheter och begrepp, till exempel laddning, ström, spänning, resistans och sluten krets.", "Mätning av olika mekaniska och elektriska storheter." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och bygger <strong>________</strong> med handledare <strong>________</strong> flera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och bygger <strong>i samråd</strong> med handledare <strong>ett eller</strong> flera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik.",
+          "C" : "Eleven planerar och bygger <strong>efter samråd</strong> med handledare <strong>ett eller</strong> flera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik.",
+          "A" : "Eleven planerar och bygger <strong>efter samråd</strong> med handledare flera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> ritningar och manualer samt samarbetar <strong>________</strong> med andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> ritningar och manualer samt samarbetar <strong>med viss säkerhet</strong> med andra.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> ritningar och manualer samt samarbetar <strong>med viss säkerhet</strong> med andra.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> ritningar och manualer samt samarbetar <strong>med säkerhet</strong> med andra."
+        }
+      }, {
+        "text" : "Eleven gör en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Med exempel från både industri och vardagsliv beskriver eleven <strong>________</strong> hur ett <strong>________</strong> mekatroniskt system är uppbyggt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Med exempel från både industri och vardagsliv beskriver eleven <strong>översiktligt</strong> hur ett <strong>enkelt</strong> mekatroniskt system är uppbyggt.",
+          "C" : "Med exempel från både industri och vardagsliv beskriver eleven <strong>utförligt</strong> hur ett mekatroniskt system är uppbyggt.",
+          "A" : "Med exempel från både industri och vardagsliv beskriver eleven <strong>utförligt och nyanserat</strong> hur ett <strong>komplext</strong> mekatroniskt system är uppbyggt."
+        }
+      }, {
+        "text" : "Med hjälp av matematiska och fysikaliska begrepp beskriver eleven <strong>________</strong> fysikaliska principer vid olika mekatroniska tillämpningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Med hjälp av matematiska och fysikaliska begrepp beskriver eleven <strong>översiktligt</strong> fysikaliska principer vid olika mekatroniska tillämpningar.",
+          "C" : "Med hjälp av matematiska och fysikaliska begrepp beskriver eleven <strong>utförligt</strong> fysikaliska principer vid olika mekatroniska tillämpningar.",
+          "A" : "Med hjälp av matematiska och fysikaliska begrepp beskriver eleven <strong>utförligt och nyanserat</strong> fysikaliska principer vid olika mekatroniska tillämpningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Mekatronik 2",
+    "description" : "Kursen mekatronik 2 omfattar punkterna 1–5 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet utifrån både en produktmekatronisk och en processmekatronisk utgångspunkt.",
+    "code" : "MEKMEK02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Mekatroniska system och mekatroniska processer.", "Fördjupad tolkning av ritningar och manualer.", "Informationsteknik som stöd vid uppbyggnad och programmering av mekatroniska system, till exempel cad-programvara med stöd för hållfasthetsprövning vid olika belastningar och programmeringsverktyg för aktuellt styrsystem.", "Metoder för integration av mekanisk struktur, elektroteknik och styrteknik vid byggandet av mekatroniska system i form av såväl produkter som tillverkningssystem.", "Begreppen process och system.", "Modularisering och demodularisering av tillverkningssystem och tekniska system i vardagen.", "Matematiska och fysikaliska begrepp vid arbete med mekatroniska system, till exempel hävarm, moment, kraft, tröghet, uthållning, styvhet och jämvikt." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och bygger <strong>________</strong> med handledare <strong>________</strong> flera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och bygger <strong>i samråd</strong> med handledare <strong>ett eller</strong> flera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik.",
+          "C" : "Eleven planerar och bygger <strong>efter samråd</strong> med handledare <strong>ett eller</strong> flera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik.",
+          "A" : "Eleven planerar och bygger <strong>efter samråd</strong> med handledare flera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> ritningar, manualer och informationsteknik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> ritningar, manualer och informationsteknik.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> ritningar, manualer och informationsteknik.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> ritningar, manualer och informationsteknik."
+        }
+      }, {
+        "text" : "Dessutom samarbetar eleven <strong>________</strong> med andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom samarbetar eleven <strong>med viss säkerhet</strong> med andra.",
+          "C" : "Dessutom samarbetar eleven <strong>med viss säkerhet</strong> med andra.",
+          "A" : "Dessutom samarbetar eleven <strong>med säkerhet</strong> med andra."
+        }
+      }, {
+        "text" : "Eleven gör en <strong>________</strong> dokumentation av sitt arbete samt utvärderar det med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete samt utvärderar det med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete samt utvärderar det med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete samt utvärderar det med <strong>nyanserade</strong> omdömen. <strong>Dessutom ger eleven förslag på hur systemet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Med exempel från både industri och vardagsliv beskriver eleven <strong>________</strong> hur ett <strong>________</strong> mekatroniskt system är uppbyggt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Med exempel från både industri och vardagsliv beskriver eleven <strong>översiktligt</strong> hur ett <strong>enkelt</strong> mekatroniskt system är uppbyggt.",
+          "C" : "Med exempel från både industri och vardagsliv beskriver eleven <strong>utförligt</strong> hur ett mekatroniskt system är uppbyggt.",
+          "A" : "Med exempel från både industri och vardagsliv beskriver eleven <strong>utförligt och nyanserat</strong> hur ett mekatroniskt <strong>komplext</strong> system är uppbyggt."
+        }
+      }, {
+        "text" : "Med hjälp av matematiska och fysikaliska begrepp beskriver eleven <strong>________</strong> fysikaliska principer vid olika mekatroniska tillämpningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Med hjälp av matematiska och fysikaliska begrepp beskriver eleven <strong>översiktligt</strong> fysikaliska principer vid olika mekatroniska tillämpningar.",
+          "C" : "Med hjälp av matematiska och fysikaliska begrepp beskriver eleven <strong>utförligt</strong> fysikaliska principer vid olika mekatroniska tillämpningar.",
+          "A" : "Med hjälp av matematiska och fysikaliska begrepp beskriver eleven <strong>utförligt och nyanserat</strong> fysikaliska principer vid olika mekatroniska tillämpningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

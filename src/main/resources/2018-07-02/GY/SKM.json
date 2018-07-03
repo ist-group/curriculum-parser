@@ -1,0 +1,669 @@
+{
+  "name" : "Skogsmaskiner",
+  "description" : "Ämnet skogsmaskiner behandlar den tekniska utrustning som används inom skogsbrukets olika verksamhetsområden. Teknisk utrustning som används i samspel med biologiska förutsättningar och biologiska metoder bidrar till en hög kvalitet på skogsbrukets produkter och tjänster samt till en hållbar utveckling. Med hjälp av teknisk utrustning kan arbetsuppgifter utföras rationellt och med en ökad precision. Ämnet behandlar hur teknik och teknisk utveckling kan bidra till att den biologiska potentialen utnyttjas bättre. I ämnet ingår körning av fordon samt trafikkunskap.",
+  "code" : "SKM",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet skogsmaskiner ska syfta till att eleverna utvecklar förmåga att använda teknisk utrustning på rätt sätt och i rätt sammanhang.", "Den ska bidra till att eleverna får redskap för att söka kunskap om och utnyttja nya tekniska lösningar.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om den tekniska utrustningens konstruktion, funktion och inställningsmöjligheter samt förmåga att utföra service och underhåll av teknisk utrustning." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Praktiska övningar, fältstudier, undersökande arbetssätt och laborationer i fält ska ingå i undervisningen." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet skogsmaskiner ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om konstruktion och funktion av samt användningsområden för teknisk utrustning.", "Förmåga att manövrera och köra fordon, fordonskombinationer och maskiner för att utföra olika arbetsuppgifter.", "Förmåga att manövrera och köra fordon och fordonskombinationer i trafik på ett säkert, ansvarsfullt och miljöanpassat sätt samt kunskaper om gällande trafikregler.", "Förmåga att använda teknisk utrustning.", "Förmåga att utföra service, underhåll och enklare reparationer av teknisk utrustning.", "Förmåga att ställa in teknisk utrustning för olika arbetsuppgifter samt att utföra funktionskontroller.", "Förmåga att arbeta ekonomiskt, säkert och ergonomiskt samt med hänsyn till miljön.", "Kunskaper om lagar och andra bestämmelser.", "Förmåga att bedöma och rapportera arbetsresultatet." ]
+  } ],
+  "courses" : [ {
+    "name" : "Avverkningsmaskiner",
+    "description" : "Kursen avverkningsmaskiner omfattar punkterna 1–2 och 4–5 och 7–9 under rubriken Ämnets syfte, med särskild betoning på punkterna 2 och 4.",
+    "code" : "SKMAVV0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Teknisk grund",
+      "lines" : [ "Konstruktions- och funktionsbeskrivningar samt användningsområden för avverkningsmaskiner och teknisk utrustning.", "Avverkningsmaskiners datautrustning.", "Motorbränslen och smörjmedel.", "Daglig tillsyn, periodisk kontroll och service." ]
+    }, {
+      "heading" : "Arbete med avverkningsmaskiner",
+      "lines" : [ "Arbete med avverkningsmaskiner på ett avverkningsområde.", "Hantering av kran, instrument och reglage.", "Markskador och miljöpåverkan.", "Datorstyrd skördaraptering.", "Arbete enligt traktdirektiv, arbetsplanering av avverkning, rapportering och uppföljning." ]
+    }, {
+      "heading" : "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+      "lines" : [ "Arbetsmiljö och ergonomi samt miljö- och säkerhetsfrågor.", "Säkerhetskontroll inför användning av fordon, redskap och tilläggsutrustning.", "Brandförebyggande åtgärder.", "Lagar och andra bestämmelser inom området." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> konstruktion och funktion av samt användningsområden för avverkningsmaskiner och teknisk utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> konstruktion och funktion av samt användningsområden för avverkningsmaskiner och teknisk utrustning.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> konstruktion och funktion av samt användningsområden för avverkningsmaskiner och teknisk utrustning.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> konstruktion och funktion av samt användningsområden för avverkningsmaskiner och teknisk utrustning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>________</strong> med handledare avverkningsmaskiner för att utföra arbetsuppgifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>i samråd</strong> med handledare avverkningsmaskiner för att utföra arbetsuppgifter.",
+          "C" : "Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>efter samråd</strong> med handledare avverkningsmaskiner för att utföra arbetsuppgifter.",
+          "A" : "Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>efter samråd</strong> med handledare avverkningsmaskiner för att utföra arbetsuppgifter."
+        }
+      }, {
+        "text" : "Under körningen orsakar eleven ett minimum av skador på virke, kvarvarande bestånd, mark, miljö, natur och kulturvärden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under körningen orsakar eleven ett minimum av skador på virke, kvarvarande bestånd, mark, miljö, natur och kulturvärden.",
+          "C" : "Under körningen orsakar eleven ett minimum av skador på virke, kvarvarande bestånd, mark, miljö, natur och kulturvärden.",
+          "A" : "Under körningen orsakar eleven ett minimum av skador på virke, kvarvarande bestånd, mark, miljö, natur och kulturvärden."
+        }
+      }, {
+        "text" : "I arbetet särskiljer eleven <strong>________</strong> virkessortimenten för vidaretransport med skotare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet särskiljer eleven <strong>med viss säkerhet</strong> virkessortimenten för vidaretransport med skotare.",
+          "C" : "I arbetet särskiljer eleven <strong>med viss säkerhet</strong> virkessortimenten för vidaretransport med skotare.",
+          "A" : "I arbetet särskiljer eleven <strong>med säkerhet</strong> virkessortimenten för vidaretransport med skotare."
+        }
+      }, {
+        "text" : "Eleven gör också en <strong>________</strong> ekonomisk kalkyl på ett avverkningsuppdrag och tar i kalkylen hänsyn till kvalitet, säkerhet och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör också en <strong>enkel</strong> ekonomisk kalkyl på ett avverkningsuppdrag och tar i kalkylen hänsyn till kvalitet, säkerhet och miljö.",
+          "C" : "Eleven gör också en ekonomisk kalkyl på ett avverkningsuppdrag och tar i kalkylen hänsyn till kvalitet, säkerhet och miljö.",
+          "A" : "Eleven gör också en <strong>avancerad</strong> ekonomisk kalkyl på ett avverkningsuppdrag och tar i kalkylen hänsyn till kvalitet, säkerhet och miljö."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> kalkylens olika delar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> kalkylens olika delar.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> kalkylens olika delar.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> kalkylens olika delar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder med <strong>________</strong> handlag teknisk utrustning och lämpliga verktyg samt utför <strong>________</strong> med handledare daglig service av avverkningsmaskinerna enligt instruktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder med <strong>visst</strong> handlag teknisk utrustning och lämpliga verktyg samt utför <strong>i samråd</strong> med handledare daglig service av avverkningsmaskinerna enligt instruktioner.",
+          "C" : "Eleven använder med <strong>gott</strong> handlag teknisk utrustning och lämpliga verktyg samt utför <strong>efter samråd</strong> med handledare daglig service av avverkningsmaskinerna enligt instruktioner.",
+          "A" : "Eleven använder med <strong>mycket gott</strong> handlag teknisk utrustning och lämpliga verktyg samt utför <strong>efter samråd</strong> med handledare daglig service av avverkningsmaskinerna enligt instruktioner."
+        }
+      }, {
+        "text" : "Dessutom löser eleven <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom löser eleven <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "Dessutom löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "Dessutom löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar säkert och ergonomiskt med avverkningsmaskinerna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar säkert och ergonomiskt med avverkningsmaskinerna.",
+          "C" : "Eleven arbetar säkert och ergonomiskt med avverkningsmaskinerna.",
+          "A" : "Eleven arbetar säkert och ergonomiskt med avverkningsmaskinerna."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+        }
+      }, {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> bedömning av arbetsresultatet och rapporterar det.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> bedömning av arbetsresultatet och rapporterar det.",
+          "C" : "När arbetet är utfört gör eleven en <strong>välgrundad</strong> bedömning av arbetsresultatet och rapporterar det.",
+          "A" : "När arbetet är utfört gör eleven en <strong>välgrundad och nyanserad</strong> bedömning av arbetsresultatet och rapporterar det."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Skogsmaskiner – specialisering",
+    "description" : "Kursen skogsmaskiner – specialisering omfattar punkterna 1–2 och 4–9 under rubriken Ämnets syfte, med särskild betoning på punkterna 4, 6 och 7. I kursen behandlas fördjupade kunskaper inom vald skogsmaskinstyp.",
+    "code" : "SKMSKO00S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Teknisk grund",
+      "lines" : [ "Användningsområden för vald maskin, tilläggsutrustning och teknisk utrustning.", "Tekniska system för styrning, kontroll och datainsamling.", "Maskin- och avverkningsekonomi samt investeringskalkyler.", "Aktuell teknisk utveckling – försök och forskning." ]
+    }, {
+      "heading" : "Arbete med skogsmaskiner",
+      "lines" : [ "Arbetsmetodik och användning av digitala system, datorprogram och GIS vid körning med aktuell skogsmaskin.", "Planering av körmetoder för att minimera markskador och miljöpåverkan.", "Inställning och körning av maskiner för optimalt utnyttjande i samband med olika arbetsmoment.", "Funktionskontroll och felsökning på maskiner och teknisk utrustning samt kvalitetsuppföljning.", "Arbete enligt traktdirektiv." ]
+    }, {
+      "heading" : "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+      "lines" : [ "Arbetsmiljö och ergonomi samt miljö- och säkerhetsfrågor.", "Säkerhetskontroll inför användning av fordon, redskap och tilläggsutrustning.", "Brandförebyggande åtgärder.", "Lagar och andra bestämmelser inom området." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> konstruktion och funktion av samt användningsområden för skogsmaskiner och för teknisk utrustning för styrning, kontroll och insamling av data.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> konstruktion och funktion av samt användningsområden för skogsmaskiner och för teknisk utrustning för styrning, kontroll och insamling av data.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> konstruktion och funktion av samt användningsområden för skogsmaskiner och för teknisk utrustning för styrning, kontroll och insamling av data.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> konstruktion och funktion av samt användningsområden för skogsmaskiner och för teknisk utrustning för styrning, kontroll och insamling av data."
+        }
+      }, {
+        "text" : "Beskrivningen innehåller <strong>________</strong> samband mellan hur maskinerna och den tekniska utrustningen används och kvaliteten på det uppnådda arbetsresultatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Beskrivningen innehåller <strong>enkla</strong> samband mellan hur maskinerna och den tekniska utrustningen används och kvaliteten på det uppnådda arbetsresultatet.",
+          "C" : "Beskrivningen innehåller <strong>välgrundade</strong> samband mellan hur maskinerna och den tekniska utrustningen används och kvaliteten på det uppnådda arbetsresultatet.",
+          "A" : "Beskrivningen innehåller <strong>välgrundade och nyanserade</strong> samband mellan hur maskinerna och den tekniska utrustningen används och kvaliteten på det uppnådda arbetsresultatet."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för hur olika maskiner och maskiners tekniska utrustning passar för olika förutsättningar och arbetsuppgifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för hur olika maskiner och maskiners tekniska utrustning passar för olika förutsättningar och arbetsuppgifter.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för hur olika maskiner och maskiners tekniska utrustning passar för olika förutsättningar och arbetsuppgifter.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för hur olika maskiner och maskiners tekniska utrustning passar för olika förutsättningar och arbetsuppgifter."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hur biologiska, tekniska och ekonomiska faktorer påverkar val av maskiner, teknisk utrustning, arbetsmetoder och tidpunkt för att utföra olika arbetsuppgifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hur biologiska, tekniska och ekonomiska faktorer påverkar val av maskiner, teknisk utrustning, arbetsmetoder och tidpunkt för att utföra olika arbetsuppgifter.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hur biologiska, tekniska och ekonomiska faktorer påverkar val av maskiner, teknisk utrustning, arbetsmetoder och tidpunkt för att utföra olika arbetsuppgifter.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur biologiska, tekniska och ekonomiska faktorer påverkar val av maskiner, teknisk utrustning, arbetsmetoder och tidpunkt för att utföra olika arbetsuppgifter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>________</strong> med handledare skogsmaskiner för att utföra arbetsuppgifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>i samråd</strong> med handledare skogsmaskiner för att utföra arbetsuppgifter.",
+          "C" : "Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>efter samråd</strong> med handledare skogsmaskiner för att utföra arbetsuppgifter.",
+          "A" : "Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>efter samråd</strong> med handledare skogsmaskiner för att utföra arbetsuppgifter."
+        }
+      }, {
+        "text" : "I arbetet gör eleven <strong>________</strong> med handledare <strong>________</strong> bedömningar av hur arbetsuppgifterna ska genomföras med tanke på önskat arbetsresultat och miljöhänsyn.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet gör eleven <strong>i samråd</strong> med handledare <strong>enkla</strong> bedömningar av hur arbetsuppgifterna ska genomföras med tanke på önskat arbetsresultat och miljöhänsyn.",
+          "C" : "I arbetet gör eleven <strong>efter samråd</strong> med handledare <strong>välgrundade</strong> bedömningar av hur arbetsuppgifterna ska genomföras med tanke på önskat arbetsresultat och miljöhänsyn.",
+          "A" : "I arbetet gör eleven <strong>efter samråd</strong> med handledare <strong>välgrundade och nyanserade</strong> bedömningar av hur arbetsuppgifterna ska genomföras med tanke på önskat arbetsresultat och miljöhänsyn."
+        }
+      }, {
+        "text" : "Eleven använder med <strong>________</strong> handlag teknisk utrustning för styrning, kontroll och insamling av data samt utför <strong>________</strong> med handledare daglig service av skogsmaskinerna enligt instruktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder med <strong>visst</strong> handlag teknisk utrustning för styrning, kontroll och insamling av data samt utför <strong>i samråd</strong> med handledare daglig service av skogsmaskinerna enligt instruktioner.",
+          "C" : "Eleven använder med <strong>gott</strong> handlag teknisk utrustning för styrning, kontroll och insamling av data samt utför <strong>efter samråd</strong> med handledare daglig service av skogsmaskinerna enligt instruktioner.",
+          "A" : "Eleven använder med <strong>mycket gott</strong> handlag teknisk utrustning för styrning, kontroll och insamling av data samt utför <strong>efter samråd</strong> med handledare daglig service av skogsmaskinerna enligt instruktioner."
+        }
+      }, {
+        "text" : "Dessutom ställer eleven <strong>________</strong> med handledare in maskinerna och den tekniska utrustningen samt utför <strong>________</strong> med handledare funktionskontroller.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom ställer eleven <strong>i samråd</strong> med handledare in maskinerna och den tekniska utrustningen samt utför <strong>i samråd</strong> med handledare funktionskontroller.",
+          "C" : "Dessutom ställer eleven <strong>efter samråd</strong> med handledare in maskinerna och den tekniska utrustningen samt utför <strong>efter samråd</strong> med handledare funktionskontroller.",
+          "A" : "Dessutom ställer eleven <strong>efter samråd</strong> med handledare in maskinerna och den tekniska utrustningen samt utför <strong>efter samråd</strong> med handledare funktionskontroller."
+        }
+      }, {
+        "text" : "Eleven löser <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven löser <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "Eleven löser <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "Eleven löser <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar säkert och ergonomiskt med skogsmaskinerna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar säkert och ergonomiskt med skogsmaskinerna.",
+          "C" : "Eleven arbetar säkert och ergonomiskt med skogsmaskinerna.",
+          "A" : "Eleven arbetar säkert och ergonomiskt med skogsmaskinerna."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+        }
+      }, {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> bedömning av arbetsresultatet och rapporterar det.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> bedömning av arbetsresultatet och rapporterar det.",
+          "C" : "När arbetet är utfört gör eleven en <strong>välgrundad</strong> bedömning av arbetsresultatet och rapporterar det.",
+          "A" : "När arbetet är utfört gör eleven en <strong>välgrundad och nyanserad</strong> bedömning av arbetsresultatet och rapporterar det."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Småskalig skogsteknik",
+    "description" : "Kursen småskalig skogsteknik omfattar punkterna 1–2 och 4–9 under rubriken Ämnets syfte, med särskild betoning på punkterna 2, 4 och 6.",
+    "code" : "SKMSMA0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Teknisk grund",
+      "lines" : [ "Konstruktions- och funktionsbeskrivningar samt användningsområden för maskiner och teknisk utrustning.", "Inställningar av teknisk utrustning.", "Tillsyn, underhåll och service enligt instruktionsböcker." ]
+    }, {
+      "heading" : "Arbete med småskalig skogsteknik",
+      "lines" : [ "Arbete med småskalig skogsteknik, till exempel griplastarvagnar, miniprocessorer, minilunnare och småskalig sågning.", "Användning av tilläggsutrustning.", "Bedömning av kvalitet på utfört arbete och ekonomiskt resultat." ]
+    }, {
+      "heading" : "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+      "lines" : [ "Ergonomiskt lämplig arbetsteknik.", "Risker i arbetet vid arbete med småskalig skogsteknik.", "Användning av skyddsutrustning.", "Brandförebyggande åtgärder.", "Miljö- och säkerhetsföreskrifter." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> konstruktion och funktion av samt användningsområden för maskiner och teknisk utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> konstruktion och funktion av samt användningsområden för maskiner och teknisk utrustning.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> konstruktion och funktion av samt användningsområden för maskiner och teknisk utrustning.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> konstruktion och funktion av samt användningsområden för maskiner och teknisk utrustning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>________</strong> med handledare maskiner för att utföra arbetsuppgifter inom småskalig skogsteknik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>i samråd</strong> med handledare maskiner för att utföra arbetsuppgifter inom småskalig skogsteknik.",
+          "C" : "Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>efter samråd</strong> med handledare maskiner för att utföra arbetsuppgifter inom småskalig skogsteknik.",
+          "A" : "Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>efter samråd</strong> med handledare maskiner för att utföra arbetsuppgifter inom småskalig skogsteknik."
+        }
+      }, {
+        "text" : "Eleven gör också en <strong>________</strong> ekonomisk kalkyl för användning av småskalig teknik inom skogsbruk och tar i kalkylen hänsyn till kvalitet, säkerhet och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör också en <strong>enkel</strong> ekonomisk kalkyl för användning av småskalig teknik inom skogsbruk och tar i kalkylen hänsyn till kvalitet, säkerhet och miljö.",
+          "C" : "Eleven gör också en ekonomisk kalkyl för användning av småskalig teknik inom skogsbruk och tar i kalkylen hänsyn till kvalitet, säkerhet och miljö.",
+          "A" : "Eleven gör också en <strong>avancerad</strong> ekonomisk kalkyl för användning av småskalig teknik inom skogsbruk och tar i kalkylen hänsyn till kvalitet, säkerhet och miljö."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> kalkylens olika delar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> kalkylens olika delar.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> kalkylens olika delar.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> kalkylens olika delar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder med <strong>________</strong> handlag teknisk utrustning samt utför <strong>________</strong> med handledare service och underhåll av maskinerna och den tekniska utrustningen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder med <strong>visst</strong> handlag teknisk utrustning samt utför <strong>i samråd</strong> med handledare service och underhåll av maskinerna och den tekniska utrustningen.",
+          "C" : "Eleven använder med <strong>gott</strong> handlag teknisk utrustning samt utför <strong>efter samråd</strong> med handledare service och underhåll av maskinerna och den tekniska utrustningen.",
+          "A" : "Eleven använder med <strong>mycket gott</strong> handlag teknisk utrustning samt utför <strong>efter samråd</strong> med handledare service och underhåll av maskinerna och den tekniska utrustningen."
+        }
+      }, {
+        "text" : "Dessutom ställer eleven <strong>________</strong> med handledare in maskinerna och den tekniska utrustningen samt utför <strong>________</strong> med handledare funktionskontroller.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom ställer eleven <strong>i samråd</strong> med handledare in maskinerna och den tekniska utrustningen samt utför <strong>i samråd</strong> med handledare funktionskontroller.",
+          "C" : "Dessutom ställer eleven <strong>efter samråd</strong> med handledare in maskinerna och den tekniska utrustningen samt utför <strong>efter samråd</strong> med handledare funktionskontroller.",
+          "A" : "Dessutom ställer eleven <strong>efter samråd</strong> med handledare in maskinerna och den tekniska utrustningen samt utför <strong>efter samråd</strong> med handledare funktionskontroller."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> med handledare instruktions- och handböcker.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>i samråd</strong> med handledare instruktions- och handböcker.",
+          "C" : "I arbetet använder eleven <strong>efter samråd</strong> med handledare instruktions- och handböcker.",
+          "A" : "I arbetet använder eleven <strong>efter samråd</strong> med handledare instruktions- och handböcker."
+        }
+      }, {
+        "text" : "Dessutom löser eleven <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom löser eleven <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "Dessutom löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "Dessutom löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar säkert och ergonomiskt med maskinerna och den tekniska utrustningen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar säkert och ergonomiskt med maskinerna och den tekniska utrustningen.",
+          "C" : "Eleven arbetar säkert och ergonomiskt med maskinerna och den tekniska utrustningen.",
+          "A" : "Eleven arbetar säkert och ergonomiskt med maskinerna och den tekniska utrustningen."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+        }
+      }, {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> bedömning av arbetsresultatet och rapporterar det.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> bedömning av arbetsresultatet och rapporterar det.",
+          "C" : "När arbetet är utfört gör eleven en <strong>välgrundad</strong> bedömning av arbetsresultatet och rapporterar det.",
+          "A" : "När arbetet är utfört gör eleven en <strong>välgrundad och nyanserad</strong> bedömning av arbetsresultatet och rapporterar det."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Terrängtransporter",
+    "description" : "Kursen terrängtransporter omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1, 3 och 5.",
+    "code" : "SKMTER0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Teknisk grund",
+      "lines" : [ "Konstruktions- och funktionsbeskrivningar samt användningsområden för olika fordon och för teknisk utrustning.", "Motorbränslen och smörjmedel.", "Daglig tillsyn, periodisk kontroll och service." ]
+    }, {
+      "heading" : "Körning",
+      "lines" : [ "Körning av terrängfordon och fordonskombinationer för att genomföra förekommande arbetsuppgifter.", "Körning av terrängfordon och fordonskombinationer på väg.", "Tillämpning av trafikföreskrifter.", "Användning av fordonets reglage samt tolkning av instrument.", "Hantering av tilläggsutrustning.", "Inställning av förarplatsens utrustning för ergonomisk, effektiv och säker körning.", "Användning av instruktions- och handböcker vid körning och tillsyn.", "Ekonomisk körteknik i terräng och på väg." ]
+    }, {
+      "heading" : "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+      "lines" : [ "Ergonomi och arbetsmiljö i samband med körning av fordon.", "Säkerhetskontroll inför användning av fordon, redskap och tilläggsutrustning.", "Brandförebyggande åtgärder.", "Lagar och andra bestämmelser inom området." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> konstruktion och funktion av samt användningsområden för olika fordon och för teknisk utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> konstruktion och funktion av samt användningsområden för olika fordon och för teknisk utrustning.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> konstruktion och funktion av samt användningsområden för olika fordon och för teknisk utrustning.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> konstruktion och funktion av samt användningsområden för olika fordon och för teknisk utrustning."
+        }
+      }, {
+        "text" : "Beskrivningen innehåller <strong>________</strong> samband mellan service, funktion och ekonomi.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Beskrivningen innehåller <strong>enkla</strong> samband mellan service, funktion och ekonomi.",
+          "C" : "Beskrivningen innehåller <strong>välgrundade</strong> samband mellan service, funktion och ekonomi.",
+          "A" : "Beskrivningen innehåller <strong>välgrundade och nyanserade</strong> samband mellan service, funktion och ekonomi."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för fordonets olika reglage och instrument och hur de används.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för fordonets olika reglage och instrument och hur de används.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för fordonets olika reglage och instrument och hur de används.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för fordonets olika reglage och instrument och hur de används."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hur olika funktioner styrs och kontrolleras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hur olika funktioner styrs och kontrolleras.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hur olika funktioner styrs och kontrolleras.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur olika funktioner styrs och kontrolleras."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>________</strong> med handledare terrängfordon och fordonskombinationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>i samråd</strong> med handledare terrängfordon och fordonskombinationer.",
+          "C" : "Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>efter samråd</strong> med handledare terrängfordon och fordonskombinationer.",
+          "A" : "Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>efter samråd</strong> med handledare terrängfordon och fordonskombinationer."
+        }
+      }, {
+        "text" : "Eleven kör och manövrerar också <strong>________</strong> med handledare terrängfordon och fordonskombinationer på väg och följer då trafikföreskrifterna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kör och manövrerar också <strong>i samråd</strong> med handledare terrängfordon och fordonskombinationer på väg och följer då trafikföreskrifterna.",
+          "C" : "Eleven kör och manövrerar också <strong>efter samråd</strong> med handledare terrängfordon och fordonskombinationer på väg och följer då trafikföreskrifterna.",
+          "A" : "Eleven kör och manövrerar också <strong>efter samråd</strong> med handledare terrängfordon och fordonskombinationer på väg och följer då trafikföreskrifterna."
+        }
+      }, {
+        "text" : "Eleven använder med <strong>________</strong> handlag teknisk utrustning samt utför <strong>________</strong> med handledare service, underhåll och enklare reparationer av fordonen och utrustningen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder med <strong>visst</strong> handlag teknisk utrustning samt utför <strong>i samråd</strong> med handledare service, underhåll och enklare reparationer av fordonen och utrustningen.",
+          "C" : "Eleven använder med <strong>gott</strong> handlag teknisk utrustning samt utför <strong>efter samråd</strong> med handledare service, underhåll och enklare reparationer av fordonen och utrustningen.",
+          "A" : "Eleven använder med <strong>mycket gott</strong> handlag teknisk utrustning samt utför <strong>efter samråd</strong> med handledare service, underhåll och enklare reparationer av fordonen och utrustningen."
+        }
+      }, {
+        "text" : "Dessutom ställer eleven <strong>________</strong> med handledare in förarplatsen för en ergonomisk, effektiv och säker körning samt utför <strong>________</strong> med handledare kontroller av sina inställningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom ställer eleven <strong>i samråd</strong> med handledare in förarplatsen för en ergonomisk, effektiv och säker körning samt utför <strong>i samråd</strong> med handledare kontroller av sina inställningar.",
+          "C" : "Dessutom ställer eleven <strong>efter samråd</strong> med handledare in förarplatsen för en ergonomisk, effektiv och säker körning samt utför <strong>efter samråd</strong> med handledare kontroller av sina inställningar.",
+          "A" : "Dessutom ställer eleven <strong>efter samråd</strong> med handledare in förarplatsen för en ergonomisk, effektiv och säker körning samt utför <strong>efter samråd</strong> med handledare kontroller av sina inställningar."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> med handledare instruktions- och handböcker.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>i samråd</strong> med handledare instruktions- och handböcker.",
+          "C" : "I arbetet använder eleven <strong>efter samråd</strong> med handledare instruktions- och handböcker.",
+          "A" : "I arbetet använder eleven <strong>efter samråd</strong> med handledare instruktions- och handböcker."
+        }
+      }, {
+        "text" : "Dessutom löser eleven <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom löser eleven <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "Dessutom löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "Dessutom löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar säkert och ergonomiskt med fordonen och utrustningen samt kör miljömässigt och ekonomiskt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar säkert och ergonomiskt med fordonen och utrustningen samt kör miljömässigt och ekonomiskt.",
+          "C" : "Eleven arbetar säkert och ergonomiskt med fordonen och utrustningen samt kör miljömässigt och ekonomiskt.",
+          "A" : "Eleven arbetar säkert och ergonomiskt med fordonen och utrustningen samt kör miljömässigt och ekonomiskt."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Virkestransport med skotare",
+    "description" : "Kursen virkestransport med skotare omfattar punkterna 1–5 och 7–9 under rubriken Ämnets syfte, med särskild betoning på punkterna 2 och 7.",
+    "code" : "SKMVIE0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Teknisk grund",
+      "lines" : [ "Konstruktions- och funktionsbeskrivningar samt användningsområden för skotare och tilläggsutrustning.", "Motorbränslen och smörjmedel.", "Daglig tillsyn, periodisk kontroll och service." ]
+    }, {
+      "heading" : "Arbete med skotare",
+      "lines" : [ "Arbete med skotare samt hantering av kran, instrument och reglage.", "Virkestransport med skotare i ett avverkningsområde.", "Hantering av tilläggsutrustning, till exempel band och kedjor.", "Körteknik som minimerar risken för skador på mark, bestånd och miljö samt minskar bränsleförbrukningen.", "Olika virkessortiment och krav på virkesavlägg.", "Körning på vägar samt trafikkunskap.", "Ekonomisk körteknik.", "Arbete enligt traktdirektiv, arbetsplanering, rapportering och uppföljning." ]
+    }, {
+      "heading" : "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+      "lines" : [ "Arbetsmiljö och ergonomi samt miljö- och säkerhetsfrågor.", "Säker hantering av farligt gods och farligt avfall.", "Säkerhetskontroll inför användning av fordon, redskap och tilläggsutrustning.", "Säkerhet på väg.", "Brandförebyggande åtgärder.", "Lagar och andra bestämmelser inom området." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> konstruktion och funktion av samt användningsområden för skotare och teknisk utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> konstruktion och funktion av samt användningsområden för skotare och teknisk utrustning.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> konstruktion och funktion av samt användningsområden för skotare och teknisk utrustning.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> konstruktion och funktion av samt användningsområden för skotare och teknisk utrustning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>________</strong> med handledare skotare för att utföra arbete med virkestransporter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>i samråd</strong> med handledare skotare för att utföra arbete med virkestransporter.",
+          "C" : "Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>efter samråd</strong> med handledare skotare för att utföra arbete med virkestransporter.",
+          "A" : "Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>efter samråd</strong> med handledare skotare för att utföra arbete med virkestransporter."
+        }
+      }, {
+        "text" : "Under körningen hanterar eleven tilläggsutrustning på ett metodiskt sätt och med ett minimum av skador på virke, kvarvarande bestånd, mark, miljö, natur och kulturvärden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under körningen hanterar eleven tilläggsutrustning på ett metodiskt sätt och med ett minimum av skador på virke, kvarvarande bestånd, mark, miljö, natur och kulturvärden.",
+          "C" : "Under körningen hanterar eleven tilläggsutrustning på ett metodiskt sätt och med ett minimum av skador på virke, kvarvarande bestånd, mark, miljö, natur och kulturvärden.",
+          "A" : "Under körningen hanterar eleven tilläggsutrustning på ett metodiskt sätt och med ett minimum av skador på virke, kvarvarande bestånd, mark, miljö, natur och kulturvärden."
+        }
+      }, {
+        "text" : "I arbetet ordnar eleven med <strong>________</strong> handlag virkesavlägg för vidaretransport.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet ordnar eleven med <strong>visst</strong> handlag virkesavlägg för vidaretransport.",
+          "C" : "I arbetet ordnar eleven med <strong>gott</strong> handlag virkesavlägg för vidaretransport.",
+          "A" : "I arbetet ordnar eleven med <strong>mycket gott</strong> handlag virkesavlägg för vidaretransport."
+        }
+      }, {
+        "text" : "Eleven gör också en <strong>________</strong> ekonomisk kalkyl på en virkestransport från ett avverkningsområde och tar i kalkylen hänsyn till kvalitet, säkerhet och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör också en <strong>enkel</strong> ekonomisk kalkyl på en virkestransport från ett avverkningsområde och tar i kalkylen hänsyn till kvalitet, säkerhet och miljö.",
+          "C" : "Eleven gör också en ekonomisk kalkyl på en virkestransport från ett avverkningsområde och tar i kalkylen hänsyn till kvalitet, säkerhet och miljö.",
+          "A" : "Eleven gör också en <strong>avancerad</strong> ekonomisk kalkyl på en virkestransport från ett avverkningsområde och tar i kalkylen hänsyn till kvalitet, säkerhet och miljö."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> kalkylens olika delar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> kalkylens olika delar.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> kalkylens olika delar.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> kalkylens olika delar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kör och manövrerar <strong>________</strong> med handledare skotare och följer då trafikföreskrifterna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kör och manövrerar <strong>i samråd</strong> med handledare skotare och följer då trafikföreskrifterna.",
+          "C" : "Eleven kör och manövrerar <strong>efter samråd</strong> med handledare skotare och följer då trafikföreskrifterna.",
+          "A" : "Eleven kör och manövrerar <strong>efter samråd</strong> med handledare skotare och följer då trafikföreskrifterna."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder med <strong>________</strong> handlag teknisk utrustning och lämpliga verktyg samt utför <strong>________</strong> med handledare daglig service av skotaren enligt instruktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder med <strong>visst</strong> handlag teknisk utrustning och lämpliga verktyg samt utför <strong>i samråd</strong> med handledare daglig service av skotaren enligt instruktioner.",
+          "C" : "Eleven använder med <strong>gott</strong> handlag teknisk utrustning och lämpliga verktyg samt utför <strong>efter samråd</strong> med handledare daglig service av skotaren enligt instruktioner.",
+          "A" : "Eleven använder med <strong>mycket gott</strong> handlag teknisk utrustning och lämpliga verktyg samt utför <strong>efter samråd</strong> med handledare daglig service av skotaren enligt instruktioner."
+        }
+      }, {
+        "text" : "Dessutom löser eleven <strong>________</strong> med handledare de problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom löser eleven <strong>i samråd</strong> med handledare de problem som uppstår.",
+          "C" : "Dessutom löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+          "A" : "Dessutom löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar säkert och ergonomiskt samt kör miljömässigt och ekonomiskt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar säkert och ergonomiskt samt kör miljömässigt och ekonomiskt.",
+          "C" : "Eleven arbetar säkert och ergonomiskt samt kör miljömässigt och ekonomiskt.",
+          "A" : "Eleven arbetar säkert och ergonomiskt samt kör miljömässigt och ekonomiskt."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+        }
+      }, {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> bedömning av arbetsresultatet och rapporterar det.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> bedömning av arbetsresultatet och rapporterar det.",
+          "C" : "När arbetet är utfört gör eleven en <strong>välgrundad</strong> bedömning av arbetsresultatet och rapporterar det.",
+          "A" : "När arbetet är utfört gör eleven en <strong>välgrundad och nyanserad</strong> bedömning av arbetsresultatet och rapporterar det."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

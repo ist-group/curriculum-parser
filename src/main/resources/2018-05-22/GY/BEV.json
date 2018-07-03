@@ -1,0 +1,461 @@
+{
+  "name" : "Brand, bevakning och säkerhet",
+  "description" : "Ämnet brand, bevakning och säkerhet är tvärvetenskapligt och har sin grund i samhällsvetenskap, naturvetenskap och medicin. Ämnet behandlar brand- och bevakningsverksamhet och kan ge grund för arbete inom bevakningsområdet. Därför motsvarar kursen bevakning och säkerhet de krav som Rikspolisstyrelsen ställer på väktargrundutbildning.",
+  "code" : "BEV",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet brand, bevakning och säkerhet ska syfta till att eleverna utvecklar kunskaper om akut omhändertagande av människor samt om bevaknings- och brandverksamhet.", "Dessutom ska eleverna ges möjlighet att utveckla förmåga att arbeta inom dessa verksamheter.", "I undervisningen ska innehållet i och organisationen av samhällets bevakningsverksamheter och räddningstjänst behandlas liksom rättsvårdande myndigheters organisation.", "Eleverna ska ges möjlighet att utveckla kunskaper om och förmåga att arbeta, med relevanta metoder och relevant utrustning, utifrån lagar och andra bestämmelser som styr de olika verksamheterna.", "Undervisningen ska leda till att eleverna utvecklar förmåga att hantera konflikter och möta människor med respekt och med utgångspunkt i ett etiskt förhållningssätt." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska utveckla elevernas problemlösningsförmåga och handlingsberedskap.", "Genom att medverka i verksamheter och i fiktiva situationer ska eleverna ges möjlighet att få inblick i och erfarenhet av olika sammanhang inom räddningsarbete och bevakningsverksamhet.", "Eleverna ska ges möjlighet att reflektera över och diskutera frågor inom området samt egna och andras handlingar och attityder." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet brand, bevakning och säkerhet ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om bevakningsverksamhet, rättsvårdande myndigheter och samhällets räddningstjänst.", "Färdigheter i att hantera brand och brandskydd.", "Förmåga att utföra L-ABCDE och HLR.", "Förmåga att planera och genomföra arbete utifrån lagar och andra bestämmelser som styr bevakningsverksamhet och räddningstjänst samt utifrån arbetsmiljö, säkerhet och yrkesetik.", "Förmåga att använda metoder och utrustning.", "Förmåga att kommunicera, samarbeta och samverka samt att lösa konfliktsituationer.", "Förmåga att diskutera egna, andras och samhällets attityder och värderingar som kan ha betydelse vid eventuellt räddningsarbete eller ingripande." ]
+  } ],
+  "courses" : [ {
+    "name" : "Akut omhändertagande",
+    "description" : "Kursen akut omhändertagande omfattar punkterna 1 och 3–7 under rubriken Ämnets syfte. ",
+    "code" : "BEVAKU0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Lagar och andra bestämmelser som styr räddningstjänsten.", "Prehospitalt omhändertagande av drabbade enligt L-ABCDE-principen.", "Hjärt-lungräddning (HLR) för vuxna.", "Grunderna för hjärt-lungräddning och akut omhändertagande av barn.", "Sjukdomsfall viktiga att känna till, till exempel epilepsi, diabetes, allergier.", "Akut omhändertagande avseende anatomi, fysiologi, kinematik och skadelära.", "Fysiska, psykiska och sociala krav som kan påverka hälsa och arbetsinsats.", "Bemötande av människor i olika olyckssituationer." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> räddningsarbete enligt L-ABCDE och HLR.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> räddningsarbete enligt L-ABCDE och HLR.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> räddningsarbete enligt L-ABCDE och HLR.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> räddningsarbete enligt L-ABCDE och HLR."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven hur räddningstjänsten larmas och beskriver <strong>________</strong> ett akut omhändertagande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven hur räddningstjänsten larmas och beskriver <strong>översiktligt</strong> ett akut omhändertagande.",
+          "C" : "Dessutom beskriver eleven hur räddningstjänst larmas och beskriver <strong>utförligt</strong> ett akut omhändertagande.",
+          "A" : "Dessutom beskriver eleven hur räddningstjänst larmas och beskriver <strong>utförligt och nyanserat</strong> ett akut omhändertagande."
+        }
+      }, {
+        "text" : "I beskrivningarna använder eleven <strong>________</strong> centrala begrepp samt förklarar <strong>________</strong> samband och drar <strong>________</strong> slutsatser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningarna använder eleven <strong>med viss säkerhet</strong> centrala begrepp samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.",
+          "C" : "I beskrivningarna använder eleven <strong>med viss säkerhet</strong> centrala begrepp samt förklarar samband och drar <strong>välgrundade</strong> slutsatser.",
+          "A" : "I beskrivningarna använder eleven <strong>med säkerhet</strong> centrala begrepp samt förklarar <strong>komplexa</strong> samband och drar <strong>välgrundade och nyanserade</strong> slutsatser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för lagar och andra bestämmelser som styr verksamheten och tar utgångspunkt i dem i sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för lagar och andra bestämmelser som styr verksamheten och tar utgångspunkt i dem i sitt arbete.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för lagar och andra bestämmelser som styr verksamheten och tar utgångspunkt i dem i sitt arbete.",
+          "A" : "Eleven redogör <strong>utförligt</strong> för lagar och andra bestämmelser som styr verksamheten och tar utgångspunkt i dem i sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar, organiserar och utför <strong>________</strong> med handledare prehospitalt omhändertagande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar, organiserar och utför <strong>i samråd</strong> med handledare prehospitalt omhändertagande.",
+          "C" : "Eleven planerar, organiserar och utför <strong>efter samråd</strong> med handledare prehospitalt omhändertagande.",
+          "A" : "Eleven planerar, organiserar och utför <strong>efter samråd</strong> med handledare prehospitalt omhändertagande."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> prehospitalt omhändertagande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>med viss säkerhet</strong> prehospitalt omhändertagande.",
+          "C" : "Dessutom utför eleven <strong>med viss säkerhet</strong> prehospitalt omhändertagande.",
+          "A" : "Dessutom utför eleven <strong>med säkerhet</strong> prehospitalt omhändertagande. <strong>Vidare anpassar eleven vid behov genomförandet till ändrade förutsättningar</strong>."
+        }
+      }, {
+        "text" : "I arbetet använder eleven redskap och metoder som <strong>________</strong> för uppgiften, diskuterar <strong>________</strong> möjliga alternativa lösningar och föreslår vid behov förbättringar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven redskap och metoder som <strong>finns angivna</strong> för uppgiften, diskuterar <strong>översiktligt</strong> möjliga alternativa lösningar och föreslår vid behov förbättringar.",
+          "C" : "I arbetet <strong>väljer och</strong> använder eleven redskap och metoder som <strong>passar</strong> för uppgiften, diskuterar <strong>utförligt</strong> möjliga alternativa lösningar och föreslår vid behov förbättringar.",
+          "A" : "I arbetet <strong>väljer och</strong> använder eleven redskap och metoder som <strong>passar</strong> för uppgiften, <strong>motiverar sina val samt</strong> diskuterar <strong>utförligt och nyanserat</strong> möjliga alternativa lösningar och föreslår vid behov förbättringar."
+        }
+      }, {
+        "text" : "Dessutom interagerar eleven, samt kommunicerar <strong>________</strong>, i samarbete och möten med människor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom interagerar eleven, samt kommunicerar <strong>med viss säkerhet</strong>, i samarbete och möten med människor.",
+          "C" : "Dessutom interagerar eleven, samt kommunicerar <strong>med viss säkerhet</strong>, i samarbete och möten med människor. <strong>Eleven diskuterar utförligt sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande</strong>.",
+          "A" : "Dessutom interagerar eleven, samt kommunicerar <strong>med säkerhet</strong>, i samarbete och möten med människor. <strong>Eleven diskuterar utförligt och nyanserat sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande</strong>."
+        }
+      }, {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> dokumentation av utförda uppgifter och aktiviteter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av utförda uppgifter och aktiviteter.",
+          "C" : "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av utförda uppgifter och aktiviteter.",
+          "A" : "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av utförda uppgifter och aktiviteter."
+        }
+      }, {
+        "text" : "I dokumentationen använder eleven <strong>________</strong> relevanta begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I dokumentationen använder eleven <strong>med viss säkerhet</strong> relevanta begrepp.",
+          "C" : "I dokumentationen använder eleven <strong>med viss säkerhet</strong> relevanta begrepp.",
+          "A" : "I dokumentationen använder eleven <strong>med säkerhet</strong> relevanta begrepp."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven diskuterar <strong>________</strong> egna och andras attityder, värderingar och handlingar i relation till arbetsuppgifterna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> egna och andras attityder, värderingar och handlingar i relation till arbetsuppgifterna.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> egna och andras attityder, värderingar och handlingar i relation till arbetsuppgifterna.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat</strong> egna och andras attityder, värderingar och handlingar i relation till arbetsuppgifterna."
+        }
+      }, {
+        "text" : "I diskussionen framför eleven <strong>________</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I diskussionen framför eleven <strong>enkla</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+          "C" : "I diskussionen framför eleven <strong>välgrundade</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+          "A" : "I diskussionen framför eleven <strong>välgrundade och nyanserade</strong> argument för sina åsikter samt visar respekt för andras åsikter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Bevakning och säkerhet",
+    "description" : "Kursen bevakning och säkerhet omfattar punkterna 1–7 under rubriken Ämnets syfte.",
+    "code" : "BEVBEV0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Innehåll, organisation och auktorisation av bevakningsverksamhet samt dess funktion i samhället.", "Samhällets rättsvårdande myndigheters organisation och roll i rättskedjan.", "Samhällets räddningstjänst, dess organisation och funktion i samhället.", "Brandförlopp, släckteknik, släckmedel och brandsyn.", "HLR med defibrillering och första hjälpen vid skada och akut sjukdom.", "Svensk narkotikapolitik, preparatkännedom och symptom på droganvändning.", "Bevakningsjuridik – lagar, regler och andra föreskrifter som styr bevakningsverksamhet.", "Olika tekniska hjälpmedel, material och tekniker och dess tillämpning.", "Arbetsmiljö, säkerhet, självskydd och konflikthantering.", "Bemötande av människor i olika situationer.", "Yrkesetik, grundläggande demokratiska värderingar och etiska dilemman inom bevakningsområdet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> bevakningsarbete och verksamhetens organisation och innehåll.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> bevakningsarbete och verksamhetens organisation och innehåll.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> bevakningsarbete och verksamhetens organisation och innehåll.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> bevakningsarbete och verksamhetens organisation och innehåll."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> samhällets rättsvårdande myndigheter, räddningstjänst och hantering av drogproblem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> samhällets rättsvårdande myndigheter, räddningstjänst och hantering av drogproblem.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> samhällets rättsvårdande myndigheter, räddningstjänst och hantering av drogproblem.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> samhällets rättsvårdande myndigheter, räddningstjänst och hantering av drogproblem."
+        }
+      }, {
+        "text" : "I beskrivningarna använder eleven <strong>________</strong> centrala begrepp samt förklarar <strong>________</strong> samband och drar <strong>________</strong> slutsatser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningarna använder eleven <strong>med viss säkerhet</strong> centrala begrepp samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.",
+          "C" : "I beskrivningarna använder eleven <strong>med viss säkerhet</strong> centrala begrepp samt förklarar samband och drar <strong>välgrundade</strong> slutsatser.",
+          "A" : "I beskrivningarna använder eleven <strong>med säkerhet</strong> centrala begrepp samt förklarar <strong>komplexa</strong> samband och drar <strong>välgrundade och nyanserade</strong> slutsatser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för lagar och andra bestämmelser som styr verksamheterna och tar utgångspunkt i dem i sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för lagar och andra bestämmelser som styr verksamheterna och tar utgångspunkt i dem i sitt arbete.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för lagar och andra bestämmelser som styr verksamheterna och tar utgångspunkt i dem i sitt arbete.",
+          "A" : "Eleven redogör <strong>utförligt</strong> för lagar och andra bestämmelser som styr verksamheterna och tar utgångspunkt i dem i sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar, organiserar och utför, <strong>________</strong> med handledare, vanligt förekommande <strong>________</strong> arbetsuppgifter på ett yrkesmässigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar, organiserar och utför, <strong>i samråd</strong> med handledare, vanligt förekommande <strong>enkla</strong> arbetsuppgifter på ett yrkesmässigt sätt.",
+          "C" : "Eleven planerar, organiserar och utför, <strong>efter samråd</strong> med handledare, vanligt förekommande arbetsuppgifter på ett yrkesmässigt sätt.",
+          "A" : "Eleven planerar, organiserar och utför, <strong>efter samråd</strong> med handledare, vanligt förekommande, <strong>även avancerade</strong>, arbetsuppgifter på ett yrkesmässigt sätt <strong>samt anpassar vid behov genomförandet till ändrade förutsättningar</strong>."
+        }
+      }, {
+        "text" : "I arbetet använder eleven redskap och metoder som <strong>________</strong> för uppgiften, diskuterar <strong>________</strong> möjliga alternativa lösningar och föreslår vid behov förbättringar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven redskap och metoder som <strong>finns angivna</strong> för uppgiften, diskuterar <strong>översiktligt</strong> möjliga alternativa lösningar och föreslår vid behov förbättringar.",
+          "C" : "I arbetet <strong>väljer och</strong> använder eleven redskap och metoder som <strong>passar</strong> för uppgiften, diskuterar <strong>utförligt</strong> möjliga alternativa lösningar och föreslår vid behov förbättringar.",
+          "A" : "I arbetet <strong>väljer och</strong> använder eleven redskap och metoder som <strong>passar</strong> för uppgiften, <strong>motiverar sina val samt</strong> diskuterar <strong>utförligt och nyanserat</strong> möjliga alternativa lösningar och föreslår vid behov förbättringar."
+        }
+      }, {
+        "text" : "Dessutom interagerar eleven, samt kommunicerar <strong>________</strong>, i samarbete och möten med människor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom interagerar eleven, samt kommunicerar <strong>med viss säkerhet</strong>, i samarbete och möten med människor.",
+          "C" : "Dessutom interagerar eleven, samt kommunicerar <strong>med viss säkerhet</strong>, i samarbete och möten med människor. <strong>Eleven diskuterar utförligt sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande</strong>.",
+          "A" : "Dessutom interagerar eleven, samt kommunicerar <strong>med säkerhet</strong>, i samarbete och möten med människor. <strong>Eleven diskuterar utförligt och nyanserat sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande</strong>."
+        }
+      }, {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> dokumentation av utförda uppgifter och aktiviteter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av utförda uppgifter och aktiviteter.",
+          "C" : "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av utförda uppgifter och aktiviteter.",
+          "A" : "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av utförda uppgifter och aktiviteter."
+        }
+      }, {
+        "text" : "I dokumentationen använder eleven <strong>________</strong> relevanta begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I dokumentationen använder eleven <strong>med viss säkerhet</strong> relevanta begrepp.",
+          "C" : "I dokumentationen använder eleven <strong>med viss säkerhet</strong> relevanta begrepp.",
+          "A" : "I dokumentationen använder eleven <strong>med säkerhet</strong> relevanta begrepp."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven diskuterar <strong>________</strong> egna och andras attityder, värderingar och handlingar i relation till arbetsuppgifterna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> egna och andras attityder, värderingar och handlingar i relation till arbetsuppgifterna.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> egna och andras attityder, värderingar och handlingar i relation till arbetsuppgifterna.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat</strong> egna och andras attityder, värderingar och handlingar i relation till arbetsuppgifterna."
+        }
+      }, {
+        "text" : "I diskussionen framför eleven <strong>________</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I diskussionen framför eleven <strong>enkla</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+          "C" : "I diskussionen framför eleven <strong>välgrundade</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+          "A" : "I diskussionen framför eleven <strong>välgrundade och nyanserade</strong> argument för sina åsikter samt visar respekt för andras åsikter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 300,
+    "year" : null
+  }, {
+    "name" : "Brand och räddning",
+    "description" : "Kursen brand och räddning omfattar punkterna 1–7 under rubriken Ämnets syfte. ",
+    "code" : "BEVBRA0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Regler för brandskydd i byggnader och grunderna i ett systematiskt brandskyddsarbete.", "Brandbekämpningsresurser inom räddningstjänsten, till exempel kommunens räddningstjänst.", "Åtgärder för att förhindra och mildra fortsatta skador på liv, egendom och miljö vid brand i byggnad.", "Faktorer som ligger bakom en brands uppkomst och vad som styr spridningen av en brand.", "Brandbekämpningsutrustning, till exempel räddningstjänstens fordon och utrustning, handbrandsläckare, brandfilt.", "Räddningstjänstens yrkesroller och arbetsuppgifter.", "Arbetsmiljö- och säkerhetsaspekter i samband med bekämpande av en brand." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> räddningstjänst, räddningsarbete och verksamhetens organisation och innehåll.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> räddningstjänst, räddningsarbete och verksamhetens organisation och innehåll.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> räddningstjänst, räddningsarbete och verksamhetens organisation och innehåll.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> räddningstjänst, räddningsarbete och verksamhetens organisation och innehåll."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> faktorer som styr brandförlopp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> faktorer som styr brandförlopp.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> faktorer som styr brandförlopp.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> faktorer som styr brandförlopp."
+        }
+      }, {
+        "text" : "I beskrivningarna använder eleven <strong>________</strong> centrala begrepp samt förklarar <strong>________</strong> samband och drar <strong>________</strong> slutsatser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningarna använder eleven <strong>med viss säkerhet</strong> centrala begrepp samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.",
+          "C" : "I beskrivningarna använder eleven <strong>med viss säkerhet</strong> centrala begrepp samt förklarar samband och drar <strong>välgrundade</strong> slutsatser.",
+          "A" : "I beskrivningarna använder eleven <strong>med säkerhet</strong> centrala begrepp samt förklarar <strong>komplexa</strong> samband och drar <strong>välgrundade och nyanserade</strong> slutsatser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för lagar och andra bestämmelser som styr verksamheten och tar utgångspunkt i dem i sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för lagar och andra bestämmelser som styr verksamheten och tar utgångspunkt i dem i sitt arbete.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för lagar och andra bestämmelser som styr verksamheten och tar utgångspunkt i dem i sitt arbete.",
+          "A" : "Eleven redogör <strong>utförligt</strong> för lagar och andra bestämmelser som styr verksamheten och tar utgångspunkt i dem i sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar, organiserar och utför, <strong>________</strong> med handledare, vanligt förekommande <strong>________</strong> arbetsuppgifter på ett yrkesmässigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar, organiserar och utför, <strong>i samråd</strong> med handledare, vanligt förekommande <strong>enkla</strong> arbetsuppgifter på ett yrkesmässigt sätt.",
+          "C" : "Eleven planerar, organiserar och utför, <strong>efter samråd</strong> med handledare, vanligt förekommande arbetsuppgifter på ett yrkesmässigt sätt.",
+          "A" : "Eleven planerar, organiserar och utför, <strong>efter samråd</strong> med handledare, vanligt förekommande, <strong>även avancerade</strong>, arbetsuppgifter på ett yrkesmässigt sätt <strong>samt anpassar vid behov genomförandet till ändrade förutsättningar</strong>."
+        }
+      }, {
+        "text" : "I arbetet använder eleven redskap och metoder som <strong>________</strong> för uppgiften, diskuterar <strong>________</strong> möjliga alternativa lösningar och föreslår vid behov förbättringar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven redskap och metoder som <strong>finns angivna</strong> för uppgiften, diskuterar <strong>översiktligt</strong> möjliga alternativa lösningar och föreslår vid behov förbättringar.",
+          "C" : "I arbetet <strong>väljer och</strong> använder eleven redskap och metoder som <strong>passar</strong> för uppgiften, diskuterar <strong>utförligt</strong> möjliga alternativa lösningar och föreslår vid behov förbättringar.",
+          "A" : "I arbetet <strong>väljer och</strong> använder eleven redskap och metoder som <strong>passar</strong> för uppgiften, <strong>motiverar sina val samt</strong> diskuterar <strong>utförligt och nyanserat</strong> möjliga alternativa lösningar och föreslår vid behov förbättringar."
+        }
+      }, {
+        "text" : "Dessutom interagerar eleven, samt kommunicerar <strong>________</strong>, i samarbete och möten med människor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom interagerar eleven, samt kommunicerar <strong>med viss säkerhet</strong>, i samarbete och möten med människor.",
+          "C" : "Dessutom interagerar eleven, samt kommunicerar <strong>med viss säkerhet</strong>, i samarbete och möten med människor. <strong>Eleven diskuterar utförligt sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande</strong>.",
+          "A" : "Dessutom interagerar eleven, samt kommunicerar <strong>med säkerhet</strong>, i samarbete och möten med människor. <strong>Eleven diskuterar utförligt och nyanserat sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande</strong>."
+        }
+      }, {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> dokumentation av utförda uppgifter och aktiviteter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av utförda uppgifter och aktiviteter.",
+          "C" : "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av utförda uppgifter och aktiviteter.",
+          "A" : "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av utförda uppgifter och aktiviteter."
+        }
+      }, {
+        "text" : "I dokumentationen använder eleven <strong>________</strong> relevanta begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I dokumentationen använder eleven <strong>med viss säkerhet</strong> relevanta begrepp.",
+          "C" : "I dokumentationen använder eleven <strong>med viss säkerhet</strong> relevanta begrepp.",
+          "A" : "I dokumentationen använder eleven <strong>med säkerhet</strong> relevanta begrepp."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven diskuterar <strong>________</strong> egna och andras attityder, värderingar och handlingar i relation till arbetsuppgifterna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> egna och andras attityder, värderingar och handlingar i relation till arbetsuppgifterna.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> egna och andras attityder, värderingar och handlingar i relation till arbetsuppgifterna.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat</strong> egna och andras attityder, värderingar och handlingar i relation till arbetsuppgifterna."
+        }
+      }, {
+        "text" : "I diskussionen framför eleven <strong>________</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I diskussionen framför eleven <strong>enkla</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+          "C" : "I diskussionen framför eleven <strong>välgrundade</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+          "A" : "I diskussionen framför eleven <strong>välgrundade och nyanserade</strong> argument för sina åsikter samt visar respekt för andras åsikter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Vardagsolyckor",
+    "description" : "Kursen vardagsolyckor omfattar punkterna 1–2 och 4–7 under rubriken Ämnets syfte. ",
+    "code" : "BEVVAR0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Kommunens regler och ansvar för att förebygga olyckor.", "Grunderna för kommunens systematiska säkerhetsarbete.", "Olycks- och skadebilden i samhället.", "Olyckor som inträffar i hem- och fritidsmiljö och hur de kan förebyggas.", "Risker och riskbeteende som finns hos särskilt utsatta grupper, till exempel barn, äldre och människor med funktionsnedsättning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> kommunens systematiska säkerhetsarbete och verksamheternas organisation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> kommunens systematiska säkerhetsarbete och verksamheternas organisation.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> kommunens systematiska säkerhetsarbete och verksamheternas organisation.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> kommunens systematiska säkerhetsarbete och verksamheternas organisation."
+        }
+      }, {
+        "text" : "I beskrivningarna använder eleven <strong>________</strong> centrala begrepp samt förklarar <strong>________</strong> samband och drar <strong>________</strong> slutsatser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningarna använder eleven <strong>med viss säkerhet</strong> centrala begrepp samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.",
+          "C" : "I beskrivningarna använder eleven <strong>med viss säkerhet</strong> centrala begrepp samt förklarar samband och drar <strong>välgrundade</strong> slutsatser.",
+          "A" : "I beskrivningarna använder eleven <strong>med säkerhet</strong> centrala begrepp samt förklarar <strong>komplexa</strong> samband och drar <strong>välgrundade och nyanserade</strong> slutsatser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för lagar och andra bestämmelser som styr verksamheterna och tar utgångspunkt i dem i sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för lagar och andra bestämmelser som styr verksamheterna och tar utgångspunkt i dem i sitt arbete.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för lagar och andra bestämmelser som styr verksamheterna och tar utgångspunkt i dem i sitt arbete.",
+          "A" : "Eleven redogör <strong>utförligt</strong> för lagar och andra bestämmelser som styr verksamheterna och tar utgångspunkt i dem i sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar, organiserar och utför, <strong>________</strong> med handledare, vanligt förekommande <strong>________</strong>, systematiskt säkerhetsarbete på ett yrkesmässigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar, organiserar och utför, <strong>i samråd</strong> med handledare, vanligt förekommande <strong>enkelt</strong>, systematiskt säkerhetsarbete på ett yrkesmässigt sätt.",
+          "C" : "Eleven planerar, organiserar och utför, <strong>efter samråd</strong> med handledare, vanligt förekommande systematiskt säkerhetsarbete på ett yrkesmässigt sätt.",
+          "A" : "Eleven planerar, organiserar och utför, <strong>efter samråd</strong> med handledare, vanligt förekommande, <strong>även avancerat</strong>, systematiskt säkerhetsarbete på ett yrkesmässigt sätt <strong>samt anpassar vid behov genomförandet till ändrade förutsättningar</strong>."
+        }
+      }, {
+        "text" : "I arbetet använder eleven redskap och metoder som <strong>________</strong> för uppgiften, diskuterar <strong>________</strong> möjliga alternativa lösningar och föreslår vid behov förbättringar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven redskap och metoder som <strong>finns angivna</strong> för uppgiften, diskuterar <strong>översiktligt</strong> möjliga alternativa lösningar och föreslår vid behov förbättringar.",
+          "C" : "I arbetet <strong>väljer och</strong> använder eleven redskap och metoder som <strong>passar</strong> för uppgiften, diskuterar <strong>utförligt</strong> möjliga alternativa lösningar och föreslår vid behov förbättringar.",
+          "A" : "I arbetet <strong>väljer och</strong> använder eleven redskap och metoder som <strong>passar</strong> för uppgiften, <strong>motiverar sina val samt</strong> diskuterar <strong>utförligt och nyanserat</strong> möjliga alternativa lösningar och föreslår vid behov förbättringar."
+        }
+      }, {
+        "text" : "Dessutom interagerar eleven, samt kommunicerar <strong>________</strong>, i samarbete och möten med människor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom interagerar eleven, samt kommunicerar <strong>med viss säkerhet</strong>, i samarbete och möten med människor.",
+          "C" : "Dessutom interagerar eleven, samt kommunicerar <strong>med viss säkerhet</strong>, i samarbete och möten med människor. <strong>Eleven diskuterar utförligt sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande</strong>.",
+          "A" : "Dessutom interagerar eleven, samt kommunicerar <strong>med säkerhet</strong>, i samarbete och möten med människor. <strong>Eleven diskuterar utförligt och nyanserat sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande</strong>."
+        }
+      }, {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> dokumentation av utförda uppgifter och aktiviteter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av utförda uppgifter och aktiviteter.",
+          "C" : "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av utförda uppgifter och aktiviteter.",
+          "A" : "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av utförda uppgifter och aktiviteter."
+        }
+      }, {
+        "text" : "I dokumentationen använder eleven <strong>________</strong> relevanta begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I dokumentationen använder eleven <strong>med viss säkerhet</strong> relevanta begrepp.",
+          "C" : "I dokumentationen använder eleven <strong>med viss säkerhet</strong> relevanta begrepp.",
+          "A" : "I dokumentationen använder eleven <strong>med säkerhet</strong> relevanta begrepp."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven diskuterar <strong>________</strong> egna och andras attityder, värderingar och handlingar i relation till arbetsuppgifterna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> egna och andras attityder, värderingar och handlingar i relation till arbetsuppgifterna.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> egna och andras attityder, värderingar och handlingar i relation till arbetsuppgifterna.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat</strong> egna och andras attityder, värderingar och handlingar i relation till arbetsuppgifterna."
+        }
+      }, {
+        "text" : "I diskussionen framför eleven <strong>________</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I diskussionen framför eleven <strong>enkla</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+          "C" : "I diskussionen framför eleven <strong>välgrundade</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+          "A" : "I diskussionen framför eleven <strong>välgrundade och nyanserade</strong> argument för sina åsikter samt visar respekt för andras åsikter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

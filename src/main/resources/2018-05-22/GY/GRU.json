@@ -1,0 +1,121 @@
+{
+  "name" : "Grundläggande vård och omsorg",
+  "description" : "Ämnet grundläggande vård och omsorg har sin grund i omvårdnadsvetenskap och medicin. Det behandlar människors behov av vård och omsorg i olika situationer med utgångspunkt i ett etiskt och hälsofrämjande förhållningssätt.",
+  "code" : "GRU",
+  "designation" : "",
+  "skolfsId" : "2010:138",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet grundläggande vård och omsorg ska syfta till att eleverna utvecklar förmåga att stödja och assistera människor i egenvård samt att ge personlig omvårdnad utifrån ett etiskt och inkluderande förhållningssätt.", "Eleverna ska ges möjlighet att utveckla grundläggande kunskaper om anatomi och fysiologi samt om vanligt förekommande sjukdomar, smitta och smittspridning.", "Dessutom ska de ges möjlighet att utveckla grundläggande kunskaper om läkemedel och läkemedelsanvändning." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Problemlösning och handlingsberedskap ska stimuleras i undervisningen.", "Genom att medverka i olika verksamheter ska eleverna ges möjlighet att få inblick i och erfarenhet av vård och omsorg.", "Eleverna ska också ges möjlighet att reflektera över och diskutera ämnesinnehållet, centrala begrepp samt egna och andras handlingar och attityder." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet grundläggande vård och omsorg ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om människokroppens uppbyggnad och funktion.", "Kunskaper om vanligt förekommande sjukdomar och läkemedel.", "Förmåga att arbeta utifrån lagar och andra bestämmelser som styr olika verksamheter samt utifrån arbetsmiljö, säkerhet och yrkesetik.", "Förmåga att arbeta med personlig omvårdnad och ge stöd i egenvård.", "Förmåga att diskutera sin egen och andras roll i arbetet med personlig omvårdnad." ]
+  } ],
+  "courses" : [ {
+    "name" : "Grundläggande vård och omsorg",
+    "description" : "Kursen grundläggande vård och omsorg omfattar punkterna 1–5 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "GRUGRD0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Grundläggande anatomi och fysiologi.", "Vanligt förekommande sjukdomar och åtgärder vid dem.", "Innebörden av personlig omvårdnad och egenvård och hur det kan stödjas.", "Omvårdnadshygien, mikroorganismer, smitta och smittspridning.", "Användning och hantering av vanligt förekommande läkemedel. Läkemedlens biverkningar.", "Bestämmelser och praxis om arbetsmiljö, säkerhet och yrkesetik i samband med arbetet med grundläggande vård och omsorg.", "Funktionella kroppshållningar. Innebörden och betydelsen av att arbeta ergonomiskt. Förutsättningar för funktionella kroppshållningar.", "Hjärt-lungräddning med defibrillering samt första hjälpen vid skada och akut sjukdom." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> kroppens uppbyggnad och funktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> kroppens uppbyggnad och funktion.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> kroppens uppbyggnad och funktion.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> kroppens uppbyggnad och funktion."
+        }
+      }, {
+        "text" : "Eleven redogör även <strong>________</strong> för innebörden av personlig omvårdnad och egenvård och hur det kan stödjas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör även <strong>översiktligt</strong> för innebörden av personlig omvårdnad och egenvård och hur det kan stödjas.",
+          "C" : "Eleven redogör även <strong>utförligt</strong> för innebörden av personlig omvårdnad och egenvård och hur det kan stödjas.",
+          "A" : "Eleven redogör även <strong>utförligt och nyanserat</strong> för innebörden av personlig omvårdnad och egenvård och hur det kan stödjas."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för vanligt förekommande sjukdomar och olika aspekter av smitta och smittspridning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för vanligt förekommande sjukdomar och olika aspekter av smitta och smittspridning.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för vanligt förekommande sjukdomar och olika aspekter av smitta och smittspridning.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för vanligt förekommande sjukdomar och olika aspekter av smitta och smittspridning."
+        }
+      }, {
+        "text" : "Eleven redogör även för <strong>________</strong> vanliga läkemedel och deras eventuella biverkningar samt hur de används och hanteras.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör även för <strong>några</strong> vanliga läkemedel och deras eventuella biverkningar samt hur de används och hanteras.",
+          "C" : "Eleven redogör även för <strong>några</strong> vanliga läkemedel och deras eventuella biverkningar samt hur de används och hanteras.",
+          "A" : "Eleven redogör även för <strong>flera</strong> vanliga läkemedel och deras eventuella biverkningar samt hur de används och hanteras."
+        }
+      }, {
+        "text" : "I beskrivningar och redogörelser använder eleven <strong>________</strong> centrala begrepp samt förklarar <strong>________</strong> samband och drar <strong>________</strong> slutsatser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningar och redogörelser använder eleven <strong>med viss säkerhet</strong> centrala begrepp samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.",
+          "C" : "I beskrivningar och redogörelser använder eleven <strong>med viss säkerhet</strong> centrala begrepp samt förklarar samband och drar <strong>välgrundade</strong> slutsatser.",
+          "A" : "I beskrivningar och redogörelser använder eleven <strong>med säkerhet</strong> centrala begrepp samt förklarar <strong>komplexa</strong> samband och drar <strong>välgrundade och nyanserade</strong> slutsatser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för olika lagar och andra bestämmelser som styr verksamheterna och tar utgångspunkt i dem i sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för olika lagar och andra bestämmelser som styr verksamheterna och tar utgångspunkt i dem i sitt arbete.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för olika lagar och andra bestämmelser som styr verksamheterna och tar utgångspunkt i dem i sitt arbete.",
+          "A" : "Eleven redogör <strong>utförligt</strong> för olika lagar och andra bestämmelser som styr verksamheterna och tar utgångspunkt i dem i sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför vanligt förekommande <strong>________</strong> arbetsuppgifter <strong>________</strong> med handledare på ett yrkesmässigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför vanligt förekommande <strong>enkla</strong> arbetsuppgifter <strong>i samråd</strong> med handledare på ett yrkesmässigt sätt.",
+          "C" : "Eleven utför vanligt förekommande arbetsuppgifter <strong>efter samråd</strong> med handledare på ett yrkesmässigt sätt.",
+          "A" : "Eleven utför vanligt förekommande <strong>även avancerade</strong> arbetsuppgifter <strong>efter samråd</strong> med handledare på ett yrkesmässigt sätt <strong>samt anpassar vid behov genomförandet till ändrade förutsättningar</strong>."
+        }
+      }, {
+        "text" : "I arbetet använder eleven redskap och metoder som <strong>________</strong> för uppgiften samt tar i arbetet hänsyn till hygien, hälsa och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven redskap och metoder som <strong>finns angivna</strong> för uppgiften samt tar i arbetet hänsyn till hygien, hälsa och miljö.",
+          "C" : "I arbetet <strong>väljer och</strong> använder eleven redskap och metoder som <strong>passar</strong> för uppgiften samt tar i arbetet hänsyn till hygien, hälsa och miljö.",
+          "A" : "I arbetet <strong>väljer och</strong> använder eleven redskap och metoder som <strong>passar</strong> för uppgiften, <strong>motiverar sina val</strong>, samt tar i arbetet hänsyn till hygien, hälsa och miljö."
+        }
+      }, {
+        "text" : "Eleven diskuterar <strong>________</strong> sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat</strong> sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande."
+        }
+      }, {
+        "text" : "Eleven diskuterar <strong>________</strong> möjliga alternativa lösningar av arbetsuppgifterna och föreslår vid behov förbättringar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> möjliga alternativa lösningar av arbetsuppgifterna och föreslår vid behov förbättringar.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> möjliga alternativa lösningar av arbetsuppgifterna och föreslår vid behov förbättringar.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat</strong> möjliga alternativa lösningar av arbetsuppgifterna och föreslår vid behov förbättringar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

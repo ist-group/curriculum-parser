@@ -1,0 +1,332 @@
+{
+  "name" : "Cirkus",
+  "description" : "Cirkuskonsten innefattar olika discipliner som kommunicerar med varandra. Ett exempel är akrobatik som handlar om det fysiska uttrycket av vad som kan åstadkommas med kroppen för att skapa nya rörelseuttryck.",
+  "code" : "CIR",
+  "designation" : "",
+  "skolfsId" : "2010:171",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet cirkus ska syfta till att eleverna utvecklar kunskaper om cirkusen som konstart och dess olika genrer.", "Eleverna ska också ges möjlighet att utveckla förmåga att uttrycka sig inom en eller flera av cirkusens dicipliner, till exempel clown, jonglering, lindans eller luftakrobatik.", "Undervisningen ska leda till att eleverna utvecklar vana att arbeta i en scenisk produktion och möta publik.", "Eleverna ska ges möjlighet att utveckla förståelse av hur cirkusens uttryck och formspråk kan nyanseras och varieras utifrån olika konstnärliga idéer." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Utforskande och reflekterande arbetsmetoder är väsentliga i ämnet.", "Eleverna ska därför ges möjlighet att delta i arbete med cirkusnummer samt utforma och skapa egna cirkusnummer.", "I undervisningen ska eleverna ges möjlighet att utveckla förmåga att samarbeta, interagera med andra och vara lyhörda inför olika sätt att förhålla sig till konstnärliga processer.", "Eleverna ska också ges möjlighet att delta i, driva, leda och utveckla konstnärliga projekt och olika former av sceniska presentationer." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska behandla arbetsmiljö och ergonomi samt innefatta praktiskt arbete där eleverna ges möjlighet att bygga upp den fysiska beredskap som krävs för att undvika skador.", "Eleverna ska också ges möjlighet att utveckla kunskaper om anatomi, träningsgrunder och förebyggande träning." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet cirkus ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förmåga att skapa eget material och förmåga att skapa ett personligt uttryck.", "Förmåga att utföra olika akrobatiska övningar och förmåga att bedöma och hantera risker.", "Förmåga att samarbeta tillitsfullt och förtroendeskapande i träning och nummerarbete.", "Förmåga att improvisera och utforska okända uttryck inom ett eller flera cirkusområden.", "Kunskaper om säkerhet, materialomsorg, rekvisita, mask och kostym.", "Kunskaper om cirkusdisciplinernas begrepp och historia.", "Kunskaper om olika uttryckmöjligheter inom olika cirkusdiscipliner.", "Kunskaper om anatomi och fysiologi avseende koordination, balans och rörelse samt förståelse av vikten av förebyggande träning och uppvärmning." ]
+  } ],
+  "courses" : [ {
+    "name" : "Akrobatik",
+    "description" : "Kursen akrobatik omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på kunskaper om säkerhet och materialomsorg samt punkterna 2–3 och 8. I kursen behandlas fördjupade kunskaper inom vald eller valda akrobatiska dicipliner.",
+    "code" : "CIRAKR00S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Nummerarbete samt hur man planerar och bygger upp cirkusakter med akrobatiska moment.", "Balansträning.", "Träning i grundläggande akrobatik.", "Träning i en eller flera akrobatiska dicipliner, till exempel golvakrobatik, luftakrobatik, trampolin eller parakrobatik.", "Samarbete och kommunikation i träning och utförande. Tillitsövningar.", "Utforskande av nya rörelseuttryck med den egna kroppen.", "Experiment och improvisation.", "Säkerhetsfrågor och säkerhetsåtgärder, systematiskt arbete med att förhindra olyckor.", "Materialkunskap och materialomsorg.", "Rekvisita, mask och kostym.", "Begrepp inom de olika cirkusdisciplinerna.", "Orientering i akrobatik- och cirkushistoria.", "Användning av olika uttryck, till exempel komik i akrobatiska akter.", "Träning av styrka och smidighet.", "Skadeförebyggande övningar och uppvärmningsövningar.", "Anatomi och träningslära." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven skapar och framför <strong>________</strong> med handledare en egen cirkusakt innehållande <strong>________</strong> akrobatiskt moment.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven skapar och framför <strong>i samråd</strong> med handledare en egen cirkusakt innehållande <strong>något</strong> akrobatiskt moment.",
+          "C" : "Eleven skapar och framför <strong>efter samråd</strong> med handledare en egen cirkusakt innehållande <strong>några</strong> akrobatiska moment. <strong>Akten utförs med viss lätthet och ett personligt uttryck</strong>.",
+          "A" : "Eleven skapar och framför <strong>efter samråd</strong> med handledare en egen cirkusakt innehållande <strong>flera</strong> akrobatiska moment. <strong>Akten utförs med lätthet och ett personligt uttryck</strong>."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> akrobatisk övning samt gör <strong>________</strong> nödvändiga riskbedömningar och anpassar <strong>________</strong> med handledare sitt agerande efter dessa.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>någon</strong> akrobatisk övning samt gör <strong>med viss säkerhet enkla och</strong> nödvändiga riskbedömningar och anpassar <strong>i samråd</strong> med handledare sitt agerande efter dessa.",
+          "C" : "Eleven utför <strong>några</strong> akrobatiska övningar samt gör <strong>med viss säkerhet</strong> nödvändiga riskbedömningar och anpassar <strong>efter samråd</strong> med handledare sitt agerande efter dessa.",
+          "A" : "Eleven utför <strong>flera</strong> akrobatiska övningar samt gör <strong>med säkerhet</strong> nödvändiga riskbedömningar och anpassar <strong>efter samråd</strong> med handledare sitt agerande efter dessa."
+        }
+      }, {
+        "text" : "Eleven samarbetar på ett säkert sätt med andra vid utförandet av akrobatiska övningar <strong>________</strong> akter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar på ett säkert sätt med andra vid utförandet av akrobatiska övningar <strong>eller</strong> akter.",
+          "C" : "Eleven samarbetar på ett säkert sätt med andra vid utförandet <strong>och skapandet</strong> av akrobatiska övningar <strong>och</strong> akter. <strong>I samarbetet visar eleven tillit till andras förmågor</strong>.",
+          "A" : "Eleven samarbetar på ett säkert sätt med andra vid utförandet <strong>och skapandet</strong> av akrobatiska övningar <strong>och</strong> akter. <strong>I samarbetet visar eleven tillit till andras förmågor och agerar själv på ett förtroendeingivande och trygghetsskapande sätt</strong>."
+        }
+      }, {
+        "text" : "Vid utförandet och skapandet av akrobatiska akter prövar eleven alternativa lösningar och idéer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vid utförandet och skapandet av akrobatiska akter prövar eleven alternativa lösningar och idéer.",
+          "C" : "Vid utförandet och skapandet av akrobatiska akter prövar eleven alternativa lösningar och idéer <strong>samt prövar gränserna för den egna förmågan</strong>.",
+          "A" : "Vid utförandet och skapandet av akrobatiska akter <strong>använder eleven improvisation</strong>, prövar alternativa lösningar och idéer <strong>samt prövar gränserna för den egna förmågan</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för säkerhetsaspekter på akrobatiska akter och för materialomsorg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för säkerhetsaspekter på akrobatiska akter och för materialomsorg.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för säkerhetsaspekter på akrobatiska akter och för materialomsorg.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för säkerhetsaspekter på akrobatiska akter och för materialomsorg."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> användningsmöjligheter för rekvisita, mask och kostym samt redogör <strong>________</strong> för grundläggande akrobatik- och cirkushistoria.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> användningsmöjligheter för rekvisita, mask och kostym samt redogör <strong>översiktligt</strong> för grundläggande akrobatik- och cirkushistoria.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> användningsmöjligheter för rekvisita, mask och kostym samt redogör <strong>utförligt</strong> för grundläggande akrobatik- och cirkushistoria.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> användningsmöjligheter för rekvisita, mask och kostym samt redogör <strong>utförligt och nyanserat</strong> för grundläggande akrobatik- och cirkushistoria."
+        }
+      }, {
+        "text" : "I sina beskrivningar och redogörelser använder eleven <strong>________</strong> cirkusdisciplinernas begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sina beskrivningar och redogörelser använder eleven <strong>med viss säkerhet</strong> cirkusdisciplinernas begrepp.",
+          "C" : "I sina beskrivningar och redogörelser använder eleven <strong>med viss säkerhet</strong> cirkusdisciplinernas begrepp.",
+          "A" : "I sina beskrivningar och redogörelser använder eleven <strong>med säkerhet</strong> cirkusdisciplinernas begrepp."
+        }
+      }, {
+        "text" : "Eleven diskuterar akrobatnummer, ger <strong>________</strong> förslag till olika uttrycksmöjligheter och visar <strong>________</strong> möjliga utföranden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar akrobatnummer, ger <strong>enkla</strong> förslag till olika uttrycksmöjligheter och visar <strong>med viss säkerhet</strong> möjliga utföranden.",
+          "C" : "Eleven diskuterar akrobatnummer, ger <strong>välgrundade</strong> förslag till olika uttryckmöjligheter och visar <strong>med viss säkerhet</strong> möjliga utföranden.",
+          "A" : "Eleven diskuterar akrobatnummer, ger <strong>välgrundade och nyanserade</strong> förslag till olika uttrycksmöjligheter <strong>som förbättrar utförandet</strong> samt visar <strong>med säkerhet</strong> möjliga utföranden."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför fysiska övningar för att utveckla styrka och smidighet samt förebygga skador.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför fysiska övningar för att utveckla styrka och smidighet samt förebygga skador.",
+          "C" : "Eleven utför fysiska övningar för att utveckla styrka och smidighet samt förebygga skador.",
+          "A" : "Eleven utför fysiska övningar för att utveckla styrka och smidighet samt förebygga skador."
+        }
+      }, {
+        "text" : "Eleven skapar och anpassar också <strong>________</strong> med handledare övningar och träningsmetoder för att förebygga skador.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven skapar och anpassar också <strong>i samråd</strong> med handledare övningar och träningsmetoder för att förebygga skador.",
+          "C" : "Eleven skapar och anpassar också <strong>efter samråd</strong> med handledare övningar och träningsmetoder för att förebygga skador.",
+          "A" : "Eleven skapar och anpassar också <strong>efter samråd</strong> med handledare övningar och träningsmetoder för att förebygga skador."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för anatomi och fysiologi avseende koordination, balans och rörelse.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för anatomi och fysiologi avseende koordination, balans och rörelse.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för anatomi och fysiologi avseende koordination, balans och rörelse.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för anatomi och fysiologi avseende koordination, balans och rörelse."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Cirkus 1",
+    "description" : "Kursen cirkus 1 omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas grundläggande färdigheter inom valda cirkusdiscipliner.",
+    "code" : "CIRCIR01S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Grundläggande nummerarbete samt hur man planerar, bygger upp och framför enkla cirkusakter.", "Grundläggande träning i olika cirkusdiscipliner, till exempel akrobatik, jonglering, lindans, trampolin, språngbräda och clown.", "Balansträning.", "Kollektivt arbete med enkla cirkusakter. Tillitsövningar.", "Experiment och improvisation.", "Säkerhetsfrågor och säkerhetsåtgärder, systematiskt arbete med att förhindra olyckor.", "Materialomsorg.", "Grundläggande inom cirkusens olika uttrycksmedel, till exempel musik, ljus, rekvisita, mask och kostym.", "Begrepp som används för att organisera arbetet inom de olika cirkusdisciplinerna.", "Grundläggande cirkushistoria.", "Skapande och användning av olika uttryck och gestaltar karaktärer i cirkusakter.", "Skadeförebyggande övningar och uppvärmningsövningar.", "Anatomi och träningslära." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven skapar och framför <strong>________</strong> med handledare <strong>________</strong> enkel cirkusakt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven skapar och framför <strong>i samråd</strong> med handledare <strong>någon</strong> enkel cirkusakt.",
+          "C" : "Eleven skapar och framför <strong>efter samråd</strong> med handledare <strong>några</strong> enkla cirkusakter.",
+          "A" : "Eleven skapar och framför <strong>efter samråd</strong> med handledare <strong>flera</strong> enkla cirkusakter."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> grundläggande övningar inom en eller flera cirusdicipliner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>med viss säkerhet</strong> grundläggande övningar inom en eller flera cirusdicipliner.",
+          "C" : "Eleven utför <strong>med viss säkerhet</strong> grundläggande övningar inom en eller flera cikusdicipliner.",
+          "A" : "Eleven utför <strong>med säkerhet</strong> grundläggande övningar inom en eller flera cirkusdicipliner."
+        }
+      }, {
+        "text" : "Eleven samarbetar på ett säkert sätt med andra vid utförandet av <strong>________</strong> cirkusakt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar på ett säkert sätt med andra vid utförandet av <strong>någon</strong> cirkusakt.",
+          "C" : "Eleven samarbetar på ett säkert sätt med andra vid utförandet av <strong>några</strong> cirkusakter.",
+          "A" : "Eleven samarbetar på ett säkert sätt med andra vid utförandet av <strong>flera</strong> cirkusakter. <strong>I samarbetet agerar eleven både ledande och följande</strong>."
+        }
+      }, {
+        "text" : "Vid utförandet och skapandet av cirkusakter prövar eleven alternativa lösningar och idéer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vid utförandet och skapandet av cirkusakter prövar eleven alternativa lösningar och idéer.",
+          "C" : "Vid utförandet och skapandet av cirkusakter prövar eleven alternativa lösningar och idéer <strong>samt prövar gränserna för den egna förmågan</strong>.",
+          "A" : "Vid utförandet och skapandet av cirkusakter <strong>använder eleven improvisation</strong>, prövar alternativa lösningar och idéer <strong>samt prövar gränserna för den egna förmågan</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för säkerhetsaspekter på cirkusakter och för materialomsorg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för säkerhetsaspekter på cirkusakter och för materialomsorg.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för säkerhetsaspekter på cirkusakter och för materialomsorg.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för säkerhetsaspekter på cirkusakter och för materialomsorg."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> användningsmöjligheter för rekvisita, mask och kostym samt redogör <strong>________</strong> för cirkusens historia.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> användningsmöjligheter för rekvisita, mask och kostym samt redogör <strong>översiktligt</strong> för cirkusens historia.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> användningsmöjligheter för rekvisita, mask och kostym samt redogör <strong>utförligt</strong> för cirkusens historia.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> användningsmöjligheter för rekvisita, mask och kostym samt redogör <strong>utförligt och nyanserat</strong> för cirkusens historia."
+        }
+      }, {
+        "text" : "I sina beskrivningar och redogörelser använder eleven <strong>________</strong> cirkusdisciplinernas begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sina beskrivningar och redogörelser använder eleven <strong>med viss säkerhet</strong> cirkusdisciplinernas begrepp.",
+          "C" : "I sina beskrivningar och redogörelser använder eleven <strong>med viss säkerhet</strong> cirkusdisciplinernas begrepp.",
+          "A" : "I sina beskrivningar och redogörelser använder eleven <strong>med säkerhet</strong> cirkusdisciplinernas begrepp."
+        }
+      }, {
+        "text" : "Eleven diskuterar cirkusnummer, ger <strong>________</strong> förslag till olika uttryckmöjligheter och visar <strong>________</strong> möjliga gestaltningar av karaktärer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar cirkusnummer, ger <strong>enkla</strong> förslag till olika uttryckmöjligheter och visar <strong>med viss säkerhet</strong> möjliga gestaltningar av karaktärer.",
+          "C" : "Eleven diskuterar cirkusnummer, ger <strong>välgrundade</strong> förslag till olika uttryckmöjligheter och visar <strong>med viss säkerhet</strong> möjliga gestaltningar av karaktärer.",
+          "A" : "Eleven diskuterar cirkusnummer, ger <strong>välgrundade och nyanserade</strong> förslag till olika uttryckmöjlighter och visar <strong>med säkerhet</strong> möjliga gestaltningar av karaktärer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför fysiska övningar för att förebygga skador.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför fysiska övningar för att förebygga skador.",
+          "C" : "Eleven utför fysiska övningar för att <strong>utveckla styrka och smidighet samt</strong> förebygga skador.",
+          "A" : "Eleven utför fysiska övningar för att <strong>utveckla styrka och smidighet samt</strong> förebygga skador."
+        }
+      }, {
+        "text" : "Eleven skapar och anpassar också <strong>________</strong> med handledare övningar och träningsmetoder för att förebygga skador.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven skapar och anpassar också <strong>i samråd</strong> med handledare övningar och träningsmetoder för att förebygga skador.",
+          "C" : "Eleven skapar och anpassar också <strong>efter samråd</strong> med handledare övningar och träningsmetoder för att förebygga skador.",
+          "A" : "Eleven skapar och anpassar också <strong>efter samråd</strong> med handledare övningar och träningsmetoder för att förebygga skador."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för anatomi och fysiologi avseende koordination, balans och rörelse.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för anatomi och fysiologi avseende koordination, balans och rörelse.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för anatomi och fysiologi avseende koordination, balans och rörelse.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för anatomi och fysiologi avseende koordination, balans och rörelse."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Cirkus 2",
+    "description" : "Kursen cirkus 2 omfattar punkterna 1–5 och 7–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 4. I kursen behandlas fördjupade färdigheter inom vald eller valda cirkusdiscipliner.",
+    "code" : "CIRCIR02S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Nummerarbete och komposition samt hur man planerar och bygger upp cirkusakter.", "Framförande av cirkusakter inför publik.", "Fördjupad träning i en eller flera cirkusdiscipliner, till exempel akrobatik, jonglering, lindans och clown.", "Balansträning.", "Kollektivt arbete med cirkusakter och samverkan mellan olika cirkusdiscipliner.", "Personligt uttryck vid utförande av cirkusnummer.", "Experiment och improvisation.", "Säkerhetsfrågor och säkerhetsåtgärder, systematiskt arbete med att förhindra olyckor.", "Materialomsorg.", "Rekvisita, mask och kostym.", "Användning av olika uttryck och hur man gestaltar karaktärer i cirkusakter.", "Skadeförebyggande övningar och uppvärmningsövningar.", "Anatomi och träningslära." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven skapar och framför <strong>________</strong> med handledare <strong>________</strong> större cirkusakt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven skapar och framför <strong>i samråd</strong> med handledare <strong>någon</strong> större cirkusakt.",
+          "C" : "Eleven skapar och framför <strong>efter samråd</strong> med handledare <strong>några</strong> större cirkusakter.",
+          "A" : "Eleven skapar och framför <strong>efter samråd</strong> med handledare <strong>flera</strong> större cirkusakter."
+        }
+      }, {
+        "text" : "Vid utförandet samarbetar eleven på ett säker sätt med andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vid utförandet samarbetar eleven på ett säker sätt med andra.",
+          "C" : "Vid utförandet samarbetar eleven på ett säkert sätt med andra.",
+          "A" : "Vid utförandet samarbetar eleven på ett säkert sätt med andra. <strong>I samarbetet agerar eleven både ledande och följande</strong>."
+        }
+      }, {
+        "text" : "Vid utförandet och skapandet av cirkusakter prövar eleven även alternativa lösningar och idéer samt prövar att använda <strong>________</strong> traditionellt uttryck på ett nytt sätt inom <strong>________</strong> särskild cirkusdisciplin.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vid utförandet och skapandet av cirkusakter prövar eleven även alternativa lösningar och idéer samt prövar att använda <strong>något</strong> traditionellt uttryck på ett nytt sätt inom <strong>någon</strong> särskild cirkusdisciplin.",
+          "C" : "Vid utförandet och skapandet av cirkusakter <strong>har</strong> eleven även <strong>ett personligt uttryck</strong>, prövar alternativa lösningar och idéer samt prövar att använda <strong>några</strong> traditionellta uttryck på ett nytt sätt inom <strong>några</strong> särskilda cirkusdiscipliner.",
+          "A" : "Vid utförandet och skapandet av cirkusakter <strong>har</strong> eleven även <strong>ett personligt uttryck, improviserar</strong>, prövar alternativa lösningar och idéer samt prövar att använda <strong>några</strong> traditionellta uttryck på ett nytt sätt inom <strong>flera</strong> särskilda cirkusdiscipliner."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för säkerhetsaspekter på cirkusakter och för materialomsorg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för säkerhetsaspekter på cirkusakter och för materialomsorg.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för säkerhetsaspekter på cirkusakter och för materialomsorg.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för säkerhetsaspekter på cirkusakter och för materialomsorg."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> användningsmöjligheter för rekvisita, mask och kostym.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> användningsmöjligheter för rekvisita, mask och kostym.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> användningsmöjligheter för rekvisita, mask och kostym.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> användningsmöjligheter för rekvisita, mask och kostym."
+        }
+      }, {
+        "text" : "Eleven diskuterar nummer inom <strong>________</strong> cirkusdisciplin, ger <strong>________</strong> förslag till olika uttryckmöjligheter och visar <strong>________</strong> möjliga gestaltningar av karaktärer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar nummer inom <strong>någon</strong> cirkusdisciplin, ger <strong>enkla</strong> förslag till olika uttryckmöjligheter och visar <strong>med viss säkerhet</strong> möjliga gestaltningar av karaktärer.",
+          "C" : "Eleven diskuterar nummer inom <strong>några</strong> cirkusdiscipliner, ger <strong>välgrundade</strong> förslag till olika uttrycksformer och visar <strong>med viss säkerhet</strong> möjliga gestaltningar av karaktärer.",
+          "A" : "Eleven diskuterar nummer inom <strong>flera</strong> cirkusdiscipliner, ger <strong>välgrundade och nyanserade</strong> förslag till olika uttryckssätt och visar <strong>med säkerhet</strong> möjliga gestaltningar av karaktärer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför fysiska övningar för att förebygga skador.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför fysiska övningar för att förebygga skador.",
+          "C" : "Eleven utför fysiska övningar för att <strong>utveckla styrka och smidighet samt</strong> förebygga skador.",
+          "A" : "Eleven utför fysiska övningar för att <strong>utveckla styrka och smidighet samt</strong> förebygga skador."
+        }
+      }, {
+        "text" : "Eleven skapar och anpassar också <strong>________</strong> med handledare övningar och träningsmetoder för att förebygga skador.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven skapar och anpassar också <strong>i samråd</strong> med handledare övningar och träningsmetoder för att förebygga skador.",
+          "C" : "Eleven skapar och anpassar också <strong>efter samråd</strong> med handledare övningar och träningsmetoder för att förebygga skador.",
+          "A" : "Eleven skapar och anpassar också <strong>efter samråd</strong> med handledare övningar och träningsmetoder för att förebygga skador."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för anatomi och och fysiologi avseende koordination, balans och rörelse.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för anatomi och och fysiologi avseende koordination, balans och rörelse.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för anatomi och fysiologi avseende koordination, balans och rörelse.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för anatomi och fysiologi avseende koordination, balans och rörelse."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

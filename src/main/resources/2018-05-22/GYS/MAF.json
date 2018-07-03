@@ -1,0 +1,127 @@
+{
+  "name" : "Måleri",
+  "description" : "Ämnet måleri behandlar måleri såväl inomhus som utomhus. I ämnet ingår materialkunskap, metoder och tekniker. Ämnet betonar vikten av att hantera färger och material på ett miljömässigt sätt.",
+  "code" : "MAF",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet måleri ska syfta till att eleverna utvecklar kunskaper om färgsättning, måleriteknik, material och verktyg.", "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om färgers och annat materials tekniska egenskaper och användningsområden.", "Eleverna ska också ges möjlighet att utveckla kunskaper om metoder och tekniker samt verktyg och annan teknisk utrustning som används inom måleri.", "Undervisningen ska leda till att eleverna utvecklar förmåga att utföra måleriarbeten och uppsättning av väggbeklädnadsmaterial på ett yrkesmässigt sätt." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska också leda till att eleverna utvecklar förmåga att sköta samt underhålla verktyg och annan utrustning.", "Vidare ska undervisningen bidra till att eleverna utvecklar förmåga att välja material och verktyg samt bedöma slutresultatet." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Eleverna ska ges möjlighet att utveckla förmåga att utföra arbetsuppgifterna på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.", "Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om lagar och andra bestämmelser inom yrkesområdet." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Praktiskt arbete och ett problemlösande arbetssätt ska ingå i undervisningen.", "I undervisningen ska eleverna ges möjlighet att reflektera över och samtala om arbetsmiljö samt hur arbetsprocessen påverkar resultatet." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet måleri ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om färg och material inom måleri.", "Kunskaper om metoder och tekniker samt verktyg och annan utrustning.", "Förmåga att välja, använda och underhålla material och verktyg på ett ergonomiskt samt säkert sätt.", "Förmåga att utföra arbetsuppgifter inom måleri på ett yrkesmässigt sätt.", "Förmåga att hantera restavfall på ett miljömässigt samt säkert sätt enligt lagar och andra bestämmelser inom området." ]
+  } ],
+  "courses" : [ {
+    "name" : "Måleri 1",
+    "description" : "Kursen måleri 1 omfattar punkterna 1–5 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "MAFMAL51",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Målarfärger och väggbeklädnadsmaterial, egenskaper samt användningsområden.", "Måleriarbete inomhus och utomhus.", "Täckning och skydd av olika ytor vid målningsarbeten.", "Underarbete, till exempel tvättning, slipning och spackling.", "Grund- och slutbehandling av olika ytor, till exempel tak, väggar och snickerier.", "Tapetsering och uppsättning av väv.", "Hantering och vård av verktyg och material.", "Hantering av restavfall.", "Lagar och andra bestämmelser för måleriarbete, till exempel miljölagar, arbetsmiljölagen och bestämmelser angående brandfarliga varor.", "Arbetsmiljö-, hälso- och säkerhetsaspekter för arbetsuppgifterna.", "Brandrisker, brandskydd och brandfarliga varor." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva färg och material inom måleri.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva färg och material inom måleri.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> färg och material inom måleri.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> färg och material inom måleri."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att beskriva metoder, tekniker samt verktyg och annan utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att beskriva metoder, tekniker samt verktyg och annan utrustning.",
+          "C" : "Eleven beskriver också <strong>på ett enkelt sätt</strong> metoder, tekniker samt verktyg och annan utrustning.",
+          "A" : "Eleven beskriver också <strong>på ett utvecklat sätt</strong> metoder, tekniker samt verktyg och annan utrustning."
+        }
+      }, {
+        "text" : "Eleven medverkar i att välja, använda och underhålla material samt verktyg på ett ergonomiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven medverkar i att välja, använda och underhålla material samt verktyg på ett ergonomiskt och säkert sätt.",
+          "C" : "Eleven väljer, använder och underhåller <strong>med tillfredsställande resultat</strong> material samt verktyg på ett ergonomiskt och säkert sätt.",
+          "A" : "Eleven väljer, använder och underhåller <strong>med gott resultat</strong> material samt verktyg på ett ergonomiskt och säkert sätt."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att utföra arbetsmoment inom måleri på ett yrkesmässigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att utföra arbetsmoment inom måleri på ett yrkesmässigt sätt.",
+          "C" : "Eleven utför <strong>med tillfredsställande resultat</strong> arbetsmoment inom måleri på ett yrkesmässigt sätt.",
+          "A" : "Eleven utför <strong>med gott resultat</strong> arbetsmoment inom måleri på ett yrkesmässigt sätt."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att hantera restavfall på ett miljömässigt samt säkert sätt enligt lagar och andra bestämmelser inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att hantera restavfall på ett miljömässigt samt säkert sätt enligt lagar och andra bestämmelser inom området.",
+          "C" : "Eleven hanterar restavfall på ett miljömässigt samt säkert sätt enligt lagar och andra bestämmelser inom området.",
+          "A" : "Eleven hanterar restavfall på ett miljömässigt samt säkert sätt enligt lagar och andra bestämmelser inom området."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Måleri 2",
+    "description" : "Kursen måleri 2 omfattar punkterna 1–5 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "MAFMAL52",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Målarfärger och väggbeklädnadsmaterial, egenskaper och användningsområden. Beräkning av materialåtgång.", "Färgsättning, arbetsbeskrivningar, utförandekrav och ritningar för måleriarbete.", "Underarbete, till exempel tvättning, slipning och spackling.", "Grund- och slutbehandling av olika ytor såväl inomhus som utomhus, till exempel trä, puts och betong.", "Tapetsering och uppsättning av väv.", "Hantering och vård av verktyg samt material.", "Hantering av restavfall.", "Lagar och andra bestämmelser för måleriarbete, till exempel miljölagar, arbetsmiljölagen och bestämmelser angående brandfarliga varor.", "Arbetsmiljö-, hälso- och säkerhetsaspekter för arbetsuppgifterna.", "Brandrisker, brandskydd och brandfarliga varor." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva färg och material inom måleri.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva färg och material inom måleri.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> färg och material inom måleri.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> färg och material inom måleri."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att beskriva metoder, tekniker samt verktyg och annan utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att beskriva metoder, tekniker samt verktyg och annan utrustning.",
+          "C" : "Eleven beskriver också <strong>på ett enkelt sätt</strong> metoder, tekniker samt verktyg och annan utrustning.",
+          "A" : "Eleven beskriver också <strong>på ett utvecklat sätt</strong> metoder, tekniker samt verktyg och annan utrustning."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att välja, använda och underhålla material samt verktyg på ett ergonomiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att välja, använda och underhålla material samt verktyg på ett ergonomiskt och säkert sätt.",
+          "C" : "Eleven väljer, använder och underhåller <strong>med tillfredsställande resultat</strong> material samt verktyg på ett ergonomiskt och säkert sätt.",
+          "A" : "Eleven väljer, använder och underhåller <strong>med gott resultat</strong> material samt verktyg på ett ergonomiskt och säkert sätt."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att utföra arbetsmoment inom måleri på ett yrkesmässigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att utföra arbetsmoment inom måleri på ett yrkesmässigt sätt.",
+          "C" : "Eleven utför <strong>med tillfredsställande resultat</strong> arbetsmoment inom måleri på ett yrkesmässigt sätt.",
+          "A" : "Eleven utför <strong>med gott resultat</strong> arbetsmoment inom måleri på ett yrkesmässigt sätt."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att hantera restavfall på ett miljömässigt samt säkert sätt enligt lagar och andra bestämmelser inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att hantera restavfall på ett miljömässigt samt säkert sätt enligt lagar och andra bestämmelser inom området.",
+          "C" : "Eleven hanterar restavfall på ett miljömässigt samt säkert sätt enligt lagar och andra bestämmelser inom området.",
+          "A" : "Eleven hanterar restavfall på ett miljömässigt samt säkert sätt enligt lagar och andra bestämmelser inom området."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

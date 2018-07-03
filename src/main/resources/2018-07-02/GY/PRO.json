@@ -1,0 +1,413 @@
+{
+  "name" : "Processautomation",
+  "description" : "Ämnet processautomation behandlar metoder och arbetssätt för mätning, insamling av mätdata, datahantering, datorkommunikation och reglering i automatiserade processanläggningar.",
+  "code" : "PRO",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet processautomation ska syfta till att eleverna utvecklar kunskaper om komponenter och automatiserade processanläggningar samt förståelse av den yrkesteori som krävs för olika automatiserade processer.", "Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att såväl identifiera och avhjälpa reglertekniska och lokala datatekniska problem på anläggningsnivå som att felsöka och kalibrera mät- och reglerteknisk utrustning.", "Undervisningen ska även leda till att eleverna utvecklar kunskaper om hur övergripande processdatorsystem används för datainsamling, larmhantering och övervakning av processen samt hur informationsteknik kan användas i olika nivåer av automatiserade processanläggningar." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom undervisningen ska eleverna ges möjlighet att utveckla insikt om hur säkerheten på en processindustri är beroende av med vilken uppmärksamhet, noggrannhet och systematik som underhållspersonalen arbetar.", "Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper om lämpliga mät- och kalibreringsmetoder som medför ett säkert arbetssätt beroende av processmiljö." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar matematiska kunskaper för arbete i automatiserade processanläggningar samt förmåga att tolka och upprätta anläggningsteknisk dokumentation och att uttrycka sig både skriftligt och muntligt." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska laborativa moment och ett undersökande arbetssätt förekomma.", "I praktiska övningar ska eleverna ges möjlighet att utveckla kunskaper i problemlösning som krävs för automatiserade arbeten." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet processautomation ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om informationstekniska system i automatiserade processer.", "Kunskaper om reglermetoder för svårare processer.", "Kunskaper om mätmetoder för fysikaliska storheter och kemiska egenskaper.", "Förmåga att planera, genomföra och utvärdera underhållsarbete i en automatiserad processanläggning med hänsyn till säkerhet, kvalitet, miljö, ergonomi och estetik.", "Förmåga att reglera och optimera enkla processer.", "Förmåga att arbeta med processdatorsystem.", "Förmåga att mäta fysikaliska storheter och kemiska egenskaper.", "Förmåga att tolka och upprätta anläggningsteknisk dokumentation.", "Förmåga att välja och använda olika verktyg, instrument, material och övrig utrustning som används inom området.", "Kunskaper om standarder och föreskrifter inom området." ]
+  } ],
+  "courses" : [ {
+    "name" : "Processdatorsystem",
+    "description" : "Kursen processdatorsystem omfattar punkterna 1, 4 och 6–9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 6.",
+    "code" : "PROPRO0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "HMI, dvs. användning av programvara för visualisering av en process med trender, historik och larmhantering.", "Informationstekniska strukturer och nivåer i processindustrin samt hur olika fältbussar används i dessa nivåer med koppling till administrativa kontorsnät.", "Distribuerade styrsystem med konfigurering av processkontrollerande enheter och programvaror för insamling av processdata.", "Informationsteknik i processdatorsystem med upprättande av kommunikation mot processen med OPC-server (open connectivity), fältbuss eller ethernet.", "Metoder för omvandling av analoga signaler till digitala värden och vice versa med upplösning, noggrannhet, ingenjörsstorhet, signalhantering och signalkonditionering.", "Systematisk dokumentation i nätverk.", "Säkerhet i processdatorsystem med skanntider, behörighetsinloggning, spårbarhet, redundans, realtidsoperativsystem (rtos), reglerfunktioner långt ut i anläggningen samt riskanalyser för informationsbortfall." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för uppbyggnad, funktion och principer hos olika informationstekniska system och enheter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för uppbyggnad, funktion och principer hos olika informationstekniska system och enheter.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för uppbyggnad, funktion och principer hos olika informationstekniska system och enheter.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för uppbyggnad, funktion och principer hos olika informationstekniska system och enheter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare vanligt förekommande inkopplingar och konfigureringar för insamling av data i en automatiserad processanläggning med ett resultat som på ett <strong>________</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare vanligt förekommande inkopplingar och konfigureringar för insamling av data i en automatiserad processanläggning med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare vanligt förekommande inkopplingar och konfigureringar för insamling av data i en automatiserad processanläggning med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare vanligt förekommande inkopplingar och konfigureringar för insamling av data i en automatiserad processanläggning med ett resultat som på ett <strong>gott</strong> sätt uppfyller fastställda kvalitets- och miljökrav."
+        }
+      }, {
+        "text" : "Dessutom visualiserar eleven med <strong>________</strong> resultat processen i realtid med ett gränssnitt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom visualiserar eleven med <strong>tillfredsställande</strong> resultat processen i realtid med ett gränssnitt.",
+          "C" : "Dessutom visualiserar eleven med <strong>tillfredsställande</strong> resultat processen i realtid med ett gränssnitt.",
+          "A" : "Dessutom visualiserar eleven med <strong>gott</strong> resultat processen i realtid med ett gränssnitt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra.",
+          "C" : "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra.",
+          "A" : "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra."
+        }
+      }, {
+        "text" : "I arbetet beskriver eleven <strong>________</strong> informationens väg från process till gränssnitt samt löser <strong>________</strong> datortekniska och informationstekniska problem med hjälp av mätningar, manualer och laborativt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet beskriver eleven <strong>översiktligt</strong> informationens väg från process till gränssnitt samt löser <strong>enkla</strong> datortekniska och informationstekniska problem med hjälp av mätningar, manualer och laborativt arbete.",
+          "C" : "I arbetet beskriver eleven <strong>utförligt</strong> informationens väg från process till gränssnitt samt löser datortekniska och informationstekniska problem med hjälp av mätningar, manualer och laborativt arbete.",
+          "A" : "I arbetet beskriver eleven <strong>utförligt och nyanserat</strong> informationens väg från process till gränssnitt samt löser <strong>avancerade</strong> datortekniska och informationstekniska problem med hjälp av mätningar, manualer och laborativt arbete."
+        }
+      }, {
+        "text" : "I arbetet hanterar och vårdar eleven med <strong>________</strong> handlag material, verktyg och övrig utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet hanterar och vårdar eleven med <strong>visst</strong> handlag material, verktyg och övrig utrustning.",
+          "C" : "I arbetet hanterar och vårdar eleven med <strong>gott</strong> handlag material, verktyg och övrig utrustning.",
+          "A" : "I arbetet hanterar och vårdar eleven med <strong>mycket gott</strong> handlag material, verktyg och övrig utrustning."
+        }
+      }, {
+        "text" : "Eleven beskriver <strong>________</strong> hur standarder och föreskrifter styr val av utrustning och arbetssätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur standarder och föreskrifter styr val av utrustning och arbetssätt.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur standarder och föreskrifter styr val av utrustning och arbetssätt.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur standarder och föreskrifter styr val av utrustning och arbetssätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Efter utfört arbete gör eleven en <strong>________</strong> dokumentation i nätverk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Efter utfört arbete gör eleven en <strong>enkel</strong> dokumentation i nätverk.",
+          "C" : "Efter utfört arbete gör eleven en <strong>noggrann</strong> dokumentation i nätverk.",
+          "A" : "Efter utfört arbete gör eleven en <strong>noggrann och utförlig</strong> dokumentation i nätverk."
+        }
+      }, {
+        "text" : "Eleven utvärderar sitt arbete med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar sitt arbete med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven utvärderar sitt arbete med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven utvärderar sitt arbete med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Processmätteknik 1",
+    "description" : "Kursen processmätteknik 1 omfattar punkterna 1, 3–4 och 7–10 under rubriken Ämnets syfte.",
+    "code" : "PROPRC01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Metoder för analoga och digitala signalöverföringar. Metoder för att bekämpa störningar.", "Metoder för mätning av temperatur, tryck, nivå och flöde.", "Metoder och utrustning för att testa och kalibrera mätningar av till exempel temperatur, tryck, nivå och flöde.", "Metoder för mätning av varvtal och krafter.", "Signalmätmetoder på automatiserade processanläggningar i drift.", "Funktion och konstruktion hos olika pumpar, ventiler och filter.", "Planering och genomförande av enklare underhållsarbete i en processanläggning, till exempel montering och inkoppling av mätdon.", "Laborativa mätövningar med givare, omvandlare, signalomvandlare och smartgivare.", "Systematiserade dokumentationsmetoder.", "Standarder och föreskrifter inom området, till exempel ATEX-direktiven." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för uppbyggnad, funktion och principer hos olika mättekniska system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för uppbyggnad, funktion och principer hos olika mättekniska system.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för uppbyggnad, funktion och principer hos olika mättekniska system.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för uppbyggnad, funktion och principer hos olika mättekniska system."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för beteckningar och några mätmetoder för olika fysiska storheter och kemiska egenskaper.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för beteckningar och några mätmetoder för olika fysiska storheter och kemiska egenskaper.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för beteckningar och några mätmetoder för olika fysiska storheter och kemiska egenskaper.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för beteckningar och några mätmetoder för olika fysiska storheter och kemiska egenskaper."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare någon vanlig underhållsteknisk arbetsuppgift i en automatiserad processanläggning med ett resultat som på ett <strong>________</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare någon vanlig underhållsteknisk arbetsuppgift i en automatiserad processanläggning med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare någon vanlig underhållsteknisk arbetsuppgift i en automatiserad processanläggning med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare någon vanlig underhållsteknisk arbetsuppgift i en automatiserad processanläggning med ett resultat som på ett <strong>gott</strong> sätt uppfyller fastställda kvalitets- och miljökrav."
+        }
+      }, {
+        "text" : "Dessutom utför eleven i enkla automatiserade processanläggningar <strong>________</strong> mätningar av fysikaliska storheter och kemiska egenskaper.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven i enkla automatiserade processanläggningar <strong>enkla</strong> mätningar av fysikaliska storheter och kemiska egenskaper.",
+          "C" : "Dessutom utför eleven i enkla automatiserade processanläggningar mätningar av fysikaliska storheter och kemiska egenskaper.",
+          "A" : "Dessutom utför eleven i enkla automatiserade processanläggningar <strong>avancerade</strong> mätningar av fysikaliska storheter och kemiska egenskaper."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra.",
+          "C" : "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra.",
+          "A" : "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra."
+        }
+      }, {
+        "text" : "I arbetet beskriver eleven <strong>________</strong> processens mättekniska funktioner samt löser <strong>________</strong> mättekniska problem med hjälp av dokumentation, beräkningar, konfigureringar, mätinstrument och datorer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet beskriver eleven <strong>översiktligt</strong> processens mättekniska funktioner samt löser <strong>enkla</strong> mättekniska problem med hjälp av dokumentation, beräkningar, konfigureringar, mätinstrument och datorer.",
+          "C" : "I arbetet beskriver eleven <strong>utförligt</strong> processens mättekniska funktioner samt löser mättekniska problem med hjälp av dokumentation, beräkningar, konfigureringar, mätinstrument och datorer.",
+          "A" : "I arbetet beskriver eleven <strong>utförligt och nyanserat</strong> processens mättekniska funktioner samt löser <strong>avancerade</strong> mättekniska problem med hjälp av dokumentation, beräkningar, konfigureringar, mätinstrument och datorer."
+        }
+      }, {
+        "text" : "I arbetet hanterar och vårdar eleven med <strong>________</strong> handlag material, verktyg och övrig utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet hanterar och vårdar eleven med <strong>visst</strong> handlag material, verktyg och övrig utrustning.",
+          "C" : "I arbetet hanterar och vårdar eleven med <strong>gott</strong> handlag material, verktyg och övrig utrustning.",
+          "A" : "I arbetet hanterar och vårdar eleven med <strong>mycket gott</strong> handlag material, verktyg och övrig utrustning."
+        }
+      }, {
+        "text" : "Eleven beskriver <strong>________</strong> hur standarder och föreskrifter styr val av utrustning och arbetssätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur standarder och föreskrifter styr val av utrustning och arbetssätt.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur standarder och föreskrifter styr val av utrustning och arbetssätt.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur standarder och föreskrifter styr val av utrustning och arbetssätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Efter utfört arbete gör eleven en <strong>________</strong> dokumentation av utfört arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Efter utfört arbete gör eleven en <strong>enkel</strong> dokumentation av utfört arbete.",
+          "C" : "Efter utfört arbete gör eleven en <strong>noggrann</strong> dokumentation av utfört arbete.",
+          "A" : "Efter utfört arbete gör eleven en <strong>noggrann och utförlig</strong> dokumentation av utfört arbete."
+        }
+      }, {
+        "text" : "Eleven utvärderar sitt arbete med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar sitt arbete med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven utvärderar sitt arbete med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven utvärderar sitt arbete med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Processmätteknik 2",
+    "description" : "Kursen processmätteknik omfattar punkterna 1, 3–4 och 7–10 under rubriken Ämnets syfte.",
+    "code" : "PROPRC02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Persondatorer, plc eller liknande styrsystem som mätverktyg med omvandling av analoga signaler till digitala värden, upplösning och signalhantering.", "Metoder för mätning av viskositet, koncentration, pH, syre och konduktivitet.", "Metoder för gasanalys och mätning av partikelhalter.", "Metoder och utrustning för att testa och kalibrera mätningar av fysiska storheter och kemiska egenskaper.", "Planering och genomförande av underhållsarbete i en processanläggning.", "Laborativa mätövningar med givare, omvandlare, signalomvandlare och smartgivare.", "Systematiserade dokumentationsmetoder.", "Standarder och föreskrifter inom området.", "Processäkerhet och funktionssäkerhet enligt SIL-standard IEC 61508.", "Mätosäkerhetens grunder med tillämpning och beräkning enligt ISO-GUM-standard (guide to the expression of uncertainty in measurement)." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för uppbyggnad, funktion och principer hos olika mättekniska system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för uppbyggnad, funktion och principer hos olika mättekniska system.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för uppbyggnad, funktion och principer hos olika mättekniska system.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för uppbyggnad, funktion och principer hos olika mättekniska system."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för beteckningar och några mätmetoder för olika fysiska storheter och kemiska egenskaper.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för beteckningar och några mätmetoder för olika fysiska storheter och kemiska egenskaper.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för beteckningar och några mätmetoder för olika fysiska storheter och kemiska egenskaper.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för beteckningar och några mätmetoder för olika fysiska storheter och kemiska egenskaper."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare någon vanlig underhållsteknisk arbetsuppgift i en automatiserad processanläggning med ett resultat som på ett <strong>________</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare någon vanlig underhållsteknisk arbetsuppgift i en automatiserad processanläggning med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare någon vanlig underhållsteknisk arbetsuppgift i en automatiserad processanläggning med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare någon vanlig underhållsteknisk arbetsuppgift i en automatiserad processanläggning med ett resultat som på ett <strong>gott</strong> sätt uppfyller fastställda kvalitets- och miljökrav."
+        }
+      }, {
+        "text" : "Dessutom utför eleven i enkla automatiserade processanläggningar <strong>________</strong> mätningar av fysikaliska storheter och kemiska egenskaper.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven i enkla automatiserade processanläggningar <strong>enkla</strong> mätningar av fysikaliska storheter och kemiska egenskaper.",
+          "C" : "Dessutom utför eleven i enkla automatiserade processanläggningar mätningar av fysikaliska storheter och kemiska egenskaper.",
+          "A" : "Dessutom utför eleven i enkla automatiserade processanläggningar <strong>avancerade</strong> mätningar av fysikaliska storheter och kemiska egenskaper."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra.",
+          "C" : "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra.",
+          "A" : "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra."
+        }
+      }, {
+        "text" : "I arbetet beskriver eleven <strong>________</strong> processens mättekniska funktioner samt löser <strong>________</strong> mättekniska problem med hjälp av dokumentation, beräkningar, konfigureringar, mätinstrument och datorer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet beskriver eleven <strong>översiktligt</strong> processens mättekniska funktioner samt löser <strong>enkla</strong> mättekniska problem med hjälp av dokumentation, beräkningar, konfigureringar, mätinstrument och datorer.",
+          "C" : "I arbetet beskriver eleven <strong>utförligt</strong> processens mättekniska funktioner samt löser mättekniska problem med hjälp av dokumentation, beräkningar, konfigureringar, mätinstrument och datorer.",
+          "A" : "I arbetet beskriver eleven <strong>utförligt och nyanserat</strong> processens mättekniska funktioner samt löser <strong>avancerade</strong> mättekniska problem med hjälp av dokumentation, beräkningar, konfigureringar, mätinstrument och datorer."
+        }
+      }, {
+        "text" : "I arbetet hanterar och vårdar eleven med <strong>________</strong> handlag material, verktyg och övrig utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet hanterar och vårdar eleven med <strong>visst</strong> handlag material, verktyg och övrig utrustning.",
+          "C" : "I arbetet hanterar och vårdar eleven med <strong>gott</strong> handlag material, verktyg och övrig utrustning.",
+          "A" : "I arbetet hanterar och vårdar eleven med <strong>mycket gott</strong> handlag material, verktyg och övrig utrustning."
+        }
+      }, {
+        "text" : "Eleven beskriver <strong>________</strong> hur standarder och föreskrifter styr val av utrustning och arbetssätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur standarder och föreskrifter styr val av utrustning och arbetssätt.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur standarder och föreskrifter styr val av utrustning och arbetssätt.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur standarder och föreskrifter styr val av utrustning och arbetssätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Efter utfört arbete gör eleven en <strong>________</strong> dokumentation av arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Efter utfört arbete gör eleven en <strong>enkel</strong> dokumentation av arbetet.",
+          "C" : "Efter utfört arbete gör eleven en <strong>noggrann</strong> dokumentation av arbetet.",
+          "A" : "Efter utfört arbete gör eleven en <strong>noggrann och utförlig</strong> dokumentation av arbetet."
+        }
+      }, {
+        "text" : "Eleven utvärderar sitt arbete med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar sitt arbete med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven utvärderar sitt arbete med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven utvärderar sitt arbete med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Processreglering",
+    "description" : "Kursen processreglering omfattar punkterna 1–2, 5 och 8–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 2 och 5.",
+    "code" : "PROPRE0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Processreglering med distribuerade styrsystem.", "Kontinuerlig och diskontinuerlig reglering med tidsproportionell utgång.", "Reglering av flerkapacitiva processer.", "Sammansatta reglersystem med framkoppling, internt och externt börvärde samt kvot- och kaskadreglering.", "Multivariabla regleringar.", "Parameterstyrning och adaptiv parameteruppdatering.", "Reglering med oskarp logik (fuzzy logic).", "Störningar i reglerprocessen, innefattande störtendenskompensering.", "Laborativa konfigureringar av kontrollerande enheter och processanläggningar med optimeringsmetoder för process och parametrar.", "Tolkning av anläggningsteknisk dokumentation, till exempel processcheman, plintscheman, tabeller, datablad, manualer och certifikat.", "Dokumentation, till exempel regulatorinställningar.", "Signalmätmetoder på automatiserade processanläggningar i drift.", "Säkerhets-, energiförbruknings- och miljöaspekter vid processreglering, inklusive riskanalys, energioptimering och minimering av kemiska föroreningar.", "Standarder och föreskrifter inom området, till exempel ATEX-direktiven." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för uppbyggnad, funktion och principer för distribuerade styrsystem och olika reglertekniska systemlösningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för uppbyggnad, funktion och principer för distribuerade styrsystem och olika reglertekniska systemlösningar.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för uppbyggnad, funktion och principer för distribuerade styrsystem och olika reglertekniska systemlösningar.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för uppbyggnad, funktion och principer för distribuerade styrsystem och olika reglertekniska systemlösningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare vanligt förekommande konfigureringar och optimeringar i olika reglertekniska processer med ett resultat som på ett <strong>________</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare vanligt förekommande konfigureringar och optimeringar i olika reglertekniska processer med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare vanligt förekommande konfigureringar och optimeringar i olika reglertekniska processer med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare vanligt förekommande konfigureringar och optimeringar i olika reglertekniska processer med ett resultat som på ett <strong>gott</strong> sätt uppfyller fastställda kvalitets- och miljökrav."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra.",
+          "C" : "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra.",
+          "A" : "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra."
+        }
+      }, {
+        "text" : "I arbetet hanterar och vårdar eleven med <strong>________</strong> handlag material, verktyg och övrig utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet hanterar och vårdar eleven med <strong>visst</strong> handlag material, verktyg och övrig utrustning.",
+          "C" : "I arbetet hanterar och vårdar eleven med <strong>gott</strong> handlag material, verktyg och övrig utrustning.",
+          "A" : "I arbetet hanterar och vårdar eleven med <strong>mycket gott</strong> handlag material, verktyg och övrig utrustning."
+        }
+      }, {
+        "text" : "Eleven beskriver <strong>________</strong> hur standarder och föreskrifter styr val av utrustning och arbetssätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur standarder och föreskrifter styr val av utrustning och arbetssätt.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur standarder och föreskrifter styr val av utrustning och arbetssätt.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur standarder och föreskrifter styr val av utrustning och arbetssätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Efter utfört arbete gör eleven en <strong>________</strong> dokumentation av utfört arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Efter utfört arbete gör eleven en <strong>enkel</strong> dokumentation av utfört arbete.",
+          "C" : "Efter utfört arbete gör eleven en <strong>noggrann</strong> dokumentation av utfört arbete.",
+          "A" : "Efter utfört arbete gör eleven en <strong>noggrann och utförlig</strong> dokumentation av utfört arbete."
+        }
+      }, {
+        "text" : "Eleven utvärderar sitt arbete med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar sitt arbete med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven utvärderar sitt arbete med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven utvärderar sitt arbete med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

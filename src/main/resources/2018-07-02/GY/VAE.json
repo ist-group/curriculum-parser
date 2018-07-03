@@ -1,0 +1,395 @@
+{
+  "name" : "Vattenkraftteknik",
+  "description" : "Ämnet vattenkraftteknik behandlar uppbyggnad av och funktion hos vattenkraftstationer. Ämnet behandlar hur drift och underhåll utförs med avseende på miljö, ekonomi, kvalitet och säkerhet.",
+  "code" : "VAE",
+  "designation" : "",
+  "skolfsId" : "2010:166",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet vattenkraftteknik ska syfta till att eleverna utvecklar kunskaper om uppbyggnad av och funktion hos vattenkraftstationer och deras huvudkomponenter samt förmåga att lösa problem som gäller drift, underhåll och service.", "Undervisningen ska leda till att eleverna ges möjlighet att utveckla förståelse av underhållets betydelse i en vattenkraftanläggning för att den ska kunna drivas på ett optimalt sätt.", "I undervisningen ska eleverna även ges möjlighet att utveckla kunskaper för att kritiskt granska den miljödebatt som pågår i samband med vattenkraftutbyggnad." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska experiment, laborationer och ett undersökande arbetssätt förekomma.", "I praktiska övningar ska eleverna ges möjlighet att utveckla tekniska kunskaper samt förmåga att använda teknisk utrustning." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet vattenkraftteknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om olika vattenkraftstationers funktion och huvudkomponenter. Det innebär kunskaper om huvudprocessen och de delprocesser som krävs för att möjliggöra produktion, transformation och överföring av elektrisk energi.", "Kunskaper om hur en vattenkraftstation drivs.", "Förståelse av vattenkraftens inverkan på miljön globalt och nationellt samt av de åtgärder som vidtas och kan vidtas i miljöskyddande syfte.", "Förmåga att utföra optimerat underhåll och optimerad drift samt att göra störningsanalyser för att vidta relevanta åtgärder vid störning.", "Färdigheter i att felsöka och reparera.", "Förmåga att arbeta på ett elsäkert och personsäkert sätt.", "Kunskaper om avställning av en vattenkraftstations vattenvägar.", "Förmåga att samverka med andra och använda fackspråk samt att dokumentera och utvärdera arbetet." ]
+  } ],
+  "courses" : [ {
+    "name" : "Drift, underhåll, säkerhet och miljö",
+    "description" : "Kursen drift, underhåll, säkerhet och miljö omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "VAEDRT0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Vattenkraftutbyggnadens miljöpåverkan samt de miljöfrämjande åtgärder som kraftföretagen vidtar.", "Kraftindustrins miljöpåverkan globalt.", "Underhåll av vattenkraftstationers huvudkomponenter enligt gällande rutiner.", "Drift och underhåll av alla huvudkomponenter i en vattenkraftstation.", "Driftåtgärder vid normal drift och driftåtgärder vid störningar i driften.", "Elsäkerhetsanvisningar (ESA) vars huvudsakliga syfte är att skydda personer från skada orsakad av elektrisk ström.", "Säkerhetsanvisningar för arbete i och invid kraftstationers och vattenmagasins vattenvägar.", "Dammsäkerhet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> vattenkraftstationens huvudkomponenter och deras funktion dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> vattenkraftstationens huvudkomponenter och deras funktion dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> vattenkraftstationens huvudkomponenter och deras funktion dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> vattenkraftstationens huvudkomponenter och deras funktion dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig."
+        }
+      }, {
+        "text" : "I beskrivningen gör eleven <strong>________</strong> kopplingar till relevanta fysikaliska principer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningen gör eleven <strong>enkla</strong> kopplingar till relevanta fysikaliska principer.",
+          "C" : "I beskrivningen gör eleven <strong>välgrundade</strong> kopplingar till relevanta fysikaliska principer.",
+          "A" : "I beskrivningen gör eleven <strong>välgrundade och nyanserade</strong> kopplingar till relevanta fysikaliska principer."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för vattenkraftens inverkan på miljön nationellt och internationellt samt för de åtgärder som vidtas och kan vidtas i miljöskyddande syfte.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för vattenkraftens inverkan på miljön nationellt och internationellt samt för de åtgärder som vidtas och kan vidtas i miljöskyddande syfte.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för vattenkraftens inverkan på miljön nationellt och internationellt samt för de åtgärder som vidtas och kan vidtas i miljöskyddande syfte.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för vattenkraftens inverkan på miljön nationellt och internationellt samt för de åtgärder som vidtas och kan vidtas i miljöskyddande syfte."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför på ett elsäkert och personsäkert sätt <strong>________</strong> arbete för normal drift och utför <strong>________</strong> med handledare driftåtgärder för upprätthållande av driften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför på ett elsäkert och personsäkert sätt <strong>enkelt</strong> arbete för normal drift och utför <strong>i samråd</strong> med handledare driftåtgärder för upprätthållande av driften.",
+          "C" : "Eleven utför på elsäkert och personsäkert sätt arbete för normal drift och utför <strong>efter samråd</strong> med handledare driftåtgärder för upprätthållande av driften.",
+          "A" : "Eleven utför på elsäkert och personsäkert sätt <strong>avancerat</strong> arbete för normal drift och utför <strong>efter samråd</strong> med handledare driftåtgärder för upprätthållande av driften."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare optimerat underhåll och optimerad drift.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare optimerat underhåll och optimerad drift.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare optimerat underhåll och optimerad drift.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare optimerat underhåll och optimerad drift."
+        }
+      }, {
+        "text" : "Eleven utför även <strong>________</strong> störningsanalyser för att vidta relevanta åtgärder vid störning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför även <strong>enkla</strong> störningsanalyser för att vidta relevanta åtgärder vid störning.",
+          "C" : "Eleven utför även störningsanalyser för att vidta relevanta åtgärder vid störning.",
+          "A" : "Eleven utför även <strong>avancerade</strong> störningsanalyser för att vidta relevanta åtgärder vid störning."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> utrustningen på ett riktigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustningen på ett riktigt sätt.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustningen på ett riktigt sätt.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> utrustningen på ett riktigt sätt."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven problem som uppkommer och löser dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven problem som uppkommer och löser dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "I arbetet samverkar och kommunicerar eleven på ett ansvarsfullt sätt med andra samt använder ett <strong>________</strong> fackspråk som fungerar för arbetsuppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet samverkar och kommunicerar eleven på ett ansvarsfullt sätt med andra samt använder ett <strong>enkelt</strong> fackspråk som fungerar för arbetsuppgiften.",
+          "C" : "I arbetet samverkar och kommunicerar eleven på ett ansvarsfullt sätt med andra samt använder ett fackspråk som fungerar för arbetsuppgiften.",
+          "A" : "I arbetet samverkar och kommunicerar eleven på ett ansvarsfullt sätt med andra samt använder ett <strong>nyanserat</strong> fackspråk som fungerar för arbetsuppgiften."
+        }
+      }, {
+        "text" : "Eleven gör en <strong>________</strong> dokumentation av sitt arbete samt utvärderar det med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete samt utvärderar det med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete samt utvärderar det med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete samt utvärderar det med <strong>nyanserade</strong> omdömen. <strong>Dessutom ger eleven förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Generatorer och transformatorer",
+    "description" : "Kursen generatorer och transformatorer omfattar punkterna 1, 5–6 och 8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "VAEGEN0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Trefassynkrongeneratorns konstruktion och verkningssätt.", "Trefassynkrongeneratorns kringutrustningar.", "Trefastransformatorns konstruktion och verkningssätt.", "Trefastransformatorns kringutrustningar.", "Elmotorers funktion och användning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> generatorer och transformatorer samt deras funktion, dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> generatorer och transformatorer samt deras funktion, dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> generatorer och transformatorer samt deras funktion, dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> generatorer och transformatorer samt deras funktion, dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig."
+        }
+      }, {
+        "text" : "I beskrivningen gör eleven <strong>________</strong> kopplingar till relevanta fysikaliska principer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningen gör eleven <strong>enkla</strong> kopplingar till relevanta fysikaliska principer.",
+          "C" : "I beskrivningen gör eleven <strong>välgrundade</strong> kopplingar till relevanta fysikaliska principer.",
+          "A" : "I beskrivningen gör eleven <strong>välgrundade och nyanserade</strong> kopplingar till relevanta fysikaliska principer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför på ett elsäkert och personsäkert sätt <strong>________</strong> arbete med generatorer och transformatorer i en vattenkraftstation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför på ett elsäkert och personsäkert sätt <strong>enkelt</strong> arbete med generatorer och transformatorer i en vattenkraftstation.",
+          "C" : "Eleven utför på ett elsäkert och personsäkert sätt arbete med generatorer och transformatorer i en vattenkraftstation.",
+          "A" : "Eleven utför på ett elsäkert och personsäkert sätt <strong>avancerat</strong> arbete med generatorer och transformatorer i en vattenkraftstation."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> utrustningen på ett riktigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustningen på ett riktigt sätt.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustningen på ett riktigt sätt.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> utrustningen på ett riktigt sätt."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven problem som uppkommer och löser dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven problem som uppkommer och löser dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "I arbetet samverkar och kommunicerar eleven på ett ansvarsfullt sätt med andra samt använder ett <strong>________</strong> fackspråk som fungerar för arbetsuppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet samverkar och kommunicerar eleven på ett ansvarsfullt sätt med andra samt använder ett <strong>enkelt</strong> fackspråk som fungerar för arbetsuppgiften.",
+          "C" : "I arbetet samverkar och kommunicerar eleven på ett ansvarsfullt sätt med andra samt använder ett fackspråk som fungerar för arbetsuppgiften.",
+          "A" : "I arbetet samverkar och kommunicerar eleven på ett ansvarsfullt sätt med andra samt använder ett <strong>nyanserat</strong> fackspråk som fungerar för arbetsuppgiften."
+        }
+      }, {
+        "text" : "Eleven gör en <strong>________</strong> dokumentation av sitt arbete samt utvärderar det med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete samt utvärderar det med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete samt utvärderar det med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete samt utvärderar det med <strong>nyanserade</strong> omdömen. <strong>Dessutom ger eleven förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Hydraulik, kraftstationshydraulik och turbiner",
+    "description" : "Kursen hydraulik, kraftstationshydraulik och turbiner omfattar punkterna 1–2, 6 och 10 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "VAEHYD0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Hydraulikkomponenters funktion och användning.", "Olika turbinmodellers uppbyggnad och funktion.", "Kraftstationshydraulik och turbinreglering.", "Uppbyggnad och funktion av vattenkraftstationers olika glidlager och tätningsboxar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> vattenkraftstationens hydralikkomponenter och turbiner samt deras funktion, dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> vattenkraftstationens hydralikkomponenter och turbiner samt deras funktion, dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> vattenkraftstationens hydralikkomponenter och turbiner samt deras funktion, dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> vattenkraftstationens hydralikkomponenter och turbiner samt deras funktion, dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig."
+        }
+      }, {
+        "text" : "I beskrivningen gör eleven <strong>________</strong> kopplingar till relevanta fysikaliska principer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningen gör eleven <strong>enkla</strong> kopplingar till relevanta fysikaliska principer.",
+          "C" : "I beskrivningen gör eleven <strong>välgrundade</strong> kopplingar till relevanta fysikaliska principer.",
+          "A" : "I beskrivningen gör eleven <strong>välgrundade och nyanserade</strong> kopplingar till relevanta fysikaliska principer."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hur en vattenkraftstation drivs.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hur en vattenkraftstation drivs.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hur en vattenkraftstation drivs.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur en vattenkraftstation drivs."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför på ett elsäkert och personsäkert sätt <strong>________</strong> arbete med turbiner och hydralikkomponenter i en vattenkraftstation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför på ett elsäkert och personsäkert sätt <strong>enkelt</strong> arbete med turbiner och hydralikkomponenter i en vattenkraftstation.",
+          "C" : "Eleven utför på ett elsäkert och personsäkert sätt arbete med turbiner och hydralikkomponenter i en vattenkraftstation.",
+          "A" : "Eleven utför på ett elsäkert och personsäkert sätt <strong>avancerat</strong> arbete med turbiner och hydralikkomponenter i en vattenkraftstation."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> utrustningen på ett riktigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustningen på ett riktigt sätt.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustningen på ett riktigt sätt.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> utrustningen på ett riktigt sätt."
+        }
+      }, {
+        "text" : "I arbetet samverkar och kommunicerar eleven på ett ansvarsfullt sätt med andra samt använder ett <strong>________</strong> fackspråk som fungerar för arbetsuppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet samverkar och kommunicerar eleven på ett ansvarsfullt sätt med andra samt använder ett <strong>enkelt</strong> fackspråk som fungerar för arbetsuppgiften.",
+          "C" : "I arbetet samverkar och kommunicerar eleven på ett ansvarsfullt sätt med andra samt använder ett fackspråk som fungerar för arbetsuppgiften.",
+          "A" : "I arbetet samverkar och kommunicerar eleven på ett ansvarsfullt sätt med andra samt använder ett <strong>nyanserat</strong> fackspråk som fungerar för arbetsuppgiften."
+        }
+      }, {
+        "text" : "Eleven gör en <strong>________</strong> dokumentation av sitt arbete samt utvärderar det med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete samt utvärderar det med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete samt utvärderar det med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete samt utvärderar det med <strong>nyanserade</strong> omdömen. <strong>Dessutom ger eleven förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Kontrollanläggningar",
+    "description" : "Kursen kontrollanläggningar omfattar punkterna 1–2 och 4–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "VAEKOR0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Kontrollanläggningsscheman med tillhörande tabeller.", "Mätning för kontroll och övervakning.", "Enklare störningsanalyser.", "Felsökning i kontrollanläggning.", "Start- och stoppautomatikens funktion.", "Reläskyddsfilosofi och dess praktiska tillämpning.", "Lokalkraft- och reservkraftssystem." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> vattenkraftstationens kontrollanläggningar samt deras funktion, dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> vattenkraftstationens kontrollanläggningar samt deras funktion, dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> vattenkraftstationens kontrollanläggningar samt deras funktion, dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> vattenkraftstationens kontrollanläggningar samt deras funktion, dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig."
+        }
+      }, {
+        "text" : "I beskrivningen gör eleven <strong>________</strong> kopplingar till relevanta fysikaliska principer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningen gör eleven <strong>enkla</strong> kopplingar till relevanta fysikaliska principer.",
+          "C" : "I beskrivningen gör eleven <strong>välgrundade</strong> kopplingar till relevanta fysikaliska principer.",
+          "A" : "I beskrivningen gör eleven <strong>välgrundade och nyanserade</strong> kopplingar till relevanta fysikaliska principer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför på ett elsäkert och personsäkert sätt <strong>________</strong> arbete med turbiner och hydralikkomponenter i en vattenkraftstation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför på ett elsäkert och personsäkert sätt <strong>enkelt</strong> arbete med turbiner och hydralikkomponenter i en vattenkraftstation.",
+          "C" : "Eleven utför på ett elsäkert och personsäkert sätt arbete med turbiner och hydralikkomponenter i en vattenkraftstation.",
+          "A" : "Eleven utför på ett elsäkert och personsäkert sätt <strong>avancerat</strong> arbete med turbiner och hydralikkomponenter i en vattenkraftstation."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> utrustningen på ett riktigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustningen på ett riktigt sätt.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustningen på ett riktigt sätt.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> utrustningen på ett riktigt sätt."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker eleven problem som uppkommer och löser dem <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker eleven problem som uppkommer och löser dem <strong>i samråd</strong> med handledare.",
+          "C" : "Under arbetet upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare.",
+          "A" : "Under arbetet upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "I arbetet samverkar och kommunicerar eleven på ett ansvarsfullt sätt med andra samt använder ett <strong>________</strong> fackspråk som fungerar för arbetsuppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet samverkar och kommunicerar eleven på ett ansvarsfullt sätt med andra samt använder ett <strong>enkelt</strong> fackspråk som fungerar för arbetsuppgiften.",
+          "C" : "I arbetet samverkar och kommunicerar eleven på ett ansvarsfullt sätt med andra samt använder ett fackspråk som fungerar för arbetsuppgiften.",
+          "A" : "I arbetet samverkar och kommunicerar eleven på ett ansvarsfullt sätt med andra samt använder ett <strong>nyanserat</strong> fackspråk som fungerar för arbetsuppgiften."
+        }
+      }, {
+        "text" : "Eleven gör en <strong>________</strong> dokumentation av sitt arbete samt utvärderar det med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete samt utvärderar det med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete samt utvärderar det med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete samt utvärderar det med <strong>nyanserade</strong> omdömen. <strong>Dessutom ger eleven förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Vattenkraftstationer",
+    "description" : "Kursen vattenkraftstationer omfattar punkterna 1, 6 och 8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "VAEVAN0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Vattenkraftstationers uppbyggnad, vilka faktorer som styr en vattenkraftstations utformning samt vattenkraftstationens funktion avseende energiomvandling till elkraftproduktion.", "Vattenkraftstationers huvudkomponenter, till exempel vattenmagasin, dammar, vattenvägar, turbiner, generatorer, transformatorer och ställverk.", "Kraftöverföringssystemets uppbyggnad och funktion." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> vattenkraftstationens huvudkomponenter och deras funktion dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> vattenkraftstationens huvudkomponenter och deras funktion dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> vattenkraftstationens huvudkomponenter och deras funktion dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> vattenkraftstationens huvudkomponenter och deras funktion dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig."
+        }
+      }, {
+        "text" : "I beskrivningen gör eleven <strong>________</strong> kopplingar till relevanta fysikaliska principer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningen gör eleven <strong>enkla</strong> kopplingar till relevanta fysikaliska principer.",
+          "C" : "I beskrivningen gör eleven <strong>välgrundade</strong> kopplingar till relevanta fysikaliska principer.",
+          "A" : "I beskrivningen gör eleven <strong>välgrundade och nyanserade</strong> kopplingar till relevanta fysikaliska principer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför på ett elsäkert och personsäkert sätt <strong>________</strong> arbete i en vattenkraftstation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför på ett elsäkert och personsäkert sätt <strong>enkelt</strong> arbete i en vattenkraftstation.",
+          "C" : "Eleven utför på ett elsäkert och personsäkert sätt arbete i en vattenkraftstation.",
+          "A" : "Eleven utför på ett elsäkert och personsäkert sätt <strong>komplext</strong> arbete i en vattenkraftstation."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> utrustningen på ett riktigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustningen på ett riktigt sätt.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustningen på ett riktigt sätt.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> utrustningen på ett riktigt sätt."
+        }
+      }, {
+        "text" : "Dessutom samarbetar och kommunicerar eleven på ett ansvarsfullt sätt med andra för att lösa arbetsuppgiften samt använder ett <strong>________</strong> fackspråk som fungerar för arbetsuppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom samarbetar och kommunicerar eleven på ett ansvarsfullt sätt med andra för att lösa arbetsuppgiften samt använder ett <strong>enkelt</strong> fackspråk som fungerar för arbetsuppgiften.",
+          "C" : "Dessutom samarbetar och kommunicerar eleven på ett ansvarsfullt sätt med andra för att lösa arbetsuppgiften samt använder ett fackspråk som fungerar för arbetsuppgiften.",
+          "A" : "Dessutom samarbetar och kommunicerar eleven på ett ansvarsfullt sätt med andra för att lösa arbetsuppgiften samt använder ett <strong>nyanserat</strong> fackspråk som fungerar för arbetsuppgiften."
+        }
+      }, {
+        "text" : "Eleven gör en <strong>________</strong> dokumentation av sitt arbete samt utvärderar det med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete samt utvärderar det med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete samt utvärderar det med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete samt utvärderar det med <strong>nyanserade</strong> omdömen. <strong>Dessutom ger eleven förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

@@ -1,0 +1,74 @@
+{
+  "name" : "Estetisk verksamhet",
+  "description" : "Ämnet estetisk verksamhet behandlar olika estetiska uttrycksformer och hur de kan användas för att förmedla tankar, idéer och känslor. I ämnet ingår skapande verksamhet samt kunskaper om olika verksamheter inom det kulturella och estetiska området.",
+  "code" : "ESS",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet estetisk verksamhet ska syfta till att eleverna utvecklar kunskaper om olika estetiska uttrycksformer, samt förmåga att kommunicera och samverka med andra genom att skapa i olika uttrycksformer.", "Genom att arbeta med bland annat bild, dans, musik och drama i undervisningen ska eleverna ges möjlighet att bearbeta egna intryck samt utveckla kreativitet, nyfikenhet och skapande förmåga." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om estetiska uttrycksformer genom historien samt om det nutida samhällets kulturutbud.", "På så sätt ska undervisningen bidra till att eleverna utvecklar förmåga att diskutera och tolka olika former av estetiska uttryck." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska också leda till att eleverna utvecklar kunskaper om estetikens olika betydelser för individen och samhället.", "Genom undervisningen ska eleverna även ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser inom området." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att arbeta med olika former av egen skapande verksamhet för att därigenom kunna söka olika vägar för att kommunicera.", "Undervisningen ska också bidra till att eleverna ges möjlighet att uppleva och utveckla ett intresse för samhällets kulturutbud." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet estetisk verksamhet ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förmåga att genom eget skapande kommunicera tankar, idéer och känslor.", "Förmåga att tolka olika estetiska uttryck från skilda tidsperioder.", "Kunskaper om estetiska och kulturella verksamheter i samhället." ]
+  } ],
+  "courses" : [ {
+    "name" : "Estetisk verksamhet",
+    "description" : "Kursen estetisk verksamhet omfattar punkterna 1–3 under rubriken Ämnets syfte.",
+    "code" : "ESSEST5",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika estetiska uttrycksformer, till exempel dans, bild, musik och drama.", "Arbetsgången i den skapande processen, från idé till färdig gestaltning.", "Några stilar och genrer inom nutida och historiska estetiska uttrycksformer och vad som kännetecknar dessa, till exempel balett, kubism och hårdrock.", "Centrala begrepp som används inom de estetiska uttrycksformerna, till exempel scenografi, akvarell och orkester.", "De estetiska uttrycksformernas betydelse för människor i olika sammanhang.", "Kulturverksamheter i närområdet, till exempel biografer och konstutställningar. Estetiska uttryck i det offentliga rummet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att framställa estetiska uttryck som kommunicerar tankar, idéer och känslor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att framställa estetiska uttryck som kommunicerar tankar, idéer och känslor.",
+          "C" : "Eleven framställer <strong>på ett enkelt och delvis genomarbetat sätt</strong> estetiska uttryck som kommunicerar tankar, idéer och känslor.",
+          "A" : "Eleven framställer <strong>på ett utvecklat och genomarbetat sätt</strong> estetiska uttryck som kommunicerar tankar, idéer och känslor."
+        }
+      }, {
+        "text" : "I arbetet <strong>________</strong> eleven i att använda tekniker, metoder och uttrycksmedel.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet <strong>medverkar</strong> eleven i att använda tekniker, metoder och uttrycksmedel.",
+          "C" : "I arbetet använder eleven tekniker, metoder och uttrycksmedel <strong>på ett delvis ändamålsenligt sätt</strong>.",
+          "A" : "I arbetet använder eleven tekniker, metoder och uttrycksmedel <strong>på ett ändamålsenligt sätt</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att tolka och beskriva estetiska uttryck från olika tider.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att tolka och beskriva estetiska uttryck från olika tider.",
+          "C" : "Eleven tolkar och beskriver <strong>på ett enkelt sätt</strong> estetiska uttryck från olika tider.",
+          "A" : "Eleven tolkar och beskriver <strong>på ett utvecklat sätt</strong> estetiska uttryck från olika tider."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att beskriva några estetiska och kulturella verksamheter i samhället.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att beskriva några estetiska och kulturella verksamheter i samhället.",
+          "C" : "Eleven beskriver också <strong>på ett enkelt sätt</strong> några estetiska och kulturella verksamheter i samhället.",
+          "A" : "Eleven beskriver också <strong>på ett utvecklat sätt</strong> några estetiska och kulturella verksamheter i samhället."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

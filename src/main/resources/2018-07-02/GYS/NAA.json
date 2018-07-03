@@ -1,0 +1,76 @@
+{
+  "name" : "Naturbruk",
+  "description" : "Ämnet naturbruk behandlar naturbrukets olika yrkesområden. Naturbruk omfattar verksamheter för produktion av varor och tjänster. Ämnet är en orientering inom naturbrukets olika yrkesområden. Centralt i ämnet är arbetsmiljö och säkerhet samt hur naturen kan brukas på ett resurssnålt och hållbart sätt.",
+  "code" : "NAA",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet naturbruk ska syfta till att eleverna utvecklar kunskaper om naturbrukets olika yrkesområden och arbetsmiljöer samt om produkter och tjänster inom området.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om naturbrukets betydelse för livsmedelsförsörjning, produktion av råvaror av olika slag samt för natur- och landskapsvård.", "Undervisningen ska också bidra till att eleverna utvecklar kunskaper om återvinningens och avfallshanteringens betydelse för en hållbar utveckling.", "Undervisningen ska leda till att eleverna utvecklar förståelse för vad det innebär att arbeta inom naturbruk samt förståelse för vad naturbrukets produktion av varor och tjänster betyder i samhället.", "Vidare ska undervisningen leda till att eleverna utvecklar förståelse av hur naturresurser används inom naturbruk." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om arbetsmiljö och säkerhet inom naturbrukets olika områden.", "Undervisningen ska bidra till att eleverna utvecklar kunskaper om lagar och andra bestämmelser.", "Vidare ska eleverna ges möjlighet att utveckla förmåga att utföra arbetsuppgifter och använda redskap och annan teknisk utrustning.", "Undervisningen ska leda till att eleverna ges möjlighet att utveckla förmåga att utföra arbetsuppgifter på ett ansvarsfullt och säkert sätt och med hänsyn till miljön." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Fältstudier inom naturbrukets olika arbetsmiljöer ska ingå i undervisningen.", "Undervisningen ska omfatta praktiska arbetsuppgifter inom naturbruket.", "Eleverna ska ges möjlighet att reflektera över och samtala om säkerhet, arbetsmiljö, miljöhänsyn samt hållbar utveckling.", "Eleverna ska också ges möjlighet att samtala om brand- och elsäkerhet." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet naturbruk ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om olika yrkesområden och arbetsmiljöer inom naturbruket.", "Kunskaper om naturbrukets produkter och tjänster.", "Förmåga att utföra arbetsuppgifter inom naturbruket på ett säkert sätt och med hänsyn till miljön.", "Förståelse av hur naturresurser används inom naturbruket och hur naturbruket kan bidra till en hållbar utveckling." ]
+  } ],
+  "courses" : [ {
+    "name" : "Naturbruk",
+    "description" : "Kursen naturbruk omfattar punkterna 1–4 under rubriken Ämnets syfte.",
+    "code" : "NAANAT5",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Naturbrukets verksamhetsområden",
+      "lines" : [ "Naturbrukets olika yrkesområden och arbetsmiljöer, till exempel inom lantbruk, skogsbruk och trädgård.", "Produkter och tjänster inom naturbruk, till exempel livsmedel, träråvaror och olika former av naturupplevelser.", "Miljöhänsyn inom naturbruk, till exempel i samband med gödselhantering, växtnäringstillförsel och maskinanvändning.", "Naturbrukets användning av naturresurser samt naturbruket som resurs för en hållbar utveckling." ]
+    }, {
+      "heading" : "Arbetsuppgifter",
+      "lines" : [ "Arbetsuppgifter inom naturbruk samt val och användning av redskap och annan teknisk utrustning.", "Funktions- och säkerhetskontroll i samband med användning av teknisk utrustning.", "Underhåll av redskap och annan teknisk utrustning.", "Återvinning och avfallshantering." ]
+    }, {
+      "heading" : "Arbetsmiljö och säkerhet",
+      "lines" : [ "Lagar och andra bestämmelser inom arbetsmiljö och säkerhet.", "Brandskydd, elsäkerhet och första hjälpen." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva olika yrkesområden och arbetsmiljöer inom naturbruket.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva olika yrkesområden och arbetsmiljöer inom naturbruket.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> olika yrkesområden och arbetsmiljöer inom naturbruket.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> olika yrkesområden och arbetsmiljöer inom naturbruket."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att ge exempel på varor och tjänster som produceras inom naturbruket.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att ge exempel på varor och tjänster som produceras inom naturbruket.",
+          "C" : "Eleven ger <strong>något</strong> exempel på varor och tjänster som produceras inom naturbruket.",
+          "A" : "Eleven ger <strong>några</strong> exempel på varor och tjänster som produceras inom naturbruket."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att utföra arbetsmoment inom naturbruk på ett säkert sätt och med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att utföra arbetsmoment inom naturbruk på ett säkert sätt och med hänsyn till miljön.",
+          "C" : "Eleven utför arbetsmoment inom naturbruk på ett säkert sätt och med hänsyn till miljön.",
+          "A" : "Eleven utför arbetsmoment inom naturbruk på ett säkert sätt och med hänsyn till miljön."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att förklara hur man inom naturbruket kan främja hållbar utveckling.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att förklara hur man inom naturbruket kan främja hållbar utveckling.",
+          "C" : "Eleven förklarar <strong>på ett enkelt sätt</strong> hur man inom naturbruket kan främja hållbar utveckling.",
+          "A" : "Eleven förklarar <strong>på ett utvecklat sätt</strong> hur man inom naturbruket kan främja hållbar utveckling."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  } ]
+}

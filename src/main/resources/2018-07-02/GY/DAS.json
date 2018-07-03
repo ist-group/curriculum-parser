@@ -1,0 +1,112 @@
+{
+  "name" : "Dansorientering",
+  "description" : "Dans delas traditionellt sett in i olika typer av dans, beroende på vilka funktioner den har i samhället. På så sätt har scenisk dans, social dans, folkdans och tävlingsdans uppstått. Tradition, förnyelse, identitet och val av livsstil tänjer dock på danstypernas gränser. I ämnet dansorientering läggs grunden för ett danskunnande oavsett danstyp.",
+  "code" : "DAS",
+  "designation" : "",
+  "skolfsId" : "2010:173",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet dansorientering ska syfta till att eleverna utvecklar färdigheter i en eller flera dansformer och kunskaper om hur rörelser, rörelsekvaliteter, rum och musik används i dansformen eller dansformerna.", "Eleverna ska också ges möjlighet att utveckla sina kunskaper om musik genom träningen i dans." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar kunskaper om hur dans i olika sammanhang används för att skapa tillhörighet och hur dansen är en del av ett identitetsskapande." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om dans i olika medier och sammanhang.", "Dans är en del av vårt kulturella uttryck och förmedlar kulturella värderingar.", "Eleverna ska därför ges möjlighet att utveckla förmåga att kritiskt granska, tolka och analysera dans i förhållande till kulturella värderingar.", "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om hur dans och synen på kropp, genus, etnicitet och nationalitet speglas i olika typer av dansformer och framträder i olika medier." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Dans är ett levande kroppsligt uttryck och som sådant skapar det sinnesintryck.", "Eleverna ska därför ges möjlighet att utveckla dessa sinnesintryck genom att uppleva, analysera och tolka dans." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet dansorientering ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förmåga att utföra dans inom en eller flera dansformer utifrån dansformens estetiska ideal.", "Kunskaper om olika danstyper och deras kulturella bakgrund samt om dans som kulturellt uttryck.", "Förmåga att tolka och analysera dans i relation till kropp, genus, etnicitet och nationalitet beroende på i vilka medier och sammanhang dansen finns.", "Kunskaper om begrepp och vokabulär inom området." ]
+  } ],
+  "courses" : [ {
+    "name" : "Dansorientering",
+    "description" : "Kursen dansorientering omfattar punkterna 1–4 under rubriken Ämnets syfte.",
+    "code" : "DASDAO0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Färdighetsträning i en eller flera dansformer. Dansformernas estetiska ideal när det gäller rörelser, rörelsekvaliteter, användning av rum och musik samt relationen till meddansare. En eller flera dansformers sociala eller kulturella sammanhang.", "Olika danstyper, deras kännetecken och kulturella bakgrund. Dans som levande kroppsligt uttryck. Dans och dansande i olika sammanhang med exempel från olika kulturer samt dansens olika funktioner.", "Dans som uttryck för kulturella värderingar. Dans i relation till synen på kropp, genus, etnicitet och nationalitet. Kulturella värderingar av dans i olika medier.", "Begrepp, till exempel stil och vokabulär. Begrepp som används när dans delas in i olika typer och som tillämpas inom de olika dansformerna." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför en eller flera dansformer med <strong>________</strong> teknisk kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför en eller flera dansformer med <strong>tillfredsställande</strong> teknisk kvalitet.",
+          "C" : "Eleven utför en eller flera dansformer med <strong>god</strong> teknisk kvalitet <strong>och tillfredsställande estetisk kvalitet</strong>.",
+          "A" : "Eleven utför en eller flera dansformer med <strong>god</strong> teknisk <strong>och estetisk</strong> kvalitet."
+        }
+      }, {
+        "text" : "I utförandet använder eleven <strong>________</strong> rörelser, rörelsekvaliteter, rummet och musiken i enlighet med dansformens estetiska ideal.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I utförandet använder eleven <strong>med viss säkerhet</strong> rörelser, rörelsekvaliteter, rummet och musiken i enlighet med dansformens estetiska ideal.",
+          "C" : "I utförandet använder eleven <strong>med säkerhet</strong> rörelser, rörelsekvaliteter, rummet och musiken i enlighet med dansformens estetiska ideal.",
+          "A" : "I utförandet använder eleven <strong>med säkerhet</strong> rörelser, rörelsekvaliteter, rummet och musiken i enlighet med dansformens estetiska ideal."
+        }
+      }, {
+        "text" : "Dessutom förhåller eleven sig till meddansare på ett <strong>________</strong> korrekt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom förhåller eleven sig till meddansare på ett <strong>i huvudsak</strong> korrekt sätt.",
+          "C" : "Dessutom förhåller eleven sig till meddansare på ett korrekt sätt.",
+          "A" : "Dessutom förhåller eleven sig till meddansare på ett korrekt sätt."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i vilket socialt och kulturellt sammanhang dansen ingår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>redogör också översiktligt för olika dansideal samt</strong> i vilket socialt och kulturellt sammanhang dansen ingår.",
+          "C" : "Eleven <strong>redogör också utförligt för likheter och skillnader mellan olika dansideal samt</strong> i vilket socialt och kulturellt sammanhang dansen ingår.",
+          "A" : "Eleven <strong>redogör också utförligt och nyanserat för likheter och skillnader mellan olika dansideal samt</strong> i vilket socialt och kulturellt sammanhang dansen ingår."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för dansens indelning i olika typer och för deras kulturella bakgrund.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för dansens indelning i olika typer och för deras kulturella bakgrund.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för dansens indelning i olika typer och för deras kulturella bakgrund.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för dansens indelning i olika typer och för deras kulturella bakgrund."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för dans och dansande som kulturellt uttryck och diskuterar <strong>________</strong> hur kulturella värderingar av dans framträder i medier.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för dans och dansande som kulturellt uttryck och diskuterar <strong>översiktligt</strong> hur kulturella värderingar av dans framträder i medier.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för dans och dansande som kulturellt uttryck och diskuterar <strong>utförligt</strong> hur kulturella värderingar av dans framträder i medier.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för dans och dansande som kulturellt uttryck och diskuterar <strong>utförligt och nyanserat</strong> hur kulturella värderingar av dans framträder i medier."
+        }
+      }, {
+        "text" : "Dessutom gör eleven <strong>________</strong> dansanalyser utifrån synen på kropp, genus, etnicitet och nationalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven <strong>enkla</strong> dansanalyser utifrån synen på kropp, genus, etnicitet och nationalitet.",
+          "C" : "Dessutom gör eleven dansanalyser utifrån synen på kropp, genus, etnicitet och nationalitet.",
+          "A" : "Dessutom gör eleven dansanalyser utifrån synen på kropp, genus, etnicitet och nationalitet."
+        }
+      }, {
+        "text" : "Eleven gör även en <strong>________</strong> analys av en dansföreställning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör även en <strong>enkel</strong> analys av en dansföreställning.",
+          "C" : "Eleven gör även en analys av en dansföreställning. <strong>I analysen argumenterar eleven välgrundat för sin tolkning</strong>.",
+          "A" : "Eleven gör även en <strong>komplex</strong> analys av en dansföreställning. <strong>I analysen argumenterar eleven välgrundat och nyanserat för sin tolkning</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> adekvata begrepp och korrekt vokabulär.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> adekvata begrepp och korrekt vokabulär.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> adekvata begrepp och korrekt vokabulär.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> adekvata begrepp och korrekt vokabulär."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

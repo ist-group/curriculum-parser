@@ -1,0 +1,525 @@
+{
+  "name" : "Nätverksteknik",
+  "description" : "Ämnet nätverksteknik behandlar nätverksutrustning och it-systemlösningar samt övervakning för att uppnå hög driftsäkerhet inom nätverksområdet. Det behandlar också klienter och servrar samt hur övrig utrustning samverkar inom nätverksområdet. Dessutom behandlas programvara för både klienter och servrar samt administration av servertjänster i nätverksmiljö.",
+  "code" : "NAI",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet nätverksteknik ska syfta till att eleverna utvecklar kunskaper om lokala och globala datornätverk till den nivå som krävs för att yrkesmässigt administrera lokala nätverk och kunna säkerställa en snabb och säker kommunikation mellan ingående enheter.", "Undervisningen ska leda till att eleverna utvecklar kunskaper om hård- och mjukvaruinstallationer samt färdigheter i konfigurering, optimering, analys och administration av nätverk." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att utföra vanliga arbetsuppgifter på vanligt förekommande system.", "Eleverna ska ges möjlighet att lösa problem, utföra felsökning och åtgärda fel, både självständigt och i samarbete med andra.", "I undervisningen ska eleverna ges möjlighet att utveckla sitt miljö- och säkerhetstänkande." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska leda till att eleverna utvecklar förmåga att möta och kommunicera med kunder och uppdragsgivare på ett serviceinriktat och kvalitetsmedvetet sätt.", "Eleverna ska ges möjlighet att utveckla förmåga att uttrycka sig både skriftligt och muntligt samt att dokumentera sitt arbete.", "I undervisningen ska praktiska och laborativa moment varvas med teoretiska moment." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet nätverksteknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om uppbyggnad och funktion av olika delar och komponenter i nätverk.", "Förmåga att planera sitt arbete samt att läsa och tolka instruktioner, manualer och andra dokument på både svenska och engelska.", "Förmåga att utföra hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.", "Förmåga att bygga upp nätverk och anläggningar samt att skapa systemlösningar.", "Förmåga att övervaka, underhålla, felsöka samt identifiera och åtgärda fel i utrustning i nätverksmiljöer.", "Kunskaper om lagar och andra bestämmelser inom nätverksområdet.", "Förmåga att arbeta på ett säkert sätt som förebygger skador på person, egendom och miljö.", "Förmåga att dokumentera sitt arbete.", "Förmåga att ge råd till användare av nätverkssystem och datorteknisk utrustning." ]
+  } ],
+  "courses" : [ {
+    "name" : "Administration av nätverks- och serverutrustning",
+    "description" : "Kursen administration av nätverks- och serverutrustning omfattar punkterna 1–9 under rubriken Ämnets syfte, med särskild betoning på punkterna 5 och 6.",
+    "code" : "NAIADM0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Nättopologier, dvs. på vilket sätt olika noder i nätverk är kopplade till varandra.", "Konfigurering av anslutningstjänster till nätverkslagringsplatser.", "Konfigurering av system och hantering av funktionsfel.", "Hantering av olika former av nätverksutrustning, till exempel switchar, routrar och gateways. Utrustningens funktion och användningsområde.", "Hantering av strömbortfall i en servermiljö och konfigurering av larm vid driftavbrott. Implementering av driftsäkerhet på såväl disknivå som elkraftsnivå.", "Övervakning av nätverkstrafik och klienter samt hantering och övervakning med SNMP (Simple Network Management Protocol).", "Skydd av servrar och klienter i nätverksmiljö med hjälp av mjukvara och hårdvara.", "Kryptering av kommunikation mellan nät och servrar.", "Systemintegration, till exempel samordning av inloggning och auktorisering till olika system.", "Hantering och konfigurering av brandväggar.", "Lagar och andra bestämmelser, till exempel personuppgiftslagen. Policydokument.", "Felsökningsmetodik." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> hur nätverks olika delar och komponenter är uppbyggda och fungerar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur nätverks olika delar och komponenter är uppbyggda och fungerar.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur nätverks olika delar och komponenter är uppbyggda och fungerar.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur nätverks olika delar och komponenter är uppbyggda och fungerar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare sitt arbete.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete."
+        }
+      }, {
+        "text" : "I planeringen läser och tolkar eleven <strong>________</strong> instruktioner, manualer och andra dokument.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen läser och tolkar eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument.",
+          "C" : "I planeringen läser och tolkar eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument.",
+          "A" : "I planeringen läser och tolkar eleven <strong>med säkerhet</strong> instruktioner, manualer och andra dokument."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer."
+        }
+      }, {
+        "text" : "Eleven bygger också <strong>________</strong> med handledare upp nätverk och anläggningar samt skapar <strong>________</strong> systemlösningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven bygger också <strong>i samråd</strong> med handledare upp nätverk och anläggningar samt skapar <strong>med viss säkerhet</strong> systemlösningar.",
+          "C" : "Eleven bygger också <strong>efter samråd</strong> med handledare upp nätverk och anläggningar samt skapar <strong>med viss säkerhet</strong> systemlösningar.",
+          "A" : "Eleven bygger också <strong>efter samråd</strong> med handledare upp nätverk och anläggningar samt skapar <strong>med säkerhet</strong> systemlösningar."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>________</strong> med handledare fel i utrustning i nätverksmiljöer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>i samråd</strong> med handledare fel i utrustning i nätverksmiljöer.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>efter samråd</strong> med handledare fel i utrustning i nätverksmiljöer.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>efter samråd</strong> med handledare fel i utrustning i nätverksmiljöer."
+        }
+      }, {
+        "text" : "Arbetet utförs i enlighet med lagar och andra bestämmelser, på ett sätt som är miljömässigt och säkert både för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet utförs i enlighet med lagar och andra bestämmelser, på ett sätt som är miljömässigt och säkert både för eleven själv och andra.",
+          "C" : "Arbetet utförs i enlighet med lagar och andra bestämmelser, på ett sätt som är miljömässigt och säkert både för eleven själv och andra.",
+          "A" : "Arbetet utförs i enlighet med lagar och andra bestämmelser, på ett sätt som är miljömässigt och säkert både för eleven själv och andra."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong> med avseende på funktion, säkerhet och kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong> med avseende på funktion, säkerhet och kvalitet.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong> med avseende på funktion, säkerhet och kvalitet.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong> med avseende på funktion, säkerhet och kvalitet."
+        }
+      }, {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven ger <strong>________</strong> med handledare <strong>________</strong> råd till användare vid val av nätverkssystem och datorteknisk utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven ger <strong>i samråd</strong> med handledare <strong>enkla</strong> råd till användare vid val av nätverkssystem och datorteknisk utrustning.",
+          "C" : "Eleven ger <strong>efter samråd</strong> med handledare råd till användare vid val av nätverkssystem och datorteknisk utrustning.",
+          "A" : "Eleven ger <strong>efter samråd</strong> med handledare <strong>avancerade</strong> råd till användare vid val av nätverkssystem och datorteknisk utrustning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Nätverksadministration",
+    "description" : "Kursen nätverksadministration omfattar punkterna 1–9 under rubriken Ämnets syfte.",
+    "code" : "NAINAV0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Applikationsprogram samt installation, administration och styrning av rättigheter för nätverksbaserad installation av olika typer av applikationer.", "Analys, optimering och felsökning av en servers prestanda.", "Konfigurering av flerdisksystem samt uppsättning av spegling av hårddiskar eller motsvarande teknologier.", "Hantering av texteditorer.", "Skriptning.", "Filservrar och webbservrar.", "Uppgradering av klienter, servrar och nätverksutrustning.", "Klient- och serverhantering samt inloggning av klienter mot flera servrar genom en central kontohantering.", "Skydd av användardata samt säkerhetslagring av användarnas information lokalt och på en server.", "Driftsäkerhet, övervakning och hur driftstopp undviks samt underhåll av servrar.", "Partitionering och replikering av katalogtjänster samt säkerställande av säkerhet mellan servrar och åtkomst mellan dessa.", "Design av och säkerhet i katalogtjänst och filsystem.", "Licenshantering samt lagar om upphovsrätt.", "Användarmiljöer samt anpassning av serverlösningar till olika användarmiljöer och verksamhetsbehov." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> hur nätverks olika delar och komponenter är uppbyggda och fungerar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur nätverks olika delar och komponenter är uppbyggda och fungerar.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur nätverks olika delar och komponenter är uppbyggda och fungerar.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur nätverks olika delar och komponenter är uppbyggda och fungerar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare sitt arbete.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete."
+        }
+      }, {
+        "text" : "I planeringen läser och tolkar eleven <strong>________</strong> instruktioner, manualer och andra dokument.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen läser och tolkar eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument.",
+          "C" : "I planeringen läser och tolkar eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument.",
+          "A" : "I planeringen läser och tolkar eleven <strong>med säkerhet</strong> instruktioner, manualer och andra dokument."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer."
+        }
+      }, {
+        "text" : "Eleven bygger också <strong>________</strong> med handledare upp nätverk och anläggningar samt skapar <strong>________</strong> systemlösningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven bygger också <strong>i samråd</strong> med handledare upp nätverk och anläggningar samt skapar <strong>med viss säkerhet</strong> systemlösningar.",
+          "C" : "Eleven bygger också <strong>efter samråd</strong> med handledare upp nätverk och anläggningar samt skapar <strong>med viss säkerhet</strong> systemlösningar.",
+          "A" : "Eleven bygger också <strong>efter samråd</strong> med handledare upp nätverk och anläggningar samt skapar <strong>med säkerhet</strong> systemlösningar."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>________</strong> med handledare fel i utrustning i nätverksmiljöer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>i samråd</strong> med handledare fel i utrustning i nätverksmiljöer.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>efter samråd</strong> med handledare fel i utrustning i nätverksmiljöer.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>efter samråd</strong> med handledare fel i utrustning i nätverksmiljöer."
+        }
+      }, {
+        "text" : "Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra.",
+          "C" : "Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra.",
+          "A" : "Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong> med avseende på funktion, säkerhet och kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong> med avseende på funktion, säkerhet och kvalitet.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong> med avseende på funktion, säkerhet och kvalitet.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong> med avseende på funktion, säkerhet och kvalitet."
+        }
+      }, {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven ger <strong>________</strong> med handledare <strong>________</strong> råd till användare vid val av nätverkssystem och datorteknisk utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven ger <strong>i samråd</strong> med handledare <strong>enkla</strong> råd till användare vid val av nätverkssystem och datorteknisk utrustning.",
+          "C" : "Eleven ger <strong>efter samråd</strong> med handledare råd till användare vid val av nätverkssystem och datorteknisk utrustning.",
+          "A" : "Eleven ger <strong>efter samråd</strong> med handledare <strong>avancerade</strong> råd till användare vid val av nätverkssystem och datorteknisk utrustning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Nätverkssäkerhet",
+    "description" : "Kursen nätverkssäkerhet omfattar punkterna 1–9 under rubriken Ämnets syfte.",
+    "code" : "NAINAE0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Val av mjukvara respektive hårdvara.", "Programvaror för styrning och övervakning av nättrafik.", "Produktutvärdering och hur man utvärderar program för högsta säkerhet.", "Anslutningar med VPN (Virtual Private Network) eller liknande teknologier.", "TCP (Transmission Control Protocol) och olika portar.", "Säkerhetsrisker i nätverk.", "Säkerhetspolicy och incidenthantering.", "Identifikationssystem för inloggning.", "Installation och konfigurering av brandväggar för hårdvara och mjukvara.", "Virusskydd och internetrelaterade säkerhetshot.", "Kryptering och internetrelaterade säkerhetshot.", "NAT (Network Address Translation) och hur adressöversättning kan skydda eller styra åtkomst till klienter." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> hur nätverks olika delar och komponenter är uppbyggda och fungerar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur nätverks olika delar och komponenter är uppbyggda och fungerar.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur nätverks olika delar och komponenter är uppbyggda och fungerar.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur nätverks olika delar och komponenter är uppbyggda och fungerar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare sitt arbete.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete."
+        }
+      }, {
+        "text" : "I planeringen läser och tolkar eleven <strong>________</strong> instruktioner, manualer och andra dokument.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen läser och tolkar eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument.",
+          "C" : "I planeringen läser och tolkar eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument.",
+          "A" : "I planeringen läser och tolkar eleven <strong>med säkerhet</strong> instruktioner, manualer och andra dokument."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer."
+        }
+      }, {
+        "text" : "Eleven bygger också <strong>________</strong> med handledare upp nätverk och anläggningar samt skapar <strong>________</strong> systemlösningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven bygger också <strong>i samråd</strong> med handledare upp nätverk och anläggningar samt skapar <strong>med viss säkerhet</strong> systemlösningar.",
+          "C" : "Eleven bygger också <strong>efter samråd</strong> med handledare upp nätverk och anläggningar samt skapar <strong>med viss säkerhet</strong> systemlösningar.",
+          "A" : "Eleven bygger också <strong>efter samråd</strong> med handledare upp nätverk och anläggningar samt skapar <strong>med säkerhet</strong> systemlösningar."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>________</strong> med handledare fel i utrustning i nätverksmiljöer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>i samråd</strong> med handledare fel i utrustning i nätverksmiljöer.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>efter samråd</strong> med handledare fel i utrustning i nätverksmiljöer.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>efter samråd</strong> med handledare fel i utrustning i nätverksmiljöer."
+        }
+      }, {
+        "text" : "Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra.",
+          "C" : "Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra.",
+          "A" : "Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong> med avseende på funktion, säkerhet och kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong> med avseende på funktion, säkerhet och kvalitet.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong> med avseende på funktion, säkerhet och kvalitet.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong> med avseende på funktion, säkerhet och kvalitet."
+        }
+      }, {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven ger <strong>________</strong> med handledare <strong>________</strong> råd till användare vid val av nätverkssystem och datorteknisk utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven ger <strong>i samråd</strong> med handledare <strong>enkla</strong> råd till användare vid val av nätverkssystem och datorteknisk utrustning.",
+          "C" : "Eleven ger <strong>efter samråd</strong> med handledare råd till användare vid val av nätverkssystem och datorteknisk utrustning.",
+          "A" : "Eleven ger <strong>efter samråd</strong> med handledare <strong>avancerade</strong> råd till användare vid val av nätverkssystem och datorteknisk utrustning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Nätverksteknik",
+    "description" : "Kursen nätverksteknik omfattar punkterna 1–9 under rubriken Ämnets syfte, med särskild betoning på punkterna 2–5 och 7–8.",
+    "code" : "NAINAR0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Nätverkskomponenter i de delar som utgör ett datornätverk, till exempel klienter, servrar, skrivare, nätverkskort, omkopplare, nätslussar och kablage.", "Nätverksoperativsystems uppbyggnad och funktion, mjukvarans struktur i servrar och dess sammanställning samt principer för hur servrar kan kommunicera och vilka tjänster de kan erbjuda användarna.", "Olika filsystem och hur information lagras på olika sätt i olika operativsystem.", "Installation av serveroperativsystem samt systemens tjänster.", "Installation och konfigurering av utskriftssystem samt hantering av tillgång till en central tjänst för utskriftshantering.", "Administration av enklare katalogtjänster.", "Inloggning samt säkerhetsregler för användare.", "Kontohantering för användare.", "Rättighets- och säkerhetssystem, servrars tillgång till en central lagringsplats för information samt möjlighet att dela data.", "Säkerhetskopiering, skydd av information vid haveri av en servers filsystem, tillämpning av de principer som finns för säkerhetskopiering och hantering av den utrustning som krävs." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> hur nätverks olika delar och komponenter är uppbyggda och fungerar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur nätverks olika delar och komponenter är uppbyggda och fungerar.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur nätverks olika delar och komponenter är uppbyggda och fungerar.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur nätverks olika delar och komponenter är uppbyggda och fungerar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare sitt arbete.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete."
+        }
+      }, {
+        "text" : "I planeringen läser och tolkar eleven <strong>________</strong> instruktioner, manualer och andra dokument.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen läser och tolkar eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument.",
+          "C" : "I planeringen läser och tolkar eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument.",
+          "A" : "I planeringen läser och tolkar eleven <strong>med säkerhet</strong> instruktioner, manualer och andra dokument."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer."
+        }
+      }, {
+        "text" : "Eleven bygger också <strong>________</strong> med handledare upp nätverk och anläggningar samt skapar <strong>________</strong> systemlösningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven bygger också <strong>i samråd</strong> med handledare upp nätverk och anläggningar samt skapar <strong>med viss säkerhet</strong> systemlösningar.",
+          "C" : "Eleven bygger också <strong>efter samråd</strong> med handledare upp nätverk och anläggningar samt skapar <strong>med viss säkerhet</strong> systemlösningar.",
+          "A" : "Eleven bygger också <strong>efter samråd</strong> med handledare upp nätverk och anläggningar samt skapar <strong>med säkerhet</strong> systemlösningar."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>________</strong> med handledare fel i utrustning i nätverksmiljöer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>i samråd</strong> med handledare fel i utrustning i nätverksmiljöer.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>efter samråd</strong> med handledare fel i utrustning i nätverksmiljöer.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>efter samråd</strong> med handledare fel i utrustning i nätverksmiljöer."
+        }
+      }, {
+        "text" : "Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra.",
+          "C" : "Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra.",
+          "A" : "Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong> med avseende på funktion, säkerhet och kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong> med avseende på funktion, säkerhet och kvalitet.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong> med avseende på funktion, säkerhet och kvalitet.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong> med avseende på funktion, säkerhet och kvalitet."
+        }
+      }, {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven ger <strong>________</strong> med handledare <strong>________</strong> råd till användare vid val av nätverkssystem och datorteknisk utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven ger <strong>i samråd</strong> med handledare <strong>enkla</strong> råd till användare vid val av nätverkssystem och datorteknisk utrustning.",
+          "C" : "Eleven ger <strong>efter samråd</strong> med handledare råd till användare vid val av nätverkssystem och datorteknisk utrustning.",
+          "A" : "Eleven ger <strong>efter samråd</strong> med handledare <strong>avancerade</strong> råd till användare vid val av nätverkssystem och datorteknisk utrustning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Nätverksteknologier",
+    "description" : "Kursen nätverksteknologier omfattar punkterna 1–9 under rubriken Ämnets syfte.",
+    "code" : "NAINAK0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Uppbyggnad av nätverks olika delar samt funktion av bandbredd, till exempel mätning av kapacitet och kapacitetsbehov för olika bredbandslösningar.", "Referensmodellerna OSI och TCP/IP (Open Systems Interconnection och Transmission Control Protocol/Internet Protocol) och de olika skiktens specifika tjänst som är oberoende av de tekniker som används i lagret ovanför eller nedanför. Hur information hanteras och hur utrustning och tjänster fungerar i samverkan i olika kommunikationslösningar.", "Nätverksprotokoll, dvs. hur digital kommunikation mellan olika datorenheter fungerar. Administration och konfiguration av nätverksprotokoll.", "Adressering i nätverk, kommunikation av data mellan olika enheter samt hur kommunikationen fungerar utifrån tekniska regler för de olika protokollen. Hur utdelning av adresser fungerar med DHCP (Dynamic Host Configuration Protocol).", "Subnätning, dvs. hur man delar upp ett datornätverk i mindre delar.", "Routningsprotokoll, hantering av kommunikation mellan olika adressområden samt olika vägar på vilka data sänds mellan sändare och mottagare i olika nätverk.", "Virtuella nät, dvs. VLAN (Virtual Local Area Network). Skydd mot avlyssning mellan olika nätverk.", "Tunnling och WLAN (Wireless Local Area Network).", "Nätverkstopologier, dvs. på vilket sätt olika noder i nätverk är kopplade till varandra.", "Packet switching network, dvs. paketförmedling där data paketeras och adresseras mellan olika fysiska och logiska nivåer och komponenter i en datorbaserad kommunikationssituation.", "Accessmetoder för att upprätta kommunikation mellan olika enheter i ett datornätverk.", "Överföringsmedier, dvs. olika sätt att skicka digital information i form av data. Begränsningar samt säkerhet och prestanda vid val av olika överföringsmedier, till exempel kabelbaserad eller luftbaserad kommunikation." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> hur nätverks olika delar och komponenter är uppbyggda och fungerar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur nätverks olika delar och komponenter är uppbyggda och fungerar.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur nätverks olika delar och komponenter är uppbyggda och fungerar.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur nätverks olika delar och komponenter är uppbyggda och fungerar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare sitt arbete.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete."
+        }
+      }, {
+        "text" : "I planeringen läser och tolkar eleven <strong>________</strong> instruktioner, manualer och andra dokument.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen läser och tolkar eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument.",
+          "C" : "I planeringen läser och tolkar eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument.",
+          "A" : "I planeringen läser och tolkar eleven <strong>med säkerhet</strong> instruktioner, manualer och andra dokument."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer."
+        }
+      }, {
+        "text" : "Eleven bygger också <strong>________</strong> med handledare upp nätverk och anläggningar samt skapar <strong>________</strong> systemlösningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven bygger också <strong>i samråd</strong> med handledare upp nätverk och anläggningar samt skapar <strong>med viss säkerhet</strong> systemlösningar.",
+          "C" : "Eleven bygger också <strong>efter samråd</strong> med handledare upp nätverk och anläggningar samt skapar <strong>med viss säkerhet</strong> systemlösningar.",
+          "A" : "Eleven bygger också <strong>efter samråd</strong> med handledare upp nätverk och anläggningar samt skapar <strong>med säkerhet</strong> systemlösningar."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>________</strong> med handledare fel i utrustning i nätverksmiljöer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>i samråd</strong> med handledare fel i utrustning i nätverksmiljöer.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>efter samråd</strong> med handledare fel i utrustning i nätverksmiljöer.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>efter samråd</strong> med handledare fel i utrustning i nätverksmiljöer."
+        }
+      }, {
+        "text" : "Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra.",
+          "C" : "Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra.",
+          "A" : "Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong> med avseende på funktion, säkerhet och kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong> med avseende på funktion, säkerhet och kvalitet.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong> med avseende på funktion, säkerhet och kvalitet.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong> med avseende på funktion, säkerhet och kvalitet."
+        }
+      }, {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven ger <strong>________</strong> med handledare <strong>________</strong> råd till användare vid val av nätverkssystem och datorteknisk utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven ger <strong>i samråd</strong> med handledare <strong>enkla</strong> råd till användare vid val av nätverkssystem och datorteknisk utrustning.",
+          "C" : "Eleven ger <strong>efter samråd</strong> med handledare råd till användare vid val av nätverkssystem och datorteknisk utrustning.",
+          "A" : "Eleven ger <strong>efter samråd</strong> med handledare <strong>avancerade</strong> råd till användare vid val av nätverkssystem och datorteknisk utrustning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

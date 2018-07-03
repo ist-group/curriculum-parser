@@ -1,0 +1,281 @@
+{
+  "name" : "Mät-, styr- och reglerteknik",
+  "description" : "Ämnet mät-, styr- och reglerteknik behandlar metoder och arbetssätt för att styra och reglera tekniska komponenter, till exempel regulatorer och styrsystem. Arbete med styr- och reglerteknik har sin grund i industriell mätteknik och aktuatorer. I ämnet behandlas även säkerhetsfrågor som har en central roll i arbete med styr- och reglerteknik, eftersom misstag kan orsaka stora skador både på person och på egendom.",
+  "code" : "MÄT",
+  "designation" : "",
+  "skolfsId" : "2010:162",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet mät-, styr- och reglerteknik ska syfta till att eleverna utvecklar färdigheter i att planera och utföra arbeten med styr- och reglerteknisk utrustning.", "Den ska också leda till att eleverna utvecklar förmåga att använda scheman, ritningar, manualer och föreskrifter.", "Eleverna ska ges möjlighet att utveckla förmåga att upptäcka och avhjälpa fel i styr- och reglerteknisk utrustning.", "Vidare ska undervisningen leda till att eleverna utvecklar ett säkert och miljömässigt arbetssätt samt förmåga att dokumentera sitt arbete." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att planera arbetsuppgifter och arbeta praktiskt med styr- och reglerteknisk utrustning.", "I undervisningen ska såväl praktiska som teoretiska uppgifter ingå så att eleverna ges möjlighet att förstå sambandet mellan praktiskt arbete och yrkesteori." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet mät-, styr- och reglerteknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förmåga att planera sitt arbete samt att installera, konfigurera, driftsätta och underhålla styr- och reglertekniska komponenter och system på ett säkert sätt.", "Förmåga att läsa och tolka scheman över styr- och reglertekniska komponenter och system.", "Färdigheter i att mäta styr- och reglertekniska storheter.", "Förmåga att felsöka, reparera och åtgärda fel i styr- och reglertekniska komponenter och system.", "Förmåga att dokumentera sitt arbete med styr- och reglertekniska komponenter och system." ]
+  } ],
+  "courses" : [ {
+    "name" : "Distribuerade styrsystem",
+    "description" : "Kursen distribuerade styrsystem omfattar punkterna 1–5 under rubriken Ämnets syfte.",
+    "code" : "MÄTDIS0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Planering och byggande av styr- och reglertekniska anläggningar med distribuerade kontrollenheter eller I/O (input/output) beroende på anläggningens karaktär.", "Scheman, ritningar och övrig dokumentation över komponenter för distribuerad styrning.", "Referensmodeller för datorkommunikation, till exempel OSI-modellen (open systems interconnection).", "Transmission control protocol/internet protocol (TCP/IP).", "Fältbussar, till exempel Profibus, KNX, Lon och Modbus.", "Informationsteknik som stöd för byggande av system med distribuerad styrning.", "Vanligt förekommande styrda och reglerade storheter med distribuerade styrsystem, till exempel belysning, temperatur, tryck, flöde och nivå.", "Metoder för felsökning i anläggningar med distribuerade styrsystem, till exempel verktyg för visualisering av data och jämförelser av data med mätningar av samma signal på plint.", "Metoder för dokumentation av anläggningar med distribuerade styrsystem." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra."
+        }
+      }, {
+        "text" : "I arbetet läser och tolkar eleven <strong>________</strong> scheman över styr- och reglertekniska komponenter och system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> scheman över styr- och reglertekniska komponenter och system.",
+          "C" : "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> scheman över styr- och reglertekniska komponenter och system.",
+          "A" : "I arbetet läser och tolkar eleven <strong>med säkerhet</strong> scheman över styr- och reglertekniska komponenter och system."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör <strong>________</strong> mätningar av styr- och reglertekniska storheter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör <strong>enkla</strong> mätningar av styr- och reglertekniska storheter.",
+          "C" : "Eleven gör mätningar av styr- och reglertekniska storheter.",
+          "A" : "Eleven gör <strong>avancerade</strong> mätningar av styr- och reglertekniska storheter."
+        }
+      }, {
+        "text" : "Dessutom felsöker eleven <strong>________</strong> med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar <strong>________</strong> med handledare eventuella fel som har uppstått.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom felsöker eleven <strong>i samråd</strong> med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar <strong>i samråd</strong> med handledare eventuella fel som har uppstått.",
+          "C" : "Dessutom felsöker eleven <strong>efter samråd</strong> med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar <strong>efter samråd</strong> med handledare eventuella fel som har uppstått.",
+          "A" : "Dessutom felsöker eleven <strong>efter samråd</strong> med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar <strong>efter samråd</strong> med handledare eventuella fel som har uppstått."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> dokumentation av sitt arbete med styr- och reglertekniska komponenter och system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av sitt arbete med styr- och reglertekniska komponenter och system.",
+          "C" : "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete med styr- och reglertekniska komponenter och system.",
+          "A" : "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete med styr- och reglertekniska komponenter och system."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Mät- och reglerteknik",
+    "description" : "Kursen mät- och reglerteknik omfattar punkterna 1–5 under rubriken Ämnets syfte.",
+    "code" : "MÄTMÄT0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Enklare reglertekniska laborationer med inställningar av den proportionella förstärkningen och den integrerande förstärkningen samt den deriverande verkan i regulatorn.", "Enklare mättekniska laborationer med mätning av temperatur.", "Inkoppling, kontroll och injustering av vanligt förekommande mät- och reglertekniska komponenter med begrepp som NPN/PNP, sink/source, polaritetsskydd och kortslutningsskydd.", "Pneumatiska eller hydrauliska ventiler samt pådrags och ställdons funktioner, beteckningar, märkningar och symboler.", "Signalföljning och funktionsanalys av en enkel mät- och reglerteknisk anläggning med hjälp av mätinstrument, ritningar, scheman, datablad och manualer.", "Grundläggande mät- och reglertekniska begrepp, till exempel stegsvar, rampsvar, dödtid, tidskonstant, linjäritet, hysteres, span, zero, kalibrering, onoggrannhet, repeterbarhet, reproducerbarhet, proportionellt band, proportionell förstärkning, integrerande tidskonstant och deriverande verkan.", "Grundläggande mätosäkerhet, dess syfte och terminologi.", "Grundläggande industriell mätteknik med vanligt förekommande metoder för att mäta temperatur, tryck, flöde och nivå.", "Introduktion till test, kalibrering och spårbarhet för temperatur, tryck, flöde och nivå.", "Metoder för att identifiera, förebygga och avhjälpa fel i mät- och reglertekniska anläggningar.", "Metoder för dokumentation av mät- och reglertekniska arbeten." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra."
+        }
+      }, {
+        "text" : "I arbetet läser och tolkar eleven <strong>________</strong> scheman över styr- och reglertekniska komponenter och system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> scheman över styr- och reglertekniska komponenter och system.",
+          "C" : "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> scheman över styr- och reglertekniska komponenter och system.",
+          "A" : "I arbetet läser och tolkar eleven <strong>med säkerhet</strong> scheman över styr- och reglertekniska komponenter och system."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör <strong>________</strong> mätningar av styr- och reglertekniska storheter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör <strong>enkla</strong> mätningar av styr- och reglertekniska storheter.",
+          "C" : "Eleven gör mätningar av styr- och reglertekniska storheter.",
+          "A" : "Eleven gör <strong>avancerade</strong> mätningar av styr- och reglertekniska storheter."
+        }
+      }, {
+        "text" : "Dessutom felsöker eleven <strong>________</strong> med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar <strong>________</strong> med handledare eventuella fel som har uppstått.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom felsöker eleven <strong>i samråd</strong> med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar <strong>i samråd</strong> med handledare eventuella fel som har uppstått.",
+          "C" : "Dessutom felsöker eleven <strong>efter samråd</strong> med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar <strong>efter samråd</strong> med handledare eventuella fel som har uppstått.",
+          "A" : "Dessutom felsöker eleven <strong>efter samråd</strong> med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar <strong>efter samråd</strong> med handledare eventuella fel som har uppstått."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> dokumentation av sitt arbete med styr- och reglertekniska komponenter och system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av sitt arbete med styr- och reglertekniska komponenter och system.",
+          "C" : "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete med styr- och reglertekniska komponenter och system.",
+          "A" : "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete med styr- och reglertekniska komponenter och system."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Mät- och styrteknik",
+    "description" : "Kursen mät- och styrteknik omfattar punkterna 1–5 under rubriken Ämnets syfte.",
+    "code" : "MÄTMÄO0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Logiska grundfunktioner för olika styrtekniska lösningar.", "Diskreta mätgivare, till exempel induktiva givare, kapacitiva givare, optiska givare och lägesgivare.", "Relästyrning av till exempel motorer och lampor.", "Beteckningar, märkningar och symboler för pneumatisk och hydraulisk styrning samt dimensionering av pneumatisk och hydraulisk styrning.", "Uppkoppling av pneumatisk eller hydraulisk styrkrets.", "Funktionsbeskrivningar och ritnings- och schemaunderlag för styrtekniska anläggningar.", "Vanligt förekommande styrda storheter och enheter inom mät- och styrteknik, till exempel belysning, pneumatiska och hydrauliska ventiler, reläer, kontaktorer, temperatur, tryck och nivå.", "Vanligt förekommande begrepp och uttryck inom mät- och styrteknik, till exempel diskreta I/O (input/output), relä- och transistorutgångar, garanterad svarstid, väg-tiddiagram, flödesschema, galvanisk isolering, NPN/PNP, sink/source, polaritetsskydd och kortslutningsskydd.", "Metoder för dokumentation av styrtekniska anläggningar, till exempel skapande av ritningar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra."
+        }
+      }, {
+        "text" : "I arbetet läser och tolkar eleven <strong>________</strong> scheman över styr- och reglertekniska komponenter och system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> scheman över styr- och reglertekniska komponenter och system.",
+          "C" : "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> scheman över styr- och reglertekniska komponenter och system.",
+          "A" : "I arbetet läser och tolkar eleven <strong>med säkerhet</strong> scheman över styr- och reglertekniska komponenter och system."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör <strong>________</strong> mätningar av styr- och reglertekniska storheter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör <strong>enkla</strong> mätningar av styr- och reglertekniska storheter.",
+          "C" : "Eleven gör mätningar av styr- och reglertekniska storheter.",
+          "A" : "Eleven gör <strong>avancerade</strong> mätningar av styr- och reglertekniska storheter."
+        }
+      }, {
+        "text" : "Dessutom felsöker eleven <strong>________</strong> med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar <strong>________</strong> med handledare eventuella fel som har uppstått.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom felsöker eleven <strong>i samråd</strong> med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar <strong>i samråd</strong> med handledare eventuella fel som har uppstått.",
+          "C" : "Dessutom felsöker eleven <strong>efter samråd</strong> med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar <strong>efter samråd</strong> med handledare eventuella fel som har uppstått.",
+          "A" : "Dessutom felsöker eleven <strong>efter samråd</strong> med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar <strong>efter samråd</strong> med handledare eventuella fel som har uppstått."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> dokumentation av sitt arbete med styr- och reglertekniska komponenter och system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av sitt arbete med styr- och reglertekniska komponenter och system.",
+          "C" : "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete med styr- och reglertekniska komponenter och system.",
+          "A" : "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete med styr- och reglertekniska komponenter och system."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Programmerbara styrsystem",
+    "description" : "Kursen programmerbara styrsystem omfattar punkterna 1–5 under rubriken Ämnets syfte.",
+    "code" : "MÄTPRR0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Uppbyggnad och funktion hos olika programmerbara styrsystem, till exempel kompakta och modulära plc (programmable logic controller), distribuerade styrsystem, PAC (programmable automation controller), programmerbara reläer samt styrningar med persondatorer.", "Grundläggande programmeringsteknik och programmering av programmerbara styrsystem.", "Inkoppling av givare och aktuatorer till programmerbara styrsystem.", "Specialmoduler för programmerbara styrsystem, till exempel moduler för A/D-omvandling och D/A-omvandling, samt moduler för servomotorer.", "Användarkrav och översättning av dessa som underlag för programmering av programmerbara styrsystem.", "Datorstöd vid programmering av programmerbara styrsystem.", "För- och nackdelar med olika programmerbara styrsystem.", "Aktuella standarder, till exempel plc-standard IEC 1131.", "Metoder för felsökning och underhåll i anläggningar styrda av programmerbara styrsystem.", "Metoder för dokumentation av arbete med programmerbara styrsystem." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra."
+        }
+      }, {
+        "text" : "I arbetet läser och tolkar eleven <strong>________</strong> scheman över styr- och reglertekniska komponenter och system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> scheman över styr- och reglertekniska komponenter och system.",
+          "C" : "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> scheman över styr- och reglertekniska komponenter och system.",
+          "A" : "I arbetet läser och tolkar eleven <strong>med säkerhet</strong> scheman över styr- och reglertekniska komponenter och system."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör <strong>________</strong> mätningar av styr- och reglertekniska storheter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör <strong>enkla</strong> mätningar av styr- och reglertekniska storheter.",
+          "C" : "Eleven gör mätningar av styr- och reglertekniska storheter.",
+          "A" : "Eleven gör <strong>avancerade</strong> mätningar av styr- och reglertekniska storheter."
+        }
+      }, {
+        "text" : "Dessutom felsöker eleven <strong>________</strong> med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar <strong>________</strong> med handledare eventuella fel som har uppstått.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom felsöker eleven <strong>i samråd</strong> med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar <strong>i samråd</strong> med handledare eventuella fel som har uppstått.",
+          "C" : "Dessutom felsöker eleven <strong>efter samråd</strong> med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar <strong>efter samråd</strong> med handledare eventuella fel som har uppstått.",
+          "A" : "Dessutom felsöker eleven <strong>efter samråd</strong> med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar <strong>efter samråd</strong> med handledare eventuella fel som har uppstått."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> dokumentation av sitt arbete med styr- och reglertekniska komponenter och system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av sitt arbete med styr- och reglertekniska komponenter och system.",
+          "C" : "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete med styr- och reglertekniska komponenter och system.",
+          "A" : "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete med styr- och reglertekniska komponenter och system."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

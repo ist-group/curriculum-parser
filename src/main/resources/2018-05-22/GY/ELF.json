@@ -1,0 +1,132 @@
+{
+  "name" : "Elkraft och traktion – spårfordon",
+  "description" : "Ämnet elkraft och traktion – spårfordon behandlar olika typer av elmotorer och deras egenskaper samt olika kraft- och drivsystem i spårfordon. Ämnet behandlar också principer för styrning och utrustning för kraftförsörjning av spårfordons hjälpkraftsystem och traktion.",
+  "code" : "ELF",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet elkraft och traktion – spårfordon ska syfta till att eleverna utvecklar kunskaper om funktionen hos systemen för elkraftsförsörjning och elmotordrivsystem." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska leda till att eleverna utvecklar förståelse av och kunskap om principerna för funktion och uppbyggnad hos huvudtransformatorer i rullande material samt kunskap om hjälpkraftförsörjning och varvtalsstyrning av traktionsmotorer.", "Undervisningen ska även ge eleverna möjlighet att utveckla förmåga i att hantera verktyg och utrustning för att enligt standarder kunna genomföra förebyggande och avhjälpande arbeten på de ingående systemen.", "Undervisningen ska dessutom ge eleverna möjlighet att utveckla förståelse för vikten av kommunikation och samarbete som krävs inom yrkesområdet." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att utveckla färdighet i att arbeta i grupp, kommunicera med etablerat fackspråk samt arbeta i enlighet med säkerhetsbestämmelser för utrustning och arbetsmiljö." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet elkraft och traktion – spårfordon ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om uppbyggnad, funktion och styrning av högspänningssystem för elkraft och elmotordrivsystem i spårfordon.", "Kunskaper om principer för överföring av kraft och signaler inom högspänningssystem och elmotordrivsystem i spårfordon.", "Förmåga att läsa system-, komponent- och verktygsdokumentation samt att dokumentera utfört arbete.", "Förmåga att enligt instruktioner och nycklingssystem planera och genomföra förebyggande och enklare avhjälpande underhåll i högspänningssystem för elkraft och elmotordrivsystem i spårfordon.", "Förmåga att installera och driftsätta trefasmotorer.", "Kunskaper om utrustning och manualer avsedda för funktionstester, samt förmåga att använda och vårda verktyg och utrustning korrekt samt förståelse av betydelsen av god ordning på arbetsplatsen.", "Kunskap om och förmåga att arbeta ergonomiskt, tillämpa säkerhetsföreskrifter samt göra riskbedömning för att genomföra arbete tryggt för sig själv och andra.", "Förmåga att samarbeta och kommunicera med andra och färdigheter i att använda fackspråk." ]
+  } ],
+  "courses" : [ {
+    "name" : "Elkraft och traktion – spårfordon",
+    "description" : "Kursen elkraft och traktion – spårfordon omfattar punkterna 1–8 under rubriken ämnets syfte. ",
+    "code" : "ELFELK0",
+    "centralContent" : [ {
+      "heading" : "",
+      "lines" : [ "Högspänningssystem och huvudtransformatorers uppbyggnad.", "Olika elmotorers uppbyggnad och egenskaper.", "Asynkronmotorer och generatordrift vid översynkrona varvtal (fyrkvadrantsdrifter).", "Återledningsdon och sugtransformatorer.", "Sexpunktslikriktning.", "Kommutering.", "Traktionsomriktare och dynamisk broms.", "Batteri- och hjälpkraftssystem.", "Fiberoptisk signalöverföring vid kommutering.", "Systemdokumentation, till exempel ritningar, scheman, manualer och dokumentation av genomfört arbete.", "Installation och driftsättning av trefasmotorer.", "Mätmetoder och effektberäkning på hjälpkraftssystem, traktionsomriktare och traktionsmotor.", "Funktionsprovning av omriktare, hög- och lågspänningstester.", "Ström- och spänningsmätning i högspänningssystem.", "Nycklingssystem för elkraftsystem, fordon och verkstad.", "Underhåll av högspänningssystem.", "Enklare felsökning och felavhjälpning, samt driftsättning och funktionstester.", "Specialverktyg och verkstadsfaciliteter.", "Användning och skötsel av verktyg.", "Säkerhetsföreskrifter och riskanalys.", "Arbetslagets styrka och svagheter." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för uppbyggnad och funktion hos samt styrning av elkraft och elmotordrivsystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för uppbyggnad och funktion hos samt styrning av elkraft och elmotordrivsystem.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för uppbyggnad och funktion hos samt styrning av elkraft och elmotordrivsystem.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för uppbyggnad och funktion hos samt styrning av elkraft och elmotordrivsystem."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för principer för överföring av kraft och signaler inom högspänningssystem och elmotordrivsystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för principer för överföring av kraft och signaler inom högspänningssystem och elmotordrivsystem.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för principer för överföring av kraft och signaler inom högspänningssystem och elmotordrivsystem.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för principer för överföring av kraft och signaler inom högspänningssystem och elmotordrivsystem."
+        }
+      }, {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare alla ingående arbetsuppgifter <strong>________</strong> och med ett resultat som på ett <strong>________</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare alla ingående arbetsuppgifter <strong>med viss säkerhet</strong> och med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare alla ingående arbetsuppgifter <strong>med säkerhet</strong> och med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare alla ingående arbetsuppgifter <strong>med säkerhet</strong> och med ett resultat som på ett <strong>gott</strong> sätt uppfyller fastställda kvalitets- och miljökrav."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I arbetet använder eleven <strong>________</strong> system-, komponent- och verktygsdokumentation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> system-, komponent- och verktygsdokumentation.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> system-, komponent- och verktygsdokumentation.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> system-, komponent- och verktygsdokumentation."
+        }
+      }, {
+        "text" : "Eleven dokumenterar <strong>________</strong> genomfört arbete enligt branschens standarder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven dokumenterar <strong>tillfredsställande</strong> genomfört arbete enligt branschens standarder.",
+          "C" : "Eleven dokumenterar <strong>tillfredsställande</strong> genomfört arbete enligt branschens standarder.",
+          "A" : "Eleven dokumenterar <strong>noggrant och utförligt</strong> genomfört arbete enligt branschens standarder."
+        }
+      }, {
+        "text" : "Vidare redogör eleven <strong>________</strong> för utrustning och manualer avsedda för funktionstester.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare redogör eleven <strong>översiktligt</strong> för utrustning och manualer avsedda för funktionstester.",
+          "C" : "Vidare redogör eleven <strong>utförligt</strong> för utrustning och manualer avsedda för funktionstester.",
+          "A" : "Vidare redogör eleven <strong>utförligt och nyanserat</strong> för utrustning och manualer avsedda för funktionstester."
+        }
+      }, {
+        "text" : "Eleven hanterar och vårdar material, utrustning, verktyg och maskiner med <strong>________</strong> enligt instruktioner och håller <strong>________</strong> ordning på arbetsplatsen och motiverar behovet av ordning <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar och vårdar material, utrustning, verktyg och maskiner med <strong>visst handlag</strong> enligt instruktioner och håller <strong>tillfredsställande</strong> ordning på arbetsplatsen och motiverar behovet av ordning <strong>tillfredsställande</strong>.",
+          "C" : "Eleven hanterar och vårdar material, utrustning, verktyg och maskiner med <strong>gott</strong> handlag enligt instruktioner och håller <strong>tillfredsställande</strong> ordning på arbetsplatsen och motiverar behovet av ordning <strong>tillfredsställande</strong>.",
+          "A" : "Eleven hanterar och vårdar material, utrustning, verktyg och maskiner med <strong>mycket gott</strong> handlag enligt instruktioner och håller <strong>god</strong> ordning på arbetsplatsen och motiverar behovet av ordning <strong>noggrant och utförligt</strong>."
+        }
+      }, {
+        "text" : "Dessutom vårdar eleven <strong>________</strong> utrustning, maskiner och verktyg enligt instruktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom vårdar eleven <strong>med viss säkerhet</strong> utrustning, maskiner och verktyg enligt instruktioner.",
+          "C" : "Dessutom vårdar eleven <strong>med säkerhet</strong> utrustning, maskiner och verktyg enligt instruktioner.",
+          "A" : "Dessutom vårdar eleven <strong>med säkerhet</strong> utrustning, maskiner och verktyg enligt instruktioner."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar ergonomiskt, utför en <strong>________</strong> riskanalys samt genomför arbetet på ett <strong>________</strong> sätt, säkert för sig själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar ergonomiskt, utför en <strong>tillfredsställande</strong> riskanalys samt genomför arbetet på ett <strong>tillfredsställande</strong> sätt, säkert för sig själv och andra.",
+          "C" : "Eleven arbetar ergonomiskt, utför en <strong>tillfredsställande</strong> riskanalys samt genomför arbetet på ett <strong>tillfredsställande</strong> sätt, säkert för sig själv och andra.",
+          "A" : "Eleven arbetar ergonomiskt, utför en <strong>god</strong> riskanalys samt genomför arbetet på ett <strong>gott</strong> sätt, säkert för sig själv och andra."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong>, utifrån exempel, för vikten av samarbete för en fungerande och funktionell verksamhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong>, utifrån exempel, för vikten av samarbete för en fungerande och funktionell verksamhet.",
+          "C" : "Eleven redogör <strong>utförligt</strong>, utifrån exempel, för vikten av samarbete för en fungerande och funktionell verksamhet.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong>, utifrån exempel, för vikten av samarbete för en fungerande och funktionell verksamhet."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för standarder och begrepp inom området och använder <strong>________</strong> korrekt fackspråk i sina redogörelser och resonemang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för standarder och begrepp inom området och använder <strong>med viss säkerhet</strong> korrekt fackspråk i sina redogörelser och resonemang.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för standarder och begrepp inom området och använder <strong>med viss säkerhet</strong> korrekt fackspråk i sina redogörelser och resonemang.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för standarder och begrepp inom området och använder <strong>med säkerhet</strong> korrekt fackspråk i sina redogörelser och resonemang."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 150,
+    "year" : null
+  } ]
+}

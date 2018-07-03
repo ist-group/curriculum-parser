@@ -1,0 +1,131 @@
+{
+  "name" : "Mjukvarudesign",
+  "description" : "Ämnet mjukvarudesign behandlar hur datorprogram, webbapplikationer och andra mjukvaruapplikationer skapas. Ämnet mjukvarudesign får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.",
+  "code" : "MJK",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet mjukvarudesign ska syfta till att eleverna utvecklar kunskaper om mjukvaruutvecklingens olika delar från idé, analys och kravspecifikation till modellering, implementering, testning, förbättring, kvalitetskontroll, dokumentation och distribution.", "Undervisningen ska leda till att eleverna utvecklar förmåga att skapa en mjukvaruprodukt enligt en etablerad metodik och enligt angivna standarder för koden.", "Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att använda verktyg för utveckling av mjukvara, för samarbete med andra deltagare i processen samt för testning och dokumentation.", "Genom undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om begrepp inom området samt förmåga att kommunicera om mjukvarudesign." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att arbeta med olika delar av mjukvarudesign i projektform." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet mjukvarudesign ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om hela livscykeln för mjukvara, från idé till produkt, samt underhåll och vidareutveckling.", "Kunskaper om utvecklingsmetoder, kodstandarder, körmiljöer och plattformar.", "Förmåga att samarbeta i enlighet med utvecklingsmetodik inom teknikområdet.", "Förmåga att skapa internationaliserade applikationer och att lokalisera applikationer.", "Förmåga att sätta upp och använda verktyg för mjukvaruutveckling.", "Kunskaper om arbetsmiljöfrågor.", "Kunskaper om licensfrågor och distribution av mjukvara samt om betalningsmodeller." ]
+  } ],
+  "courses" : [ {
+    "name" : "Mjukvarudesign",
+    "description" : "Kursen mjukvarudesign omfattar punkterna 1–7 under rubriken Ämnets syfte.",
+    "code" : "MJKMJU3",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Körmiljöer och plattformar, till exempel desktop, mobil, inbyggda system och webbapplikationer.", "Utvecklingsmetodik, inklusive agila metoder.", "Utvecklingsmiljöer och infrastrukturbehov.", "Verktyg för projekthantering, ärendehantering och samarbete.", "Kodkvalitet och kodstandarder.", "Kodanalys och kvalitetskontroll, inklusive bugghantering och automatiserade tester.", "Verktyg för versionshantering.", "Internationalisering och lokalisering.", "Upprättande av teknisk dokumentation, till exempel genererad från programkodskommentarer.", "Ergonomiska krav på datorarbetsplatsen.", "Paketering och distribution av mjukvara.", "Licenser och betalningsmodeller." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven för <strong>________</strong> resonemang om olika metoder inom mjukvaruutveckling och beskriver <strong>________</strong> hur området mjukvaruutveckling har utvecklats.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven för <strong>enkla</strong> resonemang om olika metoder inom mjukvaruutveckling och beskriver <strong>översiktligt</strong> hur området mjukvaruutveckling har utvecklats.",
+          "C" : "Eleven för <strong>välgrundade</strong> resonemang om olika metoder inom mjukvaruutveckling och beskriver <strong>utförligt</strong> hur området mjukvaruutveckling har utvecklats.",
+          "A" : "Eleven för <strong>välgrundade och nyanserade</strong> resonemang om olika metoder inom mjukvaruutveckling och beskriver <strong>utförligt och nyanserat</strong> hur området mjukvaruutveckling har utvecklats."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för olika kodstandarder, körmiljöer och plattformar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för olika kodstandarder, körmiljöer och plattformar.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för olika kodstandarder, körmiljöer och plattformar.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för olika kodstandarder, körmiljöer och plattformar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven deltar i ett projekt för att utveckla en applikation och följer <strong>________</strong> vald utvecklingsmetodik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven deltar i ett projekt för att utveckla en applikation och följer <strong>med viss säkerhet</strong> vald utvecklingsmetodik.",
+          "C" : "Eleven deltar i ett projekt för att utveckla en applikation och följer <strong>med viss säkerhet</strong> vald utvecklingsmetodik.",
+          "A" : "Eleven deltar i ett projekt för att utveckla en applikation och följer <strong>med säkerhet</strong> vald utvecklingsmetodik."
+        }
+      }, {
+        "text" : "Dessutom skapar eleven med <strong>________</strong> resultat installerbara paket av applikationen eller installationsprogram för applikationen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom skapar eleven med <strong>tillfredsställande</strong> resultat installerbara paket av applikationen eller installationsprogram för applikationen.",
+          "C" : "Dessutom skapar eleven med <strong>tillfredsställande</strong> resultat installerbara paket av applikationen eller installationsprogram för applikationen.",
+          "A" : "Dessutom skapar eleven med <strong>gott</strong> resultat installerbara paket av applikationen eller installationsprogram för applikationen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I sitt arbete använder eleven <strong>________</strong> verktyg för kodning, projekthantering och samarbete samt för kvalitetskontroll, testning, kodanalys och versionshantering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt arbete använder eleven <strong>några</strong> verktyg för kodning, projekthantering och samarbete samt för kvalitetskontroll, testning, kodanalys och versionshantering.",
+          "C" : "I sitt arbete <strong>installerar och</strong> använder eleven <strong>några</strong> verktyg för kodning, projekthantering och samarbete samt för kvalitetskontroll, testning, kodanalys och versionshantering.",
+          "A" : "I sitt arbete <strong>installerar och</strong> använder eleven <strong>flera</strong> verktyg för kodning, projekthantering och samarbete samt för kvalitetskontroll, testning, kodanalys och versionshantering."
+        }
+      }, {
+        "text" : "Dessutom skapar eleven <strong>________</strong> kod som följer projektets specificerade kodstandard.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom skapar eleven <strong>med viss säkerhet</strong> kod som följer projektets specificerade kodstandard.",
+          "C" : "Dessutom skapar eleven <strong>med viss säkerhet</strong> kod som följer projektets specificerade kodstandard.",
+          "A" : "Dessutom skapar eleven <strong>med säkerhet</strong> kod som följer projektets specificerade kodstandard."
+        }
+      }, {
+        "text" : "Under arbetet använder och skapar eleven <strong>________</strong> teknisk dokumentation, buggrapporter och tester.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet använder och skapar eleven <strong>med viss säkerhet</strong> teknisk dokumentation, buggrapporter och tester.",
+          "C" : "Under arbetet använder och skapar eleven <strong>med viss säkerhet</strong> teknisk dokumentation, buggrapporter och tester.",
+          "A" : "Under arbetet använder och skapar eleven <strong>med säkerhet</strong> teknisk dokumentation, buggrapporter och tester."
+        }
+      }, {
+        "text" : "Eleven för <strong>________</strong> resonemang med användare och medarbetare för att föra arbetet framåt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven för <strong>enkla</strong> resonemang med användare och medarbetare för att föra arbetet framåt.",
+          "C" : "Eleven för <strong>välgrundade</strong> resonemang med användare och medarbetare för att föra arbetet framåt.",
+          "A" : "Eleven för <strong>välgrundade och nyanserade</strong> resonemang med användare och medarbetare för att föra arbetet framåt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för hur applikationen har anpassats för vald körmiljö och hur denna förhåller sig till andra körmiljöer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för hur applikationen har anpassats för vald körmiljö och hur denna förhåller sig till andra körmiljöer.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för hur applikationen har anpassats för vald körmiljö och hur denna förhåller sig till andra körmiljöer.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för hur applikationen har anpassats för vald körmiljö och hur denna förhåller sig till andra körmiljöer."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> hur produkten internationaliserats eller lokaliserats.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> hur produkten internationaliserats eller lokaliserats.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> hur produkten internationaliserats eller lokaliserats.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> hur produkten internationaliserats eller lokaliserats."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för hur en god arbetsmiljö vid mjukvarudesign kan utformas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för hur en god arbetsmiljö vid mjukvarudesign kan utformas.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för hur en god arbetsmiljö vid mjukvarudesign kan utformas.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för hur en god arbetsmiljö vid mjukvarudesign kan utformas."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för olika alternativ för licenser, distributionsmetoder och betalningsmodeller.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för olika alternativ för licenser, distributionsmetoder och betalningsmodeller.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för olika alternativ för licenser, distributionsmetoder och betalningsmodeller.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för olika alternativ för licenser, distributionsmetoder och betalningsmodeller."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

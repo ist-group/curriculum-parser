@@ -1,0 +1,666 @@
+{
+  "name" : "Handel",
+  "description" : "Handel finns i många olika branscher och former och är en länk mellan tillverkare och konsument. Handel bedrivs med både varor och tjänster – lokalt och globalt, fysiskt och digitalt. Ämnet handel omfattar handels- och tjänstesektorns roll och funktioner samt affärsutveckling, ledarskap och marknadsföring.",
+  "code" : "HAN",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet handel ska syfta till att eleverna utvecklar kunskaper om handels- och tjänstesektorn.", "Den ska också lägga en grund för elevernas förmåga att yrkesmässigt utföra arbetsuppgifter inom handel med varor och tjänster.", "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om och färdigheter i praktisk marknadsföring, butiksmatematik, affärsdrift och ledarskap.", "Vidare ska undervisningen leda till att eleverna förstår sambandet mellan utbud och efterfrågan." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att utveckla förmåga att kommunicera och möta kunder på ett serviceinriktat och kvalitetsmedvetet sätt.", "Undervisningen ska också leda till att eleverna utvecklar kunskaper om säkerhetsfrågor, lagar och andra bestämmelser.", "Dessutom ska undervisningen bidra till att eleverna utvecklar kunskaper om handelns roll för hållbar utveckling." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom praktiska övningar och ett undersökande arbetssätt ska eleverna ges möjlighet att utföra arbetsuppgifter inom handel med varor och tjänster samt utveckla en yrkesmässig attityd i mötet med kunder.", "Via kontakter med företag och organisationer inom handels- och tjänstesektorn ska eleverna ges möjlighet att utveckla förståelse av företagandets villkor.", "Eleverna ska även ges möjlighet att använda informationsteknik för affärsmässig verksamhet." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet handel ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om handels- och tjänstesektorn.", "Kunskaper om affärsutveckling, organisation och ledarskap samt om entreprenörskap och eget företagande.", "Förmåga att planera, organisera och utföra arbetsuppgifter inom handel med varor och tjänster.", "Färdigheter i att utforma säljstödsmaterial och säljande varuexponeringar.", "Förmåga att använda utrustning, material, redskap, tekniker och arbetsmetoder inom området.", "Kunskaper om lagar och andra bestämmelser inom området.", "Förmåga att utföra ekonomiska beräkningar, göra riskbedömningar och lösa problem.", "Förmåga att arbeta ergonomiskt, säkert och miljöanpassat.", "Förmåga att utvärdera sitt arbete och resultat.", "Förmåga att samverka med andra och kommunicera med kunder." ]
+  } ],
+  "courses" : [ {
+    "name" : "Affärsutveckling och ledarskap",
+    "description" : "Kursen affärsutveckling och ledarskap omfattar punkterna 2–3 och 5–10 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "HANAFR0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Affärsutveckling, omvärldsanalys och marknadsundersökningar.", "Affärsidé, koncept, försäljningskanaler och positionering.", "Entreprenörskap och eget företagande.", "Praktisk butiksdrift.", "Säljmiljö, inredning och utrustning i butiker.", "Ledarens roll och uppgifter i butiker, stormarknader och varuhus.", "Arbetsledning samt organisations- och personalfrågor, till exempel projektledning, konflikthantering, samarbete, sociala normer och arbetsvillkor.", "Lagar och andra bestämmelser, till exempel om arbetsrätt.", "Olika tekniker och metoder för ekonomiska beräkningar samt riskbedömningar och nyckeltal.", "Säkerhet och risker i handeln samt förebyggande arbete för god inre och yttre säkerhet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> villkoren för samt olika sätt att utveckla, organisera och leda arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> villkoren för samt olika sätt att utveckla, organisera och leda arbetet.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> villkoren för samt olika sätt att utveckla, organisera och leda arbetet.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> villkoren för samt olika sätt att utveckla, organisera och leda arbetet."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> aspekt på entreprenörskap och <strong>________</strong> villkoren för eget företagande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>någon</strong> aspekt på entreprenörskap och <strong>översiktligt</strong> villkoren för eget företagande.",
+          "C" : "Dessutom beskriver eleven <strong>några</strong> aspekter på entreprenörskap och <strong>utförligt</strong> villkoren för eget företagande.",
+          "A" : "Dessutom beskriver eleven <strong>flera</strong> aspekter på entreprenörskap samt <strong>utförligt och nyanserat</strong> villkoren för eget företagande."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar <strong>________</strong> med handledare arbetsuppgifter inom affärsutveckling, ledarskap och butiksetablering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar <strong>i samråd</strong> med handledare arbetsuppgifter inom affärsutveckling, ledarskap och butiksetablering.",
+          "C" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare arbetsuppgifter inom affärsutveckling, ledarskap och butiksetablering.",
+          "A" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare arbetsuppgifter inom affärsutveckling, ledarskap och butiksetablering."
+        }
+      }, {
+        "text" : "Eleven utför dem med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför dem med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven utför dem med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven utför dem med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
+          "C" : "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
+          "A" : "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser."
+        }
+      }, {
+        "text" : "Under arbetets gång utför eleven <strong>________</strong> ekonomiska beräkningar, gör grundläggande riskbedömningar och löser, <strong>________</strong> med handledare, problem som uppkommer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetets gång utför eleven <strong>med viss säkerhet</strong> ekonomiska beräkningar, gör grundläggande riskbedömningar och löser, <strong>i samråd</strong> med handledare, problem som uppkommer.",
+          "C" : "Under arbetets gång utför eleven <strong>med viss säkerhet</strong> ekonomiska beräkningar, gör grundläggande riskbedömningar och löser, <strong>efter samråd</strong> med handledare, problem som uppkommer.",
+          "A" : "Under arbetets gång utför eleven <strong>med säkerhet</strong> ekonomiska beräkningar, gör grundläggande riskbedömningar och löser, <strong>efter samråd</strong> med handledare, problem som uppkommer."
+        }
+      }, {
+        "text" : "Beräkningarna är riktigt utförda och eleven identifierar nyckeltal.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Beräkningarna är riktigt utförda och eleven identifierar nyckeltal.",
+          "C" : "Beräkningarna är riktigt utförda och eleven identifierar <strong>och förklarar</strong> nyckeltal.",
+          "A" : "Beräkningarna är riktigt utförda och eleven identifierar <strong>och förklarar</strong> nyckeltal."
+        }
+      }, {
+        "text" : "Vidare arbetar eleven miljöanpassat samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare arbetar eleven miljöanpassat samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.",
+          "C" : "Vidare arbetar eleven miljöanpassat samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.",
+          "A" : "Vidare arbetar eleven miljöanpassat samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra."
+        }
+      }, {
+        "text" : "Detta gör eleven <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Detta gör eleven <strong>i samråd</strong> med handledare.",
+          "C" : "Detta gör eleven <strong>efter samråd</strong> med handledare.",
+          "A" : "Detta gör eleven <strong>efter samråd</strong> med handledare."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Eleven samverkar med andra och kommunicerar <strong>________</strong> på ett kundanpassat sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samverkar med andra och kommunicerar <strong>med viss säkerhet</strong> på ett kundanpassat sätt.",
+          "C" : "Eleven samverkar med andra och kommunicerar <strong>med viss säkerhet</strong> på ett kundanpassat sätt <strong>och med korrekt fackspråk</strong>.",
+          "A" : "Eleven samverkar med andra och kommunicerar <strong>med säkerhet</strong> på ett kundanpassat sätt <strong>och med korrekt fackspråk</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Branschkunskap inom handel och administration",
+    "description" : "Kursen branschkunskap inom handel och administration omfattar punkterna 1, 3, 5–6 och 8–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 9. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "HANBRS0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Branscher, centrala yrken och arbetsuppgifter inom handels- och tjänstesektorn.", "Historik, strukturomvandling och utvecklingstendenser inom handels- och tjänstesektorn.", "Handelns och tjänsternas roll, funktion och nytta i samhälle och näringsliv.", "Informationssökning och informationsbearbetning, till exempel via internet.", "Servicekoncept, affärsmodeller och konsumtionstrender.", "Konsumentkunskap och etikfrågor.", "Lagar och andra bestämmelser inom olika branscher och områden, till exempel om arbetsrätt och diskriminering.", "Säkerhet för kunder, personal och företag.", "Miljöfrågor och miljömärkning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> branscher, centrala yrken och arbetsuppgifter inom handels- och tjänstesektorn samt sektorns utveckling.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> branscher, centrala yrken och arbetsuppgifter inom handels- och tjänstesektorn samt sektorns utveckling.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> branscher, centrala yrken och arbetsuppgifter inom handels- och tjänstesektorn samt sektorns utveckling.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> branscher, centrala yrken och arbetsuppgifter inom handels- och tjänstesektorn samt sektorns utveckling."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> handelns och tjänsternas roll, funktion och nytta.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> handelns och tjänsternas roll, funktion och nytta.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> handelns och tjänsternas roll, funktion och nytta.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> handelns och tjänsternas roll, funktion och nytta."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar <strong>________</strong> med handledare enklare arbetsuppgifter inom handel med varor och tjänster.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar <strong>i samråd</strong> med handledare enklare arbetsuppgifter inom handel med varor och tjänster.",
+          "C" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare enklare arbetsuppgifter inom handel med varor och tjänster.",
+          "A" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare enklare arbetsuppgifter inom handel med varor och tjänster."
+        }
+      }, {
+        "text" : "Eleven utför dem med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför dem med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven utför dem med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven utför dem med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder."
+        }
+      }, {
+        "text" : "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
+          "C" : "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
+          "A" : "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser."
+        }
+      }, {
+        "text" : "Vidare arbetar eleven miljöanpassat samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare arbetar eleven miljöanpassat samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.",
+          "C" : "Vidare arbetar eleven miljöanpassat samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.",
+          "A" : "Vidare arbetar eleven miljöanpassat samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra."
+        }
+      }, {
+        "text" : "Detta gör eleven <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Detta gör eleven <strong>i samråd</strong> med handledare.",
+          "C" : "Detta gör eleven <strong>efter samråd</strong> med handledare.",
+          "A" : "Detta gör eleven <strong>efter samråd</strong> med handledare."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Eleven samverkar med andra och kommunicerar <strong>________</strong> både internt och externt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samverkar med andra och kommunicerar <strong>med viss säkerhet</strong> både internt och externt.",
+          "C" : "Eleven samverkar med andra och kommunicerar <strong>med viss säkerhet</strong> både internt och externt <strong>och med korrekt fackspråk</strong>.",
+          "A" : "Eleven samverkar med andra och kommunicerar <strong>med säkerhet</strong> både internt och externt <strong>och med korrekt fackspråk</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Handel – specialisering",
+    "description" : "Kursen handel – specialisering omfattar punkterna 1–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 1, 7 och 10. I kursen behandlas fördjupade färdigheter inom valt verksamhetsområde.",
+    "code" : "HANHAN00S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Produktkunskap och branschkunskap inom valt verksamhetsområde.", "Yrken och arbetsuppgifter inom valt verksamhetsområde.", "Organisationsformer och verksamhetsformer inom valt verksamhetsområde.", "Entreprenörskap och eget företagande inom valt verksamhetsområde.", "Försäljningsinriktade och serviceinriktade arbetsuppgifter inom valt verksamhetsområde.", "Datoranvändning och relevanta datorprogram inom valt verksamhetsområde.", "Lagar och andra bestämmelser inom handels- och tjänstesektorn, till exempel om arbetsrätt och diskriminering, samt etiska regler.", "Miljö- och säkerhetsfrågor inom valt verksamhetsområde." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> branscher, yrken, arbetsuppgifter, organisationsformer och verksamhetsformer inom valt verksamhetsområde.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> branscher, yrken, arbetsuppgifter, organisationsformer och verksamhetsformer inom valt verksamhetsområde.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> branscher, yrken, arbetsuppgifter, organisationsformer och verksamhetsformer inom valt verksamhetsområde.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> branscher, yrken, arbetsuppgifter, organisationsformer och verksamhetsformer inom valt verksamhetsområde."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> aspekt på entreprenörskap och <strong>________</strong> villkoren för eget företagande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>någon</strong> aspekt på entreprenörskap och <strong>översiktligt</strong> villkoren för eget företagande.",
+          "C" : "Dessutom beskriver eleven <strong>några</strong> aspekter på entreprenörskap och <strong>utförligt</strong> villkoren för eget företagande.",
+          "A" : "Dessutom beskriver eleven <strong>flera</strong> aspekter på entreprenörskap samt <strong>utförligt och nyanserat</strong> villkoren för eget företagande."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar <strong>________</strong> med handledare försäljnings- och serviceinriktade arbetsuppgifter inom handel med varor och tjänster.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar <strong>i samråd</strong> med handledare försäljnings- och serviceinriktade arbetsuppgifter inom handel med varor och tjänster.",
+          "C" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare försäljnings- och serviceinriktade arbetsuppgifter inom handel med varor och tjänster.",
+          "A" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare försäljnings- och serviceinriktade arbetsuppgifter inom handel med varor och tjänster."
+        }
+      }, {
+        "text" : "Eleven utför dem med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför dem med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven utför dem med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven utför dem med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "Dessutom utformar eleven <strong>________</strong> med handledare enkla säljstödsmaterial och varuexponeringar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utformar eleven <strong>i samråd</strong> med handledare enkla säljstödsmaterial och varuexponeringar.",
+          "C" : "Dessutom utformar eleven <strong>efter samråd</strong> med handledare enkla säljstödsmaterial och varuexponeringar.",
+          "A" : "Dessutom utformar eleven <strong>efter samråd</strong> med handledare enkla säljstödsmaterial och varuexponeringar."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
+          "C" : "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
+          "A" : "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser."
+        }
+      }, {
+        "text" : "Under arbetets gång utför eleven <strong>________</strong> grundläggande riskbedömningar och löser, <strong>________</strong> med handledare, problem som uppkommer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetets gång utför eleven <strong>med viss säkerhet</strong> grundläggande riskbedömningar och löser, <strong>i samråd</strong> med handledare, problem som uppkommer.",
+          "C" : "Under arbetets gång utför eleven <strong>med viss säkerhet</strong> grundläggande riskbedömningar och löser, <strong>efter samråd</strong> med handledare, problem som uppkommer.",
+          "A" : "Under arbetets gång utför eleven <strong>med säkerhet</strong> grundläggande riskbedömningar och löser, <strong>efter samråd</strong> med handledare, problem som uppkommer."
+        }
+      }, {
+        "text" : "Vidare arbetar eleven miljöanpassat samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare arbetar eleven miljöanpassat samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.",
+          "C" : "Vidare arbetar eleven miljöanpassat samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.",
+          "A" : "Vidare arbetar eleven miljöanpassat samt ergonomiskt och på ett sätt som är säkert för eleven själv och andra."
+        }
+      }, {
+        "text" : "Detta gör eleven <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Detta gör eleven <strong>i samråd</strong> med handledare.",
+          "C" : "Detta gör eleven <strong>efter samråd</strong> med handledare.",
+          "A" : "Detta gör eleven <strong>efter samråd</strong> med handledare."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Eleven samverkar med andra och kommunicerar <strong>________</strong> både internt och externt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samverkar med andra och kommunicerar <strong>med viss säkerhet</strong> både internt och externt.",
+          "C" : "Eleven samverkar med andra och kommunicerar <strong>med viss säkerhet</strong> både internt och externt <strong>och med korrekt fackspråk</strong>.",
+          "A" : "Eleven samverkar med andra och kommunicerar <strong>med säkerhet</strong> både internt och externt <strong>och med korrekt fackspråk</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Praktisk marknadsföring 1",
+    "description" : "Kursen praktisk marknadsföring 1 omfattar punkterna 3–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 4, 7 och 10. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "HANPRA01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Affärsidé, marknads- och säljplan.", "Marknadsföring och säljkampanjer och andra säljfrämjande åtgärder.", "Sortiment, butiksprofil och kundens uppfattning och butiksupplevelse.", "Snabbtextning och säljstödsmaterial.", "Datorstöd i exponeringsarbetet.", "Konsument- och marknadslagar.", "Etiska regler.", "Butiksmatematik, till exempel beställningspunkt och omräkningstal, marginal och pålägg, samt riskbedömningar.", "Metoder för utvärdering av marknadsföring.", "Butikskommunikation och hur butiksmiljön påverkar och vägleder kunders köpbeteende i butiken.", "Butikskommunikatörens uppgifter i olika slags butiker, till exempel dagligvarubutiker och fackhandelsbutiker." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar <strong>________</strong> med handledare arbetsuppgifter inom praktisk marknadsföring.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar <strong>i samråd</strong> med handledare arbetsuppgifter inom praktisk marknadsföring.",
+          "C" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare arbetsuppgifter inom praktisk marknadsföring.",
+          "A" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare arbetsuppgifter inom praktisk marknadsföring."
+        }
+      }, {
+        "text" : "Eleven utför dem med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför dem med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven utför dem med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven utför dem med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "Dessutom utformar eleven <strong>________</strong> med handledare enkla säljstödsmaterial och varuexponeringar som är av <strong>________</strong> kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utformar eleven <strong>i samråd</strong> med handledare enkla säljstödsmaterial och varuexponeringar som är av <strong>tillfredsställande</strong> kvalitet.",
+          "C" : "Dessutom utformar eleven <strong>efter samråd</strong> med handledare enkla säljstödsmaterial och varuexponeringar som är av <strong>tillfredsställande</strong> kvalitet <strong>och uppfyller estetiska krav</strong>.",
+          "A" : "Dessutom utformar eleven <strong>efter samråd</strong> med handledare enkla säljstödsmaterial och varuexponeringar som är av <strong>god</strong> kvalitet <strong>och uppfyller estetiska krav</strong>."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
+          "C" : "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
+          "A" : "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser."
+        }
+      }, {
+        "text" : "Under arbetets gång utför eleven <strong>________</strong> ekonomiska beräkningar, gör grundläggande riskbedömningar och löser, <strong>________</strong> med handledare, problem som uppkommer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetets gång utför eleven <strong>med viss säkerhet</strong> ekonomiska beräkningar, gör grundläggande riskbedömningar och löser, <strong>i samråd</strong> med handledare, problem som uppkommer.",
+          "C" : "Under arbetets gång utför eleven <strong>med viss säkerhet</strong> ekonomiska beräkningar, gör grundläggande riskbedömningar och löser, <strong>efter samråd</strong> med handledare, problem som uppkommer.",
+          "A" : "Under arbetets gång utför eleven <strong>med säkerhet</strong> ekonomiska beräkningar, gör grundläggande riskbedömningar och löser, <strong>efter samråd</strong> med handledare, problem som uppkommer."
+        }
+      }, {
+        "text" : "Beräkningarna är riktigt utförda.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Beräkningarna är riktigt utförda.",
+          "C" : "Beräkningarna är riktigt utförda.",
+          "A" : "Beräkningarna är riktigt utförda."
+        }
+      }, {
+        "text" : "Vidare arbetar eleven miljöanpassat samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare arbetar eleven miljöanpassat samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.",
+          "C" : "Vidare arbetar eleven miljöanpassat, ergonomiskt samt på ett sätt som är säkert både för eleven själv och andra.",
+          "A" : "Vidare arbetar eleven miljöanpassat, ergonomiskt samt på ett sätt som är säkert både för eleven själv och andra."
+        }
+      }, {
+        "text" : "Detta gör eleven <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Detta gör eleven <strong>i samråd</strong> med handledare.",
+          "C" : "Detta gör eleven <strong>efter samråd</strong> med handledare.",
+          "A" : "Detta gör eleven <strong>efter samråd</strong> med handledare."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Eleven samverkar med andra och kommunicerar <strong>________</strong> på ett kundanpassat sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samverkar med andra och kommunicerar <strong>med viss säkerhet</strong> på ett kundanpassat sätt.",
+          "C" : "Eleven samverkar med andra och kommunicerar <strong>med viss säkerhet</strong> på ett kundanpassat sätt <strong>och med korrekt fackspråk</strong>.",
+          "A" : "Eleven samverkar med andra och kommunicerar <strong>med säkerhet</strong> på ett kundanpassat sätt <strong>och med korrekt fackspråk</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Praktisk marknadsföring 2",
+    "description" : "Kursen praktisk marknadsföring 2 omfattar punkterna 3–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 4, 6 och 10. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "HANPRA02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Affärsidé samt säljmiljöns utformning i fråga om ljus, ljud, färg och form.", "Marknads- och säljplan.", "Omvärldsanalys och marknadsundersökningar.", "Varuexponering, skyltning och säljstödsmaterial, exponering i olika prislägen, i olika branscher och för olika typer av kunder.", "Datorstöd i praktisk marknadsföring.", "Lagar och andra bestämmelser inom området samt etiska regler.", "Konkurrensmedel, konkurrensförmåga och lönsamhet.", "Miljö, kretsloppstänkande, resurshushållnings- och säkerhetsfrågor." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar <strong>________</strong> med handledare arbetsuppgifter inom praktisk marknadsföring.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar <strong>i samråd</strong> med handledare arbetsuppgifter inom praktisk marknadsföring.",
+          "C" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare arbetsuppgifter inom praktisk marknadsföring.",
+          "A" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare arbetsuppgifter inom praktisk marknadsföring."
+        }
+      }, {
+        "text" : "Eleven utför dem med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför dem med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven utför dem med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven utför dem med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "Dessutom utformar eleven <strong>________</strong> med handledare säljstödsmaterial och varuexponeringar som är av <strong>________</strong> kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utformar eleven <strong>i samråd</strong> med handledare säljstödsmaterial och varuexponeringar som är av <strong>tillfredsställande</strong> kvalitet.",
+          "C" : "Dessutom utformar eleven <strong>efter samråd</strong> med handledare säljstödsmaterial och varuexponeringar som är av <strong>tillfredsställande</strong> kvalitet <strong>och uppfyller estetiska krav</strong>.",
+          "A" : "Dessutom utformar eleven <strong>efter samråd</strong> med handledare säljstödsmaterial och varuexponeringar som är av <strong>god</strong> kvalitet <strong>och uppfyller estetiska krav</strong>."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
+          "C" : "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
+          "A" : "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser."
+        }
+      }, {
+        "text" : "Under arbetets gång utför eleven <strong>________</strong> grundläggande riskbedömningar och löser, <strong>________</strong> med handledare, problem som uppkommer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetets gång utför eleven <strong>med viss säkerhet</strong> grundläggande riskbedömningar och löser, <strong>i samråd</strong> med handledare, problem som uppkommer.",
+          "C" : "Under arbetets gång utför eleven <strong>med viss säkerhet</strong> grundläggande riskbedömningar och löser, <strong>efter samråd</strong> med handledare, problem som uppkommer.",
+          "A" : "Under arbetets gång utför eleven <strong>med säkerhet</strong> grundläggande riskbedömningar och löser, <strong>efter samråd</strong> med handledare, problem som uppkommer."
+        }
+      }, {
+        "text" : "Vidare arbetar eleven miljöanpassat samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare arbetar eleven miljöanpassat samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.",
+          "C" : "Vidare arbetar eleven miljöanpassat samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.",
+          "A" : "Vidare arbetar eleven miljöanpassat samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra."
+        }
+      }, {
+        "text" : "Detta gör eleven <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Detta gör eleven <strong>i samråd</strong> med handledare.",
+          "C" : "Detta gör eleven <strong>efter samråd</strong> med handledare.",
+          "A" : "Detta gör eleven <strong>efter samråd</strong> med handledare."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Eleven samverkar med andra och kommunicerar <strong>________</strong> på ett kundanpassat sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samverkar med andra och kommunicerar <strong>med viss säkerhet</strong> på ett kundanpassat sätt.",
+          "C" : "Eleven samverkar med andra och kommunicerar <strong>med viss säkerhet</strong> på ett kundanpassat sätt <strong>och med korrekt fackspråk</strong>.",
+          "A" : "Eleven samverkar med andra och kommunicerar <strong>med säkerhet</strong> på ett kundanpassat sätt <strong>och med korrekt fackspråk</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Praktisk marknadsföring 3",
+    "description" : "Kursen praktisk marknadsföring 3 omfattar punkterna 3–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 4 och 6. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "HANPRA03",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Affärsidé och marknadsplan.", "Intern marknadsföring.", "Butiksinredning och butiksdesign.", "Butiks- och fönsterexponeringar och hur färg-, form- och ljussättning används i butiken.", "Olika exponeringskategorier, till exempel kategori- och sambandsexponeringar.", "Säljstödsmaterial.", "Digitala hjälpmedel.", "Lagar och andra bestämmelser inom området samt etiska regler.", "Miljö, kretsloppstänkande, resurshushållnings- och säkerhetsfrågor.", "Marknadskommunikation." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och organiserar <strong>________</strong> med handledare arbetsuppgifter inom praktisk marknadsföring.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och organiserar <strong>i samråd</strong> med handledare arbetsuppgifter inom praktisk marknadsföring.",
+          "C" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare arbetsuppgifter inom praktisk marknadsföring.",
+          "A" : "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare arbetsuppgifter inom praktisk marknadsföring."
+        }
+      }, {
+        "text" : "Eleven utför dem med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför dem med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven utför dem med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven utför dem med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "Dessutom utformar eleven <strong>________</strong> med handledare säljstödsmaterial och varuexponeringar som är av <strong>________</strong> kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utformar eleven <strong>i samråd</strong> med handledare säljstödsmaterial och varuexponeringar som är av <strong>tillfredsställande</strong> kvalitet.",
+          "C" : "Dessutom utformar eleven <strong>efter samråd</strong> med handledare säljstödsmaterial och varuexponeringar som är av <strong>tillfredsställande</strong> kvalitet <strong>och uppfyller estetiska krav</strong>.",
+          "A" : "Dessutom utformar eleven <strong>efter samråd</strong> med handledare säljstödsmaterial och varuexponeringar som är av <strong>god</strong> kvalitet <strong>och uppfyller estetiska krav</strong>."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
+          "C" : "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
+          "A" : "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser."
+        }
+      }, {
+        "text" : "Under arbetets gång utför eleven <strong>________</strong> grundläggande riskbedömningar och löser, <strong>________</strong> med handledare, problem som uppkommer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetets gång utför eleven <strong>med viss säkerhet</strong> grundläggande riskbedömningar och löser, <strong>i samråd</strong> med handledare, problem som uppkommer.",
+          "C" : "Under arbetets gång utför eleven <strong>med viss säkerhet</strong> grundläggande riskbedömningar och löser, <strong>efter samråd</strong> med handledare, problem som uppkommer.",
+          "A" : "Under arbetets gång utför eleven <strong>med säkerhet</strong> grundläggande riskbedömningar och löser, <strong>efter samråd</strong> med handledare, problem som uppkommer."
+        }
+      }, {
+        "text" : "Vidare arbetar eleven miljöanpassar samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare arbetar eleven miljöanpassar samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.",
+          "C" : "Vidare arbetar eleven miljöanpassat samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.",
+          "A" : "Vidare arbetar eleven miljöanpassat samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra."
+        }
+      }, {
+        "text" : "Detta gör eleven <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Detta gör eleven <strong>i samråd</strong> med handledare.",
+          "C" : "Detta gör eleven <strong>efter samråd</strong> med handledare.",
+          "A" : "Detta gör eleven <strong>efter samråd</strong> med handledare."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Eleven samverkar med andra och kommunicerar <strong>________</strong> på ett kundanpassat sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samverkar med andra och kommunicerar <strong>med viss säkerhet</strong> på ett kundanpassat sätt.",
+          "C" : "Eleven samverkar med andra och kommunicerar <strong>med viss säkerhet</strong> på ett kundanpassat sätt <strong>och med korrekt fackspråk</strong>.",
+          "A" : "Eleven samverkar med andra och kommunicerar <strong>med säkerhet</strong> på ett kundanpassat sätt <strong>och med korrekt fackspråk</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

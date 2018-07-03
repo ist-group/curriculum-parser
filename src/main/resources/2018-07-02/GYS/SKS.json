@@ -1,0 +1,176 @@
+{
+  "name" : "Skogsbruk",
+  "description" : "Ämnet skogsbruk behandlar skogsskötsel och naturvård i skogen. Ämnet handlar om skogens ekonomiska, ekologiska och sociala värden. I ämnet ingår teknisk utrustning som används inom området.",
+  "code" : "SKS",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet skogsbruk ska syfta till att eleverna utvecklar kunskaper om skogsskötsel och naturvård samt förmåga att utföra arbetsuppgifter i skogen.", "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om skogens ekonomiska betydelse samt om skogens naturvärden och sociala värden." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar kunskaper om mark, växter och djur i skogen samt om svenska trädslag och deras egenskaper.", "Genom undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om olika skador och skadegörare på växande träd och virke.", "Undervisningen ska även bidra till att eleverna utvecklar kunskaper om natur- och kulturvärden i skogen samt om skogens värde för det rörliga friluftslivet.", "Undervisningen ska leda till att eleverna utvecklar kunskap om skogen som ekosystem samt förståelse av samspelet mellan natur och människa." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Vidare ska eleverna ges möjlighet att utveckla kunskaper om och förmåga att använda och vårda den tekniska utrustning som används inom skogsbruk.", "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser som rör skogsbruk.", "Undervisningen ska leda till att eleverna utvecklar förmåga att utföra arbetsuppgifter inom skogsskötsel och naturvård på ett ergonomiskt och säkert sätt samt med hänsyn till miljön." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Praktiskt arbete samt ett undersökande och problemlösande arbetssätt ska ingå i undervisningen.", "I undervisningen ska eleverna ges möjlighet till fältstudier i olika skogsmiljöer.", "Eleverna ska ges möjlighet att reflektera över och samtala om skogens ekonomiska, ekologiska och sociala värden samt om olycksrisker och säkerhetsåtgärder i samband med skogsarbete." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet skogsbruk ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om skogsbrukets ekonomiska betydelse samt om skogens naturvärden och sociala värden.", "Kunskaper om svenska trädslag och deras egenskaper samt användningsområden.", "Förmåga att utföra arbetsuppgifter inom skogsbruk och naturvård på ett säkert sätt samt med hänsyn till miljön.", "Förmåga att använda, sköta och underhålla teknisk utrustning på ett ergonomiskt samt säkert sätt." ]
+  } ],
+  "courses" : [ {
+    "name" : "Skogsbruk 1",
+    "description" : "Kursen skogsbruk 1 omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "SKSSKG51",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Skogsbruket och skogens ekonomiska, ekologiska och sociala värden.", "Skogsskötsel samt natur- och kulturvård.", "Skogens växter och djur. Skogsekologi.", "Svenska skogsträd, deras biologi, egenskaper och användning.", "Produktionscykeln i skogen.", "Vanliga skador och skadegörare på växande träd samt förebyggande åtgärder.", "Markberedning och plantering. Mark- och vattenvård.", "Röjningsarbete i olika typer av bestånd. Stamval vid röjning och gallring.", "Orientering i skog och mark med hjälp av karta, kompass och GPS.", "Redskap och annan teknisk utrustning. Konstruktion, funktion och säkerhet.", "Ergonomi, arbetsmiljö och säkerhet i samband med skogsskötsel.", "Brandförebyggande åtgärder.", "Lagar och andra bestämmelser, till exempel skogsvårdslagen och allemansrätten." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva ett skogsområde och vad det kan betyda ekologiskt, socialt samt ekonomiskt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva ett skogsområde och vad det kan betyda ekologiskt, socialt samt ekonomiskt.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> ett skogsområde och vad det kan betyda ekologiskt, socialt samt ekonomiskt.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> ett skogsområde och vad det kan betyda ekologiskt, socialt samt ekonomiskt."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att identifiera och namnge trädslag samt i att beskriva deras egenskaper och användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att identifiera och namnge trädslag samt i att beskriva deras egenskaper och användningsområden.",
+          "C" : "Eleven identifierar och namnger <strong>på ett enkelt sätt</strong> några trädslag samt beskriver <strong>på ett enkelt sätt</strong> deras egenskaper och användningsområden.",
+          "A" : "Eleven identifierar och namnger <strong>på ett utvecklat sätt</strong> några trädslag samt beskriver <strong>på ett utvecklat sätt</strong> deras egenskaper och användningsområden."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att utföra arbetsmoment inom skogsbruk och naturvård på ett säkert sätt samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att utföra arbetsmoment inom skogsbruk och naturvård på ett säkert sätt samt med hänsyn till miljön.",
+          "C" : "Eleven utför <strong>med visst handlag</strong> arbetsmoment inom skogsbruk och naturvård på ett säkert sätt samt med hänsyn till miljön.",
+          "A" : "Eleven utför <strong>med gott handlag</strong> arbetsmoment inom skogsbruk och naturvård på ett säkert sätt samt med hänsyn till miljön."
+        }
+      }, {
+        "text" : "I arbetet <strong>________</strong> eleven i att använda teknisk utrustning på ett ergonomiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet <strong>medverkar</strong> eleven i att använda teknisk utrustning på ett ergonomiskt och säkert sätt.",
+          "C" : "Eleven arbetar med teknisk utrustning på ett säkert och ergonomiskt sätt.",
+          "A" : "Eleven arbetar med teknisk utrustning på ett säkert och ergonomiskt sätt."
+        }
+      }, {
+        "text" : "Dessutom <strong>________</strong> eleven i att utföra underhåll av utrustningen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom <strong>medverkar</strong> eleven i att utföra underhåll av utrustningen.",
+          "C" : "Dessutom utför eleven underhåll av utrustningen <strong>på ett delvis ändamålsenligt sätt</strong>.",
+          "A" : "Dessutom utför eleven underhåll av utrustningen <strong>på ett ändamålsenligt sätt</strong>."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Skogsbruk 2",
+    "description" : "Kursen skogsbruk 2 omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "SKSSKG52",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Skogsbruket och skogens ekonomiska, ekologiska och sociala värden. Skogsbruksplan.", "Skogsskötsel samt natur- och kulturvård. Biologisk mångfald i skogen och ståndortsanpassat skogsbruk.", "Produktionscykeln i skogen och föryngringsåtgärder.", "Virke och virkessortiment.", "Vanliga skador och skadegörare på växande träd samt förebyggande åtgärder.", "Markberedning och plantering. Mark- och vattenvård. Växtnäring.", "Röjningsarbete i olika typer av bestånd. Stamval vid röjning och gallring.", "Orientering i skog och mark med hjälp av karta, kompass och GPS.", "Teknisk utrustning inom skogsskötsel. Konstruktion och funktion.", "Säkerhet och risker vid arbete inom skogsskötsel. Skyddsutrustning.", "Mätinstrument och mätmetoder för att mäta höjder, lutningar och avstånd inom skogsbruk. Beräkningar.", "Ergonomi, arbetsmiljö och säkerhet i samband med skogsskötsel.", "Brandförebyggande åtgärder.", "Lagar och andra bestämmelser, till exempel skogsvårdslagen och allemansrätten." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva ett skogsområde och vad det kan betyda ekologiskt, socialt samt ekonomiskt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva ett skogsområde och vad det kan betyda ekologiskt, socialt samt ekonomiskt.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> ett skogsområde och vad det kan betyda ekologiskt, socialt samt ekonomiskt.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> ett skogsområde och vad det kan betyda ekologiskt, socialt samt ekonomiskt."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att identifiera och namnge trädslag samt i att beskriva deras egenskaper och användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att identifiera och namnge trädslag samt i att beskriva deras egenskaper och användningsområden.",
+          "C" : "Eleven identifierar och namnger <strong>på ett enkelt sätt</strong> några trädslag samt beskriver <strong>på ett enkelt sätt</strong> deras egenskaper och användningsområden.",
+          "A" : "Eleven identifierar och namnger <strong>på ett utvecklat sätt</strong> några trädslag samt beskriver <strong>på ett utvecklat sätt</strong> deras egenskaper och användningsområden."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att utföra arbetsmoment inom skogsbruk och naturvård på ett säkert sätt samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att utföra arbetsmoment inom skogsbruk och naturvård på ett säkert sätt samt med hänsyn till miljön.",
+          "C" : "Eleven utför <strong>med visst handlag</strong> arbetsmoment inom skogsbruk och naturvård på ett säkert sätt samt med hänsyn till miljön.",
+          "A" : "Eleven utför <strong>med gott handlag</strong> arbetsmoment inom skogsbruk och naturvård på ett säkert sätt samt med hänsyn till miljön."
+        }
+      }, {
+        "text" : "I arbetet <strong>________</strong> eleven i att använda teknisk utrustning på ett ergonomiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet <strong>medverkar</strong> eleven i att använda teknisk utrustning på ett ergonomiskt och säkert sätt.",
+          "C" : "Eleven arbetar med teknisk utrustning på ett säkert och ergonomiskt sätt.",
+          "A" : "Eleven arbetar med teknisk utrustning på ett säkert och ergonomiskt sätt."
+        }
+      }, {
+        "text" : "Dessutom <strong>________</strong> eleven i att utföra underhåll av utrustningen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom <strong>medverkar</strong> eleven i att utföra underhåll av utrustningen.",
+          "C" : "Dessutom utför eleven underhåll av utrustningen <strong>på ett delvis ändamålsenligt sätt</strong>.",
+          "A" : "Dessutom utför eleven underhåll av utrustningen <strong>på ett ändamålsenligt sätt</strong>."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Skogsbruk 3",
+    "description" : "Kursen skogsbruk 3 omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "SKSSKG53",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Fördjupning inom något eller några specialområden inom skogsbruk, till exempel ädellövskog, produktion av skogsbränsle och tätortsnära skogar.", "Särskilda krav inom skogsbruket, till exempel hänsyn till naturvärden, kulturvärden och sociala värden.", "Ergonomi, arbetsmiljö och säkerhet i samband med det valda specialområdet.", "Lagar och andra bestämmelser, till exempel skogsvårdslagen och allemansrätten." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva ett skogsområde och vad det kan betyda ekologiskt, socialt samt ekonomiskt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva ett skogsområde och vad det kan betyda ekologiskt, socialt samt ekonomiskt.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> ett skogsområde och vad det kan betyda ekologiskt, socialt samt ekonomiskt.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> ett skogsområde och vad det kan betyda ekologiskt, socialt samt ekonomiskt."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att identifiera och namnge trädslag samt i att beskriva deras egenskaper och användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att identifiera och namnge trädslag samt i att beskriva deras egenskaper och användningsområden.",
+          "C" : "Eleven identifierar och namnger <strong>på ett enkelt sätt</strong> några trädslag samt beskriver <strong>på ett enkelt sätt</strong> deras egenskaper och användningsområden.",
+          "A" : "Eleven identifierar och namnger <strong>på ett utvecklat sätt</strong> några trädslag samt beskriver <strong>på ett utvecklat sätt</strong> deras egenskaper och användningsområden."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att utföra arbetsmoment inom skogsbruk och naturvård på ett säkert sätt samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att utföra arbetsmoment inom skogsbruk och naturvård på ett säkert sätt samt med hänsyn till miljön.",
+          "C" : "Eleven utför <strong>med visst handlag</strong> arbetsmoment inom skogsbruk och naturvård på ett säkert sätt samt med hänsyn till miljön.",
+          "A" : "Eleven utför <strong>med gott handlag</strong> arbetsmoment inom skogsbruk och naturvård på ett säkert sätt samt med hänsyn till miljön."
+        }
+      }, {
+        "text" : "I arbetet <strong>________</strong> eleven i att använda teknisk utrustning på ett ergonomiskt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet <strong>medverkar</strong> eleven i att använda teknisk utrustning på ett ergonomiskt och säkert sätt.",
+          "C" : "Eleven arbetar med teknisk utrustning på ett säkert och ergonomiskt sätt.",
+          "A" : "Eleven arbetar med teknisk utrustning på ett säkert och ergonomiskt sätt."
+        }
+      }, {
+        "text" : "Dessutom <strong>________</strong> eleven i att utföra underhåll av utrustningen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom <strong>medverkar</strong> eleven i att utföra underhåll av utrustningen.",
+          "C" : "Dessutom utför eleven underhåll av utrustningen <strong>på ett delvis ändamålsenligt sätt</strong>.",
+          "A" : "Dessutom utför eleven underhåll av utrustningen <strong>på ett ändamålsenligt sätt</strong>."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

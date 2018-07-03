@@ -1,0 +1,158 @@
+{
+  "name" : "Idrott och hälsa",
+  "description" : "Ämnet idrott och hälsa behandlar sambanden mellan människans livsstil, hälsa och välbefinnande. I ämnet ingår olika former av fysiska aktiviteter både inomhus och utomhus.",
+  "code" : "IDC",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet idrott och hälsa ska syfta till att eleverna utvecklar sin rörelseförmåga och kroppsuppfattning samt förmåga att planera, genomföra och utvärdera olika fysiska aktiviteter.", "Vidare ska undervisningen leda till att eleverna utvecklar förmåga att använda fysiska aktiviteter som en källa till hälsa och välbefinnande." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om livsstilens betydelse för hälsan.", "Genom undervisningen ska eleverna också ges möjlighet att utveckla förmåga att samtala om och reflektera över vad fysiska aktiviteter och livsstil betyder för den fysiska förmågan och hälsan." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att genom fysiska aktiviteter utveckla kunskaper om hur den egna kroppen fungerar i arbete och vila.", "Undervisningen ska också bidra till att eleverna utvecklar kunskaper om hur fysiska aktiviteter kan genomföras på ett ergonomiskt och säkert sätt.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper i att hantera nödsituationer vid fysiska aktiviteter." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska leda till att eleverna utvecklar kunskaper om naturen som en källa till rekreation under olika årstider.", "Genom undervisningen ska eleverna också ges möjlighet att utveckla ett intresse för fysiska aktiviteter i olika utemiljöer." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska utformas så att alla kan delta och utvecklas utifrån sina egna förutsättningar och i samspel med andra." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet idrott och hälsa ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förmåga att planera, genomföra och utvärdera fysiska aktiviteter som utvecklar rörelseförmågan och hälsan.", "Förmåga att reflektera över vad fysiska aktiviteter och livsstilen betyder för hälsan och välbefinnandet.", "Förmåga att utföra fysiska aktiviteter på ett säkert och ergonomiskt sätt." ]
+  } ],
+  "courses" : [ {
+    "name" : "Idrott och hälsa 1",
+    "description" : "Kursen idrott och hälsa 1 omfattar punkterna 1–3 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "IDCIDR51",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Fysiska aktiviteter som tränar rörelseförmåga, kroppsuppfattning, fin- och grovmotorik, balans, styrka och kondition.", "Rörelse till musik och dans.", "Olika träningsmetoder och deras effekter, till exempel konditions- och koordinationsträning.", "Kost i samband med fysiska aktiviteter.", "Sambanden mellan livsstil, hälsa och välbefinnande, till exempel sambanden mellan fysisk aktivitet, utevistelse, sociala kontakter och hälsa.", "Olika utemiljöer och möjligheter till rörelseaktiviteter och rekreation i naturen.", "Klädsel och utrustning vid vistelse i naturen i samband med olika aktiviteter och under olika årstider.", "Hänsynstagande, samarbete och säkerhet i samband med fysiska aktiviteter och friluftsliv.", "Ergonomi. Hur man använder kroppen för att förebygga skador i olika sammanhang." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att genomföra fysiska aktiviteter i olika miljöer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att genomföra fysiska aktiviteter i olika miljöer.",
+          "C" : "Eleven genomför <strong>med viss säkerhet</strong> fysiska aktiviteter i olika miljöer.",
+          "A" : "Eleven genomför <strong>med säkerhet</strong> fysiska aktiviteter i olika miljöer."
+        }
+      }, {
+        "text" : "I samband med aktiviteterna <strong>________</strong> eleven i att välja metoder och i att ge omdömen om resultatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I samband med aktiviteterna <strong>medverkar</strong> eleven i att välja metoder och i att ge omdömen om resultatet.",
+          "C" : "I samband med aktiviteterna väljer eleven <strong>delvis ändamålsenliga</strong> metoder och ger <strong>enkla</strong> omdömen om resultatet.",
+          "A" : "I samband med aktiviteterna väljer eleven <strong>ändamålsenliga</strong> metoder och ger <strong>utvecklade</strong> omdömen om resultatet."
+        }
+      }, {
+        "text" : "Dessutom <strong>________</strong> eleven i att samtala om livsstil, hälsa och välbefinnande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom <strong>medverkar</strong> eleven i att samtala om livsstil, hälsa och välbefinnande.",
+          "C" : "Dessutom samtalar eleven <strong>på ett enkelt sätt</strong> om livsstil, hälsa och välbefinnande.",
+          "A" : "Dessutom samtalar eleven <strong>på ett utvecklat sätt</strong> om livsstil, hälsa och välbefinnande."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven förebygger skador genom att <strong>________</strong> i att förutse och beskriva risker som är förknippade med fysiska aktiviteter och friluftsliv.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven förebygger skador genom att <strong>medverka</strong> i att förutse och beskriva risker som är förknippade med fysiska aktiviteter och friluftsliv.",
+          "C" : "Eleven förebygger skador genom att förutse och <strong>på ett enkelt sätt</strong> beskriva risker som är förknippade med fysiska aktiviteter och friluftsliv.",
+          "A" : "Eleven förebygger skador genom att förutse och <strong>på ett utvecklat sätt</strong> beskriva risker som är förknippade med fysiska aktiviteter och friluftsliv."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Idrott och hälsa 2",
+    "description" : "Kursen idrott och hälsa 2 omfattar punkterna 1–3 under rubriken Ämnets syfte.",
+    "code" : "IDCIDR52",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Fysiska aktiviteter som tränar rörelseförmåga, kroppsuppfattning, fin- och grovmotorik, balans, styrka och kondition.", "Rörelse till musik samt dans.", "Olika träningsmetoder och deras effekter, till exempel konditions- och koordinationsträning.", "Mental träning och avslappning, till exempel genom kroppskontakt, naturupplevelser och andningsövningar. Hur mental träning och avslappning kan användas för att nå mål och ökat välbefinnande.", "Olika utemiljöer och möjligheter till rörelseaktiviteter och rekreation i naturen.", "Hänsynstagande, samarbete och säkerhet i samband med fysiska aktiviteter och friluftsliv." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att genomföra fysiska aktiviteter i olika miljöer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att genomföra fysiska aktiviteter i olika miljöer.",
+          "C" : "Eleven genomför <strong>med viss säkerhet</strong> fysiska aktiviteter i olika miljöer.",
+          "A" : "Eleven genomför <strong>med säkerhet</strong> fysiska aktiviteter i olika miljöer."
+        }
+      }, {
+        "text" : "I samband med aktiviteterna <strong>________</strong> eleven i att välja metoder och i att ge omdömen om resultatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I samband med aktiviteterna <strong>medverkar</strong> eleven i att välja metoder och i att ge omdömen om resultatet.",
+          "C" : "I samband med aktiviteterna väljer eleven <strong>delvis ändamålsenliga</strong> metoder och ger <strong>enkla</strong> omdömen om resultatet.",
+          "A" : "I samband med aktiviteterna väljer eleven <strong>ändamålsenliga</strong> metoder och ger <strong>utvecklade</strong> omdömen om resultatet."
+        }
+      }, {
+        "text" : "Dessutom <strong>________</strong> eleven i att samtala om livsstil, hälsa och välbefinnande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom <strong>medverkar</strong> eleven i att samtala om livsstil, hälsa och välbefinnande.",
+          "C" : "Dessutom samtalar eleven <strong>på ett enkelt sätt</strong> om livsstil, hälsa och välbefinnande.",
+          "A" : "Dessutom samtalar eleven <strong>på ett utvecklat sätt</strong> frågor om livsstil, hälsa och välbefinnande."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven förebygger skador genom att <strong>________</strong> i att förutse och beskriva risker som är förknippade med fysiska aktiviteter och friluftsliv.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven förebygger skador genom att <strong>medverka</strong> i att förutse och beskriva risker som är förknippade med fysiska aktiviteter och friluftsliv.",
+          "C" : "Eleven förebygger skador genom att förutse och <strong>på ett enkelt sätt</strong> beskriva risker som är förknippade med fysiska aktiviteter och friluftsliv.",
+          "A" : "Eleven förebygger skador genom att förutse och <strong>på ett utvecklat sätt</strong> beskriva risker som är förknippade med fysiska aktiviteter och friluftsliv."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Idrott och hälsa 3 – vald idrott",
+    "description" : "Kursen idrott och hälsa 3 – vald idrott omfattar punkterna 1–2 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "IDCIDR53",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Planering och genomförande av träningsprogram inom den valda idrotten.", "Hur den valda idrotten utvecklar den kroppsliga förmågan.", "Regler, tekniker och taktik inom den valda idrotten.", "Hälsovinster och hälsorisker i samband med idrotten.", "Etik och moral i förhållande till idrotten." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att genomföra träningsprogram inom vald idrott.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att genomföra träningsprogram inom vald idrott.",
+          "C" : "Eleven genomför <strong>med viss säkerhet</strong> träningsprogram inom vald idrott.",
+          "A" : "Eleven genomför <strong>med säkerhet</strong> träningsprogram inom vald idrott."
+        }
+      }, {
+        "text" : "I samband med träningen <strong>________</strong> eleven i att välja träningsmetoder och i att ge omdömen om resultatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I samband med träningen <strong>medverkar</strong> eleven i att välja träningsmetoder och i att ge omdömen om resultatet.",
+          "C" : "I samband med aktiviteterna väljer eleven <strong>delvis ändamålsenliga</strong> träningsmetoder och ger <strong>enkla</strong> omdömen om resultatet.",
+          "A" : "I samband med aktiviteterna väljer eleven <strong>ändamålsenliga</strong> träningsmetoder och ger <strong>utvecklade</strong> omdömen om resultatet."
+        }
+      }, {
+        "text" : "Dessutom <strong>________</strong> eleven i att samtala om livsstil, hälsa och etik med koppling till idrotten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom <strong>medverkar</strong> eleven i att samtala om livsstil, hälsa och etik med koppling till idrotten.",
+          "C" : "Dessutom samtalar eleven <strong>på ett enkelt sätt</strong> om livsstil, hälsa och etik med koppling till idrotten.",
+          "A" : "Dessutom samtalar eleven <strong>på ett utvecklat sätt</strong> om livsstil, hälsa och etik med koppling till idrotten."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

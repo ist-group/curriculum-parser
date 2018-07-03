@@ -1,0 +1,307 @@
+{
+  "name" : "Maskintjänst",
+  "description" : "Ämnet maskintjänst omfattar de kunskaper som krävs för att hantera den maskinella utrustningen ombord på fartyg. Det behandlar den teknik och de metoder som används för drift och underhåll inom maskinavdelningen på handelsfartyg. Detta innefattar tekniska begrepp och teorier.",
+  "code" : "MAK",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet maskintjänst ska syfta till att eleverna utvecklar kunskaper om drift och vakthållning på fartyg samt förmåga att utföra driftsarbete inom maskinavdelningen och arbetsuppgifter för vaktgående maskinpersonal.", "Den ska vidare leda till att eleverna utvecklar kunskaper om mekanik och materiallära samt ett tekniskt kunnande.", "Eleverna ska ges möjlighet att utveckla kunskaper om fartygs underhåll samt förmåga att utföra underhållsarbete inom maskinavdelningen.", "Dessa kunskaper är enligt nationella och internationella regler nödvändiga för tjänstgöring ombord på fartyg." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som är konstruerade så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke.", "Dessa arbetsuppgifter ska utgå från ett problemlösande arbetssätt." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet maskintjänst ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förmåga att utföra arbetsuppgifter för vaktgående maskinpersonal.", "Kunskaper om maskinbefäls arbetsuppgifter.", "Förmåga att utföra driftsarbete inom ett fartygs maskinavdelning.", "Förmåga att utföra underhållsarbete inom maskinavdelningen på ett fartyg.", "Förmåga att arbeta miljö-, säkerhets- och kvalitetsmedvetet på det sätt yrket kräver.", "Förmåga att samarbeta och kommunicera med ett för yrket relevant språk.", "Kunskaper om de tekniska konstruktioner och den tekniska utrustning som finns inom maskinavdelningen på ett fartyg.", "Kunskaper om lagar och bestämmelser som reglerar området." ]
+  } ],
+  "courses" : [ {
+    "name" : "Maskinbefäl",
+    "description" : "Kursen maskinbefäl omfattar punkterna 2 och 5–8 under rubriken Ämnets syfte, med särskild betoning på punkt 7. ",
+    "code" : "MAKMAS0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Drift och underhåll.", "Maskinteknik: förbränningsmotorer, förbränning, bränslen och smörjmedel, fartygets framdrivning, hydraulik och däcksmaskineri, kylvattensystem, smörjoljesystem, bränslesystem, läns- och barlastsystem, startsystem och ångsystem.", "Ellära.", "Styr- och reglerteknik.", "Kunskaper om lagar och andra bestämmelser som styr verksamheten." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för vakthavande befäls arbetsuppgifter och den utrustning och de verktyg som används i fartygets maskinrum.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för vakthavande befäls arbetsuppgifter och den utrustning och de verktyg som används i fartygets maskinrum.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för vakthavande befäls arbetsuppgifter och den utrustning och de verktyg som används i fartygets maskinrum.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för vakthavande befäls arbetsuppgifter och den utrustning och de verktyg som används i fartygets maskinrum."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för rutiner för drift och underhåll.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för rutiner för drift och underhåll.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för rutiner för drift och underhåll.",
+          "A" : "Dessutom redogör eleven <strong>utförligt <strong>och nyanserat</strong> </strong>för rutiner för drift och underhåll."
+        }
+      }, {
+        "text" : "Vidare redogör eleven <strong>________</strong> för de tekniska konstruktionerna i ett fartygs maskinrum.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare redogör eleven <strong>översiktligt</strong> för de tekniska konstruktionerna i ett fartygs maskinrum.",
+          "C" : "Vidare redogör eleven <strong><strong>utförligt</strong></strong> för de tekniska konstruktionerna i ett fartygs maskinrum.",
+          "A" : "Vidare redogör eleven <strong><strong>utförligt <strong>och nyanserat</strong> </strong></strong>för de tekniska konstruktionerna i ett fartygs maskinrum."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för hur arbetet kan utföras på ett miljömässigt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för hur arbetet kan utföras på ett miljömässigt och säkert sätt.",
+          "C" : "Eleven redogör <strong><strong>utförligt</strong> </strong>för hur arbetet kan utföras på ett miljömässigt och säkert sätt.",
+          "A" : "Eleven redogör <strong><strong>utförligt <strong>och nyanserat</strong> </strong></strong>för hur arbetet kan utföras på ett miljömässigt och säkert sätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I sina redogörelser använder eleven <strong>________</strong> relevanta termer och begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sina redogörelser använder eleven <strong>med viss säkerhet</strong> relevanta termer och begrepp.",
+          "C" : "I sina redogörelser använder eleven <strong>med viss säkerhet</strong> relevanta termer och begrepp.",
+          "A" : "I sina redogörelser använder eleven <strong>med säkerhet</strong> relevanta termer och begrepp."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Elever redogör <strong>________</strong> för lagar och andra bestämmelser som styr vakthållning på handelsfartyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Elever redogör <strong>översiktligt</strong> för lagar och andra bestämmelser som styr vakthållning på handelsfartyg.",
+          "C" : "Elever redogör <strong><strong>utförligt</strong> </strong>för lagar och andra bestämmelser som styr vakthållning på handelsfartyg.",
+          "A" : "Elever redogör <strong><strong>utförligt</strong> </strong>för lagar och andra bestämmelser som styr vakthållning på handelsfartyg."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Maskintjänst 1",
+    "description" : "Kursen maskintjänst 1 omfattar punkterna 1 och 3–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 3. I kursen behandlas grundläggande kunskaper i ämnet. ",
+    "code" : "MAKMAS01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Vakthållning på handelsfartyg",
+      "lines" : [ "Överlämning av vakten.", "Ordergivning och kommunikation med vakthavande befäl.", "Maskinrumsterminologi.", "Interna kommunikations- och alarmsystem ombord.", "Vakthållningens organisation.", "Lagar och andra bestämmelser som styr verksamheten." ]
+    }, {
+      "heading" : "Säkra arbetsprocedurer i samband med maskinrumsarbete",
+      "lines" : [ "Maskinrumsalarm.", "Övervakning av ångpannor.", "Lastning och stuvning av förråd på fartyg.", "Grundläggande underhållsarbete och verktygskunskap.", "Pumpsystem för länsvatten, barlast och last.", "Elektriska installationer samt risker förbundna med dessa.", "Lagar och andra bestämmelser som styr verksamheten." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare arbetsuppgifter i samband med vakthållning inom ett fartygs maskinavdelning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare arbetsuppgifter i samband med vakthållning inom ett fartygs maskinavdelning.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare arbetsuppgifter i samband med vakthållning inom ett fartygs maskinavdelning.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare arbetsuppgifter i samband med vakthållning inom ett fartygs maskinavdelning."
+        }
+      }, {
+        "text" : "I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>________</strong> sina val.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>översiktligt</strong> sina val.",
+          "C" : "I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>utförligt</strong> sina val.",
+          "A" : "I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>utförligt och nyanserat</strong> sina val."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> valda metoder, utrustning och verktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>med viss säkerhet</strong> valda metoder, utrustning och verktyg.",
+          "C" : "Dessutom använder eleven <strong>med viss säkerhet</strong> valda metoder, utrustning och verktyg.",
+          "A" : "Dessutom använder eleven <strong>med säkerhet</strong> valda metoder, utrustning och verktyg."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta situationer.",
+          "C" : "Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta <strong>och nya</strong> situationer.",
+          "A" : "Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta <strong>och nya</strong> situationer."
+        }
+      }, {
+        "text" : "I arbetet löser eleven <strong>________</strong> problem som uppstår och anpassar <strong>________</strong> metoder, utrustning och verktyg efter situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>enkla</strong> problem som uppstår och anpassar <strong>med viss säkerhet</strong> metoder, utrustning och verktyg efter situationens krav.",
+          "C" : "I arbetet löser eleven problem som uppstår och anpassar <strong>med viss säkerhet</strong> metoder, utrustning och verktyg efter situationens krav.",
+          "A" : "I arbetet löser eleven <strong>komplexa</strong> problem som uppstår och anpassar <strong>med säkerhet</strong> metoder, utrustning och verktyg efter situationens krav."
+        }
+      }, {
+        "text" : "Dessutom tar eleven i arbetet ansvar för materiella värden samt för egen och andras säkerhet ombord.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom tar eleven i arbetet ansvar för materiella värden samt för egen och andras säkerhet ombord.",
+          "C" : "Dessutom tar eleven i arbetet ansvar för materiella värden samt för egen och andras säkerhet ombord.",
+          "A" : "Dessutom tar eleven i arbetet ansvar för materiella värden samt för egen och andras säkerhet ombord."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar och kommunicerar <strong>________</strong> med andra för att utföra olika uppgifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra för att utföra olika uppgifter.",
+          "C" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra för att utföra olika uppgifter.",
+          "A" : "Eleven samarbetar och kommunicerar <strong>med säkerhet</strong> med andra för att utföra olika uppgifter."
+        }
+      }, {
+        "text" : "I kommunikationen använder eleven <strong>________</strong> termer och begrepp som är relevanta för området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.",
+          "C" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.",
+          "A" : "I kommunikationen använder eleven <strong>med säkerhet</strong> termer och begrepp som är relevanta för området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> det arbete som utförs i samband med vakthållning inom maskinavdelningen samt de lagar och andra bestämmelser som styr vakthållning på handelsfartyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> det arbete som utförs i samband med vakthållning inom maskinavdelningen samt de lagar och andra bestämmelser som styr vakthållning på handelsfartyg.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> det arbete som utförs i samband med vakthållning inom maskinavdelningen samt de lagar och andra bestämmelser som styr vakthållning på handelsfartyg.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> det arbete som utförs i samband med vakthållning inom maskinavdelningen samt de lagar och andra bestämmelser som styr vakthållning på handelsfartyg."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 300,
+    "year" : null
+  }, {
+    "name" : "Maskintjänst 2",
+    "description" : "Kursen maskintjänst 2 omfattar punkterna 3–7 under rubriken Ämnets syfte, med särskild betoning på punkterna 3–4 och 7. I kursen behandlas fördjupade kunskaper i ämnet. ",
+    "code" : "MAKMAS02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Driftsarbete",
+      "lines" : [ "Procedurer och kommunikation vid start och stopp av huvud- och hjälpmaskineri.", "Övervakning av tryck, temperaturer och nivåer under drift av huvud- och hjälpmaskineri.", "Procedurer och kommunikation vid bunkring och bränsletransferering.", "Procedurer och kommunikation vid barlast-, länsvatten- och sludgehantering.", "Riggning av lyftanordningar i maskinrummet.", "Användning av maskinverktyg och mätinstrument.", "Skydd av den marina miljön vid bunkring och bränsletransferering samt barlast-, länsvatten- och sludgehantering." ]
+    }, {
+      "heading" : "Underhållsarbete",
+      "lines" : [ "Planerat underhåll och underhållssystem.", "Underhåll av huvud- och hjälpmaskineri samt övriga tekniska system.", "Metoder för smörjning och rengöring.", "Underhåll av maskinverktyg och mätinstrument.", "Ytbehandlingstekniker och målningsmetoder." ]
+    }, {
+      "heading" : "Tekniska konstruktioner och teknisk utrustning",
+      "lines" : [ "Huvud- och hjälpmaskineri och tillhörande system.", "Bunker-, bränsle- och smörjoljesystem.", "Länsnings- och barlastsystem.", "Elektriska system.", "El-, hydraul- och luftdrivna handverktyg." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare drifts- och underhållsarbete inom ett fartygs maskinavdelning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare drifts- och underhållsarbete inom ett fartygs maskinavdelning.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare drifts- och underhållsarbete inom ett fartygs maskinavdelning.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare drifts- och underhållsarbete inom ett fartygs maskinavdelning."
+        }
+      }, {
+        "text" : "I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>________</strong> sina val.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>översiktligt</strong> sina val.",
+          "C" : "I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>utförligt</strong> sina val.",
+          "A" : "I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>utförligt och nyanserat</strong> sina val."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> valda metoder, utrustning och verktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>med viss säkerhet</strong> valda metoder, utrustning och verktyg.",
+          "C" : "Dessutom använder eleven <strong>med viss säkerhet</strong> valda metoder, utrustning och verktyg.",
+          "A" : "Dessutom använder eleven <strong>med säkerhet</strong> valda metoder, utrustning och verktyg."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta situationer.",
+          "C" : "Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta <strong>och nya</strong> situationer.",
+          "A" : "Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta <strong>och nya</strong> situationer."
+        }
+      }, {
+        "text" : "I arbetet löser eleven <strong>________</strong> problem som uppstår och anpassar <strong>________</strong> metoder, utrustning och verktyg efter situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>enkla</strong> problem som uppstår och anpassar <strong>med viss säkerhet</strong> metoder, utrustning och verktyg efter situationens krav.",
+          "C" : "I arbetet löser eleven problem som uppstår och anpassar <strong>med viss säkerhet</strong> metoder, utrustning och verktyg efter situationens krav.",
+          "A" : "I arbetet löser eleven <strong>komplexa</strong> problem som uppstår och anpassar <strong>med säkerhet</strong> metoder, utrustning och verktyg efter situationens krav."
+        }
+      }, {
+        "text" : "Dessutom tar eleven i arbetet ansvar för materiella värden och miljön samt för egen och andras säkerhet ombord.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom tar eleven i arbetet ansvar för materiella värden och miljön samt för egen och andras säkerhet ombord.",
+          "C" : "Dessutom tar eleven i arbetet ansvar för materiella värden och miljön samt för egen och andras säkerhet ombord.",
+          "A" : "Dessutom tar eleven i arbetet ansvar för materiella värden och miljön samt för egen och andras säkerhet ombord."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar och kommunicerar <strong>________</strong> med andra för att utföra olika uppgifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra för att utföra olika uppgifter.",
+          "C" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra för att utföra olika uppgifter.",
+          "A" : "Eleven samarbetar och kommunicerar <strong>med säkerhet</strong> med andra för att utföra olika uppgifter."
+        }
+      }, {
+        "text" : "I kommunikationen använder eleven <strong>________</strong> termer och begrepp som är relevanta för området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.",
+          "C" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.",
+          "A" : "I kommunikationen använder eleven <strong>med säkerhet</strong> termer och begrepp som är relevanta för området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> den teknik som används och det arbete som utförs på huvud- och hjälpmaskineri, bränsle- och smörjoljesystem, länsning och ballastsystem samt vid underhåll på handelsfartyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> den teknik som används och det arbete som utförs på huvud- och hjälpmaskineri, bränsle- och smörjoljesystem, länsning och ballastsystem samt vid underhåll på handelsfartyg.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> den teknik som används och det arbete som utförs på huvud- och hjälpmaskineri, bränsle- och smörjoljesystem, länsning och ballastsystem samt vid underhåll på handelsfartyg.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> den teknik som används och det arbete som utförs på huvud- och hjälpmaskineri, bränsle- och smörjoljesystem, länsning och ballastsystem samt vid underhåll på handelsfartyg."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 300,
+    "year" : null
+  } ]
+}

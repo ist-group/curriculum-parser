@@ -1,0 +1,315 @@
+{
+  "name" : "Fordonstestteknik",
+  "description" : "Ämnet fordonstestteknik behandlar den teknik och utrustning som används för att genomföra tester inom det fordonstekniska området. Ämnet behandlar även hur en önskad utvecklingsidé blir verklighet, där testverksamheten utgör basen för utvecklingen.",
+  "code" : "FOO",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet fordonstestteknik ska syfta till att eleverna utvecklar förmåga att genomföra installation av mätutrustning samt underhåll, diagnostisering och reparationer av fordon och mätutrustning i samband med fordonstester.", "Undervisningen ska ge eleverna möjlighet att utveckla tekniskt kunnande inom området fordonstestteknik samt förmåga att samla in och systematisera mätdata av rutinkaraktär.", "Undervisningen ska leda till att eleverna utvecklar kunskaper om de utvecklingsområden som är vanligt förekommande inom fordonstestverksamheten samt förståelse av syfte och mål med olika tester inom det aktuella området.", "Den ska även leda till att eleverna utvecklar kunskaper om olika typer av testmiljöer och förståelse av hur testmiljöer kan anpassas utifrån olika problemställningar." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar kunskaper om krav på säkerhet, miljö och kvalitet inom branschen.", "Vidare ska eleverna ges möjlighet att utveckla förmåga till ansvarstagande och problemlösning och förmåga att hantera de informationssystem som används för att lösa arbetsuppgifterna.", "Dessutom ska eleverna ges möjlighet att utveckla förmåga att samarbeta och kommunicera med andra samt att använda begrepp som är relevanta för yrket.", "Undervisningen ska ge eleverna möjlighet att utveckla förmåga att dokumentera och kvalitetssäkra arbetet." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska betona ett undersökande och problemlösande arbetssätt och ska organiseras så att eleverna får möjlighet att utföra sina uppgifter såväl individuellt som i samarbete med andra.", "Genom praktisk tillämpning ska eleverna dessutom ges möjlighet att utveckla sin förmåga att genomföra testkörning samt få ökad förståelse för samspelet mellan förare, fordon och testmiljö." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet fordonstestteknik ska ge eleverna förutsättning att utveckla följande:",
+    "lines" : [ "Kunskap om olika typer av fordons funktion, komponenter och uppbyggnad.", "Kunskap om olika typer av testmiljöer och körsimulatorer samt om hur testmiljöer och mätutrustning kan anpassas utifrån olika problemställningar.", "Kunskap om hur olika parametrar kan mätas under körning.", "Förmåga att utföra installation av testutrustning, genomföra tester samt samla in och analysera testresultat.", "Förmåga att utföra testkörning med fordon i olika testmiljöer.", "Förmåga att välja och använda arbetsmetoder och utrustning.", "Förmåga att använda såväl svenska som engelska manualer och digitala informationssystem.", "Förmåga att arbeta på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten.", "Förmåga att arbeta med problemlösning såväl självständigt som tillsammans med andra.", "Förmåga att samarbeta och kommunicera med andra samt att använda begrepp och uttryck som är relevanta för yrket." ]
+  } ],
+  "courses" : [ {
+    "name" : "Fordonstestteknik",
+    "description" : "Kursen fordonstestteknik omfattar punkterna 1–2 och 4–10 under rubriken Ämnets syfte.",
+    "code" : "FOOFOR0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Förbränningsmotorteknik.", "Alternativa drivlinor, till exempel el- och hybridmotorer.", "Alternativa energikällor i fordon, som el från batterier och bränsleceller.", "Ellära, elektronik och grundläggande mätteknik.", "Olika typer av testmiljöer och mätutrustning.", "Hur olika testmiljöer och testutrustning kan anpassas till olika typer av tester.", "Utvecklingsområden inom fordonstest.", "Montering och anpassning av mätutrustning för specifika frågeställningar samt vid felsökning.", "Service, underhåll och reparation av mätutrustning.", "Insamling av testdata genom testrutiner under körning.", "Fördjupad systematisering av testdata och utvärdering av resultat.", "CAN-bussen, kommunikationsprincip och insamling av information.", "Motortester i rigg.", "Praktisk övningskörning med syfte att erhålla testförarlicens.", "Informationsmaterial och manualer.", "Metoder för att dokumentera arbetet på det sätt yrkesområdet kräver.", "Emissionstester, avgasrening och lagkrav kring emissioner.", "Olika säkerhets- och stabilitetssystem i bil samt testrutiner för dessa.", "Lagar och andra bestämmelser som reglerar arbetsområdet.", "Arbetsmiljö och säkerhetsfrågor för verksamheten. Säkerhet i samband med olika arbetsuppgifter. Förebyggande av person- och egendomsskador.", "Säkerhetsaspekter vid hantering, laddning, krock och stora effektuttag för elfordon samt uppvärmning, laddning och snabbladdning i kallt klimat av elfordon.", "Sekretessfrågor under arbete med fordonstestverksamhet.", "Kundbemötande och kommunikation. Faktorer som påverkar kommunikation och samarbete på arbetsplatsen.", "Uttryck och begrepp som är relevanta för området." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för och ger exempel på förbränningsmotorteknik och alternativa energikällor i fordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för och ger exempel på förbränningsmotorteknik och alternativa energikällor i fordon.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för och ger exempel på förbränningsmotorteknik och alternativa energikällor i fordon.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för och ger exempel på förbränningsmotorteknik och alternativa energikällor i fordon."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> olika testmiljöer, tekniker och utrustning för fordonstester.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> olika testmiljöer, tekniker och utrustning för fordonstester.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> olika testmiljöer, tekniker och utrustning för fordonstester.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> olika testmiljöer, tekniker och utrustning för fordonstester."
+        }
+      }, {
+        "text" : "Eleven beskriver <strong>________</strong> och ger exempel på utvecklingsområden inom fordonstest.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> och ger exempel på utvecklingsområden inom fordonstest.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> och ger exempel på utvecklingsområden inom fordonstest.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> och ger exempel på utvecklingsområden inom fordonstest."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar, organiserar och utför <strong>________</strong> med handledare vanligt förekommande arbetsuppgifter inom fordonstestteknik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar, organiserar och utför <strong>i samråd</strong> med handledare vanligt förekommande arbetsuppgifter inom fordonstestteknik.",
+          "C" : "Eleven planerar, organiserar och utför <strong>efter samråd</strong> med handledare vanligt förekommande arbetsuppgifter inom fordonstestteknik.",
+          "A" : "Eleven planerar, organiserar och utför <strong>efter samråd</strong> med handledare vanligt förekommande arbetsuppgifter inom fordonstestteknik."
+        }
+      }, {
+        "text" : "Dessutom monterar och anpassar eleven <strong>________</strong> med handledare olika typ av mätutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom monterar och anpassar eleven <strong>i samråd</strong> med handledare olika typ av mätutrustning.",
+          "C" : "Dessutom monterar och anpassar eleven <strong>efter samråd</strong> med handledare olika typ av mätutrustning.",
+          "A" : "Dessutom monterar och anpassar eleven <strong>efter samråd</strong> med handledare olika typ av mätutrustning."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare och <strong>________</strong> testkörning av fordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare och <strong>med viss säkerhet</strong> testkörning av fordon.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare och <strong>med viss säkerhet</strong> testkörning av fordon.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare och med <strong>säkerhet</strong> testkörning av fordon."
+        }
+      }, {
+        "text" : "I arbetet väljer eleven <strong>________</strong> med handledare samt använder med <strong>________</strong> arbetsmetod och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet väljer eleven <strong>i samråd</strong> med handledare samt använder med <strong>viss säkerhet</strong> arbetsmetod och utrustning.",
+          "C" : "I arbetet väljer eleven <strong>efter samråd</strong> med handledare samt använder <strong>med viss säkerhet</strong> arbetsmetod och utrustning.",
+          "A" : "I arbetet väljer eleven <strong>efter samråd</strong> med handledare samt använder <strong>med säkerhet</strong> arbetsmetod och utrustning."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> svenska och engelska manualer samt digitala informationssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> svenska och engelska manualer samt digitala informationssystem."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning."
+        }
+      }, {
+        "text" : "Dessutom tar eleven ansvar för sin egen och andras säkerhet samt håller god ordning på arbetsplatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom tar eleven ansvar för sin egen och andras säkerhet samt håller god ordning på arbetsplatsen.",
+          "C" : "Dessutom tar eleven ansvar för sin egen och andras säkerhet samt håller god ordning på arbetsplatsen.",
+          "A" : "Dessutom tar eleven ansvar för sin egen och andras säkerhet samt håller god ordning på arbetsplatsen."
+        }
+      }, {
+        "text" : "Eleven arbetar efter de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar efter de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+          "C" : "Eleven arbetar efter de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+          "A" : "Eleven arbetar efter de krav på säkerhet, kvalitet och miljö som reglerar arbetet."
+        }
+      }, {
+        "text" : "I arbetet redogör eleven <strong>________</strong> för lagar och andra bestämmelser som styr arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet redogör eleven <strong>översiktligt</strong> för lagar och andra bestämmelser som styr arbetet.",
+          "C" : "I arbetet redogör eleven <strong>utförligt</strong> för lagar och andra bestämmelser som styr arbetet.",
+          "A" : "I arbetet redogör eleven <strong>utförligt</strong> för lagar och andra bestämmelser som styr arbetet."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för sekretessfrågor under arbete med fordonstestverksamhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för sekretessfrågor under arbete med fordonstestverksamhet.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för sekretessfrågor under arbete med fordonstestverksamhet.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för sekretessfrågor under arbete med fordonstestverksamhet."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar och löser <strong>________</strong> med handledare problem som uppkommer för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar och löser <strong>i samråd</strong> med handledare problem som uppkommer för att nå planerade resultat.",
+          "C" : "Eleven samarbetar och löser <strong>efter samråd</strong> med handledare problem som uppkommer för att nå planerade resultat.",
+          "A" : "Eleven samarbetar och löser <strong>efter samråd</strong> med handledare problem som uppkommer för att nå planerade resultat."
+        }
+      }, {
+        "text" : "I sin kommunikation använder eleven <strong>________</strong> begrepp och uttryck som är relevanta för ämnesområdet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sin kommunikation använder eleven <strong>med viss säkerhet</strong> begrepp och uttryck som är relevanta för ämnesområdet.",
+          "C" : "I sin kommunikation använder eleven <strong>med viss säkerhet</strong> begrepp och uttryck som är relevanta för ämnesområdet.",
+          "A" : "I sin kommunikation använder eleven <strong>med säkerhet</strong> begrepp och uttryck som är relevanta för ämnesområdet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Miljöer och utrustning för fordonstest",
+    "description" : "Kursen miljöer och utrustning för fordonstest omfattar punkterna 2–4 och 6–10 under rubriken Ämnets syfte.",
+    "code" : "FOOMIL0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Historiskt perspektiv på fordonstestbranschens utveckling i Sverige och internationellt.", "Olika testmiljöer, tekniker och utrustning för fordonstester.", "Olika simuleringsmiljöer för utveckling och tester.", "Utformning och användningsområden för olika typer av land- och isbanor.", "Olika delar i processen från problemställning eller önskvärt utvecklingsområde till färdig produkt, till exempel fordonskomponent.", "Tekniken och dess begränsningar inom aktuella utvecklingsområden.", "Aktuell forskning och aktuella utvecklingsområden inom fordons- och transportbranschen.", "Parametrar som påverkar utsläpp, prestanda och mekanisk påfrestning för olika typer av motorer samt hur detta kan mätas under körning.", "Installation, användning och felsökning av mätsystem och annan utrustning.", "Service, underhåll och reparation av mätutrustning.", "Olika underlag och konstruktion för test av friktion, hållfasthet, ljud och vibrationer.", "Systematisering av testdata och utvärdering av resultat.", "Nätverk, kommunikation och diagnos.", "Diagnos av bil med byte av sensorer.", "Metoder för att dokumentera arbetet på det sätt yrkesområdet kräver.", "Informationsmaterial och manualer.", "Lagar och andra bestämmelser som reglerar arbetsområdet.", "Arbetsmiljö- och säkerhetsfrågor för verksamheten. Riskbedömning och säkerhet i samband med olika arbetsuppgifter. Förebyggande av person- och egendomsskador.", "Företagandets villkor samt sekretessfrågor vid arbete med fordonstestverksamhet.", "Kundbemötande och kundens behov. Faktorer som påverkar kommunikation och samarbete på arbetsplatsen och med kunder.", "Uttryck och begrepp som är relevanta för yrkesområdet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för och ger exempel på teknik som används och dess begränsningar inom aktuella utvecklingsområden inom fordonstestbranschen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för och ger exempel på teknik som används och dess begränsningar inom aktuella utvecklingsområden inom fordonstestbranschen.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för och ger exempel på teknik som används och dess begränsningar inom aktuella utvecklingsområden inom fordonstestbranschen.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för och ger exempel på teknik som används och dess begränsningar inom aktuella utvecklingsområden inom fordonstestbranschen."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för fordonstestbranschens utveckling i Sverige och internationellt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för fordonstestbranschens utveckling i Sverige och internationellt.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för fordonstestbranschens utveckling i Sverige och internationellt.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för fordonstestbranschens utveckling i Sverige och internationellt."
+        }
+      }, {
+        "text" : "Eleven beskriver <strong>________</strong> användning och utveckling av olika simuleringsmiljöer för utveckling och tester och ger exempel på utformning och användningsområden för olika typer av land- och isbanor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> användning och utveckling av olika simuleringsmiljöer för utveckling och tester och ger exempel på utformning och användningsområden för olika typer av land- och isbanor.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> användning och utveckling av olika simuleringsmiljöer för utveckling och tester och ger exempel på utformning och användningsområden för olika typer av land- och isbanor.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> användning och utveckling av olika simuleringsmiljöer för utveckling och tester och ger exempel på utformning och användningsområden för olika typer av land- och isbanor."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för och ger exempel på olika parametrar som påverkar bilens egenskaper och hur detta kan mätas under körning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för och ger exempel på olika parametrar som påverkar bilens egenskaper och hur detta kan mätas under körning.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för och ger exempel på olika parametrar som påverkar bilens egenskaper och hur detta kan mätas under körning.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för och ger exempel på olika parametrar som påverkar bilens egenskaper och hur detta kan mätas under körning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar, organiserar och utför <strong>________</strong> med handledare olika arbetsuppgifter i processen från problemställning till färdig produkt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar, organiserar och utför <strong>i samråd</strong> med handledare olika arbetsuppgifter i processen från problemställning till färdig produkt.",
+          "C" : "Eleven planerar, organiserar och utför <strong>efter samråd</strong> med handledare olika arbetsuppgifter i processen från problemställning till färdig produkt.",
+          "A" : "Eleven planerar, organiserar och utför <strong>efter samråd</strong> med handledare olika arbetsuppgifter i processen från problemställning till färdig produkt."
+        }
+      }, {
+        "text" : "I arbetet utgår eleven <strong>________</strong> från befintlig forskning och beställarens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet utgår eleven <strong>med viss säkerhet</strong> från befintlig forskning och beställarens krav.",
+          "C" : "I arbetet utgår eleven <strong>med viss säkerhet</strong> från befintlig forskning och beställarens krav.",
+          "A" : "I arbetet utgår eleven <strong>med säkerhet</strong> från befintlig forskning och beställarens krav."
+        }
+      }, {
+        "text" : "Dessutom planerar, organiserar och utför eleven tester <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom planerar, organiserar och utför eleven tester <strong>i samråd</strong> med handledare.",
+          "C" : "Dessutom planerar, organiserar och utför eleven tester <strong>efter samråd</strong> med handledare.",
+          "A" : "Dessutom planerar, organiserar och utför eleven tester <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "I arbetet väljer eleven <strong>________</strong> med handledare samt använder <strong>________</strong> arbetsmetod och utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet väljer eleven <strong>i samråd</strong> med handledare samt använder <strong>med viss säkerhet</strong> arbetsmetod och utrustning.",
+          "C" : "I arbetet väljer eleven <strong>efter samråd</strong> med handledare samt använder <strong>med viss säkerhet</strong> arbetsmetod och utrustning.",
+          "A" : "I arbetet väljer eleven <strong>efter samråd</strong> med handledare samt använder <strong>med säkerhet</strong> arbetsmetod och utrustning."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> svenska och engelska manualer samt digitala informationssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> svenska och engelska manualer samt digitala informationssystem."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning."
+        }
+      }, {
+        "text" : "Dessutom tar eleven ansvar för sin egen och andras säkerhet samt håller god ordning på arbetsplatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom tar eleven ansvar för sin egen och andras säkerhet samt håller god ordning på arbetsplatsen.",
+          "C" : "Dessutom tar eleven ansvar för sin egen och andras säkerhet samt håller god ordning på arbetsplatsen.",
+          "A" : "Dessutom tar eleven ansvar för sin egen och andras säkerhet samt håller god ordning på arbetsplatsen."
+        }
+      }, {
+        "text" : "Eleven arbetar efter de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar efter de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+          "C" : "Eleven arbetar efter de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+          "A" : "Eleven arbetar efter de krav på säkerhet, kvalitet och miljö som reglerar arbetet."
+        }
+      }, {
+        "text" : "I arbetet redogör eleven <strong>________</strong> för lagar och andra bestämmelser som styr arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet redogör eleven <strong>översiktligt</strong> för lagar och andra bestämmelser som styr arbetet.",
+          "C" : "I arbetet redogör eleven <strong>utförligt</strong> för lagar och andra bestämmelser som styr arbetet.",
+          "A" : "I arbetet redogör eleven <strong>utförligt</strong> för lagar och andra bestämmelser som styr arbetet."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar och löser <strong>________</strong> med handledare problem som uppkommer för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar och löser <strong>i samråd</strong> med handledare problem som uppkommer för att nå planerade resultat.",
+          "C" : "Eleven samarbetar och löser <strong>efter samråd</strong> med handledare problem som uppkommer för att nå planerade resultat.",
+          "A" : "Eleven samarbetar och löser <strong>efter samråd</strong> med handledare problem som uppkommer för att nå planerade resultat."
+        }
+      }, {
+        "text" : "I sin kommunikation använder eleven <strong>________</strong> begrepp och uttryck som är relevanta för ämnesområdet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sin kommunikation använder eleven <strong>med viss säkerhet</strong> begrepp och uttryck som är relevanta för ämnesområdet.",
+          "C" : "I sin kommunikation använder eleven <strong>med viss säkerhet</strong> begrepp och uttryck som är relevanta för ämnesområdet.",
+          "A" : "I sin kommunikation använder eleven <strong>med säkerhet</strong> begrepp och uttryck som är relevanta för ämnesområdet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  } ]
+}

@@ -1,0 +1,1045 @@
+{
+  "name" : "Flygyrkesteknik",
+  "description" : "Ämnet flygyrkesteknik behandlar de kunskaper som krävs för yrkesmässigt arbete med service och underhåll inom området flygteknik.",
+  "code" : "FLY",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet flygyrkesteknik ska syfta till att eleverna utvecklar kunskaper om flygtekniska konstruktioner i olika typer av luftfartyg.", "Den ska ge eleverna möjlighet att utveckla förmåga att underhålla, felsöka och åtgärda fel i flygplan eller helikoptrar.", "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur människa och maskin samverkar.", "Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att kommunicera på engelska på det sätt som krävs inom yrkesområdet.", "Undervisningen ska ge eleverna möjlighet att utveckla de kunskaper som krävs för att uppnå de mål som finns reglerade i europeiska bestämmelser enligt EASA:s krav." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke.", "Dessa uppgifter ska utgå från ett problemlösande och laborativt arbetssätt." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet flygyrkesteknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om aerodynamik.", "Kunskaper om uppbyggnad av och funktion hos flygplan och helikoptrar samt om deras motorer, instrument, komponenter och system.", "Kunskaper om flygmaterial och deras egenskaper samt om metoder för att reparera och underhålla flygplan.", "Förmåga att utföra service och underhåll av flygplan och helikoptrar.", "Förmåga att utföra beräkningar, uppkopplingar, mätningar och rimlighetsuppskatningar.", "Förmåga att utföra felsökning och reparation av flygplan och helikoptrar.", "Förmåga att arbeta på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten.", "Förmåga att kommunicera och att använda begrepp och uttryck som är relevanta för området samt att samarbeta med andra.", "Kunskaper om faktorer som påverkar människan, om hur mänskliga misstag kan undvikas samt om tekniska systems anpassning till den mänskliga förmågan." ]
+  } ],
+  "courses" : [ {
+    "name" : "Aerodynamik",
+    "description" : "Kursen aerodynamik omfattar punkterna 1 och 5–8 under rubriken Ämnets syfte.",
+    "code" : "FLYAER0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Luftflöden runt olika profiler.", "Generering av lyftkraft och motstånd.", "Laminärt och turbulent flöde.", "Vingprofiler, till exempel korda och camber.", "Olika faktorer som kan inverka på lyftkraften.", "Atmosfäriska begrepp relaterade till flygning.", "Aerodynamiska beräkningar.", "Grundläggande samband inom aerodynamiken, till exempel mellan atmosfärens tillstånd och fysikaliska lagar beträffande lyftkraft och motstånd." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> atmosfärens betydelse, hur lyftkraft skapas vid olika förhållanden och hur atmosfäriska omständigheter påverkar luftfartyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> atmosfärens betydelse, hur lyftkraft skapas vid olika förhållanden och hur atmosfäriska omständigheter påverkar luftfartyg.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> atmosfärens betydelse, hur lyftkraft skapas vid olika förhållanden och hur atmosfäriska omständigheter påverkar luftfartyg.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> atmosfärens betydelse, hur lyftkraft skapas vid olika förhållanden och hur atmosfäriska omständigheter påverkar luftfartyg."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> olika teoretiska begrepp inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> olika teoretiska begrepp inom området.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> olika teoretiska begrepp inom området.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> olika teoretiska begrepp inom området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare och med hjälp av informationsmaterial <strong>________</strong> aerodynamiska beräkningar i bekanta situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare och med hjälp av informationsmaterial <strong>enkla</strong> aerodynamiska beräkningar i bekanta situationer.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare och med hjälp av informationsmaterial aerodynamiska beräkningar i bekanta <strong>och delvis nya</strong> situationer.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare och med hjälp av informationsmaterial <strong>avancerade</strong> aerodynamiska beräkningar i bekanta <strong>och nya</strong> situationer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> för området relevanta begrepp samt kommunicerar med ett <strong>________</strong> för arbetsuppgiften fungerande fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> för området relevanta begrepp samt kommunicerar med ett <strong>enkelt men</strong> för arbetsuppgiften fungerande fackspråk.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> för området relevanta begrepp samt kommunicerar med ett för arbetsuppgiften fungerande fackspråk.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> för området relevanta begrepp samt kommunicerar med ett <strong>nyanserat och</strong> för arbetsuppgiften fungerande fackspråk."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Digitalteknik och flyginstrument",
+    "description" : "Kursen digitalteknik och flyginstrument omfattar punkterna 2 och 5–8 under rubriken Ämnets syfte.",
+    "code" : "FLYDII0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Elektroniska instrumentsystem.", "Elektroniska principer för informations- och överföringssystem.", "Datorsystems uppbyggnad och användning i luftfartyg.", "Cockpitens uppbyggnad.", "Det binära och det oktala talsystemet.", "Dataomvandling samt användning av analog och digital omvandlare.", "Fiberoptik.", "Elektroniska displayer.", "Elektrostatiskt känsliga anordningar.", "Programvaruhantering, till exempel följder av icke godkända förändringar.", "Elektromagnetisk miljö, till exempel elektromagnetiska fälts inverkan.", "Elektroniska och digitala luftfartygssystem." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> med stöd av informationsmaterial vanlig uppbyggnad av och funktion hos <strong>________</strong> flyginstrument och överföringssystem i en cockpit.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> med stöd av informationsmaterial vanlig uppbyggnad av och funktion hos <strong>några vanligt förekommande</strong> flyginstrument och överföringssystem i en cockpit.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> med stöd av informationsmaterial vanlig uppbyggnad av och funktion hos <strong>några olika typer av</strong> flyginstrument och överföringssystem i en cockpit.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> med stöd av informationsmaterial vanlig uppbyggnad av och funktion hos <strong>flera olika typer av</strong> flyginstrument och överföringssystem i en cockpit."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare och <strong>________</strong> formler beräkningar samt redogör <strong>________</strong> för <strong>________</strong> samband inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare och <strong>utifrån givna</strong> formler beräkningar samt redogör <strong>översiktligt</strong> för <strong>enkla</strong> samband inom området.",
+          "C" : "Eleven <strong>väljer</strong> formler och utför <strong>efter samråd</strong> med handledare beräkningar samt redogör <strong>utförligt</strong> för samband inom området.",
+          "A" : "Eleven <strong>väljer</strong> formler, <strong>motiverar sina val</strong> och utför <strong>efter samråd</strong> med handledare beräkningar samt redogör <strong>utförligt och nyanserat</strong> för <strong>komplexa</strong> samband inom området."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare och i bekanta situationer <strong>________</strong> felsökningar, mätningar, avläsningar och rimlighetsuppskattningar samt tolkar resultaten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare och i bekanta situationer <strong>enkla</strong> felsökningar, mätningar, avläsningar och rimlighetsuppskattningar samt tolkar resultaten.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer felsökningar, mätningar, avläsningar och rimlighetsuppskattningar samt tolkar resultaten.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer <strong>avancerade</strong> felsökningar, mätningar, avläsningar och rimlighetsuppskattningar samt tolkar resultaten."
+        }
+      }, {
+        "text" : "Eleven arbetar i bekanta situationer utifrån det regelverk som uppgiften kräver och beskriver <strong>________</strong> lagar och andra bestämmelser som styr verksamheten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar i bekanta situationer utifrån det regelverk som uppgiften kräver och beskriver <strong>översiktligt</strong> lagar och andra bestämmelser som styr verksamheten.",
+          "C" : "Eleven arbetar i bekanta <strong>och delvis nya</strong> situationer utifrån det regelverk som uppgiften kräver och beskriver <strong>utförligt</strong> lagar och andra bestämmelser som styr verksamheten.",
+          "A" : "Eleven arbetar i bekanta <strong>och nya</strong> situationer utifrån det regelverk som uppgiften kräver och beskriver <strong>utförligt</strong> lagar och andra bestämmelser som styr verksamheten."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kommunicerar med ett <strong>________</strong> för arbetsuppgiften fungerande fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kommunicerar med ett <strong>enkelt men</strong> för arbetsuppgiften fungerande fackspråk.",
+          "C" : "Eleven kommunicerar med ett för arbetsuppgiften fungerande fackspråk.",
+          "A" : "Eleven kommunicerar med ett <strong>nyanserat och</strong> för arbetsuppgiften fungerande fackspråk."
+        }
+      }, {
+        "text" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+          "C" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+          "A" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Elektronik – flyg",
+    "description" : "Kursen elektronik – flyg omfattar punkterna 2 och 5–7 under rubriken Ämnets syfte.",
+    "code" : "FLYELT0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Elektroniksystems olika komponenter, till exempel dioder och transistorer.", "Integrerade kretsar, till exempel logiska och linjära kretsar.", "Kretskort.", "Servosystem, till exempel komponenter och mekanismer.", "Mätningar och beräkningar på elektroniska komponenter." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> elektroniska komponenter, kretsar och system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> elektroniska komponenter, kretsar och system.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> elektroniska komponenter, kretsar och system.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> elektroniska komponenter, kretsar och system."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare och <strong>________</strong> formler beräkningar samt redogör <strong>________</strong> för <strong>________</strong> samband inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare och <strong>utifrån givna</strong> formler beräkningar samt redogör <strong>översiktligt</strong> för <strong>enkla</strong> samband inom området.",
+          "C" : "Eleven <strong>väljer</strong> formler och utför <strong>efter samråd</strong> med handledare beräkningar samt redogör <strong>utförligt</strong> för samband inom området.",
+          "A" : "Eleven <strong>väljer</strong> formler, <strong>motiverar sina val</strong> och utför <strong>efter samråd</strong> med handledare beräkningar samt redogör <strong>utförligt och nyanserat</strong> för <strong>komplexa</strong> samband inom området."
+        }
+      }, {
+        "text" : "Dessutom utför eleven i bekanta situationer och utifrån laborationsanvisningar <strong>________</strong> uppkopplingar, mätningar och rimlighetsuppskattningar samt tolkar resultaten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven i bekanta situationer och utifrån laborationsanvisningar <strong>enkla</strong> uppkopplingar, mätningar och rimlighetsuppskattningar samt tolkar resultaten.",
+          "C" : "Dessutom utför eleven i bekanta <strong>och delvis nya</strong> situationer och utifrån laborationsanvisningar uppkopplingar, mätningar och rimlighetsuppskattningar samt tolkar resultaten.",
+          "A" : "Dessutom utför eleven i bekanta <strong>och nya</strong> situationer och utifrån laborationsanvisningar <strong>avancerade</strong> uppkopplingar, mätningar och rimlighetsuppskattningar samt tolkar resultaten."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> relevanta begrepp och symboler.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> relevanta begrepp och symboler.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> relevanta begrepp och symboler.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> relevanta begrepp och symboler."
+        }
+      }, {
+        "text" : "Eleven arbetar utifrån de krav på säkerhet och miljö som uppgiften kräver och beskriver <strong>________</strong> lagar och andra bestämmelser som styr verksamheten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar utifrån de krav på säkerhet och miljö som uppgiften kräver och beskriver <strong>översiktligt</strong> lagar och andra bestämmelser som styr verksamheten.",
+          "C" : "Eleven arbetar utifrån de krav på säkerhet och miljö som uppgiften kräver och beskriver <strong>utförligt</strong> lagar och andra bestämmelser som styr verksamheten.",
+          "A" : "Eleven arbetar utifrån de krav på säkerhet och miljö som uppgiften kräver och beskriver <strong>utförligt</strong> lagar och andra bestämmelser som styr verksamheten."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Ellära – flyg",
+    "description" : "Kursen ellära – flyg omfattar punkterna 2 och 5–8 under rubriken Ämnets syfte.",
+    "code" : "FLYELL0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Elektronteori.", "Statisk elektricitet.", "Ledningsförmåga i olika miljöer.", "Begrepp, formler och beräkningar som används inom ellära.", "Resistans och kapacitans.", "Magnetism och induktion.", "Elektriska motorer och generatorer.", "Likströms- och växelströmskretsar.", "Uppkopplingar av elektriska kretsar utifrån anvisningar samt tolkning av resultat." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> elektroners strömmar i en elektrisk krets utifrån ett givet kopplingsschema.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> elektroners strömmar i en elektrisk krets utifrån ett givet kopplingsschema.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> elektroners strömmar i en elektrisk krets utifrån ett givet kopplingsschema.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> elektroners strömmar i en elektrisk krets utifrån ett givet kopplingsschema."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> olika teoretiska begrepp inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> olika teoretiska begrepp inom området.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> olika teoretiska begrepp inom området.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> olika teoretiska begrepp inom området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare och <strong>________</strong> formler beräkningar samt redogör <strong>________</strong> för <strong>________</strong> samband inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare och <strong>utifrån givna</strong> formler beräkningar samt redogör <strong>översiktligt</strong> för <strong>enkla</strong> samband inom området.",
+          "C" : "Eleven <strong>väljer</strong> formler och utför <strong>efter samråd</strong> med handledare beräkningar samt redogör <strong>utförligt</strong> för samband inom området.",
+          "A" : "Eleven <strong>väljer</strong> formler, <strong>motiverar sina val</strong> och utför <strong>efter samråd</strong> med handledare beräkningar samt redogör <strong>utförligt och nyanserat</strong> för <strong>komplexa</strong> samband inom området."
+        }
+      }, {
+        "text" : "Eleven utför också i bekanta situationer och utifrån laborationsanvisningar <strong>________</strong> uppkopplingar, mätningar och rimlighetsuppskattningar och tolkar resultaten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför också i bekanta situationer och utifrån laborationsanvisningar <strong>enkla</strong> uppkopplingar, mätningar och rimlighetsuppskattningar och tolkar resultaten.",
+          "C" : "Eleven utför också i bekanta <strong>och delvis nya</strong> situationer och utifrån laborationsanvisningar uppkopplingar, mätningar och rimlighetsuppskattningar och tolkar resultaten.",
+          "A" : "Eleven utför också i bekanta <strong>och nya</strong> situationer och utifrån laborationsanvisningar <strong>avancerade</strong> uppkopplingar, mätningar och rimlighetsuppskattningar och tolkar resultaten."
+        }
+      }, {
+        "text" : "Dessutom gör eleven utifrån en <strong>________</strong> strömkrets ett kopplingsschema.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven utifrån en <strong>enkel</strong> strömkrets ett kopplingsschema.",
+          "C" : "Dessutom gör eleven utifrån en strömkrets ett kopplingsschema.",
+          "A" : "Dessutom gör eleven utifrån en <strong>avancerad</strong> strömkrets ett kopplingsschema."
+        }
+      }, {
+        "text" : "Eleven arbetar i bekanta situationer utifrån det regelverk som uppgiften kräver och beskriver <strong>________</strong> lagar och andra bestämmelser som styr verksamheten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar i bekanta situationer utifrån det regelverk som uppgiften kräver och beskriver <strong>översiktligt</strong> lagar och andra bestämmelser som styr verksamheten.",
+          "C" : "Eleven arbetar i bekanta <strong>och delvis nya</strong> situationer utifrån det regelverk som uppgiften kräver och beskriver <strong>utförligt</strong> lagar och andra bestämmelser som styr verksamheten.",
+          "A" : "Eleven arbetar i bekanta <strong>och nya</strong> situationer utifrån det regelverk som uppgiften kräver och beskriver <strong>utförligt</strong> lagar och andra bestämmelser som styr verksamheten."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> för området relevanta begrepp samt kommunicerar med ett <strong>________</strong> för arbetsuppgiften fungerande fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> för området relevanta begrepp samt kommunicerar med ett <strong>enkelt men</strong> för arbetsuppgiften fungerande fackspråk.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> för området relevanta begrepp samt kommunicerar med ett för arbetsuppgiften fungerande fackspråk.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> för området relevanta begrepp samt kommunicerar med ett <strong>nyanserat och</strong> för arbetsuppgiften fungerande fackspråk."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Flyglagstiftning",
+    "description" : "Kursen flyglagstiftning omfattar punkterna 7–8 under rubriken Ämnets syfte.",
+    "code" : "FLYFLY0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Introduktion av regelverk.", "Regelverk för certifierande personal.", "Regelverk för godkända underhållsorganisationer.", "Regelverk för kommersiella flygtransporter.", "Regelverk för certifiering av luftfartyg.", "Regelverk för godkända operatörer.", "Samband mellan nationella och internationella regelverk med kopplingar till de olika verksamheterna.", "Olika organisationers och befattningshavares ansvar, befogenheter och skyldigheter enligt gällande regelsystem." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> olika regelverk som styr verksamheten och vad de olika regelverken innehåller.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> olika regelverk som styr verksamheten och vad de olika regelverken innehåller.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> olika regelverk som styr verksamheten och vad de olika regelverken innehåller.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> olika regelverk som styr verksamheten och vad de olika regelverken innehåller."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> samband mellan nationella och internationella regelverk samt kopplingen till de olika verksamheterna inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> samband mellan nationella och internationella regelverk samt kopplingen till de olika verksamheterna inom området.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> samband mellan nationella och internationella regelverk samt kopplingen till de olika verksamheterna inom området.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> samband mellan nationella och internationella regelverk samt kopplingen till de olika verksamheterna inom området."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> olika organisationers och befattningshavares ansvar, befogenheter och skyldigheter enligt gällande regelsystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> olika organisationers och befattningshavares ansvar, befogenheter och skyldigheter enligt gällande regelsystem.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> olika organisationers och befattningshavares ansvar, befogenheter och skyldigheter enligt gällande regelsystem.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> olika organisationers och befattningshavares ansvar, befogenheter och skyldigheter enligt gällande regelsystem."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven följer i bekanta situationer lagar och andra bestämmelser som de praktiska momenten i utbildningen kräver.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven följer i bekanta situationer lagar och andra bestämmelser som de praktiska momenten i utbildningen kräver.",
+          "C" : "Eleven följer i bekanta <strong>och delvis nya</strong> situationer lagar och andra bestämmelser som de praktiska momenten i utbildningen kräver.",
+          "A" : "Eleven följer i bekanta <strong>och nya</strong> situationer lagar och andra bestämmelser som de praktiska momenten i utbildningen kräver."
+        }
+      }, {
+        "text" : "Dessutom förklarar eleven <strong>________</strong> sammanhang mellan regelverk och praktiska procedurer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom förklarar eleven <strong>översiktligt</strong> sammanhang mellan regelverk och praktiska procedurer.",
+          "C" : "Dessutom förklarar eleven <strong>utförligt</strong> sammanhang mellan regelverk och praktiska procedurer.",
+          "A" : "Dessutom förklarar eleven <strong>utförligt och nyanserat</strong> sammanhang mellan regelverk och praktiska procedurer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> för området relevanta begrepp samt uttrycker fakta och principer både muntligt och skriftligt med ett <strong>________</strong> fungerande fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> för området relevanta begrepp samt uttrycker fakta och principer både muntligt och skriftligt med ett <strong>enkelt men</strong> fungerande fackspråk.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> för området relevanta begrepp samt uttrycker fakta och principer både muntligt och skriftligt med ett fungerande fackspråk.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> för området relevanta begrepp samt uttrycker fakta och principer både muntligt och skriftligt med ett fungerande fackspråk."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    } ],
+    "point" : 50,
+    "year" : null
+  }, {
+    "name" : "Flygplanslära",
+    "description" : "Kursen flygplanslära omfattar punkterna 2 och 4–8 under rubriken Ämnets syfte.",
+    "code" : "FLYFLG0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Service- och underhållsåtgärder av flygplan och propellrar.", "Flygplans olika system och konstruktionsprinciper samt påfrestningar som flygplan utsätts för i olika flygsituationer.", "Flygplans aerodynamik och styrorgan.", "Flygplanskonstruktioner, till exempel skrovkonstruktioner och konstruktionsmetoder.", "Luftkonditionering och trycksättning av kabin.", "Instrument- och avioniksystem.", "Flygplans elkraftförsörjning.", "Utrustning och inventarier i flygplan, till exempel kabinutformning, instigningsanordningar och nödutrustning.", "Brandsläckningssystem.", "Styrsystem.", "Bränslesystem.", "Hydrauliksystem.", "Is- och regnskydd på flygplan och propellrar.", "Landställs uppbyggnad och funktion.", "Ljus, strålkastare och belysning.", "Systemutformning för syrgas i cockpit och kabin.", "Pneumatik och vakuum, till exempel kompressorer och tryckreglering.", "Vatten och avlopp, till exempel utformning av toalett och vattensystem.", "Flygburna underhållssystem, till exempel centrala underhållsdatorer och elektroniskt arkivsystem.", "Propellrars konstruktion, till exempel aerodynamisk belastning och material.", "Reglering av propellerbladvinkel och propellersynkronisering." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> med stöd av informationsmaterial konstruktion av, funktion hos och påfrestningar på flygplan och deras olika system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> med stöd av informationsmaterial konstruktion av, funktion hos och påfrestningar på flygplan och deras olika system.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> med stöd av informationsmaterial konstruktion av, funktion hos och påfrestningar på flygplan och deras olika system.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> med stöd av informationsmaterial konstruktion av, funktion hos och påfrestningar på flygplan och deras olika system."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> med stöd av informationsmaterial hur flygplanets olika system är integrerade och samverkar med varandra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> med stöd av informationsmaterial hur flygplanets olika system är integrerade och samverkar med varandra.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> med stöd av informationsmaterial hur flygplanets olika system är integrerade och samverkar med varandra.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> med stöd av informationsmaterial hur flygplanets olika system är integrerade och samverkar med varandra."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare och i bekanta situationer <strong>________</strong> service och <strong>________</strong> underhållsåtgärder av flygplan och propellrar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare och i bekanta situationer <strong>enkel</strong> service och <strong>enkla</strong> underhållsåtgärder av flygplan och propellrar.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer service och underhållsåtgärder av flygplan och propellrar.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer service och underhållsåtgärder av flygplan och propellrar."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare felsökning och åtgärdar <strong>________</strong> fel på flygplanets olika system enligt regelverk och kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare felsökning och åtgärdar <strong>enkla</strong> fel på flygplanets olika system enligt regelverk och kvalitetskrav.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare felsökning och åtgärdar fel på flygplanets olika system enligt regelverk och kvalitetskrav.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare felsökning och åtgärdar <strong>komplexa</strong> fel på flygplanets olika system enligt regelverk och kvalitetskrav."
+        }
+      }, {
+        "text" : "Eleven arbetar i bekanta situationer utifrån de instruktioner och det regelverk som uppgiften kräver.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar i bekanta situationer utifrån de instruktioner och det regelverk som uppgiften kräver.",
+          "C" : "Eleven arbetar i bekanta <strong>och delvis nya</strong> situationer utifrån de instruktioner och det regelverk som uppgiften kräver.",
+          "A" : "Eleven arbetar i bekanta <strong>och nya</strong> situationer utifrån de instruktioner och det regelverk som uppgiften kräver."
+        }
+      }, {
+        "text" : "När arbetet är utfört utvärderar eleven med <strong>________</strong> omdömen sina arbetsprocesser och sitt resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört utvärderar eleven med <strong>enkla</strong> omdömen sina arbetsprocesser och sitt resultat.",
+          "C" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sina arbetsprocesser och sitt resultat.",
+          "A" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sina arbetsprocesser och sitt resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "Dessutom gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kommunicerar med ett <strong>________</strong> för arbetsuppgiften fungerande fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kommunicerar med ett <strong>enkelt men</strong> för arbetsuppgiften fungerande fackspråk.",
+          "C" : "Eleven kommunicerar med ett för arbetsuppgiften fungerande fackspråk.",
+          "A" : "Eleven kommunicerar med ett <strong>nyanserat och</strong> för arbetsuppgiften fungerande fackspråk."
+        }
+      }, {
+        "text" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+          "C" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+          "A" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Gasturbinmotorer",
+    "description" : "Kursen gasturbinmotorer omfattar punkterna 2 och 4–8 under rubriken Ämnets syfte.",
+    "code" : "FLYGAT0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Service och underhållsåtgärder av gasturbinmotorer.", "Felsökning och reparation av gasturbinmotorer.", "Energiomvandlingsprocessen i gasturbinmotorn.", "Gasturbinmotorers uppbyggnad samt deras olika huvudkomponenter och system.", "Motorprestanda, till exempel beräkning av dragkraft och motorers verkningsgrad.", "Turbopropmotorers uppbyggnad samt deras olika huvudkomponenter och system.", "Turboaxelmotorers uppbyggnad samt deras olika huvudkomponenter och system.", "Hjälpkraftaggregatets konstruktion och arbetssätt.", "Motorinstallation och brandskyddssystem, till exempel utformning av motorupphängning och brandvägg.", "Motorövervakning och markdrift, till exempel motorkörning och trendövervakning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> med stöd av informationsmaterial konstruktion av, funktion hos och påfrestningar på gasturbinmotorer och deras olika system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> med stöd av informationsmaterial konstruktion av, funktion hos och påfrestningar på gasturbinmotorer och deras olika system.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> med stöd av informationsmaterial konstruktion av, funktion hos och påfrestningar på gasturbinmotorer och deras olika system.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> med stöd av informationsmaterial konstruktion av, funktion hos och påfrestningar på gasturbinmotorer och deras olika system."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> med stöd av informationsmaterial hur gasturbinmotorns olika system är integrerade och samverkar med varandra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> med stöd av informationsmaterial hur gasturbinmotorns olika system är integrerade och samverkar med varandra.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> med stöd av informationsmaterial hur gasturbinmotorns olika system är integrerade och samverkar med varandra.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> med stöd av informationsmaterial hur gasturbinmotorns olika system är integrerade och samverkar med varandra."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare och i bekanta situationer <strong>________</strong> service och <strong>________</strong> underhåll av gasturbinmotorer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare och i bekanta situationer <strong>enkel</strong> service och <strong>enkelt</strong> underhåll av gasturbinmotorer.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer service och underhåll av gasturbinmotorer.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer service och underhåll av gasturbinmotorer."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare felsökning och åtgärdar <strong>________</strong> fel på gasturbinmotorns olika system enligt regelverk och kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare felsökning och åtgärdar <strong>enkla</strong> fel på gasturbinmotorns olika system enligt regelverk och kvalitetskrav.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare felsökning och åtgärdar fel på gasturbinmotorns olika system enligt regelverk och kvalitetskrav.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare felsökning och åtgärdar <strong>komplexa</strong> fel på gasturbinmotorns olika system enligt regelverk och kvalitetskrav."
+        }
+      }, {
+        "text" : "Eleven arbetar i bekanta situationer utifrån de instruktioner och det regelverk som uppgiften kräver.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar i bekanta situationer utifrån de instruktioner och det regelverk som uppgiften kräver.",
+          "C" : "Eleven arbetar i bekanta <strong>och delvis nya</strong> situationer utifrån de instruktioner och det regelverk som uppgiften kräver.",
+          "A" : "Eleven arbetar i bekanta <strong>och nya</strong> situationer utifrån de instruktioner och det regelverk som uppgiften kräver."
+        }
+      }, {
+        "text" : "När arbetet är utfört utvärderar eleven med <strong>________</strong> omdömen sina arbetsprocesser och sitt resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört utvärderar eleven med <strong>enkla</strong> omdömen sina arbetsprocesser och sitt resultat.",
+          "C" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sina arbetsprocesser och sitt resultat.",
+          "A" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sina arbetsprocesser och sitt resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "Dessutom gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kommunicerar med ett <strong>________</strong> för arbetsuppgiften fungerande fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kommunicerar med ett <strong>enkelt men</strong> för arbetsuppgiften fungerande fackspråk.",
+          "C" : "Eleven kommunicerar med ett för arbetsuppgiften fungerande fackspråk.",
+          "A" : "Eleven kommunicerar med ett <strong>nyanserat och</strong> för arbetsuppgiften fungerande fackspråk."
+        }
+      }, {
+        "text" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+          "C" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+          "A" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Helikopterlära",
+    "description" : "Kursen helikopterlära omfattar punkterna 1–2 och 4–8 under rubriken Ämnets syfte.",
+    "code" : "FLYHEL0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Service och underhållsåtgärder av helikoptrar.", "Helikoptrars olika system och konstruktionsprinciper samt påfrestningar som helikoptrar utsätts för i olika flygsituationer.", "Rotorluftfartygs aerodynamik och styrorgan.", "Helikopterkonstruktioner, till exempel skrovkonstruktioner och konstruktionsmetoder.", "Bladfält och vibrationsanalys, till exempel balansering av rotorblad.", "Transmissioner, till exempel växellådor och rotorbroms.", "Luftkonditioneringssystem.", "Instrument- och avioniksystem i helikoptrar.", "Helikoptrars elkraftförsörjning.", "Utrustning och inventarier i helikoptrar, till exempel kabinutformning, instigningsanordningar och nödutrustning.", "Brandskyddssystem.", "Bränslesystem.", "Hydraulsystem.", "Is- och regnskydd.", "Landställs uppbyggnad och funktion.", "Ljus, strålkastare och belysning.", "Pneumatik och vakuum, till exempel kompressorer och tryckreglering." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> helikoptrars specifika aerodynamiska förhållanden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> helikoptrars specifika aerodynamiska förhållanden.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> helikoptrars specifika aerodynamiska förhållanden.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> helikoptrars specifika aerodynamiska förhållanden."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> med stöd av informationsmaterial konstruktion av, funktion hos och påfrestningar på helikoptrar och deras olika system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> med stöd av informationsmaterial konstruktion av, funktion hos och påfrestningar på helikoptrar och deras olika system.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> med stöd av informationsmaterial konstruktion av, funktion hos och påfrestningar på helikoptrar och deras olika system.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> med stöd av informationsmaterial konstruktion av, funktion hos och påfrestningar på helikoptrar och deras olika system."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> med stöd av informationsmaterial hur helikopterns olika system är integrerade och samverkar med varandra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> med stöd av informationsmaterial hur helikopterns olika system är integrerade och samverkar med varandra.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> med stöd av informationsmaterial hur helikopterns olika system är integrerade och samverkar med varandra.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> med stöd av informationsmaterial hur helikopterns olika system är integrerade och samverkar med varandra."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare och i bekanta situationer <strong>________</strong> service och <strong>________</strong> underhållsåtgärder av helikoptrar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare och i bekanta situationer <strong>enkel</strong> service och <strong>enkla</strong> underhållsåtgärder av helikoptrar.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer service och underhållsåtgärder av helikoptrar.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer service och underhållsåtgärder av helikoptrar."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare felsökning och åtgärdar <strong>________</strong> fel på helikopterns olika system enligt regelverk och kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare felsökning och åtgärdar <strong>enkla</strong> fel på helikopterns olika system enligt regelverk och kvalitetskrav.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare felsökning och åtgärdar fel på helikopterns olika system enligt regelverk och kvalitetskrav.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare felsökning och åtgärdar <strong>komplexa</strong> fel på helikopterns olika system enligt regelverk och kvalitetskrav."
+        }
+      }, {
+        "text" : "Eleven arbetar i bekanta situationer utifrån de instruktioner och det regelverk som uppgiften kräver.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar i bekanta situationer utifrån de instruktioner och det regelverk som uppgiften kräver.",
+          "C" : "Eleven arbetar i bekanta <strong>och delvis nya</strong> situationer utifrån de instruktioner och det regelverk som uppgiften kräver.",
+          "A" : "Eleven arbetar i bekanta <strong>och nya</strong> situationer utifrån de instruktioner och det regelverk som uppgiften kräver."
+        }
+      }, {
+        "text" : "När arbetet är utfört utvärderar eleven med <strong>________</strong> omdömen sina arbetsprocesser och sitt resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört utvärderar eleven med <strong>enkla</strong> omdömen sina arbetsprocesser och sitt resultat.",
+          "C" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sina arbetsprocesser och sitt resultat.",
+          "A" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sina arbetsprocesser och sitt resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "Dessutom gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kommunicerar med ett <strong>________</strong> för arbetsuppgiften fungerande fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kommunicerar med ett <strong>enkelt men</strong> för arbetsuppgiften fungerande fackspråk.",
+          "C" : "Eleven kommunicerar med ett för arbetsuppgiften fungerande fackspråk.",
+          "A" : "Eleven kommunicerar med ett <strong>nyanserat och</strong> för arbetsuppgiften fungerande fackspråk."
+        }
+      }, {
+        "text" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+          "C" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+          "A" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Kolvmotor",
+    "description" : "Kursen kolvmotor omfattar punkterna 2 och 4–8 under rubriken Ämnets syfte.",
+    "code" : "FLYKOL0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Service och underhållsåtgärder av kolvmotorer.", "Felsökning och reparation av kolvmotorer.", "Energiomvandlingsprocessen i kolvmotorer.", "Kolvmotorers uppbyggnad samt deras olika huvudkomponenter och system.", "Motorprestanda, till exempel beräkning av effekt och motorers verkningsgrad.", "Motorindikeringssystem, till exempel cylindertemperatur, motorvarvtal och oljetryck.", "Motorinstallation och brandskyddssystem, till exempel utformning av motorupphängning och brandvägg.", "Motorövervakning och markdrift, till exempel motorkörning och trendövervakning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> med stöd av informationsmaterial konstruktion av, funktion hos och påfrestningar på kolvmotorer och deras olika system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> med stöd av informationsmaterial konstruktion av, funktion hos och påfrestningar på kolvmotorer och deras olika system.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> med stöd av informationsmaterial konstruktion av, funktion hos och påfrestningar på kolvmotorer och deras olika system.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> med stöd av informationsmaterial konstruktion av, funktion hos och påfrestningar på kolvmotorer och deras olika system."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> med stöd av informationsmaterial hur kolvmotorns olika system är integrerade och samverkar med varandra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> med stöd av informationsmaterial hur kolvmotorns olika system är integrerade och samverkar med varandra.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> med stöd av informationsmaterial hur kolvmotorns olika system är integrerade och samverkar med varandra.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> med stöd av informationsmaterial hur kolvmotorns olika system är integrerade och samverkar med varandra."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare och i bekanta situationer <strong>________</strong> service och <strong>________</strong> underhåll av kolvmotorer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare och i bekanta situationer <strong>enkel</strong> service och <strong>enkelt</strong> underhåll av kolvmotorer.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer service och underhåll av kolvmotorer.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer service och underhåll av kolvmotorer."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare felsökning och åtgärdar <strong>________</strong> fel på kolvmotorns olika system enligt regelverk och kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare felsökning och åtgärdar <strong>enkla</strong> fel på kolvmotorns olika system enligt regelverk och kvalitetskrav.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare felsökning och åtgärdar fel på kolvmotorns olika system enligt regelverk och kvalitetskrav.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare felsökning och åtgärdar <strong>komplexa</strong> fel på kolvmotorns olika system enligt regelverk och kvalitetskrav."
+        }
+      }, {
+        "text" : "Eleven arbetar i bekanta situationer utifrån de instruktioner och det regelverk som uppgiften kräver.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar i bekanta situationer utifrån de instruktioner och det regelverk som uppgiften kräver.",
+          "C" : "Eleven arbetar i bekanta <strong>och delvis nya</strong> situationer utifrån de instruktioner och det regelverk som uppgiften kräver.",
+          "A" : "Eleven arbetar i bekanta <strong>och nya</strong> situationer utifrån de instruktioner och det regelverk som uppgiften kräver."
+        }
+      }, {
+        "text" : "När arbetet är utfört utvärderar eleven med <strong>________</strong> omdömen sina arbetsprocesser och sitt resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört utvärderar eleven med <strong>enkla</strong> omdömen sina arbetsprocesser och sitt resultat.",
+          "C" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sina arbetsprocesser och sitt resultat.",
+          "A" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sina arbetsprocesser och sitt resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "Dessutom gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kommunicerar med ett <strong>________</strong> för arbetsuppgiften fungerande fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kommunicerar med ett <strong>enkelt men</strong> för arbetsuppgiften fungerande fackspråk.",
+          "C" : "Eleven kommunicerar med ett för arbetsuppgiften fungerande fackspråk.",
+          "A" : "Eleven kommunicerar med ett <strong>nyanserat och</strong> för arbetsuppgiften fungerande fackspråk."
+        }
+      }, {
+        "text" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+          "C" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+          "A" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Materiallära – flyg",
+    "description" : "Kursen materiallära – flyg omfattar punkterna 3 och 5–8 under rubriken Ämnets syfte.",
+    "code" : "FLYMAA0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Luftfartygsmaterial och flygmaterial samt deras karakteristik. Hur materialen påverkas av olika faktorer.", "Materialhantering och korrosion.", "Sammanfogningstekniker, till exempel nit- och skruvförband samt limning.", "Konstruktion av och användningsområde för till exempel lager, fjädrar, rör, slangar och kopplingar.", "Transmissioner, till exempel kugghjulsväxlar, kedjor och roderlinor.", "Elkablar, elanslutningsdon och kontaktdon." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> med stöd av informationsmaterial vanligt förekommande flygmaterial och deras egenskaper.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> med stöd av informationsmaterial vanligt förekommande flygmaterial och deras egenskaper.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> med stöd av informationsmaterial vanligt förekommande flygmaterial och deras egenskaper.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> med stöd av informationsmaterial vanligt förekommande flygmaterial och deras egenskaper."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> med stöd av informationsmaterial olika fästelement vid sammanfogning av komponenter i luftfartyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> med stöd av informationsmaterial olika fästelement vid sammanfogning av komponenter i luftfartyg.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> med stöd av informationsmaterial olika fästelement vid sammanfogning av komponenter i luftfartyg.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> med stöd av informationsmaterial olika fästelement vid sammanfogning av komponenter i luftfartyg."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> några vanligt förekommande arbetsmetoder, verktyg och material.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> några vanligt förekommande arbetsmetoder, verktyg och material.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> några vanligt förekommande arbetsmetoder, verktyg och material.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> några vanligt förekommande arbetsmetoder, verktyg och material."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför med <strong>________</strong> handlag praktiska moment utifrån ställda kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför med <strong>visst</strong> handlag praktiska moment utifrån ställda kvalitetskrav.",
+          "C" : "Eleven utför med <strong>gott</strong> handlag praktiska moment utifrån ställda kvalitetskrav.",
+          "A" : "Eleven utför med <strong>mycket gott</strong> handlag praktiska moment utifrån ställda kvalitetskrav."
+        }
+      }, {
+        "text" : "Eleven arbetar i bekanta situationer utifrån det regelverk som uppgiften kräver.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar i bekanta situationer utifrån det regelverk som uppgiften kräver.",
+          "C" : "Eleven arbetar i bekanta <strong>och delvis nya</strong> situationer utifrån det regelverk som uppgiften kräver.",
+          "A" : "Eleven arbetar i bekanta <strong>och nya</strong> situationer utifrån det regelverk som uppgiften kräver."
+        }
+      }, {
+        "text" : "När arbetet är utfört utvärderar eleven med <strong>________</strong> omdömen sina arbetsprocesser och sitt resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört utvärderar eleven med <strong>enkla</strong> omdömen sina arbetsprocesser och sitt resultat.",
+          "C" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sina arbetsprocesser och sitt resultat.",
+          "A" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sina arbetsprocesser och sitt resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "Dessutom gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kommunicerar med ett <strong>________</strong> för arbetsuppgiften fungerande fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kommunicerar med ett <strong>enkelt men</strong> för arbetsuppgiften fungerande fackspråk.",
+          "C" : "Eleven kommunicerar med ett för arbetsuppgiften fungerande fackspråk.",
+          "A" : "Eleven kommunicerar med ett <strong>nyanserat och</strong> för arbetsuppgiften fungerande fackspråk."
+        }
+      }, {
+        "text" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+          "C" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+          "A" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Mänskliga faktorer",
+    "description" : "Kursen mänskliga faktorer omfattar punkt 9 under rubriken Ämnets syfte.",
+    "code" : "FLYMAS0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Människans förutsättningar och begränsningar.", "Det mänskliga minnets struktur, funktion och kapacitet samt faktorer som styr människans uppmärksamhet.", "Socialpsykologi, till exempel kamrattryck, kulturfrågor och arbete i grupp.", "Faktorer som påverkar prestationer.", "Den fysiska miljöns påverkan på människan.", "Olika typer av arbetsuppgifters påverkan på människan.", "Kommunikation, till exempel inom och mellan olika grupper.", "Anpassning av tekniska systems gränssnitt till individens kognitiva och perceptuella kapacitet.", "Modeller och teorier om mänskliga misstag.", "Risker på arbetsplatsen." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> hur människans minne och tänkande fungerar och vilka faktorer som påverkar minnet och tänkandet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur människans minne och tänkande fungerar och vilka faktorer som påverkar minnet och tänkandet.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur människans minne och tänkande fungerar och vilka faktorer som påverkar minnet och tänkandet.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur människans minne och tänkande fungerar och vilka faktorer som påverkar minnet och tänkandet."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> hur människan väljer ut, uppfattar och tolkar sinnesintryck.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> hur människan väljer ut, uppfattar och tolkar sinnesintryck.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> hur människan väljer ut, uppfattar och tolkar sinnesintryck.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> hur människan väljer ut, uppfattar och tolkar sinnesintryck."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> hur olika påfrestningar som stress, kriser och katastrofer påverkar den perceptuella och kognitiva förmågan.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> hur olika påfrestningar som stress, kriser och katastrofer påverkar den perceptuella och kognitiva förmågan.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> hur olika påfrestningar som stress, kriser och katastrofer påverkar den perceptuella och kognitiva förmågan.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> hur olika påfrestningar som stress, kriser och katastrofer påverkar den perceptuella och kognitiva förmågan."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> hur mänskliga misstag kan undvikas och ger exempel på konsekvenser av sådana misstag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur mänskliga misstag kan undvikas och ger exempel på konsekvenser av sådana misstag.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur mänskliga misstag kan undvikas och ger exempel på konsekvenser av sådana misstag.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur mänskliga misstag kan undvikas och ger exempel på konsekvenser av sådana misstag."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> faktorer som påverkar människans motivation och prestation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> faktorer som påverkar människans motivation och prestation.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> faktorer som påverkar människans motivation och prestation.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> faktorer som påverkar människans motivation och prestation."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> problem med tekniska systems anpassning till människans psykiska förmåga och gör utifrån detta <strong>________</strong> riskbedömningar och drar <strong>________</strong> slutsatser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt några</strong> problem med tekniska systems anpassning till människans psykiska förmåga och gör utifrån detta <strong>enkla</strong> riskbedömningar och drar <strong>enkla</strong> slutsatser.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt några</strong> problem med tekniska systems anpassning till människans psykiska förmåga och gör utifrån detta riskbedömningar och drar <strong>välgrundade</strong> slutsatser.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat flera</strong> problem med tekniska systems anpassning till människans psykiska förmåga och gör utifrån detta <strong>välgrundade</strong> riskbedömningar och drar <strong>välgrundade och nyanserade</strong> slutsatser."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Underhållsteknik – flyg",
+    "description" : "Kursen underhållsteknik – flyg omfattar punkterna 3–8 under rubriken Ämnets syfte.",
+    "code" : "FLYUNS0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Allmänna och för yrkesområdet typiska verktyg och tillsynsmetoder.", "Handhavande av flygplan på marken samt demontering och montering av komponenter.", "Inspektionsteknik samt hur flygteknisk underhållsteknik regleras av luftfartsbestämmelserna.", "Miljö- och säkerhetsaspekter på arbetsplatsen, i synnerhet säkerhetsåtgärder för luftfartyg och i verkstad.", "Verkstadsrutiner, till exempel vård av verktyg och kalibreringsstandarder.", "Provutrustning för avionik.", "Maskinritningar, diagram och standarder.", "Passningar och spel, till exempel scheman för passningar och spel.", "Rör och slangar, till exempel inspektion och provning av dessa.", "Fjädrar, till exempel inspektion och provning av dessa.", "Lager, till exempel inspektion och provning av dessa.", "Transmissioner, till exempel inspektion och provning av dessa.", "Roderlinor, till exempel inspektion och provning av dessa.", "Materialhantering, till exempel plåtbearbetning och inspektionsmetoder.", "Sammanfogning, till exempel svetsning, hårdlödning, lödning, nitning, klämning och limning.", "Luftfartygs vikt och balans.", "Luftfartygs handhavande och förvaring.", "Demonterings-, inspektions-, reparations- och monteringstekniker.", "Onormala händelser, till exempel åsknedslag, hårda landningar och turbulens.", "Underhållsförfarande, till exempel underhållsplanering och utfärdande av intyg." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> med stöd av informationsmaterial <strong>________</strong> flygmaterial och verktyg samt deras funktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> med stöd av informationsmaterial <strong>vanligt förekommande</strong> flygmaterial och verktyg samt deras funktion.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> med stöd av informationsmaterial <strong>olika</strong> flygmaterial och verktyg samt deras funktion.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> med stöd av informationsmaterial <strong>olika</strong> flygmaterial och verktyg samt deras funktion."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> metoder vid reparation och underhåll.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt vanligt förekommande</strong> metoder vid reparation och underhåll.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt olika</strong> metoder vid reparation och underhåll.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat olika</strong> metoder vid reparation och underhåll."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare och med hjälp av skrivna instruktioner <strong>________</strong> reparationer och <strong>________</strong> underhåll.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare och med hjälp av skrivna instruktioner <strong>enkla</strong> reparationer och <strong>enkelt</strong> underhåll.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare och med hjälp av skrivna instruktioner reparationer och underhåll.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare och med hjälp av skrivna instruktioner <strong>avancerade</strong> reparationer och <strong>avancerat</strong> underhåll."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare sammanfogningar av detaljer och komponenter i luftfartyg utifrån ställda kvalitetskrav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare sammanfogningar av detaljer och komponenter i luftfartyg utifrån ställda kvalitetskrav.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare sammanfogningar av detaljer och komponenter i luftfartyg utifrån ställda kvalitetskrav.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare <strong>avancerade</strong> sammanfogningar av detaljer och komponenter i luftfartyg utifrån ställda kvalitetskrav."
+        }
+      }, {
+        "text" : "Eleven arbetar i bekanta situationer utifrån det regelverk som uppgiften kräver.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar i bekanta situationer utifrån det regelverk som uppgiften kräver.",
+          "C" : "Eleven arbetar i bekanta <strong>och delvis nya</strong> situationer utifrån det regelverk som uppgiften kräver.",
+          "A" : "Eleven arbetar i bekanta <strong>och nya</strong> situationer utifrån det regelverk som uppgiften kräver."
+        }
+      }, {
+        "text" : "När arbetet är utfört utvärderar eleven med <strong>________</strong> omdömen sina arbetsprocesser och sitt resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört utvärderar eleven med <strong>enkla</strong> omdömen sina arbetsprocesser och sitt resultat.",
+          "C" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sina arbetsprocesser och sitt resultat.",
+          "A" : "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sina arbetsprocesser och sitt resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "Dessutom gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kommunicerar med ett <strong>________</strong> för arbetsuppgiften fungerande fackspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kommunicerar med ett <strong>enkelt men</strong> för arbetsuppgiften fungerande fackspråk.",
+          "C" : "Eleven kommunicerar med ett för arbetsuppgiften fungerande fackspråk.",
+          "A" : "Eleven kommunicerar med ett <strong>nyanserat och</strong> för arbetsuppgiften fungerande fackspråk."
+        }
+      }, {
+        "text" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom samarbetar eleven för att nå planerade resultat.",
+          "C" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+          "A" : "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  } ]
+}

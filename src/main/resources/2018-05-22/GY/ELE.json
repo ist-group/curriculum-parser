@@ -1,0 +1,258 @@
+{
+  "name" : "Elektronik",
+  "description" : "Ämnet elektronik behandlar flera teknikområden där elektronik och elektroniska system byggs in för att styra eller ersätta mekaniska system, till exempel i bilar och hushållsmaskiner.",
+  "code" : "ELE",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet elektronik ska syfta till att eleverna utvecklar kunskaper om funktion och egenskaper hos de vanligaste analoga och digitala elektronikkomponenterna.", "I undervisningen ska eleverna ges möjlighet att utveckla förmåga att tolka symboler, elektronikscheman, datablad och annan teknisk dokumentation." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska leda till att eleverna utvecklar förmåga att utföra praktiska moment, till exempel elektronikmontering, komponentmätningar, programmering samt datorsimulering av elektronikuppkopplingar.", "Dessutom ska undervisningen leda till att eleverna utvecklar färdigheter i att sköta och använda verktyg och mätinstrument.", "I undervisningen ska ett undersökande arbetssätt och experiment, laborationer och datorsimuleringar ingå." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet elektronik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om funktion och egenskaper hos vanliga analoga och digitala elektronikkomponenter.", "Kunskaper om funktion och arbetssätt hos mikrodatorer och mikroprocessorer.", "Förmåga att utföra elektronikmonteringsarbete på ett säkert och miljövänligt sätt.", "Förmåga att programmera enklare elektroniksystem och mikrodatorsystem.", "Förmåga att använda och tolka begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument.", "Förmåga att utföra beräkningar av elektriska storheter.", "Förmåga att utföra komponent- och kretsmätningar.", "Förmåga att utföra datorsimulering av elektronikuppkopplingar." ]
+  } ],
+  "courses" : [ {
+    "name" : "Elektronik och mikrodatorteknik",
+    "description" : "Kursen elektronik och mikrodatorteknik omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "ELEELR0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Egenskaper och arbetssätt hos resistorer, kondensatorer, induktanser och transformatorer.", "Egenskaper och arbetssätt hos analoga och digitala halvledarkomponenter.", "Egenskaper och arbetssätt hos optokomponenter och displayer.", "Mikrodatorns arbetssätt.", "Mikroprocessorer och deras kringkomponenter.", "ESD-säker (electrostatic discharge) hantering och montering av elektronikkomponenter.", "Förbindningsteknik och ytmonteringsteknik.", "Enklare programmering av mikrodatorer.", "Schemaritningsteknik, symboler och funktioner.", "Binära talsystemet, boolesk algebra och de digitala grundfunktionerna.", "Arbetssätt och användningsområden för AD- och DA-omvandlare.", "Mätteknik för krets- och komponentmätningar.", "Datorsimulering av enklare elektronikuppkopplingar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> funktion och egenskaper hos vanligt förekommande analoga och digitala elektronikkomponenter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> funktion och egenskaper hos vanligt förekommande analoga och digitala elektronikkomponenter.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> funktion och egenskaper hos vanligt förekommande analoga och digitala elektronikkomponenter.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> funktion och egenskaper hos vanligt förekommande analoga och digitala elektronikkomponenter."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> funktion och arbetssätt hos mikrodatorer och mikroprocessorer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> funktion och arbetssätt hos mikrodatorer och mikroprocessorer.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> funktion och arbetssätt hos mikrodatorer och mikroprocessorer.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> funktion och arbetssätt hos mikrodatorer och mikroprocessorer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare montering, hantering och provning av vanligt förekommande analoga och digitala elektronikkomponenter samt enklare programmering av mikrodatorer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare montering, hantering och provning av vanligt förekommande analoga och digitala elektronikkomponenter samt enklare programmering av mikrodatorer.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare montering, hantering och provning av vanligt förekommande analoga och digitala elektronikkomponenter samt enklare programmering av mikrodatorer.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare montering, hantering och provning av vanligt förekommande analoga och digitala elektronikkomponenter samt enklare programmering av mikrodatorer."
+        }
+      }, {
+        "text" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt är miljövänligt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt är miljövänligt.",
+          "C" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt är miljövänligt.",
+          "A" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt är miljövänligt."
+        }
+      }, {
+        "text" : "I arbetet använder och tolkar eleven <strong>________</strong> begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder och tolkar eleven <strong>med viss säkerhet</strong> begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument.",
+          "C" : "I arbetet använder och tolkar eleven <strong>med viss säkerhet begrepp</strong>, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument.",
+          "A" : "I arbetet använder och tolkar eleven <strong>med säkerhet begrepp</strong>, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> beräkningar av elektriska storheter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>enkla</strong> beräkningar av elektriska storheter.",
+          "C" : "Dessutom utför eleven beräkningar av elektriska storheter.",
+          "A" : "Dessutom utför eleven <strong>avancerade</strong> beräkningar av elektriska storheter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> komponent- och kretsmätningar samt datorsimulering av elektronikuppkopplingar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>enkla</strong> komponent- och kretsmätningar samt datorsimulering av elektronikuppkopplingar.",
+          "C" : "Eleven utför komponent- och kretsmätningar samt datorsimulering av elektronikuppkopplingar.",
+          "A" : "Eleven utför <strong>avancerade</strong> komponent- och kretsmätningar samt datorsimulering av elektronikuppkopplingar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Låg- och högfrekvenskretsar",
+    "description" : "Kursen låg- och högfrekvenskretsar omfattar punkterna 1, 3, 5 och 7–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "ELELÅG0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Specialtransistorer för låg- och högfrekvens.", "Integrerade specialkretsar för låg- och högfrekvens.", "Låg- och högfrekvensmoduler.", "Mikrodatorer i låg- och högfrekvenskretsar.", "Enklare felsökning och reparationer i ljudanläggningar.", "Begreppen effekt, frekvensomfång, distorsion och decibel.", "Begreppen frekvens, frekvensspektrum, modulering och demodulering.", "Symboler, standarder och normer för låg- och högfrekvensområdet.", "Elektronik- och blockscheman för ljudanläggningar och förstärkare.", "Elektronik- och blockscheman för tv- och satellitmottagningsutrustning.", "Elektronik- och blockscheman för kommunikationsradiosystem.", "Enklare komponent- och kretsmätningar.", "Datorsimulering av enklare låg- och högfrekvenskretsar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> funktion och egenskaper hos vanligt förekommande elektronikkomponenter och moduler för låg- och högfrekvenskretsar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> funktion och egenskaper hos vanligt förekommande elektronikkomponenter och moduler för låg- och högfrekvenskretsar.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> funktion och egenskaper hos vanligt förekommande elektronikkomponenter och moduler för låg- och högfrekvenskretsar.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> funktion och egenskaper hos vanligt förekommande elektronikkomponenter och moduler för låg- och högfrekvenskretsar."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> hur dessa komponenter och moduler används i elektronikapparater och elektroniksystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> hur dessa komponenter och moduler används i elektronikapparater och elektroniksystem.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> hur dessa komponenter och moduler används i elektronikapparater och elektroniksystem.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> hur dessa komponenter och moduler används i elektronikapparater och elektroniksystem."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare montering, provning och felsökning av apparater med vanligt förekommande elektronikkomponenter och moduler för låg- och högfrekvenskretsar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare montering, provning och felsökning av apparater med vanligt förekommande elektronikkomponenter och moduler för låg- och högfrekvenskretsar.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare montering, provning och felsökning av apparater med vanligt förekommande elektronikkomponenter och moduler för låg- och högfrekvenskretsar.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare montering, provning och felsökning av apparater med vanligt förekommande elektronikkomponenter och moduler för låg- och högfrekvenskretsar."
+        }
+      }, {
+        "text" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt är miljövänligt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt är miljövänligt.",
+          "C" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt är miljövänligt.",
+          "A" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt är miljövänligt."
+        }
+      }, {
+        "text" : "I arbetet använder och tolkar eleven <strong>________</strong> begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder och tolkar eleven <strong>med viss säkerhet</strong> begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument.",
+          "C" : "I arbetet använder och tolkar eleven <strong>med viss säkerhet</strong> begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument.",
+          "A" : "I arbetet använder och tolkar eleven <strong>med säkerhet</strong> begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> komponent- och kretsmätningar samt datorsimulering av elektronikuppkopplingar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>enkla</strong> komponent- och kretsmätningar samt datorsimulering av elektronikuppkopplingar.",
+          "C" : "Eleven utför komponent- och kretsmätningar samt datorsimulering av elektronikuppkopplingar.",
+          "A" : "Eleven utför <strong>avancerade</strong> komponent- och kretsmätningar samt datorsimulering av elektronikuppkopplingar."
+        }
+      }, {
+        "text" : "Arbetet utförs med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet utförs med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Arbetet utförs med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Arbetet utförs med <strong>gott</strong> resultat."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Mikrodatortillämpningar",
+    "description" : "Kursen mikrodatortillämpningar omfattar punkterna 1–5 och 7–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "ELEMIK0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Egenskaper hos olika typer av mikrodatorkretsar.", "Mikrodatorns dataminne och programminne.", "Integrerade funktioner, till exempel timer, serie-interface, AD- och DA-omvandlare, watchdog och displaydrivare.", "Användningsområden för mikrodatorer.", "Fältprogrammerbara logikkretsar och deras användningsområden.", "Interface-kopplingar.", "Seriella bussar och deras anslutning.", "Presentationsenheter och displayer.", "Utvecklingsverktyg och utvecklingsmiljöer.", "Vanligt förekommande programmeringsspråk.", "Programmering med datorhjälp.", "Programutveckling och avlusning av program.", "Användning av flödesdiagram.", "Begreppen mikrocontroller och mikroprocessor.", "Begreppet inbyggda system.", "Felsökning i hård- och mjukvara." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> funktion, egenskaper och arbetssätt hos vanligt förekommande mikrodatorer och programmerbara logikkretsar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> funktion, egenskaper och arbetssätt hos vanligt förekommande mikrodatorer och programmerbara logikkretsar.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> funktion, egenskaper och arbetssätt hos vanligt förekommande mikrodatorer och programmerbara logikkretsar.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> funktion, egenskaper och arbetssätt hos vanligt förekommande mikrodatorer och programmerbara logikkretsar."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> deras användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> deras användningsområden.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> deras användningsområden.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> deras användningsområden."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och löser <strong>________</strong> med handledare styr- och mättekniska problem med hjälp av mikrodatorkretsar och programmerbara logikkretsar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och löser <strong>i samråd</strong> med handledare styr- och mättekniska problem med hjälp av mikrodatorkretsar och programmerbara logikkretsar.",
+          "C" : "Eleven planerar och löser <strong>efter samråd</strong> med handledare styr- och mättekniska problem med hjälp av mikrodatorkretsar och programmerbara logikkretsar.",
+          "A" : "Eleven planerar och löser <strong>efter samråd</strong> med handledare <strong>avancerade</strong> styr- och mättekniska problem med hjälp av mikrodatorkretsar och programmerbara logikkretsar."
+        }
+      }, {
+        "text" : "Eleven programmerar kretsarna så att de på ett <strong>________</strong> sätt uppfyller kraven på funktion och säkerhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven programmerar kretsarna så att de på ett <strong>tillfredsställande</strong> sätt uppfyller kraven på funktion och säkerhet.",
+          "C" : "Eleven programmerar kretsarna så att de på ett <strong>tillfredsställande</strong> sätt uppfyller kraven på funktion och säkerhet.",
+          "A" : "Eleven programmerar kretsarna så att de på ett <strong>gott</strong> sätt uppfyller kraven på funktion och säkerhet."
+        }
+      }, {
+        "text" : "I arbetet använder och tolkar eleven <strong>________</strong> begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder och tolkar eleven <strong>med viss säkerhet</strong> begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument.",
+          "C" : "I arbetet använder och tolkar eleven <strong>med viss säkerhet</strong> begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument.",
+          "A" : "I arbetet använder och tolkar eleven <strong>med säkerhet</strong> begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> felsökning i hård- och mjukvara.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>med viss säkerhet</strong> felsökning i hård- och mjukvara.",
+          "C" : "Eleven utför <strong>med viss säkerhet</strong> felsökning i hård- och mjukvara.",
+          "A" : "Eleven utför <strong>med säkerhet</strong> felsökning i hård- och mjukvara."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> kretsmätningar samt datorsimuleringar av elektronikuppkopplingar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>enkla</strong> kretsmätningar samt datorsimuleringar av elektronikuppkopplingar.",
+          "C" : "Dessutom utför eleven kretsmätningar samt datorsimuleringar av elektronikuppkopplingar.",
+          "A" : "Dessutom utför eleven <strong>avancerade</strong> kretsmätningar samt datorsimuleringar av elektronikuppkopplingar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

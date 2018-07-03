@@ -1,0 +1,56 @@
+{
+  "name" : "Konst och kultur",
+  "description" : "Ämnet konst och kultur behandlar olika konstarter och kulturyttringar samt hur de samspelar med samhällsutvecklingen. Ämnet handlar såväl om nutida som historiska konst- och kulturströmningar. I ämnet ingår etiska frågeställningar i samband med konst och kultur.",
+  "code" : "KOO",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet konst och kultur ska syfta till att eleverna utvecklar kunskaper om olika konstarter och kulturyttringar.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om konst- och kulturbegreppet samt om hur konstarterna samspelar med samhället.", "Undervisningen ska bidra till att eleverna utvecklar kunskaper om olika konstarter.", "Dessutom ska undervisningen bidra till att eleverna utvecklar kunskaper om olika kulturyttringar genom tiderna, såväl konventionella som olika subkulturer." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska leda till att eleverna ges möjlighet att utveckla förmåga att uppleva och tolka konst och kulturyttringar samt hur de samspelar med samhällsutvecklingen.", "Fältstudier och kulturupplevelser av olika slag ska ingå i undervisningen.", "Eleverna ska ges möjlighet att reflektera över samt samtala om etiska frågeställningar i samband med konst och kultur." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet konst och kultur ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om konst- och kulturbegreppets olika innebörder.", "Kunskaper om konst och kulturyttringar med exempel från olika epoker.", "Förmåga att tolka konst- och kulturyttringar och hur de samspelar med samhällsutvecklingen." ]
+  } ],
+  "courses" : [ {
+    "name" : "Konst och kultur",
+    "description" : "Kursen konst och kultur omfattar punkterna 1–3 under Ämnets syfte.",
+    "code" : "KOOKUN5",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Begreppen konst och kultur.", "Olika konstarter, till exempel arkitektur, dans och musik.", "Genrer och stilistiska drag i konstarter från olika epoker.", "Kulturyttringar genom tiderna, såväl konventionella som olika subkulturer.", "Film och tv från olika tider, till exempel drama, action och dokusåpor.", "Upplevelse och tolkning av samt samtal om olika former av konst- och kulturyttringar. Hur konst- och kulturyttringar samspelar med samhällsutvecklingen." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i samtal om konst- och kulturbegreppets olika innebörder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i samtal om konst- och kulturbegreppets olika innebörder.",
+          "C" : "Eleven samtalar <strong>på ett enkelt sätt</strong> om konst- och kulturbegreppets olika innebörder.",
+          "A" : "Eleven samtalar <strong>på ett utvecklat sätt</strong> om konst- och kulturbegreppets olika innebörder."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att beskriva konst- och kulturyttringar med exempel från olika epoker.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva konst- och kulturyttringar med exempel från olika epoker.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> konst- och kulturyttringar med exempel från olika epoker.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> konst- och kulturyttringar med exempel från olika epoker."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att tolka konst- och kulturyttringar samt hur de samspelar med samhällsutvecklingen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att tolka konst- och kulturyttringar samt hur de samspelar med samhällsutvecklingen.",
+          "C" : "Eleven tolkar <strong>på ett enkelt sätt</strong> konst- och kulturyttringar samt hur de samspelar med samhällsutvecklingen.",
+          "A" : "Eleven tolkar <strong>på ett utvecklat sätt</strong> konst- och kulturyttringar samt hur de samspelar med samhällsutvecklingen."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

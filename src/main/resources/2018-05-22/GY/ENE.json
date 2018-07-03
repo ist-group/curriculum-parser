@@ -1,0 +1,419 @@
+{
+  "name" : "Energiteknik",
+  "description" : "Ämnet energiteknik behandlar energitekniska objekt samt hur system fungerar och är konstruerade. Ämnet bygger delvis på naturvetenskapliga principer som tillämpas på energitekniska anläggningar. Ett miljöperspektiv ingår i ämnet eftersom energitekniska system till stor del påverkar miljön.",
+  "code" : "ENE",
+  "designation" : "",
+  "skolfsId" : "2010:156",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet energiteknik ska syfta till att eleverna utvecklar kunskaper i att utföra drift, underhåll och service av energitekniska anläggningar samt förmåga att lösa praktiska problem inom området.", "Den ska även leda till att eleverna utvecklar kunskaper om grundläggande fysikaliska storheter, nödvändig matematik, grundläggande kemi.", "Dessutom ska eleverna få möjlighet att utveckla kunskaper om behandling, provtagning och analys av olika typer av vatten som används inom processindustrin och inom energi-, miljö- och vattenteknik.", "Vidare ska undervisningen leda till att eleverna utvecklar en teoretisk grund inom energiområdet." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att utveckla förståelse av effektiv och hållbar energianvändning samt kretsloppstänkande.", "Eleverna ska också ges möjlighet att utveckla kunskaper om både konventionella och alternativa energisystem samt möjlighet att utveckla säkerhetstänkande, yrkesidentitet och ett yrkesetiskt förhållningssätt." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom experiment, laborationer och ett undersökande arbetssätt ska eleverna ges möjlighet att utveckla förmåga att lösa problem som gäller drift, underhåll och service av energitekniska anläggningar.", "Genom praktiska övningar ska eleverna ges möjlighet att utveckla tekniska kunskaper samt sköta teknisk utrustning." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet energiteknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om olika energitekniska utrustningar.", "Kunskaper om uppbyggnad, funktion och principer hos olika energitekniska systemlösningar.", "Kunskaper om olika energikällor och bränslen samt energibärande mediers egenskaper.", "Förmåga att utföra arbetsuppgifter i olika energitekniska anläggningar samt arbeta med hänsyn till säkerhet, kvalitet och miljö.", "Förmåga att optimera samt utföra kontroll- och driftrutiner och energibesparande åtgärder i olika energianläggningar.", "Förmåga att lösa fysikaliska eller vattenkemiska problem med hjälp av laborativt arbete.", "Förmåga att hantera material och verktyg.", "Förmåga att dokumentera och utvärdera sitt arbete.", "Förmåga att samverka med andra och använda fackspråk.", "Förmåga att arbeta enligt lagar och andra bestämmelser." ]
+  } ],
+  "courses" : [ {
+    "name" : "Energiteknik 1",
+    "description" : "Kursen energiteknik 1 omfattar punkterna 1–10 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "ENEENE01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Grundläggande systemförståelse inom tillämpliga energiområden samt effektiv energihantering.", "Energiinnehåll i olika bränslen.", "Förnybara energikällor: sol, vind, våg, värmepump, energigaser, biobränslen samt alternativa drivmedel för fordon.", "Energianvändning inom EU.", "Processkännedom om kärnkraft, vattenkraft, värmekraft, fjärrvärme och fjärrkyla.", "Processkännedom om vattenrening för dricksvatten och förorenat vatten samt miljö- och kretsloppstänkande.", "Hantering, montering, mätning och enklare underhåll av energiteknisk utrustning.", "Säkerhetsföreskrifter inom energiområdet.", "Måttsystem för energi och effekt samt enheter och förkortningar för energi och effekt.", "Användning och skötsel av utrustning och verktyg.", "Säkerhetstänkande och yrkesetik. Arbetsmiljö och ergonomi.", "Lagar och andra bestämmelser." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för olika energitekniska utrustningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för olika energitekniska utrustningar.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för olika energitekniska utrustningar.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för olika energitekniska utrustningar."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för uppbyggnad, funktion och principer hos olika energitekniska systemlösningar och olika energikällor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för uppbyggnad, funktion och principer hos olika energitekniska systemlösningar och olika energikällor.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för uppbyggnad, funktion och principer hos olika energitekniska systemlösningar och olika energikällor <strong>samt hur de samverkar</strong>.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för uppbyggnad, funktion och principer hos olika energitekniska systemlösningar och olika energikällor <strong>samt hur de samverkar</strong>."
+        }
+      }, {
+        "text" : "Eleven beskriver även <strong>________</strong> energibärande mediers egenskaper.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver även <strong>översiktligt</strong> energibärande mediers egenskaper.",
+          "C" : "Eleven beskriver även <strong>utförligt</strong> energibärande mediers egenskaper.",
+          "A" : "Eleven beskriver även <strong>utförligt och nyanserat</strong> energibärande mediers egenskaper."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför med <strong>________</strong> handlag och <strong>________</strong> med handledare vanligt förekommande enkla arbetsuppgifter i en energiteknisk anläggning och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför med <strong>visst</strong> handlag och <strong>i samråd</strong> med handledare vanligt förekommande enkla arbetsuppgifter i en energiteknisk anläggning och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö.",
+          "C" : "Eleven utför med <strong>gott</strong> handlag och <strong>efter samråd</strong> med handledare vanligt förekommande enkla arbetsuppgifter i en energiteknisk anläggning och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö.",
+          "A" : "Eleven utför med <strong>mycket gott</strong> handlag och <strong>efter samråd</strong> med handledare vanligt förekommande enkla <strong>och även mer avancerade</strong> arbetsuppgifter i en energiteknisk anläggning och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö."
+        }
+      }, {
+        "text" : "I arbetet löser eleven <strong>________</strong> enkla fysikaliska och vattenkemiska problem, genom beräkningar och laborativt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>med viss säkerhet</strong> enkla fysikaliska och vattenkemiska problem, genom beräkningar och laborativt arbete.",
+          "C" : "I arbetet löser eleven <strong>med viss säkerhet</strong> enkla fysikaliska och vattenkemiska problem, genom beräkningar och laborativt arbete.",
+          "A" : "I arbetet löser eleven <strong>med säkerhet</strong> enkla fysikaliska och vattenkemiska problem, genom beräkningar och laborativt arbete."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare <strong>________</strong> kontroll- och driftrutiner genom att använda energiteknisk utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare <strong>enkla</strong> kontroll- och driftrutiner genom att använda energiteknisk utrustning.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare kontroll- och driftrutiner genom att använda energiteknisk utrustning.",
+          "A" : "Eleven utför, <strong>på ett ansvarsfullt sätt och efter samråd</strong> med handledare, kontroll- och driftrutiner genom att använda energiteknisk utrustning."
+        }
+      }, {
+        "text" : "Eleven använder och vårdar <strong>________</strong> med handledare material och verktyg enligt instruktioner och arbetsbeskrivningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder och vårdar <strong>i samråd</strong> med handledare material och verktyg enligt instruktioner och arbetsbeskrivningar.",
+          "C" : "Eleven använder och vårdar <strong>efter samråd</strong> med handledare material och verktyg enligt instruktioner och arbetsbeskrivningar.",
+          "A" : "Eleven använder och vårdar <strong>efter samråd</strong> med handledare material och verktyg enligt instruktioner och arbetsbeskrivningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven dokumenterar <strong>________</strong> sitt arbete och utvärderar det med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven dokumenterar <strong>med viss säkerhet</strong> sitt arbete och utvärderar det med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven dokumenterar <strong>med säkerhet</strong> sitt arbete och utvärderar det med <strong>enkla</strong> omdömen.",
+          "A" : "Eleven dokumenterar <strong>med säkerhet</strong> sitt arbete och utvärderar det med <strong>nyanserade</strong> omdömen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I arbetet samverkar eleven med andra och använder ett <strong>________</strong> fackspråk som fungerar för arbetsuppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet samverkar eleven med andra och använder ett <strong>enkelt</strong> fackspråk som fungerar för arbetsuppgiften.",
+          "C" : "I arbetet samverkar eleven med andra och använder ett <strong>nyanserat</strong> fackspråk som fungerar för arbetsuppgiften.",
+          "A" : "I arbetet samverkar eleven med andra och använder ett <strong>nyanserat</strong> fackspråk som <strong>är anpassat till mottagaren och</strong> fungerar för arbetsuppgiften."
+        }
+      }, {
+        "text" : "Arbetet utförs i enlighet med lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet utförs i enlighet med lagar och andra bestämmelser.",
+          "C" : "Arbetet utförs i enlighet med lagar och andra bestämmelser.",
+          "A" : "Arbetet utförs i enlighet med lagar och andra bestämmelser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Energiteknik 2",
+    "description" : "Kursen energiteknik 2 omfattar punkterna 1–10 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "ENEENE02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Egenskaper hos energibärande medier.", "Allmän pumpteknik, termodynamikens och hydrodynamikens lagar.", "Allmän korrosionslära och olika materials egenskaper.", "Centrala storheter inom energiområdet, till exempel kraft, tryck, temperatur, energi, effekt och verkningsgrad.", "Uppbyggnad, funktion, arbetsprinciper, produktionsförutsättningar och miljökonsekvenser för energi-, miljö- och vattentekniska anläggningar.", "Underhållsrutiner inom energiområdet.", "Kontroll- och driftrutiner i olika anläggningar.", "Säkerhetsföreskrifter inom energiområdet.", "Beräkningar och tillämpningar av mekanik och värmelära på energitekniska anläggningar.", "Optimering av verkningsgrad och kvalitet hos energi-, miljö- och vattentekniska anläggningar.", "Användning och skötsel av utrustning och verktyg.", "Säkerhetstänkande och yrkesetik." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för uppbyggnad, funktion och principer hos olika energitekniska system och olika energikällor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för uppbyggnad, funktion och principer hos olika energitekniska system och olika energikällor.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för uppbyggnad, funktion och principer hos olika energitekniska system och olika energikällor.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för uppbyggnad, funktion och principer hos olika energitekniska system och olika energikällor."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> energibärande mediers egenskaper.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> energibärande mediers egenskaper.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> energibärande mediers egenskaper.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> energibärande mediers egenskaper."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför med <strong>________</strong> handlag och <strong>________</strong> med handledare vanligt förekommande arbetsuppgifter i en energiteknisk anläggning och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför med <strong>visst</strong> handlag och <strong>i samråd</strong> med handledare vanligt förekommande arbetsuppgifter i en energiteknisk anläggning och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö.",
+          "C" : "Eleven utför med <strong>gott</strong> handlag och <strong>efter samråd</strong> med handledare vanligt förekommande arbetsuppgifter i en energiteknisk anläggning och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö.",
+          "A" : "Eleven utför med <strong>mycket gott</strong> handlag och <strong>efter samråd</strong> med handledare vanligt förekommande arbetsuppgifter i en energiteknisk anläggning och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö."
+        }
+      }, {
+        "text" : "I arbetet löser eleven <strong>________</strong> enkla fysikaliska och vattenkemiska problem, genom beräkningar och laborativt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>med viss säkerhet</strong> enkla fysikaliska och vattenkemiska problem, genom beräkningar och laborativt arbete.",
+          "C" : "I arbetet löser eleven <strong>med viss säkerhet</strong> enkla fysikaliska och vattenkemiska problem, genom beräkningar och laborativt arbete.",
+          "A" : "I arbetet löser eleven <strong>med säkerhet</strong> enkla fysikaliska och vattenkemiska problem, genom beräkningar och laborativt arbete."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare <strong>________</strong> kontroll- och driftrutiner genom att använda energiteknisk utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare <strong>enkla</strong> kontroll- och driftrutiner genom att använda energiteknisk utrustning.",
+          "C" : "Eleven utför <strong>på ett ansvarsfullt sätt och efter samråd</strong> med handledare kontroll- och driftrutiner genom att använda energiteknisk utrustning.",
+          "A" : "Eleven utför <strong>på ett ansvarsfullt sätt och efter samråd</strong> med handledare kontroll- och driftrutiner genom att använda energiteknisk utrustning."
+        }
+      }, {
+        "text" : "Vidare utvärderar eleven resultatet med <strong>________</strong> omdömen och föreslår energibesparande åtgärder samt optimerar <strong>________</strong> med handledare energianläggningen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare utvärderar eleven resultatet med <strong>enkla</strong> omdömen och föreslår energibesparande åtgärder samt optimerar <strong>i samråd</strong> med handledare energianläggningen.",
+          "C" : "Vidare utvärderar eleven resultatet med <strong>enkla</strong> omdömen och föreslår energibesparande åtgärder samt optimerar <strong>efter samråd</strong> med handledare energianläggningen.",
+          "A" : "Vidare utvärderar eleven resultatet <strong>med nyanserade</strong> omdömen och föreslår energibesparande åtgärder samt optimerar <strong>efter samråd</strong> med handledare energianläggningen."
+        }
+      }, {
+        "text" : "Eleven använder och vårdar <strong>________</strong> med handledare material och verktyg enligt instruktioner och arbetsbeskrivningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder och vårdar <strong>i samråd</strong> med handledare material och verktyg enligt instruktioner och arbetsbeskrivningar.",
+          "C" : "Eleven använder och vårdar <strong>efter samråd</strong> med handledare material och verktyg enligt instruktioner och arbetsbeskrivningar.",
+          "A" : "Eleven använder och vårdar <strong>efter samråd</strong> med handledare material och verktyg enligt instruktioner och arbetsbeskrivningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven dokumenterar <strong>________</strong> sitt arbete och utvärderar det med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven dokumenterar <strong>med viss säkerhet</strong> sitt arbete och utvärderar det med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven dokumenterar <strong>med säkerhet</strong> sitt arbete och utvärderar det med <strong>enkla</strong> omdömen.",
+          "A" : "Eleven dokumenterar <strong>med säkerhet</strong> sitt arbete och utvärderar det med <strong>nyanserade</strong> omdömen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I arbetet samverkar eleven med andra och använder ett <strong>________</strong> fackspråk som fungerar för arbetsuppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet samverkar eleven med andra och använder ett <strong>enkelt</strong> fackspråk som fungerar för arbetsuppgiften.",
+          "C" : "I arbetet samverkar eleven med andra och använder ett <strong>nyanserat</strong> fackspråk som fungerar för arbetsuppgiften.",
+          "A" : "I arbetet samverkar eleven med andra och använder ett <strong>nyanserat</strong> fackspråk som <strong>är anpassat till mottagaren</strong> och fungerar för arbetsuppgiften."
+        }
+      }, {
+        "text" : "Arbetet utförs i enlighet med lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet utförs i enlighet med lagar och andra bestämmelser.",
+          "C" : "Arbetet utförs i enlighet med lagar och andra bestämmelser.",
+          "A" : "Arbetet utförs i enlighet med lagar och andra bestämmelser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Förnybar energi",
+    "description" : "Kursen förnybar energi omfattar punkterna 1–5 och 7–10 under rubriken Ämnets syfte.",
+    "code" : "ENEFÖR0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Huvudkomponenter i olika alternativa energianläggningar och deras uppgift.", "Energiomvandling och energiproduktion vid drift av olika anläggningar.", "Förnybara energianläggningars bränsle och avfallshantering ur drift-, säkerhets- och miljösynpunkt.", "Bränslen och deras egenskaper samt förbränningsprocessen.", "Förnybara energikällor, till exempel bioenergi, solenergi, vindkraft och vågkraft. Naturliga värmekällor och värmepumpar. Förnybar energi för fordonsdrift.", "Drift- och underhållsrutiner för olika anläggningstyper.", "Säkerhetstänkande och yrkesetik.", "Användning och skötsel av utrustning och verktyg.", "Lagar och andra bestämmelser som gäller drift, miljö och säkerhet vid användning av förnybara energikällor och bränslen." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för uppbyggnad, funktion och principer hos olika energitekniska system och olika energikällor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för uppbyggnad, funktion och principer hos olika energitekniska system och olika energikällor.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för uppbyggnad, funktion och principer hos olika energitekniska system och olika energikällor.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för uppbyggnad, funktion och principer hos olika energitekniska system och olika energikällor."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> energibärande mediers egenskaper.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> energibärande mediers egenskaper.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> energibärande mediers egenskaper.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> energibärande mediers egenskaper."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför med <strong>________</strong> handlag och <strong>________</strong> med handledare vanligt förekommande arbetsuppgifter i en energiteknisk anläggning och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför med <strong>visst</strong> handlag och <strong>i samråd</strong> med handledare vanligt förekommande arbetsuppgifter i en energiteknisk anläggning och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö.",
+          "C" : "Eleven utför med <strong>gott</strong> handlag och <strong>efter samråd</strong> med handledare vanligt förekommande arbetsuppgifter i en energiteknisk anläggning och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö.",
+          "A" : "Eleven utför med <strong>mycket gott</strong> handlag och <strong>efter samråd</strong> med handledare vanligt förekommande arbetsuppgifter i en energiteknisk anläggning och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare <strong>________</strong> kontroll- och driftrutiner genom att använda energiteknisk utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare <strong>enkla</strong> kontroll- och driftrutiner genom att använda energiteknisk utrustning.",
+          "C" : "Eleven utför <strong>på ett ansvarsfullt sätt och efter samråd</strong> med handledare kontroll- och driftrutiner genom att använda energiteknisk utrustning.",
+          "A" : "Eleven utför <strong>på ett ansvarsfullt sätt och efter samråd</strong> med handledare kontroll- och driftrutiner genom att använda energiteknisk utrustning."
+        }
+      }, {
+        "text" : "Vidare utvärderar eleven resultatet med <strong>________</strong> omdömen och föreslår energibesparande åtgärder samt optimerar <strong>________</strong> med handledare energianläggningen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare utvärderar eleven resultatet med <strong>enkla</strong> omdömen och föreslår energibesparande åtgärder samt optimerar <strong>i samråd</strong> med handledare energianläggningen.",
+          "C" : "Vidare utvärderar eleven resultatet med <strong>enkla</strong> omdömen och föreslår energibesparande åtgärder samt optimerar <strong>efter samråd</strong> med handledare energianläggningen.",
+          "A" : "Vidare utvärderar eleven resultatet med <strong>nyanserade</strong> omdömen och föreslår energibesparande åtgärder samt optimerar <strong>efter samråd</strong> med handledare energianläggningen."
+        }
+      }, {
+        "text" : "Eleven använder och vårdar <strong>________</strong> med handledare material och verktyg enligt instruktioner och arbetsbeskrivningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder och vårdar <strong>i samråd</strong> med handledare material och verktyg enligt instruktioner och arbetsbeskrivningar.",
+          "C" : "Eleven använder och vårdar <strong>efter samråd</strong> med handledare material och verktyg enligt instruktioner och arbetsbeskrivningar.",
+          "A" : "Eleven använder och vårdar <strong>efter samråd</strong> med handledare material och verktyg enligt instruktioner och arbetsbeskrivningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven dokumenterar <strong>________</strong> sitt arbete och utvärderar det med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven dokumenterar <strong>med viss säkerhet</strong> sitt arbete och utvärderar det med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven dokumenterar <strong>med säkerhet</strong> sitt arbete och utvärderar det med <strong>enkla</strong> omdömen.",
+          "A" : "Eleven dokumenterar <strong>med säkerhet</strong> sitt arbete och utvärderar det med <strong>nyanserade</strong> omdömen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I arbetet samverkar eleven med andra och använder ett <strong>________</strong> fackspråk som fungerar för arbetsuppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet samverkar eleven med andra och använder ett <strong>enkelt</strong> fackspråk som fungerar för arbetsuppgiften.",
+          "C" : "I arbetet samverkar eleven med andra och använder ett <strong>nyanserat</strong> fackspråk som fungerar för arbetsuppgiften.",
+          "A" : "I arbetet samverkar eleven med andra och använder ett <strong>nyanserat</strong> fackspråk som <strong>är anpassat till mottagaren</strong> och fungerar för arbetsuppgiften."
+        }
+      }, {
+        "text" : "Arbetet utförs i enlighet med lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet utförs i enlighet med lagar och andra bestämmelser.",
+          "C" : "Arbetet utförs i enlighet med lagar och andra bestämmelser.",
+          "A" : "Arbetet utförs i enlighet med lagar och andra bestämmelser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Vatten- och processkemi",
+    "description" : "Kursen vatten och processkemi omfattar punkterna 2, 4 och 6–10 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "ENEVAE0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Grundläggande kemi samt stökiometriska beräkningar inom vatten- och miljöområdet.", "Kemiska processer i samband med tillverkningsprocesser.", "Korrosionslära med inriktning mot vattenkemi.", "Olika typer av vattens lämplighet som råvatten.", "Mekanisk, biologisk och kemisk rening av råvatten.", "Provtagning, mätning och analyser samt användning av mätteknisk utrustning inom vatten- och miljöområdet.", "Hantering av kemikalier på ett säkert och miljövänligt sätt.", "Avhärdning och totalavsaltning.", "Krav på pannvatten, kondensat och spädvatten.", "Användning och skötsel av utrustning och verktyg.", "Säkerhetstänkande och yrkesetik." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för delprocesser i tillverkningsprocesserna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för delprocesser i tillverkningsprocesserna.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för delprocesser i tillverkningsprocesserna.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för avancerade delprocesser i tillverkningsprocesserna."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för uppbyggnad, funktion och principer hos olika energitekniska systemlösningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för uppbyggnad, funktion och principer hos olika energitekniska systemlösningar.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för uppbyggnad, funktion och principer hos olika energitekniska systemlösningar.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för uppbyggnad, funktion och principer hos olika energitekniska systemlösningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför med <strong>________</strong> handlag och <strong>________</strong> med handledare <strong>________</strong> provtagningar och analyser och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför med <strong>visst</strong> handlag och <strong>i samråd</strong> med handledare <strong>enkla</strong> provtagningar och analyser och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö.",
+          "C" : "Eleven utför med <strong>gott</strong> handlag och <strong>efter samråd</strong> med handledare provtagningar och analyser och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö.",
+          "A" : "Eleven utför med <strong>mycket gott</strong> handlag och <strong>efter samråd</strong> med handledare avancerade provtagningar och analyser och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö."
+        }
+      }, {
+        "text" : "I arbetet löser eleven <strong>________</strong> fysikaliska och vattenkemiska problem, genom beräkningar och laborativt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>med viss säkerhet enkla</strong> fysikaliska och vattenkemiska problem, genom beräkningar och laborativt arbete.",
+          "C" : "I arbetet löser eleven <strong>ansvarsfullt och med viss säkerhet</strong> fysikaliska och vattenkemiska problem, genom beräkningar och laborativt arbete.",
+          "A" : "I arbetet löser eleven, <strong>ansvarsfullt och med säkerhet, komplexa</strong> fysikaliska och vattenkemiska problem, genom beräkningar och laborativt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder och vårdar <strong>________</strong> med handledare material och verktyg, samt hanterar kemikalier, enligt instruktioner och arbetsbeskrivningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder och vårdar <strong>i samråd</strong> med handledare material och verktyg, samt hanterar kemikalier, enligt instruktioner och arbetsbeskrivningar.",
+          "C" : "Eleven använder och vårdar <strong>efter samråd</strong> med handledare material och verktyg, samt hanterar kemikalier, enligt instruktioner och arbetsbeskrivningar.",
+          "A" : "Eleven använder och vårdar <strong>efter samråd</strong> med handledare material och verktyg, samt hanterar kemikalier, enligt instruktioner och arbetsbeskrivningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven dokumenterar <strong>________</strong> sitt arbete och utvärderar det med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven dokumenterar <strong>med viss säkerhet</strong> sitt arbete och utvärderar det med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven dokumenterar <strong>med säkerhet</strong> sitt arbete och utvärderar det med <strong>enkla</strong> omdömen.",
+          "A" : "Eleven dokumenterar <strong>med säkerhet</strong> sitt arbete och utvärderar det med <strong>nyanserade</strong> omdömen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I arbetet samverkar eleven med andra och använder ett <strong>________</strong> fackspråk som fungerar för arbetsuppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet samverkar eleven med andra och använder ett <strong>enkelt</strong> fackspråk som fungerar för arbetsuppgiften.",
+          "C" : "I arbetet samverkar eleven med andra och använder ett <strong>nyanserat</strong> fackspråk som fungerar för arbetsuppgiften.",
+          "A" : "I arbetet samverkar eleven med andra och använder ett <strong>nyanserat</strong> fackspråk som <strong>är anpassat till mottagaren och</strong> fungerar för arbetsuppgiften."
+        }
+      }, {
+        "text" : "Arbetet utförs i enlighet med lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet utförs i enlighet med lagar och andra bestämmelser.",
+          "C" : "Arbetet utförs i enlighet med lagar och andra bestämmelser.",
+          "A" : "Arbetet utförs i enlighet med lagar och andra bestämmelser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

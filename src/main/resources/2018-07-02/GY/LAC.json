@@ -1,0 +1,1305 @@
+{
+  "name" : "Lackeringsteknik",
+  "description" : "Lackeringsteknik ingår som en del i ytbehandling och avser våtmålning. Ämnet lackeringsteknik behandlar lackering av fordon.",
+  "code" : "LAC",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet lackeringsteknik ska syfta till att eleverna utvecklar kunskaper om lackering av olika underlag och fordonstyper.", "Den ska ge eleverna möjlighet att utveckla förmåga att hantera verktyg och utrustning för lackeringsarbeten.", "Därutöver ska undervisningen leda till att eleverna utvecklar kunskaper om olika materials egenskaper och funktion samt färdigheter i att hantera de olika momenten i uppbyggandet av lackskiktet.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om olika lackeringssystems uppbyggnad samt om de faktorer som bryter ner lackeringsskiktet och hur de kan motverkas." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar kunskaper om arbetslivets villkor där kvalitet, kvalitetssäkring och kostnad är styrande faktorer.", "Eleverna ska ges möjlighet att utveckla förmåga att utifrån olika informationssystem skaffa information inför problemlösning för att sedan på ett yrkesmässigt sätt lösa uppgiften.", "Undervisningen ska ge eleverna möjlighet att utveckla förmåga att kommunicera med medarbetare och beställare." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke.", "Dessa arbetsuppgifter ska utgå från ett problemlösande och laborativt arbetssätt." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet lackeringsteknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om lackeraryrkets förutsättningar.", "Kunskaper om lackeringssystemens uppbyggnad, om färg- och materiallära samt om verkstadens ventilation och luftföring.", "Förmåga att utföra lackeringsarbeten med olika appliceringstekniker samt att med färg och form skapa dekoration och text på fordon.", "Förmåga att demontera och montera samt att vårda lackerade ytor.", "Förmåga att utföra diagnostik och beräkningar.", "Förmåga att använda och underhålla verktyg och utrustning.", "Förmåga att optimera produktionsflödet.", "Förmåga att använda informationsmaterial, såväl svenska som engelska manualer samt digitala informationssystem.", "Förmåga att arbeta på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten.", "Förmåga att samarbeta med andra och kommunicera med medarbetare och kunder." ]
+  } ],
+  "courses" : [ {
+    "name" : "Baskurs i lackering",
+    "description" : "Kursen baskurs i lackering omfattar punkterna 2–4, 6 och 8–10 under rubriken Ämnets syfte.",
+    "code" : "LACBAK0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Produkter som bildar lackskiktet med särskilt fokus på korrosionsskydd och hållbart ytskikt.", "Skillnader i härd- och termoplasters fysiska och kemiska egenskaper gällande reparation av fordons plastdetaljer.", "Rengöringsvätskor och rengöringsmetoder för olika typer av arbeten.", "Applicering med sprutpistol på karosseridetaljer av stål och termo- och härdplaster.", "Demontering och montering av utvändiga karosseridetaljer som inte kräver specialverktyg.", "Användning av produktdatablad för färgblandning samt värdering av utfört arbete.", "Reparation av skadade plastdetaljer till den noggrannhet som krävs för vidare lackeringsarbeten.", "Verkstadens utrustning och maskiner som används för arbetets utförande, till exempel för demontering och montering, reparation av plastdetaljer eller för lackering av lösa fordonsdelar.", "Arbetsmiljö samt lagar och bestämmelser som reglerar arbetsmiljön. Regler för härdplastarbeten och rutiner för övriga arbeten där personligt skydd krävs." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> de moment som leder till lackskiktets uppbyggnad och de olika produkter som används för arbetets utförande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> de moment som leder till lackskiktets uppbyggnad och de olika produkter som används för arbetets utförande.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> de moment som leder till lackskiktets uppbyggnad och de olika produkter som används för arbetets utförande.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> de moment som leder till lackskiktets uppbyggnad och de olika produkter som används för arbetets utförande."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> tillvägagångssättet för färgblandning med mix-maskin samt regler för härdplastarbete och skillnader i härd- och termoplasters egenskaper.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> tillvägagångssättet för färgblandning med mix-maskin samt regler för härdplastarbete och skillnader i härd- och termoplasters egenskaper.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> tillvägagångssättet för färgblandning med mix-maskin samt regler för härdplastarbete och skillnader i härd- och termoplasters egenskaper.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> tillvägagångssättet för färgblandning med mix-maskin samt regler för härdplastarbete och skillnader i härd- och termoplasters egenskaper."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> olika produkters vådlighet samt rengöringsvätskor och rengöringsmetoder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> olika produkters vådlighet samt rengöringsvätskor och rengöringsmetoder.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> olika produkters vådlighet samt rengöringsvätskor och rengöringsmetoder.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> olika produkters vådlighet samt rengöringsvätskor och rengöringsmetoder."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare <strong>________</strong> lackeringsarbeten med sprutpistol.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare <strong>enkla</strong> lackeringsarbeten med sprutpistol.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare <strong>enkla</strong> lackeringsarbeten med sprutpistol.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare lackeringsarbeten med sprutpistol."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare <strong>________</strong> demontering och montering av karosseridetaljer för utvändig lackering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare <strong>enkel</strong> demontering och montering av karosseridetaljer för utvändig lackering.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare <strong>enkel</strong> demontering och montering av karosseridetaljer för utvändig lackering.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare demontering och montering av karosseridetaljer för utvändig lackering."
+        }
+      }, {
+        "text" : "I arbetet blandar eleven, i bekanta situationer, utifrån produktdatablad grundmaterial enligt anvisningar samt väljer och använder spackel och grundfärg med en- och tvåkomponents bindemedel.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet blandar eleven, i bekanta situationer, utifrån produktdatablad grundmaterial enligt anvisningar samt väljer och använder spackel och grundfärg med en- och tvåkomponents bindemedel.",
+          "C" : "I arbetet blandar eleven, i bekanta <strong>och delvis nya</strong> situationer, utifrån produktdatablad grundmaterial enligt anvisningar samt väljer och använder spackel och grundfärg med en- och tvåkomponents bindemedel.",
+          "A" : "I arbetet blandar eleven, i bekanta <strong>och nya</strong> situationer, utifrån produktdatablad grundmaterial enligt anvisningar samt väljer och använder spackel och grundfärg med en- och tvåkomponents bindemedel."
+        }
+      }, {
+        "text" : "Dessutom använder och vårdar eleven <strong>________</strong> datorstödd utrustning för färgbrytning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder och vårdar eleven <strong>med viss säkerhet</strong> datorstödd utrustning för färgbrytning.",
+          "C" : "Dessutom använder och vårdar eleven <strong>med viss säkerhet</strong> datorstödd utrustning för färgbrytning.",
+          "A" : "Dessutom använder och vårdar eleven <strong>med säkerhet</strong> datorstödd utrustning för färgbrytning."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare och i bekanta situationer <strong>________</strong> maskering för utvändig dellackering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare och i bekanta situationer <strong>enkel</strong> maskering för utvändig dellackering.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer <strong>enkel</strong> maskering för utvändig dellackering.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer maskering för utvändig dellackering."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare <strong>________</strong> reparationsarbete av skadade plastdetaljer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare <strong>enkelt</strong> reparationsarbete av skadade plastdetaljer.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare <strong>enkelt</strong> reparationsarbete av skadade plastdetaljer.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare reparationsarbete av skadade plastdetaljer."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> verktyg och utrustning enligt praxis.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> verktyg och utrustning enligt praxis.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> verktyg och utrustning enligt praxis.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> verktyg och utrustning enligt praxis."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven hittar och använder <strong>________</strong> det informationsmaterial som arbetet kräver.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hittar och använder <strong>med viss säkerhet</strong> det informationsmaterial som arbetet kräver.",
+          "C" : "Eleven hittar och använder <strong>med viss säkerhet</strong> det informationsmaterial som arbetet kräver.",
+          "A" : "Eleven hittar och använder <strong>med säkerhet</strong> det informationsmaterial som arbetet kräver."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> både svenska och engelska manualer samt digitala informationssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning."
+        }
+      }, {
+        "text" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt använder skyddsutrustning enligt praxis och underhåller sin personliga skyddsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt använder skyddsutrustning enligt praxis och underhåller sin personliga skyddsutrustning.",
+          "C" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt använder skyddsutrustning enligt praxis och underhåller sin personliga skyddsutrustning.",
+          "A" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt använder skyddsutrustning enligt praxis och underhåller sin personliga skyddsutrustning."
+        }
+      }, {
+        "text" : "Dessutom tar eleven <strong>________</strong> hänsyn till kostnader vid åtgärd och stillestånd.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom tar eleven <strong>viss</strong> hänsyn till kostnader vid åtgärd och stillestånd.",
+          "C" : "Dessutom tar eleven hänsyn till kostnader vid åtgärd och stillestånd.",
+          "A" : "Dessutom tar eleven hänsyn till kostnader vid åtgärd och stillestånd."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>________</strong> med medarbetare och kunder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet</strong> med medarbetare och kunder.",
+          "C" : "Eleven samarbetar <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet</strong> med medarbetare och kunder.",
+          "A" : "Eleven samarbetar <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med säkerhet</strong> med medarbetare och kunder."
+        }
+      }, {
+        "text" : "I kommunikationen använder eleven <strong>________</strong> tekniska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "C" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "A" : "I kommunikationen använder eleven <strong>med säkerhet</strong> tekniska begrepp."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 300,
+    "year" : null
+  }, {
+    "name" : "Färg och dekorationslackering",
+    "description" : "Kursen färg och dekorationslackering omfattar punkterna 2–6 och 8–10 under rubriken Ämnets syfte.",
+    "code" : "LACFÄR0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Lackeringssystemens uppbyggnad vid dekoration.", "Färglära beträffande ljus, reflektionsytor och färgsättning. Färgprovsamlingar, justering av kulöravvikelser och beskrivning av kulörer för medarbetare och kunder.", "NCS- och PMS-systemen med tillämpning.", "Färgbruk vid skydds- och varselmärkning.", "Appliceringstekniker för merytor och dekor, mall- och frihandsteknik.", "Demontering och montering av dekaler i mindre format, till exempel firmalogotyper.", "Rekonditionering och polering vid reparation av små skador. Polerarbeten vid dekorativ lackering. Underhåll av lackerade ytor.", "Sprututrustning för mindre lackeringsarbeten, mallar och skärverktyg.", "Bindemedel, slipmaterial och rengöringsvätskor för dekorationsarbeten.", "Arbetsteknik och skyddsutrustning vid mindre lackeringsarbeten samt arbetsställningar vid motivlackering och annat statiskt arbete.", "Påverkan och krav på arbetsmiljö vid arbete med dekorationslackering och färgbrytning. De använda kemiska produkternas miljöpåverkan." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> lackskiktets uppbyggnad för merytor och dekorationslackering, metoder för dekorationslackering samt tekniker för framställning av schabloner och dekaler.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> lackskiktets uppbyggnad för merytor och dekorationslackering, metoder för dekorationslackering samt tekniker för framställning av schabloner och dekaler.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> lackskiktets uppbyggnad för merytor och dekorationslackering, metoder för dekorationslackering samt tekniker för framställning av schabloner och dekaler.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> lackskiktets uppbyggnad för merytor och dekorationslackering, metoder för dekorationslackering samt tekniker för framställning av schabloner och dekaler."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> ljuskvalitet, reflektionsytor, NCS- och PMS-systemen, kulörer och det färgbruk som används vid varselmärkning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> ljuskvalitet, reflektionsytor, NCS- och PMS-systemen, kulörer och det färgbruk som används vid varselmärkning.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> ljuskvalitet, reflektionsytor, NCS- och PMS-systemen, kulörer och det färgbruk som används vid varselmärkning.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> ljuskvalitet, reflektionsytor, NCS- och PMS-systemen, kulörer och det färgbruk som används vid varselmärkning."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> ventilation och luftföring i utrymmen med riktad luftföring.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> ventilation och luftföring i utrymmen med riktad luftföring.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> ventilation och luftföring i utrymmen med riktad luftföring.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> ventilation och luftföring i utrymmen med riktad luftföring."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven väljer färg, utför <strong>________</strong> med handledare <strong>________</strong> maskeringsarbeten samt applicerar färg för merytor och dekor med solida lacker enligt skyddsföreskrifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven väljer färg, utför <strong>i samråd</strong> med handledare <strong>enkla</strong> maskeringsarbeten samt applicerar färg för merytor och dekor med solida lacker enligt skyddsföreskrifter.",
+          "C" : "Eleven väljer färg, utför <strong>efter samråd</strong> med handledare maskeringsarbeten samt applicerar färg för merytor och dekor med solida lacker enligt skyddsföreskrifter.",
+          "A" : "Eleven väljer färg, utför <strong>efter samråd</strong> med handledare <strong>avancerade</strong> maskeringsarbeten samt applicerar färg för merytor och dekor med solida lacker enligt skyddsföreskrifter."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare <strong>________</strong> dekoration med mall- och frihandsteknik samt monterar och demonterar dekaler.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare <strong>enkel</strong> dekoration med mall- och frihandsteknik samt monterar och demonterar dekaler.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare dekoration med mall- och frihandsteknik samt monterar och demonterar dekaler.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare <strong>avancerad</strong> dekoration med mall- och frihandsteknik samt monterar och demonterar dekaler."
+        }
+      }, {
+        "text" : "I arbetet väljer eleven polermedel och polerutrustning för vård av lackerade ytor samt utför i bekanta situationer rekonditionering och underhåll av lackerade ytor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet väljer eleven polermedel och polerutrustning för vård av lackerade ytor samt utför i bekanta situationer rekonditionering och underhåll av lackerade ytor.",
+          "C" : "I arbetet väljer eleven polermedel och polerutrustning för vård av lackerade ytor samt utför i bekanta <strong>och delvis nya</strong> situationer rekonditionering och underhåll av lackerade ytor.",
+          "A" : "I arbetet väljer eleven polermedel och polerutrustning för vård av lackerade ytor samt utför i bekanta <strong>och nya</strong> situationer rekonditionering och underhåll av lackerade ytor."
+        }
+      }, {
+        "text" : "Dessutom fastställer eleven kulörer, väljer mellan olika alternativ och nyanserar vid behov solida färger i bekanta situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom fastställer eleven kulörer, väljer mellan olika alternativ och nyanserar vid behov solida färger i bekanta situationer.",
+          "C" : "Dessutom fastställer eleven kulörer, väljer mellan olika alternativ och nyanserar vid behov solida färger i bekanta <strong>och delvis nya</strong> situationer.",
+          "A" : "Dessutom fastställer eleven kulörer, väljer mellan olika alternativ och nyanserar vid behov solida färger i bekanta <strong>och nya</strong> situationer."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare <strong>________</strong> beräkningar av färgåtgång och mixar färg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare <strong>enkla</strong> beräkningar av färgåtgång och mixar färg.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare beräkningar av färgåtgång och mixar färg.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare <strong>avancerade</strong> beräkningar av färgåtgång och mixar färg."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> verktyg och utrustning enligt praxis.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> verktyg och utrustning enligt praxis.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> verktyg och utrustning enligt praxis.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> verktyg och utrustning enligt praxis."
+        }
+      }, {
+        "text" : "Dessutom underhåller eleven sprutpistoler och handverktyg för dekorativ lackering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom underhåller eleven sprutpistoler och handverktyg för dekorativ lackering.",
+          "C" : "Dessutom underhåller eleven sprutpistoler och handverktyg för dekorativ lackering.",
+          "A" : "Dessutom underhåller eleven sprutpistoler och handverktyg för dekorativ lackering."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven hittar och använder <strong>________</strong> det informationsmaterial som arbetet kräver.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hittar och använder <strong>med viss säkerhet</strong> det informationsmaterial som arbetet kräver.",
+          "C" : "Eleven hittar och använder <strong>med viss säkerhet</strong> det informationsmaterial som arbetet kräver.",
+          "A" : "Eleven hittar och använder <strong>med säkerhet</strong> det informationsmaterial som arbetet kräver."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> både svenska och engelska manualer samt digitala informationssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning."
+        }
+      }, {
+        "text" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt använder skyddsutrustning enligt praxis och underhåller sin personliga skyddsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt använder skyddsutrustning enligt praxis och underhåller sin personliga skyddsutrustning.",
+          "C" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt använder skyddsutrustning enligt praxis och underhåller sin personliga skyddsutrustning.",
+          "A" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt använder skyddsutrustning enligt praxis och underhåller sin personliga skyddsutrustning."
+        }
+      }, {
+        "text" : "Dessutom tar eleven <strong>________</strong> hänsyn till kostnader vid åtgärd och stillestånd.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom tar eleven <strong>viss</strong> hänsyn till kostnader vid åtgärd och stillestånd.",
+          "C" : "Dessutom tar eleven hänsyn till kostnader vid åtgärd och stillestånd.",
+          "A" : "Dessutom tar eleven hänsyn till kostnader vid åtgärd och stillestånd."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>________</strong> med medarbetare och kunder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet</strong> med medarbetare och kunder.",
+          "C" : "Eleven samarbetar, <strong>medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet</strong> med medarbetare och kunder.",
+          "A" : "Eleven samarbetar, <strong>medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med säkerhet</strong> med medarbetare och kunder."
+        }
+      }, {
+        "text" : "I kommunikationen använder eleven <strong>________</strong> tekniska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "C" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "A" : "I kommunikationen använder eleven <strong>med säkerhet</strong> tekniska begrepp."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Industriell lackering",
+    "description" : "Kursen industriell lackering omfattar punkterna 2–3, 5–6 och 8–10 under rubriken Ämnets syfte.",
+    "code" : "LACINS0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika branscher och marknader inom industriell lackering samt deras olika processer.", "Industriell lackering för vald bransch.", "Materialkännedom.", "Uppbyggnad av en produktionslina som är anpassad till produktionsvillkoren.", "Ventilation och luftföring för den aktuella processen.", "Kemiska produkters miljöpåverkan.", "Appliceringstekniker anpassade till vald produktion.", "Utrustning för applicering av färg för den valda processen.", "Metoder för att söka information som är viktig för arbetet. Tillgänglighet till informationssystem för bedömning av produkter enligt substitutionsregeln.", "Skyddsutrustning som är anpassad till verkstadens produktion och de produkter som används.", "Produktion och produktionsflöden för det aktuella arbetet samt värdering av kvalitet och kostnad." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> de olika lackeringssystem, produkter och appliceringstekniker som används för arbetets utförande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> de olika lackeringssystem, produkter och appliceringstekniker som används för arbetets utförande.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> de olika lackeringssystem, produkter och appliceringstekniker som används för arbetets utförande.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> de olika lackeringssystem, produkter och appliceringstekniker som används för arbetets utförande."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> verkstadens layout och ventilation samt behovet av luftföring i lokaler avsedda för målningsarbeten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> verkstadens layout och ventilation samt behovet av luftföring i lokaler avsedda för målningsarbeten.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> verkstadens layout och ventilation samt behovet av luftföring i lokaler avsedda för målningsarbeten.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> verkstadens layout och ventilation samt behovet av luftföring i lokaler avsedda för målningsarbeten."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> de kemiska produkter som ingår i produktionen och den miljöpåverkan de har.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> de kemiska produkter som ingår i produktionen och den miljöpåverkan de har.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> de kemiska produkter som ingår i produktionen och den miljöpåverkan de har.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> de kemiska produkter som ingår i produktionen och den miljöpåverkan de har."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare <strong>________</strong> underarbeten och <strong>________</strong> lackering av nya och tidigare lackerade ytor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare <strong>enkla</strong> underarbeten och <strong>enkel</strong> lackering av nya och tidigare lackerade ytor.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare underarbeten och lackering av nya och tidigare lackerade ytor.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare <strong>avancerade</strong> underarbeten och <strong>avancerad</strong> lackering av nya och tidigare lackerade ytor."
+        }
+      }, {
+        "text" : "I arbetet använder eleven olika tekniker för applicering av färg samt föreslår i bekanta situationer utrustning för den valda produktionen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven olika tekniker för applicering av färg samt föreslår i bekanta situationer utrustning för den valda produktionen.",
+          "C" : "I arbetet använder eleven olika tekniker för applicering av färg samt föreslår i bekanta <strong>och delvis nya</strong> situationer utrustning för den valda produktionen.",
+          "A" : "I arbetet använder eleven olika tekniker för applicering av färg samt föreslår i bekanta <strong>och nya</strong> situationer utrustning för den valda produktionen."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare <strong>________</strong> beräkningar av tids- och materialåtgång för den aktuella produktionen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare <strong>enkla</strong> beräkningar av tids- och materialåtgång för den aktuella produktionen.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare beräkningar av tids- och materialåtgång för den aktuella produktionen.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare <strong>avancerade</strong> beräkningar av tids- och materialåtgång för den aktuella produktionen."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> verktyg och utrustning enligt praxis.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> verktyg och utrustning enligt praxis.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> verktyg och utrustning enligt praxis.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> verktyg och utrustning enligt praxis."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven hittar och använder <strong>________</strong> det informationsmaterial som arbetet kräver.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hittar och använder <strong>med viss säkerhet</strong> det informationsmaterial som arbetet kräver.",
+          "C" : "Eleven hittar och använder <strong>med viss säkerhet</strong> det informationsmaterial som arbetet kräver.",
+          "A" : "Eleven hittar och använder <strong>med säkerhet</strong> det informationsmaterial som arbetet kräver."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> både svenska och engelska manualer samt digitala informationssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning."
+        }
+      }, {
+        "text" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt använder skyddsutrustning enligt praxis och underhåller sin personliga skyddsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt använder skyddsutrustning enligt praxis och underhåller sin personliga skyddsutrustning.",
+          "C" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt använder skyddsutrustning enligt praxis och underhåller sin personliga skyddsutrustning.",
+          "A" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt använder skyddsutrustning enligt praxis och underhåller sin personliga skyddsutrustning."
+        }
+      }, {
+        "text" : "Dessutom tar eleven <strong>________</strong> hänsyn till kostnader vid åtgärd och stillestånd.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom tar eleven <strong>viss</strong> hänsyn till kostnader vid åtgärd och stillestånd.",
+          "C" : "Dessutom tar eleven hänsyn till kostnader vid åtgärd och stillestånd.",
+          "A" : "Dessutom tar eleven hänsyn till kostnader vid åtgärd och stillestånd."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>________</strong> med medarbetare och kunder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet</strong> med medarbetare och kunder.",
+          "C" : "Eleven samarbetar, <strong>medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet</strong> med medarbetare och kunder.",
+          "A" : "Eleven samarbetar, <strong>medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med säkerhet</strong> med medarbetare och kunder."
+        }
+      }, {
+        "text" : "I kommunikationen använder eleven <strong>________</strong> tekniska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "C" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "A" : "I kommunikationen använder eleven <strong>med säkerhet</strong> tekniska begrepp."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Lackeringssystem",
+    "description" : "Kursen lackeringssystem omfattar punkterna 2–4, 6 och 8–10 under rubriken Ämnets syfte.",
+    "code" : "LACLAC0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Modeller för att beskriva processer och skeenden.", "Produkters egenskaper och användningsområden sammansatta till produktionssystem med hänsyn tagen till underlagets betydelse för det färdiga resultatet.", "Applicering och slipteknik. Optimering av utrustning, produkter och utförande för levererbart resultat.", "Ytdefekter och åtgärder för dessa kopplat till kostnad.", "Utvändig och invändig rekonditionering av personbilar.", "Fastställande av kulör.", "Principer för luftföring och ventilation i lokaler som är anpassade för arbeten med lösningsmedel.", "Arbetsteknik och skyddsutrustning anpassat till produktionslackering. Ergonomi i syfte att förhindra förslitningsskador." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> olika produkter och moment som bygger lackeringssystemen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> olika produkter och moment som bygger lackeringssystemen.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> olika produkter och moment som bygger lackeringssystemen.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> olika produkter och moment som bygger lackeringssystemen."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> verkstadens layout, skötsel av utrustning, användning av konventionell och tryckmatad sprututrustning samt övriga maskiner som krävs för arbetets utförande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> verkstadens layout, skötsel av utrustning, användning av konventionell och tryckmatad sprututrustning samt övriga maskiner som krävs för arbetets utförande.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> verkstadens layout, skötsel av utrustning, användning av konventionell och tryckmatad sprututrustning samt övriga maskiner som krävs för arbetets utförande.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> verkstadens layout, skötsel av utrustning, användning av konventionell och tryckmatad sprututrustning samt övriga maskiner som krävs för arbetets utförande."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> de kemiska produkter som ingår i produktionen och den miljöpåverkan de har.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> de kemiska produkter som ingår i produktionen och den miljöpåverkan de har.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> de kemiska produkter som ingår i produktionen och den miljöpåverkan de har.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> de kemiska produkter som ingår i produktionen och den miljöpåverkan de har."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare <strong>________</strong> lackering med olika appliceringstekniker och med de produkter och den utrustning som arbetet kräver.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare <strong>enkel</strong> lackering med olika appliceringstekniker och med de produkter och den utrustning som arbetet kräver.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare lackering med olika appliceringstekniker och med de produkter och den utrustning som arbetet kräver.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare <strong>avancerad</strong> lackering med olika appliceringstekniker och med de produkter och den utrustning som arbetet kräver."
+        }
+      }, {
+        "text" : "Eleven gör <strong>________</strong> bedömningar av ytdefekter samt föreslår i bekanta situationer lämpliga åtgärder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör <strong>enkla</strong> bedömningar av ytdefekter samt föreslår i bekanta situationer lämpliga åtgärder.",
+          "C" : "Eleven gör <strong>välgrundade</strong> bedömningar av ytdefekter samt föreslår i bekanta <strong>och delvis nya</strong> situationer lämpliga åtgärder.",
+          "A" : "Eleven gör <strong>välgrundade och nyanserade</strong> bedömningar av ytdefekter samt föreslår i bekanta <strong>och nya</strong> situationer lämpliga åtgärder."
+        }
+      }, {
+        "text" : "I arbetet följer eleven en given kravspecifikation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet följer eleven en given kravspecifikation.",
+          "C" : "I arbetet följer eleven en given kravspecifikation.",
+          "A" : "I arbetet följer eleven en given kravspecifikation."
+        }
+      }, {
+        "text" : "Dessutom väljer och använder eleven i bekanta situationer polermedel och polerutrustning för vård av lackerade ytor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom väljer och använder eleven i bekanta situationer polermedel och polerutrustning för vård av lackerade ytor.",
+          "C" : "Dessutom väljer och använder eleven i bekanta <strong>och delvis nya</strong> situationer polermedel och polerutrustning för vård av lackerade ytor.",
+          "A" : "Dessutom väljer och använder eleven i bekanta <strong>och nya</strong> situationer polermedel och polerutrustning för vård av lackerade ytor."
+        }
+      }, {
+        "text" : "Eleven fastställer kulör och föreslår i bekanta situationer alternativ variant för reparationslackering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven fastställer kulör och föreslår i bekanta situationer alternativ variant för reparationslackering.",
+          "C" : "Eleven fastställer kulör och föreslår i bekanta <strong>och delvis nya</strong> situationer alternativ variant för reparationslackering.",
+          "A" : "Eleven fastställer kulör och föreslår i bekanta <strong>och nya</strong> situationer alternativ variant för reparationslackering."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven hittar och använder <strong>________</strong> det informationsmaterial som arbetet kräver.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hittar och använder <strong>med viss säkerhet</strong> det informationsmaterial som arbetet kräver.",
+          "C" : "Eleven hittar och använder <strong>med viss säkerhet</strong> det informationsmaterial som arbetet kräver.",
+          "A" : "Eleven hittar och använder <strong>med säkerhet</strong> det informationsmaterial som arbetet kräver."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> både svenska och engelska manualer samt digitala informationssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning."
+        }
+      }, {
+        "text" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt använder skyddsutrustning enligt praxis och underhåller sin personliga skyddsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt använder skyddsutrustning enligt praxis och underhåller sin personliga skyddsutrustning.",
+          "C" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt använder skyddsutrustning enligt praxis och underhåller sin personliga skyddsutrustning.",
+          "A" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt använder skyddsutrustning enligt praxis och underhåller sin personliga skyddsutrustning."
+        }
+      }, {
+        "text" : "Dessutom tar eleven <strong>________</strong> hänsyn till kostnader vid åtgärd och stillestånd.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom tar eleven <strong>viss</strong> hänsyn till kostnader vid åtgärd och stillestånd.",
+          "C" : "Dessutom tar eleven hänsyn till kostnader vid åtgärd och stillestånd.",
+          "A" : "Dessutom tar eleven hänsyn till kostnader vid åtgärd och stillestånd."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>________</strong> med medarbetare och kunder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet</strong> med medarbetare och kunder.",
+          "C" : "Eleven samarbetar, <strong>medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet</strong> med medarbetare och kunder.",
+          "A" : "Eleven samarbetar, <strong>medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med säkerhet</strong> med medarbetare och kunder."
+        }
+      }, {
+        "text" : "I kommunikationen använder eleven <strong>________</strong> tekniska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "C" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "A" : "I kommunikationen använder eleven <strong>med säkerhet</strong> tekniska begrepp."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Lackeringsteknik för tunga fordon",
+    "description" : "Kursen lackeringsteknik för tunga fordon omfattar punkterna 2–6 och 8–10 under rubriken Ämnets syfte.",
+    "code" : "LACLAR0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Blästeranläggningar och deras funktion och skötsel samt blästring av chassikomponenter.", "Konstruktion och verkningssätt för lackeringsboxar anpassade för lackering av tunga fordon.", "Rutiner för arbete med tryckluftsbromsade fordon.", "Arbetsprocess och materialval för nya och tidigare lackerade ytor på tunga fordon med olika typer av underlag, till exempel olika metaller och plasttyper.", "Bindemedel, slipmaterial och rengöringsvätskor.", "Applicering med tryckmatad utrustning och lackmaterial som är anpassade för tunga fordon.", "Rengöring med högtrycksutrustning och tvättvätskor som är anpassade för tunga fordon.", "Utrustning och material för sliparbeten anpassade för arbeten med tunga fordon.", "Maskeringsteknik för in- och utvändig lackering i samband med dekorationer i flera kulörer.", "Lyftning och pallning av tunga fordon samt demontering och montering av komponenter och detaljer.", "Montering och demontering av dekaler och plastfilm för dekoration av tunga fordon.", "Tids- och materialåtgång vid lackering av tunga fordon ställt mot kvalitetskrav och kostnader.", "Verkstadens layout, kompressorer, konventionella och tryckmatade sprututrustningar samt övriga maskiner och utrustning som krävs för arbetets genomförande.", "Hög- och lågtrycksmatade sprututrustningars skötsel och handhavande.", "Informationssystem och bestämmelser för arbeten med tunga fordon.", "Arbetsteknik, skyddsutrustning och ergonomi anpassat till arbetet.", "Hantering och sortering av sopor och överblivet lackmaterial enligt bestämmelser." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> de kemiska produkter som ingår i lackeringssystemet för tunga fordon samt den miljöpåverkan de har.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> de kemiska produkter som ingår i lackeringssystemet för tunga fordon samt den miljöpåverkan de har.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> de kemiska produkter som ingår i lackeringssystemet för tunga fordon samt den miljöpåverkan de har.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> de kemiska produkter som ingår i lackeringssystemet för tunga fordon samt den miljöpåverkan de har."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> funktion och skötsel av verkstadens blästeranläggning och lackbox anpassade för tunga fordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> funktion och skötsel av verkstadens blästeranläggning och lackbox anpassade för tunga fordon.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> funktion och skötsel av verkstadens blästeranläggning och lackbox anpassade för tunga fordon.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> funktion och skötsel av verkstadens blästeranläggning och lackbox anpassade för tunga fordon."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> bestämmelser som gäller för arbete med tunga fordon samt rutiner för arbete med tryckluftsbromsade fordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> bestämmelser som gäller för arbete med tunga fordon samt rutiner för arbete med tryckluftsbromsade fordon.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> bestämmelser som gäller för arbete med tunga fordon samt rutiner för arbete med tryckluftsbromsade fordon.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> bestämmelser som gäller för arbete med tunga fordon samt rutiner för arbete med tryckluftsbromsade fordon."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför, <strong>________</strong> med handledare och i bekanta situationer, lackeringsarbeten på tunga fordon.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför, <strong>i samråd</strong> med handledare och i bekanta situationer, lackeringsarbeten på tunga fordon.",
+          "C" : "Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer, lackeringsarbeten på tunga fordon.",
+          "A" : "Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer, lackeringsarbeten på tunga fordon."
+        }
+      }, {
+        "text" : "I arbetet tvättar och lackerar eleven chassier med högtrycksutrustning samt utför sliparbeten till den noggrannhet som arbetet kräver.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet tvättar och lackerar eleven chassier med högtrycksutrustning samt utför sliparbeten till den noggrannhet som arbetet kräver.",
+          "C" : "I arbetet tvättar och lackerar eleven chassier med högtrycksutrustning samt utför sliparbeten till den noggrannhet som arbetet kräver.",
+          "A" : "I arbetet tvättar och lackerar eleven chassier med högtrycksutrustning samt utför sliparbeten till den noggrannhet som arbetet kräver."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare <strong>________</strong> maskering och blästring av chassier.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare <strong>enkel</strong> maskering och blästring av chassier.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare maskering och blästring av chassier.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare <strong>avancerad</strong> maskering och blästring av chassier."
+        }
+      }, {
+        "text" : "Dessutom monterar och demonterar eleven dekaler och utför maskering för <strong>________</strong> in- och utvändig lackering i flera kulörer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom monterar och demonterar eleven dekaler och utför maskering för <strong>enkel</strong> in- och utvändig lackering i flera kulörer.",
+          "C" : "Dessutom monterar och demonterar eleven dekaler och utför maskering för in- och utvändig lackering i flera kulörer.",
+          "A" : "Dessutom monterar och demonterar eleven dekaler och utför maskering för <strong>avancerad</strong> in- och utvändig lackering i flera kulörer."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare <strong>________</strong> beräkningar av tids- och materialåtgång samt avsynar och gör <strong>________</strong> bedömningar av det utförda arbetet i termer av finish, kvalitet och kostnader.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare <strong>enkla</strong> beräkningar av tids- och materialåtgång samt avsynar och gör <strong>enkla</strong> bedömningar av det utförda arbetet i termer av finish, kvalitet och kostnader.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare beräkningar av tids- och materialåtgång samt avsynar och gör <strong>välgrundade</strong> bedömningar av det utförda arbetet i termer av finish, kvalitet och kostnader.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare <strong>avancerade</strong> beräkningar av tids- och materialåtgång samt avsynar och gör <strong>välgrundade och nyanserade</strong> bedömningar av det utförda arbetet i termer av finish, kvalitet och kostnader."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> relevanta arbetsmetoder och relevant utrustning enligt praxis.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning enligt praxis.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning enligt praxis.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> relevanta arbetsmetoder och relevant utrustning enligt praxis."
+        }
+      }, {
+        "text" : "Dessutom använder och vårdar eleven låg- och högtryckssprutmatad utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder och vårdar eleven låg- och högtryckssprutmatad utrustning.",
+          "C" : "Dessutom använder och vårdar eleven låg- och högtryckssprutmatad utrustning.",
+          "A" : "Dessutom använder och vårdar eleven låg- och högtryckssprutmatad utrustning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>________</strong> med hjälp av det olika metoder och olika materials funktion och egenskaper.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>översiktligt</strong> med hjälp av det olika metoder och olika materials funktion och egenskaper.",
+          "C" : "Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>utförligt</strong> med hjälp av det olika metoder och olika materials funktion och egenskaper.",
+          "A" : "Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>utförligt och nyanserat</strong> med hjälp av det olika metoder och olika materials funktion och egenskaper."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> både svenska och engelska manualer samt digitala informationssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning."
+        }
+      }, {
+        "text" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt utför i bekanta situationer lyftning och pallning av tunga fordon på ett säkerhetsmässigt riktigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt utför i bekanta situationer lyftning och pallning av tunga fordon på ett säkerhetsmässigt riktigt sätt.",
+          "C" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt utför i bekanta <strong>och delvis nya</strong> situationer lyftning och pallning av tunga fordon på ett säkerhetsmässigt riktigt sätt.",
+          "A" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt utför i bekanta <strong>och nya</strong> situationer lyftning och pallning av tunga fordon på ett säkerhetsmässigt riktigt sätt."
+        }
+      }, {
+        "text" : "Dessutom sorterar eleven sopor och överblivet lackmaterial på ett miljömässigt riktigt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom sorterar eleven sopor och överblivet lackmaterial på ett miljömässigt riktigt sätt.",
+          "C" : "Dessutom sorterar eleven sopor och överblivet lackmaterial på ett miljömässigt riktigt sätt.",
+          "A" : "Dessutom sorterar eleven sopor och överblivet lackmaterial på ett miljömässigt riktigt sätt."
+        }
+      }, {
+        "text" : "I arbetet tar eleven också <strong>________</strong> hänsyn till kostnader vid åtgärd och stillestånd.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet tar eleven också <strong>viss</strong> hänsyn till kostnader vid åtgärd och stillestånd.",
+          "C" : "I arbetet tar eleven också hänsyn till kostnader vid åtgärd och stillestånd.",
+          "A" : "I arbetet tar eleven också hänsyn till kostnader vid åtgärd och stillestånd."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>________</strong> med medarbetare och kunder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet</strong> med medarbetare och kunder.",
+          "C" : "Eleven samarbetar, <strong>medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet</strong> med medarbetare och kunder.",
+          "A" : "Eleven samarbetar, <strong>medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med säkerhet</strong> med medarbetare och kunder."
+        }
+      }, {
+        "text" : "I kommunikationen använder eleven <strong>________</strong> tekniska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "C" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "A" : "I kommunikationen använder eleven <strong>med säkerhet</strong> tekniska begrepp."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Lackeringsteknik – applicering",
+    "description" : "Kursen lackeringsteknik – applicering omfattar punkterna 2–3, 5–6 och 8–10 under rubriken Ämnets syfte.",
+    "code" : "LACLAK0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Verksamhetsområden inom lackering som riktar sig till yrken eller verksamheter som är närbesläktade med fordonsbranschens lackerare.", "Lackeringssystem för industriell produktion i olika typer av produktion där objekt och kravspecifikation är avgörande.", "Produktion och produktionsflöden i förhållande till kvalitetskrav samt metoder för att värdera och dokumentera arbetet.", "Applicering av färg med konventionell pistol och tryckmatad utrustning enligt anvisning.", "Beräkning av tidsåtgång och materialåtgång vid produktion av längre serier.", "Maskeringsarbeten med mall och maskeringsmaterial, med metoder som är anpassade till olika objekt.", "Skötsel och vård av verktyg och maskinell utrustning för applicering av färg i större serier, till exempel vid produktionslackering av köksluckor.", "Krav och förutsättningar för bedömning av verkstadens layout med ventilation och luftföring.", "Krav och förutsättningar som berör säkerhet, miljö och arbetsmiljö vid lackering med stora mängder färg.", "Arbetsteknik, skyddsutrustning och ergonomi anpassat till det specifika arbetet.", "Kommunikation, kundbemötande och den informationsteknik som är vanlig inom valt område eller bransch." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> lackeringssystem för industriell produktion samt krav och förutsättningar som berör säkerhet och miljö vid lackering med stora mängder färg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> lackeringssystem för industriell produktion samt krav och förutsättningar som berör säkerhet och miljö vid lackering med stora mängder färg.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> lackeringssystem för industriell produktion samt krav och förutsättningar som berör säkerhet och miljö vid lackering med stora mängder färg.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> lackeringssystem för industriell produktion samt krav och förutsättningar som berör säkerhet och miljö vid lackering med stora mängder färg."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> olika produktioner och produktionsflöden i förhållande till kvalitetskrav samt metoder för värdering och dokumentation av arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> olika produktioner och produktionsflöden i förhållande till kvalitetskrav samt metoder för värdering och dokumentation av arbetet.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> olika produktioner och produktionsflöden i förhållande till kvalitetskrav samt metoder för värdering och dokumentation av arbetet.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> olika produktioner och produktionsflöden i förhållande till kvalitetskrav samt metoder för värdering och dokumentation av arbetet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare <strong>________</strong> lackeringsarbeten med konventionell pistol eller tryckmatad utrustning inom lackeringssystem för industriell produktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare <strong>enkla</strong> lackeringsarbeten med konventionell pistol eller tryckmatad utrustning inom lackeringssystem för industriell produktion.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare lackeringsarbeten med konventionell pistol eller tryckmatad utrustning inom lackeringssystem för industriell produktion.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare <strong>avancerade</strong> lackeringsarbeten med konventionell pistol eller tryckmatad utrustning inom lackeringssystem för industriell produktion."
+        }
+      }, {
+        "text" : "Eleven utför också, <strong>________</strong> med handledare och i bekanta situationer, <strong>________</strong> beräkningar av tids- och materialåtgång.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför också, <strong>i samråd</strong> med handledare och i bekanta situationer, <strong>enkla</strong> beräkningar av tids- och materialåtgång.",
+          "C" : "Eleven utför också, <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer, beräkningar av tids- och materialåtgång.",
+          "A" : "Eleven utför också, <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer, <strong>avancerade</strong> beräkningar av tids- och materialåtgång."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare <strong>________</strong> maskeringsarbeten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare <strong>enkla</strong> maskeringsarbeten.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare maskeringsarbeten.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare <strong>avancerade</strong> maskeringsarbeten."
+        }
+      }, {
+        "text" : "I arbetet använder, sköter och vårdar eleven <strong>________</strong> verktyg enligt praxis.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder, sköter och vårdar eleven <strong>med viss säkerhet</strong> verktyg enligt praxis.",
+          "C" : "I arbetet använder, sköter och vårdar eleven <strong>med viss säkerhet</strong> verktyg enligt praxis.",
+          "A" : "I arbetet använder, sköter och vårdar eleven <strong>med säkerhet</strong> verktyg enligt praxis."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven hittar och använder <strong>________</strong> det informationsmaterial som arbetet kräver.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hittar och använder <strong>med viss säkerhet</strong> det informationsmaterial som arbetet kräver.",
+          "C" : "Eleven hittar och använder <strong>med viss säkerhet</strong> det informationsmaterial som arbetet kräver.",
+          "A" : "Eleven hittar och använder <strong>med säkerhet</strong> det informationsmaterial som arbetet kräver."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> både svenska och engelska manualer samt digitala informationssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning."
+        }
+      }, {
+        "text" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt använder skyddsutrustning enligt praxis och underhåller sin personliga skyddsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt använder skyddsutrustning enligt praxis och underhåller sin personliga skyddsutrustning.",
+          "C" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt använder skyddsutrustning enligt praxis och underhåller sin personliga skyddsutrustning.",
+          "A" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt använder skyddsutrustning enligt praxis och underhåller sin personliga skyddsutrustning."
+        }
+      }, {
+        "text" : "Dessutom tar eleven <strong>________</strong> hänsyn till kostnader vid åtgärd och stillestånd.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom tar eleven <strong>viss</strong> hänsyn till kostnader vid åtgärd och stillestånd.",
+          "C" : "Dessutom tar eleven hänsyn till kostnader vid åtgärd och stillestånd.",
+          "A" : "Dessutom tar eleven hänsyn till kostnader vid åtgärd och stillestånd."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>________</strong> med medarbetare och kunder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet</strong> med medarbetare och kunder.",
+          "C" : "Eleven samarbetar, <strong>medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet</strong> med medarbetare och kunder.",
+          "A" : "Eleven samarbetar, <strong>medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med säkerhet</strong> med medarbetare och kunder."
+        }
+      }, {
+        "text" : "I kommunikationen använder eleven <strong>________</strong> tekniska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "C" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "A" : "I kommunikationen använder eleven <strong>med säkerhet</strong> tekniska begrepp."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Lackeringsteknik – introduktion",
+    "description" : "Kursen lackeringsteknik – introduktion omfattar punkterna 1–3, 5–6 och 8–10 under rubriken Ämnets syfte.",
+    "code" : "LACLAE0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Verksamhetsområden inom lackeringsteknik.", "Principer för lackskiktets uppbyggnad för att få ett gott korrosionsskydd och en i övrigt hållbar yta.", "Introduktion till reparationsmetoder för reparation av plastdetaljer och bilskadereparerad yta.", "Enklare lackeringsarbeten.", "Analys av lättare skada och de produkter som olika reparationer kräver.", "Handhavande och skötsel av verktyg, utrustning och produkter.", "Introduktion till lagar och andra bestämmelser som reglerar arbetet ur miljö- och arbetsmiljöperspektiv. Begränsningar av det arbete som får utföras ur säkerhetssynpunkt. Skyddsutrustning för olika arbeten, faror och olyckssamband samt riskbedömning av den egna och omgivande verksamheten.", "Ergonomi med avsikt att förhindra lyftskador samt ansvar för den egna utrustningen och medvetenhet om objekt- och materialkostnad.", "Vård av den egna utrustningen samt ansvarstagande för objekt och material." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> en för billackeraren vanligt förekommande arbetssituation, lackeraryrkets förutsättningar och den samverkan med bilskadereparatören som krävs.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> en för billackeraren vanligt förekommande arbetssituation, lackeraryrkets förutsättningar och den samverkan med bilskadereparatören som krävs.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> en för billackeraren vanligt förekommande arbetssituation, lackeraryrkets förutsättningar och den samverkan med bilskadereparatören som krävs.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> en för billackeraren vanligt förekommande arbetssituation, lackeraryrkets förutsättningar och den samverkan med bilskadereparatören som krävs."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> lackmaterialens funktion och egenskaper.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> lackmaterialens funktion och egenskaper.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> lackmaterialens funktion och egenskaper.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> lackmaterialens funktion och egenskaper."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> lagar och andra bestämmelser som begränsar det arbete som får utföras ur säkerhetssynpunkt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> lagar och andra bestämmelser som begränsar det arbete som får utföras ur säkerhetssynpunkt.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> lagar och andra bestämmelser som begränsar det arbete som får utföras ur säkerhetssynpunkt.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt</strong> lagar och andra bestämmelser som begränsar det arbete som får utföras ur säkerhetssynpunkt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare och i bekanta situationer enkla lackeringsarbeten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare och i bekanta situationer enkla lackeringsarbeten.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer enkla lackeringsarbeten.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer enkla lackeringsarbeten."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare och i bekanta situationer enkel diagnostik och enkla kostnadsberäkningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare och i bekanta situationer enkel diagnostik och enkla kostnadsberäkningar.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer enkel diagnostik och enkla kostnadsberäkningar.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer enkel diagnostik och enkla kostnadsberäkningar."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> relevanta arbetsmetoder och verktyg samt relevant utrustning enligt praxis.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och verktyg samt relevant utrustning enligt praxis.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och verktyg samt relevant utrustning enligt praxis.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> relevanta arbetsmetoder och verktyg samt relevant utrustning enligt praxis."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>________</strong> med hjälp av det olika metoder och olika materials funktion och egenskaper.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>översiktligt</strong> med hjälp av det olika metoder och olika materials funktion och egenskaper.",
+          "C" : "Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>utförligt</strong> med hjälp av det olika metoder och olika materials funktion och egenskaper.",
+          "A" : "Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>utförligt och nyanserat</strong> med hjälp av det olika metoder och olika materials funktion och egenskaper."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> både svenska och engelska manualer samt digitala informationssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning."
+        }
+      }, {
+        "text" : "Eleven utför arbetet med <strong>________</strong> hänsyn till miljö och säkerhet samt med <strong>________</strong> hänsyn till kostnader vid åtgärd och stillestånd.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet med <strong>viss</strong> hänsyn till miljö och säkerhet samt med <strong>viss</strong> hänsyn till kostnader vid åtgärd och stillestånd.",
+          "C" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt med hänsyn till kostnader vid åtgärd och stillestånd.",
+          "A" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt med hänsyn till kostnader vid åtgärd och stillestånd."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>________</strong> med medarbetare och kunder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet</strong> med medarbetare och kunder.",
+          "C" : "Eleven samarbetar <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet</strong> med medarbetare och kunder.",
+          "A" : "Eleven samarbetar <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med säkerhet</strong> med medarbetare och kunder."
+        }
+      }, {
+        "text" : "I kommunikationen använder eleven <strong>________</strong> tekniska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "C" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "A" : "I kommunikationen använder eleven <strong>med säkerhet</strong> tekniska begrepp."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Produktionsflöden",
+    "description" : "Kursen produktionsflöden omfattar punkterna 1–3 och 5–10 under rubriken Ämnets syfte.",
+    "code" : "LACPRD0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Verkstadens layout, utrustning, belysning och ventilation i syfte att optimera produktionsflödet.", "Garantiåtagande i samband med reparationsarbeten.", "Produkter och metoder länkade samman till ett tidsbesparande produktionsflöde med rätt kvalitet.", "Appliceringsmetoder ställda mot produktionskrav.", "Kulörval och nyansering. Blandning och justering av färg till rätt kulör och i rätt mängd med hjälp av mixsystem, färgprovsamlingar och färgkoder.", "Efterarbeten och färdigställande av fordon för leverans. Rengöringsmetod och material kopplat till rekonditionering i samband med färdigställande av fordon.", "Kvalitet, kvalitetssäkring och kostnad på utfört arbete.", "Miljöarbete, skyddsutrustning samt yttre och inre miljöarbete.", "Kundbemötande." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> den samverkan mellan olika parter inom och utanför verkstaden som krävs för att optimera produktionsflödet samt de garantiåtaganden som gäller för olika arbeten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> den samverkan mellan olika parter inom och utanför verkstaden som krävs för att optimera produktionsflödet samt de garantiåtaganden som gäller för olika arbeten.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> den samverkan mellan olika parter inom och utanför verkstaden som krävs för att optimera produktionsflödet samt de garantiåtaganden som gäller för olika arbeten.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> den samverkan mellan olika parter inom och utanför verkstaden som krävs för att optimera produktionsflödet samt de garantiåtaganden som gäller för olika arbeten."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> stegen i aktuell produktion, tidsbesparande åtgärder och kvalitetsbegrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> stegen i aktuell produktion, tidsbesparande åtgärder och kvalitetsbegrepp.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> stegen i aktuell produktion, tidsbesparande åtgärder och kvalitetsbegrepp.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> stegen i aktuell produktion, tidsbesparande åtgärder och kvalitetsbegrepp."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar sitt arbete, utför <strong>________</strong> med handledare lackering med en- och flerskikts uppbyggda kulörer samt följer tillverkarens anvisning för applicering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar sitt arbete, utför <strong>i samråd</strong> med handledare lackering med en- och flerskikts uppbyggda kulörer samt följer tillverkarens anvisning för applicering.",
+          "C" : "Eleven planerar sitt arbete, utför <strong>efter samråd</strong> med handledare lackering med en- och flerskikts uppbyggda kulörer samt följer tillverkarens anvisning för applicering.",
+          "A" : "Eleven planerar sitt arbete, utför <strong>efter samråd</strong> med handledare lackering med en- och flerskikts uppbyggda kulörer samt följer tillverkarens anvisning för applicering."
+        }
+      }, {
+        "text" : "Dessutom utför eleven, <strong>________</strong> med handledare och i bekanta situationer, diagnos av skadade detaljer som underlag för att välja reparationsmetoder och göra kostnadsberäkning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven, <strong>i samråd</strong> med handledare och i bekanta situationer, diagnos av skadade detaljer som underlag för att välja reparationsmetoder och göra kostnadsberäkning.",
+          "C" : "Dessutom utför eleven, <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer, diagnos av skadade detaljer som underlag för att välja reparationsmetoder och göra kostnadsberäkning.",
+          "A" : "Dessutom utför eleven, <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer, diagnos av skadade detaljer som underlag för att välja reparationsmetoder och göra kostnadsberäkning."
+        }
+      }, {
+        "text" : "Eleven gör i bekanta situationer <strong>________</strong> bedömningar av kvaliteten på sitt eget arbete samt utför nödvändiga efterarbeten, leveranskontroll och prissättning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör i bekanta situationer <strong>enkla</strong> bedömningar av kvaliteten på sitt eget arbete samt utför nödvändiga efterarbeten, leveranskontroll och prissättning.",
+          "C" : "Eleven gör i bekanta <strong>och delvis nya</strong> situationer <strong>välgrundade</strong> bedömningar av kvaliteten på sitt eget arbete samt utför nödvändiga efterarbeten, leveranskontroll och prissättning.",
+          "A" : "Eleven gör i bekanta <strong>och nya</strong> situationer <strong>välgrundade och nyanserade</strong> bedömningar av kvaliteten på sitt eget arbete samt utför nödvändiga efterarbeten, leveranskontroll och prissättning."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> kulörer för medarbetare och kunder på ett för yrket korrekt sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> kulörer för medarbetare och kunder på ett för yrket korrekt sätt.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> kulörer för medarbetare och kunder på ett för yrket korrekt sätt.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> kulörer för medarbetare och kunder på ett för yrket korrekt sätt."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> verktyg och utrustning enligt praxis.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> verktyg och utrustning enligt praxis.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> verktyg och utrustning enligt praxis.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> verktyg och utrustning enligt praxis."
+        }
+      }, {
+        "text" : "Eleven arbetar <strong>________</strong> systematiskt för att optimera produktionsflödet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar <strong>till viss del</strong> systematiskt för att optimera produktionsflödet.",
+          "C" : "Eleven arbetar systematiskt för att optimera produktionsflödet.",
+          "A" : "Eleven arbetar systematiskt för att optimera produktionsflödet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>________</strong> med hjälp av det kostnader för olika reparationsmetoder och olika material.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>översiktligt</strong> med hjälp av det kostnader för olika reparationsmetoder och olika material.",
+          "C" : "Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>utförligt</strong> med hjälp av det kostnader för olika reparationsmetoder och olika material.",
+          "A" : "Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>utförligt och nyanserat</strong> med hjälp av det kostnader för olika reparationsmetoder och olika material."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> både svenska och engelska manualer samt digitala informationssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning."
+        }
+      }, {
+        "text" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt tar i sitt arbete <strong>________</strong> hänsyn till kostnader vid åtgärd och stillestånd.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt tar i sitt arbete <strong>viss</strong> hänsyn till kostnader vid åtgärd och stillestånd.",
+          "C" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt tar i sitt arbete hänsyn till kostnader vid åtgärd och stillestånd.",
+          "A" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt tar i sitt arbete hänsyn till kostnader vid åtgärd och stillestånd."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>________</strong> med medarbetare och kunder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet</strong> med medarbetare och kunder.",
+          "C" : "Eleven samarbetar, <strong>medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet</strong> med medarbetare och kunder.",
+          "A" : "Eleven samarbetar, <strong>medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med säkerhet</strong> med medarbetare och kunder."
+        }
+      }, {
+        "text" : "I kommunikationen använder eleven <strong>________</strong> tekniska begrepp och anpassar sig till situationen och mottagaren.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> tekniska begrepp och anpassar sig till situationen och mottagaren.",
+          "C" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> tekniska begrepp och anpassar sig till situationen och mottagaren.",
+          "A" : "I kommunikationen använder eleven <strong>med säkerhet</strong> tekniska begrepp och anpassar sig till situationen och mottagaren."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Småreparationer – lackering",
+    "description" : "Kursen småreparationer – lackering omfattar punkterna 3–10 under rubriken Ämnets syfte.",
+    "code" : "LACSMA0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Metoder och användningsområden för småreparationer inom lackering.", "Bedömning av skador för val av reparationsmetod utifrån olika typer av skador och åtkomlighet.", "Diagnostisering och kostnadsberäkning av skador för småreparationer.", "Reparation av olika fordonsdetaljer med användning av utrustning för småreparationer.", "Reparation av lack- och plåtskador med omlackering av begränsad yta.", "Reparation och återställande av repade och kantstötta lättmetallfälgar.", "Reparation och återställande av ytskikt på strålkastare.", "Stötfångarreparation med begränsad yta.", "Användning och skötsel av verktyg.", "Manualer och digitala informationssystem.", "Facktermer.", "Säkerhet på arbetsplatsen, förebyggande av person- och egendomsskador samt lagar och andra bestämmelser som gäller för arbetet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare och i bekanta situationer bedömning av skador, väljer reparationsmetod samt diagnosticerar och kostnadsberäknar olika typer av skador inom området småreparationer – lackering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare och i bekanta situationer bedömning av skador, väljer reparationsmetod samt diagnosticerar och kostnadsberäknar olika typer av skador inom området småreparationer – lackering.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare i bekanta <strong>och delvis nya</strong> situationer bedömning av skador, väljer reparationsmetod samt diagnosticerar och kostnadsberäknar olika typer av skador inom området småreparationer – lackering.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare i bekanta <strong>och nya</strong> situationer bedömning av skador, väljer reparationsmetod samt diagnosticerar och kostnadsberäknar olika typer av skador inom området småreparationer – lackering."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare och i bekanta situationer småreparationer på olika fordonskomponenter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare och i bekanta situationer småreparationer på olika fordonskomponenter.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare i bekanta <strong>och delvis nya</strong> situationer småreparationer på olika fordonskomponenter.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare i bekanta <strong>och nya</strong> situationer småreparationer på olika fordonskomponenter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>________</strong> olika metoder och olika material som används för småreparationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>översiktligt</strong> olika metoder och olika material som används för småreparationer.",
+          "C" : "Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>utförligt</strong> olika metoder och olika material som används för småreparationer.",
+          "A" : "Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>utförligt och nyanserat</strong> olika metoder och olika material som används för småreparationer."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> manualer och digitala informationssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> manualer och digitala informationssystem.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> manualer och digitala informationssystem.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> manualer och digitala informationssystem."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning."
+        }
+      }, {
+        "text" : "Eleven utför arbetet med <strong>________</strong> hänsyn till miljö och säkerhet samt med <strong>________</strong> hänsyn till kostnader vid åtgärd och stillestånd.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför arbetet med <strong>viss</strong> hänsyn till miljö och säkerhet samt med <strong>viss</strong> hänsyn till kostnader vid åtgärd och stillestånd.",
+          "C" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt med hänsyn till kostnader vid åtgärd och stillestånd.",
+          "A" : "Eleven utför arbetet med hänsyn till miljö och säkerhet samt med hänsyn till kostnader vid åtgärd och stillestånd."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>________</strong> med medarbetare och kunder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet</strong> med medarbetare och kunder.",
+          "C" : "Eleven samarbetar, <strong>medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet</strong> med medarbetare och kunder.",
+          "A" : "Eleven samarbetar, <strong>medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med säkerhet</strong> med medarbetare och kunder."
+        }
+      }, {
+        "text" : "I kommunikationen använder eleven <strong>________</strong> tekniska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "C" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "A" : "I kommunikationen använder eleven <strong>med säkerhet</strong> tekniska begrepp."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

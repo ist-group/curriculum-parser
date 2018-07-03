@@ -1,0 +1,249 @@
+{
+  "name" : "Träningslära",
+  "description" : "Ämnet träningslära har sin grund i humanbiologi och idrottsvetenskap. I ämnet behandlas hur kroppen påverkas av träning och fungerar i tränings- och motionssammanhang.",
+  "code" : "TRN",
+  "designation" : "",
+  "skolfsId" : "2010:146",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet träningslära ska syfta till att eleverna utvecklar kunskaper om kroppens byggnad och funktion samt hur den påverkas av träning.", "Eleverna ska även ges möjlighet att utveckla kunskaper om den betydelse kost och fysisk aktivitet har för prestationsförmågan och för en hälsofrämjande livsstil.", "Undervisningen ska leda till att eleverna utvecklar förmåga att möta och pedagogiskt leda människor, individuellt och i grupp, i hälsofrämjande aktiviteter utifrån ett etiskt förhållningssätt.", "Eleverna ska ges möjlighet att utveckla förmåga att förebygga och behandla skador i samband med träning.", "De ska också ges möjlighet att utveckla kunskaper om motionsmiljöers betydelse för motivation samt om förhållningssätt till träning." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla ett kritiskt förhållningssätt till hur kroppsideal är kopplade till olika uppfattningar om kön och identitet.", "Eleverna ska också ges möjlighet att diskutera etiska frågor relaterade till träning och kroppsideal samt egna, andras och samhällets attityder till och värderingar av träning och kroppsideal." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet träningslära ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om kroppens anatomi och fysiologi.", "Kunskaper om näringsfysiologi.", "Kunskaper om samt förmåga att använda olika träningsmetoder.", "Förmåga att planera, genomföra, dokumentera och utvärdera anpassade och målstyrda träningsprogram.", "Förmåga att förebygga och behandla skador och arbeta hälsofrämjande.", "Förmåga att diskutera egna, andras, samhällets och olika kulturers attityder till och värderingar av träning och kroppsideal." ]
+  } ],
+  "courses" : [ {
+    "name" : "Träningslära 1",
+    "description" : "Kursen träningslära 1 omfattar punkterna 1–6 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "TRNTRN01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Anatomi och fysiologi med fokus på kroppens rörelseapparat, skelett, leder och muskler.", "Närings- och kostkunskap för prestation och hälsa.", "Betydelsen av återhämtning och vila för prestation, välbefinnande och hälsa.", "Människors olika förutsättningar för fysisk aktivitet i olika situationer.", "Motionsmiljöers betydelse för träning, motivation och prestation.", "Träningsmetoder för till exempel uthållighet, styrka, rörlighet, koordination och koncentration.", "Planering, genomförande, utvärdering och dokumentation av anpassade träningsprogram för såväl individer som grupper.", "Metoder för att arbeta skadeförebyggande samt akut omhändertagande och grundläggande behandling av skada i samband med fysisk aktivitet.", "Etiska normer och regler för träningsverksamhet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> kroppens byggnad och funktion samt hur olika typer av kost påverkar hälsa och prestation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> kroppens byggnad och funktion samt hur olika typer av kost påverkar hälsa och prestation.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> kroppens byggnad och funktion samt hur olika typer av kost påverkar hälsa och prestation.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> kroppens byggnad och funktion samt hur olika typer av kost påverkar hälsa och prestation."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hur kroppen påverkas av träning och vila samt för hur träning kan användas för att förebygga skador och ohälsa.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hur kroppen påverkas av träning och vila samt för hur träning kan användas för att förebygga skador och ohälsa.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hur kroppen påverkas av träning och vila samt för hur träning kan användas för att förebygga skador och ohälsa.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur kroppen påverkas av träning och vila samt för hur träning kan användas för att förebygga skador och ohälsa."
+        }
+      }, {
+        "text" : "Eleven redogör även <strong>________</strong> för några olika träningsmetoder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör även <strong>översiktligt</strong> för några olika träningsmetoder.",
+          "C" : "Eleven redogör även <strong>utförligt</strong> för några olika träningsmetoder.",
+          "A" : "Eleven redogör även <strong>utförligt och nyanserat</strong> för några olika träningsmetoder."
+        }
+      }, {
+        "text" : "I beskrivningar och redogörelser använder eleven <strong>________</strong> centrala begrepp och teorier samt förklarar <strong>________</strong> samband och drar <strong>________</strong> slutsatser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningar och redogörelser använder eleven <strong>med viss säkerhet</strong> centrala begrepp och teorier samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.",
+          "C" : "I beskrivningar och redogörelser använder eleven <strong>med viss säkerhet</strong> centrala begrepp och teorier samt förklarar samband och drar <strong>välgrundade</strong> slutsatser.",
+          "A" : "I beskrivningar och redogörelser använder eleven <strong>med säkerhet</strong> centrala begrepp och teorier samt förklarar <strong>komplexa</strong> samband och drar <strong>välgrundade</strong> slutsatser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar, såväl självständigt som i samarbete med andra, träningsprogram utifrån syfte och mål.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar, såväl självständigt som i samarbete med andra, träningsprogram utifrån syfte och mål.",
+          "C" : "Eleven planerar, såväl självständigt som i samarbete med andra, träningsprogram utifrån syfte och mål.",
+          "A" : "Eleven planerar, såväl självständigt som i samarbete med andra, träningsprogram utifrån syfte och mål. <strong>I planeringen identifierar eleven kritiska moment och förebygger hinder som kan uppstå under genomförandet</strong>."
+        }
+      }, {
+        "text" : "Utifrån planeringen genomför eleven träningsprogrammen <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Utifrån planeringen genomför eleven träningsprogrammen <strong>i samråd</strong> med handledare.",
+          "C" : "Utifrån planeringen genomför eleven träningsprogrammen <strong>efter samråd</strong> med handledare. <strong>Eleven diskuterar utförligt sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande</strong>.",
+          "A" : "Utifrån planeringen genomför eleven träningsprogrammen <strong>efter samråd</strong> med handledare <strong>samt anpassar vid behov genomförandet till ändrade förutsättningar</strong>. <strong>Eleven diskuterar utförligt och nyanserat sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande</strong>."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> dokumentation av utförda aktiviteter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> dokumentation av utförda aktiviteter.",
+          "C" : "Dessutom gör eleven en <strong>noggrann</strong> dokumentation av utförda aktiviteter.",
+          "A" : "Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation av utförda aktiviteter."
+        }
+      }, {
+        "text" : "I dokumentationen använder eleven <strong>________</strong> relevanta begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I dokumentationen använder eleven <strong>med viss säkerhet</strong> relevanta begrepp.",
+          "C" : "I dokumentationen använder eleven <strong>med viss säkerhet</strong> relevanta begrepp.",
+          "A" : "I dokumentationen använder eleven <strong>med säkerhet</strong> relevanta begrepp."
+        }
+      }, {
+        "text" : "Eleven utvärderar träningsprogrammen med <strong>________</strong> omdömen utifrån uppsatta mål.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar träningsprogrammen med <strong>enkla</strong> omdömen utifrån uppsatta mål.",
+          "C" : "Eleven utvärderar träningsprogrammen med <strong>nyanserade</strong> omdömen utifrån uppsatta mål.",
+          "A" : "Eleven utvärderar träningsprogrammen med <strong>nyanserade</strong> omdömen utifrån uppsatta mål <strong>och deltagarnas respons</strong>."
+        }
+      }, {
+        "text" : "I utvärderingen diskuterar eleven <strong>________</strong> möjliga alternativa lösningar och föreslår vid behov förbättringar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I utvärderingen diskuterar eleven <strong>översiktligt</strong> möjliga alternativa lösningar och föreslår vid behov förbättringar.",
+          "C" : "I utvärderingen diskuterar eleven <strong>utförligt</strong> möjliga alternativa lösningar och föreslår vid behov förbättringar.",
+          "A" : "I utvärderingen diskuterar eleven <strong>utförligt och nyanserat</strong> möjliga alternativa lösningar och föreslår vid behov förbättringar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven diskuterar <strong>________</strong> egna och andras attityder, värderingar och handlingar i relation till träning och kroppsideal.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> egna och andras attityder, värderingar och handlingar i relation till träning och kroppsideal.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> egna och andras attityder, värderingar och handlingar i relation till träning och kroppsideal.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat</strong> egna och andras attityder, värderingar och handlingar i relation till träning och kroppsideal."
+        }
+      }, {
+        "text" : "I diskussionen framför eleven <strong>________</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I diskussionen framför eleven <strong>enkla</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+          "C" : "I diskussionen framför eleven <strong>välgrundade</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+          "A" : "I diskussionen framför eleven <strong>välgrundade och nyanserade</strong> argument för sina åsikter samt visar respekt för andras åsikter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Träningslära 2",
+    "description" : "Kursen träningslära 2 omfattar punkterna 1–6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "TRNTRN02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Kroppens anatomi och fysiologi med fokus på energigivande processer.", "Kroppens energiomsättning, näringsfysiologi, energibehov och energibalans utifrån tränings- och hälsoperspektiv.", "Användande av kostregistrering och kostdataprogram.", "Olika faktorers påverkan på individers upplevelse av fysisk aktivitet och träning.", "Tränings- och motionsmiljöers betydelse för träning, motivation och prestation.", "Träningsmetoder för till exempel uthållighet, styrka, rörlighet, koordination och koncentration.", "Tester för att mäta fysiska kvaliteter, till exempel konditions- och rörlighetstester.", "Planering, genomförande, utvärdering och dokumentation av träningsprogram för individer och grupper.", "Skadeförebyggande träning samt enklare träningsprogram för rehabilitering, till exempel efter idrottsskada." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> kroppens uppbyggnad och funktion med fokus på näringsfysiologi och energigivande processer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> kroppens uppbyggnad och funktion med fokus på näringsfysiologi och energigivande processer.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> kroppens uppbyggnad och funktion med fokus på näringsfysiologi och energigivande processer.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> kroppens uppbyggnad och funktion med fokus på näringsfysiologi och energigivande processer."
+        }
+      }, {
+        "text" : "I beskrivningen ger eleven exempel på hur kroppen påverkas av kost, träning och vila.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningen ger eleven exempel på hur kroppen påverkas av kost, träning och vila.",
+          "C" : "I beskrivningen ger eleven exempel på hur kroppen påverkas av kost, träning och vila.",
+          "A" : "I beskrivningen ger eleven exempel på hur kroppen påverkas av kost, träning och vila."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för olika träningsmetoder samt för hur träning kan användas för att förebygga skador och ohälsa.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för olika träningsmetoder samt för hur träning kan användas för att förebygga skador och ohälsa.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för olika träningsmetoder samt för hur träning kan användas för att förebygga skador och ohälsa.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för olika träningsmetoder samt för hur träning kan användas för att förebygga skador och ohälsa."
+        }
+      }, {
+        "text" : "I beskrivningar och redogörelser använder eleven <strong>________</strong> centrala begrepp och teorier samt förklarar <strong>________</strong> samband och drar <strong>________</strong> slutsatser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningar och redogörelser använder eleven <strong>med viss säkerhet</strong> centrala begrepp och teorier samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.",
+          "C" : "I beskrivningar och redogörelser använder eleven <strong>med viss säkerhet</strong> centrala begrepp och teorier samt förklarar samband och drar <strong>välgrundade</strong> slutsatser.",
+          "A" : "I beskrivningar och redogörelser använder eleven <strong>med säkerhet</strong> centrala begrepp och teorier samt förklarar <strong>komplexa</strong> samband och drar <strong>välgrundade och nyanserade</strong> slutsatser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar, såväl självständigt som i samarbete med andra, olika träningsprogram i syfte att öka prestationen, förebygga skador och ohälsa samt rehabilitera.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar, såväl självständigt som i samarbete med andra, olika träningsprogram i syfte att öka prestationen, förebygga skador och ohälsa samt rehabilitera.",
+          "C" : "Eleven planerar, såväl självständigt som i samarbete med andra, olika träningsprogram i syfte att öka prestationen, förebygga skador och ohälsa samt rehabilitera.",
+          "A" : "Eleven planerar, såväl självständigt som i samarbete med andra, olika träningsprogram i syfte att öka prestationen, förebygga skador och ohälsa samt rehabilitera. <strong>I planeringen identifierar eleven kritiska moment och förebygger hinder som kan uppstå under genomförandet</strong>."
+        }
+      }, {
+        "text" : "Utifrån planeringen genomför eleven träningsprogrammen <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Utifrån planeringen genomför eleven träningsprogrammen <strong>i samråd</strong> med handledare.",
+          "C" : "Utifrån planeringen genomför eleven träningsprogrammen <strong>efter samråd</strong> med handledare. <strong>Eleven diskuterar utförligt sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande</strong>.",
+          "A" : "Utifrån planeringen genomför eleven träningsprogrammen <strong>efter samråd</strong> med handledare <strong>samt anpassar vid behov genomförandet till ändrade förutsättningar</strong>. <strong>Eleven diskuterar utförligt och nyanserat sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande</strong>."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> dokumentation av utförda aktiviteter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> dokumentation av utförda aktiviteter.",
+          "C" : "Dessutom gör eleven en <strong>noggrann</strong> dokumentation av utförda aktiviteter.",
+          "A" : "Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation av utförda aktiviteter."
+        }
+      }, {
+        "text" : "I dokumentationen använder eleven <strong>________</strong> relevanta begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I dokumentationen använder eleven <strong>med viss säkerhet</strong> relevanta begrepp.",
+          "C" : "I dokumentationen använder eleven <strong>med viss säkerhet</strong> relevanta begrepp.",
+          "A" : "I dokumentationen använder eleven <strong>med säkerhet</strong> relevanta begrepp."
+        }
+      }, {
+        "text" : "Eleven utvärderar träningsprogrammen med <strong>________</strong> omdömen utifrån uppsatta mål.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar träningsprogrammen med <strong>enkla</strong> omdömen utifrån uppsatta mål.",
+          "C" : "Eleven utvärderar träningsprogrammen med <strong>nyanserade</strong> omdömen utifrån uppsatta mål <strong>och deltagarnas respons</strong>.",
+          "A" : "Eleven utvärderar träningsprogrammen med <strong>nyanserade</strong> omdömen utifrån uppsatta mål <strong>och deltagarnas respons</strong>."
+        }
+      }, {
+        "text" : "I utvärderingen diskuterar eleven <strong>________</strong> möjliga alternativa lösningar och föreslår vid behov förbättringar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I utvärderingen diskuterar eleven <strong>översiktligt</strong> möjliga alternativa lösningar och föreslår vid behov förbättringar.",
+          "C" : "I utvärderingen diskuterar eleven <strong>utförligt</strong> möjliga alternativa lösningar och föreslår vid behov förbättringar.",
+          "A" : "I utvärderingen diskuterar eleven <strong>utförligt och nyanserat</strong> möjliga alternativa lösningar och föreslår vid behov förbättringar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven diskuterar <strong>________</strong> egna och andras attityder, värderingar och handlingar i relation till träning och kroppsideal.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> egna och andras attityder, värderingar och handlingar i relation till träning och kroppsideal.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> egna och andras attityder, värderingar och handlingar i relation till träning och kroppsideal.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat</strong> egna och andras attityder, värderingar och handlingar i relation till träning och kroppsideal."
+        }
+      }, {
+        "text" : "I diskussionen framför eleven <strong>________</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I diskussionen framför eleven <strong>enkla</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+          "C" : "I diskussionen framför eleven <strong>välgrundade</strong> argument för sina åsikter samt visar respekt för andras åsikter.",
+          "A" : "I diskussionen framför eleven <strong>välgrundade och nyanserade</strong> argument för sina åsikter samt visar respekt för andras åsikter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

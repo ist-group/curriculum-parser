@@ -1,0 +1,109 @@
+{
+  "name" : "Material och verktyg",
+  "description" : "Ämnet material och verktyg behandlar material, verktyg och annan teknisk utrusning som används inom olika yrkesområden. I ämnet ingår skötsel och underhåll av material och utrustning samt skydd och säkerhet.",
+  "code" : "MAV",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet material och verktyg ska syfta till att eleverna utvecklar kunskaper om olika material, verktyg och annan teknisk utrustning samt förmåga att använda och underhålla dessa.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om olika materials egenskaper och användningsområden.", "Eleverna ska också ges möjlighet att utveckla kunskaper om förädlingsprocessen, från råvara till färdigt material.", "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om verktyg och annan teknisk utrustning, dess konstruktion, funktion och användningsområden.", "Undervisningen ska leda till att eleverna utvecklar förmåga att använda material, verktyg och annan teknisk utrustning på ett ergonomiskt och säkert sätt samt med hänsyn till miljön." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Eleverna ska också ges möjlighet att utveckla kunskaper om skötsel och underhåll av material, verktyg och annan teknisk utrustning.", "Eleverna ska ges möjlighet att utveckla förmåga att utföra säkerhetskontroller och service av den tekniska utrustningen.", "Undervisningen ska leda till att eleverna utvecklar förmåga att sköta och underhålla material, verktyg och annan teknisk utrustning på ett säkert sätt." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Praktiskt arbete samt ett undersökande och problemlösande arbetssätt ska ingå i undervisningen.", "Genom undervisningen ska eleverna ges möjlighet att reflektera över och samtala om säkerhet, skyddsutrustning samt miljöhänsyn." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet material och verktyg ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om olika materials egenskaper och användningsområden.", "Kunskaper om verktyg och annan teknisk utrustning, deras konstruktion, funktion samt användningsområden.", "Förmåga att välja och använda material, verktyg och annan teknisk utrustning på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.", "Förmåga att sköta samt underhålla material, verktyg och maskiner på ett säkert sätt." ]
+  } ],
+  "courses" : [ {
+    "name" : "Material och verktyg 1",
+    "description" : "Kursen material och verktyg 1 omfattar punkterna 1–4 under rubriken Ämnets syfte i ämnet material och verktyg. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "MAVMAT51",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Material, egenskaper och användningsområden.", "Bearbetning av material. Materialets förändrade egenskaper vid bearbetning.", "Verktyg och annan teknisk utrustning, konstruktion, funktion samt användningsområden.", "Beräkning av materialåtgång.", "Skötsel och underhåll av verktyg och annan teknisk utrustning.", "Hantering av restmaterial. Återvinning och destruktion.", "Skötsel och underhåll av material.", "Ergonomi, arbetsmiljö och säkerhet. Behörighetskrav för användning av olika maskiner och annan utrustning.", "Lagar och andra bestämmelser, till exempel arbetsmiljölagen, säkerhetsföreskrifter och miljölagar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva olika materials egenskaper och användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva olika materials egenskaper och användningsområden.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> olika materials egenskaper och användningsområden.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> olika materials egenskaper och användningsområden."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att beskriva verktyg och annan teknisk utrustning samt deras konstruktion, funktion och användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att beskriva verktyg och annan teknisk utrustning samt deras konstruktion, funktion och användningsområden.",
+          "C" : "Eleven beskriver också <strong>på ett enkelt sätt</strong> verktyg och annan teknisk utrustning samt deras konstruktion, funktion och användningsområden.",
+          "A" : "Eleven beskriver också <strong>på ett utvecklat sätt</strong> verktyg och annan teknisk utrustning samt deras konstruktion, funktion och användningsområden."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> dessutom i att välja och använda material, verktyg och annan teknisk utrustning på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> dessutom i att välja och använda material, verktyg och annan teknisk utrustning på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "C" : "Dessutom väljer och använder eleven material, verktyg och annan teknisk utrustning på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "A" : "Dessutom väljer och använder eleven material, verktyg och annan teknisk utrustning på ett ergonomiskt och säkert sätt samt med hänsyn till miljön."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att sköta och underhålla material, verktyg och maskiner på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att sköta och underhålla material, verktyg och maskiner på ett säkert sätt.",
+          "C" : "Eleven sköter och underhåller <strong>med tillfredställande resultat</strong> material, verktyg och maskiner på ett säkert sätt.",
+          "A" : "Eleven sköter och underhåller <strong>med gott resultat</strong> material, verktyg och maskiner på ett säkert sätt."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Material och verktyg 2",
+    "description" : "Kursen material och verktyg 2 omfattar punkterna 1– 4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "MAVMAT52",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Material, egenskaper och användningsområden.", "Råvaror och förädlingsprocess till olika material, till exempel från malm till stål, från skog till trävaruprodukter och från ull till tyg.", "Arbetsmetoder för bearbetning av material. Materialets förändrade egenskaper vid bearbetning, till exempel ytbehandling, värmebehandling och valsning. Materialets påverkan på verktyg och annan utrustning.", "Verktyg och annan teknisk utrustning samt deras användningsområden.", "Arbetsbeskrivningar, manualer och ritningar.", "Planering och beräkning av materialåtgång.", "Skötsel och underhåll av material.", "Val av material, maskiner och verktyg för att utföra ett arbete, till exempel för sammanfogning, slipning och montering.", "Skötsel och underhåll av verktyg och annan teknisk utrustning.", "Miljöpåverkan. Hantering av restmaterial. Återvinning och destruktion.", "Ergonomi, arbetsmiljö och säkerhet. Behörighetskrav för användning av olika maskiner och annan utrustning. Riskbedömningar och förebyggande åtgärder vid säkerhetsarbete.", "Lagar och andra bestämmelser, till exempel miljölagar." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva olika materials egenskaper och användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva olika materials egenskaper och användningsområden.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> olika materials egenskaper och användningsområden.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> olika materials egenskaper och användningsområden."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att beskriva verktyg och annan teknisk utrustning samt deras konstruktion, funktion och användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att beskriva verktyg och annan teknisk utrustning samt deras konstruktion, funktion och användningsområden.",
+          "C" : "Eleven beskriver också <strong>på ett enkelt sätt</strong> verktyg och annan teknisk utrustning samt deras konstruktion, funktion och användningsområden.",
+          "A" : "Eleven beskriver också <strong>på ett utvecklat sätt</strong> verktyg och annan teknisk utrustning samt deras konstruktion, funktion och användningsområden."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> dessutom i att välja och använda material, verktyg och annan teknisk utrustning på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> dessutom i att välja och använda material, verktyg och annan teknisk utrustning på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "C" : "Dessutom väljer och använder eleven material, verktyg och annan teknisk utrustning på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "A" : "Dessutom väljer och använder eleven material, verktyg och annan teknisk utrustning på ett ergonomiskt och säkert sätt samt med hänsyn till miljön."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att sköta och underhålla material, verktyg och maskiner på ett säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att sköta och underhålla material, verktyg och maskiner på ett säkert sätt.",
+          "C" : "Eleven sköter och underhåller <strong>med tillfredställande resultat</strong> material, verktyg och maskiner på ett säkert sätt.",
+          "A" : "Eleven sköter och underhåller <strong>med gott resultat</strong> material, verktyg och maskiner på ett säkert sätt."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

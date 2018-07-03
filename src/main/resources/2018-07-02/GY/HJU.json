@@ -1,0 +1,303 @@
+{
+  "name" : "Hjulutrustningsteknik",
+  "description" : "Ämnet hjulutrustningsteknik behandlar den teknik som berör fordons hjulutrustning. Ämnet omfattar de kunskaper som behövs för reparation och byte av däck, fälgar och hjul samt detaljer på hjulupphängning, bromssystem och drivlina. Ämnet behandlar även material, arbetsmetoder, verktyg och andra hjälpmedel inom området.",
+  "code" : "HJU",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet hjulutrustningsteknik ska syfta till att eleverna utvecklar kunskaper i att diagnostisera, montera, reparera och färdigställa fordons hjulutrustning.", "Den ska även leda till att eleverna utvecklar kunskaper om de olika material och produkter som finns i hjulutrustning.", "I undervisningen ska eleverna dessutom ges möjlighet att utveckla kunskaper om broms-, chassi- och karosserikonstruktioners uppbyggnad och funktion.", "Det förutsätter att eleverna ges möjlighet att utveckla kunskaper om såväl mekanik som elektronik." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla förmåga att hämta den information som behövs för att utföra reparationer enligt tillverkarens krav.", "Eleverna ska även ges möjlighet att utveckla det språk som krävs för att kommunicera med medarbetare och kunder på ett yrkesmässigt sätt.", "Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta utifrån de krav på säkerhet, miljö och kvalitet som reglerar området.", "Den ska också ge eleverna möjlighet att utveckla yrkesidentitet och yrkesetik, kunskaper om yrkets arbetsuppgifter och villkor samt branschens ekonomiska villkor." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke.", "Dessa uppgifter ska utgå från ett problemlösande arbetssätt i verkstadsliknande miljö." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet hjulutrustningsteknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om branschens verksamhet, verksamhetsområden, uppbyggnad och om yrkets förutsättningar.", "Kunskaper om däck och hjulutrustning och om hjulutrustningens betydelse för fordons funktion, ekonomi och miljöpåverkan, samt om uppbyggnad av och funktion hos broms-, chassi- och kraftöverföringssystem.", "Förmåga att utföra funktionskontroll, diagnostik, reparation, montering och justering av hjulutrustning.", "Förmåga att utföra hjulmätning med hjälp av mätutrustning.", "Förmåga att utföra byte av däck, fälg och de komponenter på bromsar, chassier och drivlina som är av betydelse för hjulutrustningens funktion.", "Förmåga att välja och använda arbetsmetoder, verktyg och utrustning.", "Förmåga att arbeta på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten.", "Förmåga att använda informationsmaterial, såväl svenska som engelska manualer samt digitala informationssystem.", "Förmåga att samarbeta med andra, använda ett yrkesmässigt språk och kommunicera med medarbetare och kunder." ]
+  } ],
+  "courses" : [ {
+    "name" : "Hjulutrustning",
+    "description" : "Kursen hjulutrustning omfattar punkterna 1–9 under rubriken Ämnets syfte.",
+    "code" : "HJUHJU0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Branschens verksamhet, verksamhetsområden och förutsättningar samt faktorer som påverkar lönsamhet och resultat.", "Däckets uppbyggnad, material och hur däck tillverkas.", "Gummiblandningens betydelse för slitage, väggrepp, friktion och användningsområde, till exempel vinter-, sommar- och friktionsdäck.", "Märkning av däck.", "Fälgar och fälgsystem.", "Bromssystemets påverkan på hjulutrustningen.", "Däckslitage och faktorer som påverkar hållbarheten, till exempel fel i hjulupphängning och bromsar.", "Säkerhet och komfort, till exempel beroende av däcktyp.", "Marktryck, till exempel ett hårt eller mjukt däcks inverkan på underlaget.", "Uppluftning och lufttryckets betydelse för köregenskaper, miljö och säkerhet. Olika fyllningsmetoder av hjul.", "Felsökning och diagnostisering av däck, fälg, bromsar, hjulupphängning och styrning.", "Standardundersökning av däckslitage.", "Demontering och montering av däck samt hjulbyte.", "Kontroll och mätning av spårvidd, offset (inpressning) och hjulvinklar.", "Mätning av höjd och sidokast för däck och fälg.", "Hjulinställning med justering.", "Bedömning av däckskador och fälgskador.", "Identifikation av run flat-däck och olika däcksystems funktion.", "Balansering av hjul.", "Reparation av skador på däck.", "Val, användning och underhåll av verktyg, utrustning och maskiner.", "Lagar, bestämmelser och krav som reglerar branschen, verksamheten och arbetet.", "Arbetsmiljö och säkerhet, till exempel kemiska risker, skyddsutrustning och första hjälpen.", "Hantering av avfall.", "Olycksrisker på grund av tekniska avvikelser i hjulutrustningen.", "Arbetsorder och arbetsbeskrivningar.", "Kundmottagning och kundbemötande.", "Utvärdering och dokumentation av utfört arbete." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för branschens verksamhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för branschens verksamhet.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för branschens verksamhet.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för branschens verksamhet."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> konstruktion och funktion hos olika hjulutrustningar för olika fordon samt <strong>________</strong> för olika hjulutrustningars betydelse för ekonomi och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> konstruktion och funktion hos olika hjulutrustningar för olika fordon samt <strong>översiktligt</strong> för olika hjulutrustningars betydelse för ekonomi och miljö.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> konstruktion och funktion hos olika hjulutrustningar för olika fordon samt <strong>utförligt</strong> för olika hjulutrustningars betydelse för ekonomi och miljö.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> konstruktion och funktion hos olika hjulutrustningar för olika fordon samt <strong>utförligt och nyanserat</strong> för olika hjulutrustningars betydelse för ekonomi och miljö."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare och i bekanta situationer arbeten med olika fordons hjulutrustning med hjälp av verktyg, utrustning och maskiner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare och i bekanta situationer arbeten med olika fordons hjulutrustning med hjälp av verktyg, utrustning och maskiner.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer arbeten med olika fordons hjulutrustning med hjälp av verktyg, utrustning och maskiner.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer arbeten med olika fordons hjulutrustning med hjälp av verktyg, utrustning och maskiner."
+        }
+      }, {
+        "text" : "Eleven utför också <strong>________</strong> med handledare och i bekanta situationer <strong>________</strong> bedömning av däckskador.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför också <strong>i samråd</strong> med handledare och i bekanta situationer <strong>enkel</strong> bedömning av däckskador.",
+          "C" : "Eleven utför också <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer bedömning av däckskador.",
+          "A" : "Eleven utför också <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer <strong>avancerad</strong> bedömning av däckskador."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>________</strong> olika materials funktion och egenskaper samt olika reparationsmetoder i förhållande till fordons-, däck- och fälgtillverkarens anvisningar och krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>översiktligt</strong> olika materials funktion och egenskaper samt olika reparationsmetoder i förhållande till fordons-, däck- och fälgtillverkarens anvisningar och krav.",
+          "C" : "Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>utförligt</strong> olika materials funktion och egenskaper samt olika reparationsmetoder i förhållande till fordons-, däck- och fälgtillverkarens anvisningar och krav.",
+          "A" : "Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>utförligt och nyanserat</strong> olika materials funktion och egenskaper samt olika reparationsmetoder i förhållande till fordons-, däck- och fälgtillverkarens anvisningar och krav."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> både svenska och engelska manualer samt digitala informationssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning."
+        }
+      }, {
+        "text" : "Dessutom utför eleven arbetet med hänsyn till miljö och säkerhet samt med <strong>________</strong> hänsyn till kostnader vid åtgärd och stillestånd.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven arbetet med hänsyn till miljö och säkerhet samt med <strong>viss</strong> hänsyn till kostnader vid åtgärd och stillestånd.",
+          "C" : "Dessutom utför eleven arbetet med hänsyn till miljö och säkerhet samt med <strong>viss</strong> hänsyn till kostnader vid åtgärd och stillestånd.",
+          "A" : "Dessutom utför eleven arbetet med hänsyn till miljö och säkerhet samt med hänsyn till kostnader vid åtgärd och stillestånd."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>________</strong> med medarbetare och kunder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet</strong> med medarbetare och kunder.",
+          "C" : "Eleven samarbetar <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet</strong> med medarbetare och kunder.",
+          "A" : "Eleven samarbetar <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med säkerhet</strong> med medarbetare och kunder."
+        }
+      }, {
+        "text" : "I kommunikationen använder eleven <strong>________</strong> tekniska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "C" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "A" : "I kommunikationen använder eleven <strong>med säkerhet</strong> tekniska begrepp."
+        }
+      }, {
+        "text" : "Eleven utvärderar arbetet med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar arbetet med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven utvärderar arbetet med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven utvärderar arbetet med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> dokumentation av utfört arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> dokumentation av utfört arbete.",
+          "C" : "Dessutom gör eleven en <strong>noggrann</strong> dokumentation av utfört arbete.",
+          "A" : "Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation av utfört arbete."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 200,
+    "year" : null
+  }, {
+    "name" : "Hjulutrustning – specialisering",
+    "description" : "Kursen hjulutrustning – specialisering omfattar punkterna 1–9 under rubriken Ämnets syfte. Kursen behandlar fördjupade färdigheter.",
+    "code" : "HJUHJT00S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Bestämmelser och krav för vald typ av hjulutrustning, till exempel hjulutrustning för lantbruksmaskiner eller ATV.", "Bestämmelser för hantering av reklamationer.", "Koder och mönstertyper gällande däck.", "Risker vid val av fälgar och fälgsystem.", "Sambandet mellan fel i hjulupphängning och bromsar och däckens slitage och hållbarhet.", "Sambandet mellan val av däcktyp och säkerhet, komfort och kostnad.", "Marktryck och jordpackning vid val av däcktyp.", "Uppluftning och lufttryckets betydelse för köregenskaper, miljö och säkerhet.", "Planering och utförande av arbete efter arbetsorder, med ett systematiskt arbetssätt.", "Felsökning och diagnostisering av däck, fälgar, bromsar, hjulupphängning och styrning enligt regelverk och tillverkares rekommendationer.", "Undersökning av däckslitage, däckskador och fälgskador samt analys av skador och orsaker. Åtgärder för att förebygga slitage och skador.", "Hjulmätning, hjulvinklar, hjulinställning, till exempel fyrhjulsmätning och axeljustering.", "Demontering och montering av däck samt hjulbyte på vald fordonstyp.", "Balansering av hjul.", "Reparation av skador på däck samt val av reparationsmetod.", "Regummering.", "Dubbning, sajpning och mönsterskärning.", "Krav på kedjor, hur de får användas samt montering och reparation av kedjor och andra slirskyddssystem.", "Val av reparationsmetod enligt regelverk och tillverkarnas anvisningar.", "Arbetsmiljö, säkerhet och kvalitet.", "Kundbemötande och vägledning av kund vid val av däck, fälg och alternativ hjulutrustning utifrån användningsområde, typ av fordon, däckets uppbyggnad och funktion samt regelverk och tillverkarens rekommendationer.", "Utvärdering och dokumentation av utfört arbete." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för bestämmelser och krav som gäller för hjulutrustningar för vald fordonstyp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för bestämmelser och krav som gäller för hjulutrustningar för vald fordonstyp.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för bestämmelser och krav som gäller för hjulutrustningar för vald fordonstyp.",
+          "A" : "Eleven redogör <strong>utförligt</strong> för bestämmelser och krav som gäller för hjulutrustningar för vald fordonstyp."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för regler om reklamation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för regler om reklamation.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för regler om reklamation.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för regler om reklamation."
+        }
+      }, {
+        "text" : "Eleven beskriver <strong>________</strong> konstruktion och funktion hos olika hjulutrustningar för vald fordonstyp samt <strong>________</strong> för olika hjulutrustningars betydelse för ekonomi och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> konstruktion och funktion hos olika hjulutrustningar för vald fordonstyp samt <strong>översiktligt</strong> för olika hjulutrustningars betydelse för ekonomi och miljö.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> konstruktion och funktion hos olika hjulutrustningar för vald fordonstyp samt <strong>utförligt</strong> för olika hjulutrustningars betydelse för ekonomi och miljö.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> konstruktion och funktion hos olika hjulutrustningar för vald fordonstyp samt <strong>utförligt och nyanserat</strong> för olika hjulutrustningars betydelse för ekonomi och miljö."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar och utför <strong>________</strong> med handledare och i bekanta situationer diagnos, montering, reparation och färdigställande av valt fordons hjulutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och utför <strong>i samråd</strong> med handledare och i bekanta situationer diagnos, montering, reparation och färdigställande av valt fordons hjulutrustning.",
+          "C" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer diagnos, montering, reparation och färdigställande av valt fordons hjulutrustning.",
+          "A" : "Eleven planerar och utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer diagnos, montering, reparation och färdigställande av valt fordons hjulutrustning."
+        }
+      }, {
+        "text" : "Eleven utför också <strong>________</strong> med handledare och i bekanta situationer <strong>________</strong> hjulmätning och hjulinställning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför också <strong>i samråd</strong> med handledare och i bekanta situationer <strong>enkel</strong> hjulmätning och hjulinställning.",
+          "C" : "Eleven utför också <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer hjulmätning och hjulinställning.",
+          "A" : "Eleven utför också <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer <strong>avancerad</strong> hjulmätning och hjulinställning."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare och i bekanta situationer de åtgärder som krävs för att förhindra slitage och skador på valt fordons hjulutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>i samråd</strong> med handledare och i bekanta situationer de åtgärder som krävs för att förhindra slitage och skador på valt fordons hjulutrustning.",
+          "C" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer de åtgärder som krävs för att förhindra slitage och skador på valt fordons hjulutrustning.",
+          "A" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer de åtgärder som krävs för att förhindra slitage och skador på valt fordons hjulutrustning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>________</strong> olika materials funktion och egenskaper samt olika reparationsmetoder i förhållande till tillverkarens anvisningar och krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>översiktligt</strong> olika materials funktion och egenskaper samt olika reparationsmetoder i förhållande till tillverkarens anvisningar och krav.",
+          "C" : "Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>utförligt</strong> olika materials funktion och egenskaper samt olika reparationsmetoder i förhållande till tillverkarens anvisningar och krav.",
+          "A" : "Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>utförligt och nyanserat</strong> olika materials funktion och egenskaper samt olika reparationsmetoder i förhållande till tillverkarens anvisningar och krav."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> både svenska och engelska manualer samt digitala informationssystem.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> både svenska och engelska manualer samt digitala informationssystem."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "C" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+          "A" : "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning."
+        }
+      }, {
+        "text" : "Dessutom utför eleven arbetet med hänsyn till miljö och säkerhet samt med <strong>________</strong> hänsyn till kostnader vid åtgärd och stillestånd.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven arbetet med hänsyn till miljö och säkerhet samt med <strong>viss</strong> hänsyn till kostnader vid åtgärd och stillestånd.",
+          "C" : "Dessutom utför eleven arbetet med hänsyn till miljö och säkerhet samt med hänsyn till kostnader vid åtgärd och stillestånd.",
+          "A" : "Dessutom utför eleven arbetet med hänsyn till miljö och säkerhet samt med hänsyn till kostnader vid åtgärd och stillestånd."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven vägleder <strong>________</strong> med handledare kunder vid val av hjulutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven vägleder <strong>i samråd</strong> med handledare kunder vid val av hjulutrustning.",
+          "C" : "Eleven vägleder <strong>efter samråd</strong> med handledare kunder vid val av hjulutrustning.",
+          "A" : "Eleven vägleder <strong>efter samråd</strong> med handledare kunder vid val av hjulutrustning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>________</strong> med medarbetare och kunder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet</strong> med medarbetare och kunder.",
+          "C" : "Eleven samarbetar <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet</strong> med medarbetare och kunder.",
+          "A" : "Eleven samarbetar <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med säkerhet</strong> med medarbetare och kunder."
+        }
+      }, {
+        "text" : "I kommunikationen använder eleven <strong>________</strong> tekniska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "C" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> tekniska begrepp.",
+          "A" : "I kommunikationen använder eleven <strong>med säkerhet</strong> tekniska begrepp."
+        }
+      }, {
+        "text" : "Eleven utvärderar arbetet med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar arbetet med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven utvärderar arbetet med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven utvärderar arbetet med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> dokumentation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> dokumentation.",
+          "C" : "Dessutom gör eleven en <strong>noggrann</strong> dokumentation.",
+          "A" : "Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

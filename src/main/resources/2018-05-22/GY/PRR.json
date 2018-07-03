@@ -1,0 +1,322 @@
+{
+  "name" : "Programmering",
+  "description" : "Ämnet programmering behandlar hur mjukvaror skapas, anpassas och utvecklas samt programmeringens roll i informationstekniska sammanhang som datorsimulering och praktisk datoriserad problemlösning.",
+  "code" : "PRR",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet programmering ska syfta till att eleverna utvecklar kunskaper om programmeringens grunder, färdigheter i att tillämpa relevanta metoder för programutveckling och förmåga att lösa programmeringstekniska problem.", "Undervisningen ska även bidra till att eleverna utvecklar förmåga att analysera, designa och vidareutveckla program.", "Undervisningen ska också bidra till att eleverna utvecklar kunskaper om några vanligt förekommande programspråk samt traditioner och nya trender i utvecklingen av programspråk.", "Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper om datorns användning i samhället och datorns möjligheter och begränsningar." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att arbeta i projekt och att enskilt eller i grupp utföra programmeringsuppgifter av varierande komplexitet och inom olika tillämpningsområden." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet programmering ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om programmerbara system.", "Förmåga att formulera och planera programmeringsuppgifter med pseudokod och diagramteknik.", "Förståelse av och färdigheter i att använda datavetenskapliga begrepp och principer.", "Kunskaper om programspråk och programmeringsparadigm.", "Förmåga att skriva, läsa, strukturera, analysera, dokumentera och kommentera programkod.", "Färdigheter i att skapa program med ett givet syfte och för en avsedd användare.", "Kunskaper om gränssnitt mot filer, filsystem, databashanterare och internet.", "Kunskaper om och färdigheter i objektorienterad programmering.", "Förmåga att finna, analysera, åtgärda och förhindra syntaxfel, programkörningsfel och programmeringslogiska fel.", "Kunskaper om samspelet mellan program, exekveringsmiljö, operativsystem och hårdvara." ]
+  } ],
+  "courses" : [ {
+    "name" : "Programmering 1",
+    "description" : "Kursen programmering 1 omfattar punkterna 1–6 och 9–10 under rubriken Ämnets syfte.",
+    "code" : "PRRPRR01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Grundläggande programmering i ett eller flera programspråk varav minst ett av språken är textbaserat.", "Programmering och dess olika användningsområden ur ett socialt perspektiv inklusive genus, kultur och socioekonomisk bakgrund.", "Programmeringens möjligheter och begränsningar utifrån datorns funktionssätt.", "Strukturerat arbetssätt för problemlösning och programmering.", "Grundläggande kontrollstrukturer, konstruktioner och datatyper.", "Arbetsmetoder för förebyggande av programmeringsfel, testning, felsökning och rättning av kod.", "Grundläggande datastrukturer och algoritmer.", "Gränssnitt för interaktion mellan program och användare.", "Normer och värden inom programmering, till exempel läsbarhet, dokumentation, testbarhet, rena gränssnitt och nyttan av standard." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven formulerar och planerar <strong>________</strong> med handledare programmeringsuppgifter med pseudokod eller diagramteknik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven formulerar och planerar <strong>i samråd</strong> med handledare programmeringsuppgifter med pseudokod eller diagramteknik.",
+          "C" : "Eleven formulerar och planerar <strong>efter samråd</strong> med handledare programmeringsuppgifter med pseudokod eller diagramteknik.",
+          "A" : "Eleven formulerar och planerar <strong>efter samråd</strong> med handledare programmeringsuppgifter med pseudokod eller diagramteknik."
+        }
+      }, {
+        "text" : "I planeringen väljer eleven <strong>________</strong> kontrollstrukturer, metoder, variabler, datastrukturer och algoritmer som är adekvata för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen väljer eleven <strong>med viss säkerhet</strong> kontrollstrukturer, metoder, variabler, datastrukturer och algoritmer som är adekvata för uppgiften.",
+          "C" : "I planeringen väljer eleven <strong>med viss säkerhet</strong> kontrollstrukturer, metoder, variabler, datastrukturer och algoritmer som är adekvata för uppgiften.",
+          "A" : "I planeringen väljer eleven <strong>med säkerhet</strong> kontrollstrukturer, metoder, variabler, datastrukturer och algoritmer som är adekvata för uppgiften <strong>samt motiverar utförligt sina val</strong>."
+        }
+      }, {
+        "text" : "I sin programmering skapar eleven med konsekvent kodningsstil och tydlig namngivning korrekt, strukturerad och <strong>________</strong> kommenterad källkod med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sin programmering skapar eleven med konsekvent kodningsstil och tydlig namngivning korrekt, strukturerad och <strong>enkelt</strong> kommenterad källkod med <strong>tillfredsställande</strong> resultat.",
+          "C" : "I sin programmering skapar eleven med konsekvent kodningsstil och tydlig namngivning korrekt, strukturerad och <strong>noggrant</strong> kommenterad källkod med <strong>tillfredsställande</strong> resultat.",
+          "A" : "I sin programmering skapar eleven med konsekvent kodningsstil och tydlig namngivning korrekt, strukturerad och <strong>noggrant och utförligt</strong> kommenterad källkod med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "Dessutom väljer eleven <strong>________</strong> ett uttryckssätt som är anpassat för att på ett <strong>________</strong> sätt interagera med den avsedda användaren.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom väljer eleven <strong>med viss säkerhet</strong> ett uttryckssätt som är anpassat för att på ett <strong>tillfredsställande</strong> sätt interagera med den avsedda användaren.",
+          "C" : "Dessutom väljer eleven <strong>med viss säkerhet</strong> ett uttryckssätt som är anpassat för att på ett <strong>tillfredsställande</strong> sätt interagera med den avsedda användaren.",
+          "A" : "Dessutom väljer eleven <strong>med säkerhet</strong> ett uttryckssätt som är anpassat för att på ett <strong>gott</strong> sätt interagera med den avsedda användaren."
+        }
+      }, {
+        "text" : "Elevens färdiga program eller skript är utförda med <strong>________</strong> resultat i ett eller flera programspråk som är stabila och robusta <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Elevens färdiga program eller skript är utförda med <strong>tillfredsställande</strong> resultat i ett eller flera programspråk som är stabila och robusta <strong>i program av enkel karaktär</strong>.",
+          "C" : "Elevens färdiga program eller skript är utförda med <strong>tillfredsställande</strong> resultat i ett eller flera programspråk som är stabila och robusta.",
+          "A" : "Elevens färdiga program eller skript är utförda med <strong>gott</strong> resultat i ett eller flera programspråk som är stabila och robusta <strong>i program av komplex karaktär</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven anpassar <strong>________</strong> sin planering av programmeringsuppgiften och utför felsökning av <strong>________</strong> syntaxfel.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven anpassar <strong>med viss säkerhet</strong> sin planering av programmeringsuppgiften och utför felsökning av <strong>enkla</strong> syntaxfel.",
+          "C" : "Eleven anpassar <strong>med viss säkerhet</strong> sin planering av programmeringsuppgiften och utför <strong>på ett systematiskt sätt</strong> felsökning av syntaxfel, <strong>körtidsfel och programmeringslogiska fel</strong>.",
+          "A" : "Eleven anpassar <strong>med säkerhet</strong> sin planering av programmeringsuppgiften och utför <strong>på ett systematiskt och effektivt sätt</strong> felsökning av syntaxfel, <strong>körtidsfel och programmeringslogiska fel</strong>."
+        }
+      }, {
+        "text" : "Innan programmeringsuppgiften avslutas utvärderar eleven med <strong>________</strong> omdömen programmets prestanda och ändamålsenlighet i <strong>________</strong> situation och i <strong>________</strong> sammanhang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Innan programmeringsuppgiften avslutas utvärderar eleven med <strong>enkla</strong> omdömen programmets prestanda och ändamålsenlighet i <strong>någon</strong> situation och i <strong>något</strong> sammanhang.",
+          "C" : "Innan programmeringsuppgiften avslutas utvärderar eleven med <strong>nyanserade</strong> omdömen programmets prestanda och ändamålsenlighet i <strong>några</strong> situationer och sammanhang.",
+          "A" : "Innan programmeringsuppgiften avslutas utvärderar eleven med <strong>nyanserade</strong> omdömen <strong>och med förslag på förbättringar</strong> programmets prestanda och ändamålsenlighet i <strong>flera</strong> situationer och sammanhang."
+        }
+      }, {
+        "text" : "Eleven kommunicerar om programmeringsuppgiften och dess utvärdering och använder då <strong>________</strong> datavetenskapliga begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kommunicerar om programmeringsuppgiften och dess utvärdering och använder då <strong>med viss säkerhet</strong> datavetenskapliga begrepp.",
+          "C" : "Eleven kommunicerar om programmeringsuppgiften och dess utvärdering och använder då <strong>med viss säkerhet</strong> datavetenskapliga begrepp.",
+          "A" : "Eleven kommunicerar om programmeringsuppgiften och dess utvärdering och använder då <strong>med säkerhet</strong> datavetenskapliga begrepp."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för programmeringens möjligheter och begränsningar samt hur programmering har påverkat och påverkar vardagen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för programmeringens möjligheter och begränsningar samt hur programmering har påverkat och påverkar vardagen.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för programmeringens möjligheter och begränsningar samt hur programmering har påverkat och påverkar vardagen.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för programmeringens möjligheter och begränsningar samt hur programmering har påverkat och påverkar vardagen."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för principer för att uppnå god kvalitet vid skapandet av datorprogram.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för principer för att uppnå god kvalitet vid skapandet av datorprogram.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för principer för att uppnå god kvalitet vid skapandet av datorprogram.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för principer för att uppnå god kvalitet vid skapandet av datorprogram."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Programmering 2",
+    "description" : "Kursen programmering 2 omfattar punkterna 2–10 under rubriken Ämnets syfte, med särskild betoning på punkt 8.",
+    "code" : "PRRPRR02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Grunderna för klasserna, objekt, egenskaper och metoder.", "Arv, inkapsling och polymorfism.", "Skapande av klasser och objekt i ett objektorienterat programspråk utifrån tidigare analys och design.", "Användning av klasser och att genom arv förändra beteende hos klasser som ingår i egna och andras klasshierarkier och standardbibliotek.", "Generiska klasser och metoder.", "Variablers och metoders synlighet och livslängd.", "Stark och svag samt statisk och dynamisk typning.", "Identifierares synlighet och livslängd.", "Det valda programspråkets kontrollstrukturer.", "Undantagshantering.", "Analys, nedbrytning och modellering av programmeringstekniska problem med lämpligt analysverktyg, till exempel användningsfall.", "Design av lämplig lösning ur föregående analys med lämpligt verktyg och metoder som klassdiagram.", "Skapande av användarvänliga gränssnitt.", "Skrivning och läsning av lagrad data.", "Utveckling av program som nyttjar kommunikation över internet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven formulerar och planerar <strong>________</strong> med handledare programmeringsuppgifter och väljer <strong>________</strong> lämpliga programspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven formulerar och planerar <strong>i samråd</strong> med handledare programmeringsuppgifter och väljer <strong>med viss säkerhet</strong> lämpliga programspråk.",
+          "C" : "Eleven formulerar och planerar <strong>efter samråd</strong> med handledare programmeringsuppgifter och väljer <strong>med viss säkerhet</strong> lämpliga programspråk.",
+          "A" : "Eleven formulerar och planerar <strong>efter samråd</strong> med handledare programmeringsuppgifter och väljer <strong>med säkerhet</strong> lämpliga programspråk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven analyserar och modellerar <strong>________</strong> uppgifter <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven analyserar och modellerar <strong>enklare</strong> uppgifter <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven analyserar och modellerar uppgifter <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven analyserar och modellerar <strong>komplexa</strong> uppgifter <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Eleven designar <strong>________</strong> utifrån den analyserade uppgiften en <strong>________</strong> lösning och dokumenterar denna med ett <strong>________</strong> klassdiagram.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven designar <strong>med viss säkerhet</strong> utifrån den analyserade uppgiften en <strong>enkel</strong> lösning och dokumenterar denna med ett <strong>enkelt</strong> klassdiagram.",
+          "C" : "Eleven designar <strong>med viss säkerhet</strong> utifrån den analyserade uppgiften en lösning och dokumenterar denna med ett klassdiagram.",
+          "A" : "Eleven designar <strong>med säkerhet</strong> utifrån den analyserade uppgiften en <strong>komplex</strong> lösning och dokumenterar denna med ett <strong>avancerat</strong> klassdiagram."
+        }
+      }, {
+        "text" : "Eleven väljer <strong>________</strong> ett uttryckssätt och ett gränssnitt som är anpassat för att på ett <strong>________</strong> sätt interagera med den avsedda användaren.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven väljer <strong>med viss säkerhet</strong> ett uttryckssätt och ett gränssnitt som är anpassat för att på ett <strong>tillfredsställande</strong> sätt interagera med den avsedda användaren.",
+          "C" : "Eleven väljer <strong>med viss säkerhet</strong> ett uttryckssätt och ett gränssnitt som är anpassat för att på ett <strong>tillfredsställande</strong> sätt interagera med den avsedda användaren.",
+          "A" : "Eleven väljer <strong>med säkerhet</strong> ett uttryckssätt och ett gränssnitt som är anpassat för att på ett <strong>gott</strong> sätt interagera med den avsedda användaren."
+        }
+      }, {
+        "text" : "Eleven skapar någon <strong>________</strong> lösning där programmet kommunicerar över internet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven skapar någon <strong>enkel</strong> lösning där programmet kommunicerar över internet.",
+          "C" : "Eleven skapar någon lösning där programmet kommunicerar över internet.",
+          "A" : "Eleven skapar någon <strong>genomarbetad</strong> lösning där programmet kommunicerar över internet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven skapar <strong>________</strong> enklare program med klasser där arv används i <strong>________</strong> utsträckning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven skapar <strong>med viss säkerhet</strong> enklare program med klasser där arv används i <strong>begränsad</strong> utsträckning.",
+          "C" : "Eleven skapar <strong>med viss säkerhet</strong> enklare program med klasser där arv används.",
+          "A" : "Eleven skapar <strong>med säkerhet</strong> enklare program med klasser där arv används i <strong>omfattande</strong> utsträckning."
+        }
+      }, {
+        "text" : "I sin programmering skriver eleven med konsekvent kodningsstil och tydlig namngivning en korrekt, strukturerad och <strong>________</strong> kommenterad källkod med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sin programmering skriver eleven med konsekvent kodningsstil och tydlig namngivning en korrekt, strukturerad och <strong>enkelt</strong> kommenterad källkod med <strong>tillfredsställande</strong> resultat.",
+          "C" : "I sin programmering skriver eleven med konsekvent kodningsstil och tydlig namngivning en korrekt, strukturerad och <strong>noggrant</strong> kommenterad källkod med <strong>tillfredsställande</strong> resultat.",
+          "A" : "I sin programmering skriver eleven med konsekvent kodningsstil och tydlig namngivning en korrekt, strukturerad och <strong>noggrant och utförligt</strong> kommenterad källkod med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> generisk klass.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet någon</strong> generisk klass.",
+          "C" : "Eleven använder <strong>med viss säkerhet några</strong> generiska klasser.",
+          "A" : "Eleven använder <strong>med säkerhet flera</strong> generiska klasser."
+        }
+      }, {
+        "text" : "Produkten är av <strong>________</strong> kvalitet i ett eller flera programspråk och innehåller objektorienterad programmering som är stabil och robust i program av <strong>________</strong> karaktär.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Produkten är av <strong>tillfredsställande</strong> kvalitet i ett eller flera programspråk och innehåller objektorienterad programmering som är stabil och robust i program av <strong>enkel</strong> karaktär.",
+          "C" : "Produkten är av <strong>tillfredsställande</strong> kvalitet i ett eller flera programspråk och innehåller objektorienterad programmering som är stabil och robust.",
+          "A" : "Produkten är av <strong>god</strong> kvalitet i ett eller flera programspråk och innehåller objektorienterad programmering som är stabil och robust i program av <strong>komplex</strong> karaktär."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven anpassar <strong>________</strong> sin planering av programutvecklingsprocessen och utför felsökning av <strong>________</strong> syntaxfel.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven anpassar <strong>med viss säkerhet</strong> sin planering av programutvecklingsprocessen och utför felsökning av <strong>enkla</strong> syntaxfel.",
+          "C" : "Eleven anpassar <strong>med viss säkerhet</strong> sin planering av programutvecklingsprocessen och utför <strong>på ett systematiskt sätt</strong> felsökning av syntaxfel, <strong>körtidsfel och programmeringslogiska fel</strong>.",
+          "A" : "Eleven anpassar <strong>med säkerhet</strong> sin planering av programutvecklingsprocessen, <strong>anpassar polymorfi</strong> och utför <strong>på ett systematiskt och effektivt sätt</strong> felsökning av syntaxfel, <strong>körtidsfel och programmeringslogiska fel</strong>."
+        }
+      }, {
+        "text" : "Innan programutvecklingen avslutas utvärderar eleven med <strong>________</strong> omdömen programmets prestanda och ändamålsenlighet i <strong>________</strong> situation och i <strong>________</strong> sammanhang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Innan programutvecklingen avslutas utvärderar eleven med <strong>enkla</strong> omdömen programmets prestanda och ändamålsenlighet i <strong>någon</strong> situation och i <strong>något</strong> sammanhang.",
+          "C" : "Innan programutvecklingen avslutas utvärderar eleven med <strong>nyanserade</strong> omdömen programmets prestanda och ändamålsenlighet i <strong>några</strong> situationer och sammanhang.",
+          "A" : "Innan programutvecklingen avslutas utvärderar eleven med <strong>nyanserade</strong> omdömen <strong>och ger förslag på förbättringar</strong> av programmets prestanda och ändamålsenlighet i <strong>flera</strong> situationer och sammanhang."
+        }
+      }, {
+        "text" : "Eleven kommunicerar om programutvecklingen och dess utvärdering och använder då <strong>________</strong> datavetenskapliga begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kommunicerar om programutvecklingen och dess utvärdering och använder då <strong>med viss säkerhet</strong> datavetenskapliga begrepp.",
+          "C" : "Eleven kommunicerar om programutvecklingen och dess utvärdering och använder då <strong>med viss säkerhet</strong> datavetenskapliga begrepp.",
+          "A" : "Eleven kommunicerar om programutvecklingen och dess utvärdering och använder då <strong>med säkerhet</strong> datavetenskapliga begrepp."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Programmering 3",
+    "description" : "Kursen programmering 3 omfattar punkterna 2–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 2–4.",
+    "code" : "PRRPRR33",
+    "centralContent" : [ {
+      "heading" : "",
+      "lines" : [ "Olika programmeringsparadigms historik och användningsområden.", "Olika programspråks historik och inbördes släktskap samt de vanligaste programspråkens aktuella användningsområden.", "Programmering i kompilerade och tolkade programspråk.", "Rekursion.", "Abstrakta modeller, till exempel tillståndsmaskin.", "Analys och val av datastrukturer och algoritmer utifrån tillämpning och prestanda.", "Designmönster och mjukvaruarkitektur.", "Analys, nedbrytning och modellering av programmeringstekniska problem med flera lämpliga verktyg och metoder.", "Dokumentation.", "Design av lämplig lösning ur föregående analys med flera lämpliga verktyg och metoder.", "Programmering i språk från flera paradigm.", "Användning av webbtjänster, protokoll, gränssnitt och format för datautbyte.", "Användning av databashanterare för lagring av data.", "Kvalitetssäkring och testning av källkod genom manuella och automatiserade metoder, till exempel kodgranskning och enhetstestning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare programmeringsuppgifter och väljer <strong>________</strong> lämpliga programspråk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare programmeringsuppgifter och väljer <strong>med viss säkerhet</strong> lämpliga programspråk.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare programmeringsuppgifter och väljer <strong>med viss säkerhet</strong> lämpliga programspråk.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare programmeringsuppgifter och väljer <strong>med säkerhet</strong> lämpliga programspråk."
+        }
+      }, {
+        "text" : "I planeringen väljer eleven <strong>________</strong> med handledare datastrukturer och algoritmer som är adekvata för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen väljer eleven <strong>i samråd</strong> med handledare datastrukturer och algoritmer som är adekvata för uppgiften.",
+          "C" : "I planeringen väljer eleven <strong>efter samråd</strong> med handledare datastrukturer och algoritmer som är adekvata för uppgiften.",
+          "A" : "I planeringen väljer eleven <strong>efter samråd</strong> med handledare datastrukturer och algoritmer som är adekvata för uppgiften."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för olika programmeringsparadigms historik och användningsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för olika programmeringsparadigms historik och användningsområden.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för olika programmeringsparadigms historik och användningsområden.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för olika programmeringsparadigms historik och användningsområden."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven implementerar <strong>________</strong> datastruktur och <strong>________</strong> med handledare också <strong>________</strong> algoritm samt löser <strong>________</strong> uppgift genom att utnyttja rekursion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven implementerar <strong>någon</strong> datastruktur och <strong>i samråd</strong> med handledare också <strong>någon</strong> algoritm samt löser <strong>någon</strong> uppgift genom att utnyttja rekursion.",
+          "C" : "Eleven implementerar <strong>några</strong> datastrukturer och <strong>efter samråd</strong> med handledare också <strong>någon</strong> algoritm samt löser <strong>några</strong> uppgifter genom att utnyttja rekursion.",
+          "A" : "Eleven implementerar <strong>flera</strong> datastrukturer och <strong>efter samråd</strong> med handledare också <strong>några</strong> algoritmer samt löser <strong>flera</strong> uppgifter genom att utnyttja rekursion."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> handlag i sin programmering gränssnitt både mot internet och databashanterare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med visst</strong> handlag i sin programmering gränssnitt både mot internet och databashanterare.",
+          "C" : "Eleven använder med <strong>gott</strong> handlag i sin programmering gränssnitt både mot internet och databashanterare.",
+          "A" : "Eleven använder med <strong>mycket gott</strong> handlag gränssnitt i sin programmering både mot internet och databashanterare."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> analys av en eller flera algoritmers komplexitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> analys av en eller flera algoritmers komplexitet.",
+          "C" : "Dessutom gör eleven en analys av en eller flera algoritmers komplexitet.",
+          "A" : "Dessutom gör eleven en <strong>avancerad</strong> analys av en eller flera algoritmers komplexitet."
+        }
+      }, {
+        "text" : "Eleven strukturerar och dokumenterar sitt arbete <strong>________</strong> enligt en fungerande modell.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven strukturerar och dokumenterar sitt arbete <strong>med viss säkerhet</strong> enligt en fungerande modell.",
+          "C" : "Eleven strukturerar och dokumenterar sitt arbete <strong>med viss säkerhet</strong> enligt en fungerande modell.",
+          "A" : "Eleven strukturerar och dokumenterar sitt arbete <strong>med säkerhet</strong> enligt en fungerande modell."
+        }
+      }, {
+        "text" : "Elevens färdiga program är utförda med <strong>________</strong> kvalitet i flera programspråk från olika programmeringsparadigm <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Elevens färdiga program är utförda med <strong>tillfredsställande</strong> kvalitet i flera programspråk från olika programmeringsparadigm <strong>i program av enkel karaktär</strong>.",
+          "C" : "Elevens färdiga program är <strong>robusta</strong> och utförda med <strong>tillfredsställande</strong> kvalitet i flera programspråk från olika programmeringsparadigm.",
+          "A" : "Elevens färdiga program är <strong>robusta</strong> och utförda med <strong>god</strong> kvalitet i flera programspråk från olika programmeringsparadigm <strong>i program av komplex karaktär</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven anpassar <strong>________</strong> sin planering av programmeringsuppgiften och utför felsökning av logiska fel och syntaxfel.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven anpassar <strong>med viss säkerhet</strong> sin planering av programmeringsuppgiften och utför felsökning av logiska fel och syntaxfel.",
+          "C" : "Eleven anpassar <strong>med viss säkerhet</strong> sin planering av programmeringsuppgifter och utför <strong>på ett systematiskt sätt</strong> felsökning av logiska fel och syntaxfel.",
+          "A" : "Eleven anpassar <strong>med säkerhet</strong> sin planering av programmeringsuppgifter och utför <strong>på ett systematiskt och effektivt sätt</strong> felsökning av logiska fel och syntaxfel."
+        }
+      }, {
+        "text" : "Eleven kvalitetssäkrar sitt program med <strong>________</strong> handlag genom <strong>________</strong> manuella och automatiserade tekniker eller tester.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kvalitetssäkrar sitt program med <strong>visst</strong> handlag genom <strong>begränsade</strong> manuella och automatiserade tekniker eller tester.",
+          "C" : "Eleven kvalitetssäkrar sitt program med <strong>gott</strong> handlag genom manuella och automatiserade tekniker eller tester.",
+          "A" : "Eleven kvalitetssäkrar sitt program med <strong>mycket gott</strong> handlag genom <strong>omfattande</strong> manuella och automatiserade tekniker eller tester."
+        }
+      }, {
+        "text" : "Innan programmeringsuppgiften avslutas utvärderar eleven med <strong>________</strong> omdömen programmets prestanda och ändamålsenlighet i <strong>________</strong> situation och i <strong>________</strong> sammanhang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Innan programmeringsuppgiften avslutas utvärderar eleven med <strong>enkla</strong> omdömen programmets prestanda och ändamålsenlighet i <strong>någon</strong> situation och i <strong>något</strong> sammanhang.",
+          "C" : "Innan programmeringsuppgiften avslutas utvärderar eleven med <strong>välgrundade</strong> omdömen programmets prestanda och ändamålsenlighet i <strong>några</strong> situationer och sammanhang.",
+          "A" : "Innan programmeringsuppgifter avslutas utvärderar eleven med <strong>välgrundade och nyanserade</strong> omdömen <strong>samt ger förslag på förbättringar</strong> av programmens prestanda och ändamålsenlighet i <strong>flera</strong> situationer och sammanhang."
+        }
+      }, {
+        "text" : "Eleven kommunicerar om programmeringsuppgiften och dess utvärdering och använder då <strong>________</strong> datavetenskapliga begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kommunicerar om programmeringsuppgiften och dess utvärdering och använder då <strong>med viss säkerhet</strong> datavetenskapliga begrepp.",
+          "C" : "Eleven kommunicerar om programmeringsuppgiften och dess utvärdering och använder då <strong>med viss säkerhet</strong> datavetenskapliga begrepp.",
+          "A" : "Eleven kommunicerar om programmeringsuppgiften och dess utvärdering och använder då <strong>med säkerhet</strong> datavetenskapliga begrepp."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

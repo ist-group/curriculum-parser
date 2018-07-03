@@ -1,0 +1,335 @@
+{
+  "name" : "Eventteknik",
+  "description" : "Kravet på bra ljud, bild, ljus och specialeffekter vid olika typer av event har medfört att mängden avancerad teknisk utrustning har ökat. Detta gör att det krävs personal för uppbyggnad, drift, felsökning och reparation av den tekniska utrustningen. Ämnet eventteknik ger en teoretisk och praktisk grund för detta arbete.",
+  "code" : "EVE",
+  "designation" : "",
+  "skolfsId" : "2010:157",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet eventteknik ska syfta till att eleverna utvecklar kunskaper om den tekniska utrustning som används vid olika event.", "I undervisningen ska eleverna ges möjlighet att utveckla förmåga att bygga upp scenanläggningar och rigga teknisk utrustning för event samt att felsöka och reparera utrustningen.", "Eleverna ska också ges möjlighet att utveckla kunskaper om säkerhetskrav och miljökrav för arbetet." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska leda till att eleverna utvecklar förståelse av planeringens och logistikens betydelse.", "Den ska även leda till att eleverna utvecklar kunskaper om den tekniska utrustningens möjligheter och begränsningar vid kreativt arbete." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet eventteknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om scenanläggningars komponenter, enheter och system samt om säkerhetskrav och arbetsmiljökrav för scenanläggningar.", "Förmåga att planera sitt arbete samt att bygga upp scenanläggningar och rigga teknisk utrustning för event på ett säkert, kvalitetsmässigt, ergonomiskt och miljömässigt sätt.", "Förmåga att utföra systematisk felsökning och reparation.", "Förmåga att dokumentera sitt arbete.", "Kunskaper om planeringens och logistikens betydelse för artister, uppdragsgivare, publik och media samt om den tekniska utrustningens möjligheter och begränsningar vid kreativt arbete.", "Kunskaper om tillståndsfrågor vid reproduktion av ljud och bild och vid offentliga framföranden." ]
+  } ],
+  "courses" : [ {
+    "name" : "Eventteknik",
+    "description" : "Kursen eventteknik omfattar punkterna 1–6 under rubriken Ämnets syfte, med särskild betoning på punkterna 2–4. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "EVEEVN0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Funktion och arbetssätt hos tekniska ljud-, bild- och ljusanläggningar för event.", "Funktion och monteringssätt hos komponenter, enheter och system för scenuppbyggnad.", "Uppbyggnad och riggning av scenanläggningar för musikprojekt, mässor och andra event.", "Ergonomi.", "Säkerhetskrav och miljökrav vid arbete med scenuppbyggnad och riggning av utrustning.", "Handhavande och funktionsprovning av anläggningar.", "Enklare systematisk felsökning och reparation.", "Planeringens och logistikens betydelse för artister, uppdragsgivare, publik och media.", "Tillstånd som kan krävas vid offentliga framföranden." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> scenanläggningars komponenter, enheter och system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> scenanläggningars komponenter, enheter och system.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> scenanläggningars komponenter, enheter och system.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> scenanläggningars komponenter, enheter och system."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för säkerhetskrav och arbetsmiljökrav som gäller för scenanläggningarna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för säkerhetskrav och arbetsmiljökrav som gäller för scenanläggningarna.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för säkerhetskrav och arbetsmiljökrav som gäller för scenanläggningarna.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för säkerhetskrav och arbetsmiljökrav som gäller för scenanläggningarna."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare sitt arbete samt bygger upp scenanläggningar och riggar <strong>________</strong> med handledare teknisk utrustning för event.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare sitt arbete samt bygger upp scenanläggningar och riggar <strong>i samråd</strong> med handledare teknisk utrustning för event.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete samt bygger upp scenanläggningar och riggar <strong>efter samråd</strong> med handledare teknisk utrustning för event.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete samt bygger upp scenanläggningar och riggar <strong>efter samråd</strong> med handledare teknisk utrustning för event."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> systematiska felsökningar och reparationer av utrustningen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>enkla</strong> systematiska felsökningar och reparationer av utrustningen.",
+          "C" : "Dessutom utför eleven systematiska felsökningar och reparationer av utrustningen.",
+          "A" : "Dessutom utför eleven <strong>avancerade</strong> systematiska felsökningar och reparationer av utrustningen."
+        }
+      }, {
+        "text" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt uppfyller krav på kvalitet, ergonomi och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt uppfyller krav på kvalitet, ergonomi och miljö.",
+          "C" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt uppfyller krav på kvalitet, ergonomi och miljö.",
+          "A" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt uppfyller krav på kvalitet, ergonomi och miljö."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Utifrån sitt arbete för eleven <strong>________</strong> resonemang om planeringens och logistikens betydelse för artister, uppdragsgivare, publik och media.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Utifrån sitt arbete för eleven <strong>enkla</strong> resonemang om planeringens och logistikens betydelse för artister, uppdragsgivare, publik och media.",
+          "C" : "Utifrån sitt arbete för eleven <strong>välgrundade</strong> resonemang om planeringens och logistikens betydelse för artister, uppdragsgivare, publik och media.",
+          "A" : "Utifrån sitt arbete för eleven <strong>välgrundade och nyanserade</strong> resonemang om planeringens och logistikens betydelse för artister, uppdragsgivare, publik och media."
+        }
+      }, {
+        "text" : "Dessutom för eleven <strong>________</strong> resonemang om den tekniska utrustningens möjligheter och begränsningar vid kreativt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom för eleven <strong>enkla</strong> resonemang om den tekniska utrustningens möjligheter och begränsningar vid kreativt arbete.",
+          "C" : "Dessutom för eleven <strong>välgrundade</strong> resonemang om den tekniska utrustningens möjligheter och begränsningar vid kreativt arbete.",
+          "A" : "Dessutom för eleven <strong>välgrundade <strong>och nyanserade</strong></strong> resonemang om den tekniska utrustningens möjligheter och begränsningar vid kreativt arbete."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för hur bestämmelser om tillstånd för reproduktion och offentliga framföranden ska tillämpas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för hur bestämmelser om tillstånd för reproduktion och offentliga framföranden ska tillämpas.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för hur bestämmelser om tillstånd för reproduktion och offentliga framföranden ska tillämpas.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för hur bestämmelser om tillstånd för reproduktion och offentliga framföranden ska tillämpas."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Ljudproduktionsteknik",
+    "description" : "Kursen ljudproduktionsteknik omfattar punkterna 1–6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ljudproduktionsteknik.",
+    "code" : "EVELJD0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Uppbyggnad och riggning av ljudanläggningar för musikprojekt, mässor, artistuppträdanden och andra event.", "Ljudmediets uttrycksmöjligheter och kreativt arbete med ljud.", "Analog och digital teknik.", "Datorutrustningar i ljudarbetet.", "Mikrofoner och mikrofonval.", "Mixerbord och mixningsteknik.", "In- och uppspelningsutrustningar.", "Redigeringsutrustningar.", "Ljudåtergivningsutrustning och högtalarteknik.", "Akustik i olika miljöer.", "Säkerhetskrav och miljökrav för arbete med ljud.", "Handhavande och funktionsprovning av ljudanläggningar.", "Systematisk felsökning och reparation av ljudanläggningar för publika framträdanden.", "Tillstånd som kan krävas vid reproduktion och offentliga framföranden." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> ljudanläggningars komponenter, enheter och system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> ljudanläggningars komponenter, enheter och system.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> ljudanläggningars komponenter, enheter och system.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> ljudanläggningars komponenter, enheter och system."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för säkerhetskrav och arbetsmiljökrav som gäller för ljudanläggningarna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för säkerhetskrav och arbetsmiljökrav som gäller för ljudanläggningarna.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för säkerhetskrav och arbetsmiljökrav som gäller för ljudanläggningarna.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för säkerhetskrav och arbetsmiljökrav som gäller för ljudanläggningarna."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare sitt arbete samt bygger upp och riggar <strong>________</strong> med handledare ljudanläggningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare sitt arbete samt bygger upp och riggar <strong>i samråd</strong> med handledare ljudanläggningar.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete samt bygger upp och riggar <strong>efter samråd</strong> med handledare ljudanläggningar.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete samt bygger upp och riggar <strong>efter samråd</strong> med handledare ljudanläggningar."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> systematiska felsökningar och reparationer av anläggningarna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>enkla</strong> systematiska felsökningar och reparationer av anläggningarna.",
+          "C" : "Dessutom utför eleven systematiska felsökningar och reparationer av anläggningarna.",
+          "A" : "Dessutom utför eleven <strong>avancerade</strong> systematiska felsökningar och reparationer av anläggningarna."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> teknik och utrustning för ljudåtergivning, digital och analog ljudinspelning och redigering.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> teknik och utrustning för ljudåtergivning, digital och analog ljudinspelning och redigering.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> teknik och utrustning för ljudåtergivning, digital och analog ljudinspelning och redigering.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> teknik och utrustning för ljudåtergivning, digital och analog ljudinspelning och redigering."
+        }
+      }, {
+        "text" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt uppfyller krav på kvalitet, ergonomi och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt uppfyller krav på kvalitet, ergonomi och miljö.",
+          "C" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt uppfyller krav på kvalitet, ergonomi och miljö.",
+          "A" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt uppfyller krav på kvalitet, ergonomi och miljö."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Utifrån sitt arbete för eleven <strong>________</strong> resonemang om planeringens och logistikens betydelse för artister, uppdragsgivare, publik och media.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Utifrån sitt arbete för eleven <strong>enkla</strong> resonemang om planeringens och logistikens betydelse för artister, uppdragsgivare, publik och media.",
+          "C" : "Utifrån sitt arbete för eleven <strong>välgrundade</strong> resonemang om planeringens och logistikens betydelse för artister, uppdragsgivare, publik och media.",
+          "A" : "Utifrån sitt arbete för eleven <strong>välgrundade och nyanserade</strong> resonemang om planeringens och logistikens betydelse för artister, uppdragsgivare, publik och media."
+        }
+      }, {
+        "text" : "Dessutom för eleven <strong>________</strong> resonemang om den tekniska utrustningens möjligheter och begränsningar vid kreativt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom för eleven <strong>enkla</strong> resonemang om den tekniska utrustningens möjligheter och begränsningar vid kreativt arbete.",
+          "C" : "Dessutom för eleven <strong>välgrundade</strong> resonemang om den tekniska utrustningens möjligheter och begränsningar vid kreativt arbete.",
+          "A" : "Dessutom för eleven <strong>välgrundade och nyanserade</strong> resonemang om den tekniska utrustningens möjligheter och begränsningar vid kreativt arbete."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för hur bestämmelser om tillstånd för reproduktion och offentliga framföranden ska tillämpas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för hur bestämmelser om tillstånd för reproduktion och offentliga framföranden ska tillämpas.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för hur bestämmelser om tillstånd för reproduktion och offentliga framföranden ska tillämpas.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för hur bestämmelser om tillstånd för reproduktion och offentliga framföranden ska tillämpas."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Ljus- och bildproduktionsteknik",
+    "description" : "Kursen ljus- och bildproduktionsteknik omfattar punkterna 1–6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ljus- och bildproduktionsteknik.",
+    "code" : "EVELJS0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Ljus- och bildanläggningars komponenter, enheter och system samt anläggningarnas funktion och arbetssätt.", "Uppbyggnad och riggning av ljus- och bildanläggningar för musikprojekt, mässor, artistuppträdanden och andra event.", "Ljus- och bildmediernas uttrycksmöjligheter samt kreativt arbete med ljus och bild.", "Analog och digital video- och bildteknik.", "Datorutrustningar i ljus- och bildarbetet.", "In- och uppspelningsutrustningar.", "Redigeringsutrustningar.", "Bildskärmar och projektorer.", "Säkerhetskrav och miljökrav för arbete med ljus och bild.", "Handhavande och funktionsprovning av ljus- och bildanläggningar.", "Systematisk felsökning och reparation av ljus- och bildanläggningar som används vid publika framträdande.", "Tillstånd som kan krävas för bildproduktion vid offentliga framföranden." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> ljus- och bildanläggningars komponenter, enheter och system.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> ljus- och bildanläggningars komponenter, enheter och system.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> ljus- och bildanläggningars komponenter, enheter och system.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> ljus- och bildanläggningars komponenter, enheter och system."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för säkerhetskrav och arbetsmiljökrav som gäller för ljus- och bildanläggningarna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för säkerhetskrav och arbetsmiljökrav som gäller för ljus- och bildanläggningarna.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för säkerhetskrav och arbetsmiljökrav som gäller för ljus- och bildanläggningarna.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för säkerhetskrav och arbetsmiljökrav som gäller för ljus- och bildanläggningarna."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare sitt arbete samt bygger upp och riggar <strong>________</strong> med handledare ljus- och bildanläggningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare sitt arbete samt bygger upp och riggar <strong>i samråd</strong> med handledare ljus- och bildanläggningar.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete samt bygger upp och riggar <strong>efter samråd</strong> med handledare ljus- och bildanläggningar.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete samt bygger upp och riggar <strong>efter samråd</strong> med handledare ljus- och bildanläggningar."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> systematiska felsökningar och reparationer av anläggningarna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>enkla</strong> systematiska felsökningar och reparationer av anläggningarna.",
+          "C" : "Dessutom utför eleven systematiska felsökningar och reparationer av anläggningarna.",
+          "A" : "Dessutom utför eleven <strong>avancerade</strong> systematiska felsökningar och reparationer av anläggningarna."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> teknik och utrustning för bild- och videopresentation samt teknik och utrustning för ljussättning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> teknik och utrustning för bild- och videopresentation samt teknik och utrustning för ljussättning.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> teknik och utrustning för bild- och videopresentation samt teknik och utrustning för ljussättning.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> teknik och utrustning för bild- och videopresentation samt teknik och utrustning för ljussättning."
+        }
+      }, {
+        "text" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt uppfyller krav på kvalitet, ergonomi och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt uppfyller krav på kvalitet, ergonomi och miljö.",
+          "C" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt uppfyller krav på kvalitet, ergonomi och miljö.",
+          "A" : "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt uppfyller krav på kvalitet, ergonomi och miljö."
+        }
+      }, {
+        "text" : "Resultatet av arbetet är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av arbetet är <strong>gott</strong>."
+        }
+      }, {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> dokumentation av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av sitt arbete.",
+          "C" : "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete.",
+          "A" : "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Utifrån sitt arbete för eleven <strong>________</strong> resonemang om planeringens och logistikens betydelse för artister, uppdragsgivare, publik och media.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Utifrån sitt arbete för eleven <strong>enkla</strong> resonemang om planeringens och logistikens betydelse för artister, uppdragsgivare, publik och media.",
+          "C" : "Utifrån sitt arbete för eleven <strong>välgrundade</strong> resonemang om planeringens och logistikens betydelse för artister, uppdragsgivare, publik och media.",
+          "A" : "Utifrån sitt arbete för eleven <strong>välgrundade och nyanserade</strong> resonemang om planeringens och logistikens betydelse för artister, uppdragsgivare, publik och media."
+        }
+      }, {
+        "text" : "Dessutom för eleven <strong>________</strong> resonemang om den tekniska utrustningens möjligheter och begränsningar vid kreativt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom för eleven <strong>enkla</strong> resonemang om den tekniska utrustningens möjligheter och begränsningar vid kreativt arbete.",
+          "C" : "Dessutom för eleven <strong>välgrundade</strong> resonemang om den tekniska utrustningens möjligheter och begränsningar vid kreativt arbete.",
+          "A" : "Dessutom för eleven <strong>välgrundade och nyanserade</strong> resonemang om den tekniska utrustningens möjligheter och begränsningar vid kreativt arbete."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för hur bestämmelser om tillstånd för reproduktion och offentliga framföranden ska tillämpas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för hur bestämmelser om tillstånd för reproduktion och offentliga framföranden ska tillämpas.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för hur bestämmelser om tillstånd för reproduktion och offentliga framföranden ska tillämpas.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för hur bestämmelser om tillstånd för reproduktion och offentliga framföranden ska tillämpas."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

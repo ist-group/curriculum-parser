@@ -2,7 +2,6 @@
 
 package org.edtech.curriculum.internal
 
-import org.edtech.curriculum.CentralContent
 import org.edtech.curriculum.Purpose
 import org.edtech.curriculum.PurposeType
 import org.edtech.curriculum.YearGroup

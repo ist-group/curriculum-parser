@@ -1,0 +1,64 @@
+{
+  "name" : "Entreprenörskap",
+  "description" : "Ämnet entreprenörskap behandlar entreprenöriellt lärande och dess betydelse för individ, verksamhet och samhälle. Ämnet handlar om metoder och förhållningssätt för att omsätta idéer i praktisk verksamhet. I ämnet ingår kommunikation, samarbete och problemlösning.",
+  "code" : "ENR",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet entreprenörskap ska syfta till att eleverna utvecklar en tilltro till sina personliga resurser, en lust att anta utmaningar samt en vilja att ta ansvar för att omsätta idéer i praktisk verksamhet.", "Genom undervisningen ska eleverna utveckla förståelse av vad entreprenörskap betyder för individ, verksamhet och samhälle.", "Eleverna ska ges möjlighet att utveckla förmåga att identifiera möjligheter och skapa resurser för att tillvarata dess möjligheter.", "Dessutom ska eleverna ges möjlighet att utveckla kunskaper om kommunikation och samarbete." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper om metoder för problemlösning och planering för att uppnå ett önskat resultat.", "Undervisningen ska leda till att eleverna utvecklar förmåga att identifiera möjligheter och omsätta idéer i praktisk verksamhet." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Vidare ska eleverna ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser inom området." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Praktiskt arbete och ett problemlösande arbetssätt ska ingå i undervisningen.", "Undervisningen ska ge eleverna möjlighet att reflektera över och samtala om kommunikation och samarbete samt att omsätta egna idéer i praktisk verksamhet" ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet entreprenörskap ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förståelse av entreprenörskapets betydelse för individ, verksamhet och samhälle.", "Färdigheter i problemlösning och genomförande av projekt.", "Förmåga att identifiera möjligheter och omsätta idéer i praktisk verksamhet." ]
+  } ],
+  "courses" : [ {
+    "name" : "Entreprenörskap",
+    "description" : "Kursen entreprenörskap omfattar punkterna 1–3 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "ENRENT5",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Entreprenörskapets betydelse för individ, verksamhet och samhälle.", "Idéutveckling. Från idé till praktiskt genomförande.", "Kommunikation och samarbete i samband med problemlösning och projekt.", "Metoder för problemlösning och genomförande av projekt.", "Presentationsteknik och presentation av en idé.", "Dokumentation, beräkningar samt uppföljning i samband med problemlösning och projekt.", "Lagar och andra bestämmelser inom området, till exempel bestämmelser om upphovsrätt." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att samtala om entreprenörskapets betydelse för individ, verksamhet och samhälle.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att samtala om entreprenörskapets betydelse för individ, verksamhet och samhälle.",
+          "C" : "Eleven samtalar <strong>på ett enkelt sätt</strong> om entreprenörskapets betydelse för individ, verksamhet och samhälle.",
+          "A" : "Eleven samtalar <strong>på ett utvecklat sätt</strong> om entreprenörskapets betydelse för individ, verksamhet och samhälle."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att välja handlingsalternativ för att lösa problem och genomföra projekt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att välja handlingsalternativ för att lösa problem och genomföra projekt.",
+          "C" : "Eleven väljer handlingsalternativ för att lösa problem och genomföra projekt <strong>som efter viss bearbetning leder framåt</strong>.",
+          "A" : "Eleven väljer handlingsalternativ för att lösa problem och genomföra projekt <strong>som leder framåt</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> dessutom i att identifiera möjligheter och omsätta idéer i praktisk verksamhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> dessutom i att identifiera möjligheter och omsätta idéer i praktisk verksamhet.",
+          "C" : "Eleven identifierar dessutom <strong>med viss säkerhet</strong> möjligheter och omsätter <strong>med tillfredsställande resultat</strong> idéer i praktisk verksamhet.",
+          "A" : "Eleven identifierar dessutom <strong>med säkerhet</strong> möjligheter och omsätter <strong>med gott resultat</strong> idéer i praktisk verksamhet."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

@@ -1,0 +1,340 @@
+{
+  "name" : "Medicinsk teknik",
+  "description" : "Inom området medicinsk teknik används teknik och naturvetenskap för att ta fram nya behandlingar och diagnostik för sjukvården. Där integreras fysik, matematik och biovetenskap med tekniskt kunnande för att utveckla material, produkter, hjälpmedel, system och informationsmetoder. Ämnet medicinsk teknik behandlar hjälpmedel och utrustning som används för att ställa diagnos på sjukdom, behandla sjukdom och rehabilitera. Det behandlar också hur människa och maskin samverkar.",
+  "code" : "MEI",
+  "designation" : "",
+  "skolfsId" : "2010:133",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet medicinsk teknik ska syfta till att eleverna utvecklar förmåga att installera, driftsätta, underhålla och reparera medicinteknisk utrustning.", "Den ska också ge eleverna möjlighet att utveckla kunskaper om hur medicinsk teknik har utvecklats och utvecklas i växelverkan med det omgivande samhället.", "Eleverna ska ges möjlighet att utveckla kunskaper om hur föreställningar och traditioner styr uppfattningar om manligt och kvinnligt i förhållande till teknikområdet.", "Dessutom ska eleverna ges möjlighet att utveckla förståelse av vilka olika förutsättningar människor har att använda medicinsk teknik." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar kunskaper om samspelet mellan maskin och människa.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om medicintekniska begrepp samt kunskaper i att kommunicera om medicinsk teknik." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla medicintekniska kunskaper genom att arbeta med mätningar, observationer, experiment, tekniska beräkningar, matematiska modelleringar samt risk- och rimlighetsbedömningar." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet medicinsk teknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om uppbyggnad och funktion hos system, apparater och komponenter samt om hur de används inom sjukvården.", "Förmåga att installera, driftsätta och underhålla medicinteknisk utrustning.", "Förmåga att läsa och tolka ritningar, tekniska instruktioner och andra dokument inom teknikområdet.", "Färdigheter i att utföra mätningar, felsökningar och reparationer av medicinteknisk utrustning samt förmåga att dokumentera sitt arbete.", "Kunskaper om risker vid användning av medicinteknisk utrustning samt om normer och säkerhetsbestämmelser.", "Förmåga att förebygga skador på person, egendom och miljö.", "Förmåga att kommunicera med användare.", "Kunskaper om medicintekniska begrepp inom området.", "Förmåga att utvärdera sitt arbete och resultat." ]
+  } ],
+  "courses" : [ {
+    "name" : "Elektromedicinsk teknik",
+    "description" : "Kursen elektromedicinsk teknik omfattar punkterna 1–9 under rubriken Ämnets syfte.",
+    "code" : "MEIELE0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Fysiologisk och neurofysiologisk utrustning för diagnostik och övervakning, datorstyrda utrustningar samt laserteknik och laserutrustningar.", "Medicintekniska produkters användningsområden inom elektromedicin.", "Fysikaliska samband och elektriska tillämpningar.", "Elektromedicinsk historia samt introduktion i aktuella utvecklingsområden inom medicinsk teknik.", "Grundläggande teknikfilosofi, till exempel etiska värderingar och genusstrukturer, samt hur den har påverkat och påverkar den elektromedicinska tekniken, dess användning och tillgänglighet.", "Installation och driftsättning, service, reparation och förebyggande underhåll av elektromedicinsk utrustning.", "Ritningar, tekniska instruktioner, kopplingsscheman och servicemanualer.", "Mätteknik, schemaläsning och systematisk felsökning samt funktions- och säkerhetskontroller.", "Säkerhetsbestämmelser, funktionskrav och rutiner.", "Dokumentation av utförda åtgärder och administrativa rutiner.", "Kommunikation med olika kategorier av sjukvårdspersonal.", "Informationsteknik inom området med avseende på funktion, arbetssätt, patientsäkerhet och hantering av känslig information." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> uppbyggnad och funktion hos elektromedicinsk utrustning samt hur den används inom sjukvården.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> uppbyggnad och funktion hos elektromedicinsk utrustning samt hur den används inom sjukvården.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> uppbyggnad och funktion hos elektromedicinsk utrustning samt hur den används inom sjukvården.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> uppbyggnad och funktion hos elektromedicinsk utrustning samt hur den används inom sjukvården."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven installerar och driftsätter <strong>________</strong> med handledare elektromedicinsk utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven installerar och driftsätter <strong>i samråd</strong> med handledare elektromedicinsk utrustning.",
+          "C" : "Eleven installerar och driftsätter <strong>efter samråd</strong> med handledare elektromedicinsk utrustning.",
+          "A" : "Eleven installerar och driftsätter <strong>efter samråd</strong> med handledare elektromedicinsk utrustning."
+        }
+      }, {
+        "text" : "I arbetet läser och tolkar eleven <strong>________</strong> ritningar, tekniska instruktioner och andra dokument.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> ritningar, tekniska instruktioner och andra dokument.",
+          "C" : "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> ritningar, tekniska instruktioner och andra dokument.",
+          "A" : "I arbetet läser och tolkar eleven <strong>med säkerhet</strong> ritningar, tekniska instruktioner och andra dokument."
+        }
+      }, {
+        "text" : "Eleven utför också <strong>________</strong> funktions- och säkerhetskontroll, underhåll och enkla servicearbeten på elektromedicinsk utrustning samt gör en <strong>________</strong> dokumentation av utförda arbeten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför också <strong>med viss säkerhet</strong> funktions- och säkerhetskontroll, underhåll och enkla servicearbeten på elektromedicinsk utrustning samt gör en <strong>enkel</strong> dokumentation av utförda arbeten.",
+          "C" : "Eleven utför också <strong>med viss säkerhet</strong> funktions- och säkerhetskontroll, underhåll och enkla servicearbeten på elektromedicinsk utrustning samt gör en <strong>noggrann</strong> dokumentation av utförda arbeten.",
+          "A" : "Eleven utför också <strong>med säkerhet</strong> funktions- och säkerhetskontroll, underhåll och enkla servicearbeten på elektromedicinsk utrustning samt gör en <strong>noggrann och utförlig</strong> dokumentation av utförda arbeten."
+        }
+      }, {
+        "text" : "I arbetet utför eleven <strong>________</strong> mätningar och tekniska beräkningar samt gör en <strong>________</strong> bedömning av resultatets rimlighet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet utför eleven <strong>med viss säkerhet</strong> mätningar och tekniska beräkningar samt gör en <strong>enkel</strong> bedömning av resultatets rimlighet.",
+          "C" : "I arbetet utför eleven <strong>med viss säkerhet</strong> mätningar och tekniska beräkningar samt gör en <strong>välgrundad</strong> bedömning av resultatets rimlighet.",
+          "A" : "I arbetet utför eleven <strong>med säkerhet</strong> mätningar och tekniska beräkningar samt gör en <strong>välgrundad och nyanserad</strong> bedömning av resultatets rimlighet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven hanterar <strong>________</strong> utrustningar, mätinstrument och verktyg samt följer normer och säkerhetsbestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar <strong>med viss säkerhet</strong> utrustningar, mätinstrument och verktyg samt följer normer och säkerhetsbestämmelser.",
+          "C" : "Eleven hanterar <strong>med viss säkerhet</strong> utrustningar, mätinstrument och verktyg samt följer normer och säkerhetsbestämmelser.",
+          "A" : "Eleven hanterar <strong>med säkerhet</strong> utrustningar, mätinstrument och verktyg samt följer normer och säkerhetsbestämmelser."
+        }
+      }, {
+        "text" : "Dessutom diskuterar eleven <strong>________</strong> risker vid användningen av elektromedicinsk utrustning samt hur man kan förebygga skador på person, egendom och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom diskuterar eleven <strong>översiktligt</strong> risker vid användningen av elektromedicinsk utrustning samt hur man kan förebygga skador på person, egendom och miljö.",
+          "C" : "Dessutom diskuterar eleven <strong>utförligt</strong> risker vid användningen av elektromedicinsk utrustning samt hur man kan förebygga skador på person, egendom och miljö.",
+          "A" : "Dessutom diskuterar eleven <strong>utförligt och nyanserat</strong> risker vid användningen av elektromedicinsk utrustning samt hur man kan förebygga skador på person, egendom och miljö."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven anpassar <strong>________</strong> sin kommunikation till användaren och använder <strong>________</strong> elektromedicinska begrepp för att presentera sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven anpassar <strong>med viss säkerhet</strong> sin kommunikation till användaren och använder <strong>med viss säkerhet</strong> elektromedicinska begrepp för att presentera sitt arbete.",
+          "C" : "Eleven anpassar <strong>med viss säkerhet</strong> sin kommunikation till användaren och använder <strong>med viss säkerhet</strong> elektromedicinska begrepp för att presentera sitt arbete.",
+          "A" : "Eleven anpassar <strong>med säkerhet</strong> sin kommunikation till användaren och använder <strong>med säkerhet</strong> elektromedicinska begrepp för att presentera sitt arbete."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> datorn som verktyg för kommunikation, dokumentation och information inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>med viss säkerhet</strong> datorn som verktyg för kommunikation, dokumentation och information inom området.",
+          "C" : "Dessutom använder eleven <strong>med viss säkerhet</strong> datorn som verktyg för kommunikation, dokumentation och information inom området.",
+          "A" : "Dessutom använder eleven <strong>med viss säkerhet</strong> datorn som verktyg för kommunikation, dokumentation och information inom området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utvärderar med <strong>________</strong> omdömen sin tekniska lösning utifrån kvalitet, säkerhet och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar med <strong>enkla</strong> omdömen sin tekniska lösning utifrån kvalitet, säkerhet och miljö.",
+          "C" : "Eleven utvärderar med <strong>nyanserade</strong> omdömen sin tekniska lösning utifrån kvalitet, säkerhet och miljö.",
+          "A" : "Eleven utvärderar med <strong>nyanserade</strong> omdömen sin tekniska lösning utifrån kvalitet, säkerhet och miljö <strong>samt ger förslag på hur den tekniska lösningen kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Gas- och vätsketeknik",
+    "description" : "Kursen gas- och vätsketeknik omfattar punkterna 1–9 under rubriken Ämnets syfte.",
+    "code" : "MEIGAS0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Gasmedicinska utrustningar för diagnostik, övervakning och behandling.", "Vätskefysikaliska behandlings- och infusionsutrustningar.", "Hur gas- och vätskefysikaliska medicinska utrustningar används inom sjukvården.", "Grundläggande teknikfilosofi, till exempel etiska värderingar och genusstrukturer, samt hur den har påverkat och påverkar tekniken, dess användning och tillgänglighet.", "Installation, drift och underhållsarbete samt funktions- och säkerhetskontroll av gas- och vätskefysikaliska medicinska utrustningar.", "Konstruktion och uppbyggnad av gas- och vätskefysikalisk medicinsk utrustning samt gas- och vätskefysikaliska samband och tillämpningar.", "Mätmetoder och mätinstrument samt systematisk felsökning i gas- och vätskefysikalisk medicinsk utrustning.", "Säkerhetsbestämmelser, funktionskrav och rutiner vid användning, reparation samt underhåll av gas- och vätskefysikalisk medicinsk utrustning.", "Reparationsteknik med säkerhet i fokus samt hur dokumentation av utförda åtgärder och administrativa rutiner genomförs.", "Kommunikation med olika kategorier av sjukvårdspersonal.", "Informationsteknik inom området med avseende på funktion, arbetssätt, patientsäkerhet och hantering av känslig information." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> uppbyggnad och funktion hos gas- och vätskefysikalisk utrustning samt hur den används inom sjukvården.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> uppbyggnad och funktion hos gas- och vätskefysikalisk utrustning samt hur den används inom sjukvården.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> uppbyggnad och funktion hos gas- och vätskefysikalisk utrustning samt hur den används inom sjukvården.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> uppbyggnad och funktion hos gas- och vätskefysikalisk utrustning samt hur den används inom sjukvården."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven installerar och driftsätter <strong>________</strong> med handledare gas- och vätskefysikalisk utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven installerar och driftsätter <strong>i samråd</strong> med handledare gas- och vätskefysikalisk utrustning.",
+          "C" : "Eleven installerar och driftsätter <strong>efter samråd</strong> med handledare gas- och vätskefysikalisk utrustning.",
+          "A" : "Eleven installerar och driftsätter <strong>efter samråd</strong> med handledare gas- och vätskefysikalisk utrustning."
+        }
+      }, {
+        "text" : "I arbetet läser och tolkar eleven <strong>________</strong> ritningar, tekniska instruktioner och andra dokument.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> ritningar, tekniska instruktioner och andra dokument.",
+          "C" : "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> ritningar, tekniska instruktioner och andra dokument.",
+          "A" : "I arbetet läser och tolkar eleven <strong>med säkerhet</strong> ritningar, tekniska instruktioner och andra dokument."
+        }
+      }, {
+        "text" : "Eleven utför också <strong>________</strong> funktions- och säkerhetskontroll, underhåll och enkla servicearbeten på gas- och vätskefysikalisk utrustning samt gör en <strong>________</strong> dokumentation av utförda arbeten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför också <strong>med viss säkerhet</strong> funktions- och säkerhetskontroll, underhåll och enkla servicearbeten på gas- och vätskefysikalisk utrustning samt gör en <strong>enkel</strong> dokumentation av utförda arbeten.",
+          "C" : "Eleven utför också <strong>med viss säkerhet</strong> funktions- och säkerhetskontroll, underhåll och enkla servicearbeten på gas- och vätskefysikalisk utrustning samt gör en <strong>noggrann</strong> dokumentation av utförda arbeten.",
+          "A" : "Eleven utför också <strong>med säkerhet</strong> funktions- och säkerhetskontroll, underhåll och enkla servicearbeten på gas- och vätskefysikalisk utrustning samt gör en <strong>noggrann och utförlig</strong> dokumentation av utförda arbeten."
+        }
+      }, {
+        "text" : "I arbetet utför eleven <strong>________</strong> mätningar och tekniska beräkningar samt gör en <strong>________</strong> bedömning av resultatets rimlighet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet utför eleven <strong>med viss säkerhet</strong> mätningar och tekniska beräkningar samt gör en <strong>enkel</strong> bedömning av resultatets rimlighet.",
+          "C" : "I arbetet utför eleven <strong>med viss säkerhet</strong> mätningar och tekniska beräkningar samt gör en <strong>välgrundad</strong> bedömning av resultatets rimlighet.",
+          "A" : "I arbetet utför eleven <strong>med säkerhet</strong> mätningar och tekniska beräkningar samt gör en <strong>välgrundad och nyanserad</strong> bedömning av resultatets rimlighet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven hanterar <strong>________</strong> utrustningar, mätinstrument och verktyg samt följer normer och säkerhetsbestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar <strong>med viss säkerhet</strong> utrustningar, mätinstrument och verktyg samt följer normer och säkerhetsbestämmelser.",
+          "C" : "Eleven hanterar <strong>med viss säkerhet</strong> utrustningar, mätinstrument och verktyg samt följer normer och säkerhetsbestämmelser.",
+          "A" : "Eleven hanterar <strong>med säkerhet</strong> utrustningar, mätinstrument och verktyg samt följer normer och säkerhetsbestämmelser."
+        }
+      }, {
+        "text" : "Dessutom diskuterar eleven <strong>________</strong> risker vid användningen av gas- och vätskefysikalisk utrustning samt hur man kan förebygga skador på person, egendom och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom diskuterar eleven <strong>översiktligt</strong> risker vid användningen av gas- och vätskefysikalisk utrustning samt hur man kan förebygga skador på person, egendom och miljö.",
+          "C" : "Dessutom diskuterar eleven <strong>utförligt</strong> risker vid användningen av gas- och vätskefysikalisk utrustning samt hur man kan förebygga skador på person, egendom och miljö.",
+          "A" : "Dessutom diskuterar eleven <strong>utförligt och nyanserat</strong> risker vid användningen av gas- och vätskefysikalisk utrustning samt hur man kan förebygga skador på person, egendom och miljö."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven anpassar <strong>________</strong> sin kommunikation till användaren och använder <strong>________</strong> gas- och vätskefysikaliska begrepp för att presentera sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven anpassar <strong>med viss säkerhet</strong> sin kommunikation till användaren och använder <strong>med viss säkerhet</strong> gas- och vätskefysikaliska begrepp för att presentera sitt arbete.",
+          "C" : "Eleven anpassar <strong>med viss säkerhet</strong> sin kommunikation till användaren och använder <strong>med viss säkerhet</strong> gas- och vätskefysikaliska begrepp för att presentera sitt arbete.",
+          "A" : "Eleven anpassar <strong>med säkerhet</strong> sin kommunikation till användaren och använder <strong>med säkerhet</strong> gas- och vätskefysikaliska begrepp för att presentera sitt arbete."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> datorn som verktyg för kommunikation, dokumentation och information inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>med viss säkerhet</strong> datorn som verktyg för kommunikation, dokumentation och information inom området.",
+          "C" : "Dessutom använder eleven <strong>med viss säkerhet</strong> datorn som verktyg för kommunikation, dokumentation och information inom området.",
+          "A" : "Dessutom använder eleven <strong>med säkerhet</strong> datorn som verktyg för kommunikation, dokumentation och information inom området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utvärderar med <strong>________</strong> omdömen sin tekniska lösning utifrån kvalitet, säkerhet och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar med <strong>enkla</strong> omdömen sin tekniska lösning utifrån kvalitet, säkerhet och miljö.",
+          "C" : "Eleven utvärderar med <strong>nyanserade</strong> omdömen sin tekniska lösning utifrån kvalitet, säkerhet och miljö.",
+          "A" : "Eleven utvärderar med <strong>nyanserade</strong> omdömen sin tekniska lösning utifrån kvalitet, säkerhet och miljö <strong>samt ger förslag på hur den tekniska lösningen kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Radiologiska utrustningar",
+    "description" : "Kursen radiologiska utrustningar omfattar punkterna 1–9 under rubriken Ämnets syfte.",
+    "code" : "MEIRAD0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Röntgenutrustningar, datorstyrd skiktröntgen, nukleärmedicin och strålningsterapiutrustningar samt radiologiska utrustningars användning inom sjukvården.", "Röntgenrörets och röntgengeneratorns funktion och arbetssätt.", "Grundprinciperna för MR-kamerautrustningars funktion och arbetssätt.", "Grundprinciperna för bildgenerering och kvalitetskrav inom det fototekniska området.", "Videosystemets användning inom medicinsk teknik.", "Röntgenutrustningars användningsområde och funktion.", "Grundläggande teknikfilosofi, till exempel etiska värderingar och genusstrukturer, samt hur den har påverkat och påverkar radiologin, dess användning och tillgänglighet.", "Installation, drift, reparation och underhåll av radiologiska utrustningar.", "Mätmetoder, mätinstrument och mätövningar.", "Säkerhetsbestämmelser, funktionskrav och rutiner samt strål- och personskydd vid arbete med röntgenutrustningar och radioaktiva ämnen.", "Funktions- och säkerhetskontroller, dokumentation av utförda åtgärder och administrativa rutiner.", "Miljökrav och handhavande av avfallsprodukter.", "Kommunikation med olika kategorier av sjukvårdspersonal.", "Informationsteknik inom området med avseende på funktion, arbetssätt, patientsäkerhet och hantering av känslig information." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> uppbyggnad och funktion hos radiologiska utrustningar samt hur de används inom sjukvården.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> uppbyggnad och funktion hos radiologiska utrustningar samt hur de används inom sjukvården.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> uppbyggnad och funktion hos radiologiska utrustningar samt hur de används inom sjukvården.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> uppbyggnad och funktion hos radiologiska utrustningar samt hur de används inom sjukvården."
+        }
+      }, {
+        "text" : "Eleven installerar och driftsätter <strong>________</strong> med handledare radiologiska utrustningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven installerar och driftsätter <strong>i samråd</strong> med handledare radiologiska utrustningar.",
+          "C" : "Eleven installerar och driftsätter <strong>efter samråd</strong> med handledare radiologiska utrustningar.",
+          "A" : "Eleven installerar och driftsätter <strong>efter samråd</strong> med handledare radiologiska utrustningar."
+        }
+      }, {
+        "text" : "I arbetet läser och tolkar eleven <strong>________</strong> ritningar, tekniska instruktioner och andra dokument.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> ritningar, tekniska instruktioner och andra dokument.",
+          "C" : "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> ritningar, tekniska instruktioner och andra dokument.",
+          "A" : "I arbetet läser och tolkar eleven <strong>med säkerhet</strong> ritningar, tekniska instruktioner och andra dokument."
+        }
+      }, {
+        "text" : "Eleven utför också <strong>________</strong> funktions- och säkerhetskontroll, underhåll och enkla servicearbeten på radiologiska utrustningar samt gör en <strong>________</strong> dokumentation av utförda arbeten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför också <strong>med viss säkerhet</strong> funktions- och säkerhetskontroll, underhåll och enkla servicearbeten på radiologiska utrustningar samt gör en <strong>enkel</strong> dokumentation av utförda arbeten.",
+          "C" : "Eleven utför också <strong>med viss säkerhet</strong> funktions- och säkerhetskontroll, underhåll och enkla servicearbeten på radiologiska utrustningar samt gör en <strong>noggrann</strong> dokumentation av utförda arbeten.",
+          "A" : "Eleven utför också <strong>med säkerhet</strong> funktions- och säkerhetskontroll, underhåll och enkla servicearbeten på radiologiska utrustningar samt gör en <strong>noggrann och utförlig</strong> dokumentation av utförda arbeten."
+        }
+      }, {
+        "text" : "I arbetet utför eleven <strong>________</strong> mätningar och tekniska beräkningar samt gör en <strong>________</strong> bedömning av resultatets rimlighet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet utför eleven <strong>med viss säkerhet</strong> mätningar och tekniska beräkningar samt gör en <strong>enkel</strong> bedömning av resultatets rimlighet.",
+          "C" : "I arbetet utför eleven <strong>med viss säkerhet</strong> mätningar och tekniska beräkningar samt gör en <strong>välgrundad</strong> bedömning av resultatets rimlighet.",
+          "A" : "I arbetet utför eleven <strong>med säkerhet</strong> mätningar och tekniska beräkningar samt gör en <strong>välgrundad och nyanserad</strong> bedömning av resultatets rimlighet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven hanterar <strong>________</strong> utrustningar, mätinstrument och verktyg samt följer normer och säkerhetsbestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar <strong>med viss säkerhet</strong> utrustningar, mätinstrument och verktyg samt följer normer och säkerhetsbestämmelser.",
+          "C" : "Eleven hanterar <strong>med viss säkerhet</strong> utrustningar, mätinstrument och verktyg samt följer normer och säkerhetsbestämmelser.",
+          "A" : "Eleven hanterar <strong>med säkerhet</strong> utrustningar, mätinstrument och verktyg samt följer normer och säkerhetsbestämmelser."
+        }
+      }, {
+        "text" : "Dessutom diskuterar eleven <strong>________</strong> risker vid användningen av radiologiska utrustningar samt hur man kan förebygga skador på person, egendom och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom diskuterar eleven <strong>översiktligt</strong> risker vid användningen av radiologiska utrustningar samt hur man kan förebygga skador på person, egendom och miljö.",
+          "C" : "Dessutom diskuterar eleven <strong>utförligt</strong> risker vid användningen av radiologiska utrustningar samt hur man kan förebygga skador på person, egendom och miljö.",
+          "A" : "Dessutom diskuterar eleven <strong>utförligt och nyanserat</strong> risker vid användningen av radiologiska utrustningar samt hur man kan förebygga skador på person, egendom och miljö."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven anpassar <strong>________</strong> sin kommunikation till användaren och använder <strong>________</strong> radiologiska begrepp för att presentera sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven anpassar <strong>med viss säkerhet</strong> sin kommunikation till användaren och använder <strong>med viss säkerhet</strong> radiologiska begrepp för att presentera sitt arbete.",
+          "C" : "Eleven anpassar <strong>med viss säkerhet</strong> sin kommunikation till användaren och använder <strong>med viss säkerhet</strong> radiologiska begrepp för att presentera sitt arbete.",
+          "A" : "Eleven anpassar <strong>med säkerhet</strong> sin kommunikation till användaren och använder <strong>med säkerhet</strong> radiologiska begrepp för att presentera sitt arbete."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> datorn som verktyg för kommunikation, dokumentation och information inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>med viss säkerhet</strong> datorn som verktyg för kommunikation, dokumentation och information inom området.",
+          "C" : "Dessutom använder eleven <strong>med viss säkerhet</strong> datorn som verktyg för kommunikation, dokumentation och information inom området.",
+          "A" : "Dessutom använder eleven <strong>med säkerhet</strong> datorn som verktyg för kommunikation, dokumentation och information inom området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utvärderar med <strong>________</strong> omdömen sin tekniska lösning utifrån kvalitet, säkerhet och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar med <strong>enkla</strong> omdömen sin tekniska lösning utifrån kvalitet, säkerhet och miljö.",
+          "C" : "Eleven utvärderar med <strong>nyanserade</strong> omdömen sin tekniska lösning utifrån kvalitet, säkerhet och miljö.",
+          "A" : "Eleven utvärderar med <strong>nyanserade</strong> omdömen sin tekniska lösning utifrån kvalitet, säkerhet och miljö <strong>samt ger förslag på hur den tekniska lösningen kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

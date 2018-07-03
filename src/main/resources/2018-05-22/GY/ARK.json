@@ -1,0 +1,221 @@
+{
+  "name" : "Arkitektur",
+  "description" : "Ämnet arkitektur behandlar den byggda miljön, såväl den yttre som den inre. Det är till sin karaktär tvärvetenskapligt, och det är främst kunskaper i teknik och estetik som samverkar. Arkitektur är bundet till plats och samhälleliga förutsättningar och förstås därför bäst i ett socialt och kulturellt sammanhang. Ämnet behandlar grundläggande mänskliga behov i relation till den byggda miljön såväl historiskt som i nutid och för framtiden.",
+  "code" : "ARK",
+  "designation" : "",
+  "skolfsId" : "2010:130",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet arkitektur ska syfta till att eleverna utvecklar kunskaper om den byggda miljön, dess historia och utveckling.", "Den ska ge eleverna möjlighet att utveckla förståelse av hur teknisk utveckling och ideologiska strömningar påverkar den byggda miljön.", "Undervisningen ska också behandla byggnadsprojekt ur en teknisk, estetisk, ekonomisk, social, miljömässig, historisk och etiskt synvinkel.", "Eleverna ska ges möjlighet att utveckla förståelse av hur ett samhälle planeras och förändras för olika målgruppers behov utifrån genus- och rättviseaspekter.", "Genom undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om hållbart samhällsbyggande.", "Undervisningen ska också ge eleverna möjlighet att utveckla förståelse av estetikens betydelse för den byggda miljön." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna, även genom praktiska fallstudier, utvecklar kunskaper om arkitektur.", "Den ska också bidra till att eleverna utvecklar förmåga att förmedla egna förslag med hjälp av kunskapsområdets uttrycksformer." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet arkitektur ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om kulturarvet i den byggda miljön.", "Kunskaper om byggplaneringsprocessen.", "Förmåga att granska förändringsförslag inom byggnads- och samhällsplaneringsområdet.", "Förmåga att utforma förslag inom byggnads-, planerings- och förändringsprojekt med tanke på funktion, ekonomi, estetik, teknik och hållbarhet.", "Förmåga att använda arkitekturens begrepp, uttryckssätt och verktyg för att beskriva, tolka, värdera och analysera den byggda miljön.", "Förmåga att presentera egna förslag." ]
+  } ],
+  "courses" : [ {
+    "name" : "Arkitektur – hus",
+    "description" : "Kursen arkitektur – hus omfattar punkterna 1–6 under rubriken Ämnets syfte.",
+    "code" : "ARKARK0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Arkitektur- och samhällsbyggnadshistoria, både nationellt och internationellt.", "Den omgivande miljön och dess arkitektur.", "Platsens förutsättningar, innefattande även den historiska och estetiska dimensionen, vid planering av nya byggnader.", "Relevanta lagar och andra bestämmelser, planinstrument och handläggningsprocessen för den byggda miljön.", "Ritningar, planer och modeller som används i byggplaneringsprocessen.", "Gestaltning av byggnader.", "Planering, avgränsning, genomförande och redovisning av arkitekturuppgifter.", "Tekniker, verktyg och uttryckssätt för att beskriva och gestalta den byggda miljön och ge förslag till förändringar.", "Digitala ritprogram, till exempel cad (computer aided design).", "Sambanden mellan form, funktion och teknik.", "Byggmaterial och hållbara byggtekniska lösningar samt enkel livscykelanalys." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för hur arkitektur och samhällsbyggande genom tiderna påverkar och har påverkats av sitt sociala och kulturella sammanhang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för hur arkitektur och samhällsbyggande genom tiderna påverkar och har påverkats av sitt sociala och kulturella sammanhang.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för hur arkitektur och samhällsbyggande genom tiderna påverkar och har påverkats av sitt sociala och kulturella sammanhang.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för hur arkitektur och samhällsbyggande genom tiderna påverkar och har påverkats av sitt sociala och kulturella sammanhang."
+        }
+      }, {
+        "text" : "I redogörelsen ger eleven exempel på olika typer av arkitektur genom tiderna och beskriver <strong>________</strong> vad som kännetecknar de olika typerna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I redogörelsen ger eleven exempel på olika typer av arkitektur genom tiderna och beskriver <strong>översiktligt</strong> vad som kännetecknar de olika typerna.",
+          "C" : "I redogörelsen ger eleven exempel på olika typer av arkitektur genom tiderna och beskriver <strong>utförligt</strong> vad som kännetecknar de olika typerna.",
+          "A" : "I redogörelsen ger eleven exempel på olika typer av arkitektur genom tiderna och beskriver <strong>utförligt och nyanserat</strong> vad som kännetecknar de olika typerna."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för byggplaneringsprocessen samt värderar med <strong>________</strong> omdömen förändringsförslag inom byggnads- och samhällsplaneringsområdet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för byggplaneringsprocessen samt värderar med <strong>enkla</strong> omdömen förändringsförslag inom byggnads- och samhällsplaneringsområdet.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för byggplaneringsprocessen samt värderar med <strong>nyanserade</strong> omdömen förändringsförslag inom byggnads- och samhällsplaneringsområdet. <strong>Elevens värdering bygger på en enkel konsekvensanalys</strong>.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för byggplaneringsprocessen samt värderar med <strong>nyanserade</strong> omdömen förändringsförslag inom byggnads- och samhällsplaneringsområdet. <strong>Elevens värdering bygger på en utförlig konsekvensanalys</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar, organiserar och genomför <strong>________</strong> med handledare förslag inom byggnads-, planerings- och förändringsprojekt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar, organiserar och genomför <strong>i samråd</strong> med handledare förslag inom byggnads-, planerings- och förändringsprojekt.",
+          "C" : "Eleven planerar, organiserar och genomför <strong>efter samråd</strong> med handledare förslag inom byggnads-, planerings- och förändringsprojekt.",
+          "A" : "Eleven planerar, organiserar och genomför <strong>efter samråd</strong> med handledare förslag inom byggnads-, planerings- och förändringsprojekt."
+        }
+      }, {
+        "text" : "Under arbetet anpassar eleven <strong>________</strong> med handledare sin process till eventuella nya förutsättningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet anpassar eleven <strong>i samråd</strong> med handledare sin process till eventuella nya förutsättningar.",
+          "C" : "Under arbetet anpassar eleven <strong>efter samråd</strong> med handledare sin process till eventuella nya förutsättningar.",
+          "A" : "Under arbetet anpassar eleven <strong>efter samråd</strong> med handledare sin process till eventuella nya förutsättningar."
+        }
+      }, {
+        "text" : "Resultatet är <strong>________</strong> med tanke på funktion, ekonomi, estetik, teknik och hållbarhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet är <strong>tillfredsställande</strong> med tanke på funktion, ekonomi, estetik, teknik och hållbarhet.",
+          "C" : "Resultatet är <strong>tillfredsställande</strong> med tanke på funktion, ekonomi, estetik, teknik och hållbarhet.",
+          "A" : "Resultatet är <strong>gott</strong> med tanke på funktion, ekonomi, estetik, teknik och hållbarhet."
+        }
+      }, {
+        "text" : "Eleven utvärderar sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven utvärderar sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven utvärderar sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> jämförelse av sitt eget arbete med andras när det gäller funktion, ekonomi, estetik, teknik och hållbarhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> jämförelse av sitt eget arbete med andras när det gäller funktion, ekonomi, estetik, teknik och hållbarhet.",
+          "C" : "Dessutom gör eleven en <strong>välgrundad</strong> jämförelse av sitt eget arbete med andras när det gäller funktion, ekonomi, estetik, teknik och hållbarhet.",
+          "A" : "Dessutom gör eleven en <strong>välgrundad och nyanserad</strong> jämförelse av sitt eget arbete med andras när det gäller funktion, ekonomi, estetik, teknik och hållbarhet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> begrepp, uttryckssätt och verktyg som används inom kunskapsområdet för att åskådliggöra sina tankar och idéer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> begrepp, uttryckssätt och verktyg som används inom kunskapsområdet för att åskådliggöra sina tankar och idéer.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> begrepp, uttryckssätt och verktyg som används inom kunskapsområdet för att åskådliggöra sina tankar och idéer.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> begrepp, uttryckssätt och verktyg som används inom kunskapsområdet för att åskådliggöra sina tankar och idéer."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> olika presentationstekniker, såväl manuella som digitala.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>med viss säkerhet</strong> olika presentationstekniker, såväl manuella som digitala.",
+          "C" : "Dessutom använder eleven <strong>med viss säkerhet</strong> olika presentationstekniker, såväl manuella som digitala. <strong>Eleven motiverar utförligt sina val av presentationstekniker</strong>.",
+          "A" : "Dessutom använder eleven <strong>med säkerhet</strong> olika presentationstekniker, såväl manuella som digitala. <strong>Eleven motiverar utförligt och nyanserat sina val av presentationstekniker</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Arkitektur – rum",
+    "description" : "Kursen arkitektur – rum omfattar punkterna 1–6 under rubriken Ämnets syfte.",
+    "code" : "ARKARI0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Historisk utveckling av inredning och utemiljöer.", "Olika sorters rum, såväl inredningar som utemiljöer.", "Relevanta lagar och andra bestämmelser, planinstrument och handläggningsprocessen för den byggda miljön.", "Ritningar, planer och modeller som används vid rumsgestaltning.", "Gestaltninga av rum, såväl invändiga som utvändiga, i första hand offentliga men även privata.", "Planering, avgränsning, genomförande och redovisning av arkitekturuppgifter.", "Tekniker, verktyg och uttryckssätt för att beskriva och skapa olika typer av rum samt för förslag till förändringar.", "Digitala ritprogram, till exempel cad (computer aided design).", "Sambanden mellan form, funktion och ergonomi.", "Inredningsenheter, till exempel möbler, belysning och växtlighet.", "Material, färg, ljud och ljus." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för hur rumsgestaltning genom tiderna påverkar och har påverkats av sitt sociala och kulturella sammanhang.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för hur rumsgestaltning genom tiderna påverkar och har påverkats av sitt sociala och kulturella sammanhang.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för hur rumsgestaltning genom tiderna påverkar och har påverkats av sitt sociala och kulturella sammanhang.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för hur rumsgestaltning genom tiderna påverkar och har påverkats av sitt sociala och kulturella sammanhang."
+        }
+      }, {
+        "text" : "I redogörelsen ger eleven exempel på olika typer av rum genom tiderna och beskriver <strong>________</strong> vad som kännetecknar de olika typerna.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I redogörelsen ger eleven exempel på olika typer av rum genom tiderna och beskriver <strong>översiktligt</strong> vad som kännetecknar de olika typerna.",
+          "C" : "I redogörelsen ger eleven exempel på olika typer av rum genom tiderna och beskriver <strong>utförligt</strong> vad som kännetecknar de olika typerna.",
+          "A" : "I redogörelsen ger eleven exempel på olika typer av rum genom tiderna och beskriver <strong>utförligt och nyanserat</strong> vad som kännetecknar de olika typerna."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för handläggningsprocessen samt värderar med <strong>________</strong> omdömen förändringsförslag inom rumsgestaltning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för handläggningsprocessen samt värderar med <strong>enkla</strong> omdömen förändringsförslag inom rumsgestaltning.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för handläggningsprocessen samt värderar med <strong>nyanserade</strong> omdömenförändringsförslag inom rumsgestaltning. <strong>Elevens värdering bygger på en enkel konsekvensanalys</strong>.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för handläggningsprocessen samt värderar med <strong>nyanserade</strong> omdömenförändringsförslag inom rumsgestaltning. <strong>Elevens värdering bygger på en utförlig konsekvensanalys</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar, organiserar och genomför <strong>________</strong> med handledare förslag inom byggnads-, planerings- och förändringsprojekt vad gäller rumsgestaltning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar, organiserar och genomför <strong>i samråd</strong> med handledare förslag inom byggnads-, planerings- och förändringsprojekt vad gäller rumsgestaltning.",
+          "C" : "Eleven planerar, organiserar och genomför <strong>efter samråd</strong> med handledareförslag inom byggnads-, planerings- och förändringsprojekt vad gäller rumsgestaltning.",
+          "A" : "Eleven planerar, organiserar och genomför <strong>efter samråd</strong> med handledare förslag inom byggnads-, planerings- och förändringsprojekt vad gäller rumsgestaltning."
+        }
+      }, {
+        "text" : "Under arbetet sammanställer eleven olika inredningsenheter till en helhet samt anpassar <strong>________</strong> med handledare sin process till eventuella nya förutsättningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet sammanställer eleven olika inredningsenheter till en helhet samt anpassar <strong>i samråd</strong> med handledare sin process till eventuella nya förutsättningar.",
+          "C" : "Under arbetet sammanställer eleven olika inredningsenheter till en helhet samt anpassar <strong>efter samråd</strong> med handledare sin process till eventuella nya förutsättningar.",
+          "A" : "Under arbetet sammanställer eleven olika inredningsenheter till en helhet samt anpassar <strong>efter samråd</strong> med handledare sin process till eventuella nya förutsättningar."
+        }
+      }, {
+        "text" : "Resultatet är <strong>________</strong> med tanke på funktion, ekonomi, estetik, teknik och hållbarhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet är <strong>tillfredsställande</strong> med tanke på funktion, ekonomi, estetik, teknik och hållbarhet.",
+          "C" : "Resultatet är <strong>tillfredsställande</strong> med tanke på funktion, ekonomi, estetik, teknik och hållbarhet.",
+          "A" : "Resultatet är <strong>gott</strong> med tanke på funktion, ekonomi, estetik, teknik och hållbarhet."
+        }
+      }, {
+        "text" : "Eleven utvärderar sitt arbete och resultat med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utvärderar sitt arbete och resultat med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven utvärderar sitt arbete och resultat med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven utvärderar sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> jämförelse av sitt eget arbete med andras när det gäller funktion, ekonomi, estetik, teknik och hållbarhet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> jämförelse av sitt eget arbete med andras när det gäller funktion, ekonomi, estetik, teknik och hållbarhet.",
+          "C" : "Dessutom gör eleven en <strong>välgrundad</strong> jämförelse av sitt eget arbete med andras när det gäller funktion, ekonomi, estetik, teknik och hållbarhet.",
+          "A" : "Dessutom gör eleven en <strong>välgrundad</strong> jämförelse av sitt eget arbete med andras när det gäller funktion, ekonomi, estetik, teknik och hållbarhet."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> begrepp, uttryckssätt och verktyg som används inom kunskapsområdet för att åskådliggöra sina tankar och idéer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> begrepp, uttryckssätt och verktyg som används inom kunskapsområdet för att åskådliggöra sina tankar och idéer.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> begrepp, uttryckssätt och verktyg som används inom kunskapsområdet för att åskådliggöra sina tankar och idéer.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> begrepp, uttryckssätt och verktyg som används inom kunskapsområdet för att åskådliggöra sina tankar och idéer."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> olika presentationstekniker, såväl manuella som digitala.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>med viss säkerhet</strong> olika presentationstekniker, såväl manuella som digitala.",
+          "C" : "Dessutom använder eleven <strong>med viss säkerhet</strong> olika presentationstekniker, såväl manuella som digitala. <strong>Eleven motiverar utförligt sina val av presentationstekniker</strong>.",
+          "A" : "Dessutom använder eleven <strong>med säkerhet</strong> olika presentationstekniker, såväl manuella som digitala. <strong>Eleven motiverar utförligt och nyanserat sina val av presentationstekniker</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

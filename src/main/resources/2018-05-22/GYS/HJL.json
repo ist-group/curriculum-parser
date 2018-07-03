@@ -1,0 +1,130 @@
+{
+  "name" : "Hjulutrustningsteknik",
+  "description" : "Ämnet hjulutrustningsteknik behandlar teknik som berör fordons hjulutrustning. Ämnet handlar om underhåll och service av fordons hjulutrustning. I ämnet ingår reparation och byte av däck och fälgar.",
+  "code" : "HJL",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet hjulutrustningsteknik ska syfta till att eleverna utvecklar kunskaper om hjulutrustningsteknik och förmåga att utföra arbetsuppgifter inom området.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om material, produkter och metoder som används inom hjulutrustningsteknik.", "Eleverna ska också ges möjligheter att utveckla kunskaper om broms-, chassi- och karosserikonstruktioners uppbyggnad och funktion.", "I undervisningen ska eleverna ges möjlighet att utveckla förmåga att välja och använda material, verktyg och teknisk utrustning som behövs för att utföra service och underhåll enligt tillverkarens krav.", "Undervisningen ska leda till att eleverna utvecklar förmåga att demontera, montera och justera fordons hjulutrustning." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Vidare ska eleverna ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser inom området.", "Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta utifrån krav på säkerhet, miljö och kvalitet.", "Val av material och produkter har betydelse för fordons funktion, ekonomi och påverkan på miljön." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Praktiskt arbete och ett undersökande och problemlösande arbetssätt ska ingå i undervisningen.", "I undervisningen ska eleverna ges möjlighet att reflektera över och samtala om hjulutrustningens betydelse för trafiksäkerheten.", "Undervisningen ska också ge eleverna möjlighet att samtala om betydelsen av att möta kunder på ett serviceinriktat sätt." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet hjulutrustningsteknik ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om material, produkter och metoder som används inom hjulutrustningsteknik.", "Förmåga att välja och använda metoder, verktyg och utrustning inom hjulutrustningsteknik.", "Förmåga att utföra arbetsuppgifter i samband med service och underhåll av hjulutrustning på ett ergonomiskt och säkert sätt och med hänsyn till miljön." ]
+  } ],
+  "courses" : [ {
+    "name" : "Hjulutrustningsteknik 1",
+    "description" : "Kursen hjulutrustningsteknik 1 omfattar punkterna 1–3 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "HJLHJU51",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Broms-, chassi- och karosserikonstruktioners uppbyggnad och funktion.", "Hjulutrustningens betydelse för trafiksäkerheten.", "Däckets uppbyggnad, material och hur däck tillverkas. Märkning av däck.", "Verktyg och annan teknisk utrustning som används inom hjulutrustningsteknik.", "Standardundersökning av däckslitage.", "Pumpning av däck. Lufttryckets betydelse för köregenskaper, miljö och säkerhet.", "Fälgar och deras betydelse för hjulinställning och trafiksäkerhet.", "Felsökning av däck, fälgar, bromsar och hjulupphängning.", "Bedömning av däckskador och fälgskador.", "Demontering och montering av hjul och däck.", "Balansering av hjul.", "Skötsel och underhåll av verktyg och annan teknisk utrustning.", "Arbetsmiljö och säkerhet, till exempel kemiska risker, skyddsutrustning och första hjälpen.", "Lagar och andra bestämmelser, till exempel bestämmelser om användning av vinterdäck samt sortering och återvinning av material." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva material, produkter och metoder som används inom hjulutrustningsteknik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva material, produkter och metoder som används inom hjulutrustningsteknik.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> material, produkter och metoder som används inom hjulutrustningsteknik.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> material, produkter och metoder som används inom hjulutrustningsteknik."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att välja och använda metoder, verktyg och utrustning inom hjulutrustningsteknik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att välja och använda metoder, verktyg och utrustning inom hjulutrustningsteknik.",
+          "C" : "Eleven väljer och använder också metoder, verktyg och utrustning inom hjulutrustningsteknik <strong>på ett delvis ändamålsenligt sätt</strong>.",
+          "A" : "Eleven väljer och använder också metoder, verktyg och utrustning inom hjulutrustningsteknik <strong>på ett ändamålsenligt sätt</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att utföra arbetsmoment i samband med service och underhåll av hjulutrustning på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att utföra arbetsmoment i samband med service och underhåll av hjulutrustning på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "C" : "Eleven utför också <strong>med viss säkerhet</strong> arbetsmoment i samband med service och underhåll av hjulutrustning på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "A" : "Eleven utför också <strong>med säkerhet</strong> arbetsmoment i samband med service och underhåll av hjulutrustning på ett ergonomiskt och säkert sätt samt med hänsyn till miljön."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Hjulutrustningsteknik 2",
+    "description" : "Kursen hjulutrustningsteknik 2 omfattar punkterna 1–3 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "HJLHJU52",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Broms-, chassi- och karosserikonstruktioners uppbyggnad och funktion.", "Hjulutrustningens betydelse för trafiksäkerheten.", "Däckets uppbyggnad, material och hur däck tillverkas. Gummiblandningens betydelse för slitage, väggrepp, friktion och användningsområde, till exempel vinter-, sommar- och friktionsdäck.", "Däcktyper, säkerhet och komfort. Runflat-däck, användning och funktion.", "Däckslitage och faktorer som påverkar hållbarheten, till exempel fel i hjulupphängning och bromsar.", "Fälgar och deras betydelse för hjulinställning och trafiksäkerhet.", "Demontering och montering av hjul och däck.", "Felsökning av däck, fälgar, bromsar, hjulupphängning.", "Bedömning av däckskador och fälgskador.", "Reparation av skador på däck.", "Balansering av hjul.", "Verktyg och annan teknisk utrustning som används inom hjulutrustningsteknik.", "Skötsel och underhåll av verktyg och annan teknisk utrustning.", "Arbetsmiljö och säkerhet, till exempel kemiska risker, skyddsutrustning och första hjälpen.", "Lagar och andra bestämmelser, till exempel bestämmelser om användning av vinterdäck samt sortering och återvinning av material." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva material, produkter och metoder som används inom hjulutrustningsteknik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva material, produkter och metoder som används inom hjulutrustningsteknik.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> material, produkter och metoder som används inom hjulutrustningsteknik.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> material, produkter och metoder som används inom hjulutrustningsteknik."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att välja och använda metoder, verktyg och utrustning inom hjulutrustningsteknik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att välja och använda metoder, verktyg och utrustning inom hjulutrustningsteknik.",
+          "C" : "Eleven väljer och använder också metoder, verktyg och utrustning inom hjulutrustningsteknik <strong>på ett delvis ändamålsenligt sätt</strong>.",
+          "A" : "Eleven väljer och använder också metoder, verktyg och utrustning inom hjulutrustningsteknik <strong>på ett ändamålsenligt sätt</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att utföra arbetsmoment i samband med service och underhåll av hjulutrustning på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att utföra arbetsmoment i samband med service och underhåll av hjulutrustning på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "C" : "Eleven utför också <strong>med viss säkerhet</strong> arbetsmoment i samband med service och underhåll av hjulutrustning på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "A" : "Eleven utför också <strong>med säkerhet</strong> arbetsmoment i samband med service och underhåll av hjulutrustning på ett ergonomiskt och säkert sätt samt med hänsyn till miljön."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Hjulutrustningsteknik 3",
+    "description" : "Kursen hjulutrustningsteknik 3 omfattar punkterna 1–3 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "HJLHJU53",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Fördjupning inom något eller några områden inom ämnets kunskapsområden.", "Material och verkstadsutrustning inom kunskapsområdet.", "Arbetsmiljö och säkerhet.", "Lagar och andra bestämmelser inom kunskapsområdet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva material, produkter och metoder som används inom kunskapsområdet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva material, produkter och metoder som används inom kunskapsområdet.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> material, produkter och metoder som används inom kunskapsområdet.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> material, produkter och metoder som används inom kunskapsområdet."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att välja och använda metoder, verktyg och utrustning inom kunskapsområdet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att välja och använda metoder, verktyg och utrustning inom kunskapsområdet.",
+          "C" : "Eleven väljer och använder också metoder, verktyg och utrustning inom kunskapsområdet <strong>på ett delvis ändamålsenligt sätt</strong>.",
+          "A" : "Eleven väljer och använder också metoder, verktyg och utrustning inom kunskapsområdet <strong>på ett ändamålsenligt sätt</strong>."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att utföra arbetsmoment i samband med service och underhåll inom kunskapsområdet på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att utföra arbetsmoment i samband med service och underhåll inom kunskapsområdet på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "C" : "Eleven utför också <strong>med viss säkerhet</strong> arbetsmoment i samband med service och underhåll inom kunskapsområdet på ett ergonomiskt och säkert sätt samt med hänsyn till miljön.",
+          "A" : "Eleven utför också <strong>med säkerhet</strong> arbetsmoment i samband med service och underhåll inom kunskapsområdet på ett ergonomiskt och säkert sätt samt med hänsyn till miljön."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

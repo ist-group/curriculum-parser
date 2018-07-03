@@ -1,0 +1,683 @@
+{
+  "name" : "Konsthantverk",
+  "description" : "Ämnet konsthantverk behandlar hantverkstekniker och material ur både estetiska och funktionella aspekter. Det behandlar också reflektioner kring kvalitet, arbetsprocess och resultat.",
+  "code" : "KOH",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet konsthantverk ska syfta till att eleverna utvecklar färdigheter i hantverksmässigt arbete och förmåga att utföra konstnärligt arbete i olika material.", "Den ska ge eleverna möjlighet att utveckla förståelse av sambandet mellan funktionell och konstnärlig utformning samt av samspelet mellan material, form, funktion och färg." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska stimulera eleverna till att utveckla initiativförmåga, idérikedom, noggrannhet, självständighet, personligt ansvarstagande, samarbetsförmåga, egen drivkraft och skaparglädje.", "Eleverna ska ges möjlighet att utveckla ett kreativt tänkande, känsla för form och ett estetiskt förhållningssätt i mötet med olika material och arbetsuppgifter.", "Därför ska undervisningen bidra till att eleverna utvecklar såväl kunskaper om färg och form som färdigheter i formgivning." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att utveckla sin förmåga att bedöma relationen mellan egna föreställningar och vilka möjligheter materialet ger i arbetet.", "Dessutom ska undervisningen leda till att eleverna utvecklar förmågan att reflektera över arbetsprocessen och resultatets kvalitet." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att utveckla och tillämpa kunskaper om ergonomi, arbetsmiljö och säkerhet samt om miljöpåverkan och resurshantering." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper om den historiska utvecklingen inom olika hantverksområden." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet konsthantverk ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om materialens och hantverkens historiska utveckling samt deras betydelse för människans utveckling.", "Färdigheter i att utföra hantverksmässigt arbete i olika material.", "Färdigheter i att använda verktyg och bearbetningsmetoder.", "Kunskaper om färg- och formlära samt färdigheter i att använda dem under skapandeprocessen.", "Kunskaper om materialens bearbetningsmetoder och användningsområden.", "Förmåga att reflektera kring materialkvalitet i relation till de olika arbetsuppgifterna.", "Förmåga att utvärdera och analysera arbetsprocess och resultat.", "Färdigheter i att arbeta ergonomiskt och med hänsyn till miljö, arbetsmiljö och säkerhet." ]
+  } ],
+  "courses" : [ {
+    "name" : "Konsthantverk 1",
+    "description" : "Kursen konsthantverk 1 omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper.",
+    "code" : "KOHHAN01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Hantverkets och materialets historia och betydelse i kulturutvecklingen.", "Konstnärligt och hantverksmässigt arbete i ett eller flera valda material, till exempel trä, textil, metall, lera eller papper.", "Bearbetningsmetoder, användningsområden och verktyg.", "Formgivningsprocessen och formgivningens uttrycksmöjligheter, till exempel färg, form och material.", "Färg- och formlära.", "Värdering av formgivning i relation till intentioner.", "De valda materialens egenskaper.", "Utvärdering av arbetsprocessen och resultatet.", "Ergonomiskt, säkert och arbetsmiljömässigt arbetssätt och användande av eventuell skyddsutrustning.", "Påverkan på människor och miljö vid användning, framställning och hantering av material." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> det valda hantverkets och materialets historia.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> det valda hantverkets och materialets historia.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> det valda hantverkets och materialets historia.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> det valda hantverkets och materialets historia."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tolkar arbetsuppgifter <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tolkar arbetsuppgifter <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven tolkar arbetsuppgifter <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven tolkar arbetsuppgifter <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> med handledare och <strong>________</strong> etablerade tillvägagångssätt för att forma materialet efter intentionen och uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>i samråd</strong> med handledare och <strong>med viss säkerhet</strong> etablerade tillvägagångssätt för att forma materialet efter intentionen och uppgiften.",
+          "C" : "Eleven använder <strong>efter samråd</strong> med handledare och <strong>med viss säkerhet</strong> etablerade tillvägagångssätt för att forma materialet efter intentionen och uppgiften.",
+          "A" : "Eleven använder <strong>efter samråd</strong> med handledare och <strong>med säkerhet</strong> etablerade tillvägagångssätt för att forma materialet efter intentionen och uppgiften."
+        }
+      }, {
+        "text" : "I arbetet hanterar eleven verktyg och metoder med <strong>________</strong> handlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet hanterar eleven verktyg och metoder med <strong>visst</strong> handlag.",
+          "C" : "I arbetet hanterar eleven verktyg och metoder med <strong>gott</strong> handlag.",
+          "A" : "I arbetet hanterar eleven verktyg och metoder med <strong>mycket gott</strong> handlag."
+        }
+      }, {
+        "text" : "Eleven uppnår resultat <strong>________</strong> teknisk och estetisk kvalitet <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven uppnår resultat <strong>med en</strong> teknisk och estetisk kvalitet <strong>som går att använda i det avsedda sammanhanget</strong>.",
+          "C" : "Eleven uppnår resultat <strong>med en</strong> teknisk och estetisk kvalitet <strong>som fungerar väl i det avsedda sammanhanget</strong>.",
+          "A" : "Eleven uppnår resultat <strong>som uppfyller höga krav på</strong> teknisk och estetisk kvalitet."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker och löser eleven <strong>________</strong> med handledare eventuella problem som uppkommer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker och löser eleven <strong>i samråd</strong> med handledare eventuella problem som uppkommer.",
+          "C" : "Under arbetet upptäcker och löser eleven <strong>efter samråd</strong> med handledare eventuella problem som uppkommer.",
+          "A" : "Under arbetet upptäcker och löser eleven <strong>efter samråd</strong> med handledare eventuella problem som uppkommer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven motiverar <strong>________</strong> sina val av tillvägagångssätt och kommunicerar i sitt arbete kring idéer och estetisk utformning med hjälp av <strong>________</strong> skisser eller ritningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven motiverar <strong>översiktligt</strong> sina val av tillvägagångssätt och kommunicerar i sitt arbete kring idéer och estetisk utformning med hjälp av <strong>enkla</strong> skisser eller ritningar.",
+          "C" : "Eleven motiverar <strong>utförligt</strong> sina val av tillvägagångssätt och kommunicerar i sitt arbete kring idéer och estetisk utformning med hjälp av <strong>genomarbetade</strong> skisser eller ritningar.",
+          "A" : "Eleven motiverar <strong>utförligt och nyanserat</strong> sina val av tillvägagångssätt och kommunicerar i sitt arbete kring idéer och estetisk utformning med hjälp av <strong>genomarbetade</strong> skisser eller ritningar."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hur materialens egenskaper utnyttjas i arbetet och hur det estetiska uttrycket påverkas av olika material.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hur materialens egenskaper utnyttjas i arbetet och hur det estetiska uttrycket påverkas av olika material.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hur materialens egenskaper kan utnyttjas i arbetet och hur det estetiska uttrycket påverkas av olika material.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur materialens egenskaper kan utnyttjas i arbetet och hur det estetiska uttrycket påverkas av olika material."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> sin formgivnings- och arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> sin formgivnings- och arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> sin formgivnings- och arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> sin formgivnings- och arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>nyanserade</strong> omdömen."
+        }
+      }, {
+        "text" : "Beskrivningen innehåller <strong>________</strong> förslag på alternativa lösningar eller förbättringar av arbetsprocessen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Beskrivningen innehåller <strong>enkla</strong> förslag på alternativa lösningar eller förbättringar av arbetsprocessen.",
+          "C" : "Beskrivningen innehåller <strong>välgrundade</strong> förslag på alternativa lösningar eller förbättringar av arbetsprocessen.",
+          "A" : "Beskrivningen innehåller <strong>välgrundade och nyanserade</strong> förslag på alternativa lösningar eller förbättringar av arbetsprocessen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder och vårdar <strong>________</strong> med handledare maskiner och verktyg på ett arbetsmiljömässigt säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder och vårdar <strong>i samråd</strong> med handledare maskiner och verktyg på ett arbetsmiljömässigt säkert sätt.",
+          "C" : "Eleven använder och vårdar <strong>efter samråd</strong> med handledare maskiner och verktyg på ett arbetsmiljömässigt säkert sätt.",
+          "A" : "Eleven använder och vårdar <strong>efter samråd</strong> med handledare maskiner och verktyg på ett arbetsmiljömässigt säkert sätt."
+        }
+      }, {
+        "text" : "Dessutom hanterar eleven <strong>________</strong> med handledare material med tanke på deras miljöpåverkan.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom hanterar eleven <strong>i samråd</strong> med handledare material med tanke på deras miljöpåverkan.",
+          "C" : "Dessutom hanterar eleven <strong>efter samråd</strong> med handledare material med tanke på deras miljöpåverkan.",
+          "A" : "Dessutom hanterar eleven <strong>efter samråd</strong> med handledare material med tanke på deras miljöpåverkan."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder eventuell skyddsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder eventuell skyddsutrustning.",
+          "C" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder eventuell skyddsutrustning.",
+          "A" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder eventuell skyddsutrustning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Konsthantverk 2",
+    "description" : "Kursen konsthantverk 2 omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas utökade grundkunskaper.",
+    "code" : "KOHHAN02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Hantverkets och materialets historia och betydelse i kulturutvecklingen.", "Konstnärligt och hantverksmässigt arbete i ett eller flera valda material, till exempel trä, textil, metall, lera eller papper.", "Bearbetningsmetoder, användningsområden och verktyg.", "Formgivningsprocessen och formgivningens uttrycksmöjligheter, till exempel färg, form och material.", "Färg- och formlära.", "Värdering av formgivning i relation till intentioner.", "De valda materialens egenskaper.", "Utvärdering av arbetsprocessen och resultatet.", "Ergonomiskt, säkert och arbetsmiljömässigt arbetssätt och användande av eventuell skyddsutrustning.", "Påverkan på människor och miljö vid användning, framställning och hantering av material." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> det valda hantverkets och materialets historia.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> det valda hantverkets och materialets historia.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> det valda hantverkets och materialets historia.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> det valda hantverkets och materialets historia."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tolkar arbetsuppgifter <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tolkar arbetsuppgifter <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven tolkar arbetsuppgifter <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven tolkar arbetsuppgifter <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> med handledare och <strong>________</strong> etablerade tillvägagångssätt för att forma materialet efter intentionen och uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>i samråd</strong> med handledare och <strong>med viss säkerhet</strong> etablerade tillvägagångssätt för att forma materialet efter intentionen och uppgiften.",
+          "C" : "Eleven använder <strong>efter samråd</strong> med handledare och <strong>med viss säkerhet</strong> etablerade tillvägagångssätt för att forma materialet efter intentionen och uppgiften.",
+          "A" : "Eleven använder <strong>efter samråd</strong> med handledare och <strong>med säkerhet</strong> etablerade tillvägagångssätt för att forma materialet efter intentionen och uppgiften."
+        }
+      }, {
+        "text" : "I arbetet hanterar eleven verktyg och metoder med <strong>________</strong> handlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet hanterar eleven verktyg och metoder med <strong>visst</strong> handlag.",
+          "C" : "I arbetet hanterar eleven verktyg och metoder med <strong>gott</strong> handlag.",
+          "A" : "I arbetet hanterar eleven verktyg och metoder med <strong>mycket gott</strong> handlag."
+        }
+      }, {
+        "text" : "Eleven uppnår resultat <strong>________</strong> teknisk och estetisk kvalitet <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven uppnår resultat <strong>med en</strong> teknisk och estetisk kvalitet <strong>som går att använda i det avsedda sammanhanget</strong>.",
+          "C" : "Eleven uppnår resultat <strong>med en</strong> teknisk och estetisk kvalitet <strong>som fungerar väl i det avsedda sammanhanget</strong>.",
+          "A" : "Eleven uppnår resultat <strong>som uppfyller höga krav på</strong> teknisk och estetisk kvalitet."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker och löser eleven <strong>________</strong> med handledare eventuella problem som uppkommer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker och löser eleven <strong>i samråd</strong> med handledare eventuella problem som uppkommer.",
+          "C" : "Under arbetet upptäcker och löser eleven <strong>efter samråd</strong> med handledare eventuella problem som uppkommer.",
+          "A" : "Under arbetet upptäcker och löser eleven <strong>efter samråd</strong> med handledare eventuella problem som uppkommer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven motiverar <strong>________</strong> sina val av tillvägagångssätt och kommunicerar i sitt arbete kring idéer och estetisk utformning med hjälp av <strong>________</strong> skisser eller ritningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven motiverar <strong>översiktligt</strong> sina val av tillvägagångssätt och kommunicerar i sitt arbete kring idéer och estetisk utformning med hjälp av <strong>enkla</strong> skisser eller ritningar.",
+          "C" : "Eleven motiverar <strong>utförligt</strong> sina val av tillvägagångssätt och kommunicerar i sitt arbete kring idéer och estetisk utformning med hjälp av <strong>genomarbetade</strong> skisser eller ritningar.",
+          "A" : "Eleven motiverar <strong>utförligt och nyanserat</strong> sina val av tillvägagångssätt och kommunicerar i sitt arbete kring idéer och estetisk utformning med hjälp av <strong>genomarbetade</strong> skisser eller ritningar."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hur materialens egenskaper kan utnyttjas i arbetet och hur det estetiska uttrycket påverkas av olika material.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hur materialens egenskaper kan utnyttjas i arbetet och hur det estetiska uttrycket påverkas av olika material.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hur materialens egenskaper kan utnyttjas i arbetet och hur det estetiska uttrycket påverkas av olika material.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur materialens egenskaper kan utnyttjas i arbetet och hur det estetiska uttrycket påverkas av olika material."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> sin formgivnings- och arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> sin formgivnings- och arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> sin formgivnings- och arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> sin formgivnings- och arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>nyanserade</strong> omdömen."
+        }
+      }, {
+        "text" : "Beskrivningen innehåller <strong>________</strong> förslag på alternativa lösningar eller förbättringar av arbetsprocessen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Beskrivningen innehåller <strong>enkla</strong> förslag på alternativa lösningar eller förbättringar av arbetsprocessen.",
+          "C" : "Beskrivningen innehåller <strong>välgrundade</strong> förslag på alternativa lösningar eller förbättringar av arbetsprocessen.",
+          "A" : "Beskrivningen innehåller <strong>välgrundade och nyanserade</strong> förslag på alternativa lösningar eller förbättringar av arbetsprocessen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder och vårdar <strong>________</strong> med handledare maskiner och verktyg på ett arbetsmiljömässigt säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder och vårdar <strong>i samråd</strong> med handledare maskiner och verktyg på ett arbetsmiljömässigt säkert sätt.",
+          "C" : "Eleven använder och vårdar <strong>efter samråd</strong> med handledare maskiner och verktyg på ett arbetsmiljömässigt säkert sätt.",
+          "A" : "Eleven använder och vårdar <strong>efter samråd</strong> med handledare maskiner och verktyg på ett arbetsmiljömässigt säkert sätt."
+        }
+      }, {
+        "text" : "Dessutom hanterar eleven <strong>________</strong> med handledare material med tanke på deras miljöpåverkan.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom hanterar eleven <strong>i samråd</strong> med handledare material med tanke på deras miljöpåverkan.",
+          "C" : "Dessutom hanterar eleven <strong>efter samråd</strong> med handledare material med tanke på deras miljöpåverkan.",
+          "A" : "Dessutom hanterar eleven <strong>efter samråd</strong> med handledare material med tanke på deras miljöpåverkan."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder eventuell skyddsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder eventuell skyddsutrustning.",
+          "C" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder eventuell skyddsutrustning.",
+          "A" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder eventuell skyddsutrustning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Konsthantverk 3",
+    "description" : "Kursen konsthantverk 3 omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 2–5 och punkt 7. I kursen behandlas fördjupade kunskaper.",
+    "code" : "KOHHAN03",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Hantverkets och materialets historia och betydelse i kulturutvecklingen.", "Konstnärligt och hantverksmässigt arbete i ett eller flera valda material, till exempel trä, textil, metall, lera eller papper.", "Kombinerade bearbetningsmetoder, användningsområden och verktyg.", "Konstnärligt arbete som källa till personligt uttryck och utveckling.", "Formgivningsprocessen samt formgivningens språk och uttrycksmöjligheter, till exempel färg, form och material.", "Färg- och formlära.", "Värdering av formgivning i relation till intentioner.", "De valda materialens egenskaper.", "Utvärdering av arbetsprocessen och resultatet.", "Ergonomiskt, säkert och arbetsmiljömässigt arbetssätt och användande av eventuell skyddsutrustning.", "Påverkan på människor och miljö vid användning, framställning och hantering av material." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> det valda hantverkets och materialets historia.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> det valda hantverkets och materialets historia.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> det valda hantverkets och materialets historia.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> det valda hantverkets och materialets historia."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tolkar arbetsuppgifter <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tolkar arbetsuppgifter <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven tolkar arbetsuppgifter <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven tolkar arbetsuppgifter <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> med handledare och <strong>________</strong> etablerade tillvägagångssätt för att forma materialet efter intentionen och uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>i samråd</strong> med handledare och <strong>med viss säkerhet</strong> etablerade tillvägagångssätt för att forma materialet efter intentionen och uppgiften.",
+          "C" : "Eleven använder <strong>efter samråd</strong> med handledare och <strong>med viss säkerhet</strong> etablerade tillvägagångssätt för att forma materialet efter intentionen och uppgiften.",
+          "A" : "Eleven använder <strong>efter samråd</strong> med handledare och <strong>med säkerhet</strong> etablerade tillvägagångssätt för att forma materialet efter intentionen och uppgiften."
+        }
+      }, {
+        "text" : "I arbetet hanterar eleven verktyg och metoder med <strong>________</strong> handlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet hanterar eleven verktyg och metoder med <strong>visst</strong> handlag.",
+          "C" : "I arbetet hanterar eleven verktyg och metoder med <strong>gott</strong> handlag.",
+          "A" : "I arbetet hanterar eleven verktyg och metoder med <strong>mycket gott</strong> handlag."
+        }
+      }, {
+        "text" : "Eleven uppnår resultat <strong>________</strong> teknisk och estetisk kvalitet <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven uppnår resultat <strong>med en</strong> teknisk och estetisk kvalitet <strong>som går att använda i det avsedda sammanhanget</strong>.",
+          "C" : "Eleven uppnår resultat <strong>med en</strong> teknisk och estetisk kvalitet <strong>som fungerar väl i det avsedda sammanhanget</strong>.",
+          "A" : "Eleven uppnår resultat <strong>som uppfyller höga krav på</strong> teknisk och estetisk kvalitet."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker och löser eleven <strong>________</strong> med handledare eventuella problem som uppkommer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker och löser eleven <strong>i samråd</strong> med handledare eventuella problem som uppkommer.",
+          "C" : "Under arbetet upptäcker och löser eleven <strong>efter samråd</strong> med handledare eventuella problem som uppkommer.",
+          "A" : "Under arbetet upptäcker och löser eleven <strong>efter samråd</strong> med handledare eventuella problem som uppkommer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven motiverar <strong>________</strong> sina val av tillvägagångssätt och kommunicerar i sitt arbete kring idéer och estetisk utformning med hjälp av <strong>________</strong> skisser eller ritningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven motiverar <strong>översiktligt</strong> sina val av tillvägagångssätt och kommunicerar i sitt arbete kring idéer och estetisk utformning med hjälp av <strong>enkla</strong> skisser eller ritningar.",
+          "C" : "Eleven motiverar <strong>utförligt</strong> sina val av tillvägagångssätt och kommunicerar i sitt arbete kring idéer och estetisk utformning med hjälp av <strong>genomarbetade</strong> skisser eller ritningar.",
+          "A" : "Eleven motiverar <strong>utförligt och nyanserat</strong> sina val av tillvägagångssätt och kommunicerar i sitt arbete kring idéer och estetisk utformning med hjälp av <strong>genomarbetade</strong> skisser eller ritningar."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hur materialens egenskaper kan utnyttjas i arbetet och hur det estetiska uttrycket påverkas av olika material.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hur materialens egenskaper kan utnyttjas i arbetet och hur det estetiska uttrycket påverkas av olika material.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hur materialens egenskaper kan utnyttjas i arbetet och hur det estetiska uttrycket påverkas av olika material.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur materialens egenskaper kan utnyttjas i arbetet och hur det estetiska uttrycket påverkas av olika material."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> sin formgivnings- och arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> sin formgivnings- och arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> sin formgivnings- och arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> sin formgivnings- och arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>nyanserade</strong> omdömen."
+        }
+      }, {
+        "text" : "Beskrivningen innehåller <strong>________</strong> förslag på alternativa lösningar eller förbättringar av arbetsprocessen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Beskrivningen innehåller <strong>enkla</strong> förslag på alternativa lösningar eller förbättringar av arbetsprocessen.",
+          "C" : "Beskrivningen innehåller <strong>välgrundade</strong> förslag på alternativa lösningar eller förbättringar av arbetsprocessen.",
+          "A" : "Beskrivningen innehåller <strong>välgrundade och nyanserade</strong> förslag på alternativa lösningar eller förbättringar av arbetsprocessen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder och vårdar <strong>________</strong> med handledare maskiner och verktyg på ett arbetsmiljömässigt säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder och vårdar <strong>i samråd</strong> med handledare maskiner och verktyg på ett arbetsmiljömässigt säkert sätt.",
+          "C" : "Eleven använder och vårdar <strong>efter samråd</strong> med handledare maskiner och verktyg på ett arbetsmiljömässigt säkert sätt.",
+          "A" : "Eleven använder och vårdar <strong>efter samråd</strong> med handledare maskiner och verktyg på ett arbetsmiljömässigt säkert sätt."
+        }
+      }, {
+        "text" : "Dessutom hanterar eleven <strong>________</strong> med handledare material med tanke på deras miljöpåverkan.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom hanterar eleven <strong>i samråd</strong> med handledare material med tanke på deras miljöpåverkan.",
+          "C" : "Dessutom hanterar eleven <strong>efter samråd</strong> med handledare material med tanke på deras miljöpåverkan.",
+          "A" : "Dessutom hanterar eleven <strong>efter samråd</strong> med handledare material med tanke på deras miljöpåverkan."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder eventuell skyddsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder eventuell skyddsutrustning.",
+          "C" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder eventuell skyddsutrustning.",
+          "A" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder eventuell skyddsutrustning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Konsthantverk 4",
+    "description" : "Kursen konsthantverk 4 omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 2–5 och punkt 7. I kursen behandlas utökade fördjupade kunskaper.",
+    "code" : "KOHHAN04",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Hantverkets och materialets historia och betydelse i kulturutvecklingen.", "Konstnärligt och hantverksmässigt arbete i ett eller flera valda material, till exempel trä, textil, metall, lera eller papper.", "Konstruktionsritning och skisstekniker.", "Komplexa bearbetningsmetoder, användningsområden och verktyg.", "Konstnärligt arbete som källa till personligt uttryck och utveckling.", "Formgivningsprocessen samt formgivningens språk och uttrycksmöjligheter, till exempel färg, form och material.", "Värdering av formgivning i relation till intentioner.", "De valda materialens egenskaper.", "Utvärdering av arbetsprocessen och resultatet.", "Ergonomiskt, säkert och arbetsmiljömässigt arbetssätt och användande av eventuell skyddsutrustning.", "Påverkan på människor och miljö vid användning, framställning och hantering av material." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> det valda hantverkets och materialets historia.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> det valda hantverkets och materialets historia.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> det valda hantverkets och materialets historia.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> det valda hantverkets och materialets historia."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tolkar arbetsuppgifter <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tolkar arbetsuppgifter <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven tolkar arbetsuppgifter <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven tolkar arbetsuppgifter <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> med handledare och <strong>________</strong> etablerade tillvägagångssätt för att forma materialet efter intentionen och uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>i samråd</strong> med handledare och <strong>med viss säkerhet</strong> etablerade tillvägagångssätt för att forma materialet efter intentionen och uppgiften.",
+          "C" : "Eleven använder <strong>efter samråd</strong> med handledare och <strong>med viss säkerhet</strong> etablerade tillvägagångssätt för att forma materialet efter intentionen och uppgiften.",
+          "A" : "Eleven använder <strong>efter samråd</strong> med handledare och <strong>med säkerhet</strong> etablerade tillvägagångssätt för att forma materialet efter intentionen och uppgiften."
+        }
+      }, {
+        "text" : "I arbetet hanterar eleven verktyg och metoder med <strong>________</strong> handlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet hanterar eleven verktyg och metoder med <strong>visst</strong> handlag.",
+          "C" : "I arbetet hanterar eleven verktyg och metoder med <strong>gott</strong> handlag.",
+          "A" : "I arbetet hanterar eleven verktyg och metoder med <strong>mycket gott</strong> handlag."
+        }
+      }, {
+        "text" : "Eleven uppnår resultat <strong>________</strong> teknisk och estetisk kvalitet <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven uppnår resultat <strong>med en</strong> teknisk och estetisk kvalitet <strong>som går att använda i det avsedda sammanhanget</strong>.",
+          "C" : "Eleven uppnår resultat <strong>med en</strong> teknisk och estetisk kvalitet <strong>som fungerar väl i det avsedda sammanhanget</strong>.",
+          "A" : "Eleven uppnår resultat <strong>som uppfyller höga krav på</strong> teknisk och estetisk kvalitet."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker och löser eleven <strong>________</strong> med handledare eventuella problem som uppkommer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker och löser eleven <strong>i samråd</strong> med handledare eventuella problem som uppkommer.",
+          "C" : "Under arbetet upptäcker och löser eleven <strong>efter samråd</strong> med handledare eventuella problem som uppkommer.",
+          "A" : "Under arbetet upptäcker och löser eleven <strong>efter samråd</strong> med handledare eventuella problem som uppkommer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven motiverar <strong>________</strong> sina val av tillvägagångssätt och kommunicerar i sitt arbete kring idéer och estetisk utformning med hjälp av <strong>________</strong> skisser eller ritningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven motiverar <strong>översiktligt</strong> sina val av tillvägagångssätt och kommunicerar i sitt arbete kring idéer och estetisk utformning med hjälp av <strong>enkla</strong> skisser eller ritningar.",
+          "C" : "Eleven motiverar <strong>utförligt</strong> sina val av tillvägagångssätt och kommunicerar i sitt arbete kring idéer och estetisk utformning med hjälp av <strong>genomarbetade</strong> skisser eller ritningar.",
+          "A" : "Eleven motiverar <strong>utförligt och nyanserat</strong> sina val av tillvägagångssätt och kommunicerar i sitt arbete kring idéer och estetisk utformning med hjälp av <strong>genomarbetade</strong> skisser eller ritningar."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hur materialens egenskaper kan utnyttjas i arbetet och hur det estetiska uttrycket påverkas av olika material.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hur materialens egenskaper kan utnyttjas i arbetet och hur det estetiska uttrycket påverkas av olika material.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hur materialens egenskaper kan utnyttjas i arbetet och hur det estetiska uttrycket påverkas av olika material.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur materialens egenskaper kan utnyttjas i arbetet och hur det estetiska uttrycket påverkas av olika material."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> sin formgivnings- och arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> sin formgivnings- och arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> sin formgivnings- och arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> sin formgivnings- och arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>nyanserade</strong> omdömen."
+        }
+      }, {
+        "text" : "Beskrivningen innehåller <strong>________</strong> förslag på alternativa lösningar eller förbättringar av arbetsprocessen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Beskrivningen innehåller <strong>enkla</strong> förslag på alternativa lösningar eller förbättringar av arbetsprocessen.",
+          "C" : "Beskrivningen innehåller <strong>välgrundade</strong> förslag på alternativa lösningar eller förbättringar av arbetsprocessen.",
+          "A" : "Beskrivningen innehåller <strong>välgrundade och nyanserade</strong> förslag på alternativa lösningar eller förbättringar av arbetsprocessen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder och vårdar <strong>________</strong> med handledare maskiner och verktyg på ett arbetsmiljömässigt säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder och vårdar <strong>i samråd</strong> med handledare maskiner och verktyg på ett arbetsmiljömässigt säkert sätt.",
+          "C" : "Eleven använder och vårdar <strong>efter samråd</strong> med handledare maskiner och verktyg på ett arbetsmiljömässigt säkert sätt.",
+          "A" : "Eleven använder och vårdar <strong>efter samråd</strong> med handledare maskiner och verktyg på ett arbetsmiljömässigt säkert sätt."
+        }
+      }, {
+        "text" : "Dessutom hanterar eleven <strong>________</strong> med handledare material med tanke på deras miljöpåverkan.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom hanterar eleven <strong>i samråd</strong> med handledare material med tanke på deras miljöpåverkan.",
+          "C" : "Dessutom hanterar eleven <strong>efter samråd</strong> med handledare material med tanke på deras miljöpåverkan.",
+          "A" : "Dessutom hanterar eleven <strong>efter samråd</strong> med handledare material med tanke på deras miljöpåverkan."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder eventuell skyddsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder eventuell skyddsutrustning.",
+          "C" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder eventuell skyddsutrustning.",
+          "A" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder eventuell skyddsutrustning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Konsthantverk 5",
+    "description" : "Kursen konsthantverk 5 omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 2, 4 och 7. I kursen befästs fördjupade kunskaper.",
+    "code" : "KOHHAN05",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Hantverkets och materialets historia och betydelse i kulturutvecklingen.", "Konstnärligt och hantverksmässigt arbete i ett eller flera valda material, till exempel trä, textil, metall, lera eller papper.", "Konstruktionsritning och skisstekniker.", "Komplexa bearbetningsmetoder, användningsområden och verktyg.", "Konstnärligt arbete som källa till personligt uttryck och utveckling.", "Formgivningsprocessen samt formgivningens språk och uttrycksmöjligheter, till exempel färg, form och material.", "Värdering av formgivning i relation till intentioner.", "De valda materialens egenskaper.", "Utvärdering av arbetsprocessen och resultatet.", "Ergonomiskt, säkert och arbetsmiljömässigt arbetssätt och användande av eventuell skyddsutrustning.", "Påverkan på människor och miljö vid användning, framställning och hantering av material." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> det valda hantverkets och materialets historia.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> det valda hantverkets och materialets historia.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> det valda hantverkets och materialets historia.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> det valda hantverkets och materialets historia."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tolkar arbetsuppgifter <strong>________</strong> med handledare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tolkar arbetsuppgifter <strong>i samråd</strong> med handledare.",
+          "C" : "Eleven tolkar arbetsuppgifter <strong>efter samråd</strong> med handledare.",
+          "A" : "Eleven tolkar arbetsuppgifter <strong>efter samråd</strong> med handledare."
+        }
+      }, {
+        "text" : "Eleven använder <strong>________</strong> med handledare och <strong>________</strong> etablerade tillvägagångssätt för att forma materialet efter intentionen och uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>i samråd</strong> med handledare och <strong>med viss säkerhet</strong> etablerade tillvägagångssätt för att forma materialet efter intentionen och uppgiften.",
+          "C" : "Eleven använder <strong>efter samråd</strong> med handledare och <strong>med viss säkerhet</strong> etablerade tillvägagångssätt för att forma materialet efter intentionen och uppgiften.",
+          "A" : "Eleven använder <strong>efter samråd</strong> med handledare och <strong>med säkerhet</strong> etablerade tillvägagångssätt för att forma materialet efter intentionen och uppgiften."
+        }
+      }, {
+        "text" : "I arbetet hanterar eleven verktyg och metoder med <strong>________</strong> handlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet hanterar eleven verktyg och metoder med <strong>visst</strong> handlag.",
+          "C" : "I arbetet hanterar eleven verktyg och metoder med <strong>gott</strong> handlag.",
+          "A" : "I arbetet hanterar eleven verktyg och metoder med <strong>mycket gott</strong> handlag."
+        }
+      }, {
+        "text" : "Eleven uppnår resultat <strong>________</strong> teknisk och estetisk kvalitet <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven uppnår resultat <strong>med en</strong> teknisk och estetisk kvalitet <strong>som går att använda i det avsedda sammanhanget</strong>.",
+          "C" : "Eleven uppnår resultat <strong>med en</strong> teknisk och estetisk kvalitet <strong>som fungerar väl i det avsedda sammanhanget</strong>.",
+          "A" : "Eleven uppnår resultat <strong>som uppfyller höga krav på</strong> teknisk och estetisk kvalitet."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker och löser eleven <strong>________</strong> med handledare eventuella problem som uppkommer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker och löser eleven <strong>i samråd</strong> med handledare eventuella problem som uppkommer.",
+          "C" : "Under arbetet upptäcker och löser eleven <strong>efter samråd</strong> med handledare eventuella problem som uppkommer.",
+          "A" : "Under arbetet upptäcker och löser eleven <strong>efter samråd</strong> med handledare eventuella problem som uppkommer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven motiverar <strong>________</strong> sina val av tillvägagångssätt och kommunicerar i sitt arbete kring idéer och estetisk utformning med hjälp av <strong>________</strong> skisser eller ritningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven motiverar <strong>översiktligt</strong> sina val av tillvägagångssätt och kommunicerar i sitt arbete kring idéer och estetisk utformning med hjälp av <strong>enkla</strong> skisser eller ritningar.",
+          "C" : "Eleven motiverar <strong>utförligt</strong> sina val av tillvägagångssätt och kommunicerar i sitt arbete kring idéer och estetisk utformning med hjälp av <strong>genomarbetade</strong> skisser eller ritningar.",
+          "A" : "Eleven motiverar <strong>utförligt och nyanserat</strong> sina val av tillvägagångssätt och kommunicerar i sitt arbete kring idéer och estetisk utformning med hjälp av <strong>genomarbetade</strong> skisser eller ritningar."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hur materialens egenskaper kan utnyttjas i arbetet och hur det estetiska uttrycket påverkas av olika material.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hur materialens egenskaper kan utnyttjas i arbetet och hur det estetiska uttrycket påverkas av olika material.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hur materialens egenskaper kan utnyttjas i arbetet och hur det estetiska uttrycket påverkas av olika material.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur materialens egenskaper kan utnyttjas i arbetet och hur det estetiska uttrycket påverkas av olika material."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> sin formgivnings- och arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> sin formgivnings- och arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> sin formgivnings- och arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> sin formgivnings- och arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>nyanserade</strong> omdömen."
+        }
+      }, {
+        "text" : "Beskrivningen innehåller <strong>________</strong> förslag på alternativa lösningar eller förbättringar av arbetsprocessen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Beskrivningen innehåller <strong>enkla</strong> förslag på alternativa lösningar eller förbättringar av arbetsprocessen.",
+          "C" : "Beskrivningen innehåller <strong>välgrundade</strong> förslag på alternativa lösningar eller förbättringar av arbetsprocessen.",
+          "A" : "Beskrivningen innehåller <strong>välgrundade och nyanserade</strong> förslag på alternativa lösningar eller förbättringar av arbetsprocessen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder och vårdar <strong>________</strong> med handledare maskiner och verktyg på ett arbetsmiljömässigt säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder och vårdar <strong>i samråd</strong> med handledare maskiner och verktyg på ett arbetsmiljömässigt säkert sätt.",
+          "C" : "Eleven använder och vårdar <strong>efter samråd</strong> med handledare maskiner och verktyg på ett arbetsmiljömässigt säkert sätt.",
+          "A" : "Eleven använder och vårdar <strong>efter samråd</strong> med handledare maskiner och verktyg på ett arbetsmiljömässigt säkert sätt."
+        }
+      }, {
+        "text" : "Dessutom hanterar eleven <strong>________</strong> med handledare material med tanke på deras miljöpåverkan.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom hanterar eleven <strong>i samråd</strong> med handledare material med tanke på deras miljöpåverkan.",
+          "C" : "Dessutom hanterar eleven <strong>efter samråd</strong> med handledare material med tanke på deras miljöpåverkan.",
+          "A" : "Dessutom hanterar eleven <strong>efter samråd</strong> med handledare material med tanke på deras miljöpåverkan."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder eventuell skyddsutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder eventuell skyddsutrustning.",
+          "C" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder eventuell skyddsutrustning.",
+          "A" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder eventuell skyddsutrustning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

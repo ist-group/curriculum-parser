@@ -1,0 +1,445 @@
+{
+  "name" : "Fastighetsservice",
+  "description" : "Ämnet fastighetsservice behandlar de faktorer som påverkar behovet av fortlöpande och effektivt underhåll av fastighetsbestånd. Det behandlar också hur fastighetsunderhåll planeras, genomförs och dokumenteras. I ämnet behandlas dessutom ergonomiska, miljömässiga, säkerhetsmässiga och sociala aspekter.",
+  "code" : "FAS",
+  "designation" : "",
+  "skolfsId" : "2010:76",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet fastighetsservice ska syfta till att eleverna utvecklar kunskaper om fastighetsområdet så att hyresgäster i alla typer av fastigheter får service av god kvalitet.", "Undervisningen ska också leda till att eleverna utvecklar kunskaper om och färdigheter i rationellt underhåll inom fastighetsbranschen.", "Eleverna ska ges möjlighet att utveckla kunskaper om fastigheters konstruktion och hur yttre och inre faktorer påverkar underhållsbehovet.", "Undervisningen ska leda till att eleverna utvecklar kunskaper om vanligt förekommande utrustning och maskiner, deras användningsområden och underhållsbehov.", "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om underhållets tekniska, organisatoriska, miljömässiga och ekonomiska roll inom fastighetsbranschen samt om utvecklingen inom fastighetstekniken.", "I undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om systematiskt säkerhetsarbete, riskhantering samt om brandrisk och brandskydd." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Genom ett problemlösande arbetssätt och praktiskt laborativa övningar med planering, utförande och dokumentation i undervisningen ska eleverna ges möjlighet att utveckla förmåga att arbeta ansvarsfullt, individuellt och i samarbete med andra.", "Undervisningen ska genomföras så att de praktiska och teoretiska kunskaperna kopplas samman." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet fastighetsservice ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om olika byggnaders konstruktion, byggmaterials egenskaper samt lagar och andra bestämmelser. Kunskaper om vanliga byggskador och underhålls- och reparationsåtgärder.", "Kunskaper om underhållsrutiner för fastigheter och fastighetsutrustning samt om säkerhetsfrågor, riskhantering och lagar och andra bestämmelser.", "Kunskaper om inredningars, utrustningars och maskintypers uppbyggnad och funktion samt om reservdelshållning.", "Förmåga att planera och utföra service, underhåll och reparation av fastigheter och av ytor, inredning och utrustning på och i fastigheter.", "Förmåga att välja och använda metoder, material, verktyg och tekniker.", "Förmåga att tolka och använda ritningar, underhållsscheman, manualer och innehållsdeklarationer.", "Förmåga att utföra felsökning och vidta lämpliga åtgärder.", "Förmåga att dokumentera och utvärdera sitt arbete och resultat." ]
+  } ],
+  "courses" : [ {
+    "name" : "Fastighetsservice – VVS",
+    "description" : "Kursen fastighetsservice – VVS omfattar punkterna 1–8 under rubriken Ämnets syfte.",
+    "code" : "FASFAE0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Övergripande bygglagstiftning för byggnaders konstruktion och material.", "Byggnaders tekniska konstruktion och byggmaterials egenskaper. Hur fuktskador kan förebyggas, lokaliseras och åtgärdas.", "Underhållsrutiner, regler, bestämmelser och besiktningsplaner för utrustning och inredning i kök, tvättstugor och badrum samt för till exempel sprinkler-, dricksvatten-, dagvatten- och avloppssystem i fastigheter.", "Säkerhetskontroller avseende vattenskador, mikrobiell tillväxt, brännskador och återströmning av vatten som inte uppfyller kraven för dricksvattenkvalitet. Hur arbetet kan utföras på ett säkert och ergonomiskt sätt och med miljöhänsyn.", "Uppbyggnad, konstruktion och funktion av komponenter och utrustning för fastigheters vatten- och avloppssystem, samt reservdelshållning.", "Metoder och tekniker för periodiskt förebyggande och avhjälpande underhåll och för reparationer av komponenter och utrustning i vatten- och avloppssystem i fastigheter samt av utrustning och inredning i kök, tvättstugor och badrum.", "Ritningsläsning, underhållsscheman, manualer och innehållsdeklarationer.", "Felsökning och felavhjälpning av konstruktionsfel, slitage, mekaniska fel och elfel.", "Metoder för dokumentation av utförda åtgärder." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> olika byggnaders konstruktion och byggmaterials egenskaper samt hur byggnaders konstruktion och material regleras genom lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> olika byggnaders konstruktion och byggmaterials egenskaper samt hur byggnaders konstruktion och material regleras genom lagar och andra bestämmelser.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> olika byggnaders konstruktion och byggmaterials egenskaper samt hur byggnaders konstruktion och material regleras genom lagar och andra bestämmelser.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> olika byggnaders konstruktion och byggmaterials egenskaper samt hur byggnaders konstruktion och material regleras genom lagar och andra bestämmelser."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hur fuktskador kan förebyggas och åtgärdas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hur fuktskador kan förebyggas och åtgärdas.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för hur fuktskador kan förebyggas och åtgärdas.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur fuktskador kan förebyggas och åtgärdas."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> den VVS-tekniska inredning och utrustning som är vanlig i fastigheter samt lagar och andra bestämmelser som gäller vid arbete med inredningen och utrustningen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> den VVS-tekniska inredning och utrustning som är vanlig i fastigheter samt lagar och andra bestämmelser som gäller vid arbete med inredningen och utrustningen.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> den VVS-tekniska inredning och utrustning som är vanlig i fastigheter samt lagar och andra bestämmelser som gäller vid arbete med inredningen och utrustningen.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> den VVS-tekniska inredning och utrustning som är vanlig i fastigheter samt lagar och andra bestämmelser som gäller vid arbete med inredningen och utrustningen."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för de vanligast förekommande fel som kan uppstå i inredningen och utrustningen, underhållsrutiner för dessa samt hur man arbetar på ett sätt som är säkert för en själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för de vanligast förekommande fel som kan uppstå i inredningen och utrustningen, underhållsrutiner för dessa samt hur man arbetar på ett sätt som är säkert för en själv och andra.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för de vanligast förekommande fel som kan uppstå i inredningen och utrustningen, underhållsrutiner för dessa samt hur man arbetar på ett sätt som är säkert för en själv och andra.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för de vanligast förekommande fel som kan uppstå i inredningen och utrustningen, underhållsrutiner för dessa samt hur man arbetar på ett sätt som är säkert för en själv och andra."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> de vanligaste maskintypernas uppbyggnad och funktion samt hur man planerar för reservdelshållning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> de vanligaste maskintypernas uppbyggnad och funktion samt hur man planerar för reservdelshållning.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> de vanligaste maskintypernas uppbyggnad och funktion samt hur man planerar för reservdelshållning.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> de vanligaste maskintypernas uppbyggnad och funktion samt hur man planerar för reservdelshållning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare förebyggande och avhjälpande underhåll och reparation av VVS-teknisk utrustning i fastigheter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare förebyggande och avhjälpande underhåll och reparation av VVS-teknisk utrustning i fastigheter.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare förebyggande och avhjälpande underhåll och reparation av VVS-teknisk utrustning i fastigheter.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare förebyggande och avhjälpande underhåll och reparation av VVS-teknisk utrustning i fastigheter."
+        }
+      }, {
+        "text" : "I planeringen väljer eleven <strong>________</strong> metod, material, verktyg och teknik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen väljer eleven <strong>med viss säkerhet</strong> metod, material, verktyg och teknik.",
+          "C" : "I planeringen väljer eleven <strong>med viss säkerhet</strong> metod, material, verktyg och teknik.",
+          "A" : "I planeringen väljer eleven <strong>med säkerhet</strong> metod, material, verktyg och teknik."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare underhålls- och reparationsarbetet med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare underhålls- och reparationsarbetet med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare underhålls- och reparationsarbetet med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare underhålls- och reparationsarbetet med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "I arbetet tolkar och använder eleven <strong>________</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer.",
+          "C" : "I arbetet tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer.",
+          "A" : "I arbetet tolkar och använder eleven <strong>med säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> lämpliga metoder, material, verktyg och tekniker.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>med viss säkerhet</strong> lämpliga metoder, material, verktyg och tekniker.",
+          "C" : "Dessutom använder eleven <strong>med viss säkerhet</strong> lämpliga metoder, material, verktyg och tekniker.",
+          "A" : "Dessutom använder eleven <strong>med säkerhet</strong> lämpliga metoder, material, verktyg och tekniker."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare felsökning och vidtar lämpliga åtgärder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare felsökning och vidtar lämpliga åtgärder.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare felsökning och vidtar lämpliga åtgärder.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare felsökning och vidtar lämpliga åtgärder."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> dokumentation av utförda åtgärder samt utvärderar med <strong>________</strong> omdömen sitt arbete och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av utförda åtgärder samt utvärderar med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+          "C" : "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av utförda åtgärder samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
+          "A" : "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av utförda åtgärder samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>och ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Fastighetsservice – byggnader",
+    "description" : "Kursen fastighetsservice – byggnader omfattar punkterna 1–2 och 4–8 under rubriken Ämnets syfte.",
+    "code" : "FASFAS0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Byggnaders tekniska konstruktion och byggmaterials egenskaper. Övergripande bygglagstiftning för byggnaders konstruktion och material.", "Vanliga byggskador, hur de kan förebyggas och åtgärdas.", "Metoder och tekniker för materialuppbyggnad, ytbehandling och för- och efterbehandling vid reparations- och underhållsarbete.", "Underhållsrutiner, regler, bestämmelser och besiktningsplaner för maskiner, utrustning, hisstyper, nödöppningar, material och konstruktioner.", "Säkerhetskontroller samt hur arbetet kan utföras på ett säkert sätt och med miljöhänsyn.", "Systematiskt säkerhetsarbete, riskhantering, brandrisk och brandskydd.", "Metoder och tekniker för periodiskt förebyggande och avhjälpande underhåll samt för reparationer av fastigheter, utrustning och aktuella maskiner.", "Ritningsläsning, underhållsscheman, manualer och innehållsdeklarationer.", "Felsökning och felavhjälpning av konstruktionsfel, slitage och mekaniska fel.", "Metoder för dokumentation av utförda åtgärder." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> olika byggnaders konstruktion, byggmaterials egenskaper samt hur byggnaders konstruktion och material regleras genom lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> olika byggnaders konstruktion, byggmaterials egenskaper samt hur byggnaders konstruktion och material regleras genom lagar och andra bestämmelser.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> olika byggnaders konstruktion, byggmaterials egenskaper samt hur byggnaders konstruktion och material regleras genom lagar och andra bestämmelser.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> olika byggnaders konstruktion, byggmaterials egenskaper samt hur byggnaders konstruktion och material regleras genom lagar och andra bestämmelser."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för hur vanliga byggskador kan förebyggas och åtgärdas samt olika metoder och tekniker för materialuppbyggnad, ytbehandling och för- och efterbehandling.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för hur vanliga byggskador kan förebyggas och åtgärdas samt olika metoder och tekniker för materialuppbyggnad, ytbehandling och för- och efterbehandling.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för hur vanliga byggskador kan förebyggas och åtgärdas samt olika metoder och tekniker för materialuppbyggnad, ytbehandling och för- och efterbehandling.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för hur vanliga byggskador kan förebyggas och åtgärdas samt olika metoder och tekniker för materialuppbyggnad, ytbehandling och för- och efterbehandling."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för underhållsrutiner för maskiner, utrustning, hisstyper, nödöppningar, material och konstruktioner samt hur man arbetar på ett sätt som är säkert för en själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för underhållsrutiner för maskiner, utrustning, hisstyper, nödöppningar, material och konstruktioner samt hur man arbetar på ett sätt som är säkert för en själv och andra.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för underhållsrutiner för maskiner, utrustning, hisstyper, nödöppningar, material och konstruktioner samt hur man arbetar på ett sätt som är säkert för en själv och andra.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för underhållsrutiner för maskiner, utrustning, hisstyper, nödöppningar, material och konstruktioner samt hur man arbetar på ett sätt som är säkert för en själv och andra."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare förebyggande och avhjälpande underhåll och reparation av fastigheter och av inredning och utrustning i fastigheter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare förebyggande och avhjälpande underhåll och reparation av fastigheter och av inredning och utrustning i fastigheter.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare förebyggande och avhjälpande underhåll och reparation av fastigheter och av inredning och utrustning i fastigheter.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare förebyggande och avhjälpande underhåll och reparation av fastigheter och av inredning och utrustning i fastigheter."
+        }
+      }, {
+        "text" : "I planeringen väljer eleven <strong>________</strong> metod, material, verktyg och teknik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen väljer eleven <strong>med viss säkerhet</strong> metod, material, verktyg och teknik.",
+          "C" : "I planeringen väljer eleven <strong>med viss säkerhet</strong> metod, material, verktyg och teknik.",
+          "A" : "I planeringen väljer eleven <strong>med säkerhet</strong> metod, material, verktyg och teknik."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare underhålls- och reparationsarbetet med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare underhålls- och reparationsarbetet med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare underhålls- och reparationsarbetet med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare underhålls- och reparationsarbetet med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "I arbetet tolkar och använder eleven <strong>________</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer.",
+          "C" : "I arbetet tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer.",
+          "A" : "I arbetet tolkar och använder eleven <strong>med säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> lämpliga metoder, material, verktyg och tekniker.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>med viss säkerhet</strong> lämpliga metoder, material, verktyg och tekniker.",
+          "C" : "Dessutom använder eleven <strong>med viss säkerhet</strong> lämpliga metoder, material, verktyg och tekniker.",
+          "A" : "Dessutom använder eleven <strong>med säkerhet</strong> lämpliga metoder, material, verktyg och tekniker."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare felsökning och vidtar lämpliga åtgärder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare felsökning och vidtar lämpliga åtgärder.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare felsökning och vidtar lämpliga åtgärder.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare felsökning och vidtar lämpliga åtgärder."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> dokumentation av utförda åtgärder samt utvärderar med <strong>________</strong> omdömen sitt arbete och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av utförda åtgärder samt utvärderar med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+          "C" : "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av utförda åtgärder samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
+          "A" : "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av utförda åtgärder samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>och ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Fastighetsservice – elarbeten",
+    "description" : "Kursen fastighetsservice – elarbeten omfattar punkterna 2–8 under rubriken Ämnets syfte.",
+    "code" : "FASFAH0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Underhållsrutiner, regler, bestämmelser, besiktningsplaner, säkerhetskontroller och serviceåtgärder för olika hisstyper och annan transportutrustning. Hur arbetet kan utföras på ett säkert sätt och med miljöhänsyn.", "Köks- och tvättutrustningar samt deras uppbyggnad och funktion. Transportutrustningar, till exempel hissar, rulltrappor och transportband samt deras uppbyggnad och funktion. Hur man planerar för reservdelshållning.", "Metoder och tekniker för periodiskt förebyggande och avhjälpande underhåll samt för reparationer av i fastigheter befintlig utrustning och aktuella maskiner.", "Serviceåtgärder på porttelefoner, övervakningssystem, lås- och larmsystem, kabel-tv-nät och andra system i fastigheter.", "Ritningsläsning, underhållsscheman, manualer och innehållsdeklarationer.", "Felsökning, mätning och felavhjälpning av konstruktionsfel, slitage, mekaniska fel och elfel, till exempel i belysningsutrustning.", "Metoder för dokumentation av utförda åtgärder." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> den tekniska utrustning som är vanlig i fastigheter samt lagar och andra bestämmelser som gäller vid arbete med utrustningen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> den tekniska utrustning som är vanlig i fastigheter samt lagar och andra bestämmelser som gäller vid arbete med utrustningen.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> den tekniska utrustning som är vanlig i fastigheter samt lagar och andra bestämmelser som gäller vid arbete med utrustningen.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> den tekniska utrustning som är vanlig i fastigheter samt lagar och andra bestämmelser som gäller vid arbete med utrustningen."
+        }
+      }, {
+        "text" : "Eleven redogör också <strong>________</strong> för de vanligast förekommande fel som kan uppstå i utrustningen, underhållsrutiner för denna samt hur man arbetar på ett sätt som är säkert för en själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör också <strong>översiktligt</strong> för de vanligast förekommande fel som kan uppstå i utrustningen, underhållsrutiner för denna samt hur man arbetar på ett sätt som är säkert för en själv och andra.",
+          "C" : "Eleven redogör också <strong>utförligt</strong> för de vanligast förekommande fel som kan uppstå i utrustningen, underhållsrutiner för denna samt hur man arbetar på ett sätt som är säkert för en själv och andra.",
+          "A" : "Eleven redogör också <strong>utförligt och nyanserat</strong> för de vanligast förekommande fel som kan uppstå i utrustningen, underhållsrutiner för denna samt hur man arbetar på ett sätt som är säkert för en själv och andra."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> de vanligaste maskintypernas uppbyggnad och funktion samt hur man planerar för reservdelshållning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> de vanligaste maskintypernas uppbyggnad och funktion samt hur man planerar för reservdelshållning.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> de vanligaste maskintypernas uppbyggnad och funktion samt hur man planerar för reservdelshållning.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> de vanligaste maskintypernas uppbyggnad och funktion samt hur man planerar för reservdelshållning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare förebyggande och avhjälpande service, underhåll och reparation av eldriven maskinell utrustning i fastigheter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare förebyggande och avhjälpande service, underhåll och reparation av eldriven maskinell utrustning i fastigheter.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare förebyggande och avhjälpande service, underhåll och reparation av eldriven maskinell utrustning i fastigheter.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare förebyggande och avhjälpande service, underhåll och reparation av eldriven maskinell utrustning i fastigheter."
+        }
+      }, {
+        "text" : "I planeringen väljer eleven <strong>________</strong> metod, material, verktyg och teknik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen väljer eleven <strong>med viss säkerhet</strong> metod, material, verktyg och teknik.",
+          "C" : "I planeringen väljer eleven <strong>med viss säkerhet</strong> metod, material, verktyg och teknik.",
+          "A" : "I planeringen väljer eleven <strong>med säkerhet</strong> metod, material, verktyg och teknik."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare service-, underhålls- och reparationsarbetet med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare service-, underhålls- och reparationsarbetet med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare service-, underhålls- och reparationsarbetet med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare service-, underhålls- och reparationsarbetet med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "I arbetet tolkar och använder eleven <strong>________</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer.",
+          "C" : "I arbetet tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer.",
+          "A" : "I arbetet tolkar och använder eleven <strong>med säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> lämpliga metoder, material, verktyg och tekniker.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>med viss säkerhet</strong> lämpliga metoder, material, verktyg och tekniker.",
+          "C" : "Dessutom använder eleven <strong>med viss säkerhet</strong> lämpliga metoder, material, verktyg och tekniker.",
+          "A" : "Dessutom använder eleven <strong>med säkerhet</strong> lämpliga metoder, material, verktyg och tekniker."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare felsökning och vidtar lämpliga åtgärder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare felsökning och vidtar lämpliga åtgärder.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare felsökning och vidtar lämpliga åtgärder.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare felsökning och vidtar lämpliga åtgärder."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> dokumentation av utförda åtgärder samt utvärderar med <strong>________</strong> omdömen sitt arbete och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av utförda åtgärder samt utvärderar med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+          "C" : "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av utförda åtgärder samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
+          "A" : "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av utförda åtgärder samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>och ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Fastighetsservice – ytor",
+    "description" : "Kursen fastighetsservice – ytor omfattar punkterna 1–2 och 4–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 2.",
+    "code" : "FASFAV0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Byggnaders tekniska konstruktion och byggmaterials egenskaper. Övergripande bygglagstiftning för byggnaders konstruktion och material.", "Vanliga byggskador, hur de kan förebyggas och åtgärdas.", "Metoder och tekniker för materialuppbyggnad, ytbehandling och för- och efterbehandling vid reparations- och underhållsarbete. Förutsättningar för ytbehandling och olika ytbehandlingars kvalitet, användningsområden och miljöpåverkan.", "Underhållsrutiner, regler, bestämmelser och besiktningsplaner för våtutrymmen, ytor och nödöppningar.", "Säkerhetskontroller samt hur arbetet kan utföras på ett säkert sätt och med miljöhänsyn.", "Metoder och tekniker för periodiskt förebyggande och avhjälpande underhåll samt för reparationer av fastigheter och utrustning.", "Ritningsläsning, underhållsscheman, manualer och innehållsdeklarationer.", "Felsökning och felavhjälpning av konstruktionsfel, slitage och mekaniska fel på olika ytor.", "Metoder för dokumentation av utförda åtgärder." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> olika byggnaders konstruktion och byggmaterials egenskaper samt hur byggnaders konstruktion och material regleras genom lagar och andra bestämmelser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> olika byggnaders konstruktion och byggmaterials egenskaper samt hur byggnaders konstruktion och material regleras genom lagar och andra bestämmelser.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> olika byggnaders konstruktion och byggmaterials egenskaper samt hur byggnaders konstruktion och material regleras genom lagar och andra bestämmelser.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> olika byggnaders konstruktion och byggmaterials egenskaper samt hur byggnaders konstruktion och material regleras genom lagar och andra bestämmelser."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> hur vanliga byggskador kan förebyggas och åtgärdas samt olika metoder och tekniker för materialuppbyggnad, ytbehandling och för- och efterbehandling.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> hur vanliga byggskador kan förebyggas och åtgärdas samt olika metoder och tekniker för materialuppbyggnad, ytbehandling och för- och efterbehandling.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> hur vanliga byggskador kan förebyggas och åtgärdas samt olika metoder och tekniker för materialuppbyggnad, ytbehandling och för- och efterbehandling.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> hur vanliga byggskador kan förebyggas och åtgärdas samt olika metoder och tekniker för materialuppbyggnad, ytbehandling och för- och efterbehandling."
+        }
+      }, {
+        "text" : "I beskrivningen redogör eleven <strong>________</strong> för förutsättningar för ytbehandling och olika ytbehandlingars kvalitet, användningsområden och miljöpåverkan.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningen redogör eleven <strong>översiktligt</strong> för förutsättningar för ytbehandling och olika ytbehandlingars kvalitet, användningsområden och miljöpåverkan.",
+          "C" : "I beskrivningen redogör eleven <strong>utförligt</strong> för förutsättningar för ytbehandling och olika ytbehandlingars kvalitet, användningsområden och miljöpåverkan.",
+          "A" : "I beskrivningen redogör eleven <strong>utförligt och nyanserat</strong> för förutsättningar för ytbehandling och olika ytbehandlingars kvalitet, användningsområden och miljöpåverkan."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för underhållsrutiner för våtutrymmen, ytor, hisstyper och nödöppningar samt hur man arbetar på ett sätt som är säkert för en själv och andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för underhållsrutiner för våtutrymmen, ytor, hisstyper och nödöppningar samt hur man arbetar på ett sätt som är säkert för en själv och andra.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för underhållsrutiner för våtutrymmen, ytor, hisstyper och nödöppningar samt hur man arbetar på ett sätt som är säkert för en själv och andra.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för underhållsrutiner för våtutrymmen, ytor, hisstyper och nödöppningar samt hur man arbetar på ett sätt som är säkert för en själv och andra."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar <strong>________</strong> med handledare förebyggande och avhjälpande underhåll och reparation av fastigheter och av inredning och utrustning i fastigheter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>i samråd</strong> med handledare förebyggande och avhjälpande underhåll och reparation av fastigheter och av inredning och utrustning i fastigheter.",
+          "C" : "Eleven planerar <strong>efter samråd</strong> med handledare förebyggande och avhjälpande underhåll och reparation av fastigheter och av inredning och utrustning i fastigheter.",
+          "A" : "Eleven planerar <strong>efter samråd</strong> med handledare förebyggande och avhjälpande underhåll och reparation av fastigheter och av inredning och utrustning i fastigheter."
+        }
+      }, {
+        "text" : "I planeringen väljer eleven <strong>________</strong> metod, material, verktyg och teknik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I planeringen väljer eleven <strong>med viss säkerhet</strong> metod, material, verktyg och teknik.",
+          "C" : "I planeringen väljer eleven <strong>med viss säkerhet</strong> metod, material, verktyg och teknik.",
+          "A" : "I planeringen väljer eleven <strong>med säkerhet</strong> metod, material, verktyg och teknik."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare underhålls- och reparationsarbetet med <strong>________</strong> resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare underhålls- och reparationsarbetet med <strong>tillfredsställande</strong> resultat.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare underhålls- och reparationsarbetet med <strong>tillfredsställande</strong> resultat.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare underhålls- och reparationsarbetet med <strong>gott</strong> resultat."
+        }
+      }, {
+        "text" : "I arbetet tolkar och använder eleven <strong>________</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer.",
+          "C" : "I arbetet tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer.",
+          "A" : "I arbetet tolkar och använder eleven <strong>med säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> lämpliga metoder, material, verktyg och tekniker.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>med viss säkerhet</strong> lämpliga metoder, material, verktyg och tekniker.",
+          "C" : "Dessutom använder eleven <strong>med viss säkerhet</strong> lämpliga metoder, material, verktyg och tekniker.",
+          "A" : "Dessutom använder eleven <strong>med säkerhet</strong> lämpliga metoder, material, verktyg och tekniker."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> med handledare felsökning och vidtar lämpliga åtgärder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare felsökning och vidtar lämpliga åtgärder.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare felsökning och vidtar lämpliga åtgärder.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare felsökning och vidtar lämpliga åtgärder."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När arbetet är utfört gör eleven en <strong>________</strong> dokumentation av utförda åtgärder samt utvärderar med <strong>________</strong> omdömen sitt arbete och resultat.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av utförda åtgärder samt utvärderar med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+          "C" : "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av utförda åtgärder samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
+          "A" : "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av utförda åtgärder samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>och ger förslag på hur arbetet kan förbättras</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

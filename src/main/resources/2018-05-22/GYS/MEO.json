@@ -1,0 +1,105 @@
+{
+  "name" : "Medieproduktion",
+  "description" : "Ämnet medieproduktion behandlar produktion och tekniker inom medieområdet. Ämnet handlar om hela arbetsprocessen, från idé till färdig produkt. I ämnet ingår olika yrkesroller inom området samt etiska frågor i samband med medieproduktion.",
+  "code" : "MEO",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet medieproduktion ska syfta till att eleverna utvecklar kunskaper om olika former av medieproduktioner samt förmåga att utföra arbetsuppgifter inom området.", "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om arbetsprocessen från idé till färdig produkt samt om olika yrkesroller.", "Eleverna ska ges möjlighet att utveckla kunskaper om hur innehåll, form och funktion samspelar i olika produktioner.", "Vidare ska eleverna ges möjlighet att utveckla kunskaper om text-, bild- och ljudarbete samt de tekniker som används inom områdena.", "I undervisningen ska eleverna ges möjlighet att utveckla förmåga att omsätta egna eller andras idéer till färdiga produktioner.", "Undervisningen ska leda till att eleverna utvecklar förmåga att utföra arbetsuppgifter inom medieproduktion." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Praktiskt arbete samt ett undersökande och problemlösande arbetssätt ska ingå i undervisningen.", "Eleverna ska ges tillfälle att reflektera över och samtala om etiska frågor i samband med medieproduktion." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet medieproduktion ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om olika former av medieproduktioner.", "Kunskaper om hur text, bild och ljud samverkar för att förmedla ett budskap.", "Förmåga att planera och genomföra medieproduktioner, från idé till färdig produkt.", "Förmåga att använda teknisk utrustning och tekniker inom medieproduktion." ]
+  } ],
+  "courses" : [ {
+    "name" : "Animation",
+    "description" : "Kursen animation omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "MEOANI5",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Några olika animationstekniker, till exempel cutout-animationer, leranimationer och animationer med papper och penna.", "Filmens berättarkomponenter och dramaturgi, till exempel förflyttningar i tid och rum.", "Manus, såväl skriftliga som i form av bilder.", "Rörelse, rytm och tempo samt färg, form och perspektiv i animation.", "Animation utifrån givna förutsättningar och förlagor.", "Etiska frågor. Lagar och andra bestämmelser som gäller inom området, till exempel bestämmelser om diskriminering och upphovsrätt.", "Hantering av teknisk utrustning för animation, till exempel programvara och kamera." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva olika former av medieproduktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva olika former av medieproduktioner.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> olika former av medieproduktioner.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> olika former av medieproduktioner."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att diskutera hur text, bild och ljud samverkar för att förmedla ett budskap.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att diskutera hur text, bild och ljud samverkar för att förmedla ett budskap.",
+          "C" : "Eleven diskuterar också <strong>på ett enkelt sätt</strong> hur text, bild och ljud samverkar för att förmedla ett budskap.",
+          "A" : "Eleven diskuterar också <strong>på ett utvecklat sätt</strong> hur text, bild och ljud samverkar för att förmedla ett budskap."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att planera och genomföra medieproduktioner, från idé till färdig produkt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att planera och genomföra medieproduktioner, från idé till färdig produkt.",
+          "C" : "Eleven planerar och genomför <strong>med tillfredsställande resultat</strong> medieproduktioner, från idé till färdig produkt.",
+          "A" : "Eleven planerar och genomför <strong>med gott resultat</strong> medieproduktioner, från idé till färdig produkt."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att använda teknisk utrustning och tekniker inom medieproduktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att använda teknisk utrustning och tekniker inom medieproduktion.",
+          "C" : "Eleven använder också <strong>på ett delvis ändamålsenligt sätt</strong> teknisk utrustning och tekniker inom medieproduktion.",
+          "A" : "Eleven använder också <strong>på ett ändamålsenligt sätt</strong> teknisk utrustning och tekniker inom medieproduktion."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Medieproduktion",
+    "description" : "Kursen medieproduktion omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "code" : "MEOMED5",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Olika medieprodukter, till exempel tidningar, filmer och utställningar.", "Samverkan mellan innehåll, form och funktion.", "Olika berättargrepp vid muntliga, skriftliga och visuella framställningar.", "Skrivande av text, fotografering, filmning, ljudupptagning och redigering i samband med medieproduktioner.", "Förarbete inför medieproduktioner samt framställning av förlagor, till exempel skisser eller manus.", "Ergonomi och arbetsmiljö.", "Etiska frågor. Lagar och andra bestämmelser som gäller inom området, till exempel bestämmelser om diskriminering och upphovsrätt.", "Teknisk utrustning och tekniker inom medieproduktion." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven <strong>________</strong> i att beskriva olika former av medieproduktioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att beskriva olika former av medieproduktioner.",
+          "C" : "Eleven beskriver <strong>på ett enkelt sätt</strong> olika former av medieproduktioner.",
+          "A" : "Eleven beskriver <strong>på ett utvecklat sätt</strong> olika former av medieproduktioner."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att diskutera hur text, bild och ljud samverkar för att förmedla ett budskap.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att diskutera hur text, bild och ljud samverkar för att förmedla ett budskap.",
+          "C" : "Eleven diskuterar också <strong>på ett enkelt sätt</strong> hur text, bild och ljud samverkar för att förmedla ett budskap.",
+          "A" : "Eleven diskuterar också <strong>på ett utvecklat sätt</strong> hur text, bild och ljud samverkar för att förmedla ett budskap."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> i att planera och genomföra medieproduktioner, från idé till färdig produkt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> i att planera och genomföra medieproduktioner, från idé till färdig produkt.",
+          "C" : "Eleven planerar och genomför <strong>med tillfredsställande resultat</strong> medieproduktioner, från idé till färdig produkt.",
+          "A" : "Eleven planerar och genomför <strong>med gott resultat</strong> medieproduktioner, från idé till färdig produkt."
+        }
+      }, {
+        "text" : "Eleven <strong>________</strong> också i att använda teknisk utrustning och tekniker inom medieproduktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven <strong>medverkar</strong> också i att använda teknisk utrustning och tekniker inom medieproduktion.",
+          "C" : "Eleven använder också <strong>på ett delvis ändamålsenligt sätt</strong> teknisk utrustning och tekniker inom medieproduktion.",
+          "A" : "Eleven använder också <strong>på ett ändamålsenligt sätt</strong> teknisk utrustning och tekniker inom medieproduktion."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

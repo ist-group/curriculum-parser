@@ -1,0 +1,798 @@
+{
+  "name" : "Samiskt hantverk",
+  "description" : "Ämnet samiskt hantverk behandlar tillverkning av redskap, bruksföremål och konsthantverk. Det behandlar traditionella och moderna hantverkstekniker, material, verktyg, maskiner och annan utrustning inom det hantverksområde som eleven har valt. Det behandlar också yrkesetik under arbetsprocessen och resultatets kvalitet. Ämnet behandlar vidare hantverkets betydelse som näring, binäring, kulturbärare och identitetsskapare i det samiska samhället, samt dess symbolvärde för den samiska identiteten, livsstilen och levnadssättet.",
+  "code" : "SAI",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet samiskt hantverk ska syfta till att eleverna utvecklar förmåga att genomföra alla steg i hantverksprocessen från idé till färdig produkt.", "Den ska bidra till att eleverna utvecklar förmåga att identifiera behov, planera med skiss eller ritning, välja lämpliga material och tekniker, genomföra och redovisa arbetet samt analysera och utvärdera resultatet.", "Undervisningen ska stimulera eleverna till att utveckla initiativförmåga, idérikedom, självständighet, personligt ansvarstagande, samarbetsförmåga, egen drivkraft och skaparglädje.", "Eleverna ska ges möjlighet att utveckla ett kreativt tänkande, ett estetiskt förhållningssätt och känsla för form.", "Därför ska undervisningen ge såväl kunskaper om färg och form som färdigheter i design och formgivning." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska också bidra till att eleverna utvecklar förmåga att använda traditionella och nya material och tekniker inom valt hantverksområde liksom färdigheter i att använda verktyg och maskiner." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar förståelse av att bevara och utveckla det samiska hantverket samt av hantverkets betydelse för samiskt kultur- och näringsliv.", "Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att använda fackspråk och samisk terminologi som ett hjälpmedel för att förstå och beskriva det samiska hantverket i nutid och historisk tid." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet samiskt hantverk ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om den samiska hantverkstraditionen samt förmåga att bedöma hantverksprodukters kvalitet och estetiska värde.", "Färdigheter i att utföra samiska hantverkstekniker och att planera, välja och använda lämpliga material, tekniker, verktyg och maskiner.", "Kunskaper om att ta till vara material till samiskt hantverk och att bedöma materialets kvalitet.", "Kunskaper om färg- och formlära, samiska ortskaraktärer och symboler samt färdigheter i att använda dem under skapandeprocessen.", "Färdigheter i skisstekniker, rittekniker och tekniska beskrivningar som är relevanta för det valda hantverksområdet.", "Förmåga att beräkna kostnader samt material- och tidsåtgång.", "Färdigheter i att använda fackspråk och samisk terminologi samt färdigheter i att använda både internationella och samiska måttsystem.", "Förmåga att utvärdera, analysera och dokumentera arbetsprocess och resultat.", "Färdigheter i att sköta och underhålla material, verktyg och maskiner.", "Färdigheter i att arbeta ergonomiskt och med hänsyn till miljö, arbetsmiljö och säkerhet." ]
+  } ],
+  "courses" : [ {
+    "name" : "Samisk hantverkskultur",
+    "description" : "Kursen samisk hantverkskultur omfattar punkterna 1 och 4–7 under rubriken Ämnets syfte.",
+    "code" : "SAISAM0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Det samiska hantverkets roll i samiskt näringsliv både ur ett historiskt och nutida perspektiv.", "Samiska slöjdare och konstnärer och deras betydelse för den samiska kulturen och dess utveckling.", "Användningsområde och material för samiskt hantverk och samiska bruksföremål samt utvecklingen av konsthantverk.", "Material-, tids- och kostnadskalkyler samt arbetsbeskrivningar.", "Samiska ortskaraktärer och traditionellt samiskt hantverk.", "Samisk design med färg, form och symboler.", "Samisk terminologi och fackspråk." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för huvuddragen i samiskt hantverk och den samiska kulturens utveckling från komsakulturen fram till i dag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för huvuddragen i samiskt hantverk och den samiska kulturens utveckling från komsakulturen fram till i dag.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för huvuddragen i samiskt hantverk och den samiska kulturens utveckling från komsakulturen fram till i dag.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för huvuddragen i samiskt hantverk och den samiska kulturens utveckling från komsakulturen fram till i dag."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för vilken roll samiskt hantverk har i samiskt näringsliv.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för vilken roll samiskt hantverk har i samiskt näringsliv.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för vilken roll samiskt hantverk har i samiskt näringsliv.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för vilken roll samiskt hantverk har i samiskt näringsliv."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för användningsområden och material för samiskt hantverk och samiska bruksföremål.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för användningsområden och material för samiskt hantverk och samiska bruksföremål.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för användningsområden och material för samiskt hantverk och samiska bruksföremål.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för användningsområden och material för samiskt hantverk och samiska bruksföremål."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för utvecklingen från bruksföremål till konsthantverk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för utvecklingen från bruksföremål till konsthantverk.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för utvecklingen från bruksföremål till konsthantverk.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för utvecklingen från bruksföremål till konsthantverk."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör <strong>________</strong> tolkningar och analyser av samiska konstnärers och slöjdares verk samt ger <strong>________</strong> motiv för sina tolkningar och analyser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör <strong>enkla</strong> tolkningar och analyser av samiska konstnärers och slöjdares verk samt ger <strong>enkla</strong> motiv för sina tolkningar och analyser.",
+          "C" : "Eleven gör tolkningar och analyser av samiska konstnärers och slöjdares verk samt ger <strong>välgrundade</strong> motiv för sina tolkningar och analyser.",
+          "A" : "Eleven gör <strong>avancerade</strong> tolkningar och analyser av samiska konstnärers och slöjdares verk samt ger <strong>välgrundade och nyanserade</strong> motiv för sina tolkningar och analyser."
+        }
+      }, {
+        "text" : "Dessutom resonerar eleven <strong>________</strong> om vad konstnärer och slöjdare har haft för betydelse för det samiska samhället och den samiska kulturen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom resonerar eleven <strong>översiktligt</strong> om vad konstnärer och slöjdare har haft för betydelse för det samiska samhället och den samiska kulturen.",
+          "C" : "Dessutom resonerar eleven <strong>utförligt</strong> om vad konstnärer och slöjdare har haft för betydelse för det samiska samhället och den samiska kulturen.",
+          "A" : "Dessutom resonerar eleven <strong>utförligt och nyanserat</strong> om vad konstnärer och slöjdare har haft för betydelse för det samiska samhället och den samiska kulturen."
+        }
+      }, {
+        "text" : "I sina tolkningar, analyser och resonemang använder eleven <strong>________</strong> relevanta begrepp och någon relevant metod eller teori.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sina tolkningar, analyser och resonemang använder eleven <strong>med viss säkerhet</strong> relevanta begrepp och någon relevant metod eller teori.",
+          "C" : "I sina tolkningar, analyser och resonemang använder eleven <strong>med viss säkerhet</strong> relevanta begrepp och någon relevant metod eller teori.",
+          "A" : "I sina tolkningar, analyser och resonemang använder eleven <strong>med säkerhet</strong> relevanta begrepp och någon relevant metod eller teori."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för de olika samiska ortskaraktärerna samt för <strong>________</strong> resonemang kring beskrivning och identifiering av traditionellt samiskt hantverk.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för de olika samiska ortskaraktärerna samt för <strong>enkla</strong> resonemang kring beskrivning och identifiering av traditionellt samiskt hantverk.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för de olika samiska ortskaraktärerna samt för <strong>välgrundade</strong> resonemang kring beskrivning och identifiering av traditionellt samiskt hantverk.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för de olika samiska ortskaraktärerna samt för <strong>välgrundade och nyanserade</strong> resonemang kring beskrivning och identifiering av traditionellt samiskt hantverk."
+        }
+      }, {
+        "text" : "Eleven för också <strong>________</strong> resonemang om hur de samiska symbolerna tolkas i samiskt hantverk och i den samiska kulturen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven för också <strong>enkla</strong> resonemang om hur de samiska symbolerna tolkas i samiskt hantverk och i den samiska kulturen.",
+          "C" : "Eleven för också <strong>välgrundade</strong> resonemang om hur de samiska symbolerna tolkas i samiskt hantverk och i den samiska kulturen.",
+          "A" : "Eleven för också <strong>välgrundade och nyanserade</strong> resonemang om hur de samiska symbolerna tolkas i samiskt hantverk och i den samiska kulturen."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven skapar samisk design med färg, form och samiska symboler i <strong>________</strong> arbetsbeskrivningar och skisser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven skapar samisk design med färg, form och samiska symboler i <strong>enkla</strong> arbetsbeskrivningar och skisser.",
+          "C" : "Eleven skapar samisk design med färg, form och samiska symboler i <strong>genomarbetade</strong> arbetsbeskrivningar och skisser.",
+          "A" : "Eleven skapar samisk design med färg, form och samiska symboler i <strong>genomarbetade</strong> arbetsbeskrivningar och skisser."
+        }
+      }, {
+        "text" : "Eleven gör <strong>________</strong> material-, tids- och kostnadskalkyler.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör <strong>med viss säkerhet</strong> material-, tids- och kostnadskalkyler.",
+          "C" : "Eleven gör <strong>med viss säkerhet</strong> material-, tids- och kostnadskalkyler.",
+          "A" : "Eleven gör <strong>med säkerhet</strong> material-, tids- och kostnadskalkyler."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> relevant fackspråk och samisk terminologi.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>med viss säkerhet</strong> relevant fackspråk och samisk terminologi.",
+          "C" : "Dessutom använder eleven <strong>med viss säkerhet</strong> relevant fackspråk och samisk terminologi.",
+          "A" : "Dessutom använder eleven <strong>med säkerhet</strong> relevant fackspråk och samisk terminologi."
+        }
+      } ]
+    } ],
+    "point" : 50,
+    "year" : null
+  }, {
+    "name" : "Samiskt hantverk 1",
+    "description" : "Kursen samiskt hantverk 1 omfattar punkterna 2–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 2, 3, 5 och 10. I kursen behandlas grundläggande kunskaper i valt hantverksområde. ",
+    "code" : "SAISAM01S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Traditionella material, redskap, arbetsmetoder, maskiner och tekniker. I samband med det behandlas materialberäkning och planering av tidsåtgång.", "Produkt- och materialkunskap i samband med planering och genomförande.", "Färg och form.", "Skisser och mönster till olika samiska hantverksprodukter inom valt hantverksområde.", "Fackspråk och samisk terminologi.", "Utvärdering av arbetsprocess och resultat.", "Hantering, underhåll och skötsel av maskiner och verktyg.", "Ergonomi, säkerhet, arbetsmiljö och skyddsutrustning.", "Miljöhänsyn i arbetet, till exempel återvinning och källsortering.", "Ansvarsfullt uppträdande i yrkesutövandet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tolkar <strong>________</strong> med handledare arbetsuppgifter samt gör en <strong>________</strong> planering av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tolkar <strong>i samråd</strong> med handledare arbetsuppgifter samt gör en <strong>enkel</strong> planering av sitt arbete.",
+          "C" : "Eleven tolkar <strong>efter samråd</strong> med handledare arbetsuppgifter samt gör en <strong>genomarbetad</strong> planering av sitt arbete.",
+          "A" : "Eleven tolkar <strong>efter samråd</strong> med handledare arbetsuppgifter samt gör en <strong>genomarbetad</strong> planering av sitt arbete."
+        }
+      }, {
+        "text" : "Eleven organiserar och genomför sitt arbete <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven organiserar och genomför sitt arbete <strong>med viss säkerhet</strong>.",
+          "C" : "Eleven organiserar och genomför sitt arbete <strong>med viss säkerhet</strong>.",
+          "A" : "Eleven organiserar och genomför sitt arbete <strong>med säkerhet</strong>."
+        }
+      }, {
+        "text" : "<strong>________</strong> med handledare väljer eleven traditionella material och arbetsmetoder utifrån den tänkta slutproduktens kvalitet och estetiska utformning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "<strong>I samråd</strong> med handledare väljer eleven traditionella material och arbetsmetoder utifrån den tänkta slutproduktens kvalitet och estetiska utformning.",
+          "C" : "<strong>Efter samråd</strong> med handledare väljer eleven traditionella material och arbetsmetoder utifrån <strong>materialens egenskaper och</strong> den tänkta slutproduktens kvalitet och estetiska utformning.",
+          "A" : "<strong>Efter samråd</strong> med handledare väljer eleven traditionella material och arbetsmetoder utifrån <strong>materialens egenskaper och</strong> den tänkta slutproduktens kvalitet och estetiska utformning."
+        }
+      }, {
+        "text" : "Eleven motiverar <strong>________</strong> sina val med hänsyn till ekonomi och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven motiverar <strong>översiktligt</strong> sina val med hänsyn till ekonomi och miljö.",
+          "C" : "Eleven motiverar <strong>utförligt</strong> sina val med hänsyn till ekonomi och miljö.",
+          "A" : "Eleven motiverar <strong>utförligt och nyanserat</strong> sina val med hänsyn till ekonomi och miljö."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av <strong>________</strong> skisser och ritningar, ger <strong>________</strong> förslag på alternativa lösningar och gör <strong>________</strong> beräkningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av <strong>enkla</strong> skisser och ritningar, ger <strong>enkla</strong> förslag på alternativa lösningar och gör <strong>med viss säkerhet enkla</strong> beräkningar.",
+          "C" : "I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av <strong>genomarbetade</strong> skisser och ritningar, ger <strong>välgrundade</strong> förslag på alternativa lösningar och gör <strong>med viss säkerhet</strong> beräkningar.",
+          "A" : "I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av <strong>genomarbetade</strong> skisser och ritningar, ger <strong>välgrundade och nyanserade</strong> förslag på alternativa lösningar och gör <strong>med säkerhet avancerade</strong> beräkningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> med handledare och <strong>________</strong> tekniker och metoder och uppnår resultat <strong>________</strong> teknisk och estetisk kvalitet <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>i samråd</strong> med handledare och <strong>med viss säkerhet</strong> tekniker och metoder och uppnår resultat <strong>med en</strong> teknisk och estetisk kvalitet <strong>som går att använda i det avsedda sammanhanget</strong>.",
+          "C" : "Eleven använder <strong>efter samråd</strong> med handledare och <strong>med viss säkerhet</strong> tekniker och metoder och uppnår resultat <strong>med en</strong> teknisk och estetisk kvalitet <strong>som fungerar väl i det avsedda sammanhanget</strong>.",
+          "A" : "Eleven använder <strong>efter samråd</strong> med handledare och <strong>med säkerhet</strong> tekniker och metoder och uppnår resultat <strong>som uppfyller höga krav på</strong> teknisk och estetisk kvalitet."
+        }
+      }, {
+        "text" : "I arbetet hanterar eleven verktyg och maskiner med <strong>________</strong> handlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet hanterar eleven verktyg och maskiner med <strong>visst</strong> handlag.",
+          "C" : "I arbetet hanterar eleven verktyg och maskiner med <strong>gott</strong> handlag.",
+          "A" : "I arbetet hanterar eleven verktyg och maskiner med <strong>mycket gott</strong> handlag."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker och löser eleven <strong>________</strong> med handledare eventuella problem som uppkommer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker och löser eleven <strong>i samråd</strong> med handledare eventuella problem som uppkommer.",
+          "C" : "Under arbetet upptäcker och löser eleven <strong>efter samråd</strong> med handledare eventuella problem som uppkommer.",
+          "A" : "Under arbetet upptäcker och löser eleven <strong>efter samråd</strong> med handledare eventuella problem som uppkommer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> sin arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> sin arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> sin arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> sin arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>nyanserade</strong> omdömen."
+        }
+      }, {
+        "text" : "Beskrivningen innehåller <strong>________</strong> förslag på förbättringar av arbetsprocessen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Beskrivningen innehåller <strong>enkla</strong> förslag på förbättringar av arbetsprocessen.",
+          "C" : "Beskrivningen innehåller <strong>välgrundade</strong> förslag på förbättringar av arbetsprocessen.",
+          "A" : "Beskrivningen innehåller <strong>välgrundade och nyanserade</strong> förslag på förbättringar av arbetsprocessen."
+        }
+      }, {
+        "text" : "I beskrivningen använder eleven <strong>________</strong> relevant fackspråk och samisk terminologi.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningen använder eleven <strong>med viss säkerhet</strong> relevant fackspråk och samisk terminologi.",
+          "C" : "I beskrivningen använder eleven <strong>med viss säkerhet</strong> relevant fackspråk och samisk terminologi.",
+          "A" : "I beskrivningen använder eleven <strong>med säkerhet</strong> relevant fackspråk och samisk terminologi."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven hanterar och vårdar <strong>________</strong> med handledare material, verktyg och maskiner på ett riktigt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar och vårdar <strong>i samråd</strong> med handledare material, verktyg och maskiner på ett riktigt och säkert sätt.",
+          "C" : "Eleven hanterar och vårdar <strong>efter samråd</strong> med handledare material, verktyg och maskiner på ett riktigt och säkert sätt.",
+          "A" : "Eleven hanterar och vårdar <strong>efter samråd</strong> med handledare material, verktyg och maskiner på ett riktigt och säkert sätt."
+        }
+      }, {
+        "text" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder.",
+          "C" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder. <strong>Eleven utvärderar sin egen arbetsmiljö med enkla omdömen samt ger välgrundade förslag på förbättringar av arbetsmiljön</strong>.",
+          "A" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder. <strong>Eleven utvärderar sin egen arbetsmiljö med nyanserade omdömen samt ger välgrundade och nyanserade förslag på förbättringar av arbetsmiljön och hur hon eller han själv kan bidra till dessa</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Samiskt hantverk 2",
+    "description" : "Kursen samiskt hantverk 2 omfattar punkterna 2–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 2, 4 och 7–9. I kursen befästs grundkunskaperna i valt hantverksområde. ",
+    "code" : "SAISAM02S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Kreativt och metodiskt tänkande i samiskt hantverk.", "Beskrivning, hantering och kvalitetsbedömning av materialet redan vid materialinsamlingen.", "Materialets uppbyggnad och tillväxt.", "Färgers, formers och proportioners betydelse vid planering av produkter.", "Ekonomiska beräkningar samt bedömning av produktens kvalitet och estetiska värde.", "Traditionella samiska måttenheter samt internationella måttenheter och standarder.", "Beskrivning och dokumentation av idéer och arbetsprocesser med hjälp av fackspråk och samisk terminologi.", "Hantering, underhåll och skötsel av maskiner och verktyg enligt säkerhetsföreskrifter.", "Ergonomiskt riktigt och arbetsmiljömässigt säkert arbetssätt och hur man använder skyddsutrustning.", "Arbete med hänsyn till miljön, till exempel återvinning och källsortering." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tolkar <strong>________</strong> med handledare arbetsuppgifter samt gör en <strong>________</strong> planering av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tolkar <strong>i samråd</strong> med handledare arbetsuppgifter samt gör en <strong>enkel</strong> planering av sitt arbete.",
+          "C" : "Eleven tolkar <strong>efter samråd</strong> med handledare arbetsuppgifter samt gör en <strong>genomarbetad</strong> planering av sitt arbete.",
+          "A" : "Eleven tolkar <strong>efter samråd</strong> med handledare arbetsuppgifter samt gör en <strong>genomarbetad</strong> planering av sitt arbete."
+        }
+      }, {
+        "text" : "Eleven organiserar och genomför sitt arbete <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven organiserar och genomför sitt arbete <strong>med viss säkerhet</strong>.",
+          "C" : "Eleven organiserar och genomför sitt arbete <strong>med viss säkerhet</strong>.",
+          "A" : "Eleven organiserar och genomför sitt arbete <strong>med säkerhet</strong>."
+        }
+      }, {
+        "text" : "<strong>________</strong> handledare väljer eleven material och arbetsmetoder utifrån den tänkta slutproduktens kvalitet och estetiska utformning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "<strong>I samråd med</strong> handledare väljer eleven material och arbetsmetoder utifrån den tänkta slutproduktens kvalitet och estetiska utformning.",
+          "C" : "<strong>Efter samråd</strong> med handledare väljer eleven material och arbetsmetoder utifrån <strong>materialens egenskaper och</strong> den tänkta slutproduktens kvalitet och estetiska utformning.",
+          "A" : "<strong>Efter samråd</strong> med handledare väljer eleven material och arbetsmetoder utifrån <strong>materialens egenskaper och</strong> den tänkta slutproduktens kvalitet och estetiska utformning."
+        }
+      }, {
+        "text" : "Eleven motiverar <strong>________</strong> sina val med hänsyn till ekonomi och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven motiverar <strong>översiktligt</strong> sina val med hänsyn till ekonomi och miljö.",
+          "C" : "Eleven motiverar <strong>utförligt</strong> sina val med hänsyn till ekonomi och miljö.",
+          "A" : "Eleven motiverar <strong>utförligt och nyanserat</strong> sina val med hänsyn till ekonomi och miljö."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av <strong>________</strong> skisser och ritningar, ger <strong>________</strong> förslag på alternativa lösningar och gör <strong>________</strong> beräkningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av <strong>enkla</strong> skisser och ritningar, ger <strong>enkla</strong> förslag på alternativa lösningar och gör <strong>med viss säkerhet enkla</strong> beräkningar.",
+          "C" : "I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av <strong>genomarbetade</strong> skisser och ritningar, ger <strong>välgrundade</strong> förslag på alternativa lösningar och gör <strong>med viss säkerhet</strong> beräkningar.",
+          "A" : "I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av <strong>genomarbetade</strong> skisser och ritningar, ger <strong>välgrundade och nyanserade</strong> förslag på alternativa lösningar och gör <strong>med säkerhet avancerade</strong> beräkningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> med handledare <strong>________</strong> tekniker och metoder och uppnår resultat <strong>________</strong> teknisk och estetisk kvalitet <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>i samråd</strong> med handledare <strong>och med viss säkerhet</strong> tekniker och metoder och uppnår resultat <strong>med en</strong> teknisk och estetisk kvalitet <strong>som går att använda i det avsedda sammanhanget</strong>.",
+          "C" : "Eleven använder <strong>efter samråd</strong> med handledare och <strong>med viss säkerhet</strong> tekniker och metoder och uppnår resultat <strong>med en</strong> teknisk och estetisk kvalitet <strong>som fungerar väl i det avsedda sammanhanget</strong>.",
+          "A" : "Eleven använder <strong>efter samråd</strong> med handledare och <strong>med säkerhet</strong> tekniker och metoder och uppnår resultat <strong>som uppfyller höga krav på</strong> teknisk och estetisk kvalitet."
+        }
+      }, {
+        "text" : "I arbetet hanterar eleven verktyg och maskiner med <strong>________</strong> handlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet hanterar eleven verktyg och maskiner med <strong>visst</strong> handlag.",
+          "C" : "I arbetet hanterar eleven verktyg och maskiner med <strong>gott</strong> handlag.",
+          "A" : "I arbetet hanterar eleven verktyg och maskiner med <strong>mycket gott</strong> handlag."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker och löser eleven <strong>________</strong> med handledare eventuella problem som uppkommer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker och löser eleven <strong>i samråd</strong> med handledare eventuella problem som uppkommer.",
+          "C" : "Under arbetet upptäcker och löser eleven <strong>efter samråd</strong> med handledare eventuella problem som uppkommer.",
+          "A" : "Under arbetet upptäcker och löser eleven <strong>efter samråd</strong> med handledare eventuella problem som uppkommer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> sin arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> sin arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> sin arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> sin arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>nyanserade</strong> omdömen."
+        }
+      }, {
+        "text" : "Beskrivningen innehåller <strong>________</strong> förslag på förbättringar av arbetsprocessen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Beskrivningen innehåller <strong>enkla</strong> förslag på förbättringar av arbetsprocessen.",
+          "C" : "Beskrivningen innehåller <strong>välgrundade</strong> förslag på förbättringar av arbetsprocessen.",
+          "A" : "Beskrivningen innehåller <strong>välgrundade och nyanserade</strong> förslag på förbättringar av arbetsprocessen."
+        }
+      }, {
+        "text" : "I beskrivningen använder eleven <strong>________</strong> relevant fackspråk och samisk terminologi.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningen använder eleven <strong>med viss säkerhet</strong> relevant fackspråk och samisk terminologi.",
+          "C" : "I beskrivningen använder eleven <strong>med viss säkerhet</strong> relevant fackspråk och samisk terminologi.",
+          "A" : "I beskrivningen använder eleven <strong>med säkerhet</strong> relevant fackspråk och samisk terminologi."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven hanterar och vårdar <strong>________</strong> med handledare material, verktyg och maskiner på ett riktigt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar och vårdar <strong>i samråd</strong> med handledare material, verktyg och maskiner på ett riktigt och säkert sätt.",
+          "C" : "Eleven hanterar och vårdar <strong>efter samråd</strong> med handledare material, verktyg och maskiner på ett riktigt och säkert sätt.",
+          "A" : "Eleven hanterar och vårdar <strong>efter samråd</strong> med handledare material, verktyg och maskiner på ett riktigt och säkert sätt."
+        }
+      }, {
+        "text" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder.",
+          "C" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder. <strong>Eleven utvärderar sin egen arbetsmiljö med enkla omdömen samt ger välgrundade förslag på förbättringar av arbetsmiljön</strong>.",
+          "A" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder. <strong>Eleven utvärderar sin egen arbetsmiljö med nyanserade omdömen samt ger välgrundade och nyanserade förslag på förbättringar av arbetsmiljön och hur hon eller han själv kan bidra till dessa</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Samiskt hantverk 3",
+    "description" : "Kursen samiskt hantverk 3 omfattar punkterna 2–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 2, 6–8 och 10. I kursen behandlas fördjupade kunskaper i valt hantverksområde. ",
+    "code" : "SAISAM03S",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Välja och införskaffa traditionellt material till samiskt hantverk och göra det med hänsyn till natur och miljö.", "Materialkunskaper i samband med framställning, förädling, egenskaper, skötsel och användningsområden.", "Planering av arbetet. I samband med det behandlas material-, tids- och kostnadskalkyler.", "Val av form, färg, material och metoder samt verktyg, maskiner och redskap till egna samiska hantverksprodukter.", "Slöjd enligt traditionella former, skisser och tekniker och i enlighet med normer och kvalitetskriterier.", "Samisk terminologi utifrån ortskaraktärer.", "Utvärdering och analys av arbetsprocess och resultat.", "Dokumentation av arbetsprocessen och det färdiga resultatet.", "Hantering, underhåll och skötsel av maskiner och verktyg enligt säkerhetsföreskrifter.", "Ergonomiskt riktigt och arbetsmiljömässigt säkert arbetssätt och användande av skyddsutrustning.", "Arbete med hänsyn till miljön, till exempel genom återvinning och källsortering." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tolkar <strong>________</strong> med handledare arbetsuppgifter samt gör en <strong>________</strong> planering av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tolkar <strong>i samråd</strong> med handledare arbetsuppgifter samt gör en <strong>enkel</strong> planering av sitt arbete.",
+          "C" : "Eleven tolkar <strong>efter samråd</strong> med handledare arbetsuppgifter samt gör en <strong>genomarbetad</strong> planering av sitt arbete.",
+          "A" : "Eleven tolkar <strong>efter samråd</strong> med handledare arbetsuppgifter samt gör en <strong>genomarbetad</strong> planering av sitt arbete."
+        }
+      }, {
+        "text" : "Eleven organiserar och genomför sitt arbete <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven organiserar och genomför sitt arbete <strong>med viss säkerhet</strong>.",
+          "C" : "Eleven organiserar och genomför sitt arbete <strong>med viss säkerhet</strong>.",
+          "A" : "Eleven organiserar och genomför sitt arbete <strong>med säkerhet</strong>."
+        }
+      }, {
+        "text" : "<strong>________</strong> med handledare väljer eleven material och arbetsmetoder utifrån den tänkta slutproduktens kvalitet och estetiska utformning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "<strong>I samråd</strong> med handledare väljer eleven material och arbetsmetoder utifrån den tänkta slutproduktens kvalitet och estetiska utformning.",
+          "C" : "<strong>Efter samråd</strong> med handledare väljer eleven material och arbetsmetoder utifrån <strong>materialens egenskaper och</strong> den tänkta slutproduktens kvalitet och estetiska utformning.",
+          "A" : "<strong>Efter samråd</strong> med handledare väljer eleven material och arbetsmetoder utifrån <strong>materialens egenskaper och</strong> den tänkta slutproduktens kvalitet och estetiska utformning."
+        }
+      }, {
+        "text" : "Eleven motiverar <strong>________</strong> sina val med hänsyn till ekonomi och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven motiverar <strong>översiktligt</strong> sina val med hänsyn till ekonomi och miljö.",
+          "C" : "Eleven motiverar <strong>utförligt</strong> sina val med hänsyn till ekonomi och miljö.",
+          "A" : "Eleven motiverar <strong>utförligt och nyanserat</strong> sina val med hänsyn till ekonomi och miljö."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av <strong>________</strong> skisser och ritningar, ger <strong>________</strong> förslag på alternativa lösningar och gör <strong>________</strong> beräkningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av <strong>enkla</strong> skisser och ritningar, ger <strong>enkla</strong> förslag på alternativa lösningar och gör <strong>med viss säkerhet enkla</strong> beräkningar.",
+          "C" : "I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av <strong>genomarbetade</strong> skisser och ritningar, ger <strong>välgrundade</strong> förslag på alternativa lösningar och gör <strong>med viss säkerhet</strong> beräkningar.",
+          "A" : "I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av <strong>genomarbetade</strong> skisser och ritningar, ger <strong>välgrundade och nyanserade</strong> förslag på alternativa lösningar och gör <strong>med säkerhet avancerade</strong> beräkningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> med handledare <strong>________</strong> tekniker och metoder och uppnår resultat <strong>________</strong> teknisk och estetisk kvalitet <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>i samråd</strong> med handledare <strong>och med viss säkerhet</strong> tekniker och metoder och uppnår resultat <strong>med en</strong> teknisk och estetisk kvalitet <strong>som går att använda i det avsedda sammanhanget</strong>.",
+          "C" : "Eleven använder <strong>efter samråd</strong> med handledare och <strong>med viss säkerhet</strong> tekniker och metoder och uppnår resultat <strong>med en</strong> teknisk och estetisk kvalitet <strong>som fungerar väl i det avsedda sammanhanget</strong>.",
+          "A" : "Eleven använder <strong>efter samråd</strong> med handledare och <strong>med säkerhet</strong> tekniker och metoder och uppnår resultat <strong>som uppfyller höga krav på</strong> teknisk och estetisk kvalitet."
+        }
+      }, {
+        "text" : "I arbetet hanterar eleven verktyg och maskiner med <strong>________</strong> handlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet hanterar eleven verktyg och maskiner med <strong>visst</strong> handlag.",
+          "C" : "I arbetet hanterar eleven verktyg och maskiner med <strong>gott</strong> handlag.",
+          "A" : "I arbetet hanterar eleven verktyg och maskiner med <strong>mycket gott</strong> handlag."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker och löser eleven <strong>________</strong> med handledare eventuella problem som uppkommer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker och löser eleven <strong>i samråd</strong> med handledare eventuella problem som uppkommer.",
+          "C" : "Under arbetet upptäcker och löser eleven <strong>efter samråd</strong> med handledare eventuella problem som uppkommer.",
+          "A" : "Under arbetet upptäcker och löser eleven <strong>efter samråd</strong> med handledare eventuella problem som uppkommer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> sin arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> sin arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> sin arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> sin arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>nyanserade</strong> omdömen."
+        }
+      }, {
+        "text" : "Beskrivningen innehåller <strong>________</strong> förslag på förbättringar av arbetsprocessen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Beskrivningen innehåller <strong>enkla</strong> förslag på förbättringar av arbetsprocessen.",
+          "C" : "Beskrivningen innehåller <strong>välgrundade</strong> förslag på förbättringar av arbetsprocessen.",
+          "A" : "Beskrivningen innehåller <strong>välgrundade och nyanserade</strong> förslag på förbättringar av arbetsprocessen."
+        }
+      }, {
+        "text" : "I beskrivningen använder eleven <strong>________</strong> relevant fackspråk och samisk terminologi.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningen använder eleven <strong>med viss säkerhet</strong> relevant fackspråk och samisk terminologi.",
+          "C" : "I beskrivningen använder eleven <strong>med viss säkerhet</strong> relevant fackspråk och samisk terminologi.",
+          "A" : "I beskrivningen använder eleven <strong>med säkerhet</strong> relevant fackspråk och samisk terminologi."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven hanterar och vårdar <strong>________</strong> med handledare material, verktyg och maskiner på ett riktigt och säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven hanterar och vårdar <strong>i samråd</strong> med handledare material, verktyg och maskiner på ett riktigt och säkert sätt.",
+          "C" : "Eleven hanterar och vårdar <strong>efter samråd</strong> med handledare material, verktyg och maskiner på ett riktigt och säkert sätt.",
+          "A" : "Eleven hanterar och vårdar <strong>efter samråd</strong> med handledare material, verktyg och maskiner på ett riktigt och säkert sätt."
+        }
+      }, {
+        "text" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder.",
+          "C" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder. <strong>Eleven utvärderar sin egen arbetsmiljö med enkla omdömen samt ger välgrundade förslag på förbättringar av arbetsmiljön</strong>.",
+          "A" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder. <strong>Eleven utvärderar sin egen arbetsmiljö med nyanserade omdömen samt ger välgrundade och nyanserade förslag på förbättringar av arbetsmiljön och hur hon eller han själv kan bidra till dessa</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Samiskt hantverk 4",
+    "description" : "Kursen samiskt hantverk 4 omfattar punkterna 2–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 2–3, 6–8 och 10. I kursen behandlas utökade fördjupade kunskaper i ämnet.",
+    "code" : "SAISAM04",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Produkt- och materialkunskap i samband med planering och genomförande.", "Produktionsplanering för effektivisering. I samband med det behandlas material-, tids- och kostnadskalkyler.", "Skissteknik, ritteknik och konstruktion för vidareutveckling av idéer. Analys av färg, form och proportioner för kvalitetshöjning av resultat.", "Fackspråk och samisk terminologi, anpassat efter situation och mottagare, till exempel vid kommunikation med bransch och kund.", "Utvärdering och analys av arbetsprocess och resultat.", "Digitala tekniker för presentation av det färdiga arbetet.", "Ergonomiskt riktigt och arbetsmiljömässigt säkert arbetssätt.", "Arbete med hänsyn till miljön, till exempel genom återvinning och källsortering.", "Kundorienterat och ansvarsfullt yrkesutövande vid målinriktad tillverkning, försäljning och service, till exempel vid kundsamtal." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tolkar <strong>________</strong> med handledare arbetsuppgifter samt gör en <strong>________</strong> planering av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tolkar <strong>i samråd</strong> med handledare arbetsuppgifter samt gör en <strong>enkel</strong> planering av sitt arbete.",
+          "C" : "Eleven tolkar <strong>efter samråd</strong> med handledare arbetsuppgifter samt gör en <strong>genomarbetad</strong> planering av sitt arbete.",
+          "A" : "Eleven tolkar <strong>efter samråd</strong> med handledare arbetsuppgifter samt gör en <strong>genomarbetad</strong> planering av sitt arbete."
+        }
+      }, {
+        "text" : "Eleven organiserar och genomför sitt arbete <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven organiserar och genomför sitt arbete <strong>med viss säkerhet</strong>.",
+          "C" : "Eleven organiserar och genomför sitt arbete <strong>med viss säkerhet</strong>.",
+          "A" : "Eleven organiserar och genomför sitt arbete <strong>med säkerhet</strong>."
+        }
+      }, {
+        "text" : "<strong>________</strong> med handledare väljer eleven material och arbetsmetoder utifrån den tänkta slutproduktens kvalitet och estetiska utformning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "<strong>I samråd</strong> med handledare väljer eleven material och arbetsmetoder utifrån den tänkta slutproduktens kvalitet och estetiska utformning.",
+          "C" : "<strong>Efter samråd</strong> med handledare väljer eleven material och arbetsmetoder utifrån <strong>materialens egenskaper och</strong> den tänkta slutproduktens kvalitet och estetiska utformning.",
+          "A" : "<strong>Efter samråd</strong> med handledare väljer eleven material och arbetsmetoder utifrån <strong>materialens egenskaper och</strong> den tänkta slutproduktens kvalitet och estetiska utformning."
+        }
+      }, {
+        "text" : "Eleven motiverar <strong>________</strong> sina val med hänsyn till ekonomi och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven motiverar <strong>översiktligt</strong> sina val med hänsyn till ekonomi och miljö.",
+          "C" : "Eleven motiverar <strong>utförligt</strong> sina val med hänsyn till ekonomi och miljö.",
+          "A" : "Eleven motiverar <strong>utförligt och nyanserat</strong> sina val med hänsyn till ekonomi och miljö."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av <strong>________</strong> skisser och ritningar, ger <strong>________</strong> förslag på alternativa lösningar och gör <strong>________</strong> beräkningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av <strong>enkla</strong> skisser och ritningar, ger <strong>enkla</strong> förslag på alternativa lösningar och gör <strong>med viss säkerhet enkla</strong> beräkningar.",
+          "C" : "I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av <strong>genomarbetade</strong> skisser och ritningar, ger <strong>välgrundade</strong> förslag på alternativa lösningar och gör <strong>med viss säkerhet</strong> beräkningar.",
+          "A" : "I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av <strong>genomarbetade</strong> skisser och ritningar, ger <strong>välgrundade och nyanserade</strong> förslag på alternativa lösningar och gör <strong>med säkerhet komplexa</strong> beräkningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> med handledare <strong>________</strong> tekniker och metoder och uppnår resultat <strong>________</strong> teknisk och estetisk kvalitet <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>i samråd</strong> med handledare <strong>och med viss säkerhet</strong> tekniker och metoder och uppnår resultat <strong>med en</strong> teknisk och estetisk kvalitet <strong>som går att använda i det avsedda sammanhanget</strong>.",
+          "C" : "Eleven använder <strong>efter samråd</strong> med handledare och <strong>med viss säkerhet</strong> tekniker och metoder och uppnår resultat <strong>med en</strong> teknisk och estetisk kvalitet <strong>som fungerar väl i det avsedda sammanhanget</strong>.",
+          "A" : "Eleven använder <strong>efter samråd</strong> med handledare och <strong>med säkerhet</strong> tekniker och metoder och uppnår resultat <strong>som uppfyller höga krav på</strong> teknisk och estetisk kvalitet."
+        }
+      }, {
+        "text" : "I arbetet hanterar eleven verktyg och maskiner med <strong>________</strong> handlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet hanterar eleven verktyg och maskiner med <strong>visst</strong> handlag.",
+          "C" : "I arbetet hanterar eleven verktyg och maskiner med <strong>gott</strong> handlag.",
+          "A" : "I arbetet hanterar eleven verktyg och maskiner med <strong>mycket gott</strong> handlag."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker och löser eleven <strong>________</strong> med handledare eventuella problem som uppkommer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker och löser eleven <strong>i samråd</strong> med handledare eventuella problem som uppkommer.",
+          "C" : "Under arbetet upptäcker och löser eleven <strong>efter samråd</strong> med handledare eventuella problem som uppkommer.",
+          "A" : "Under arbetet upptäcker och löser eleven <strong>efter samråd</strong> med handledare eventuella problem som uppkommer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> sin arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> sin arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> sin arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> sin arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>nyanserade</strong> omdömen."
+        }
+      }, {
+        "text" : "Beskrivningen innehåller <strong>________</strong> förslag på förbättringar av arbetsprocessen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Beskrivningen innehåller <strong>enkla</strong> förslag på förbättringar av arbetsprocessen.",
+          "C" : "Beskrivningen innehåller <strong>välgrundade</strong> förslag på förbättringar av arbetsprocessen.",
+          "A" : "Beskrivningen innehåller <strong>välgrundade och nyanserade</strong> förslag på förbättringar av arbetsprocessen."
+        }
+      }, {
+        "text" : "I beskrivningen använder eleven <strong>________</strong> relevant fackspråk och samisk terminologi.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningen använder eleven <strong>med viss säkerhet</strong> relevant fackspråk och samisk terminologi.",
+          "C" : "I beskrivningen använder eleven <strong>med viss säkerhet</strong> relevant fackspråk och samisk terminologi.",
+          "A" : "I beskrivningen använder eleven <strong>med säkerhet</strong> relevant fackspråk och samisk terminologi."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> med handledare digitala tekniker.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>i samråd</strong> med handledare digitala tekniker.",
+          "C" : "Eleven använder <strong>efter samråd</strong> med handledare digitala tekniker.",
+          "A" : "Eleven använder <strong>efter samråd</strong> med handledare digitala tekniker."
+        }
+      }, {
+        "text" : "Dessutom hanterar och vårdar eleven på ett riktigt och säkert sätt material, verktyg och maskiner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom hanterar och vårdar eleven på ett riktigt och säkert sätt material, verktyg och maskiner.",
+          "C" : "Dessutom hanterar och vårdar eleven på ett riktigt och säkert sätt material, verktyg och maskiner.",
+          "A" : "Dessutom hanterar och vårdar eleven på ett riktigt och säkert sätt material, verktyg och maskiner."
+        }
+      }, {
+        "text" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder.",
+          "C" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder. <strong>Eleven utvärderar sin egen arbetsmiljö med enkla omdömen samt ger enkla förslag på förbättringar av arbetsmiljön</strong>.",
+          "A" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder. <strong>Eleven utvärderar sin egen arbetsmiljö med nyanserade omdömen samt ger välgrundade förslag på förbättringar av arbetsmiljön och hur hon eller han själv kan bidra till dessa</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven agerar kundorienterat i <strong>________</strong> försäljnings- eller servicesituationer samt motiverar <strong>________</strong> sitt agerande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven agerar kundorienterat i <strong>bekanta</strong> försäljnings- eller servicesituationer samt motiverar <strong>översiktligt</strong> sitt agerande.",
+          "C" : "Eleven agerar kundorienterat i <strong>bekanta</strong> försäljnings- eller servicesituationer, <strong>tar egna initiativ</strong> samt motiverar <strong>utförligt</strong> sitt agerande.",
+          "A" : "Eleven agerar kundorienterat i <strong>nya</strong> försäljnings- eller servicesituationer, <strong>tar egna initiativ</strong> samt motiverar <strong>utförligt och nyanserat</strong> sitt agerande <strong>och ger förslag på alternativa tillvägagångssätt i agerandet</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Samiskt hantverk 5",
+    "description" : "Kursen samiskt hantverk 5 omfattar punkterna 2–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 2, 4–6 och 8. I kursen behandlas utökade fördjupade kunskaper i ämnet.",
+    "code" : "SAISAM05",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Kreativt produktionsarbete med effektivisering, lönsamhet och resultatets kvalitet i fokus. I samband med det behandlas produktionsplanering samt material-, tids- och kostnadskalkyler.", "Planering av inköp och prissättning av produkter, varor och tjänster.", "Skissteknik, ritteknik och konstruktion för vidareutveckling av idéer.", "Analys av färg, form och proportioner för kvalitetshöjning av resultatet.", "Fackspråk och samisk terminologi, anpassat efter situation och mottagare, till exempel vid kommunikation med bransch och kund.", "Utvärdering och analys av arbetsprocess och resultat.", "Digitala tekniker för presentation av det färdiga arbetet.", "Ergonomiskt riktigt och arbetsmiljömässigt säkert arbetssätt.", "Arbete med hänsyn till miljön, till exempel genom återvinning och källsortering.", "Kundorienterat och ansvarsfullt yrkesutövande vid målinriktad tillverkning, försäljning och service, till exempel behovsanalys." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven tolkar <strong>________</strong> med handledare arbetsuppgifter samt gör en <strong>________</strong> planering av sitt arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven tolkar <strong>i samråd</strong> med handledare arbetsuppgifter samt gör en <strong>enkel</strong> planering av sitt arbete.",
+          "C" : "Eleven tolkar <strong>efter samråd</strong> med handledare arbetsuppgifter samt gör en <strong>genomarbetad</strong> planering av sitt arbete.",
+          "A" : "Eleven tolkar <strong>efter samråd</strong> med handledare arbetsuppgifter samt gör en <strong>genomarbetad</strong> planering av sitt arbete."
+        }
+      }, {
+        "text" : "Eleven organiserar och genomför sitt arbete <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven organiserar och genomför sitt arbete <strong>med viss säkerhet</strong>.",
+          "C" : "Eleven organiserar och genomför sitt arbete <strong>med viss säkerhet</strong>.",
+          "A" : "Eleven organiserar och genomför sitt arbete <strong>med säkerhet</strong>."
+        }
+      }, {
+        "text" : "<strong>________</strong> med handledare väljer eleven material och arbetsmetoder utifrån den tänkta slutproduktens kvalitet och estetiska utformning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "<strong>I samråd</strong> med handledare väljer eleven material och arbetsmetoder utifrån den tänkta slutproduktens kvalitet och estetiska utformning.",
+          "C" : "<strong>Efter samråd</strong> med handledare väljer eleven material och arbetsmetoder utifrån <strong>materialens egenskaper och</strong> den tänkta slutproduktens kvalitet och estetiska utformning.",
+          "A" : "<strong>Efter samråd</strong> med handledare väljer eleven material och arbetsmetoder utifrån <strong>materialens egenskaper och</strong> den tänkta slutproduktens kvalitet och estetiska utformning."
+        }
+      }, {
+        "text" : "Eleven motiverar <strong>________</strong> sina val med hänsyn till ekonomi och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven motiverar <strong>översiktligt</strong> sina val med hänsyn till ekonomi och miljö.",
+          "C" : "Eleven motiverar <strong>utförligt</strong> sina val med hänsyn till ekonomi och miljö.",
+          "A" : "Eleven motiverar <strong>utförligt och nyanserat</strong> sina val med hänsyn till ekonomi och miljö."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av <strong>________</strong> skisser och ritningar, ger <strong>________</strong> förslag på alternativa lösningar och gör <strong>________</strong> beräkningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av <strong>enkla</strong> skisser och ritningar, ger <strong>enkla</strong> förslag på alternativa lösningar och gör <strong>med viss säkerhet enkla</strong> beräkningar.",
+          "C" : "I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av <strong>genomarbetade</strong> skisser och ritningar, ger <strong>välgrundade</strong> förslag på alternativa lösningar och gör <strong>med viss säkerhet</strong> beräkningar.",
+          "A" : "I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av <strong>genomarbetade</strong> skisser och ritningar, ger <strong>välgrundade och nyanserade</strong> förslag på alternativa lösningar och gör <strong>med säkerhet komplexa</strong> beräkningar."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> med handledare <strong>________</strong> tekniker och metoder och uppnår resultat <strong>________</strong> teknisk och estetisk kvalitet <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>i samråd</strong> med handledare <strong>och med viss säkerhet</strong> tekniker och metoder och uppnår resultat <strong>med en</strong> teknisk och estetisk kvalitet <strong>som går att använda i det avsedda sammanhanget</strong>.",
+          "C" : "Eleven använder <strong>efter samråd</strong> med handledare och <strong>med viss säkerhet</strong> tekniker och metoder och uppnår resultat <strong>med en</strong> teknisk och estetisk kvalitet <strong>som fungerar väl i det avsedda sammanhanget</strong>.",
+          "A" : "Eleven använder <strong>efter samråd</strong> med handledare och <strong>med säkerhet</strong> tekniker och metoder och uppnår resultat <strong>som uppfyller höga krav på</strong> teknisk och estetisk kvalitet."
+        }
+      }, {
+        "text" : "I arbetet hanterar eleven verktyg och maskiner med <strong>________</strong> handlag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet hanterar eleven verktyg och maskiner med <strong>visst</strong> handlag.",
+          "C" : "I arbetet hanterar eleven verktyg och maskiner med <strong>gott</strong> handlag.",
+          "A" : "I arbetet hanterar eleven verktyg och maskiner med <strong>mycket gott</strong> handlag."
+        }
+      }, {
+        "text" : "Under arbetet upptäcker och löser eleven <strong>________</strong> med handledare eventuella problem som uppkommer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Under arbetet upptäcker och löser eleven <strong>i samråd</strong> med handledare eventuella problem som uppkommer.",
+          "C" : "Under arbetet upptäcker och löser eleven <strong>efter samråd</strong> med handledare eventuella problem som uppkommer.",
+          "A" : "Under arbetet upptäcker och löser eleven <strong>efter samråd</strong> med handledare eventuella problem som uppkommer."
+        }
+      }, {
+        "text" : "Eleven beskriver <strong>________</strong> sin arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>________</strong> omdömen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> sin arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>enkla</strong> omdömen.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> sin arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>nyanserade</strong> omdömen.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> sin arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>nyanserade</strong> omdömen."
+        }
+      }, {
+        "text" : "Beskrivningen innehåller <strong>________</strong> förslag på förbättringar av arbetsprocessen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Beskrivningen innehåller <strong>enkla</strong> förslag på förbättringar av arbetsprocessen.",
+          "C" : "Beskrivningen innehåller <strong>välgrundade</strong> förslag på förbättringar av arbetsprocessen.",
+          "A" : "Beskrivningen innehåller <strong>välgrundade och nyanserade</strong> förslag på förbättringar av arbetsprocessen."
+        }
+      }, {
+        "text" : "I beskrivningen använder eleven <strong>________</strong> relevant fackspråk och samisk terminologi.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningen använder eleven <strong>med viss säkerhet</strong> relevant fackspråk och samisk terminologi.",
+          "C" : "I beskrivningen använder eleven <strong>med viss säkerhet</strong> relevant fackspråk och samisk terminologi.",
+          "A" : "I beskrivningen använder eleven <strong>med säkerhet</strong> relevant fackspråk och samisk terminologi."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> med handledare digitala tekniker.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>i samråd</strong> med handledare digitala tekniker.",
+          "C" : "Eleven använder <strong>efter samråd</strong> med handledare digitala tekniker.",
+          "A" : "Eleven använder <strong>efter samråd</strong> med handledare digitala tekniker."
+        }
+      }, {
+        "text" : "Dessutom hanterar och vårdar eleven på ett riktigt och säkert sätt material, verktyg och maskiner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom hanterar och vårdar eleven på ett riktigt och säkert sätt material, verktyg och maskiner.",
+          "C" : "Dessutom hanterar och vårdar eleven på ett riktigt och säkert sätt material, verktyg och maskiner.",
+          "A" : "Dessutom hanterar och vårdar eleven på ett riktigt och säkert sätt material, verktyg och maskiner."
+        }
+      }, {
+        "text" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder.",
+          "C" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder. <strong>Eleven utvärderar sin egen arbetsmiljö med enkla omdömen samt ger enkla förslag på förbättringar av arbetsmiljön</strong>.",
+          "A" : "Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder. <strong>Eleven utvärderar sin egen arbetsmiljö med nyanserade omdömen samt ger välgrundade förslag på förbättringar av arbetsmiljön och hur hon eller han själv kan bidra till dessa</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven agerar kundorienterat i <strong>________</strong> försäljnings- eller servicesituationer samt motiverar <strong>________</strong> sitt agerande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven agerar kundorienterat i <strong>bekanta</strong> försäljnings- eller servicesituationer samt motiverar <strong>översiktligt</strong> sitt agerande.",
+          "C" : "Eleven agerar kundorienterat i <strong>bekanta</strong> försäljnings- eller servicesituationer, <strong>tar egna initiativ</strong> samt motiverar <strong>utförligt</strong> sitt agerande.",
+          "A" : "Eleven agerar kundorienterat i <strong>nya</strong> försäljnings- eller servicesituationer, <strong>tar egna initiativ</strong> samt motiverar <strong>utförligt och nyanserat</strong> sitt agerande <strong>och ger förslag på alternativa tillvägagångssätt i agerandet</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

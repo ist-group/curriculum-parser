@@ -1,0 +1,259 @@
+{
+  "name" : "Fastighetsförvaltning",
+  "description" : "Ämnet fastighetsförvaltning behandlar hur man planerar, utför och följer upp underhåll av fastigheter samt upprätthåller ett boende och brukande av god kvalitet. I ämnet behandlas service, teknik, ekonomi, administration, kommunikation och regelverk inom fastighetsområdet.",
+  "code" : "FAF",
+  "designation" : "",
+  "skolfsId" : "2010:75",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet fastighetsförvaltning ska syfta till att eleverna utvecklar förmåga att planera och genomföra arbetsuppgifter som förekommer inom fastighetsförvaltning.", "Den ska ge eleverna möjlighet att utveckla kunskaper om säkerhetsfrågor, avfallsfrågor, energifrågor och administration samt om lagar och andra bestämmelser.", "I undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om systematiskt säkerhetsarbete och riskhantering samt om brandrisk och brandskydd." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar förmåga att bemöta och kommunicera med ägare, brukare och hyresgäster i olika typer av fastigheter samt att reflektera över sin egen kommunikation.", "Dessutom ska eleverna ges möjlighet att utveckla färdigheter i att hantera information med modern utrustning." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att använda modern digital utrustning och programvara för driftövervakning av fastighetsanläggningar samt för övervakning av olika ytor och utrymmen.", "Undervisningen ska genomföras så att det praktiska arbetet med digital utrustning kopplas samman med teoretiska kunskaper." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet fastighetsförvaltning ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om fastighetsjuridik, säkerhetsfrågor och riskhantering inom fastighetsområdet.", "Kunskaper om fastighetsförvaltningens tekniska och ekonomiska förutsättningar och generella energibesparingsåtgärder.", "Kunskaper om regler för avfallshantering, återvinning och renhållning.", "Förmåga att använda modern digital utrustning för att övervaka, kommunicera samt ta emot, hämta och söka information.", "Förmåga att använda modern och aktuell programvara.", "Kunskaper om etiska och datarättsliga frågor.", "Förmåga att reflektera över sitt eget och andra människors sätt att kommunicera.", "Kunskaper om kommunikationens komplexitet utifrån sociala och kulturella faktorer.", "Förmåga att i tal och skrift informera individer och olika målgrupper, att samverka med andra samt att dokumentera sitt arbete." ]
+  } ],
+  "courses" : [ {
+    "name" : "Fastighetsförvaltning",
+    "description" : "Kursen fastighetsförvaltning omfattar punkterna 1–6 och 9 under rubriken Ämnets syfte.",
+    "code" : "FAFFAS0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Fastighetsjuridik avseende avtalsrätt, till exempel hyresrätt, besittningsrätt och hyreslagstiftning samt besiktningar och besiktningsåtgärder.", "Systematiskt säkerhetsarbete, riskhantering, brandrisk och brandskydd, inbrottsskydd, övervakning, skyddsrum och utrymningsvägar.", "Ekonomiska frågor, till exempel hyresbevakning, inkasso och avskrivningar. Tekniska frågor, till exempel planerat underhåll och renoveringsarbete. Generella energibesparingsåtgärder.", "Avfallshantering, hälsofrågor och regler i samband med sophantering, källsortering och kompostering av sopor samt kommunala renhållningsregler.", "Modern digital utrustning för att övervaka fastighetsdrift, gemensamma utrymmen och ytor samt för att kommunicera och ta emot, hämta och söka information.", "Programvara för vanligt förekommande arbetsuppgifter inom fastighetsförvaltning.", "Etiska och datarättsliga frågor: upphovsrätt, yttrande- och informationsfrihet, personuppgiftslagen och människors rätt till integritetsskydd.", "Olika informationstekniker beroende på målgrupp och kommunikationsmedel. Olika samverkansformer beroende på individ och grupp." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för fastighetsjuridik, säkerhetsfrågor och riskhantering inom fastighetsområdet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för fastighetsjuridik, säkerhetsfrågor och riskhantering inom fastighetsområdet.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för fastighetsjuridik, säkerhetsfrågor och riskhantering inom fastighetsområdet.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för fastighetsjuridik, säkerhetsfrågor och riskhantering inom fastighetsområdet."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> tekniska och ekonomiska förutsättningar för en effektiv fastighetsförvaltning och hänvisar <strong>________</strong> till dessa förutsättningar vid olika former av åtgärder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> tekniska och ekonomiska förutsättningar för en effektiv fastighetsförvaltning och hänvisar <strong>med viss säkerhet</strong> till dessa förutsättningar vid olika former av åtgärder.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> tekniska och ekonomiska förutsättningar för en effektiv fastighetsförvaltning och hänvisar <strong>med viss säkerhet</strong> till dessa förutsättningar vid olika former av åtgärder.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> tekniska och ekonomiska förutsättningar för en effektiv fastighetsförvaltning och hänvisar <strong>med säkerhet</strong> till dessa förutsättningar vid olika former av åtgärder."
+        }
+      }, {
+        "text" : "Dessutom ger eleven <strong>________</strong> exempel på generella energibesparingsåtgärder samt beskriver <strong>________</strong> regler för avfallshantering, återvinning och renhållning i fastigheter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom ger eleven <strong>något</strong> exempel på generella energibesparingsåtgärder samt beskriver <strong>översiktligt</strong> regler för avfallshantering, återvinning och renhållning i fastigheter.",
+          "C" : "Dessutom ger eleven <strong>några</strong> exempel på generella energibesparingsåtgärder samt beskriver <strong>utförligt</strong> regler för avfallshantering, återvinning och renhållning i fastigheter.",
+          "A" : "Dessutom ger eleven <strong>flera</strong> exempel på generella energibesparingsåtgärder samt beskriver <strong>utförligt och nyanserat</strong> regler för avfallshantering, återvinning och renhållning i fastigheter."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven väljer och använder <strong>________</strong> med handledare digital utrustning och programvara för att övervaka, kommunicera och hantera information.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven väljer och använder <strong>i samråd</strong> med handledare digital utrustning och programvara för att övervaka, kommunicera och hantera information.",
+          "C" : "Eleven väljer och använder <strong>efter samråd</strong> med handledare digital utrustning och programvara för att övervaka, kommunicera och hantera information.",
+          "A" : "Eleven väljer och använder <strong>efter samråd</strong> med handledare digital utrustning och programvara för att övervaka, kommunicera och hantera information."
+        }
+      }, {
+        "text" : "I arbetet hanterar eleven <strong>________</strong> informationen på ett för berörda individer säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet hanterar eleven <strong>med viss säkerhet</strong> informationen på ett för berörda individer säkert sätt.",
+          "C" : "I arbetet hanterar eleven <strong>med viss säkerhet</strong> informationen på ett för berörda individer säkert sätt.",
+          "A" : "I arbetet hanterar eleven <strong>med säkerhet</strong> informationen på ett för berörda individer säkert sätt."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för etiska och datarättsliga frågor i relation till arbetsuppgifterna, samt gör <strong>________</strong> reflektioner över dessa frågor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för etiska och datarättsliga frågor i relation till arbetsuppgifterna, samt gör <strong>enkla</strong> reflektioner över dessa frågor.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för etiska och datarättsliga frågor i relation till arbetsuppgifterna, samt gör <strong>välgrundade</strong> reflektioner över dessa frågor.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för etiska och datarättsliga frågor i relation till arbetsuppgifterna, samt gör <strong>välgrundade och nyanserade</strong> reflektioner över dessa frågor."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven informerar med ett <strong>________</strong> i huvudsak korrekt språk samt anpassar <strong>________</strong> sin kommunikation efter situation och mottagare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven informerar med ett <strong>enkelt och</strong> i huvudsak korrekt språk samt anpassar <strong>med viss säkerhet</strong> sin kommunikation efter situation och mottagare.",
+          "C" : "Eleven informerar med ett i huvudsak korrekt språk samt anpassar <strong>med viss säkerhet</strong> sin kommunikation efter situation och mottagare.",
+          "A" : "Eleven informerar med ett <strong>nyanserat och</strong> i huvudsak korrekt språk samt anpassar <strong>med säkerhet</strong> sin kommunikation efter situation och mottagare."
+        }
+      }, {
+        "text" : "Dessutom samverkar eleven <strong>________</strong> med andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom samverkar eleven <strong>med viss säkerhet</strong> med andra.",
+          "C" : "Dessutom samverkar eleven <strong>med viss säkerhet</strong> med andra.",
+          "A" : "Dessutom samverkar eleven <strong>med säkerhet</strong> med andra."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Fastighetskommunikation",
+    "description" : "Kursen fastighetskommunikation omfattar punkterna 4–9 under rubriken Ämnets syfte, med särskild betoning på punkterna 7 och 8.",
+    "code" : "FAFFAT0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Digital utrustning och programvara för att kommunicera med och informera olika målgrupper.", "Etiska och datarättsliga frågor: upphovsrätt, yttrande- och informationsfrihet och människors rätt till integritetsskydd.", "Hur man reflekterar över sitt eget och andra människors sätt att kommunicera individuellt och i grupp. Det sociala sammanhangets betydelse för kommunikation och interaktion.", "Kommunikationens komplexitet utifrån sociala faktorer, till exempel individualitet, kroppsspråk, krissituationer och känslor samt utifrån kulturella faktorer, till exempel kulturmöten och kulturkrockar.", "Muntlig och skriftlig information till olika individer och målgrupper, till exempel ägare, brukare, entreprenörer och hyresgäster med olika kulturella och etniska bakgrunder. Olika informationstekniker och pedagogiska principer för att i tal och skrift informera olika målgrupper och samverka med andra människor. Metoder för att dokumentera kommunikationsprocesser." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven väljer och använder <strong>________</strong> med handledare digital utrustning och programvara för att kommunicera med och informera olika målgrupper.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven väljer och använder <strong>i samråd</strong> med handledare digital utrustning och programvara för att kommunicera med och informera olika målgrupper.",
+          "C" : "Eleven väljer och använder <strong>efter samråd</strong> med handledare digital utrustning och programvara för att kommunicera med och informera olika målgrupper.",
+          "A" : "Eleven väljer och använder <strong>efter samråd</strong> med handledare digital utrustning och programvara för att kommunicera med och informera olika målgrupper."
+        }
+      }, {
+        "text" : "I arbetet hanterar eleven <strong>________</strong> informationen på ett för berörda individer säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet hanterar eleven <strong>med viss säkerhet</strong> informationen på ett för berörda individer säkert sätt.",
+          "C" : "I arbetet hanterar eleven <strong>med viss säkerhet</strong> informationen på ett för berörda individer säkert sätt.",
+          "A" : "I arbetet hanterar eleven <strong>med säkerhet</strong> informationen på ett för berörda individer säkert sätt."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för etiska och datarättsliga frågor i relation till arbetsuppgifterna, samt gör <strong>________</strong> reflektioner över dessa frågor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för etiska och datarättsliga frågor i relation till arbetsuppgifterna, samt gör <strong>enkla</strong> reflektioner över dessa frågor.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för etiska och datarättsliga frågor i relation till arbetsuppgifterna, samt gör <strong>välgrundade</strong> reflektioner över dessa frågor.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för etiska och datarättsliga frågor i relation till arbetsuppgifterna, samt gör <strong>välgrundade och nyanserade</strong> reflektioner över dessa frågor."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven gör <strong>________</strong> reflektioner över sitt eget och andra människors sätt att kommunicera.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör <strong>enkla</strong> reflektioner över sitt eget och andra människors sätt att kommunicera.",
+          "C" : "Eleven gör <strong>välgrundade</strong> reflektioner över sitt eget och andra människors sätt att kommunicera.",
+          "A" : "Eleven gör <strong>välgrundade och nyanserade</strong> reflektioner över sitt eget och andra människors sätt att kommunicera."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för kommunikationens komplexitet utifrån sociala och kulturella faktorer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för kommunikationens komplexitet utifrån sociala och kulturella faktorer.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för kommunikationens komplexitet utifrån sociala och kulturella faktorer.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för kommunikationens komplexitet utifrån sociala och kulturella faktorer."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven informerar med ett <strong>________</strong> i huvudsak korrekt språk samt anpassar <strong>________</strong> sin kommunikation efter situation och mottagare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven informerar med ett <strong>enkelt och</strong> i huvudsak korrekt språk samt anpassar <strong>med viss säkerhet</strong> sin kommunikation efter situation och mottagare.",
+          "C" : "Eleven informerar med ett i huvudsak korrekt språk samt anpassar <strong>med viss säkerhet</strong> sin kommunikation efter situation och mottagare.",
+          "A" : "Eleven informerar med ett <strong>nyanserat och</strong> i huvudsak korrekt språk samt anpassar <strong>med säkerhet</strong> sin kommunikation efter situation och mottagare."
+        }
+      }, {
+        "text" : "Eleven samverkar också <strong>________</strong> med andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samverkar också <strong>med viss säkerhet</strong> med andra.",
+          "C" : "Eleven samverkar också <strong>med viss säkerhet</strong> med andra.",
+          "A" : "Eleven samverkar också <strong>med säkerhet</strong> med andra."
+        }
+      }, {
+        "text" : "Dessutom gör eleven en <strong>________</strong> dokumentation över sina kommunikationsprocesser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom gör eleven en <strong>enkel</strong> dokumentation över sina kommunikationsprocesser.",
+          "C" : "Dessutom gör eleven en <strong>noggrann</strong> dokumentation över sina kommunikationsprocesser.",
+          "A" : "Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation över sina kommunikationsprocesser."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Informationsteknik i fastighetsförvaltning",
+    "description" : "Kursen informationsteknik i fastighetsförvaltning omfattar punkterna 4–6 och 9 under rubriken Ämnets syfte.",
+    "code" : "FAFINF0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Stationära och mobila datorer och digitala system för driftövervakning av fastigheter och övervakning av lokaler och ytor samt för att presentera information.", "Programvara för vanligt förekommande arbetsuppgifter inom fastighetsförvaltning, till exempel för ordbehandling, kalkylering, register- och ritningshantering och övervakning.", "Etiska och datarättsliga frågor: upphovsrätt, yttrande- och informationsfrihet och människors rätt till integritetsskydd.", "Skriftlig information till och samverkan med olika individer och målgrupper, till exempel ägare, brukare, entreprenörer och hyresgäster med olika kulturella och etniska bakgrunder." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven väljer och använder <strong>________</strong> med handledare digital utrustning och programvara för att övervaka, kommunicera och hantera information.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven väljer och använder <strong>i samråd</strong> med handledare digital utrustning och programvara för att övervaka, kommunicera och hantera information.",
+          "C" : "Eleven väljer och använder <strong>efter samråd</strong> med handledare digital utrustning och programvara för att övervaka, kommunicera och hantera information.",
+          "A" : "Eleven väljer och använder <strong>efter samråd</strong> med handledare digital utrustning och programvara för att övervaka, kommunicera och hantera information."
+        }
+      }, {
+        "text" : "I arbetet hanterar eleven <strong>________</strong> informationen på ett för berörda individer säkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet hanterar eleven <strong>med viss säkerhet</strong> informationen på ett för berörda individer säkert sätt.",
+          "C" : "I arbetet hanterar eleven <strong>med viss säkerhet</strong> informationen på ett för berörda individer säkert sätt.",
+          "A" : "I arbetet hanterar eleven <strong>med säkerhet</strong> informationen på ett för berörda individer säkert sätt."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för etiska och datarättsliga frågor i relation till arbetsuppgifterna, samt gör <strong>________</strong> reflektioner över dessa frågor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för etiska och datarättsliga frågor i relation till arbetsuppgifterna, samt gör <strong>enkla</strong> reflektioner över dessa frågor.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för etiska och datarättsliga frågor i relation till arbetsuppgifterna, samt gör <strong>välgrundade</strong> reflektioner över dessa frågor.",
+          "A" : "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för etiska och datarättsliga frågor i relation till arbetsuppgifterna, samt gör <strong>välgrundade och nyanserade</strong> reflektioner över dessa frågor."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven informerar med ett <strong>________</strong> i huvudsak korrekt språk samt anpassar <strong>________</strong> sin kommunikation efter situation och mottagare.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven informerar med ett <strong>enkelt och</strong> i huvudsak korrekt språk samt anpassar <strong>med viss säkerhet</strong> sin kommunikation efter situation och mottagare.",
+          "C" : "Eleven informerar med ett i huvudsak korrekt språk samt anpassar <strong>med viss säkerhet</strong> sin kommunikation efter situation och mottagare.",
+          "A" : "Eleven informerar med ett <strong>nyanserat och</strong> i huvudsak korrekt språk samt anpassar <strong>med säkerhet</strong> sin kommunikation efter situation och mottagare."
+        }
+      }, {
+        "text" : "Dessutom samverkar eleven <strong>________</strong> med andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom samverkar eleven <strong>med viss säkerhet</strong> med andra.",
+          "C" : "Dessutom samverkar eleven <strong>med viss säkerhet</strong> med andra.",
+          "A" : "Dessutom samverkar eleven <strong>med säkerhet</strong> med andra."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}

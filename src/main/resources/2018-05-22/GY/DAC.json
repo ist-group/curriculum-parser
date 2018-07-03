@@ -1,0 +1,425 @@
+{
+  "name" : "Däckstjänst",
+  "description" : "Ämnet däckstjänst handlar om fartygs säkra framförande. I detta ingår kunskaper i navigation och sjömanskap. Ämnet behandlar den teknik och de metoder som används för drift och underhåll inom däcksavdelningen på handelsfartyg.",
+  "code" : "DAC",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet däckstjänst ska syfta till att eleverna utvecklar kunskaper om drift och vakthållning på fartyg samt förmåga att utföra driftsarbete inom däcksavdelningen och arbetsuppgifter som vaktgående däckspersonal.", "Den ska vidare leda till att eleverna utvecklar kunskaper i navigation och sjömanskap samt förmåga att sjömansmässigt handha fartyg och däcksutrustning.", "Dessutom ska eleverna ges möjlighet att utveckla kunskaper om fartygs underhåll samt förmåga att utföra underhållsarbete inom däcksavdelningen.", "Dessa kunskaper är enligt nationella och internationella regler nödvändiga för tjänstgöring ombord på fartyg." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som är konstruerade så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke.", "Dessa arbetsuppgifter ska utgå från ett problemlösande arbetssätt." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet däckstjänst ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Förmåga att utföra arbetsuppgifter som vaktgående däckspersonal eller fartygsbefäl.", "Förmåga att utföra driftsarbete inom däcksavdelningen på ett fartyg.", "Förmåga att utföra underhållsarbete inom däcksavdelningen på ett fartyg.", "Förmåga att arbeta miljö-, säkerhets- och kvalitetsmedvetet på ett sjömansmässigt sätt.", "Förmåga att samarbeta och kommunicera med ett för yrket relevant fackspråk.", "Kunskaper om de tekniska konstruktioner och den tekniska utrustning som finns inom däcksavdelningen på ett fartyg.", "Kunskaper om lagar och andra bestämmelser som reglerar området." ]
+  } ],
+  "courses" : [ {
+    "name" : "Däckstjänst 1",
+    "description" : "Kursen däckstjänst 1 omfattar punkterna 1–7 under rubriken Ämnets syfte, med särskild betoning på punkt 1. I kursen behandlas grundläggande kunskaper i ämnet. ",
+    "code" : "DACDAC01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Vakthållning på handelsfartyg",
+      "lines" : [ "Vakthållningens organisation.", "Överlämning av vakten.", "Ordergivning och kommunikation med vakthavande befäl.", "Fartygsterminologi." ]
+    }, {
+      "heading" : "Rorsmannens arbetsuppgifter",
+      "lines" : [ "Roderindikator, magnet- och gyrokompass.", "Handstyrning och omkoppling till automatstyrning.", "Roderorder på svenska och engelska." ]
+    }, {
+      "heading" : "Utkikens arbetsuppgifter",
+      "lines" : [ "Sjömärken samt fartygs dager-, ljus- och ljudsignaler.", "Grundläggande internationella sjövägsregler.", "Rapportering med riktning och bäring." ]
+    }, {
+      "heading" : "Övriga arbetsuppgifter vid vakthållning",
+      "lines" : [ "Förtöjning, bogsering och ankring.", "Kontroll och riggning av lotslejdare.", "Lastning och stuvning av förråd på fartyg.", "Grundläggande underhållsarbete samt verktygskunskap." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare arbetsuppgifter i samband med vakthållning inom ett fartygs däcksavdelning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare arbetsuppgifter i samband med vakthållning inom ett fartygs däcksavdelning.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare arbetsuppgifter i samband med vakthållning inom ett fartygs däcksavdelning.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare arbetsuppgifter i samband med vakthållning inom ett fartygs däcksavdelning."
+        }
+      }, {
+        "text" : "I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>________</strong> sina val.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>översiktligt</strong> sina val.",
+          "C" : "I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>utförligt</strong> sina val.",
+          "A" : "I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>utförligt och nyanserat</strong> sina val."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> valda metoder, utrustning och verktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>med viss säkerhet</strong> valda metoder, utrustning och verktyg.",
+          "C" : "Dessutom använder eleven <strong>med viss säkerhet</strong> valda metoder, utrustning och verktyg.",
+          "A" : "Dessutom använder eleven <strong>med säkerhet</strong> valda metoder, utrustning och verktyg."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta situationer.",
+          "C" : "Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta <strong>och nya</strong> situationer.",
+          "A" : "Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta <strong>och nya</strong> situationer."
+        }
+      }, {
+        "text" : "I arbetet löser eleven <strong>________</strong> problem som uppstår och anpassar <strong>________</strong> metoder, utrustning och verktyg efter situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>enkla</strong> problem som uppstår och anpassar <strong>med viss säkerhet</strong> metoder, utrustning och verktyg efter situationens krav.",
+          "C" : "I arbetet löser eleven problem som uppstår och anpassar <strong>med viss säkerhet</strong> metoder, utrustning och verktyg efter situationens krav.",
+          "A" : "I arbetet löser eleven <strong>komplexa</strong> problem som uppstår och anpassar <strong>med säkerhet</strong> metoder, utrustning och verktyg efter situationens krav."
+        }
+      }, {
+        "text" : "Dessutom tar eleven i arbetet ansvar för materiella värden samt för egen och andras säkerhet ombord.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom tar eleven i arbetet ansvar för materiella värden samt för egen och andras säkerhet ombord.",
+          "C" : "Dessutom tar eleven i arbetet ansvar för materiella värden samt för egen och andras säkerhet ombord.",
+          "A" : "Dessutom tar eleven i arbetet ansvar för materiella värden samt för egen och andras säkerhet ombord."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar och kommunicerar <strong>________</strong> med andra för att utföra olika uppgifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra för att utföra olika uppgifter.",
+          "C" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra för att utföra olika uppgifter.",
+          "A" : "Eleven samarbetar och kommunicerar <strong>med säkerhet</strong> med andra för att utföra olika uppgifter."
+        }
+      }, {
+        "text" : "I kommunikationen använder eleven <strong>________</strong> termer och begrepp som är relevanta för området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.",
+          "C" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.",
+          "A" : "I kommunikationen använder eleven <strong>med säkerhet</strong> termer och begrepp som är relevanta för området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> det arbete som utförs i samband med vakthållning inom däcksavdelningen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> det arbete som utförs i samband med vakthållning inom däcksavdelningen.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> det arbete som utförs i samband med vakthållning inom däcksavdelningen.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> det arbete som utförs i samband med vakthållning inom däcksavdelningen."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för lagar och andra bestämmelser som styr vakthållning på handelsfartyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för lagar och andra bestämmelser som styr vakthållning på handelsfartyg.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för lagar och andra bestämmelser som styr vakthållning på handelsfartyg.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för lagar och andra bestämmelser som styr vakthållning på handelsfartyg."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 300,
+    "year" : null
+  }, {
+    "name" : "Däckstjänst 2",
+    "description" : "Kursen Däckstjänst 2 omfattar punkterna 2–6 under rubriken Ämnets syfte, med särskild betoning på punkterna 2–3 och 6. I kursen behandlas fördjupade kunskaper i ämnet. ",
+    "code" : "DACDAC02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Driftsarbete",
+      "lines" : [ "Procedurer och kommunikation vid förtöjning, ankring och koppling av bogserbåt.", "Riggning av fallrep, lyftanordningar, båtsmansstol och ställning.", "Knopar, splitsning och tagling.", "Fastknopning, hissning och halning av flaggor.", "Betydelsen av de mest använda signalflaggorna.", "Förtöjnings- och ankringsteori och terminologi." ]
+    }, {
+      "heading" : "Underhållsarbete",
+      "lines" : [ "Planerat underhåll och underhållssystem.", "Underhåll av konstruktioner och utrustning.", "Underhåll av handverktyg.", "Ytbehandlingstekniker och målningsmetoder.", "Förvaring och underhåll av förtöjningsgods och tågvirke." ]
+    }, {
+      "heading" : "Tekniska konstruktioner och teknisk utrustning",
+      "lines" : [ "Förtöjningsutrustning.", "Förtöjningsgods och tågvirke.", "Ankringsutrustning.", "Bogseringsarrangemang.", "El- och luftdrivna handverktyg." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare drifts- och underhållsarbete inom ett fartygs däcksavdelning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare drifts- och underhållsarbete inom ett fartygs däcksavdelning.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare drifts- och underhållsarbete inom ett fartygs däcksavdelning.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare drifts- och underhållsarbete inom ett fartygs däcksavdelning."
+        }
+      }, {
+        "text" : "I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>________</strong> sina val.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>översiktligt</strong> sina val.",
+          "C" : "I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>utförligt</strong> sina val.",
+          "A" : "I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>utförligt och nyanserat</strong> sina val."
+        }
+      }, {
+        "text" : "Dessutom använder eleven <strong>________</strong> valda metoder, utrustning och verktyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven <strong>med viss säkerhet</strong> valda metoder, utrustning och verktyg.",
+          "C" : "Dessutom använder eleven <strong>med viss säkerhet</strong> valda metoder, utrustning och verktyg.",
+          "A" : "Dessutom använder eleven <strong>med säkerhet</strong> valda metoder, utrustning och verktyg."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta situationer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta situationer.",
+          "C" : "Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta <strong>och nya</strong> situationer.",
+          "A" : "Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta <strong>och nya</strong> situationer."
+        }
+      }, {
+        "text" : "I arbetet löser eleven <strong>________</strong> problem som uppstår och anpassar <strong>________</strong> metoder, utrustning och verktyg efter situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>enkla</strong> problem som uppstår och anpassar <strong>med viss säkerhet</strong> metoder, utrustning och verktyg efter situationens krav.",
+          "C" : "I arbetet löser eleven problem som uppstår och anpassar <strong>med viss säkerhet</strong> metoder, utrustning och verktyg efter situationens krav.",
+          "A" : "I arbetet löser eleven <strong>komplexa</strong> problem som uppstår och anpassar <strong>med säkerhet</strong> metoder, utrustning och verktyg efter situationens krav."
+        }
+      }, {
+        "text" : "Dessutom tar eleven i arbetet ansvar för materiella värden och miljön samt för egen och andras säkerhet ombord.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom tar eleven i arbetet ansvar för materiella värden och miljön samt för egen och andras säkerhet ombord.",
+          "C" : "Dessutom tar eleven i arbetet ansvar för materiella värden och miljön samt för egen och andras säkerhet ombord.",
+          "A" : "Dessutom tar eleven i arbetet ansvar för materiella värden och miljön samt för egen och andras säkerhet ombord."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven samarbetar och kommunicerar <strong>________</strong> med andra för att utföra olika uppgifter.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra för att utföra olika uppgifter.",
+          "C" : "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra för att utföra olika uppgifter.",
+          "A" : "Eleven samarbetar och kommunicerar <strong>med säkerhet</strong> med andra för att utföra olika uppgifter."
+        }
+      }, {
+        "text" : "I kommunikationen använder eleven <strong>________</strong> termer och begrepp som är relevanta för området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.",
+          "C" : "I kommunikationen använder eleven <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.",
+          "A" : "I kommunikationen använder eleven <strong>med säkerhet</strong> termer och begrepp som är relevanta för området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> den teknik som används och det arbete som utförs i samband med förtöjning, ankring, bogsering samt underhåll på handelsfartyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> den teknik som används och det arbete som utförs i samband med förtöjning, ankring, bogsering samt underhåll på handelsfartyg.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> den teknik som används och det arbete som utförs i samband med förtöjning, ankring, bogsering samt underhåll på handelsfartyg.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> den teknik som används och det arbete som utförs i samband med förtöjning, ankring, bogsering samt underhåll på handelsfartyg."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 300,
+    "year" : null
+  }, {
+    "name" : "Fartygsbefäl",
+    "description" : "Kursen fartygsbefäl omfattar punkterna 1 och 4–7 under rubriken Ämnets syfte, med särskild betoning på punkt 1. ",
+    "code" : "DACFAR0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ ]
+    }, {
+      "heading" : "Bryggtjänst",
+      "lines" : [ "Navigation.", "Elektroniska navigationshjälpmedel.", "Meteorologi.", "Svenska och internationella sjövägsregler.", "Vakthållning på fartygs brygga.", "Radar." ]
+    }, {
+      "heading" : "Miljö- och fartygsteknik",
+      "lines" : [ "Fartygsstabilitet.", "Fartygsmanövrering.", "Skydd av den marina miljön.", "Manöver- och maskinsystem.", "Lagar och andra bestämmelser." ]
+    }, {
+      "heading" : "Säkerhet",
+      "lines" : [ "Brandskydd.", "Hälso- och sjukvård.", "Personlig säkerhet.", "Passagerarsäkerhet.", "Nödåtgärder.", "Lagar och andra bestämmelser." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare navigatoriska uppgifter och använder <strong>________</strong> metoder och hjälpmedel som är lämpliga för uppgiften.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare navigatoriska uppgifter och använder <strong>med viss säkerhet</strong> metoder och hjälpmedel som är lämpliga för uppgiften.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare navigatoriska uppgifter och använder <strong>med viss säkerhet</strong> metoder och hjälpmedel som är lämpliga för uppgiften.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare navigatoriska uppgifter och använder <strong>med säkerhet</strong> metoder och hjälpmedel som är lämpliga för uppgiften."
+        }
+      }, {
+        "text" : "Eleven planerar och genomför <strong>________</strong> med handledare en fiktiv resa inomskärs och i kustnära farvatten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar och genomför <strong>i samråd</strong> med handledare en fiktiv resa inomskärs och i kustnära farvatten.",
+          "C" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare en fiktiv resa inomskärs och i kustnära farvatten.",
+          "A" : "Eleven planerar och genomför <strong>efter samråd</strong> med handledare en fiktiv resa inomskärs och i kustnära farvatten."
+        }
+      }, {
+        "text" : "I arbetet löser eleven <strong>________</strong> problem som uppstår.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet löser eleven <strong>enkla</strong> problem som uppstår.",
+          "C" : "I arbetet löser eleven problem som uppstår.",
+          "A" : "I arbetet löser eleven <strong>komplexa</strong> problem som uppstår."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> miljö- och säkerhetsrisker vid framförandet av fartyg samt de metoder och den utrustning som finns ombord för att undvika sådana risker.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> miljö- och säkerhetsrisker vid framförandet av fartyg samt de metoder och den utrustning som finns ombord för att undvika sådana risker.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> miljö- och säkerhetsrisker vid framförandet av fartyg samt de metoder och den utrustning som finns ombord för att undvika sådana risker.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> miljö- och säkerhetsrisker vid framförandet av fartyg samt de metoder och den utrustning som finns ombord för att undvika sådana risker."
+        }
+      }, {
+        "text" : "Eleven drar <strong>________</strong> slutsatser om sambanden mellan risker och arbetsmetoder.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven drar <strong>enkla</strong> slutsatser om sambanden mellan risker och arbetsmetoder.",
+          "C" : "Eleven drar <strong>välgrundade</strong> slutsatser om sambanden mellan risker och arbetsmetoder.",
+          "A" : "Eleven drar <strong>välgrundade och nyanserade</strong> slutsatser om sambanden mellan risker och arbetsmetoder."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> termer och begrepp som är relevanta för området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.",
+          "C" : "Eleven använder <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.",
+          "A" : "Eleven använder <strong>med säkerhet</strong> termer och begrepp som är relevanta för området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> navigationsmetoder och sjövägsregler samt den navigationsutrustning som används på fartygs brygga.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> navigationsmetoder och sjövägsregler samt den navigationsutrustning som används på fartygs brygga.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> navigationsmetoder och sjövägsregler samt den navigationsutrustning som används på fartygs brygga.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> navigationsmetoder och sjövägsregler samt den navigationsutrustning som används på fartygs brygga."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för de lagar och andra bestämmelser som gäller inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för de lagar och andra bestämmelser som gäller inom området.",
+          "C" : "Dessutom redogör eleven <strong>utförligt</strong> för de lagar och andra bestämmelser som gäller inom området.",
+          "A" : "Dessutom redogör eleven <strong>utförligt</strong> för de lagar och andra bestämmelser som gäller inom området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Radiokommunikation till sjöss",
+    "description" : "Kursen radiokommunikation till sjöss omfattar punkterna 1 och 5–7 under rubriken Ämnets syfte.",
+    "code" : "DACRAD0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Globalt marint nöd- och säkerhetssystem (GMDSS).", "Radioteknik.", "Grundläggande regler och metoder för radiotrafik: avgifter, digital selective calling (DSC), nöd-, il- och varningstrafik, navigational text messages (NAVTEX), emergency position indicating radio beacon (EPIRB) och search and rescue transponder (SART) samt handburna VHF-stationer.", "Strömförsörjning.", "Falsklarm i GMDSS.", "Sjöräddning.", "Satellitkommunikation.", "Automatic Identification System (AIS)." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven utför <strong>________</strong> med handledare uppgifter i samband med radiokommunikation och använder <strong>________</strong> radioutrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>i samråd</strong> med handledare uppgifter i samband med radiokommunikation och använder <strong>med viss säkerhet</strong> radioutrustning.",
+          "C" : "Eleven utför <strong>efter samråd</strong> med handledare uppgifter i samband med radiokommunikation och använder <strong>med viss säkerhet</strong> radioutrustning.",
+          "A" : "Eleven utför <strong>efter samråd</strong> med handledare uppgifter i samband med radiokommunikation och använder <strong>med säkerhet</strong> radioutrustning."
+        }
+      }, {
+        "text" : "Resultatet av elevens arbete är <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "C" : "Resultatet av elevens arbete är <strong>tillfredsställande</strong>.",
+          "A" : "Resultatet av elevens arbete är <strong>gott</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven kommunicerar och använder <strong>________</strong> termer och begrepp som är relevanta för området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven kommunicerar och använder <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.",
+          "C" : "Eleven kommunicerar och använder <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.",
+          "A" : "Eleven kommunicerar och använder <strong>med säkerhet</strong> termer och begrepp som är relevanta för området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> regler och metoder för radioteknik till sjöss samt den radio- och kommunikationsutrustning som används på fartyg.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> regler och metoder för radioteknik till sjöss samt den radio- och kommunikationsutrustning som används på fartyg.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> regler och metoder för radioteknik till sjöss samt den radio- och kommunikationsutrustning som används på fartyg.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> regler och metoder för radioteknik till sjöss samt den radio- och kommunikationsutrustning som används på fartyg."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> GMDSS-systemet samt sjöräddningens organisation.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> GMDSS-systemet samt sjöräddningens organisation.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> GMDSS-systemet samt sjöräddningens organisation.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> GMDSS-systemet samt sjöräddningens organisation."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 50,
+    "year" : null
+  } ]
+}

@@ -1,0 +1,255 @@
+{
+  "name" : "Hantverkskunskap",
+  "description" : "Ämnet hantverkskunskap behandlar hantverkets roll i samhället samt det valda hantverksområdet och dess olika yrkens förutsättningar, villkor och yrkesetiska frågor. Det behandlar också hur hantverkaren på olika sätt kan bidra till en hållbar utveckling, genom att vara medveten om hur olika processer runt hantering av material påverkar miljön, såväl globalt som på individnivå. Ämnet är generellt men innehållet anpassas till den valda inriktningen eller profilen.",
+  "code" : "HVK",
+  "designation" : "",
+  "skolfsId" : "2010:128",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet hantverkskunskap ska syfta till att eleverna utvecklar sin yrkesidentitet inom det valda hantverksområdet och förmåga att reflektera över sina utvecklingsmöjligheter inom verksamhetsområdet.", "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om branschens och hantverkarens villkor och utvecklingsmöjligheter, i ett nationellt och internationellt perspektiv.", "Undervisningen ska också behandla branschens och hantverkets tradition och historiska utveckling.", "Som inspirationskälla och som grund för en ökad förståelse av kulturella och stilhistoriska influenser ska eleverna ges möjlighet att utveckla kunskaper om såväl dagens trendutveckling som den kultur- och stilhistoriska utvecklingen, både inom det valda hantverksområdet och generellt." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om material och produkter och hur de kan användas i produktionen.", "Eleverna ska också ges möjlighet att träna sin förmåga att göra medvetna material- och produktval med hänsyn till hur valen påverkar resultatet och miljön." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om hur man arbetar ergonomiskt och om vikten av en god arbetsmiljö för individen, arbetsplatsen och samhället.", "Eleverna ska också ges möjlighet att utveckla kunskaper om hur man arbetar säkert för att undvika olyckor och hur man ska handla vid en krissituation." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Eleverna ska ges möjlighet att befästa sina kunskaper genom praktiskt arbete och laborativa inslag.", "Undervisningen ska organiseras så att eleverna får möjlighet att utföra sina uppgifter såväl individuellt som i samarbete med andra." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet hantverkskunskap ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om hantverkets historia och utveckling.", "Kunskaper om branschens förutsättningar och utvecklingsmöjligheter.", "Kunskaper om stilepoker och trender samt färdigheter i att analysera och visualisera dessa.", "Kunskaper om materials och produkters ursprung, egenskaper, funktion och användningsområden, deras miljöpåverkan samt hur framställning och hantering påverkar miljön.", "Kunskaper om material- och produktval utifrån användningsområde, ekonomi, kvalitet och miljöhänsyn.", "Kunskaper om den fysiska och psykosociala arbetsmiljöns betydelse för hantverkaren.", "Kunskaper om lagar och andra bestämmelser samt om avtal." ]
+  } ],
+  "courses" : [ {
+    "name" : "Material",
+    "description" : "Kursen material omfattar punkterna 4 och 5 under rubriken Ämnets syfte, med särskild betoning på punkt 4. I kursen behandlas fördjupade kunskaper om material.",
+    "code" : "HVKMAT0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Materials och produkters ursprung, uppbyggnad och egenskaper.", "Materials och produkters hantering, funktion och användningsområden.", "Utnyttjade materials och produkters olika egenskaper.", "Skötsel av material och produkter.", "Metoder för att analysera material.", "Material och produkter som utvecklas i samband med nya trender.", "Processer och metoder för utveckling och framställning av material.", "Materials och produkters traditionella och nya användningsområden." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> materials och produkters egenskaper och funktion samt redogör <strong>________</strong> för hur dessa kan utnyttjas i arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> materials och produkters egenskaper och funktion samt redogör <strong>översiktligt</strong> för hur dessa kan utnyttjas i arbetet.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> materials och produkters egenskaper och funktion samt redogör <strong>utförligt</strong> för hur dessa kan utnyttjas i arbetet.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> materials och produkters egenskaper och funktion samt redogör <strong>utförligt och nyanserat</strong> för hur dessa kan utnyttjas i arbetet."
+        }
+      }, {
+        "text" : "Utifrån ett tänkt resultat ger eleven <strong>________</strong> exempel på lämpliga material och produkter samt redogör <strong>________</strong> för hur man väljer material och produkter med hänsyn till avsett användningsområde och kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Utifrån ett tänkt resultat ger eleven <strong>några</strong> exempel på lämpliga material och produkter samt redogör <strong>översiktligt</strong> för hur man väljer material och produkter med hänsyn till avsett användningsområde och kvalitet.",
+          "C" : "Utifrån ett tänkt resultat ger eleven <strong>några</strong> exempel på lämpliga material och produkter samt redogör <strong>utförligt</strong> för <strong>enkla samband mellan material och produkter</strong> och hur man väljer dessa med hänsyn till avsett användningsområde och kvalitet.",
+          "A" : "Utifrån ett tänkt resultat ger eleven <strong>flera</strong> exempel på lämpliga material och produkter samt redogör <strong>utförligt och nyanserat</strong> för <strong>komplexa samband mellan material och produkter</strong> och hur man väljer dessa med hänsyn till avsett användningsområde och kvalitet."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för några ekonomiska och miljömässiga avväganden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för några ekonomiska och miljömässiga avväganden.",
+          "C" : "Dessutom <strong>ger</strong> eleven <strong>exempel på några alternativa val av material och produkter samt</strong> redogör <strong>utförligt</strong> för några ekonomiska och miljömässiga avväganden.",
+          "A" : "Dessutom <strong>motiverar</strong> eleven <strong>sina val</strong>, <strong>ger exempel på några alternativa val av material och produkter samt</strong> redogör <strong>utförligt och nyanserat</strong> för några ekonomiska och miljömässiga avväganden."
+        }
+      }, {
+        "text" : "Eleven beskriver <strong>________</strong> hur materials och produkters framställning och hantering påverkar miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur materials och produkters framställning och hantering påverkar miljön.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur materials och produkters framställning och hantering påverkar miljön <strong>samt redogör utförligt för enkla samband mellan framställningen och miljöpåverkan</strong>.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur materials och produkters framställning och hantering påverkar miljön <strong>samt redogör utförligt och nyanserat för komplexa samband mellan framställningen och miljöpåverkan</strong>."
+        }
+      } ]
+    } ],
+    "point" : 50,
+    "year" : null
+  }, {
+    "name" : "Material och miljö",
+    "description" : "Kursen omfattar punkterna 4–7 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper om material och miljö.",
+    "code" : "HVKMAE0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Materials och produkters ursprung, uppbyggnad och egenskaper.", "Materials och produkters hantering, funktion och användningsområden.", "Återanvändning och återvinning av material och produkter.", "Vård och skötsel av material. Hållbarhet och förbättring av materialens funktion.", "Påverkan på människor och miljö vid användning, framställning och hantering av material och produkter.", "Faktorer som påverkar den fysiska och psykosociala arbetsmiljön, till exempel stresshantering, skyddsutrustning, hygien och ergonomi. I samband med det behandlas konsekvenser av en bristande arbetsmiljö.", "Arbetsmiljölagen, regler och föreskrifter som gäller arbetsmiljö och säkerhet inom det valda hantverksområdet. I samband med det behandlas konsekvenser som kan uppstå om dessa inte följs.", "El- och brandsäkerhet. Regler och föreskrifter, samt konsekvenser som kan uppstå om de inte följs.", "Agerande vid arbetsrelaterade olycksfall." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> materials och produkters egenskaper och funktion samt redogör <strong>________</strong> för hur dessa kan utnyttjas i arbetet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> materials och produkters egenskaper och funktion samt redogör <strong>översiktligt</strong> för hur dessa kan utnyttjas i arbetet.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> materials och produkters egenskaper och funktion samt redogör <strong>utförligt</strong> för hur dessa kan utnyttjas i arbetet.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> materials och produkters egenskaper och funktion samt redogör <strong>utförligt och nyanserat</strong> för hur dessa kan utnyttjas i arbetet."
+        }
+      }, {
+        "text" : "Utifrån ett tänkt resultat ger eleven <strong>________</strong> exempel på lämpliga material och produkter samt redogör <strong>________</strong> för hur man väljer material och produkter med hänsyn till avsett användningsområde och kvalitet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Utifrån ett tänkt resultat ger eleven <strong>några</strong> exempel på lämpliga material och produkter samt redogör <strong>översiktligt</strong> för hur man väljer material och produkter med hänsyn till avsett användningsområde och kvalitet.",
+          "C" : "Utifrån ett tänkt resultat ger eleven <strong>några</strong> exempel på lämpliga material och produkter samt redogör <strong>utförligt</strong> för <strong>enkla samband mellan material och produkter</strong> och hur man väljer dessa med hänsyn till avsett användningsområde och kvalitet.",
+          "A" : "Utifrån ett tänkt resultat ger eleven <strong>flera</strong> exempel på lämpliga material och produkter samt redogör <strong>utförligt och nyanserat</strong> för <strong>komplexa samband mellan material och produkter</strong> och hur man väljer dessa med hänsyn till avsett användningsområde och kvalitet."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för några ekonomiska och miljömässiga avväganden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för några ekonomiska och miljömässiga avväganden.",
+          "C" : "Dessutom <strong>ger</strong> eleven <strong>exempel på några alternativa val av material och produkter samt</strong> redogör <strong>utförligt</strong> för några ekonomiska och miljömässiga avväganden.",
+          "A" : "Dessutom <strong>motiverar</strong> eleven <strong>sina val</strong>, <strong>ger exempel på några alternativa val av material och produkter samt</strong> redogör <strong>utförligt och nyanserat</strong> för några ekonomiska och miljömässiga avväganden."
+        }
+      }, {
+        "text" : "Eleven beskriver <strong>________</strong> hur materials och produkters framställning och hantering påverkar miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur materials och produkters framställning och hantering påverkar miljön.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur materials och produkters framställning och hantering påverkar miljön <strong>samt redogör utförligt för enkla samband mellan framställningen och miljöpåverkan</strong>.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur materials och produkters framställning och hantering påverkar miljön <strong>samt redogör utförligt och nyanserat för komplexa samband mellan framställningen och miljöpåverkan</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> hur den fysiska och psykosociala arbetsmiljön påverkar individen och arbetsplatsen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur den fysiska och psykosociala arbetsmiljön påverkar individen och arbetsplatsen.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur den fysiska och psykosociala arbetsmiljön påverkar individen och arbetsplatsen.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur den fysiska och psykosociala arbetsmiljön påverkar individen och arbetsplatsen."
+        }
+      }, {
+        "text" : "I beskrivningen ger eleven konkreta exempel från sin egen arbetssituation samt <strong>________</strong> förslag på hur man själv kan påverka sin arbetsmiljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I beskrivningen ger eleven konkreta exempel från sin egen arbetssituation samt <strong>enkla</strong> förslag på hur man själv kan påverka sin arbetsmiljö.",
+          "C" : "I beskrivningen ger eleven konkreta exempel från sin egen arbetssituation, <strong>redogör utförligt för möjliga konsekvenser av dem</strong> samt ger <strong>välgrundade</strong> förslag på hur man själv kan påverka sin arbetsmiljö.",
+          "A" : "I beskrivningen ger eleven konkreta exempel från sin egen arbetssituation, <strong>redogör utförligt och nyanserat för möjliga orsaker till och konsekvenser av dem</strong> samt ger <strong>välgrundade och nyanserade</strong> förslag på hur man själv kan påverka sin arbetsmiljö."
+        }
+      }, {
+        "text" : "Dessutom ger eleven exempel på lagar och andra bestämmelser som reglerar arbetsmiljö, säkerhet och miljö.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom ger eleven exempel på lagar och andra bestämmelser som reglerar arbetsmiljö, säkerhet och miljö.",
+          "C" : "Dessutom ger eleven exempel på lagar och andra bestämmelser som reglerar arbetsmiljö, säkerhet och miljö <strong>samt redogör utförligt för hur de påverkar den egna arbetssituationen</strong>.",
+          "A" : "Dessutom ger eleven exempel på lagar och andra bestämmelser som reglerar arbetsmiljö, säkerhet och miljö <strong>samt redogör utförligt och nyanserat för hur de påverkar den egna arbetssituationen</strong>."
+        }
+      }, {
+        "text" : "Eleven beskriver <strong>________</strong> vanliga arbetsskador och arbetsrelaterade olyckor inom yrket, hur de förebyggs samt hur man agerar vid olyckor.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> vanliga arbetsskador och arbetsrelaterade olyckor inom yrket, hur de förebyggs samt hur man agerar vid olyckor.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> vanliga arbetsskador och arbetsrelaterade olyckor inom yrket, hur de förebyggs samt hur man agerar vid olyckor.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> vanliga arbetsskador och arbetsrelaterade olyckor inom yrket, hur de förebyggs samt hur man agerar vid olyckor."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  }, {
+    "name" : "Miljö",
+    "description" : "Kursen miljö omfattar punkterna 4 och 5 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper om materials och produkters påverkan av miljön samt alternativa material- och produktval.",
+    "code" : "HVKMIL0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Materials och produkters beståndsdelar och egenskaper.", "Materials och produkters hantering, funktion och användningsområden.", "Återanvändning och återvinning av material och produkter.", "Materials och produkters påverkan på människor och miljö vid användning, framställning och hantering.", "Material- och produktjämförelse. Hur material och produkter kan ersättas med mer miljövänliga alternativ utifrån användningsområde, egenskaper och önskat resultat." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> materials och produkters beståndsdelar och egenskaper samt redogör <strong>________</strong> för hur framställning och hantering av material och produkter påverkar miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> materials och produkters beståndsdelar och egenskaper samt redogör <strong>översiktligt</strong> för hur framställning och hantering av material och produkter påverkar miljön.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> materials och produkters beståndsdelar och egenskaper samt redogör <strong>utförligt</strong> för hur framställning och hantering av material och produkter påverkar miljön.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> materials och produkters beståndsdelar och egenskaper samt redogör <strong>utförligt och nyanserat</strong> för hur framställning och hantering av material och produkter påverkar miljön."
+        }
+      }, {
+        "text" : "Eleven ger <strong>________</strong> exempel på lämpliga material och produkter utifrån deras beståndsdelar och egenskaper samt redogör <strong>________</strong> för hur man väljer material och produkter med hänsyn till materialens och produkternas olika beståndsdelar och egenskaper och avsett användningsområde och funktion.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven ger <strong>några</strong> exempel på lämpliga material och produkter utifrån deras beståndsdelar och egenskaper samt redogör <strong>översiktligt</strong> för hur man väljer material och produkter med hänsyn till materialens och produkternas olika beståndsdelar och egenskaper och avsett användningsområde och funktion.",
+          "C" : "Eleven ger <strong>några</strong> exempel på lämpliga material och produkter utifrån deras beståndsdelar och egenskaper samt redogör <strong>utförligt</strong> för hur man väljer material och produkter med hänsyn till materialens och produkternas olika beståndsdelar och egenskaper och avsett användningsområde och funktion.",
+          "A" : "Eleven ger <strong>flera</strong> exempel på lämpliga material och produkter utifrån deras beståndsdelar och egenskaper samt redogör <strong>utförligt och nyanserat</strong> för hur man väljer material och produkter med hänsyn till materialens och produkternas olika beståndsdelar och egenskaper och avsett användningsområde och funktion."
+        }
+      }, {
+        "text" : "Dessutom redogör eleven <strong>________</strong> för hur hon eller han visar miljöhänsyn i sina val.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom redogör eleven <strong>översiktligt</strong> för hur hon eller han visar miljöhänsyn i sina val.",
+          "C" : "Dessutom <strong>ger</strong> eleven <strong>exempel på några alternativa val av material och produkter samt</strong> redogör <strong>utförligt</strong> för hur hon eller han visar miljöhänsyn i sina val.",
+          "A" : "Dessutom <strong>motiverar</strong> eleven <strong>sina val</strong>, <strong>ger exempel på några alternativa val av material och produkter samt</strong> redogör <strong>utförligt och nyanserat</strong> för hur hon eller han visar miljöhänsyn i sina val."
+        }
+      }, {
+        "text" : "Eleven beskriver <strong>________</strong> hur man kan återanvända och återvinna material och produkter, utifrån samband mellan ekonomiska och miljömässiga faktorer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hur man kan återanvända och återvinna material och produkter, utifrån samband mellan ekonomiska och miljömässiga faktorer.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hur man kan återanvända och återvinna material och produkter, utifrån samband mellan ekonomiska och miljömässiga faktorer.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hur man kan återanvända och återvinna material och produkter, utifrån samband mellan ekonomiska och miljömässiga faktorer."
+        }
+      } ]
+    } ],
+    "point" : 50,
+    "year" : null
+  }, {
+    "name" : "Tradition och utveckling",
+    "description" : "Kursen tradition och utveckling omfattar punkterna 1–3 under rubriken Ämnets syfte.",
+    "code" : "HVKTRA0",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Det valda hantverksområdets historia, tradition och utvecklingsmöjligheter. I samband med det behandlas samhällsförändringar som påverkat förutsättningarna samt teknikutvecklingens betydelse för yrket.", "Tekniker, verktyg och material i ett historiskt perspektiv.", "Utbildningssystemet nu och då. I samband med det behandlas hur hantverksområdets eventuella yrkesprov är utformat, till exempel regler och bedömning av gesäll- och mästarbrev.", "Utformningen av yrkestävlingar inom hantverksområdet, nationellt och internationellt.", "Utvecklings- och samverkansmöjligheter inom det egna hantverksområdet och närliggande hantverksområden.", "Förutsättningar för verksamhet inom den egna regionen och på en internationell marknad.", "Fack- och branschorganisationer och deras funktion inom det valda hantverksområdet. I samband med det behandlas arbetsgivarens och arbetstagarens rättigheter och skyldigheter.", "Kultur- och stilhistoria med betoning på centrala stilepoker inom hantverksområdet. I samband med det behandlas trender, trendutveckling och trendtolkning historiskt och i nutid." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> hantverksområdets utbildningssystem, branschvillkor och förutsättningar samt branschens möjligheter att utvecklas.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> hantverksområdets utbildningssystem, branschvillkor och förutsättningar samt branschens möjligheter att utvecklas.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> hantverksområdets utbildningssystem, branschvillkor och förutsättningar samt branschens möjligheter att utvecklas.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> hantverksområdets utbildningssystem, branschvillkor och förutsättningar samt branschens möjligheter att utvecklas."
+        }
+      }, {
+        "text" : "Beskrivningen innehåller <strong>________</strong> exempel på möjligheter till samverkan med andra yrkesutövare, inom det egna verksamhetsområdet och närliggande verksamhetsområden.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Beskrivningen innehåller <strong>något</strong> exempel på möjligheter till samverkan med andra yrkesutövare, inom det egna verksamhetsområdet och närliggande verksamhetsområden.",
+          "C" : "Beskrivningen innehåller <strong>några</strong> exempel på möjligheter till samverkan med andra yrkesutövare, inom det egna verksamhetsområdet och närliggande verksamhetsområden. <strong>Dessutom redogör eleven utförligt för vilka fördelar denna samverkan kan ge</strong>.",
+          "A" : "Beskrivningen innehåller <strong>flera</strong> exempel på möjligheter till samverkan med andra yrkesutövare, inom det egna verksamhetsområdet och närliggande verksamhetsområden. <strong>Dessutom redogör eleven utförligt och nyanserat för vilka fördelar denna samverkan kan ge och hur fördelarna uppnås</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven beskriver <strong>________</strong> centrala förändringar inom det valda hantverksområdets historia och utveckling.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver <strong>översiktligt</strong> centrala förändringar inom det valda hantverksområdets historia och utveckling.",
+          "C" : "Eleven beskriver <strong>utförligt</strong> centrala förändringar inom det valda hantverksområdets historia och utveckling <strong>samt ger exempel på samhällsförändringar som påverkat hantverkets förutsättningar</strong>.",
+          "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> centrala förändringar inom det valda hantverksområdets historia och utveckling, <strong>ger exempel på samhällsförändringar som påverkat hantverkets förutsättningar samt redogör utförligt och nyanserat för sambandet mellan hantverkets förändringar och samhällsförändringarna</strong>."
+        }
+      }, {
+        "text" : "Eleven identifierar <strong>________</strong> stilar och centrala stilepokers typiska stildrag.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven identifierar <strong>med viss säkerhet tydliga och karaktäristiska</strong> stilar och centrala stilepokers typiska stildrag.",
+          "C" : "Eleven identifierar <strong>med viss säkerhet och jämför tydliga och karaktäristiska</strong> stilar och centrala stilepokers typiska stildrag <strong>samt beskriver stildragen</strong>.",
+          "A" : "Eleven <strong>identifierar med säkerhet och jämför olika</strong> stilar och centrala stilepokers typiska stildrag <strong>samt beskriver stildragen</strong>."
+        }
+      }, {
+        "text" : "<strong>________</strong> med handledare visualiserar eleven stilhistoriska epoker och dagens trender.",
+        "knowledgeRequirementChoice" : {
+          "E" : "<strong>I samråd</strong> med handledare visualiserar eleven stilhistoriska epoker och dagens trender.",
+          "C" : "<strong>Efter samråd</strong> med handledare visualiserar eleven stilhistoriska epoker och dagens trender.",
+          "A" : "<strong>Efter samråd</strong> med handledare visualiserar eleven stilhistoriska epoker och dagens trender."
+        }
+      }, {
+        "text" : "Eleven motiverar <strong>________</strong> sitt arbete baserat på <strong>________</strong> kunskaper om trendutveckling och stilhistoria.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven motiverar <strong>översiktligt</strong> sitt arbete baserat på <strong>begränsade</strong> kunskaper om trendutveckling och stilhistoria.",
+          "C" : "Eleven motiverar <strong>utförligt</strong> sitt arbete baserat på kunskaper om trendutveckling och stilhistoria.",
+          "A" : "Eleven motiverar <strong>utförligt och nyanserat</strong> sitt arbete baserat på <strong>omfattande</strong> kunskaper om trendutveckling och stilhistoria."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "När eleven samråder med handledare bedömer hon eller han <strong>________</strong> den egna förmågan och situationens krav.",
+        "knowledgeRequirementChoice" : {
+          "E" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "C" : "När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.",
+          "A" : "När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+        }
+      } ]
+    } ],
+    "point" : 100,
+    "year" : null
+  } ]
+}
