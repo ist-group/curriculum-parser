@@ -21,18 +21,16 @@ class CentralContentConverter {
                 .select("body > *:not(:empty)")
                 .mapNotNull {
                     if (it.tagName() == "ul") {
-                        if (it.previousElementSibling() != null) {
-                            CentralContent(it.previousElementSibling().text(), it.children().map { it.text() })
-                        } else {
-                            CentralContent("",  it.children().map { it.text() })
-                        }
+                        val lines = it.children().map { it.text() }.filter { it.isNotBlank() }.map { it.trim() }
+                        val heading = it.previousElementSibling()?.text()?.trim() ?: ""
+                        CentralContent(heading, lines)
                     } else {
                         // Just a heading
-                        if (it.nextElementSibling() != null && it.nextElementSibling().tagName() == "ul") {
+                        if (it.nextElementSibling()?.tagName() == "ul") {
                             null
                         } else {
                             // Heading before
-                            CentralContent(it.text(),  listOf())
+                            CentralContent(it.text().trim(), listOf())
                         }
                     }
                 })
