@@ -75,4 +75,13 @@ internal class CentralContentConverterTest {
                         "<p>– Lekar och musik från områden där modersmålet talas.</p>")
         )
     }
+
+    @Test
+    fun testEmptyLines() {
+        val centralContents = CentralContentConverter().getCentralContents("<h4> Testar tomma rader  </h4><ul><li>Rad 1</li><li></li><li>  Rad 2 </li> <li> </li>")
+        Assert.assertEquals(1, centralContents.size)
+        Assert.assertEquals("Testar tomma rader", centralContents[0].heading)
+        Assert.assertEquals(2, centralContents[0].lines.size)
+        Assert.assertEquals("Rad 2", centralContents[0].lines[1])
+    }
 }
