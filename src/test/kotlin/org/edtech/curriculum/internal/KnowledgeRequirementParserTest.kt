@@ -11,9 +11,9 @@ import java.io.File
 class KnowledgeRequirementParserTest {
 
     private val hasMissingRequirementsFromSkolverket = setOf("BYPRIT0", "RINRID02", "SPEIDT0", "TESPRO01", "TEYPRO01", "HAVFIN05S")
-    private val courcesWithSwitchedLines = setOf("SVESVE01")
-    private val dataDir = File("./src/test/resources/opendata/2018-07-02")
-    private val validDataDir = File("./src/test/resources/valid/2018-07-02")
+    private val coursesWithSwitchedLines = setOf("SVESVE01")
+    private val dataDir = File("./src/test/resources/opendata/")
+    private val validDataDir = File("./src/test/resources/valid/")
 
     @Test
     fun testAgainstJsonFilesGR() {
@@ -45,23 +45,25 @@ class KnowledgeRequirementParserTest {
         val mapper = ObjectMapper()
         val subjectMap: MutableMap<String, Subject> = HashMap()
 
-        for (subject in Syllabus(syllabusType, dataDir).getSubjects()) {
-            subjectMap[subject.code] = subject
-        }
-
-        val subjectDir = File("$validDataDir//${syllabusType.name}")
-        if (!subjectDir.isDirectory) fail("${subjectDir.absolutePath} is not a directory")
-
-        for (file in File("$validDataDir/${syllabusType.name}").listFiles()) {
-            if (!file.name.endsWith(".json")) continue
-            val parsedSubject = subjectMap[file.nameWithoutExtension]
-            if (parsedSubject == null) {
-                fail("No subject ${file.nameWithoutExtension} for file ${file.absolutePath}")
-            } else {
-                val expected = file.readText()
-                val actual = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(parsedSubject)
-                assertEquals("Difference for subject ${syllabusType.name}/${file.nameWithoutExtension}", expected, actual)
+        File("$validDataDir/").listFiles().forEach { versionDir ->
+            for (subject in Syllabus(syllabusType, dataDir.resolve(versionDir.name)).getSubjects()) {
+                subjectMap[subject.code] = subject
             }
+            val subjectDir = versionDir.resolve(syllabusType.name)
+            if (!subjectDir.isDirectory) fail("${subjectDir.absolutePath} is not a directory")
+
+            subjectDir.listFiles()
+                .filter { it.name.endsWith(".json") }
+                .forEach { file ->
+                    val parsedSubject = subjectMap[file.nameWithoutExtension]
+                    if (parsedSubject == null) {
+                        fail("No subject ${file.nameWithoutExtension} for file ${file.absolutePath}")
+                    } else {
+                        val expected = file.readText()
+                        val actual = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(parsedSubject)
+                        assertEquals("Difference for subject ${versionDir.name} - ${syllabusType.name}/${file.nameWithoutExtension}", expected, actual)
+                    }
+                }
         }
     }
 
@@ -95,34 +97,36 @@ class KnowledgeRequirementParserTest {
     }
 
     private fun matchParsedKnowledgeRequirementTextWithOriginal(syllabusType: SyllabusType) {
-        for (subject in Syllabus(syllabusType, dataDir).subjectHtml) {
-            for (course in subject.courses) {
-                if (!courcesWithSwitchedLines.contains(course.code)) {
-                    // Get the fully parsed course
-                    val combined: MutableMap<GradeStep, StringBuilder> = HashMap()
-                    val knowledgeRequirements = KnowledgeRequirementConverter()
-                            .getKnowledgeRequirements(course.knowledgeRequirement)
-                    for (knp in knowledgeRequirements) {
-                        for (kn in knp.knowledgeRequirements) {
-                            for ((g, s) in kn.knowledgeRequirementChoice) {
-                                if (combined.containsKey(g)) {
-                                    combined[g]?.append(" ")?.append(s)
-                                } else {
-                                    combined[g] = StringBuilder(s)
+        dataDir.listFiles().forEach { versionDir ->
+            Syllabus(syllabusType, versionDir).subjectHtml.forEach { subject ->
+                for (course in subject.courses) {
+                    if (!coursesWithSwitchedLines.contains(course.code)) {
+                        // Get the fully parsed course
+                        val combined: MutableMap<GradeStep, StringBuilder> = HashMap()
+                        val knowledgeRequirements = KnowledgeRequirementConverter()
+                                .getKnowledgeRequirements(course.knowledgeRequirement)
+                        for (knp in knowledgeRequirements) {
+                            for (kn in knp.knowledgeRequirements) {
+                                for ((g, s) in kn.knowledgeRequirementChoice) {
+                                    if (combined.containsKey(g)) {
+                                        combined[g]?.append(" ")?.append(s)
+                                    } else {
+                                        combined[g] = StringBuilder(s)
+                                    }
                                 }
                             }
                         }
-                    }
 
-                    for ((gradeStep, text) in combined) {
-                        val textExpected = Jsoup.parse(fixCurriculumErrors(course.knowledgeRequirement.getOrDefault(gradeStep, "")))
-                                .select("p")
-                                .text()
-                                .trim()
-                                .replace("  ", " ")
-                                .replace(Regex("\\.([A-zåäö])"), ". \$1")
-                        val textActual = Jsoup.parse(text.toString()).text().trim()
-                        assertEquals("course: ${subject.name}/${course.name} GradeStep: ${gradeStep.name}", textExpected, textActual)
+                        for ((gradeStep, text) in combined) {
+                            val textExpected = Jsoup.parse(fixCurriculumErrors(course.knowledgeRequirement.getOrDefault(gradeStep, "")))
+                                    .select("p")
+                                    .text()
+                                    .trim()
+                                    .replace("  ", " ")
+                                    .replace(Regex("\\.([A-zåäö])"), ". \$1")
+                            val textActual = Jsoup.parse(text.toString()).text().trim()
+                            assertEquals("course: ${subject.name}/${course.name} GradeStep: ${gradeStep.name}", textExpected, textActual)
+                        }
                     }
                 }
             }
@@ -131,54 +135,53 @@ class KnowledgeRequirementParserTest {
 
     @Test
     fun noEmptyKnowledgeRequirementChoicesGR() {
-        testSubjects(Syllabus(SyllabusType.GR, dataDir).getSubjects())
+        testSubjects(SyllabusType.GR)
     }
     @Test
     fun noEmptyKnowledgeRequirementChoicesGRS() {
-        testSubjects(Syllabus(SyllabusType.GRS, dataDir).getSubjects())
+        testSubjects(SyllabusType.GRS)
     }
     @Test
     fun noEmptyKnowledgeRequirementChoicesGY() {
-        testSubjects(Syllabus(SyllabusType.GY, dataDir).getSubjects())
+        testSubjects(SyllabusType.GY)
     }
     @Test
     fun noEmptyKnowledgeRequirementChoicesGYS() {
-        testSubjects(Syllabus(SyllabusType.GYS, dataDir).getSubjects())
+        testSubjects(SyllabusType.GYS)
     }
     @Test
     fun noEmptyKnowledgeRequirementChoicesVUXGR() {
-        testSubjects(Syllabus(SyllabusType.VUXGR, dataDir).getSubjects())
+        testSubjects(SyllabusType.VUXGR)
     }
-/*    @Test
-    fun noEmptyKnowledgeRequirementChoicesSFI() {
-        testSubjects(Syllabus(SyllabusType.SFI, dataDir).getSubjects())
-    }
-*/
-    private fun testSubjects(subjects: List<Subject>) {
-        for (subject in subjects) {
-            for (course in subject.courses) {
-                // Get the fully parsed course
-                if (course.year != YearGroup(1, 3)) {
-                    assertNotEquals("Knowledge Requirements is empty in  ${subject.name}/${course.name}", 0, course.knowledgeRequirementParagraphs.size)
-                }
-                // Make sure tha all requirements are set, exclude errors from skolverket.
-                if (!hasMissingRequirementsFromSkolverket.contains(course.code)) {
-                    course.knowledgeRequirementParagraphs.forEach {
-                        it.knowledgeRequirements.forEach {
-                            val gradeSteps = it.knowledgeRequirementChoice
-                            if (!gradeSteps.keys.containsAll(setOf(GradeStep.A, GradeStep.C, GradeStep.E)) &&
-                                    !gradeSteps.keys.contains(GradeStep.G)) {
-                                fail("Knowledge Requirement Choices should be either E,C,A or G failed for: ${subject.name}/${course.name}")
+
+    private fun testSubjects(syllabusType: SyllabusType) {
+        dataDir.listFiles().forEach { versionDir ->
+            Syllabus(syllabusType, versionDir).getSubjects()
+                    .forEach { subject ->
+                        for (course in subject.courses) {
+                            // Get the fully parsed course
+                            if (course.year != YearGroup(1, 3)) {
+                                assertNotEquals("Knowledge Requirements is empty in  ${subject.name}/${course.name}", 0, course.knowledgeRequirementParagraphs.size)
                             }
-                            gradeSteps.forEach { gradeStep ->
-                                if (gradeStep.value.isBlank())
-                                    fail("Found empty knowledge requirement critera in ${subject.name}/${course.name} [${course.code}]")
+                            // Make sure tha all requirements are set, exclude errors from skolverket.
+                            if (!hasMissingRequirementsFromSkolverket.contains(course.code)) {
+                                course.knowledgeRequirementParagraphs.forEach {
+                                    it.knowledgeRequirements.forEach {
+                                        val gradeSteps = it.knowledgeRequirementChoice
+                                        if (!gradeSteps.keys.containsAll(setOf(GradeStep.A, GradeStep.C, GradeStep.E)) &&
+                                                !gradeSteps.keys.contains(GradeStep.G)) {
+                                            fail("Knowledge Requirement Choices should be either E,C,A or G failed for: ${subject.name}/${course.name}")
+                                        }
+                                        gradeSteps.forEach { gradeStep ->
+                                            if (gradeStep.value.isBlank())
+                                                fail("Found empty knowledge requirement critera in ${subject.name}/${course.name} [${course.code}]")
+                                        }
+                                    }
+                                }
                             }
+
                         }
                     }
-                }
-
-            }
         }
     }
 }

@@ -5,7 +5,7 @@ import org.junit.Test
 import java.io.File
 
 class SkolverketFileArchiveTest {
-    val dataDir = File("./src/test/resources/opendata/2018-07-02")
+    private val dataDir = File("./src/test/resources/opendata/2018-07-02")
 
     @Test
     fun testGR() {

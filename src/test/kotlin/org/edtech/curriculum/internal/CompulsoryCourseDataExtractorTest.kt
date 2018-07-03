@@ -12,8 +12,8 @@ import java.io.File
 
 
 internal class CompulsoryCourseDataExtractorTest {
-    private val courseDataExtractor: CompulsoryCourseDataExtractor = CompulsoryCourseDataExtractor(Jsoup.parse(File("./src/test/resources/opendata/extracted/Biologi.xml").inputStream(), null, "", Parser.xmlParser()))
-    private val courseDataExtractorMod: CompulsoryCourseDataExtractor = CompulsoryCourseDataExtractor(Jsoup.parse(File("./src/test/resources/opendata/extracted/Moderna sprak.xml").inputStream(), null, "", Parser.xmlParser()))
+    private val courseDataExtractor: CompulsoryCourseDataExtractor = CompulsoryCourseDataExtractor(Jsoup.parse(File("./src/test/resources/extracted/Biologi.xml").inputStream(), null, "", Parser.xmlParser()))
+    private val courseDataExtractorMod: CompulsoryCourseDataExtractor = CompulsoryCourseDataExtractor(Jsoup.parse(File("./src/test/resources/extracted/Moderna sprak.xml").inputStream(), null, "", Parser.xmlParser()))
 
     @Test
     fun getCourseData() {
