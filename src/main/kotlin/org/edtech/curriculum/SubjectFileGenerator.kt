@@ -3,7 +3,7 @@ package org.edtech.curriculum
 import com.fasterxml.jackson.databind.ObjectMapper
 import java.io.File
 
-class SubjectFileGenerator(private val destDir: File, private val archiveDir: File) {
+class SubjectFileGenerator(private val destDir: File, private val archiveDir: File, private val cache: Boolean = true) {
     /**
      * Generates json files for all syllabi
      */
@@ -14,7 +14,7 @@ class SubjectFileGenerator(private val destDir: File, private val archiveDir: Fi
             if (!subjectDir.exists()) {
                 subjectDir.mkdirs()
             }
-            Syllabus(syllabusType, archiveDir).getSubjects().forEach {
+            Syllabus(syllabusType, archiveDir, cache).getSubjects().forEach {
                 writeSubjectToFile(it, subjectDir.resolve("${it.code}.json"))
             }
         }
@@ -25,7 +25,7 @@ class SubjectFileGenerator(private val destDir: File, private val archiveDir: Fi
      */
     fun regenerate() {
         for (syllabusType in SyllabusType.values()) {
-            val subjectMap = Syllabus(syllabusType, archiveDir)
+            val subjectMap = Syllabus(syllabusType, archiveDir, cache)
                     .getSubjects()
                     .map { Pair(it.code, it) }
                     .toMap()
@@ -50,7 +50,7 @@ class SubjectFileGenerator(private val destDir: File, private val archiveDir: Fi
      * Update one specific subject
      */
     fun generateOneSubject(syllabusType: SyllabusType, subjectCode: String) {
-        val subject = Syllabus(syllabusType, archiveDir)
+        val subject = Syllabus(syllabusType, archiveDir, cache)
                 .getSubjects()
                 .firstOrNull { it.code == subjectCode }
         if (subject != null) {

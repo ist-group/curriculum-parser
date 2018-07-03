@@ -10,20 +10,20 @@ fun main(args : Array<String>) {
                     File(args[2])
                 } else {
                     File(System.getProperty("java.io.tmpdir"))
-                }).generateAll()
+                }, false).generateAll()
             args[0] == "--regenerate" ->
                 SubjectFileGenerator(File(args[1]), if (args.size > 2) {
                     File(args[2])
                 } else {
                     File(System.getProperty("java.io.tmpdir"))
-                }).regenerate()
+                }, false).regenerate()
             args.size > 2 -> {
                 if (SyllabusType.values().any { it.name == args[0] }) {
                     SubjectFileGenerator(File(args[2]), if (args.size > 3) {
                         File(args[3])
                     } else {
                         File(System.getProperty("java.io.tmpdir"))
-                    }).generateOneSubject(SyllabusType.valueOf(args[0]), args[1])
+                    }, false).generateOneSubject(SyllabusType.valueOf(args[0]), args[1])
                 } else {
                     println("ERROR: unknown syllabus type ${args[0]}.")
                     printHelp()
