@@ -20,7 +20,7 @@ apply plugin: 'org.jetbrains.dokka'
 apply plugin: 'maven-publish'
 
 group = "com.github.stefan-jonasson"
-version = "0.3.3"
+version = "0.3.4"
 sourceCompatibility = 1.8
 
 compileKotlin {
