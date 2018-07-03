@@ -38,8 +38,7 @@ class SubjectFileGenerator(private val destDir: File, private val archiveDir: Fi
                     val subjectCode = file.nameWithoutExtension
                     val parsedSubject = subjectMap[subjectCode]
                     if (parsedSubject == null) {
-                        println("ERROR: No subject $subjectCode for file ${file.absolutePath}")
-                        System.exit(1)
+                        throw RuntimeException("ERROR: No subject $subjectCode for file ${file.absolutePath}")
                     } else {
                         writeSubjectToFile(parsedSubject, file)
                     }
@@ -56,16 +55,15 @@ class SubjectFileGenerator(private val destDir: File, private val archiveDir: Fi
                 .getSubjects()
                 .firstOrNull { it.code == subjectCode }
         if (subject != null) {
+
             writeSubjectToFile(subject, File("$destDir/$syllabusType/$subjectCode.json"))
         } else {
-            println("ERROR: cannot find subject $String in syllabus $syllabusType.")
-            printHelp()
-            System.exit(1)
+            throw RuntimeException("ERROR: cannot find subject $String in syllabus $syllabusType.")
         }
     }
 
     private fun writeSubjectToFile(subject: Subject, file: File) {
-        // Force \n as line breaks
+        println("writing to: $file")
         file.writeText(ObjectMapper().writerWithDefaultPrettyPrinter().writeValueAsString(subject))
     }
 }

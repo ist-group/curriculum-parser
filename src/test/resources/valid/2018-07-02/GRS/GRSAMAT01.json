@@ -1,13 +1,13 @@
 {
   "name" : "Matematik",
-  "description" : "Matematiken har en flertusenårig historia med bidrag från många kulturer. Den utvecklas såväl ur praktiska behov som ur människans nyfikenhet och lust att utforska matematiken som sådan. Matematisk verksamhet är till sin art en kreativ, reflekterande och problemlösande aktivitet som är nära kopplad till den samhälleliga, sociala och tekniska utvecklingen. Kunskaper i matematik ger människor förutsättningar att fatta välgrundade beslut i vardagslivets många valsituationer och ökar möjligheterna att delta i samhällets beslutsprocesser.",
+  "description" : "Matematiken har en flertusenårig historia med bidrag från många kulturer. Den utvecklas såväl ur praktiska behov som ur människans nyfikenhet och lust att utforska matematiken som sådan. Matematisk verksamhet är till sin art en kreativ, reflekterande och problemlösande aktivitet som är nära kopplad till den samhälleliga, sociala, tekniska och digitala utvecklingen. Kunskaper i matematik ger människor förutsättningar att fatta välgrundade beslut i vardagslivets många valsituationer och ökar möjligheterna att delta i samhällets beslutsprocesser.",
   "code" : "GRSAMAT01",
   "designation" : "MA",
   "skolfsId" : "2011:28",
   "purposes" : [ {
     "type" : "PARAGRAPH",
     "heading" : "",
-    "lines" : [ "Undervisningen i ämnet matematik ska syfta till att eleverna utvecklar kunskaper om matematik och matematikens användning i vardagen.", "Den ska bidra till att eleverna utvecklar intresse för matematik och en tilltro till sin egen förmåga att använda matematik i olika sammanhang." ]
+    "lines" : [ "Undervisningen i ämnet matematik ska syfta till att eleverna utvecklar kunskaper om matematik och matematikens användning i vardagen och inom olika ämnesområden.", "Undervisningen ska bidra till att eleverna utvecklar intresse för matematik och en tilltro till sin egen förmåga att använda matematik i olika sammanhang.", "Den ska också ge eleverna möjlighet att uppleva estetiska värden i möten med matematiska mönster, former och samband." ]
   }, {
     "type" : "PARAGRAPH",
     "heading" : "",
@@ -15,7 +15,7 @@
   }, {
     "type" : "PARAGRAPH",
     "heading" : "",
-    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar ett kritiskt förhållningssätt i situationer där det finns behov av att göra överväganden om matematisk rimlighet.", "Eleverna ska genom undervisningen ges möjligheter att utveckla kunskaper i att använda digital teknik för att undersöka problemställningar, göra beräkningar och för att presentera och tolka resultat." ]
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar ett kritiskt förhållningssätt i situationer där det finns behov av att göra överväganden om matematisk rimlighet.", "Eleverna ska genom undervisningen ges möjligheter att utveckla kunskaper i att använda digitala verktyg och programmering för att kunna undersöka problemställningar och matematiska begrepp, göra beräkningar och för att presentera och tolka data." ]
   }, {
     "type" : "PARAGRAPH",
     "heading" : "",
@@ -37,13 +37,16 @@
       "lines" : [ "Strategier för matematisk problemlösning i vardagliga situationer." ]
     }, {
       "heading" : "Taluppfattning och tals användning",
-      "lines" : [ "Naturliga tal mellan 1 och 1 000 och hur de storleksordnas, jämförs och delas upp. Hur de används för att ange antal och ordning.", "Naturliga tal och hur de uttrycks och visas med ord, konkret material, symboler, bilder och på tallinje.", "De fyra räknesätten och hur de kan uttryckas och visas med ord, konkreta material, bilder och symboler. Likhetstecknets innebörd.", "Centrala metoder för addition och subtraktion vid huvudräkning, skriftliga metoder och med hjälp av digital teknik.", "Tal i bråkform.", "Rimlighetsbedömning i vardagliga situationer." ]
+      "lines" : [ "Naturliga tal mellan 1 och 1 000 och hur de storleksordnas, jämförs och delas upp. Hur de används för att ange antal och ordning.", "Naturliga tal och hur de uttrycks och visas med ord, konkret material, symboler, bilder och på tallinje.", "De fyra räknesätten och hur de kan uttryckas och visas med ord, konkreta material, bilder och symboler.", "Centrala metoder för addition och subtraktion vid huvudräkning, vid beräkningar med skriftliga metoder och vid användning av digitala verktyg.", "Tal i bråkform.", "Rimlighetsbedömning i vardagliga situationer." ]
+    }, {
+      "heading" : "Algebra",
+      "lines" : [ "Likhetstecknets innebörd.", "Hur enkla mönster i talföljder och enkla geometriska mönster kan konstrueras.", "Hur entydiga, stegvisa instruktioner kan konstrueras, beskrivas och följas som grund för programmering. Symbolers användning vid stegvisa instruktioner." ]
     }, {
       "heading" : "Tid och pengar",
-      "lines" : [ "Enheter och uttryck för tid, till exempel minut, igår och vecka.", "Mäta och uttrycka tid, till exempel med klocka.", "Sedlars och mynts namn och värde i relation till varandra." ]
+      "lines" : [ "Enheter och uttryck för tid, till exempel minut, igår och vecka.", "Mäta och uttrycka tid, till exempel med klocka.", "Sedlars och mynts namn och värde i relation till varandra. Digitala betalningssätt." ]
     }, {
       "heading" : "Sannolikhet och statistik",
-      "lines" : [ "Begreppet slump och slumpmässiga händelser i experiment och spel.", "Undersökningar i för eleven bekanta situationer, till exempel prisjämförelser och temperaturmätningar." ]
+      "lines" : [ "Begreppet slump och slumpmässiga händelser i experiment och spel.", "Undersökningar i för eleven bekanta situationer, till exempel prisjämförelser och temperaturmätningar. Tabeller och diagram och hur de kan användas för att sortera data och beskriva resultat, såväl med som utan digitala verktyg. Hur information kan avläsas ur tabeller och diagram." ]
     }, {
       "heading" : "Geometri",
       "lines" : [ "Lägesord och hur de används för att beskriva placering i rummet, till exempel över, under, framför och bakom.", "De geometriska objekten cirkel, kvadrat, rektangel och triangel. Hur de benämns och hur de ser ut.", "Geometriska begrepp, till exempel längd, bredd och höjd.", "Mätning av längd, volym och massa samt vanliga måttenheter.", "Geometriska mönster.", "Proportionella samband, däribland begreppen dubbelt och hälften." ]
@@ -138,16 +141,19 @@
       "lines" : [ "Strategier för matematisk problemlösning i vardagliga situationer." ]
     }, {
       "heading" : "Taluppfattning och tals användning",
-      "lines" : [ "Naturliga tal och hur de storleksordnas, jämförs och delas upp. Hur de används för att ange antal och ordning.", "Naturliga tal och enkla tal i decimal- och bråkform. Hur de uttrycks och visas med ord, konkreta material, symboler och bilder samt på tallinje.", "Hur de fyra räknesätten uttrycks och visas med hjälp av ord, konkreta material, bilder och symboler.", "Centrala metoder för de fyra räknesätten vid överslagsberäkning, huvudräkning, skriftliga metoder och digital teknik.", "Tal i decimal- och bråkform och deras användning i vardagliga situationer.", "Negativa tal och deras användning i konkreta och vardagliga situationer, till exempel vid mätning av temperatur.", "Begreppet procent och hur det används och uttrycks.", "Rimlighetsbedömning i vardagliga situationer." ]
+      "lines" : [ "Naturliga tal och hur de storleksordnas, jämförs och delas upp. Hur de används för att ange antal och ordning.", "Naturliga tal och enkla tal i decimal- och bråkform. Hur de uttrycks och visas med ord, konkreta material, symboler och bilder samt på tallinje.", "Hur de fyra räknesätten uttrycks och visas med hjälp av ord, konkreta material, bilder och symboler.", "Centrala metoder för de fyra räknesätten vid överslagsberäkning, huvudräkning samt vid beräkningar med skriftliga metoder och digitala verktyg. Metodernas användning i olika situationer.", "Tal i decimal- och bråkform och deras användning i vardagliga situationer.", "Negativa tal och deras användning i konkreta och vardagliga situationer, till exempel vid mätning av temperatur.", "Begreppet procent och hur det används och uttrycks.", "Rimlighetsbedömning i vardagliga situationer." ]
+    }, {
+      "heading" : "Algebra",
+      "lines" : [ "Hur symboler kan användas för att beteckna till exempel förflyttning eller ett obekant tal.", "Hur mönster i talföljder och geometriska mönster kan konstrueras, beskrivas och uttryckas.", "Hur algoritmer kan skapas och användas vid programmering. Programmering i visuella programmeringsmiljöer." ]
     }, {
       "heading" : "Tid och pengar",
-      "lines" : [ "Enheter för tid, till exempel timmar och minuter och hur de förhåller sig till varandra.", "Olika sätt att uppskatta och mäta tidsskillnader, till exempel med klocka.", "Pengars värde och användning och hur de kan växlas." ]
+      "lines" : [ "Enheter för tid, till exempel timmar och minuter och hur de förhåller sig till varandra.", "Olika sätt att uppskatta och mäta tidsskillnader, till exempel med klocka.", "Pengars värde och användning och hur de kan växlas. Digitala betalningssätt." ]
     }, {
       "heading" : "Sannolikhet och statistik",
-      "lines" : [ "Begreppen chans, risk och slump i vardagliga situationer.", "Undersökningar i för eleven bekanta situationer. Hur information kan föras in i och avläsas ur tabeller och diagram, till exempel busstidtabeller samt stapel- och cirkeldiagram." ]
+      "lines" : [ "Sannolikhet, chans och risk grundat på observationer, simuleringar eller statistiskt material från vardagliga situationer. Jämförelser av sannolikheten vid olika slumpmässiga försök.", "Undersökningar i olika situationer. Tabeller och diagram och hur de kan användas för att sortera data och beskriva resultat från undersökningar, såväl med som utan digitala verktyg. Hur information kan avläsas ur tabeller och diagram." ]
     }, {
       "heading" : "Geometri",
-      "lines" : [ "De geometriska objekten cirkel, kvadrat, rektangel och triangel. Hur de avbildas och beskrivs.", "Geometriska begrepp, till exempel hörn, sida, sträcka och vinkel.", "Mätning och uppskattning av längd, volym och massa med vanliga måttenheter.", "Proportionella samband samt enkel förstoring och förminskning.", "Geometriska mönster och hur de kan konstrueras." ]
+      "lines" : [ "De geometriska objekten cirkel, kvadrat, rektangel och triangel. Hur de avbildas och beskrivs, såväl med som utan digitala verktyg.", "Geometriska begrepp, till exempel hörn, sida, sträcka och vinkel.", "Mätning och uppskattning av längd, volym och massa med vanliga måttenheter.", "Proportionella samband samt enkel förstoring och förminskning.", "Geometriska mönster och hur de kan konstrueras." ]
     }, {
       "heading" : "Ämnesspecifika begrepp",
       "lines" : [ "Ord, begrepp och symboler inom ämnet matematik för att till exempel beskriva matematiska problem och utvärdera arbetsprocesser." ]
