@@ -1,15 +1,16 @@
 package org.edtech.curriculum
 
 import org.junit.Assert
-import org.junit.Test
+import org.junit.jupiter.api.DynamicTest
+import org.junit.jupiter.api.TestFactory
 import java.io.File
 
 class SkolverketFileArchiveTest {
     private val dataDir = File("./src/test/resources/opendata/2018-07-02")
 
-    @Test
-    fun testSkolverketArchives() {
-        SchoolType.values().forEach { schoolType ->
+    @TestFactory
+    fun testSkolverketArchives() = SchoolType.values().map { schoolType ->
+        DynamicTest.dynamicTest(schoolType.name) {
             val sf = SkolverketFileArchive(File(dataDir, schoolType.filename))
             Assert.assertTrue("${schoolType.filename} does not exist", sf.archiveExists())
             Assert.assertEquals("${schoolType.filename} does not contain expected number of xml-files",

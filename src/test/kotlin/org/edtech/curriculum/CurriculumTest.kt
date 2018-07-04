@@ -1,22 +1,31 @@
 package org.edtech.curriculum
 
 import org.junit.Assert.*
-import org.junit.Test
+import org.junit.jupiter.api.Assumptions
+import org.junit.jupiter.api.DynamicTest
+import org.junit.jupiter.api.Test
+import org.junit.jupiter.api.TestFactory
+import org.opentest4j.TestAbortedException
 import java.io.File
 
 class CurriculumTest {
     private val dataDir = File("./src/test/resources/opendata/")
 
-    @Test
-    fun testGetSubjects() {
-        SchoolType.values().forEach { schoolType ->
-            if(schoolType == SchoolType.SFI) {
-                println("Skipping tests for SFI")
-                return
-            }
-            testGetSubjectsHtml(schoolType)
-            testGetSubjects(schoolType)
+    private val schoolTypesToTest = SchoolType.values().filter {
+        if (it != SchoolType.SFI) true else {
+            println("Skipping SFI test")
+            false
         }
+    }
+
+    @TestFactory
+    fun testGetSubjects() = schoolTypesToTest.map { schoolType ->
+        DynamicTest.dynamicTest(schoolType.name) {testGetSubjects(schoolType)}
+    }
+
+    @TestFactory
+    fun testGetSubjectsHtml() = schoolTypesToTest.map { schoolType ->
+        DynamicTest.dynamicTest(schoolType.name) {testGetSubjectsHtml(schoolType)}
     }
 
     /**
