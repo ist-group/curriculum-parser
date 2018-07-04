@@ -104,7 +104,7 @@ class KnowledgeRequirementParserTest {
                         // Get the fully parsed course
                         val combined: MutableMap<GradeStep, StringBuilder> = HashMap()
                         val knowledgeRequirements = KnowledgeRequirementConverter()
-                                .getKnowledgeRequirements(course.knowledgeRequirement)
+                                .getKnowledgeRequirements(course.knowledgeRequirementGroups)
                         for (knp in knowledgeRequirements) {
                             for (kn in knp.knowledgeRequirements) {
                                 for ((g, s) in kn.knowledgeRequirementChoice) {
@@ -118,7 +118,8 @@ class KnowledgeRequirementParserTest {
                         }
 
                         for ((gradeStep, text) in combined) {
-                            val textExpected = Jsoup.parse(fixCurriculumErrors(course.knowledgeRequirement.getOrDefault(gradeStep, "")))
+                            val combinedString = course.knowledgeRequirementGroups.joinToString("") { it.knowledgeRequirements.getOrDefault(gradeStep, "") }
+                            val textExpected = Jsoup.parse(fixCurriculumErrors(combinedString))
                                     .select("p")
                                     .text()
                                     .trim()

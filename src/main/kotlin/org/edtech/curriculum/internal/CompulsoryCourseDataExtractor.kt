@@ -2,6 +2,7 @@ package org.edtech.curriculum.internal
 
 import org.edtech.curriculum.*
 import org.jsoup.nodes.Document
+import org.jsoup.nodes.Element
 
 /**
  * Parses the open data supplied by skolverket for the compulsory subjects
@@ -48,7 +49,13 @@ class CompulsoryCourseDataExtractor(private val subjectDocument: Document): Cour
         }
     }
 
-    internal fun getKnowledgeRequirements(range: IntRange, type: String): Map<GradeStep, String> {
+    internal fun getKnowledgeRequirements(range: IntRange, type: String): List<RequirementGroup> {
+        fun extractGradeStep(element: Element): GradeStep {
+            val gradeStepText = element.select("gradeStep").text()
+            // Lower years has not grade steps, convert to G level
+            return if (gradeStepText.isEmpty()) GradeStep.G else GradeStep.valueOf(gradeStepText)
+        }
+
         return subjectDocument
             // Get the subject code element
             .select("knowledgeRequirement")
@@ -56,18 +63,19 @@ class CompulsoryCourseDataExtractor(private val subjectDocument: Document): Cour
                 (it.select("year").text().toIntOrNull() ?: 0) in range &&
                 (it.select("typeOfRequirement").text() == type)
             }
-            .map {
-                val gradeStepText = it.select("gradeStep").text()
-                // Lower years has not grade steps, convert to G level
-                val gradeStep = if (gradeStepText.isEmpty()) GradeStep.G else GradeStep.valueOf(gradeStepText)
-                Pair(
-                        gradeStep,
-                        it.select("text").text())
-
-            }.toMap()
+            .groupingBy { it.select("year").text().toInt() }
+            .fold( { year, element ->
+                RequirementGroup(
+                    mapOf(extractGradeStep(element) to element.select("text").text()),
+                    year)},
+                    // combine the requirements into groups of end year-level
+                    {_, acc, element ->
+                        RequirementGroup(acc.knowledgeRequirements + mapOf(extractGradeStep(element) to element.select("text").text()), acc.year)
+                    }
+            ).values.toList()
     }
 
-    internal fun getCentralContent(range: String, type: String): String? {
+    private fun getCentralContent(range: String, type: String): String? {
         return subjectDocument
                 // Get the subject code element
                 .select("centralContent")

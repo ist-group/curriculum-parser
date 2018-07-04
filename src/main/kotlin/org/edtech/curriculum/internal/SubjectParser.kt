@@ -10,11 +10,20 @@ class SubjectParser {
         return Subject(
                 subjectData.name,
                 fixDescriptions(subjectData.description),
+                subjectData.version,
                 subjectData.code,
                 subjectData.designation,
                 subjectData.skolfsId,
                 normalizePurposes(toPurposes(subjectData.purposes)),
-                subjectData.courses.map { CourseParser(it).getCourse() }
+                subjectData.courses.map { CourseParser(it).getCourse() },
+                subjectData.createdDate,
+                subjectData.modifiedDate,
+                subjectData.typeOfSyllabus,
+                subjectData.typeOfSchooling,
+                subjectData.originatorTypeOfSchooling,
+                subjectData.gradeScale,
+                subjectData.validTo,
+                subjectData.applianceDate
         )
     }
 

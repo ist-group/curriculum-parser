@@ -1,21 +1,78 @@
 package org.edtech.curriculum
 
+import com.fasterxml.jackson.annotation.JsonFormat
+import java.time.Instant
+
 enum class PurposeType {
     PARAGRAPH, BULLET
 }
 
+enum class SyllabusType {
+    COURSE_SYLLABUS, SUBJECT_AREA_SYLLABUS
+}
+
+enum class TypeOfSchooling {
+    COMPULSORY_SCHOOL,
+    UPPER_SECONDARY_EDUCATION,
+    BASIC_ADULT_EDUCATION,
+    SPECIAL_SCHOOL_FOR_PUPILS_WITH_IMPAIRED_HEARING,
+    EDU_FOR_PUPILS_WITH_LEARNING_DISABILITIES,
+    SAMI_SCHOOL,
+    SWEDISH_FOR_IMMIGRANTS
+}
+
 enum class GradeStep {
-    F, E, D, C, B, A, G, X
+    F, E, D, C, B, A, G, X, BASIC, ADVANCED
+}
+/*
+enum class TypeOfRequirement {
+    WITHIN_LANGUAGE_CHOICE,
+    WITHIN_STUDENT_CHOICE,
+    SIGN_LANGUAGE_FOR_BEGINNERS,
+    ROMANI_LANGUAGE_SECOND,
+    ROMANI_LANGUAGE_FIRST,
+    MEANKIELI_LANGUAGE_SECOND,
+    MEANKIELI_LANGUAGE_FIRST,
+    JIDDISH_LANGUAGE_SECOND,
+    JIDDISH_LANGUAGE_FIRST,
+    FIN_LANGUAGE_SECOND,
+    FIN_LANGUAGE_FIRST,
+    WITHIN_LANGUAGE_CHOICE_CHINESE,
+    WITHIN_STUDENT_CHOICE_CHINESE,
+    SECOND_LANGUAGE,
+    FIRST_LANGUAGE
+}
+*/
+
+enum class AspectType {
+    LISTENING_COMPREHENSION,
+    VERBAL_PRODUCTION,
+    WRITING_PROFICIENCY,
+    READING_COMPREHENSION,
+    VERBAL_INTERACTION
 }
 
 data class Subject(
         val name: String,
         val description: String,
+        val version: Int?,
         val code: String,
         val designation: String?,
         val skolfsId: String,
         val purposes: List<Purpose>,
-        val courses: List<Course>
+        val courses: List<Course>,
+        @JsonFormat(shape = JsonFormat.Shape.STRING)
+        val createdDate: Instant?,
+        @JsonFormat(shape = JsonFormat.Shape.STRING)
+        val modifiedDate: Instant?,
+        val typeOfSyllabus: SyllabusType?,
+        val typeOfSchooling: TypeOfSchooling?,
+        val originatorTypeOfSchooling: TypeOfSchooling?,
+        val gradeScale: String?,
+        @JsonFormat(shape = JsonFormat.Shape.STRING)
+        val validTo: Instant?,
+        @JsonFormat(shape = JsonFormat.Shape.STRING)
+        val applianceDate: Instant?
 )
 
 data class Purpose(
@@ -46,7 +103,8 @@ data class CentralContent(
 
 data class KnowledgeRequirementParagraph(
         val heading: String,
-        val knowledgeRequirements: List<KnowledgeRequirement>
+        val knowledgeRequirements: List<KnowledgeRequirement>,
+        val year: Int? = null
 )
 
 data class KnowledgeRequirement(

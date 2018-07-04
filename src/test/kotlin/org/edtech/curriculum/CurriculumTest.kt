@@ -92,7 +92,7 @@ class CurriculumTest {
                     subjectHtml.courses.forEach { courseHtml ->
                         // Only require kr when passed the lowest grades
                         if (hasRequirements(courseHtml.year, schoolType)) {
-                            assertTrue("${courseHtml.code}/${courseHtml.name} has no knowledgeRequirements", courseHtml.knowledgeRequirement.isNotEmpty())
+                            assertTrue("${courseHtml.code}/${courseHtml.name} has no knowledgeRequirements", courseHtml.knowledgeRequirementGroups.isNotEmpty())
                         }
                         assertTrue("${courseHtml.code}/${courseHtml.name} has no centralContents", courseHtml.centralContent.isNotEmpty())
                         assertTrue("${courseHtml.code}/${courseHtml.name} has malformed centralContents:\n ${courseHtml.centralContent}", courseHtml.centralContent.contains(Regex("<li>|<p>–")))
@@ -111,37 +111,37 @@ class CurriculumTest {
             }
     }
 
-
-    @Test
-    fun testDuplicateRequirementsGR() {
+    fun testDuplicateRequirements(schoolType: SchoolType) {
         dataDir.listFiles()
                 .filter { it.isDirectory }
                 .forEach {
-                    Curriculum(SchoolType.GR, it).subjectHtml.forEach {
+                    Curriculum(schoolType, it).subjectHtml.forEach {
                         it.courses.forEach { courseHtml ->
-                            courseHtml.knowledgeRequirement.filter { entry -> entry.key != GradeStep.D && entry.key != GradeStep.B }.forEach { entry ->
-                                val matchingCourse = it.courses.firstOrNull { c -> courseHtml != c && c.knowledgeRequirement[entry.key]?.contains(entry.value) ?: false }
-                                assertNull("duplicate knowledge requirement found in ${it.name}[${it.code}] ${courseHtml.name}[${courseHtml.code}] => ${matchingCourse?.code}:\n${entry.value}", matchingCourse)
-                            }
+                            courseHtml.knowledgeRequirementGroups
+                                    .flatMap { rg -> rg.knowledgeRequirements.entries }
+                                    .filter { entry -> entry.key != GradeStep.D && entry.key != GradeStep.B }
+                                    .forEach { entry ->
+                                        val matchingCourse = it.courses
+                                                .firstOrNull {
+                                                    c -> courseHtml != c && c.knowledgeRequirementGroups.flatMap {
+                                                    rg -> rg.knowledgeRequirements.values
+                                                }.contains(entry.value)
+                                                }
+                                        assertNull("duplicate knowledge requirement found in ${it.name}[${it.code}] ${courseHtml.name}[${courseHtml.code}] => ${matchingCourse?.code}:\n${entry.value}", matchingCourse)
+                                    }
                         }
                     }
                 }
     }
 
     @Test
+    fun testDuplicateRequirementsGR() {
+        testDuplicateRequirements(SchoolType.GR)
+    }
+
+    @Test
     fun testDuplicateRequirementsGRS() {
-        dataDir.listFiles()
-            .filter{ it.isDirectory }
-            .forEach {
-                Curriculum(SchoolType.GRS, it).subjectHtml.forEach {
-                    it.courses.forEach { courseHtml ->
-                        courseHtml.knowledgeRequirement.filter { entry -> entry.key != GradeStep.D && entry.key != GradeStep.B }.forEach { entry ->
-                            val matchingCourse = it.courses.firstOrNull { c -> courseHtml != c && c.knowledgeRequirement[entry.key]?.contains(entry.value) ?: false }
-                            assertNull("duplicate knowledge requirement found in ${it.name}[${it.code}] ${courseHtml.name}[${courseHtml.code}] => ${matchingCourse?.code}:\n${entry.value}" , matchingCourse)
-                        }
-                    }
-                }
-            }
+        testDuplicateRequirements(SchoolType.GRS)
     }
 
     private fun testPurpose(name: String, purposes: List<Purpose>) {
