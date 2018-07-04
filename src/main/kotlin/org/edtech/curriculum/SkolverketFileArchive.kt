@@ -14,42 +14,42 @@ import org.apache.commons.compress.archivers.ArchiveInputStream
  * The files are available at file at http://opendata.skolverket.se/data/
  */
 class SkolverketFileArchive(private val archiveFile: File) {
+
     /**
-     * Analyze the file structure to figure out the corresponding SchoolType type
+     * Check if archive file exists
      */
-    fun getType(): SchoolType {
-        return SchoolType.values().firstOrNull { it.filename == archiveFile.nameWithoutExtension  }
-                ?: throw SkolverketFileArchiveFileNotFound("Unknown file type")
+    fun archiveExists(): Boolean {
+        return archiveFile.exists()
     }
-    
+
     /**
      * Return a file stream for the specified file
      */
-    fun getFileStream(fileName: String): InputStream {
+    fun fileExists(fileName: String): Boolean {
         FileInputStream(archiveFile).use {
             val tarInput = GzipCompressorInputStream(it)
             val dataInput = ArchiveStreamFactory().createArchiveInputStream("tar", tarInput) as TarArchiveInputStream
             var tarEntry = dataInput.nextEntry as TarArchiveEntry?
             while (tarEntry != null ) {
                 if (tarEntry.name.endsWith(fileName)) {
-                    return getArchiveFileData(dataInput, tarEntry.size.toInt())
+                    return true
                 }
                 tarEntry = dataInput.nextTarEntry
             }
         }
-        throw SkolverketFileArchiveFileNotFound("Archive file: ${archiveFile.name} does not contain: $fileName")
+        return false
     }
 
     /**
      * Return a list of file streams for all files matching the pathname
      */
-    fun getFileStreams(pathName: String): List<InputStream> {
+    fun getFileStreams(pathName: String = ""): List<InputStream> {
         val result = mutableListOf<InputStream>()
         FileInputStream(archiveFile).use {
             val tarInput = GzipCompressorInputStream(it)
             val dataInput = ArchiveStreamFactory().createArchiveInputStream("tar", tarInput) as TarArchiveInputStream
             var tarEntry = dataInput.nextEntry as TarArchiveEntry?
-            while (tarEntry != null ) {
+            while (tarEntry != null) {
                 if (tarEntry.name.contains(pathName)) {
                     if (tarEntry.size.toInt() > 0) {
                         result.add(getArchiveFileData(dataInput, tarEntry.size.toInt()))
