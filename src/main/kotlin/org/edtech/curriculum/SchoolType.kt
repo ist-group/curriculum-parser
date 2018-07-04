@@ -3,30 +3,35 @@ package org.edtech.curriculum
 import java.io.*
 import java.net.URL
 
-/**
- * A file at http://opendata.skolverket.se/data/ containing subject and course information.
- */
 enum class SchoolType(val filename: String, val archivePath: String) {
-    /** https://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/...
-     * The same file is used for thiese
-     */
-    GR("compulsory", "compulsory/subject-compulsory-S2_0/grundskolan/"),
-    GRSAM("compulsory", "compulsory/subject-compulsory-S2_0/sameskolan/"),
-    GRS("compulsory", "compulsory/subject-compulsory-S2_0/grundsarskolan/"),
-    GRSPEC("compulsory", "compulsory/subject-compulsory-S2_0/specialskolan/"),
 
-    /** https://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/gymnasieskola */
-    GY("syllabus", "gyP1_7_S1_4/subject/"),
-    /** https://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/... */
-    GYS("gys", "gysP1_7_S1_4/subject/"),
-    /** https://www.skolverket.se/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/grundlaggande */
-    VUXGR("vuxgr", "vuxgrP1_7_S1_4/subject/"),
-    /** https://www.skolverket.se/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/sfi */
-    SFI("sfi", "sfiP1_7_S1_4/subject/");
+    /** https://www.skolverket.se/undervisning/grundskolan/laroplan-och-kursplaner-for-grundskolan */
+    GR("compulsory.tgz", "compulsory/subject-compulsory-S2_0/grundskolan/"),
+
+    /** https://www.skolverket.se/undervisning/sameskolan/laroplan-och-kursplaner-i-sameskolan */
+    GRSAM("compulsory.tgz", "compulsory/subject-compulsory-S2_0/sameskolan/"),
+
+    /** https://www.skolverket.se/undervisning/grundsarskolan/laroplan-och-kursplaner-for-grundsarskolan */
+    GRS("compulsory.tgz", "compulsory/subject-compulsory-S2_0/grundsarskolan/"),
+
+    /** https://www.skolverket.se/undervisning/specialskolan/laroplan-och-kursplaner-i-specialskolan */
+    GRSPEC("compulsory.tgz", "compulsory/subject-compulsory-S2_0/specialskolan/"),
+
+    /** https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan */
+    GY("syllabus.tgz", "gyP1_7_S1_4/subject/"),
+
+    /** https://www.skolverket.se/undervisning/laroplaner-amnen-och-kurser/gymnasieutbildning */
+    GYS("gys.tgz", "gysP1_7_S1_4/subject/"),
+
+    /** https://www.skolverket.se/undervisning/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/grundlaggande */
+    VUXGR("vuxgr.tgz", "vuxgrP1_7_S1_4/subject/"),
+
+    /** https://www.skolverket.se/undervisning/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/sfi */
+    SFI("sfi.tgz", "sfiP1_7_S1_4/subject/");
 
 
     private fun getDownloadFileStream(): InputStream {
-        val urlToDownload = URL("http://opendata.skolverket.se/data/$filename.tgz")
+        val urlToDownload = URL("http://opendata.skolverket.se/data/$filename")
         val connection = urlToDownload.openConnection()
         return connection.getInputStream()
     }
@@ -39,7 +44,7 @@ enum class SchoolType(val filename: String, val archivePath: String) {
             }
         }
 
-        val currentFile = File(cacheDir, "$filename.tgz")
+        val currentFile = File(cacheDir, filename)
         if (currentFile.isFile && cache) {
             return currentFile
         }
