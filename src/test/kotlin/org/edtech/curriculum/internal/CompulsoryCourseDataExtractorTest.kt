@@ -49,7 +49,7 @@ internal class CompulsoryCourseDataExtractorTest {
                 CompulsoryCourseDataExtractor.CourseCondition("4-9", "WITHIN_STUDENT_CHOICE_CHINESE"),
                 CompulsoryCourseDataExtractor.CourseCondition("4-9", "WITHIN_LANGUAGE_CHOICE_CHINESE")
                 ).toTypedArray(),
-                courseDataExtractorMod.getCourses().toTypedArray())
+                courseDataExtractorMod.getCoursesConditions().toTypedArray())
     }
 
     @Test

@@ -9,12 +9,12 @@ class SubjectFileGenerator(private val destDir: File, private val archiveDir: Fi
      */
     fun generateAll() {
         // Generate all curriculum files
-        for (syllabusType in SyllabusType.values()) {
-            val subjectDir = destDir.resolve(syllabusType.name)
+        for (schoolType in SchoolType.values()) {
+            val subjectDir = destDir.resolve(schoolType.name)
             if (!subjectDir.exists()) {
                 subjectDir.mkdirs()
             }
-            Syllabus(syllabusType, archiveDir, cache).getSubjects().forEach {
+            Curriculum(schoolType, archiveDir, cache).getSubjects().forEach {
                 writeSubjectToFile(it, subjectDir.resolve("${it.code}.json"))
             }
         }
@@ -24,12 +24,12 @@ class SubjectFileGenerator(private val destDir: File, private val archiveDir: Fi
      * Update only existing files
      */
     fun regenerate() {
-        for (syllabusType in SyllabusType.values()) {
-            val subjectMap = Syllabus(syllabusType, archiveDir, cache)
+        for (schoolType in SchoolType.values()) {
+            val subjectMap = Curriculum(schoolType, archiveDir, cache)
                     .getSubjects()
                     .map { Pair(it.code, it) }
                     .toMap()
-            val subjectDir = destDir.resolve(syllabusType.name)
+            val subjectDir = destDir.resolve(schoolType.name)
             if (subjectDir.isDirectory) {
                 for (file in subjectDir.listFiles()) {
                     if (!file.name.endsWith(".json")) continue
@@ -49,15 +49,15 @@ class SubjectFileGenerator(private val destDir: File, private val archiveDir: Fi
     /**
      * Update one specific subject
      */
-    fun generateOneSubject(syllabusType: SyllabusType, subjectCode: String) {
-        val subject = Syllabus(syllabusType, archiveDir, cache)
+    fun generateOneSubject(schoolType: SchoolType, subjectCode: String) {
+        val subject = Curriculum(schoolType, archiveDir, cache)
                 .getSubjects()
                 .firstOrNull { it.code == subjectCode }
         if (subject != null) {
 
-            writeSubjectToFile(subject,  destDir.resolve("/$syllabusType/$subjectCode.json"))
+            writeSubjectToFile(subject,  destDir.resolve("/$schoolType/$subjectCode.json"))
         } else {
-            throw RuntimeException("ERROR: cannot find subject $String in syllabus $syllabusType.")
+            throw RuntimeException("ERROR: cannot find subject $String in curriculum $schoolType.")
         }
     }
 

@@ -4,76 +4,76 @@ import org.junit.Assert.*
 import org.junit.Test
 import java.io.File
 
-class SyllabusTest {
+class CurriculumTest {
     private val dataDir = File("./src/test/resources/opendata/")
 
     @Test
     fun testGetSubjectsHtmlGR() {
-        testGetSubjectsHtml(SyllabusType.GR)
+        testGetSubjectsHtml(SchoolType.GR)
     }
     @Test
     fun testGetSubjectsHtmlGRS() {
-        testGetSubjectsHtml(SyllabusType.GRS)
+        testGetSubjectsHtml(SchoolType.GRS)
     }
     @Test
     fun testGetSubjectsHtmlGRSAM() {
-        testGetSubjectsHtml(SyllabusType.GRSAM)
+        testGetSubjectsHtml(SchoolType.GRSAM)
     }
     @Test
     fun testGetSubjectsHtmlGRSPEC() {
-        testGetSubjectsHtml(SyllabusType.GRSPEC)
+        testGetSubjectsHtml(SchoolType.GRSPEC)
     }
     @Test
     fun testGetSubjectsHtmlGY() {
-        testGetSubjectsHtml(SyllabusType.GY)
+        testGetSubjectsHtml(SchoolType.GY)
     }
     @Test
     fun testGetSubjectsHtmlGYS() {
-        testGetSubjectsHtml(SyllabusType.GYS)
+        testGetSubjectsHtml(SchoolType.GYS)
     }
     @Test
     fun testGetSubjectsHtmlVUXGR() {
-        testGetSubjectsHtml(SyllabusType.VUXGR)
+        testGetSubjectsHtml(SchoolType.VUXGR)
     }
 /*    @Test
     fun testGetSubjectsHtmlSFI() {
-        testGetSubjectsHtml(SyllabusType.SFI)
+        testGetSubjectsHtml(org.edtech.curriculum.SchoolType.SFI)
     }*/
     @Test
     fun testGetSubjectsGR() {
-        testGetSubjects(SyllabusType.GR)
+        testGetSubjects(SchoolType.GR)
     }
     @Test
     fun testGetSubjectsGRS() {
-        testGetSubjects(SyllabusType.GRS)
+        testGetSubjects(SchoolType.GRS)
     }
     @Test
     fun testGetSubjectsGY() {
-        testGetSubjects(SyllabusType.GY)
+        testGetSubjects(SchoolType.GY)
     }
     @Test
     fun testGetSubjectsGYS() {
-        testGetSubjects(SyllabusType.GYS)
+        testGetSubjects(SchoolType.GYS)
     }
     @Test
     fun testGetSubjectsVUXGR() {
-        testGetSubjects(SyllabusType.VUXGR)
+        testGetSubjects(SchoolType.VUXGR)
     }
 /*    @Test
     fun testGetSubjectsSFI() {
-        testGetSubjects(SyllabusType.SFI)
+        testGetSubjects(org.edtech.curriculum.SchoolType.SFI)
     }
 */
-    private fun testGetSubjectsHtml(syllabusType: SyllabusType) {
+    private fun testGetSubjectsHtml(schoolType: SchoolType) {
         dataDir.listFiles()
             .filter{ it.isDirectory }
             .forEach {
-                Syllabus(syllabusType, it).subjectHtml.forEach { subjectHtml ->
-                    assertTrue("${syllabusType.name}/${subjectHtml.code} has no name", subjectHtml.name.isNotEmpty())
-                    assertTrue("${syllabusType.name}/${subjectHtml.name} has no code", subjectHtml.code.isNotEmpty())
-                    assertTrue("${syllabusType.name}/${subjectHtml.skolfsId} has no skolfsId", subjectHtml.skolfsId.isNotEmpty())
-                    assertTrue("${syllabusType.name}/${subjectHtml.name} has no courses", subjectHtml.courses.isNotEmpty())
-                    assertTrue("${syllabusType.name}/${subjectHtml.name} has no purposes", subjectHtml.purposes.isNotEmpty())
+                Curriculum(schoolType, it).subjectHtml.forEach { subjectHtml ->
+                    assertTrue("${schoolType.name}/${subjectHtml.code} has no name", subjectHtml.name.isNotEmpty())
+                    assertTrue("${schoolType.name}/${subjectHtml.name} has no code", subjectHtml.code.isNotEmpty())
+                    assertTrue("${schoolType.name}/${subjectHtml.skolfsId} has no skolfsId", subjectHtml.skolfsId.isNotEmpty())
+                    assertTrue("${schoolType.name}/${subjectHtml.name} has no courses", subjectHtml.courses.isNotEmpty())
+                    assertTrue("${schoolType.name}/${subjectHtml.name} has no purposes", subjectHtml.purposes.isNotEmpty())
 
                     subjectHtml.courses.forEach { courseHtml ->
                         // Only require kr when passed the lowest grades
@@ -103,7 +103,7 @@ class SyllabusTest {
         dataDir.listFiles()
                 .filter { it.isDirectory }
                 .forEach {
-                    Syllabus(SyllabusType.GR, it).subjectHtml.forEach {
+                    Curriculum(SchoolType.GR, it).subjectHtml.forEach {
                         it.courses.forEach { courseHtml ->
                             courseHtml.knowledgeRequirement.filter { entry -> entry.key != GradeStep.D && entry.key != GradeStep.B }.forEach { entry ->
                                 val matchingCourse = it.courses.firstOrNull { c -> courseHtml != c && c.knowledgeRequirement[entry.key]?.contains(entry.value) ?: false }
@@ -119,7 +119,7 @@ class SyllabusTest {
         dataDir.listFiles()
             .filter{ it.isDirectory }
             .forEach {
-                Syllabus(SyllabusType.GRS, it).subjectHtml.forEach {
+                Curriculum(SchoolType.GRS, it).subjectHtml.forEach {
                     it.courses.forEach { courseHtml ->
                         courseHtml.knowledgeRequirement.filter { entry -> entry.key != GradeStep.D && entry.key != GradeStep.B }.forEach { entry ->
                             val matchingCourse = it.courses.firstOrNull { c -> courseHtml != c && c.knowledgeRequirement[entry.key]?.contains(entry.value) ?: false }
@@ -153,16 +153,16 @@ class SyllabusTest {
        assertTrue( "all central contents are empty $name", centralContents.any{ it.lines.isNotEmpty()} )
     }
 
-    private fun testGetSubjects(syllabusType: SyllabusType) {
+    private fun testGetSubjects(schoolType: SchoolType) {
         dataDir.listFiles()
                 .filter{ it.isDirectory }
                 .forEach {
-                    Syllabus(syllabusType, it).getSubjects().forEach { subject ->
-                        assertTrue("${syllabusType.name}/${subject.name} has no name", subject.name.isNotEmpty())
-                        assertTrue("${syllabusType.name}/${subject.name} has no skolfsId", subject.skolfsId.isNotEmpty())
-                        assertTrue("${syllabusType.name}/${subject.name} has no code", subject.code.isNotEmpty())
-                        assertTrue("${syllabusType.name}/${subject.name} has no courses", subject.courses.isNotEmpty())
-                        testPurpose("${syllabusType.name}/${subject.name}", subject.purposes)
+                    Curriculum(schoolType, it).getSubjects().forEach { subject ->
+                        assertTrue("${schoolType.name}/${subject.name} has no name", subject.name.isNotEmpty())
+                        assertTrue("${schoolType.name}/${subject.name} has no skolfsId", subject.skolfsId.isNotEmpty())
+                        assertTrue("${schoolType.name}/${subject.name} has no code", subject.code.isNotEmpty())
+                        assertTrue("${schoolType.name}/${subject.name} has no courses", subject.courses.isNotEmpty())
+                        testPurpose("${schoolType.name}/${subject.name}", subject.purposes)
 
                         subject.courses.forEach { course ->
                             testCentralContent("${course.code}/${course.name}", course.centralContent)

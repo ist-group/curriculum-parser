@@ -15,7 +15,7 @@ import org.jsoup.select.Elements
  *
  * @param subjectDocument to extract information from
  */
-class SyllabusCourseDataExtractor(private val subjectDocument: Document): CourseDataExtractor {
+class UpperSecondaryCourseDataExtractor(private val subjectDocument: Document): CourseDataExtractor {
 
     override fun getCourseData(): List<CourseHtml> {
         return subjectDocument.select("subject > courses")

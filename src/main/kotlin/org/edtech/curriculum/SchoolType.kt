@@ -6,7 +6,7 @@ import java.net.URL
 /**
  * A file at http://opendata.skolverket.se/data/ containing subject and course information.
  */
-enum class SyllabusType(val filename: String, val archivePath: String) {
+enum class SchoolType(val filename: String, val archivePath: String) {
     /** https://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/...
      * The same file is used for thiese
      */
