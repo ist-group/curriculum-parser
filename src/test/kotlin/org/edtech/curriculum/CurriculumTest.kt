@@ -64,20 +64,34 @@ class CurriculumTest {
         testGetSubjects(org.edtech.curriculum.SchoolType.SFI)
     }
 */
+
+    /**
+     * Gradelevel 9 has requirements
+     * Gradelevel 6 has requirements except in GRS
+     * No gradelevel => has requirements
+     */
+    private fun hasRequirements(year: String, schoolType: SchoolType): Boolean {
+        return (year.isEmpty() || year.contains("6") && schoolType != SchoolType.GRS || year.contains("9"))
+    }
+
+    private fun hasRequirements(yearGroup: YearGroup?, schoolType: SchoolType): Boolean {
+        return (yearGroup == null || yearGroup.end == 6 && schoolType != SchoolType.GRS || yearGroup.end == 9)
+    }
+
     private fun testGetSubjectsHtml(schoolType: SchoolType) {
         dataDir.listFiles()
             .filter{ it.isDirectory }
             .forEach {
-                Curriculum(schoolType, it).subjectHtml.forEach {
-                    assertTrue("${schoolType.name}/${it.code} has no name", it.name.isNotEmpty())
-                    assertTrue("${schoolType.name}/${it.name} has no code", it.code.isNotEmpty())
-                    assertTrue("${schoolType.name}/${it.skolfsId} has no skolfsId", it.skolfsId.isNotEmpty())
-                    assertTrue("${schoolType.name}/${it.name} has no courses", it.courses.isNotEmpty())
-                    assertTrue("${schoolType.name}/${it.name} has no purposes", it.purposes.isNotEmpty())
+                Curriculum(schoolType, it).subjectHtml.forEach { subjectHtml ->
+                    assertTrue("${schoolType.name}/${subjectHtml.code} has no name", subjectHtml.name.isNotEmpty())
+                    assertTrue("${schoolType.name}/${subjectHtml.name} has no code", subjectHtml.code.isNotEmpty())
+                    assertTrue("${schoolType.name}/${subjectHtml.skolfsId} has no skolfsId", subjectHtml.skolfsId.isNotEmpty())
+                    assertTrue("${schoolType.name}/${subjectHtml.name} has no courses", subjectHtml.courses.isNotEmpty())
+                    assertTrue("${schoolType.name}/${subjectHtml.name} has no purposes", subjectHtml.purposes.isNotEmpty())
 
-                    it.courses.forEach { courseHtml ->
+                    subjectHtml.courses.forEach { courseHtml ->
                         // Only require kr when passed the lowest grades
-                        if (!courseHtml.year.startsWith("1-")) {
+                        if (hasRequirements(courseHtml.year, schoolType)) {
                             assertTrue("${courseHtml.code}/${courseHtml.name} has no knowledgeRequirements", courseHtml.knowledgeRequirement.isNotEmpty())
                         }
                         assertTrue("${courseHtml.code}/${courseHtml.name} has no centralContents", courseHtml.centralContent.isNotEmpty())
@@ -149,22 +163,24 @@ class CurriculumTest {
             assertTrue( "Found empty central contents in $name", it.lines.isNotEmpty() || it.heading.isNotEmpty())
             assertNull( "Found empty central contents line in $name", it.lines.firstOrNull { it.trim().isEmpty() })
         }
+
+       assertTrue( "all central contents are empty $name", centralContents.any{ it.lines.isNotEmpty()} )
     }
 
     private fun testGetSubjects(schoolType: SchoolType) {
         dataDir.listFiles()
                 .filter{ it.isDirectory }
                 .forEach {
-                    Curriculum(schoolType, it).getSubjects().forEach {
-                        assertTrue("${schoolType.name}/${it.name} has no name", it.name.isNotEmpty())
-                        assertTrue("${schoolType.name}/${it.name} has no skolfsId", it.skolfsId.isNotEmpty())
-                        assertTrue("${schoolType.name}/${it.name} has no code", it.code.isNotEmpty())
-                        assertTrue("${schoolType.name}/${it.name} has no courses", it.courses.isNotEmpty())
-                        testPurpose("${schoolType.name}/${it.name}", it.purposes)
+                    Curriculum(schoolType, it).getSubjects().forEach { subject ->
+                        assertTrue("${schoolType.name}/${subject.name} has no name", subject.name.isNotEmpty())
+                        assertTrue("${schoolType.name}/${subject.name} has no skolfsId", subject.skolfsId.isNotEmpty())
+                        assertTrue("${schoolType.name}/${subject.name} has no code", subject.code.isNotEmpty())
+                        assertTrue("${schoolType.name}/${subject.name} has no courses", subject.courses.isNotEmpty())
+                        testPurpose("${schoolType.name}/${subject.name}", subject.purposes)
 
-                        it.courses.forEach { course ->
+                        subject.courses.forEach { course ->
                             testCentralContent("${course.code}/${course.name}", course.centralContent)
-                            if (course.year?.end ?: 0 > 3) {
+                            if (hasRequirements(course.year, schoolType)) {
                                 assertTrue("${course.code}/${course.name} has no knowledgeRequirements", course.knowledgeRequirementParagraphs.isNotEmpty())
                             }
                             assertTrue("${course.code}/${course.name} has no code", course.code.isNotEmpty())

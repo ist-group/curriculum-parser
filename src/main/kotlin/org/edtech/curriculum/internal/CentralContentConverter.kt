@@ -19,6 +19,7 @@ class CentralContentConverter {
                 }
         return normalizeCentralContents(fragment
                 .select("body > *:not(:empty)")
+                .flatMap { if (it.tagName() == "div") it.children() else listOf(it) }
                 .mapNotNull {
                     if (it.tagName() == "ul") {
                         val lines = it.children().map { it.text() }.filter { it.isNotBlank() }.map { it.trim() }
