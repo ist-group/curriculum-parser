@@ -41,19 +41,6 @@ class CurriculumTest {
         return (yearGroup == null || yearGroup.end == 6 && schoolType != SchoolType.GRS || yearGroup.end == 9)
     }
 
-    /**
-     * Gradelevel 9 has requirements
-     * Gradelevel 6 has requirements except in GRS
-     * No gradelevel => has requirements
-     */
-    private fun hasRequirements(year: String, schoolType: SchoolType): Boolean {
-        return (year.isEmpty() || year.contains("6") && schoolType != SchoolType.GRS || year.contains("9"))
-    }
-
-    private fun hasRequirements(yearGroup: YearGroup?, schoolType: SchoolType): Boolean {
-        return (yearGroup == null || yearGroup.end == 6 && schoolType != SchoolType.GRS || yearGroup.end == 9)
-    }
-
     private fun testGetSubjectsHtml(schoolType: SchoolType) {
         dataDir.listFiles()
             .filter{ it.isDirectory }
