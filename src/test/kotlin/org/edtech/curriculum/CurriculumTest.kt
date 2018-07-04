@@ -64,6 +64,20 @@ class CurriculumTest {
         testGetSubjects(org.edtech.curriculum.SchoolType.SFI)
     }
 */
+
+    /**
+     * Gradelevel 9 has requirements
+     * Gradelevel 6 has requirements except in GRS
+     * No gradelevel => has requirements
+     */
+    private fun hasRequirements(year: String, schoolType: SchoolType): Boolean {
+        return (year.isEmpty() || year.contains("6") && schoolType != SchoolType.GRS || year.contains("9"))
+    }
+
+    private fun hasRequirements(yearGroup: YearGroup?, schoolType: SchoolType): Boolean {
+        return (yearGroup == null || yearGroup.end == 6 && schoolType != SchoolType.GRS || yearGroup.end == 9)
+    }
+
     private fun testGetSubjectsHtml(schoolType: SchoolType) {
         dataDir.listFiles()
             .filter{ it.isDirectory }
@@ -77,7 +91,7 @@ class CurriculumTest {
 
                     subjectHtml.courses.forEach { courseHtml ->
                         // Only require kr when passed the lowest grades
-                        if (!courseHtml.year.startsWith("1-")) {
+                        if (hasRequirements(courseHtml.year, schoolType)) {
                             assertTrue("${courseHtml.code}/${courseHtml.name} has no knowledgeRequirements", courseHtml.knowledgeRequirement.isNotEmpty())
                         }
                         assertTrue("${courseHtml.code}/${courseHtml.name} has no centralContents", courseHtml.centralContent.isNotEmpty())
@@ -166,7 +180,7 @@ class CurriculumTest {
 
                         subject.courses.forEach { course ->
                             testCentralContent("${course.code}/${course.name}", course.centralContent)
-                            if (course.year?.end ?: 0 > 3) {
+                            if (hasRequirements(course.year, schoolType)) {
                                 assertTrue("${course.code}/${course.name} has no knowledgeRequirements", course.knowledgeRequirementParagraphs.isNotEmpty())
                             }
                             assertTrue("${course.code}/${course.name} has no code", course.code.isNotEmpty())
