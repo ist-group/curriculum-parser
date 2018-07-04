@@ -68,14 +68,14 @@ class SyllabusTest {
         dataDir.listFiles()
             .filter{ it.isDirectory }
             .forEach {
-                Syllabus(syllabusType, it).subjectHtml.forEach {
-                    assertTrue("${syllabusType.name}/${it.code} has no name", it.name.isNotEmpty())
-                    assertTrue("${syllabusType.name}/${it.name} has no code", it.code.isNotEmpty())
-                    assertTrue("${syllabusType.name}/${it.skolfsId} has no skolfsId", it.skolfsId.isNotEmpty())
-                    assertTrue("${syllabusType.name}/${it.name} has no courses", it.courses.isNotEmpty())
-                    assertTrue("${syllabusType.name}/${it.name} has no purposes", it.purposes.isNotEmpty())
+                Syllabus(syllabusType, it).subjectHtml.forEach { subjectHtml ->
+                    assertTrue("${syllabusType.name}/${subjectHtml.code} has no name", subjectHtml.name.isNotEmpty())
+                    assertTrue("${syllabusType.name}/${subjectHtml.name} has no code", subjectHtml.code.isNotEmpty())
+                    assertTrue("${syllabusType.name}/${subjectHtml.skolfsId} has no skolfsId", subjectHtml.skolfsId.isNotEmpty())
+                    assertTrue("${syllabusType.name}/${subjectHtml.name} has no courses", subjectHtml.courses.isNotEmpty())
+                    assertTrue("${syllabusType.name}/${subjectHtml.name} has no purposes", subjectHtml.purposes.isNotEmpty())
 
-                    it.courses.forEach { courseHtml ->
+                    subjectHtml.courses.forEach { courseHtml ->
                         // Only require kr when passed the lowest grades
                         if (!courseHtml.year.startsWith("1-")) {
                             assertTrue("${courseHtml.code}/${courseHtml.name} has no knowledgeRequirements", courseHtml.knowledgeRequirement.isNotEmpty())
@@ -157,14 +157,14 @@ class SyllabusTest {
         dataDir.listFiles()
                 .filter{ it.isDirectory }
                 .forEach {
-                    Syllabus(syllabusType, it).getSubjects().forEach {
-                        assertTrue("${syllabusType.name}/${it.name} has no name", it.name.isNotEmpty())
-                        assertTrue("${syllabusType.name}/${it.name} has no skolfsId", it.skolfsId.isNotEmpty())
-                        assertTrue("${syllabusType.name}/${it.name} has no code", it.code.isNotEmpty())
-                        assertTrue("${syllabusType.name}/${it.name} has no courses", it.courses.isNotEmpty())
-                        testPurpose("${syllabusType.name}/${it.name}", it.purposes)
+                    Syllabus(syllabusType, it).getSubjects().forEach { subject ->
+                        assertTrue("${syllabusType.name}/${subject.name} has no name", subject.name.isNotEmpty())
+                        assertTrue("${syllabusType.name}/${subject.name} has no skolfsId", subject.skolfsId.isNotEmpty())
+                        assertTrue("${syllabusType.name}/${subject.name} has no code", subject.code.isNotEmpty())
+                        assertTrue("${syllabusType.name}/${subject.name} has no courses", subject.courses.isNotEmpty())
+                        testPurpose("${syllabusType.name}/${subject.name}", subject.purposes)
 
-                        it.courses.forEach { course ->
+                        subject.courses.forEach { course ->
                             testCentralContent("${course.code}/${course.name}", course.centralContent)
                             if (course.year?.end ?: 0 > 3) {
                                 assertTrue("${course.code}/${course.name} has no knowledgeRequirements", course.knowledgeRequirementParagraphs.isNotEmpty())
