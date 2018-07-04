@@ -149,6 +149,8 @@ class SyllabusTest {
             assertTrue( "Found empty central contents in $name", it.lines.isNotEmpty() || it.heading.isNotEmpty())
             assertNull( "Found empty central contents line in $name", it.lines.firstOrNull { it.trim().isEmpty() })
         }
+
+       assertTrue( "all central contents are empty $name", centralContents.any{ it.lines.isNotEmpty()} )
     }
 
     private fun testGetSubjects(syllabusType: SyllabusType) {

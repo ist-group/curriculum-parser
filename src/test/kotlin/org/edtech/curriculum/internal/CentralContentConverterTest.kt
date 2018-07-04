@@ -74,6 +74,31 @@ internal class CentralContentConverterTest {
                         "<p>– Traditioner och högtider som eleven möter i olika sammanhang.</p> " +
                         "<p>– Lekar och musik från områden där modersmålet talas.</p>")
         )
+        Assert.assertEquals(
+                listOf(
+                        CentralContent("I årskurs 1–3", listOf()),
+                        CentralContent("Bildframställning", listOf(
+                                "Framställning av berättande bilder, till exempel sagobilder.",
+                                "Teckning, måleri och modellering.",
+                                "Presentation av eget bildskapande."
+                        )),
+                        CentralContent("Redskap för bildframställning", listOf(
+                                "Några verktyg och tekniker för bildframställning."))
+                ),
+                CentralContentConverter().getCentralContents("<h3>I årskurs 1&ndash;3</h3>\n" +
+                        "<div>\n" +
+                        "    <h4>Bildframställning</h4>\n" +
+                        "    <ul>\n" +
+                        "        <li>Framställning av berättande bilder, till exempel sagobilder.</li>\n" +
+                        "        <li>Teckning, måleri och modellering.</li>\n" +
+                        "        <li>Presentation av eget bildskapande.</li>\n" +
+                        "    </ul>\n" +
+                        "    <h4>Redskap för bildframställning</h4>\n" +
+                        "    <ul>\n" +
+                        "        <li>Några verktyg och tekniker för bildframställning.</li>\n" +
+                        "    </ul>\n" +
+                        "</div>")
+        )
     }
 
     @Test
