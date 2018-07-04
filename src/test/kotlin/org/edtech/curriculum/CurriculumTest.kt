@@ -8,62 +8,16 @@ class CurriculumTest {
     private val dataDir = File("./src/test/resources/opendata/")
 
     @Test
-    fun testGetSubjectsHtmlGR() {
-        testGetSubjectsHtml(SchoolType.GR)
+    fun testGetSubjects() {
+        SchoolType.values().forEach { schoolType ->
+            if(schoolType == SchoolType.SFI) {
+                println("Skipping tests for SFI")
+                return
+            }
+            testGetSubjectsHtml(schoolType)
+            testGetSubjects(schoolType)
+        }
     }
-    @Test
-    fun testGetSubjectsHtmlGRS() {
-        testGetSubjectsHtml(SchoolType.GRS)
-    }
-    @Test
-    fun testGetSubjectsHtmlGRSAM() {
-        testGetSubjectsHtml(SchoolType.GRSAM)
-    }
-    @Test
-    fun testGetSubjectsHtmlGRSPEC() {
-        testGetSubjectsHtml(SchoolType.GRSPEC)
-    }
-    @Test
-    fun testGetSubjectsHtmlGY() {
-        testGetSubjectsHtml(SchoolType.GY)
-    }
-    @Test
-    fun testGetSubjectsHtmlGYS() {
-        testGetSubjectsHtml(SchoolType.GYS)
-    }
-    @Test
-    fun testGetSubjectsHtmlVUXGR() {
-        testGetSubjectsHtml(SchoolType.VUXGR)
-    }
-/*    @Test
-    fun testGetSubjectsHtmlSFI() {
-        testGetSubjectsHtml(org.edtech.curriculum.SchoolType.SFI)
-    }*/
-    @Test
-    fun testGetSubjectsGR() {
-        testGetSubjects(SchoolType.GR)
-    }
-    @Test
-    fun testGetSubjectsGRS() {
-        testGetSubjects(SchoolType.GRS)
-    }
-    @Test
-    fun testGetSubjectsGY() {
-        testGetSubjects(SchoolType.GY)
-    }
-    @Test
-    fun testGetSubjectsGYS() {
-        testGetSubjects(SchoolType.GYS)
-    }
-    @Test
-    fun testGetSubjectsVUXGR() {
-        testGetSubjects(SchoolType.VUXGR)
-    }
-/*    @Test
-    fun testGetSubjectsSFI() {
-        testGetSubjects(org.edtech.curriculum.SchoolType.SFI)
-    }
-*/
 
     /**
      * Gradelevel 9 has requirements
