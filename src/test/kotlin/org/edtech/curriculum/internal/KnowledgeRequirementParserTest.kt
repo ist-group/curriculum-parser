@@ -154,13 +154,22 @@ class KnowledgeRequirementParserTest {
         testSubjects(SchoolType.VUXGR)
     }
 
+    /**
+     * Gradelevel 9 has requirements
+     * Gradelevel 6 has requirements except in GRS
+     * No gradelevel => has requirements
+     */
+    private fun hasRequirements(yearGroup: YearGroup?, schoolType: SchoolType): Boolean {
+        return (yearGroup == null || yearGroup.end == 6 && schoolType != SchoolType.GRS || yearGroup.end == 9)
+    }
+
     private fun testSubjects(schoolType: SchoolType) {
         dataDir.listFiles().forEach { versionDir ->
             Curriculum(schoolType, versionDir).getSubjects()
                     .forEach { subject ->
                         for (course in subject.courses) {
                             // Get the fully parsed course
-                            if (course.year != YearGroup(1, 3)) {
+                            if ( hasRequirements(course.year, schoolType) ) {
                                 assertNotEquals("Knowledge Requirements is empty in  ${subject.name}/${course.name}", 0, course.knowledgeRequirementParagraphs.size)
                             }
                             // Make sure tha all requirements are set, exclude errors from skolverket.
