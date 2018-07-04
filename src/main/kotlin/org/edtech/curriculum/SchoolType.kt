@@ -24,10 +24,11 @@ enum class SchoolType(val filename: String, val archivePath: String) {
     GYS("gys.tgz", "gysP1_7_S1_4/subject/"),
 
     /** https://www.skolverket.se/undervisning/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/grundlaggande */
-    VUXGR("vuxgr.tgz", "vuxgrP1_7_S1_4/subject/"),
+    VUXGR("vuxgr.tgz", "vuxgrP1_7_S1_4/subject/");
 
     /** https://www.skolverket.se/undervisning/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/sfi */
-    SFI("sfi.tgz", "sfiP1_7_S1_4/subject/");
+    // SFI is not supported yet
+    // SFI("sfi.tgz", "sfiP1_7_S1_4/subject/");
 
 
     private fun getDownloadFileStream(): InputStream {

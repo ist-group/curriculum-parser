@@ -48,7 +48,6 @@ class IndividualFiledSubjectDataExtractor(private val skolverketFileArchive: Sko
                 VuxCourseDataExtractor(openDataDocument).getCourseData()
             SchoolType.GR, SchoolType.GRS, SchoolType.GRSPEC, SchoolType.GRSAM ->
                 CompulsoryCourseDataExtractor(openDataDocument).getCourseData()
-            else -> UpperSecondaryCourseDataExtractor(openDataDocument).getCourseData()
         }
     }
 }

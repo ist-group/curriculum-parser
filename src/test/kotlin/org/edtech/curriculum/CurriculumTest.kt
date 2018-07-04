@@ -11,21 +11,14 @@ import java.io.File
 class CurriculumTest {
     private val dataDir = File("./src/test/resources/opendata/")
 
-    private val schoolTypesToTest = SchoolType.values().filter {
-        if (it != SchoolType.SFI) true else {
-            println("Skipping SFI test")
-            false
-        }
+    @TestFactory
+    fun testGetSubjects() = SchoolType.values().map { schoolType ->
+        DynamicTest.dynamicTest(schoolType.name) { testGetSubjects(schoolType) }
     }
 
     @TestFactory
-    fun testGetSubjects() = schoolTypesToTest.map { schoolType ->
-        DynamicTest.dynamicTest(schoolType.name) {testGetSubjects(schoolType)}
-    }
-
-    @TestFactory
-    fun testGetSubjectsHtml() = schoolTypesToTest.map { schoolType ->
-        DynamicTest.dynamicTest(schoolType.name) {testGetSubjectsHtml(schoolType)}
+    fun testGetSubjectsHtml() = SchoolType.values().map { schoolType ->
+        DynamicTest.dynamicTest(schoolType.name) { testGetSubjectsHtml(schoolType) }
     }
 
     /**

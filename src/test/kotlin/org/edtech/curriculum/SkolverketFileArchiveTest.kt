@@ -25,7 +25,7 @@ class SkolverketFileArchiveTest {
             SchoolType.GY -> 313
             SchoolType.VUXGR -> 13
             SchoolType.GYS -> 91
-            SchoolType.SFI -> 2
+            //SchoolType.SFI -> 2
         }
     }
 }
