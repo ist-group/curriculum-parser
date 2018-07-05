@@ -1,7 +1,7 @@
 package org.edtech.curriculum
 
 import com.fasterxml.jackson.annotation.JsonFormat
-import java.time.Instant
+import java.time.LocalDateTime
 
 enum class PurposeType {
     PARAGRAPH, BULLET
@@ -61,18 +61,14 @@ data class Subject(
         val skolfsId: String,
         val purposes: List<Purpose>,
         val courses: List<Course>,
-        @JsonFormat(shape = JsonFormat.Shape.STRING)
-        val createdDate: Instant?,
-        @JsonFormat(shape = JsonFormat.Shape.STRING)
-        val modifiedDate: Instant?,
+        val createdDate: LocalDateTime?,
+        val modifiedDate: LocalDateTime?,
         val typeOfSyllabus: SyllabusType?,
         val typeOfSchooling: TypeOfSchooling?,
         val originatorTypeOfSchooling: TypeOfSchooling?,
         val gradeScale: String?,
-        @JsonFormat(shape = JsonFormat.Shape.STRING)
-        val validTo: Instant?,
-        @JsonFormat(shape = JsonFormat.Shape.STRING)
-        val applianceDate: Instant?
+        val validTo: LocalDateTime?,
+        val applianceDate: LocalDateTime?
 )
 
 data class Purpose(

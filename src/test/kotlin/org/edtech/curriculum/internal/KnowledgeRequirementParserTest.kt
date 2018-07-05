@@ -39,32 +39,31 @@ class KnowledgeRequirementParserTest {
     }
 
     @TestFactory
-    fun testAgainstJsonFiles() = SchoolType.values().flatMap { schoolType ->
+    fun testAgainstJsonFiles(): List<DynamicTest> {
         val mapper = getObjectMapper()
-        val subjectMap: MutableMap<String, Subject> = HashMap()
+        return SchoolType.values().flatMap { schoolType ->
 
-        File("$validDataDir/").listFiles().flatMap { versionDir ->
-            for (subject in Curriculum(schoolType, dataDir.resolve(versionDir.name)).getSubjects()) {
-                subjectMap[subject.code] = subject
-            }
-            val subjectDir = versionDir.resolve(schoolType.name)
-            if (subjectDir.isDirectory) {
-                subjectDir.listFiles()
-                        .filter { it.name.endsWith(".json") }
-                        .map { file ->
-                            DynamicTest.dynamicTest("${schoolType.name}/${versionDir.name} - ${file.nameWithoutExtension}") {
-                                val parsedSubject = subjectMap[file.nameWithoutExtension]
-                                if (parsedSubject == null) {
-                                    fail("No subject ${file.nameWithoutExtension} for file ${file.absolutePath}")
-                                } else {
-                                    val expected = file.readText()
-                                    val actual = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(parsedSubject)
-                                    assertEquals(expected, actual, "Difference for subject ${versionDir.name} - ${schoolType.name}/${file.nameWithoutExtension}")
+            File("$validDataDir/").listFiles().flatMap { versionDir ->
+                val subjectMap = Curriculum(schoolType, dataDir.resolve(versionDir.name)).getSubjects().associateBy { it.code }
+                val subjectDir = versionDir.resolve(schoolType.name)
+                if (subjectDir.isDirectory) {
+                    subjectDir.listFiles()
+                            .filter { it.name.endsWith(".json") }
+                            .map { file ->
+                                DynamicTest.dynamicTest("${schoolType.name}/${versionDir.name} - ${file.nameWithoutExtension}") {
+                                    val parsedSubject = subjectMap[file.nameWithoutExtension]
+                                    if (parsedSubject == null) {
+                                        fail("No subject ${file.nameWithoutExtension} for file ${file.absolutePath}")
+                                    } else {
+                                        val expected = file.readText()
+                                        val actual = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(parsedSubject)
+                                        assertEquals(expected, actual, "Difference for subject ${versionDir.name} - ${schoolType.name}/${file.nameWithoutExtension}")
+                                    }
                                 }
                             }
-                        }
-            } else {
-                listOf()
+                } else {
+                    listOf()
+                }
             }
         }
     }

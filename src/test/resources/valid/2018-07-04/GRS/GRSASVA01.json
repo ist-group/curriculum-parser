@@ -1,6 +1,7 @@
 {
   "name" : "Svenska som andraspråk",
   "description" : "Språk är människans främsta redskap för att tänka, kommunicera och lära. Genom språket utvecklar människor sin identitet, uttrycker känslor och tankar och förstår hur andra känner och tänker. Att ha ett rikt och varierat språk är betydelsefullt för att kunna förstå och verka i ett samhälle där kulturer, livsåskådningar, generationer och språk möts.",
+  "version" : 4,
   "code" : "GRSASVA01",
   "designation" : "SVA",
   "skolfsId" : "2011:28",
@@ -121,7 +122,8 @@
           "C" : "Genom att svara på frågor om och återge delar av innehållet på ett <strong>delvis relevant</strong> sätt visar eleven sin förståelse för texterna.",
           "A" : "Genom att svara på frågor om och återge delar av innehållet på ett <strong>relevant</strong> sätt visar eleven sin förståelse för texterna."
         }
-      } ]
+      } ],
+      "year" : 6
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -166,7 +168,8 @@
           "C" : "Eleven kan på ett <strong>delvis fungerande</strong> sätt hämta information från givna källor och för då <strong>enkla</strong> resonemang om informationens användbarhet.",
           "A" : "Eleven kan på ett <strong>väl fungerande</strong> sätt hämta information från givna källor och för då <strong>välutvecklade</strong> resonemang om informationens användbarhet."
         }
-      } ]
+      } ],
+      "year" : 6
     } ],
     "point" : null,
     "year" : {
@@ -247,7 +250,8 @@
           "C" : "Genom att svara på frågor, återge delar av innehållet och sammanfatta innehållet på ett <strong>delvis relevant</strong> sätt visar eleven sin förståelse för texterna.",
           "A" : "Genom att svara på frågor, återge delar av innehållet och sammanfatta innehållet på ett <strong>relevant</strong> sätt visar eleven sin förståelse för texterna."
         }
-      } ]
+      } ],
+      "year" : 9
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -299,12 +303,21 @@
           "C" : "Dessutom kan eleven på ett <strong>delvis fungerande</strong> sätt söka information där sökorden är ordnade i alfabetisk ordning.",
           "A" : "Dessutom kan eleven på ett <strong>väl fungerande</strong> sätt söka information där sökorden är ordnade i alfabetisk ordning."
         }
-      } ]
+      } ],
+      "year" : 9
     } ],
     "point" : null,
     "year" : {
       "start" : 7,
       "end" : 9
     }
-  } ]
+  } ],
+  "createdDate" : null,
+  "modifiedDate" : null,
+  "typeOfSyllabus" : "COURSE_SYLLABUS",
+  "typeOfSchooling" : null,
+  "originatorTypeOfSchooling" : "EDU_FOR_PUPILS_WITH_LEARNING_DISABILITIES",
+  "gradeScale" : "",
+  "validTo" : null,
+  "applianceDate" : "2011-01-01T00:00:00Z"
 }

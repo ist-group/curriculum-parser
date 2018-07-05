@@ -4,6 +4,8 @@ import org.edtech.curriculum.Purpose
 import org.edtech.curriculum.PurposeType
 import org.edtech.curriculum.Subject
 import org.edtech.curriculum.SubjectHtml
+import java.time.LocalDateTime
+import java.time.OffsetDateTime
 
 class SubjectParser {
     fun getSubject(subjectData: SubjectHtml): Subject {
@@ -16,15 +18,23 @@ class SubjectParser {
                 subjectData.skolfsId,
                 normalizePurposes(toPurposes(subjectData.purposes)),
                 subjectData.courses.map { CourseParser(it).getCourse() },
-                subjectData.createdDate,
-                subjectData.modifiedDate,
+                stringToDate(subjectData.createdDate),
+                stringToDate(subjectData.modifiedDate),
                 subjectData.typeOfSyllabus,
                 subjectData.typeOfSchooling,
                 subjectData.originatorTypeOfSchooling,
                 subjectData.gradeScale,
-                subjectData.validTo,
-                subjectData.applianceDate
+                stringToDate(subjectData.validTo),
+                stringToDate(subjectData.applianceDate)
         )
+    }
+
+    private fun stringToDate(dateString: String?): LocalDateTime? {
+        return if (dateString?.isNotEmpty() == true) {
+            OffsetDateTime.parse(dateString).toLocalDateTime()
+        } else {
+            null
+        }
     }
 
     /**

@@ -1,9 +1,21 @@
 package org.edtech.curriculum
 
 import com.fasterxml.jackson.databind.ObjectMapper
+import com.fasterxml.jackson.databind.ObjectWriter
+import com.fasterxml.jackson.databind.SerializationFeature
+import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule
 import java.io.File
 
 class SubjectFileGenerator(private val destDir: File, private val archiveDir: File, private val cache: Boolean = true) {
+    private val objectWriter: ObjectWriter
+    init {
+        val mapper = ObjectMapper()
+        mapper.disable(SerializationFeature.WRITE_DATES_AS_TIMESTAMPS)
+        mapper.registerModule(JavaTimeModule())
+        objectWriter = mapper.writerWithDefaultPrettyPrinter()
+    }
+
+
     /**
      * Generates json files for all syllabi
      */
@@ -63,6 +75,6 @@ class SubjectFileGenerator(private val destDir: File, private val archiveDir: Fi
 
     private fun writeSubjectToFile(subject: Subject, file: File) {
         println("writing to: $file")
-        file.writeText(ObjectMapper().writerWithDefaultPrettyPrinter().writeValueAsString(subject))
+        file.writeText(objectWriter.writeValueAsString(subject))
     }
 }

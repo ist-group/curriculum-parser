@@ -5,7 +5,7 @@ import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
 import org.jsoup.parser.Parser
 import java.io.InputStream
-import java.time.Instant
+import java.time.LocalDateTime
 import java.time.format.DateTimeParseException
 
 /**
@@ -30,27 +30,6 @@ class IndividualFiledSubjectDataExtractor(private val skolverketFileArchive: Sko
         val openDataDocument = Jsoup.parse(openDataDocumentStream, null, "", Parser.xmlParser())
         fun extractString(elementName: String): String = openDataDocument.select("subject > $elementName" ).text()
 
-        val applianceDate =  try {
-            Instant.parse(extractString("applianceDate"))
-        } catch (dateTimeParseException: DateTimeParseException) {
-            Instant.parse("2011-01-01T00:00:00.000Z")
-        }
-        val createdDate =  try {
-            Instant.parse(extractString("createdDate"))
-        } catch (dateTimeParseException: DateTimeParseException) {
-            null
-        }
-        val modifiedDate =  try {
-            Instant.parse(extractString("modifiedDate"))
-        } catch (dateTimeParseException: DateTimeParseException) {
-            null
-        }
-        val validTo =  try {
-            Instant.parse(extractString("validTo"))
-        } catch (dateTimeParseException: DateTimeParseException) {
-            null
-        }
-
         return SubjectHtml(
                 extractString("name"),
                 extractString("description"),
@@ -60,14 +39,14 @@ class IndividualFiledSubjectDataExtractor(private val skolverketFileArchive: Sko
                 extractString("skolfsId"),
                 convertDashListToList(extractString("purpose")),
                 extractCourses(openDataDocument),
-                createdDate,
-                modifiedDate,
+                extractString("createdDate"),
+                extractString("modifiedDate"),
                 valueOfOrNull<SyllabusType>(extractString("typeOfSyllabus")),
                 valueOfOrNull<TypeOfSchooling>(extractString("typeOfSchooling")),
                 valueOfOrNull<TypeOfSchooling>(extractString("originatorTypeOfSchooling")),
                 extractString("gradeScale"),
-                validTo,
-                applianceDate
+                extractString("validTo"),
+                extractString("applianceDate")
            )
     }
 

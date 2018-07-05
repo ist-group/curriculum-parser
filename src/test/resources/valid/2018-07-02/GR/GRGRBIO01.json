@@ -1,6 +1,7 @@
 {
   "name" : "Biologi",
   "description" : "Naturvetenskapen har sitt ursprung i människans nyfikenhet och behov av att veta mer om sig själv och sin omvärld. Kunskaper i biologi har stor betydelse för samhällsutvecklingen inom så skilda områden som hälsa, naturbruk och miljö. Med kunskaper om naturen och människan får människor redskap för att påverka sitt eget välbefinnande, men också för att kunna bidra till en hållbar utveckling.",
+  "version" : 11,
   "code" : "GRGRBIO01",
   "designation" : "BI",
   "skolfsId" : "2010:37",
@@ -91,7 +92,8 @@
         "knowledgeRequirementChoice" : {
           "G" : "Dessutom kan eleven samtala om skönlitteratur, myter och konst som handlar om naturen och människan."
         }
-      } ]
+      } ],
+      "year" : 3
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -124,7 +126,8 @@
         "knowledgeRequirementChoice" : {
           "G" : "Eleven dokumenterar dessutom sina undersökningar med hjälp av olika uttrycksformer och kan använda sig av sin dokumentation i diskussioner och samtal."
         }
-      } ]
+      } ],
+      "year" : 3
     } ],
     "point" : null,
     "year" : {
@@ -177,7 +180,8 @@
           "C" : "Eleven kan använda informationen i diskussioner och för att skapa texter och andra framställningar med <strong>relativt god</strong> anpassning till sammanhanget.",
           "A" : "Eleven kan använda informationen i diskussioner och för att skapa texter och andra framställningar med <strong>god</strong> anpassning till sammanhanget."
         }
-      } ]
+      } ],
+      "year" : 6
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -208,7 +212,8 @@
           "C" : "Dessutom gör eleven <strong>utvecklade</strong> dokumentationer av sina undersökningar i text och bild.",
           "A" : "Dessutom gör eleven <strong>välutvecklade</strong> dokumentationer av sina undersökningar i text och bild."
         }
-      } ]
+      } ],
+      "year" : 6
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -246,7 +251,8 @@
           "C" : "Eleven kan också berätta om några naturvetenskapliga upptäckter och deras betydelse för människors levnadsvillkor.",
           "A" : "Eleven kan också berätta om några naturvetenskapliga upptäckter och deras betydelse för människors levnadsvillkor."
         }
-      } ]
+      } ],
+      "year" : 6
     } ],
     "point" : null,
     "year" : {
@@ -303,7 +309,8 @@
           "C" : "Eleven kan använda informationen på ett <strong>relativt väl</strong> fungerande sätt i diskussioner och för att skapa <strong>utvecklade</strong> texter och andra framställningar med <strong>relativt god</strong> anpassning till syfte och målgrupp.",
           "A" : "Eleven kan använda informationen på ett <strong>väl</strong> fungerande sätt i diskussioner och för att skapa <strong>välutvecklade</strong> texter och andra framställningar med <strong>god</strong> anpassning till syfte och målgrupp."
         }
-      } ]
+      } ],
+      "year" : 9
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -341,7 +348,8 @@
           "C" : "Dessutom gör eleven <strong>utvecklade</strong> dokumentationer av undersökningarna med tabeller, diagram, bilder och skriftliga rapporter.",
           "A" : "Dessutom gör eleven <strong>välutvecklade</strong> dokumentationer av undersökningarna med tabeller, diagram, bilder och skriftliga rapporter."
         }
-      } ]
+      } ],
+      "year" : 9
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -379,12 +387,21 @@
           "C" : "Eleven kan <strong>förklara</strong> och <strong>visa på samband mellan</strong> några centrala naturvetenskapliga upptäckter och deras betydelse för människors levnadsvillkor.",
           "A" : "Eleven kan <strong>förklara</strong> och <strong>generalisera kring</strong> några centrala naturvetenskapliga upptäckter och deras betydelse för människors levnadsvillkor."
         }
-      } ]
+      } ],
+      "year" : 9
     } ],
     "point" : null,
     "year" : {
       "start" : 7,
       "end" : 9
     }
-  } ]
+  } ],
+  "createdDate" : null,
+  "modifiedDate" : null,
+  "typeOfSyllabus" : "COURSE_SYLLABUS",
+  "typeOfSchooling" : null,
+  "originatorTypeOfSchooling" : "COMPULSORY_SCHOOL",
+  "gradeScale" : "",
+  "validTo" : null,
+  "applianceDate" : "2011-01-01T00:00:00Z"
 }
