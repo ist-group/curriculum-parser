@@ -1,12 +1,18 @@
 package org.edtech.curriculum.internal
 
 import com.fasterxml.jackson.databind.ObjectMapper
+import com.fasterxml.jackson.databind.SerializationFeature
 import org.edtech.curriculum.*
 import org.jsoup.Jsoup
-import org.junit.Assert.*
+import org.junit.jupiter.api.Assertions.assertEquals
+import org.junit.jupiter.api.Assertions.assertNotEquals
 import org.junit.jupiter.api.DynamicTest
 import org.junit.jupiter.api.TestFactory
+import org.junit.jupiter.api.fail
 import java.io.File
+import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule
+
+
 
 
 class KnowledgeRequirementParserTest {
@@ -25,31 +31,39 @@ class KnowledgeRequirementParserTest {
         return (yearGroup == null || yearGroup.end == 6 && schoolType != SchoolType.GRS || yearGroup.end == 9)
     }
 
+    private fun getObjectMapper(): ObjectMapper {
+        val mapper = ObjectMapper()
+        mapper.disable(SerializationFeature.WRITE_DATES_AS_TIMESTAMPS)
+        mapper.registerModule(JavaTimeModule())
+        return mapper
+    }
+
     @TestFactory
-    fun testAgainstJsonFiles() = SchoolType.values().map { schoolType ->
-        DynamicTest.dynamicTest(schoolType.name) {
-            val mapper = ObjectMapper()
-            val subjectMap: MutableMap<String, Subject> = HashMap()
+    fun testAgainstJsonFiles(): List<DynamicTest> {
+        val mapper = getObjectMapper()
+        return SchoolType.values().flatMap { schoolType ->
 
-            File("$validDataDir/").listFiles().forEach { versionDir ->
-                for (subject in Curriculum(schoolType, dataDir.resolve(versionDir.name)).getSubjects()) {
-                    subjectMap[subject.code] = subject
-                }
+            File("$validDataDir/").listFiles().flatMap { versionDir ->
+                val subjectMap = Curriculum(schoolType, dataDir.resolve(versionDir.name)).getSubjects().associateBy { it.code }
                 val subjectDir = versionDir.resolve(schoolType.name)
-                if (!subjectDir.isDirectory) fail("${subjectDir.absolutePath} is not a directory")
-
-                subjectDir.listFiles()
-                    .filter { it.name.endsWith(".json") }
-                    .forEach { file ->
-                        val parsedSubject = subjectMap[file.nameWithoutExtension]
-                        if (parsedSubject == null) {
-                            fail("No subject ${file.nameWithoutExtension} for file ${file.absolutePath}")
-                        } else {
-                            val expected = file.readText()
-                            val actual = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(parsedSubject)
-                            assertEquals("Difference for subject ${versionDir.name} - ${schoolType.name}/${file.nameWithoutExtension}", expected, actual)
-                        }
-                    }
+                if (subjectDir.isDirectory) {
+                    subjectDir.listFiles()
+                            .filter { it.name.endsWith(".json") }
+                            .map { file ->
+                                DynamicTest.dynamicTest("${schoolType.name}/${versionDir.name} - ${file.nameWithoutExtension}") {
+                                    val parsedSubject = subjectMap[file.nameWithoutExtension]
+                                    if (parsedSubject == null) {
+                                        fail("No subject ${file.nameWithoutExtension} for file ${file.absolutePath}")
+                                    } else {
+                                        val expected = file.readText()
+                                        val actual = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(parsedSubject)
+                                        assertEquals(expected, actual, "Difference for subject ${versionDir.name} - ${schoolType.name}/${file.nameWithoutExtension}")
+                                    }
+                                }
+                            }
+                } else {
+                    listOf()
+                }
             }
         }
     }
@@ -64,7 +78,7 @@ class KnowledgeRequirementParserTest {
                             // Get the fully parsed course
                             val combined: MutableMap<GradeStep, StringBuilder> = HashMap()
                             val knowledgeRequirements = KnowledgeRequirementConverter()
-                                    .getKnowledgeRequirements(course.knowledgeRequirement)
+                                    .getKnowledgeRequirements(course.knowledgeRequirementGroups)
                             for (knp in knowledgeRequirements) {
                                 for (kn in knp.knowledgeRequirements) {
                                     for ((g, s) in kn.knowledgeRequirementChoice) {
@@ -78,14 +92,15 @@ class KnowledgeRequirementParserTest {
                             }
 
                             for ((gradeStep, text) in combined) {
-                                val textExpected = Jsoup.parse(fixCurriculumErrors(course.knowledgeRequirement.getOrDefault(gradeStep, "")))
+                                val combinedString = course.knowledgeRequirementGroups.joinToString("") { it.knowledgeRequirements.getOrDefault(gradeStep, "") }
+                                val textExpected = Jsoup.parse(fixCurriculumErrors(combinedString))
                                         .select("p")
                                         .text()
                                         .trim()
                                         .replace("  ", " ")
                                         .replace(Regex("\\.([A-zåäö])"), ". \$1")
                                 val textActual = Jsoup.parse(text.toString()).text().trim()
-                                assertEquals("course: ${subject.name}/${course.name} GradeStep: ${gradeStep.name}", textExpected, textActual)
+                                assertEquals(textExpected, textActual, "course: ${subject.name}/${course.name} GradeStep: ${gradeStep.name}")
                             }
                         }
                     }
@@ -103,7 +118,7 @@ class KnowledgeRequirementParserTest {
                             for (course in subject.courses) {
                                 // Get the fully parsed course
                                 if (hasRequirements(course.year, schoolType)) {
-                                    assertNotEquals("Knowledge Requirements is empty in  ${subject.name}/${course.name}", 0, course.knowledgeRequirementParagraphs.size)
+                                    assertNotEquals( 0, course.knowledgeRequirementParagraphs.size) { "Knowledge Requirements is empty in  ${subject.name}/${course.name}" }
                                 }
                                 // Make sure tha all requirements are set, exclude errors from skolverket.
                                 if (!hasMissingRequirementsFromSkolverket.contains(course.code)) {

@@ -2,14 +2,14 @@ package org.edtech.curriculum.internal
 
 import org.edtech.curriculum.Purpose
 import org.edtech.curriculum.PurposeType
-import org.junit.Assert
+import org.junit.jupiter.api.Assertions.assertArrayEquals
 import org.junit.jupiter.api.Test
 
 class SubjectParserTest {
 
     @Test
     fun testNormalizePurposes() {
-        Assert.assertArrayEquals(
+        assertArrayEquals(
                 arrayOf(
                         Purpose(PurposeType.PARAGRAPH, "", listOf("bla bla.", "bla bla.")),
                         Purpose(PurposeType.PARAGRAPH, "Heading", listOf("bla bla.", "bla bla.")),
@@ -29,7 +29,7 @@ class SubjectParserTest {
                     )
                 ).toTypedArray()
         )
-        Assert.assertArrayEquals(
+        assertArrayEquals(
                 arrayOf(
                         Purpose(PurposeType.PARAGRAPH, "", listOf("bla bla.", "bla bla.")),
                         Purpose(PurposeType.PARAGRAPH, "Heading", listOf("bla bla.", "bla bla.")),
@@ -49,7 +49,7 @@ class SubjectParserTest {
                     )
                 ).toTypedArray()
         )
-        Assert.assertArrayEquals(
+        assertArrayEquals(
                 arrayOf(
                         Purpose(PurposeType.PARAGRAPH, "", listOf("bla bla.", "bla bla.")),
                         Purpose(PurposeType.PARAGRAPH, "Heading", listOf("bla bla.", "bla bla.")),

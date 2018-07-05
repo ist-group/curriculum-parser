@@ -1,6 +1,7 @@
 {
   "name" : "Estetisk verksamhet",
   "description" : "Estetisk verksamhet är viktig för människors sätt att tänka, lära och uppleva sig själva och omvärlden. Vi omges ständigt av olika estetiska uttrycksformer som ger oss olika estetiska och känslomässiga upplevelser. Genom att arbeta med skapande verksamhet kan människor bearbeta intryck och utveckla sin kreativitet, nyfikenhet och skapande förmåga. Kunskaper om och i estetisk verksamhet ökar människors möjlighet att delta i samhällets kulturliv och i annan social gemenskap.",
+  "version" : 3,
   "code" : "GRSAEST01",
   "designation" : "",
   "skolfsId" : "2011:28",
@@ -67,7 +68,8 @@
         "knowledgeRequirementChoice" : {
           "G" : "Eleven <strong>deltar</strong> också i att välja och använda instrument, ljud och rörelser för att musicera och dramatisera."
         }
-      } ]
+      } ],
+      "year" : 9
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -85,7 +87,8 @@
         "knowledgeRequirementChoice" : {
           "G" : "Eleven <strong>identifierar</strong> ord, begrepp och symboler på ett i sammanhanget relevant sätt genom att visa igenkännande och samspela."
         }
-      } ]
+      } ],
+      "year" : 9
     } ],
     "point" : null,
     "year" : {
@@ -134,7 +137,8 @@
         "knowledgeRequirementChoice" : {
           "G" : "Eleven <strong>väljer och använder</strong> också instrument, ljud och rörelser för att musicera och dramatisera."
         }
-      } ]
+      } ],
+      "year" : 9
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -152,12 +156,21 @@
         "knowledgeRequirementChoice" : {
           "G" : "Eleven <strong>använder</strong> ord, begrepp och symboler på ett i sammanhanget relevant sätt."
         }
-      } ]
+      } ],
+      "year" : 9
     } ],
     "point" : null,
     "year" : {
       "start" : 1,
       "end" : 9
     }
-  } ]
+  } ],
+  "createdDate" : null,
+  "modifiedDate" : null,
+  "typeOfSyllabus" : "SUBJECT_AREA_SYLLABUS",
+  "typeOfSchooling" : null,
+  "originatorTypeOfSchooling" : "EDU_FOR_PUPILS_WITH_LEARNING_DISABILITIES",
+  "gradeScale" : "",
+  "validTo" : null,
+  "applianceDate" : "2011-01-01T00:00:00Z"
 }

@@ -1,7 +1,7 @@
 package org.edtech.curriculum.internal
 
 import org.edtech.curriculum.*
-import org.junit.Assert.*
+import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test
 
 internal class HtmlUtilsTest {
