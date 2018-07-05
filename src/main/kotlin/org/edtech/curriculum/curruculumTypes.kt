@@ -1,6 +1,5 @@
 package org.edtech.curriculum
 
-import com.fasterxml.jackson.annotation.JsonFormat
 import java.time.LocalDateTime
 
 enum class PurposeType {
