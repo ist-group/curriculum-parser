@@ -1,7 +1,7 @@
 package org.edtech.curriculum
 
 import org.junit.Assert
-import org.junit.Test
+import org.junit.jupiter.api.Test
 
 internal class TextUtilsTest {
 

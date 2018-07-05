@@ -6,7 +6,10 @@ import org.jsoup.Jsoup
 import org.jsoup.parser.Parser
 import org.junit.Assert.assertArrayEquals
 import org.junit.Assert.assertEquals
-import org.junit.Test
+import org.junit.jupiter.api.Assertions
+import org.junit.jupiter.api.Assertions.assertThrows
+import org.junit.jupiter.api.DisplayName
+import org.junit.jupiter.api.Test
 import java.io.File
 
 
@@ -58,16 +61,19 @@ internal class CompulsoryCourseDataExtractorTest {
         assertEquals(stringToRange("0-3"), 0..3)
         assertEquals(stringToRange("0 - 3"), 0..3)
         assertEquals(stringToRange(" 0 - 3 "), 0..3)
-
-
     }
 
-    @Test(expected = NumberFormatException::class)
+    @Test
     fun testRangeConverterException() {
-        stringToRange("3")
+        Assertions.assertThrows(NumberFormatException::class.java) {
+            stringToRange("3")
+        }
     }
-    @Test(expected = NumberFormatException::class)
+
+    @Test
     fun testRangeConverterExceptionInvalidRange() {
-        stringToRange("x-3")
+        Assertions.assertThrows(NumberFormatException::class.java) {
+            stringToRange("x-3")
+        }
     }
 }

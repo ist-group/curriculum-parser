@@ -1,69 +1,25 @@
 package org.edtech.curriculum
 
 import org.junit.Assert.*
-import org.junit.Test
+import org.junit.jupiter.api.Assumptions
+import org.junit.jupiter.api.DynamicTest
+import org.junit.jupiter.api.Test
+import org.junit.jupiter.api.TestFactory
+import org.opentest4j.TestAbortedException
 import java.io.File
 
 class CurriculumTest {
     private val dataDir = File("./src/test/resources/opendata/")
 
-    @Test
-    fun testGetSubjectsHtmlGR() {
-        testGetSubjectsHtml(SchoolType.GR)
+    @TestFactory
+    fun testGetSubjects() = SchoolType.values().map { schoolType ->
+        DynamicTest.dynamicTest(schoolType.name) { testGetSubjects(schoolType) }
     }
-    @Test
-    fun testGetSubjectsHtmlGRS() {
-        testGetSubjectsHtml(SchoolType.GRS)
+
+    @TestFactory
+    fun testGetSubjectsHtml() = SchoolType.values().map { schoolType ->
+        DynamicTest.dynamicTest(schoolType.name) { testGetSubjectsHtml(schoolType) }
     }
-    @Test
-    fun testGetSubjectsHtmlGRSAM() {
-        testGetSubjectsHtml(SchoolType.GRSAM)
-    }
-    @Test
-    fun testGetSubjectsHtmlGRSPEC() {
-        testGetSubjectsHtml(SchoolType.GRSPEC)
-    }
-    @Test
-    fun testGetSubjectsHtmlGY() {
-        testGetSubjectsHtml(SchoolType.GY)
-    }
-    @Test
-    fun testGetSubjectsHtmlGYS() {
-        testGetSubjectsHtml(SchoolType.GYS)
-    }
-    @Test
-    fun testGetSubjectsHtmlVUXGR() {
-        testGetSubjectsHtml(SchoolType.VUXGR)
-    }
-/*    @Test
-    fun testGetSubjectsHtmlSFI() {
-        testGetSubjectsHtml(org.edtech.curriculum.SchoolType.SFI)
-    }*/
-    @Test
-    fun testGetSubjectsGR() {
-        testGetSubjects(SchoolType.GR)
-    }
-    @Test
-    fun testGetSubjectsGRS() {
-        testGetSubjects(SchoolType.GRS)
-    }
-    @Test
-    fun testGetSubjectsGY() {
-        testGetSubjects(SchoolType.GY)
-    }
-    @Test
-    fun testGetSubjectsGYS() {
-        testGetSubjects(SchoolType.GYS)
-    }
-    @Test
-    fun testGetSubjectsVUXGR() {
-        testGetSubjects(SchoolType.VUXGR)
-    }
-/*    @Test
-    fun testGetSubjectsSFI() {
-        testGetSubjects(org.edtech.curriculum.SchoolType.SFI)
-    }
-*/
 
     /**
      * Gradelevel 9 has requirements

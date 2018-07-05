@@ -3,7 +3,7 @@ package org.edtech.curriculum.internal
 import org.edtech.curriculum.Purpose
 import org.edtech.curriculum.PurposeType
 import org.junit.Assert
-import org.junit.Test
+import org.junit.jupiter.api.Test
 
 class SubjectParserTest {
 
