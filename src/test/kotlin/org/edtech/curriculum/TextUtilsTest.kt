@@ -1,7 +1,8 @@
 package org.edtech.curriculum
 
-import org.junit.Assert
-import org.junit.Test
+import org.junit.jupiter.api.Assertions.assertEquals
+import org.junit.jupiter.api.Assertions.assertTrue
+import org.junit.jupiter.api.Test
 
 internal class TextUtilsTest {
 
@@ -42,11 +43,11 @@ internal class TextUtilsTest {
     private fun compareSentences(shouldMatch: String, shouldNotMatch: String, matchString: String) {
         val correctMatch =  similarLineRatio(shouldMatch, matchString)
         val incorrectMatch =  similarLineRatio(shouldNotMatch, matchString)
-        Assert.assertTrue("Wrong sentence got higher score $correctMatch > $incorrectMatch", correctMatch > incorrectMatch)
+        assertTrue(correctMatch > incorrectMatch, "Wrong sentence got higher score $correctMatch > $incorrectMatch")
     }
 
     @Test
     fun removeInflectionsTest() {
-        Assert.assertEquals(listOf("elev", "elev", "elev"), removeInflections(listOf("eleven", "elever", "elevens")))
+        assertEquals(listOf("elev", "elev", "elev"), removeInflections(listOf("eleven", "elever", "elevens")))
     }
 }

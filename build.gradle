@@ -32,6 +32,7 @@ compileTestKotlin {
 }
 
 repositories {
+    jcenter()
     mavenCentral()
     mavenLocal()
 }
@@ -40,7 +41,8 @@ dependencies {
     compile("org.jsoup:jsoup:1.11.2")
     compile("org.apache.commons:commons-compress:1.16.1")
     compile("com.fasterxml.jackson.module:jackson-module-kotlin:2.9.4.1")
-    testCompile('junit:junit:4.12')
+    compile("com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.8.10")
+    testCompile("org.junit.jupiter:junit-jupiter-engine:5.2.0")
 }
 dokka {
     outputFormat = 'html'

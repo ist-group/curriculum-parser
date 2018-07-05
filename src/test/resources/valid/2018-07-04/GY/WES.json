@@ -1,6 +1,7 @@
 {
   "name" : "Webbserverprogrammering",
   "description" : "Ämnet webbserverprogrammering behandlar funktionalitet för webblösningar och samspelet mellan beställare, användare, formgivare och utvecklare.",
+  "version" : null,
   "code" : "WES",
   "designation" : "",
   "skolfsId" : "0000:00",
@@ -38,7 +39,8 @@
           "C" : "Eleven beskriver <strong>utförligt</strong> tekniken bakom dynamiska webbplatser och hur de samspelar med olika tekniker på webben.",
           "A" : "Eleven beskriver <strong>utförligt och nyanserat</strong> tekniken bakom dynamiska webbplatser och hur de samspelar med olika tekniker på webben."
         }
-      } ]
+      } ],
+      "year" : null
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -83,7 +85,8 @@
           "C" : "Produkten är av <strong>tillfredsställande</strong> kvalitet och följer etablerad god praxis. <strong>Detta kontrollerar eleven med hjälp av några tester</strong>.",
           "A" : "Produkten är av <strong>god</strong> kvalitet och följer etablerad god praxis. <strong>Detta kontrollerar eleven med hjälp av flera tester, även manuella</strong>."
         }
-      } ]
+      } ],
+      "year" : null
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -107,7 +110,8 @@
           "C" : "När eleven kommunicerar med andra använder hon eller han <strong>med viss säkerhet</strong> terminologi.",
           "A" : "När eleven kommunicerar med andra använder hon eller han <strong>med säkerhet</strong> terminologi."
         }
-      } ]
+      } ],
+      "year" : null
     } ],
     "point" : 100,
     "year" : null
@@ -128,7 +132,8 @@
           "C" : "Eleven redogör <strong>utförligt</strong> för de tekniker som möjliggör dynamiska webbplatser och webbtjänster.",
           "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för de tekniker som möjliggör dynamiska webbplatser och webbtjänster."
         }
-      } ]
+      } ],
+      "year" : null
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -180,7 +185,8 @@
           "C" : "Produkten är av <strong>tillfredsställande</strong> kvalitet och följer etablerad god praxis, vilket eleven kontrollerar med <strong>automatiserade</strong> tester.",
           "A" : "Produkten är av <strong>god</strong> kvalitet och följer etablerad god praxis, vilket eleven kontrollerar med <strong>omfattande automatiserade och manuella</strong> tester."
         }
-      } ]
+      } ],
+      "year" : null
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -204,7 +210,8 @@
           "C" : "När eleven kommunicerar med andra använder hon eller han <strong>med viss säkerhet</strong> terminologi.",
           "A" : "När eleven kommunicerar med andra använder hon eller han <strong>med säkerhet</strong> terminologi."
         }
-      } ]
+      } ],
+      "year" : null
     } ],
     "point" : 100,
     "year" : null
@@ -225,7 +232,8 @@
           "C" : "Eleven redogör <strong>utförligt</strong> för de tekniker som möjliggör datakommunikation med hjälp av webbtjänster.",
           "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för de tekniker som möjliggör datakommunikation med hjälp av webbtjänster."
         }
-      } ]
+      } ],
+      "year" : null
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -291,7 +299,8 @@
           "C" : "Detta kontrollerar eleven med <strong>några</strong> tester.",
           "A" : "<strong>Detta kontrollerar eleven med omfattande manuella och automatiserade tester</strong>."
         }
-      } ]
+      } ],
+      "year" : null
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -315,9 +324,18 @@
           "C" : "När eleven kommunicerar med andra använder hon eller han <strong>med viss säkerhet</strong> terminologi.",
           "A" : "När eleven kommunicerar med andra använder hon eller han <strong>med säkerhet</strong> terminologi."
         }
-      } ]
+      } ],
+      "year" : null
     } ],
     "point" : 100,
     "year" : null
-  } ]
+  } ],
+  "createdDate" : null,
+  "modifiedDate" : null,
+  "typeOfSyllabus" : null,
+  "typeOfSchooling" : "UPPER_SECONDARY_EDUCATION",
+  "originatorTypeOfSchooling" : null,
+  "gradeScale" : "",
+  "validTo" : null,
+  "applianceDate" : "2011-01-01T00:00:00Z"
 }

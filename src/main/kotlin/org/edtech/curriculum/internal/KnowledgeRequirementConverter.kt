@@ -1,51 +1,53 @@
 package org.edtech.curriculum.internal
 
 import org.edtech.curriculum.*
-import kotlin.math.max
 
 class KnowledgeRequirementConverter {
 
     /**
      * Parse the grade-step html text into an KnowledgeRequirement
      */
-    fun getKnowledgeRequirements(knowledgeRequirementsHtml: Map<GradeStep, String>): List<KnowledgeRequirementParagraph> {
-        if (knowledgeRequirementsHtml.isEmpty()) {
+    fun getKnowledgeRequirements(knowledgeRequirementsGroupsHtml: List<RequirementGroup>): List<KnowledgeRequirementParagraph> {
+        if (knowledgeRequirementsGroupsHtml.isEmpty()) {
             return listOf()
         }
-        val knowledgeRequirementResult = if (knowledgeRequirementsHtml.size == 1 && knowledgeRequirementsHtml.containsKey(GradeStep.G)) {
-            baseKnowledgeRequirements(knowledgeRequirementsHtml[GradeStep.G] ?: "", GradeStep.G)
-        } else if (knowledgeRequirementsHtml.containsKey(GradeStep.E)) {
-            var knowledgeRequirements = baseKnowledgeRequirements(knowledgeRequirementsHtml[GradeStep.E] ?: "", GradeStep.E)
+        return knowledgeRequirementsGroupsHtml.flatMap { knowledgeRequirementsGroup ->
+            val knowledgeRequirementsHtml = knowledgeRequirementsGroup.knowledgeRequirements
+            val knowledgeRequirementResult = if (knowledgeRequirementsHtml.size == 1 && knowledgeRequirementsHtml.containsKey(GradeStep.G)) {
+                baseKnowledgeRequirements(knowledgeRequirementsHtml[GradeStep.G] ?: "", GradeStep.G)
+            } else if (knowledgeRequirementsHtml.containsKey(GradeStep.E)) {
+                var knowledgeRequirements = baseKnowledgeRequirements(knowledgeRequirementsHtml[GradeStep.E] ?: "", GradeStep.E)
 
-            // Combine other levels into the existing structure
-            for (gradeStep in listOf(GradeStep.C, GradeStep.A)) {
-                knowledgeRequirements = addGradeStep(knowledgeRequirements,
-                        fixCurriculumErrors(knowledgeRequirementsHtml[gradeStep] ?: ""), gradeStep)
+                // Combine other levels into the existing structure
+                for (gradeStep in listOf(GradeStep.C, GradeStep.A)) {
+                    knowledgeRequirements = addGradeStep(knowledgeRequirements,
+                            fixCurriculumErrors(knowledgeRequirementsHtml[gradeStep] ?: ""), gradeStep)
+                }
+                knowledgeRequirements
+            } else {
+                throw Exception("Cannot parse KnowledgeRequirement with structure: " + knowledgeRequirementsHtml.keys)
             }
-            knowledgeRequirements
-        } else {
-            throw Exception("Cannot parse KnowledgeRequirement with structure: " + knowledgeRequirementsHtml.keys)
+            structureParagraphs(knowledgeRequirementResult, knowledgeRequirementsGroup)
         }
-        return  structureParagraphs(knowledgeRequirementResult)
     }
 
     /**
      * Return a list of paragraphs
      */
-    private fun structureParagraphs(knowledgeRequirementList: List<KnowledgeRequirementData>): List<KnowledgeRequirementParagraph> {
+    private fun structureParagraphs(knowledgeRequirementList: List<KnowledgeRequirementData>, requirementGroup: RequirementGroup): List<KnowledgeRequirementParagraph> {
         var paragraphNo = 0
         val structuredRequirements = mutableListOf<KnowledgeRequirementParagraph>()
         val requirementsInParagraph = mutableListOf<KnowledgeRequirement>()
         for (kn in knowledgeRequirementList) {
             if (kn.paragraphNo != paragraphNo) {
                 paragraphNo = kn.paragraphNo
-                structuredRequirements.add(KnowledgeRequirementParagraph("", requirementsInParagraph.toList()))
+                structuredRequirements.add(KnowledgeRequirementParagraph("", requirementsInParagraph.toList(), requirementGroup.year))
                 requirementsInParagraph.clear()
             }
             requirementsInParagraph.add(KnowledgeRequirement(kn.text, kn.knowledgeRequirementChoice))
         }
         if (requirementsInParagraph.isNotEmpty()) {
-            structuredRequirements.add(KnowledgeRequirementParagraph("", requirementsInParagraph.toList()))
+            structuredRequirements.add(KnowledgeRequirementParagraph("", requirementsInParagraph.toList(), requirementGroup.year))
         }
         return structuredRequirements
     }
@@ -115,7 +117,7 @@ class KnowledgeRequirementConverter {
             val mappedLineNo = result.size
             val line = lines[index]
 
-            // Always take the first line as the first knowledgeRequirement
+            // Always take the first line as the first knowledgeRequirementGroups
             if (result.isEmpty()) {
                 result.add(addLevelToKnowledgeRequirement(knowledgeRequirements[mappedLineNo], gradeStep, line))
             } else if (knowledgeRequirements.size > mappedLineNo) {

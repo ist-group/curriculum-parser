@@ -1,6 +1,7 @@
 {
   "name" : "Naturorienterande ämnen",
   "description" : "Biologi, fysik och kemi Naturvetenskapen har sitt ursprung i människans nyfikenhet och behov av att veta mer om sig själv och sin omvärld. Kunskaper i naturorienterande ämnen har stor betydelse för samhällsutvecklingen inom så skilda områden som hälsa, naturbruk, energiförsörjning, materialutveckling och miljö. Med kunskaper om naturen och människan får människor redskap för att påverka sitt eget välbefinnande, men också för att kunna bidra till en hållbar utveckling.",
+  "version" : 2,
   "code" : "GRSANAT01",
   "designation" : "NO",
   "skolfsId" : "2011:28",
@@ -89,7 +90,8 @@
           "C" : "I samtal om miljöfrågor kan eleven föra <strong>enkla</strong> resonemang om hur källsortering och återvinning kan göras och ge <strong>delvis underbyggda</strong> förslag på olika val som kan bidra till hållbar utveckling.",
           "A" : "I samtal om miljöfrågor kan eleven föra <strong>välutvecklade</strong> resonemang om hur källsortering och återvinning kan göras och ge <strong>väl underbyggda</strong> förslag på olika val som kan bidra till hållbar utveckling."
         }
-      } ]
+      } ],
+      "year" : 6
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -134,7 +136,8 @@
           "C" : "Eleven kan använda <strong>några</strong> ämnesspecifika ord, begrepp och symboler på ett <strong>delvis ändamålsenligt</strong> sätt i resonemang om människa, djur och natur och i utvärdering av arbetsprocesser.",
           "A" : "Eleven kan använda <strong>några</strong> ämnesspecifika ord, begrepp och symboler på ett <strong>ändamålsenligt</strong> sätt i resonemang om människa, djur och natur och i utvärdering av arbetsprocesser."
         }
-      } ]
+      } ],
+      "year" : 6
     } ],
     "point" : null,
     "year" : {
@@ -194,7 +197,8 @@
           "C" : "I samtal om miljöfrågor kan eleven föra <strong>enkla</strong> resonemang om samhällets energikällor och ge <strong>delvis underbyggda</strong> förslag på olika val som kan bidra till hållbar utveckling.",
           "A" : "I samtal om miljöfrågor kan eleven föra <strong>välutvecklade</strong> resonemang om samhällets energikällor och ge <strong>väl underbyggda</strong> förslag på olika val som kan bidra till hållbar utveckling."
         }
-      } ]
+      } ],
+      "year" : 9
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -239,12 +243,21 @@
           "C" : "Eleven kan använda <strong>många</strong> ämnesspecifika ord, begrepp och symboler på ett <strong>delvis ändamålsenligt</strong> sätt i resonemang om människa, djur och natur, i egna frågor och i <strong>enkla</strong> omdömen om olika arbetsprocesser.",
           "A" : "Eleven kan använda <strong>många</strong> ämnesspecifika ord, begrepp och symboler på ett <strong>ändamålsenligt</strong> sätt i resonemang om människa, djur och natur, i egna frågor och i <strong>välutvecklade</strong> omdömen om olika arbetsprocesser."
         }
-      } ]
+      } ],
+      "year" : 9
     } ],
     "point" : null,
     "year" : {
       "start" : 7,
       "end" : 9
     }
-  } ]
+  } ],
+  "createdDate" : null,
+  "modifiedDate" : null,
+  "typeOfSyllabus" : "COURSE_SYLLABUS",
+  "typeOfSchooling" : null,
+  "originatorTypeOfSchooling" : "EDU_FOR_PUPILS_WITH_LEARNING_DISABILITIES",
+  "gradeScale" : "",
+  "validTo" : null,
+  "applianceDate" : "2011-01-01T00:00:00Z"
 }

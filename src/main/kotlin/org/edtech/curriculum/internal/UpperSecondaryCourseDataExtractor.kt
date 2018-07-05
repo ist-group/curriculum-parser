@@ -2,6 +2,7 @@ package org.edtech.curriculum.internal
 
 import org.edtech.curriculum.CourseHtml
 import org.edtech.curriculum.GradeStep
+import org.edtech.curriculum.RequirementGroup
 import org.jsoup.nodes.Document
 import org.jsoup.nodes.Element
 import org.jsoup.select.Elements
@@ -24,13 +25,13 @@ class UpperSecondaryCourseDataExtractor(private val subjectDocument: Document): 
     }
 
 
-    private fun getKnowledgeRequirements(knowledgeRequirementElements: Elements): Map<GradeStep, String> {
-        return knowledgeRequirementElements.map {
+    private fun getKnowledgeRequirements(knowledgeRequirementElements: Elements): List<RequirementGroup> {
+        return listOf(RequirementGroup(knowledgeRequirementElements.map {
             Pair(
                     GradeStep.valueOf(it.selectFirst("gradeStep").text()),
                     it.selectFirst("text").text()
             )
-        }.toMap()
+        }.toMap()))
     }
 
     private fun getCourse(courseElement: Element): CourseHtml {

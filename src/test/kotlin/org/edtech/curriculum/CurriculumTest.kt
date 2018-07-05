@@ -1,69 +1,22 @@
 package org.edtech.curriculum
 
-import org.junit.Assert.*
-import org.junit.Test
+import org.junit.jupiter.api.*
+import org.junit.jupiter.api.Assertions.assertNull
+import org.junit.jupiter.api.Assertions.assertTrue
 import java.io.File
 
 class CurriculumTest {
     private val dataDir = File("./src/test/resources/opendata/")
 
-    @Test
-    fun testGetSubjectsHtmlGR() {
-        testGetSubjectsHtml(SchoolType.GR)
+    @TestFactory
+    fun testGetSubjects() = SchoolType.values().map { schoolType ->
+        DynamicTest.dynamicTest(schoolType.name) { testGetSubjects(schoolType) }
     }
-    @Test
-    fun testGetSubjectsHtmlGRS() {
-        testGetSubjectsHtml(SchoolType.GRS)
+
+    @TestFactory
+    fun testGetSubjectsHtml() = SchoolType.values().map { schoolType ->
+        DynamicTest.dynamicTest(schoolType.name) { testGetSubjectsHtml(schoolType) }
     }
-    @Test
-    fun testGetSubjectsHtmlGRSAM() {
-        testGetSubjectsHtml(SchoolType.GRSAM)
-    }
-    @Test
-    fun testGetSubjectsHtmlGRSPEC() {
-        testGetSubjectsHtml(SchoolType.GRSPEC)
-    }
-    @Test
-    fun testGetSubjectsHtmlGY() {
-        testGetSubjectsHtml(SchoolType.GY)
-    }
-    @Test
-    fun testGetSubjectsHtmlGYS() {
-        testGetSubjectsHtml(SchoolType.GYS)
-    }
-    @Test
-    fun testGetSubjectsHtmlVUXGR() {
-        testGetSubjectsHtml(SchoolType.VUXGR)
-    }
-/*    @Test
-    fun testGetSubjectsHtmlSFI() {
-        testGetSubjectsHtml(org.edtech.curriculum.SchoolType.SFI)
-    }*/
-    @Test
-    fun testGetSubjectsGR() {
-        testGetSubjects(SchoolType.GR)
-    }
-    @Test
-    fun testGetSubjectsGRS() {
-        testGetSubjects(SchoolType.GRS)
-    }
-    @Test
-    fun testGetSubjectsGY() {
-        testGetSubjects(SchoolType.GY)
-    }
-    @Test
-    fun testGetSubjectsGYS() {
-        testGetSubjects(SchoolType.GYS)
-    }
-    @Test
-    fun testGetSubjectsVUXGR() {
-        testGetSubjects(SchoolType.VUXGR)
-    }
-/*    @Test
-    fun testGetSubjectsSFI() {
-        testGetSubjects(org.edtech.curriculum.SchoolType.SFI)
-    }
-*/
 
     /**
      * Gradelevel 9 has requirements
@@ -83,88 +36,93 @@ class CurriculumTest {
             .filter{ it.isDirectory }
             .forEach {
                 Curriculum(schoolType, it).subjectHtml.forEach { subjectHtml ->
-                    assertTrue("${schoolType.name}/${subjectHtml.code} has no name", subjectHtml.name.isNotEmpty())
-                    assertTrue("${schoolType.name}/${subjectHtml.name} has no code", subjectHtml.code.isNotEmpty())
-                    assertTrue("${schoolType.name}/${subjectHtml.skolfsId} has no skolfsId", subjectHtml.skolfsId.isNotEmpty())
-                    assertTrue("${schoolType.name}/${subjectHtml.name} has no courses", subjectHtml.courses.isNotEmpty())
-                    assertTrue("${schoolType.name}/${subjectHtml.name} has no purposes", subjectHtml.purposes.isNotEmpty())
+                    assertAll(
+                            {assertTrue(subjectHtml.name.isNotEmpty()) { "${schoolType.name}/${subjectHtml.code} has no name"} },
+                            {assertTrue(subjectHtml.code.isNotEmpty()) { "${schoolType.name}/${subjectHtml.name} has no code"} },
+                            {assertTrue(subjectHtml.skolfsId.isNotEmpty()) { "${schoolType.name}/${subjectHtml.skolfsId} has no skolfsId"} },
+                            {assertTrue(subjectHtml.courses.isNotEmpty()) { "${schoolType.name}/${subjectHtml.name} has no courses"} },
+                            {assertTrue(subjectHtml.purposes.isNotEmpty()) { "${schoolType.name}/${subjectHtml.name} has no purposes" } }
+                    )
 
                     subjectHtml.courses.forEach { courseHtml ->
                         // Only require kr when passed the lowest grades
                         if (hasRequirements(courseHtml.year, schoolType)) {
-                            assertTrue("${courseHtml.code}/${courseHtml.name} has no knowledgeRequirements", courseHtml.knowledgeRequirement.isNotEmpty())
+                            assertTrue(courseHtml.knowledgeRequirementGroups.isNotEmpty()) { "${courseHtml.code}/${courseHtml.name} has no knowledgeRequirements" }
                         }
-                        assertTrue("${courseHtml.code}/${courseHtml.name} has no centralContents", courseHtml.centralContent.isNotEmpty())
-                        assertTrue("${courseHtml.code}/${courseHtml.name} has malformed centralContents:\n ${courseHtml.centralContent}", courseHtml.centralContent.contains(Regex("<li>|<p>–")))
-                        assertTrue("${courseHtml.code}/${courseHtml.name} has no code", courseHtml.code.isNotEmpty())
-                        assertTrue("${courseHtml.code}/${courseHtml.name} has no name", courseHtml.name.isNotEmpty())
+                        assertAll(
+                                {assertTrue(courseHtml.centralContent.isNotEmpty()) { "${courseHtml.code}/${courseHtml.name} has no centralContents" } },
+                                {assertTrue(courseHtml.centralContent.contains(Regex("<li>|<p>–"))) { "${courseHtml.code}/${courseHtml.name} has malformed centralContents:\n ${courseHtml.centralContent}" } },
+                                {assertTrue(courseHtml.code.isNotEmpty()) { "${courseHtml.code}/${courseHtml.name} has no code" } },
+                                {assertTrue(courseHtml.name.isNotEmpty()) { "${schoolType.name}/${subjectHtml.name} has no courses"} }
+                        )
 
                         // Only check real courses
                         if (courseHtml.year.isEmpty() ) {
                             if (courseHtml.point.isEmpty()) {
                                 fail("${courseHtml.code}/${courseHtml.name} has no points/year group")
                             }
-                            assertTrue("${courseHtml.code}/${courseHtml.name} has no description", courseHtml.description.isNotEmpty())
+                            assertTrue(courseHtml.description.isNotEmpty()) { "${courseHtml.code}/${courseHtml.name} has no description" }
                         }
                     }
                 }
             }
     }
 
-
-    @Test
-    fun testDuplicateRequirementsGR() {
+    private fun testDuplicateRequirements(schoolType: SchoolType) {
+        // TODO convert to an assert all
         dataDir.listFiles()
                 .filter { it.isDirectory }
                 .forEach {
-                    Curriculum(SchoolType.GR, it).subjectHtml.forEach {
+                    Curriculum(schoolType, it).subjectHtml.forEach {
                         it.courses.forEach { courseHtml ->
-                            courseHtml.knowledgeRequirement.filter { entry -> entry.key != GradeStep.D && entry.key != GradeStep.B }.forEach { entry ->
-                                val matchingCourse = it.courses.firstOrNull { c -> courseHtml != c && c.knowledgeRequirement[entry.key]?.contains(entry.value) ?: false }
-                                assertNull("duplicate knowledge requirement found in ${it.name}[${it.code}] ${courseHtml.name}[${courseHtml.code}] => ${matchingCourse?.code}:\n${entry.value}", matchingCourse)
-                            }
+                            courseHtml.knowledgeRequirementGroups
+                                    .flatMap { rg -> rg.knowledgeRequirements.entries }
+                                    .filter { entry -> entry.key != GradeStep.D && entry.key != GradeStep.B }
+                                    .forEach { entry ->
+                                        val matchingCourse = it.courses
+                                                .firstOrNull {
+                                                    c -> courseHtml != c && c.knowledgeRequirementGroups.flatMap {
+                                                    rg -> rg.knowledgeRequirements.values
+                                                }.contains(entry.value)
+                                                }
+                                        assertNull(matchingCourse) { "duplicate knowledge requirement found in ${it.name}[${it.code}] ${courseHtml.name}[${courseHtml.code}] => ${matchingCourse?.code}:\n${entry.value}" }
+                                    }
                         }
                     }
                 }
+    }
+
+    @Test
+    fun testDuplicateRequirementsGR() {
+        testDuplicateRequirements(SchoolType.GR)
     }
 
     @Test
     fun testDuplicateRequirementsGRS() {
-        dataDir.listFiles()
-            .filter{ it.isDirectory }
-            .forEach {
-                Curriculum(SchoolType.GRS, it).subjectHtml.forEach {
-                    it.courses.forEach { courseHtml ->
-                        courseHtml.knowledgeRequirement.filter { entry -> entry.key != GradeStep.D && entry.key != GradeStep.B }.forEach { entry ->
-                            val matchingCourse = it.courses.firstOrNull { c -> courseHtml != c && c.knowledgeRequirement[entry.key]?.contains(entry.value) ?: false }
-                            assertNull("duplicate knowledge requirement found in ${it.name}[${it.code}] ${courseHtml.name}[${courseHtml.code}] => ${matchingCourse?.code}:\n${entry.value}" , matchingCourse)
-                        }
-                    }
-                }
-            }
+        testDuplicateRequirements(SchoolType.GRS)
     }
 
     private fun testPurpose(name: String, purposes: List<Purpose>) {
-        assertTrue("$name has no purpose", purposes.isNotEmpty() )
+        assertTrue(purposes.isNotEmpty()) { "$name has no purpose" }
 
         purposes.forEach {
-            assertTrue( "Found empty purpose in $name", it.lines.isNotEmpty() || it.heading.isNotEmpty())
-            assertNull( "Found empty purpose line in $name", it.lines.firstOrNull { it.trim().isEmpty() })
+            assertTrue( it.lines.isNotEmpty() || it.heading.isNotEmpty()) { "Found empty purpose in $name" }
+            assertNull(  it.lines.firstOrNull { it.trim().isEmpty() }) { "Found empty purpose line in $name" }
             if (it.type == PurposeType.BULLET) {
-                assertTrue( "Bullet lists always needs a heading $name", it.heading.isNotEmpty())
+                assertTrue(it.heading.isNotEmpty()) {"Bullet lists always needs a heading $name" }
             }
         }
     }
 
     private fun testCentralContent(name: String, centralContents: List<CentralContent>) {
-        assertTrue("$name has no central contents", centralContents.isNotEmpty() )
+        assertTrue(centralContents.isNotEmpty()) { "$name has no central contents" }
 
         centralContents.forEach {
-            assertTrue( "Found empty central contents in $name", it.lines.isNotEmpty() || it.heading.isNotEmpty())
-            assertNull( "Found empty central contents line in $name", it.lines.firstOrNull { it.trim().isEmpty() })
+            assertTrue( it.lines.isNotEmpty() || it.heading.isNotEmpty()) { "Found empty central contents in $name" }
+            assertNull( it.lines.firstOrNull { it.trim().isEmpty() }) { "Found empty central contents line in $name" }
         }
 
-       assertTrue( "all central contents are empty $name", centralContents.any{ it.lines.isNotEmpty()} )
+       assertTrue(centralContents.any{ it.lines.isNotEmpty()}) { "all central contents are empty $name" }
     }
 
     private fun testGetSubjects(schoolType: SchoolType) {
@@ -172,27 +130,27 @@ class CurriculumTest {
                 .filter{ it.isDirectory }
                 .forEach {
                     Curriculum(schoolType, it).getSubjects().forEach { subject ->
-                        assertTrue("${schoolType.name}/${subject.name} has no name", subject.name.isNotEmpty())
-                        assertTrue("${schoolType.name}/${subject.name} has no skolfsId", subject.skolfsId.isNotEmpty())
-                        assertTrue("${schoolType.name}/${subject.name} has no code", subject.code.isNotEmpty())
-                        assertTrue("${schoolType.name}/${subject.name} has no courses", subject.courses.isNotEmpty())
+                        assertTrue(subject.name.isNotEmpty(), "${schoolType.name}/${subject.name} has no name")
+                        assertTrue(subject.skolfsId.isNotEmpty(), "${schoolType.name}/${subject.name} has no skolfsId")
+                        assertTrue(subject.code.isNotEmpty(), "${schoolType.name}/${subject.name} has no code")
+                        assertTrue(subject.courses.isNotEmpty(), "${schoolType.name}/${subject.name} has no courses")
                         testPurpose("${schoolType.name}/${subject.name}", subject.purposes)
 
                         subject.courses.forEach { course ->
                             testCentralContent("${course.code}/${course.name}", course.centralContent)
                             if (hasRequirements(course.year, schoolType)) {
-                                assertTrue("${course.code}/${course.name} has no knowledgeRequirements", course.knowledgeRequirementParagraphs.isNotEmpty())
+                                assertTrue(course.knowledgeRequirementParagraphs.isNotEmpty(), "${course.code}/${course.name} has no knowledgeRequirements")
                             }
-                            assertTrue("${course.code}/${course.name} has no code", course.code.isNotEmpty())
-                            assertTrue("${course.code}/${course.name} has no name", course.name.isNotEmpty())
+                            assertTrue(course.code.isNotEmpty(), "${course.code}/${course.name} has no code")
+                            assertTrue(course.name.isNotEmpty(), "${course.code}/${course.name} has no name")
                             // Only check real courses
                             if (course.year == null) {
                                 if (course.point == null) {
                                     fail("${course.code}/${course.name} has no points/year group")
                                 }
-                                assertTrue("${course.code}/${course.name} has no description", course.description.isNotEmpty())
+                                assertTrue(course.description.isNotEmpty(), "${course.code}/${course.name} has no description")
                                 if (course.point != null) {
-                                    assertTrue("${course.code}/${course.name} has no points", course.point!! > 0)
+                                    assertTrue(course.point!! > 0, "${course.code}/${course.name} has no points")
                                 } else {
                                     fail("${course.code}/${course.name} has no points")
                                 }

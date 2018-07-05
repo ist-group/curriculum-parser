@@ -5,7 +5,7 @@ import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
 import org.jsoup.parser.Parser
 import java.io.InputStream
-import java.time.Instant
+import java.time.LocalDateTime
 import java.time.format.DateTimeParseException
 
 /**
@@ -18,24 +18,35 @@ class IndividualFiledSubjectDataExtractor(private val skolverketFileArchive: Sko
         }.toList()
     }
 
+    private inline fun <reified T : kotlin.Enum<T>> valueOfOrNull(type: String?): T? {
+        return try {
+            java.lang.Enum.valueOf(T::class.java, type)
+        } catch (ia: IllegalArgumentException) {
+            null
+        }
+    }
+
     private fun getSubject(openDataDocumentStream: InputStream): SubjectHtml {
         val openDataDocument = Jsoup.parse(openDataDocumentStream, null, "", Parser.xmlParser())
         fun extractString(elementName: String): String = openDataDocument.select("subject > $elementName" ).text()
 
-        val applianceDate =  try {
-            Instant.parse(extractString("applianceDate"))
-        } catch (dateTimeParseException: DateTimeParseException) {
-            Instant.parse("2011-01-01T00:00:00.000Z")
-        }
         return SubjectHtml(
                 extractString("name"),
                 extractString("description"),
+                extractString("version").toIntOrNull(),
                 extractString("code"),
                 extractString("designation"),
                 extractString("skolfsId"),
                 convertDashListToList(extractString("purpose")),
                 extractCourses(openDataDocument),
-                applianceDate
+                extractString("createdDate"),
+                extractString("modifiedDate"),
+                valueOfOrNull<SyllabusType>(extractString("typeOfSyllabus")),
+                valueOfOrNull<TypeOfSchooling>(extractString("typeOfSchooling")),
+                valueOfOrNull<TypeOfSchooling>(extractString("originatorTypeOfSchooling")),
+                extractString("gradeScale"),
+                extractString("validTo"),
+                extractString("applianceDate")
            )
     }
 
@@ -48,7 +59,6 @@ class IndividualFiledSubjectDataExtractor(private val skolverketFileArchive: Sko
                 VuxCourseDataExtractor(openDataDocument).getCourseData()
             SchoolType.GR, SchoolType.GRS, SchoolType.GRSPEC, SchoolType.GRSAM ->
                 CompulsoryCourseDataExtractor(openDataDocument).getCourseData()
-            else -> UpperSecondaryCourseDataExtractor(openDataDocument).getCourseData()
         }
     }
 }

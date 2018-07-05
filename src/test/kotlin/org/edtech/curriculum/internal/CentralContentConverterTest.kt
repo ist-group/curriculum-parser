@@ -1,14 +1,15 @@
 package org.edtech.curriculum.internal
 
 import org.edtech.curriculum.CentralContent
-import org.junit.Assert
-import org.junit.Test
+import org.junit.jupiter.api.Assertions.assertEquals
+import org.junit.jupiter.api.Test
+import org.junit.jupiter.api.assertAll
 
 internal class CentralContentConverterTest {
 
     @Test
     fun toCentralContentTest() {
-        Assert.assertEquals(
+        assertEquals(
                 listOf(
                         CentralContent("I årskurs 1-3", listOf()),
                         CentralContent("Bildframställning", listOf(
@@ -28,7 +29,7 @@ internal class CentralContentConverterTest {
                 ),
                 CentralContentConverter().getCentralContents("<h3>I årskurs 1-3</h3><h4> Bildframställning</h4><p> </p><ul> <li>Framställning av berättande bilder, till exempel sagobilder.</li> <li>Teckning, måleri, modellering och konstruktion.</li> <li>Fotografering och överföring av bilder med hjälp av datorprogram.</li> </ul><p> </p><h4> Redskap för bildframställning</h4><p> </p><ul> <li>Olika element som bygger upp en bild: färg, form, linje, yta samt för- och bakgrund.</li> <li>Några verktyg för teckning, måleri, modellering, konstruktioner och fotografering och hur dessa benämns.</li> <li>Plana och formbara material, till exempel papper, lera, gips och naturmaterial och hur dessa kan användas i olika bildarbeten.</li> </ul><p> </p><h4> Bildanalys</h4><p> </p><ul> <li>Informativa bilder, till exempel läroboksbilder och hur de är utformade och fungerar.</li> <li>Historiska och samtida bilder och vad bilderna berättar, till exempel dokumentära bilder från hemorten och konstbilder.</li> </ul><p></p>")
         )
-        Assert.assertEquals(
+        assertEquals(
                 listOf(
                         CentralContent("I årskurs 1-3", listOf()),
                         CentralContent("Läsa och skriva", listOf(
@@ -74,7 +75,7 @@ internal class CentralContentConverterTest {
                         "<p>– Traditioner och högtider som eleven möter i olika sammanhang.</p> " +
                         "<p>– Lekar och musik från områden där modersmålet talas.</p>")
         )
-        Assert.assertEquals(
+        assertEquals(
                 listOf(
                         CentralContent("I årskurs 1–3", listOf()),
                         CentralContent("Bildframställning", listOf(
@@ -104,9 +105,12 @@ internal class CentralContentConverterTest {
     @Test
     fun testEmptyLines() {
         val centralContents = CentralContentConverter().getCentralContents("<h4> Testar tomma rader  </h4><ul><li>Rad 1</li><li></li><li>  Rad 2 </li> <li> </li>")
-        Assert.assertEquals(1, centralContents.size)
-        Assert.assertEquals("Testar tomma rader", centralContents[0].heading)
-        Assert.assertEquals(2, centralContents[0].lines.size)
-        Assert.assertEquals("Rad 2", centralContents[0].lines[1])
+        assertAll(
+                { assertEquals(1, centralContents.size) },
+                { assertEquals("Testar tomma rader", centralContents[0].heading) },
+                { assertEquals(2, centralContents[0].lines.size) },
+                { assertEquals("Rad 2", centralContents[0].lines[1]) }
+        )
+
     }
 }

@@ -1,16 +1,22 @@
 package org.edtech.curriculum
 
-import java.time.Instant
-
 data class SubjectHtml(
         val name: String,
         val description: String,
+        val version: Int?,
         val code: String,
         val designation: String,
         val skolfsId: String,
         val purposes: String,
         val courses: List<CourseHtml>,
-        val applianceDate: Instant?
+        val createdDate: String?,
+        val modifiedDate: String?,
+        val typeOfSyllabus: SyllabusType?,
+        val typeOfSchooling: TypeOfSchooling?,
+        val originatorTypeOfSchooling: TypeOfSchooling?,
+        val gradeScale: String?,
+        val validTo: String?,
+        val applianceDate: String?
 )
 
 data class CourseHtml(
@@ -20,5 +26,10 @@ data class CourseHtml(
         val year: String,
         val point: String,
         val centralContent: String,
-        val knowledgeRequirement: Map<GradeStep, String>
+        val knowledgeRequirementGroups: List<RequirementGroup>
+)
+
+data class RequirementGroup(
+        val knowledgeRequirements: Map<GradeStep, String>,
+        val year:  Int? = null
 )

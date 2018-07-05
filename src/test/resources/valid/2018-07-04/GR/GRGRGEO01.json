@@ -1,6 +1,7 @@
 {
   "name" : "Geografi",
   "description" : "Förutsättningarna för liv på jorden är unika, föränderliga och sårbara. Det är därför alla människors ansvar att förvalta jorden så att en hållbar utveckling blir möjlig. Samspelet mellan människan och hennes omgivning har gett upphov till många olika livsmiljöer. Geografi ger oss kunskap om dessa miljöer och kan bidra till förståelse av människans levnadsvillkor.",
+  "version" : 12,
   "code" : "GRGRGEO01",
   "designation" : "GE",
   "skolfsId" : "2010:37",
@@ -70,7 +71,8 @@
         "knowledgeRequirementChoice" : {
           "G" : "Eleven beskriver även några olika betalningsformer och anger vad några vanliga varor och tjänster kan kosta."
         }
-      } ]
+      } ],
+      "year" : 3
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -98,7 +100,8 @@
         "knowledgeRequirementChoice" : {
           "G" : "Eleven identifierar riskfyllda platser i närområdets trafikmiljö och ger exempel på hur man kan minska riskerna genom ett säkert beteende i trafiken."
         }
-      } ]
+      } ],
+      "year" : 3
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -126,7 +129,8 @@
         "knowledgeRequirementChoice" : {
           "G" : "Vidare kan eleven i viss utsträckning använda tidslinjer och några olika tidsbegrepp för att ange händelser i tid."
         }
-      } ]
+      } ],
+      "year" : 3
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -154,7 +158,8 @@
         "knowledgeRequirementChoice" : {
           "G" : "Dessutom ger eleven exempel på kristendomens roll i skolan och hemorten förr i tiden."
         }
-      } ]
+      } ],
+      "year" : 3
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -172,7 +177,8 @@
         "knowledgeRequirementChoice" : {
           "G" : "Eleven gör enkla undersökningar av omvärlden, och kan då använda karta, jordglob, väderstreck och rumsliga begrepp för att återge namn och beskriva lägen och storleksrelationer på världsdelarna och andra för eleven betydelsefulla platser och länder."
         }
-      } ]
+      } ],
+      "year" : 3
     } ],
     "point" : null,
     "year" : {
@@ -222,7 +228,8 @@
           "C" : "Eleven kan även använda geografiska begrepp på ett <strong>relativt väl</strong> fungerande sätt.",
           "A" : "Eleven kan även använda geografiska begrepp på ett <strong>väl</strong> fungerande sätt."
         }
-      } ]
+      } ],
+      "year" : 6
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -246,7 +253,8 @@
           "C" : "Eleven har <strong>goda</strong> kunskaper om Sveriges, Nordens och Europas namngeografi och visar det genom att med <strong>relativt god</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt.",
           "A" : "Eleven har <strong>mycket goda</strong> kunskaper om Sveriges, Nordens och Europas namngeografi och visar det genom att med <strong>god</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt."
         }
-      } ]
+      } ],
+      "year" : 6
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -263,7 +271,8 @@
           "C" : "Dessutom för eleven resonemang om orsaker till och konsekvenser av ojämlika levnadsvillkor i världen och ger då <strong>utvecklade och relativt väl</strong> underbyggda förslag på hur människors levnadsvillkor kan förbättras.",
           "A" : "Dessutom för eleven resonemang om orsaker till och konsekvenser av ojämlika levnadsvillkor i världen och ger då <strong>välutvecklade och väl</strong> underbyggda förslag på hur människors levnadsvillkor kan förbättras."
         }
-      } ]
+      } ],
+      "year" : 6
     } ],
     "point" : null,
     "year" : {
@@ -317,7 +326,8 @@
           "C" : "Eleven för <strong>utvecklade och relativt väl</strong> underbyggda resonemang om klimatförändringar och olika förklaringar till dessa samt deras konsekvenser för människa, samhälle och miljö i olika delar av världen.",
           "A" : "Eleven för <strong>välutvecklade och väl</strong> underbyggda resonemang om klimatförändringar och olika förklaringar till dessa samt deras konsekvenser för människa, samhälle och miljö i olika delar av världen."
         }
-      } ]
+      } ],
+      "year" : 9
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -341,7 +351,8 @@
           "C" : "Eleven har <strong>goda</strong> kunskaper om världsdelarnas namngeografi och visar det genom att med <strong>relativt god</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt.",
           "A" : "Eleven har <strong>mycket goda</strong> kunskaper om världsdelarnas namngeografi och visar det genom att med <strong>god</strong> säkerhet beskriva lägen på och storleksrelationer mellan olika geografiska objekt."
         }
-      } ]
+      } ],
+      "year" : 9
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -351,12 +362,21 @@
           "C" : "Eleven kan resonera om olika ekologiska, ekonomiska och sociala hållbarhetsfrågor och redogör då för <strong>utvecklade och relativt väl</strong> underbyggda förslag på lösningar där några konsekvenser för människa, samhälle och natur vägs in.",
           "A" : "Eleven kan resonera om olika ekologiska, ekonomiska och sociala hållbarhetsfrågor och redogör då för <strong>välutvecklade och väl</strong> underbyggda förslag på lösningar där några konsekvenser för människa, samhälle och natur vägs in."
         }
-      } ]
+      } ],
+      "year" : 9
     } ],
     "point" : null,
     "year" : {
       "start" : 7,
       "end" : 9
     }
-  } ]
+  } ],
+  "createdDate" : null,
+  "modifiedDate" : null,
+  "typeOfSyllabus" : "COURSE_SYLLABUS",
+  "typeOfSchooling" : null,
+  "originatorTypeOfSchooling" : "COMPULSORY_SCHOOL",
+  "gradeScale" : "",
+  "validTo" : null,
+  "applianceDate" : "2011-01-01T00:00:00Z"
 }

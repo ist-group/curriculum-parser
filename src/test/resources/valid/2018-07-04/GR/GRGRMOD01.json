@@ -1,6 +1,7 @@
 {
   "name" : "Modersmål",
   "description" : "Kursplan - Modersmål utom nationella minoritetsspråk Språk är människans främsta redskap för att tänka, kommunicera och lära. Genom språket utvecklar människor sin identitet, uttrycker känslor och tankar och förstår hur andra känner och tänker. Att ha ett rikt och varierat språk är betydelsefullt för att kunna förstå och verka i ett samhälle där kulturer, livsåskådningar, generationer och språk möts. Att ha tillgång till sitt modersmål underlättar också språkutveckling och lärande inom olika områden.",
+  "version" : 11,
   "code" : "GRGRMOD01",
   "designation" : "ML",
   "skolfsId" : "2010:37",
@@ -96,7 +97,8 @@
           "C" : "Dessutom kan eleven utifrån egna erfarenheter och referensramar föra <strong>utvecklade</strong> och underbyggda resonemang om texternas tydligt framträdande budskap.",
           "A" : "Dessutom kan eleven utifrån egna erfarenheter och referensramar föra <strong>välutvecklade</strong> och underbyggda resonemang om texternas tydligt framträdande budskap."
         }
-      } ]
+      } ],
+      "year" : 6
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -120,7 +122,8 @@
           "C" : "Genom att jämföra modersmålets skriftspråk med svenskt skriftspråk kan eleven föra <strong>utvecklade</strong> resonemang om likheter och skillnader mellan modersmålet och svenska.",
           "A" : "Genom att jämföra modersmålets skriftspråk med svenskt skriftspråk kan eleven föra <strong>välutvecklade</strong> resonemang om likheter och skillnader mellan modersmålet och svenska."
         }
-      } ]
+      } ],
+      "year" : 6
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -151,7 +154,8 @@
           "C" : "Eleven kan utifrån egna referensramar och erfarenheter på ett <strong>utvecklat</strong> sätt beskriva och resonera om för eleven viktiga kunskapsområden med anknytning till modersmålet och områden där modersmålet talas.",
           "A" : "Eleven kan utifrån egna referensramar och erfarenheter på ett <strong>välutvecklat</strong> sätt beskriva och resonera om för eleven viktiga kunskapsområden med anknytning till modersmålet och områden där modersmålet talas."
         }
-      } ]
+      } ],
+      "year" : 6
     } ],
     "point" : null,
     "year" : {
@@ -204,7 +208,8 @@
           "C" : "Dessutom kan eleven utifrån egna erfarenheter och referensramar tolka och föra <strong>utvecklade och relativt väl</strong> underbyggda resonemang om budskap som är <strong>tydligt framträdande och budskap som kan läsas mellan raderna</strong> i olika verk.",
           "A" : "Dessutom kan eleven utifrån egna erfarenheter och referensramar tolka och föra <strong>utvecklade och relativt väl</strong> underbyggda resonemang om budskap som är <strong>tydligt framträdande och budskap som kan läsas mellan raderna eller är dolda</strong> i olika verk."
         }
-      } ]
+      } ],
+      "year" : 9
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -235,7 +240,8 @@
           "C" : "Genom att på ett <strong>relativt väl</strong> fungerande sätt jämföra och översätta ord, begrepp och fraser mellan modersmålet och svenska kan eleven föra <strong>utvecklade och relativt väl</strong> underbyggda resonemang om likheter och skillnader mellan modersmålet och svenska.",
           "A" : "Genom att <strong>på ett väl</strong> fungerande sätt jämföra och översätta ord, begrepp och fraser mellan modersmålet och svenska kan eleven föra <strong>välutvecklade och väl</strong> underbyggda resonemang om likheter och skillnader mellan modersmålet och svenska."
         }
-      } ]
+      } ],
+      "year" : 9
     }, {
       "heading" : "",
       "knowledgeRequirements" : [ {
@@ -273,12 +279,21 @@
           "C" : "Eleven gör då <strong>utvecklade</strong> jämförelser med egna erfarenheter och förhållanden i Sverige och drar <strong>utvecklade</strong> och <strong>relativt väl</strong> underbyggda slutsatser om vad dessa kan bero på och leda till.",
           "A" : "Eleven gör då <strong>välutvecklade</strong> jämförelser med egna erfarenheter och förhållanden i Sverige och drar <strong>välutvecklade och väl</strong> underbyggda slutsatser om vad dessa kan bero på och leda till."
         }
-      } ]
+      } ],
+      "year" : 9
     } ],
     "point" : null,
     "year" : {
       "start" : 7,
       "end" : 9
     }
-  } ]
+  } ],
+  "createdDate" : null,
+  "modifiedDate" : null,
+  "typeOfSyllabus" : "COURSE_SYLLABUS",
+  "typeOfSchooling" : null,
+  "originatorTypeOfSchooling" : "COMPULSORY_SCHOOL",
+  "gradeScale" : "",
+  "validTo" : null,
+  "applianceDate" : "2011-01-01T00:00:00Z"
 }
