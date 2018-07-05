@@ -1,6 +1,7 @@
 package org.edtech.curriculum
 
-import org.junit.Assert
+import org.junit.jupiter.api.Assertions.assertEquals
+import org.junit.jupiter.api.Assertions.assertTrue
 import org.junit.jupiter.api.DynamicTest
 import org.junit.jupiter.api.TestFactory
 import java.io.File
@@ -12,10 +13,10 @@ class SkolverketFileArchiveTest {
     fun testSkolverketArchives() = SchoolType.values().map { schoolType ->
         DynamicTest.dynamicTest(schoolType.name) {
             val sf = SkolverketFileArchive(File(dataDir, schoolType.filename))
-            Assert.assertTrue("${schoolType.filename} does not exist", sf.archiveExists())
-            Assert.assertEquals("${schoolType.filename} does not contain expected number of xml-files",
-                    expectedNumberOfXMLFiles(schoolType), sf.getFileStreams(".xml").size)
-            Assert.assertTrue("${schoolType.archivePath} does not exist in ${schoolType.filename}", sf.fileExists(schoolType.archivePath))
+            assertTrue(sf.archiveExists(), "${schoolType.filename} does not exist")
+            assertEquals(expectedNumberOfXMLFiles(schoolType),
+                    sf.getFileStreams(".xml").size, "${schoolType.filename} does not contain expected number of xml-files")
+            assertTrue(sf.fileExists(schoolType.archivePath), "${schoolType.archivePath} does not exist in ${schoolType.filename}")
         }
     }
 

@@ -4,11 +4,9 @@ import org.edtech.curriculum.GradeStep
 import org.edtech.curriculum.stringToRange
 import org.jsoup.Jsoup
 import org.jsoup.parser.Parser
-import org.junit.Assert.assertArrayEquals
-import org.junit.Assert.assertEquals
 import org.junit.jupiter.api.Assertions
-import org.junit.jupiter.api.Assertions.assertThrows
-import org.junit.jupiter.api.DisplayName
+import org.junit.jupiter.api.Assertions.assertArrayEquals
+import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 import java.io.File
 

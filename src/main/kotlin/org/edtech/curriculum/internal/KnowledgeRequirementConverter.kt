@@ -41,13 +41,13 @@ class KnowledgeRequirementConverter {
         for (kn in knowledgeRequirementList) {
             if (kn.paragraphNo != paragraphNo) {
                 paragraphNo = kn.paragraphNo
-                structuredRequirements.add(KnowledgeRequirementParagraph("", requirementsInParagraph.toList(), requirementGroup.year, requirementGroup.aspect))
+                structuredRequirements.add(KnowledgeRequirementParagraph("", requirementsInParagraph.toList(), requirementGroup.year))
                 requirementsInParagraph.clear()
             }
             requirementsInParagraph.add(KnowledgeRequirement(kn.text, kn.knowledgeRequirementChoice))
         }
         if (requirementsInParagraph.isNotEmpty()) {
-            structuredRequirements.add(KnowledgeRequirementParagraph("", requirementsInParagraph.toList(), requirementGroup.year, requirementGroup.aspect))
+            structuredRequirements.add(KnowledgeRequirementParagraph("", requirementsInParagraph.toList(), requirementGroup.year))
         }
         return structuredRequirements
     }
