@@ -21,8 +21,7 @@ class SubjectParser {
                 stringToDate(subjectData.createdDate),
                 stringToDate(subjectData.modifiedDate),
                 subjectData.typeOfSyllabus,
-                subjectData.typeOfSchooling,
-                subjectData.originatorTypeOfSchooling,
+                subjectData.typeOfSchooling ?: subjectData.originatorTypeOfSchooling,
                 subjectData.gradeScale,
                 stringToDate(subjectData.validTo),
                 stringToDate(subjectData.applianceDate)

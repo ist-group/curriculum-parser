@@ -17,7 +17,8 @@ enum class TypeOfSchooling {
     SPECIAL_SCHOOL_FOR_PUPILS_WITH_IMPAIRED_HEARING,
     EDU_FOR_PUPILS_WITH_LEARNING_DISABILITIES,
     SAMI_SCHOOL,
-    SWEDISH_FOR_IMMIGRANTS
+    SWEDISH_FOR_IMMIGRANTS,
+    EDU_FOR_ADULTS_WITH_LEARNING_DISABILITIES
 }
 
 enum class GradeStep {
@@ -64,7 +65,6 @@ data class Subject(
         val modifiedDate: LocalDateTime?,
         val typeOfSyllabus: SyllabusType?,
         val typeOfSchooling: TypeOfSchooling?,
-        val originatorTypeOfSchooling: TypeOfSchooling?,
         val gradeScale: String?,
         val validTo: LocalDateTime?,
         val applianceDate: LocalDateTime?
