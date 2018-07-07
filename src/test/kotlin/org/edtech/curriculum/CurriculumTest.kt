@@ -41,7 +41,13 @@ class CurriculumTest {
                             {assertTrue(subjectHtml.code.isNotEmpty()) { "${schoolType.name}/${subjectHtml.name} has no code"} },
                             {assertTrue(subjectHtml.skolfsId.isNotEmpty()) { "${schoolType.name}/${subjectHtml.skolfsId} has no skolfsId"} },
                             {assertTrue(subjectHtml.courses.isNotEmpty()) { "${schoolType.name}/${subjectHtml.name} has no courses"} },
-                            {assertTrue(subjectHtml.purposes.isNotEmpty()) { "${schoolType.name}/${subjectHtml.name} has no purposes" } }
+                            {assertTrue(subjectHtml.purposes.isNotEmpty()) { "${schoolType.name}/${subjectHtml.name} has no purposes" } },
+                            {assertTrue(subjectHtml.typeOfSchooling == null || subjectHtml.originatorTypeOfSchooling == null ) {
+                                "${schoolType.name}/${subjectHtml.name} has both typeOfSchooling(${subjectHtml.typeOfSchooling}) and originatorTypeOfSchooling(${subjectHtml.originatorTypeOfSchooling})" }
+                            },
+                            {assertTrue(subjectHtml.typeOfSchooling != null || subjectHtml.originatorTypeOfSchooling != null ) {
+                                "${schoolType.name}/${subjectHtml.name} has either typeOfSchooling or originatorTypeOfSchooling set" }
+                            }
                     )
 
                     subjectHtml.courses.forEach { courseHtml ->

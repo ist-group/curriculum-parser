@@ -5,8 +5,6 @@ import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
 import org.jsoup.parser.Parser
 import java.io.InputStream
-import java.time.LocalDateTime
-import java.time.format.DateTimeParseException
 
 /**
  * Extracts the data from skolverket files when the curriculum data is stored in one file per subject
@@ -19,16 +17,17 @@ class IndividualFiledSubjectDataExtractor(private val skolverketFileArchive: Sko
     }
 
     private inline fun <reified T : kotlin.Enum<T>> valueOfOrNull(type: String?): T? {
+        if(type.isNullOrBlank()) return null
         return try {
             java.lang.Enum.valueOf(T::class.java, type)
-        } catch (ia: IllegalArgumentException) {
-            null
+        } catch (e :IllegalArgumentException) {
+            throw IllegalArgumentException("Invalid type for ${T::class.java}: '${type}'")
         }
     }
 
     private fun getSubject(openDataDocumentStream: InputStream): SubjectHtml {
         val openDataDocument = Jsoup.parse(openDataDocumentStream, null, "", Parser.xmlParser())
-        fun extractString(elementName: String): String = openDataDocument.select("subject > $elementName" ).text()
+        fun extractString(elementName: String): String = openDataDocument.select("subject > $elementName").text()
 
         return SubjectHtml(
                 extractString("name"),
@@ -47,7 +46,7 @@ class IndividualFiledSubjectDataExtractor(private val skolverketFileArchive: Sko
                 extractString("gradeScale"),
                 extractString("validTo"),
                 extractString("applianceDate")
-           )
+        )
     }
 
     private fun extractCourses(openDataDocument: Document): List<CourseHtml> {
