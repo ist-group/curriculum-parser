@@ -1,6 +1,9 @@
 package org.edtech.curriculum.internal
 
-import org.edtech.curriculum.*
+import org.edtech.curriculum.CourseHtml
+import org.edtech.curriculum.GradeStep
+import org.edtech.curriculum.RequirementGroup
+import org.edtech.curriculum.stringToRange
 import org.jsoup.nodes.Document
 import org.jsoup.nodes.Element
 
@@ -37,16 +40,30 @@ class CompulsoryCourseDataExtractor(private val subjectDocument: Document): Cour
         }
     }
 
-    internal fun getCoursesConditions(): List<CourseCondition> {
-        val yearRange =  subjectDocument.select("centralContent year").map { it.text() }.toSet()
-        val types =  subjectDocument.select("typeOfCentralContent, typeOfRequirement").map { it.text() }.filter { it.isNotEmpty() }.toSet()
+    internal fun getCoursesConditions(): Set<CourseCondition> {
+        val conditions =  subjectDocument.select("centralContent").map { CourseCondition(it.select("year").text(), it.select("typeOfCentralContent").text()) }.toSet()
+        val conditionsFromRequirements =  subjectDocument.select("knowledgeRequirement").map { CourseCondition(it.select("year").text(), it.select("typeOfRequirement").text()) }.toSet()
 
-        // Combine the types with year ranges
-        return if (types.isNotEmpty()) {
-           types.flatMap { yearRange.map { year -> CourseCondition(year, it) } }.toList()
-        } else {
-           yearRange.map { year -> CourseCondition(year, "") }.toList()
+        // check if there is any requirement that does not exist as a central content type
+        val unmappedTypes = conditionsFromRequirements.filter { requirement -> conditions.none { it.type == requirement.type } }
+
+        if (unmappedTypes.isNotEmpty()) {
+            // Add the requirement types to all type less conditions
+            return conditions.flatMap {condition ->
+                if (condition.type.isEmpty()) {
+                    unmappedTypes.map {
+                        if (condition.year.endsWith(it.year)) {
+                            CourseCondition(condition.year, it.type)
+                        } else {
+                            condition
+                        }
+                    }
+                } else {
+                    setOf(condition)
+                }
+            }.toSet()
         }
+        return conditions
     }
 
     internal fun getKnowledgeRequirements(range: IntRange, type: String): List<RequirementGroup> {
