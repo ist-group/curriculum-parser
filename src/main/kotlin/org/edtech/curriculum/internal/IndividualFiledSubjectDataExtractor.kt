@@ -5,8 +5,6 @@ import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
 import org.jsoup.parser.Parser
 import java.io.InputStream
-import java.time.LocalDateTime
-import java.time.format.DateTimeParseException
 
 /**
  * Extracts the data from skolverket files when the curriculum data is stored in one file per subject

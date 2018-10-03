@@ -37,6 +37,7 @@ class VuxCourseDataExtractor(private val subjectDocument: Document): CourseDataE
                 courseElement.select("description").text().removePrefix("<p>").removeSuffix("</p>"),
                 courseElement.select("code").text(),
                 "",
+                "",
                 courseElement.select("point").text(),
                 convertDashListToList(courseElement.select("centralContents").text()),
                 this.getKnowledgeRequirements(courseElement.select("knowledgeRequirements"))

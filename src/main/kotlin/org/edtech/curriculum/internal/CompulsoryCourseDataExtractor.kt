@@ -27,9 +27,10 @@ class CompulsoryCourseDataExtractor(private val subjectDocument: Document): Cour
             val knowledgeRequirement = getKnowledgeRequirements(stringToRange(it.year), it.type)
             // Return the courses where we got content
             if (centralContent != null || knowledgeRequirement.isNotEmpty()) {
-                CourseHtml("Årskurs ${it.year}  ${it.type}".trim(),
+                CourseHtml("Årskurs ${it.year}".trim(),
                         "",
-                        "${code}_${it.year}-${it.type}".trim('-'),
+                        "${code}_${it.year}",
+                        it.type,
                         it.year,
                         "",
                         centralContent ?: "",
@@ -40,37 +41,27 @@ class CompulsoryCourseDataExtractor(private val subjectDocument: Document): Cour
         }
     }
 
-    internal fun getCoursesConditions(): Set<CourseCondition> {
-        val conditions =  subjectDocument.select("centralContent").map { CourseCondition(it.select("year").text(), it.select("typeOfCentralContent").text()) }.toSet()
-        val conditionsFromRequirements =  subjectDocument.select("knowledgeRequirement").map { CourseCondition(it.select("year").text(), it.select("typeOfRequirement").text()) }.toSet()
-
-        // check if there is any requirement that does not exist as a central content type
-        val unmappedTypes = conditionsFromRequirements.filter { requirement -> conditions.none { it.type == requirement.type } }
-
-        if (unmappedTypes.isNotEmpty()) {
-            // Add the requirement types to all type less conditions
-            return conditions.flatMap {condition ->
-                if (condition.type.isEmpty()) {
-                    unmappedTypes.map {
-                        if (condition.year.endsWith(it.year)) {
-                            CourseCondition(condition.year, it.type)
-                        } else {
-                            condition
-                        }
+    internal fun getCoursesConditions(): Set<CourseCondition> =
+            subjectDocument.select("centralContent")
+                    .map { CourseCondition(
+                            it.select("year").text(),
+                            it.select("typeOfCentralContent").text())
                     }
-                } else {
-                    setOf(condition)
-                }
-            }.toSet()
-        }
-        return conditions
-    }
+                    .toSet()
 
     internal fun getKnowledgeRequirements(range: IntRange, type: String): List<RequirementGroup> {
         fun extractGradeStep(element: Element): GradeStep {
-            val gradeStepText = element.select("gradeStep").text()
+            val gradeStep = element.select("gradeStep").text()
+            val typeOfRequirement = element.select("typeOfRequirement").text()
+            // Pick gradeStep if supplied otherwhise pick the typeOfRequirement
+            // Type of requirement is used in GRS in the same way as gradeStep.
+            val gradeStepCombined = if (gradeStep.isEmpty()) typeOfRequirement else gradeStep
+
             // Lower years has not grade steps, convert to G level
-            return if (gradeStepText.isEmpty()) GradeStep.G else GradeStep.valueOf(gradeStepText)
+            return if (gradeStepCombined.isEmpty() || GradeStep.values().none { it.name == gradeStepCombined })
+                GradeStep.G
+            else
+                GradeStep.valueOf(gradeStepCombined)
         }
 
         return subjectDocument
@@ -78,7 +69,7 @@ class CompulsoryCourseDataExtractor(private val subjectDocument: Document): Cour
             .select("knowledgeRequirement")
             .filter {
                 (it.select("year").text().toIntOrNull() ?: 0) in range &&
-                (it.select("typeOfRequirement").text() == type)
+                (type.isEmpty() || it.select("typeOfRequirement").text() == type)
             }
             .groupingBy { it.select("year").text().toInt() }
             .fold( { year, element ->

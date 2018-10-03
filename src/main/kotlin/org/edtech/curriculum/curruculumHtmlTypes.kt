@@ -23,6 +23,7 @@ data class CourseHtml(
         val name: String,
         val description: String,
         val code: String,
+        val category: String?,
         val year: String,
         val point: String,
         val centralContent: String,

@@ -13,20 +13,25 @@ class KnowledgeRequirementConverter {
         }
         return knowledgeRequirementsGroupsHtml.flatMap { knowledgeRequirementsGroup ->
             val knowledgeRequirementsHtml = knowledgeRequirementsGroup.knowledgeRequirements
-            val knowledgeRequirementResult = if (knowledgeRequirementsHtml.size == 1 && knowledgeRequirementsHtml.containsKey(GradeStep.G)) {
-                baseKnowledgeRequirements(knowledgeRequirementsHtml[GradeStep.G] ?: "", GradeStep.G)
-            } else if (knowledgeRequirementsHtml.containsKey(GradeStep.E)) {
-                var knowledgeRequirements = baseKnowledgeRequirements(knowledgeRequirementsHtml[GradeStep.E] ?: "", GradeStep.E)
+            val knowledgeRequirementResult =
+                if (knowledgeRequirementsHtml.size == 1 && knowledgeRequirementsHtml.containsKey(GradeStep.G)) {
+                    baseKnowledgeRequirements(knowledgeRequirementsHtml[GradeStep.G] ?: "", GradeStep.G)
+                } else if (knowledgeRequirementsHtml.containsKey(GradeStep.E)) {
+                    var knowledgeRequirements = baseKnowledgeRequirements(knowledgeRequirementsHtml[GradeStep.E] ?: "", GradeStep.E)
 
-                // Combine other levels into the existing structure
-                for (gradeStep in listOf(GradeStep.C, GradeStep.A)) {
-                    knowledgeRequirements = addGradeStep(knowledgeRequirements,
-                            fixCurriculumErrors(knowledgeRequirementsHtml[gradeStep] ?: ""), gradeStep)
+                    // Combine other levels into the existing structure
+                    for (gradeStep in listOf(GradeStep.C, GradeStep.A)) {
+                        knowledgeRequirements = addGradeStep(knowledgeRequirements,
+                                fixCurriculumErrors(knowledgeRequirementsHtml[gradeStep] ?: ""), gradeStep)
+                    }
+                    knowledgeRequirements
+                } else if (knowledgeRequirementsHtml.containsKey(GradeStep.BASIC_REQUIREMENTS)) {
+                    // Add ADVANCED_REQUIREMENTS to BASIC_REQUIREMENTS
+                    addGradeStep(baseKnowledgeRequirements(knowledgeRequirementsHtml[GradeStep.BASIC_REQUIREMENTS] ?: "", GradeStep.BASIC_REQUIREMENTS),
+                                fixCurriculumErrors(knowledgeRequirementsHtml[GradeStep.ADVANCED_REQUIREMENTS] ?: ""), GradeStep.ADVANCED_REQUIREMENTS)
+                } else {
+                    throw Exception("Cannot parse KnowledgeRequirement with structure: " + knowledgeRequirementsHtml.keys)
                 }
-                knowledgeRequirements
-            } else {
-                throw Exception("Cannot parse KnowledgeRequirement with structure: " + knowledgeRequirementsHtml.keys)
-            }
             structureParagraphs(knowledgeRequirementResult, knowledgeRequirementsGroup)
         }
     }

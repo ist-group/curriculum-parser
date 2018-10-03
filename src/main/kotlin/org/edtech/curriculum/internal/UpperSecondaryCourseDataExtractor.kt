@@ -40,6 +40,7 @@ class UpperSecondaryCourseDataExtractor(private val subjectDocument: Document): 
                 courseElement.select("description").text().removePrefix("<p>").removeSuffix("</p>"),
                 courseElement.select("code").text(),
                 "",
+                "",
                 courseElement.select("point").text(),
                 convertDashListToList(courseElement.select("centralContent, centralContents").text()),
                 this.getKnowledgeRequirements(courseElement.select("knowledgeRequirements"))

@@ -1,6 +1,7 @@
 package org.edtech.curriculum
 
-import org.edtech.curriculum.internal.*
+import org.edtech.curriculum.internal.IndividualFiledSubjectDataExtractor
+import org.edtech.curriculum.internal.SubjectParser
 import java.io.File
 
 /**
@@ -12,10 +13,10 @@ class Curriculum(
         cache: Boolean = true
 ) {
     private val currentSkolverketFileArchive = schoolType.getFileArchive(archiveDir, cache)
-    val subjectHtml: List<SubjectHtml> = loadSubjectsHtml()
 
-    fun getSubjects(): List<Subject> {
-        return loadSubjectsHtml().map { SubjectParser().getSubject(it) }
+    val subjectHtml: List<SubjectHtml> = loadSubjectsHtml()
+    val subjects by lazy {
+        subjectHtml.flatMap { SubjectParser().getSubject(it) }.toList()
     }
 
     private fun loadSubjectsHtml(): List<SubjectHtml> {

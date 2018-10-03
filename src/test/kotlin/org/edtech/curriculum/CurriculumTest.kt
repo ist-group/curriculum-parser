@@ -1,5 +1,6 @@
 package org.edtech.curriculum
 
+import org.edtech.curriculum.SubjectCategory.*
 import org.junit.jupiter.api.*
 import org.junit.jupiter.api.Assertions.assertNull
 import org.junit.jupiter.api.Assertions.assertTrue
@@ -51,7 +52,7 @@ class CurriculumTest {
                         }
                         assertAll(
                                 {assertTrue(courseHtml.centralContent.isNotEmpty()) { "${courseHtml.code}/${courseHtml.name} has no centralContents" } },
-                                {assertTrue(courseHtml.centralContent.contains(Regex("<li>|<p>–"))) { "${courseHtml.code}/${courseHtml.name} has malformed centralContents:\n ${courseHtml.centralContent}" } },
+                                {assertTrue(courseHtml.centralContent.contains(Regex("<li>|<p>–|<p>•"))) { "${courseHtml.code}/${courseHtml.name} has malformed centralContents:\n ${courseHtml.centralContent}" } },
                                 {assertTrue(courseHtml.code.isNotEmpty()) { "${courseHtml.code}/${courseHtml.name} has no code" } },
                                 {assertTrue(courseHtml.name.isNotEmpty()) { "${schoolType.name}/${subjectHtml.name} has no courses"} }
                         )
@@ -74,7 +75,17 @@ class CurriculumTest {
                 .filter { it.isDirectory }
                 .forEach {
                     Curriculum(schoolType, it).subjectHtml.forEach {
-                        it.courses.forEach { courseHtml ->
+                        it.courses
+                                .filterNot {
+                                    // These contain duplicates so skip the check
+                                    arrayOf(
+                                        WITHIN_LANGUAGE_CHOICE.name,
+                                        WITHIN_STUDENT_CHOICE.name,
+                                        WITHIN_LANGUAGE_CHOICE_CHINESE.name,
+                                        WITHIN_STUDENT_CHOICE_CHINESE.name
+                                    ).contains(it.category)
+                                }
+                                .forEach { courseHtml ->
                             courseHtml.knowledgeRequirementGroups
                                     .flatMap { rg -> rg.knowledgeRequirements.entries }
                                     .filter { entry -> entry.key != GradeStep.D && entry.key != GradeStep.B }
@@ -129,7 +140,7 @@ class CurriculumTest {
         dataDir.listFiles()
                 .filter{ it.isDirectory }
                 .forEach {
-                    Curriculum(schoolType, it).getSubjects().forEach { subject ->
+                   Curriculum(schoolType, it).subjects.forEach { subject ->
                         assertTrue(subject.name.isNotEmpty(), "${schoolType.name}/${subject.name} has no name")
                         assertTrue(subject.skolfsId.isNotEmpty(), "${schoolType.name}/${subject.name} has no skolfsId")
                         assertTrue(subject.code.isNotEmpty(), "${schoolType.name}/${subject.name} has no code")

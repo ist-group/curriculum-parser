@@ -7,7 +7,7 @@ import org.junit.jupiter.api.TestFactory
 import java.io.File
 
 class SkolverketFileArchiveTest {
-    private val dataDir = File("./src/test/resources/opendata/2018-07-02")
+    private val dataDir = File("./src/test/resources/opendata/2018-09-26")
 
     @TestFactory
     fun testSkolverketArchives() = SchoolType.values().map { schoolType ->
@@ -22,9 +22,9 @@ class SkolverketFileArchiveTest {
 
     private fun expectedNumberOfXMLFiles(schoolType: SchoolType): Int {
         return when (schoolType) {
-            SchoolType.GR, SchoolType.GRS, SchoolType.GRSAM, SchoolType.GRSPEC -> 105
-            SchoolType.GY -> 313
-            SchoolType.VUXGR -> 13
+            SchoolType.GR, SchoolType.GRS, SchoolType.GRSAM, SchoolType.GRSPEC -> 111
+            SchoolType.GY -> 321
+            SchoolType.VUXGR -> 16
             SchoolType.GYS -> 91
             //SchoolType.SFI -> 2
         }
