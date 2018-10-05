@@ -21,27 +21,30 @@ enum class TypeOfSchooling {
 }
 
 enum class GradeStep {
-    F, E, D, C, B, A, G, X, BASIC, ADVANCED
+    F, E, D, C, B, A, G, X, BASIC_REQUIREMENTS, ADVANCED_REQUIREMENTS
 }
-/*
-enum class TypeOfRequirement {
-    WITHIN_LANGUAGE_CHOICE,
-    WITHIN_STUDENT_CHOICE,
-    SIGN_LANGUAGE_FOR_BEGINNERS,
-    ROMANI_LANGUAGE_SECOND,
-    ROMANI_LANGUAGE_FIRST,
-    MEANKIELI_LANGUAGE_SECOND,
-    MEANKIELI_LANGUAGE_FIRST,
-    JIDDISH_LANGUAGE_SECOND,
-    JIDDISH_LANGUAGE_FIRST,
-    FIN_LANGUAGE_SECOND,
-    FIN_LANGUAGE_FIRST,
-    WITHIN_LANGUAGE_CHOICE_CHINESE,
-    WITHIN_STUDENT_CHOICE_CHINESE,
-    SECOND_LANGUAGE,
-    FIRST_LANGUAGE
+
+/**
+ * A type direvied from the requirement/central content types
+ * SIGN_LANGUAGE_FOR_BEGINNERS,
+ * ROMANI_LANGUAGE_SECOND,
+ * ROMANI_LANGUAGE_FIRST,
+ * MEANKIELI_LANGUAGE_SECOND,
+ * MEANKIELI_LANGUAGE_FIRST,
+ * JIDDISH_LANGUAGE_SECOND,
+ * JIDDISH_LANGUAGE_FIRST,
+ * FIN_LANGUAGE_SECOND,
+ * FIN_LANGUAGE_FIRST,
+ */
+enum class SubjectCategory(val title: String) {
+    WITHIN_LANGUAGE_CHOICE("inom ramen för språkval"),
+    WITHIN_STUDENT_CHOICE("inom ramen för elevensval"),
+    // These are specified in the same subject as WITHIN_LANGUAGE_CHOICE and therefore needs to be an own category
+    WITHIN_LANGUAGE_CHOICE_CHINESE("innom ramen för språkval kinesiska"),
+    WITHIN_STUDENT_CHOICE_CHINESE("inom ramen för språkval, kinesiska"),
+    FIRST_LANGUAGE("som förstaspråk"),
+    SECOND_LANGUAGE("som andraspråk")
 }
-*/
 
 enum class AspectType {
     LISTENING_COMPREHENSION,
@@ -57,6 +60,7 @@ data class Subject(
         val version: Int?,
         val code: String,
         val designation: String?,
+        val category: SubjectCategory?,
         val skolfsId: String,
         val purposes: List<Purpose>,
         val courses: List<Course>,

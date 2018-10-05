@@ -1,8 +1,13 @@
 package org.edtech.curriculum.internal
 
+import com.fasterxml.jackson.annotation.JsonInclude
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.databind.SerializationFeature
-import org.edtech.curriculum.*
+import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule
+import org.edtech.curriculum.Curriculum
+import org.edtech.curriculum.GradeStep
+import org.edtech.curriculum.SchoolType
+import org.edtech.curriculum.YearGroup
 import org.jsoup.Jsoup
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Assertions.assertNotEquals
@@ -10,14 +15,13 @@ import org.junit.jupiter.api.DynamicTest
 import org.junit.jupiter.api.TestFactory
 import org.junit.jupiter.api.fail
 import java.io.File
-import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule
 
 
 
 
 class KnowledgeRequirementParserTest {
 
-    private val hasMissingRequirementsFromSkolverket = setOf("BYPRIT0", "RINRID02", "SPEIDT0", "TESPRO01", "TEYPRO01", "HAVFIN05S")
+    private val hasMissingRequirementsFromSkolverket = setOf("BYPRIT0", "RINRID02", "SPEIDT0", "TESPRO01", "TEYPRO01", "HAVFIN05S", "VEIVEN01")
     private val coursesWithSwitchedLines = setOf("SVESVE01")
     private val dataDir = File("./src/test/resources/opendata/")
     private val validDataDir = File("./src/test/resources/valid/")
@@ -34,6 +38,7 @@ class KnowledgeRequirementParserTest {
     private fun getObjectMapper(): ObjectMapper {
         val mapper = ObjectMapper()
         mapper.disable(SerializationFeature.WRITE_DATES_AS_TIMESTAMPS)
+        mapper.setSerializationInclusion(JsonInclude.Include.NON_NULL)
         mapper.registerModule(JavaTimeModule())
         return mapper
     }
@@ -44,7 +49,7 @@ class KnowledgeRequirementParserTest {
         return SchoolType.values().flatMap { schoolType ->
 
             File("$validDataDir/").listFiles().flatMap { versionDir ->
-                val subjectMap = Curriculum(schoolType, dataDir.resolve(versionDir.name)).getSubjects().associateBy { it.code }
+                val subjectMap = Curriculum(schoolType, dataDir.resolve(versionDir.name)).subjects.associateBy { it.code }
                 val subjectDir = versionDir.resolve(schoolType.name)
                 if (subjectDir.isDirectory) {
                     subjectDir.listFiles()
@@ -113,7 +118,7 @@ class KnowledgeRequirementParserTest {
     fun noEmptyKnowledgeRequirementChoices() = SchoolType.values().map { schoolType ->
         DynamicTest.dynamicTest(schoolType.name) {
             dataDir.listFiles().forEach { versionDir ->
-                Curriculum(schoolType, versionDir).getSubjects()
+                Curriculum(schoolType, versionDir).subjects
                         .forEach { subject ->
                             for (course in subject.courses) {
                                 // Get the fully parsed course
@@ -126,12 +131,15 @@ class KnowledgeRequirementParserTest {
                                         it.knowledgeRequirements.forEach {
                                             val gradeSteps = it.knowledgeRequirementChoice
                                             if (!gradeSteps.keys.containsAll(setOf(GradeStep.A, GradeStep.C, GradeStep.E)) &&
-                                                    !gradeSteps.keys.contains(GradeStep.G)) {
-                                                fail("Knowledge Requirement Choices should be either E,C,A or G failed for: ${subject.name}/${course.name}")
+                                                !gradeSteps.keys.contains(GradeStep.G) &&
+                                                !gradeSteps.keys.containsAll(setOf(GradeStep.BASIC_REQUIREMENTS, GradeStep.ADVANCED_REQUIREMENTS)) ) {
+                                                fail("Knowledge Requirement Choices should be either E,C,A or G or BASIC_REQUIREMENTS/ADVANCED_REQUIREMENTS failed for: ${subject.name}/${course.name}")
                                             }
                                             gradeSteps.forEach { gradeStep ->
-                                                if (gradeStep.value.isBlank())
-                                                    fail("Found empty knowledge requirement critera in ${subject.name}/${course.name} [${course.code}]")
+                                                if (gradeStep.value.isBlank()) {
+                                                    fail("Found empty knowledge requirement critera in ${subject.name}/${course.name} [${course.code}] (${gradeStep.key}) ${gradeStep.value}")
+                                                }
+
                                             }
                                         }
                                     }

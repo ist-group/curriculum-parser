@@ -68,8 +68,8 @@ internal fun convertDashListToList(stringHtml: String): String {
     val fragment =  Jsoup.parseBodyFragment(stringHtml)
     fragment.body().children()
         .forEach {
-            if (it.tagName() == "p" && it.text().startsWith("–")) {
-                val liTag = Element("li").html(it.html().removePrefix("–").trim())
+            if (it.tagName() == "p" && (it.text().startsWith('–') || it.text().startsWith('•')))  {
+                val liTag = Element("li").html( it.html().removePrefix("–").removePrefix("•").trim())
                 if (listElement == null) {
                     listElement = Element("ul").appendChild(liTag)
                     it.replaceWith(listElement)
@@ -108,7 +108,7 @@ internal fun toYearGroup(year: String): YearGroup? {
  * Convert the Purpose html to Entities depending on tag type
  */
 internal fun toPurposes(html: String): List<Purpose> {
-    val fragment = Jsoup.parseBodyFragment(html)
+    val fragment = Jsoup.parseBodyFragment(html.removePrefix("<div>").removeSuffix("</div>"))
 
     // Some subjects do not have real paragraphs, convert <br> tags to <p></p>
     fragment.select("body > p")

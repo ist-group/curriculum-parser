@@ -9,7 +9,8 @@ class CentralContentConverter {
      * Combine heading and bullets in one list
      */
     internal fun getCentralContents(html: String): List<CentralContent> {
-        val fragment = Jsoup.parseBodyFragment(html)
+        val fragment = Jsoup.parseBodyFragment(convertDashListToList(html))
+
         // Remove empty paragraphs
         fragment.select("body > p")
                 .forEach {
@@ -17,7 +18,7 @@ class CentralContentConverter {
                         it.remove()
                     }
                 }
-        return normalizeCentralContents(fragment
+        return fragment
                 .select("body > *:not(:empty)")
                 .flatMap { if (it.tagName() == "div") it.children() else listOf(it) }
                 .mapNotNull {
@@ -35,7 +36,7 @@ class CentralContentConverter {
                             else -> null
                         }
                     }
-                })
+                }
     }
 
 
@@ -44,11 +45,11 @@ class CentralContentConverter {
         var lastCentralContent: CentralContent? = null
         centralContents.forEach { centralContent ->
             // this is a line that should be together with the last item
-            lastCentralContent = if (centralContent.heading.startsWith("– "))  {
+            lastCentralContent = if (centralContent.heading.startsWith("– ") || centralContent.heading.startsWith("• "))  {
                 if (lastCentralContent != null) {
-                    CentralContent(lastCentralContent?.heading ?: "", (lastCentralContent?.lines ?: listOf()) + centralContent.heading.removePrefix("– "))
+                    CentralContent(lastCentralContent?.heading ?: "", (lastCentralContent?.lines ?: listOf()) + centralContent.heading.removePrefix("– ").removePrefix("• "))
                 } else {
-                    CentralContent( "", listOf(centralContent.heading.removePrefix("- ")))
+                    CentralContent( "", listOf(centralContent.heading.removePrefix("- ").removePrefix("• ")))
                 }
             } else {
                 if (lastCentralContent != null) {

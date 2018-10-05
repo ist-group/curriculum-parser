@@ -14,6 +14,7 @@ fun main(args : Array<String>) {
 
         if (SchoolType.values().any { it.name == args[0] }) {
             versions.forEach {
+                println("generating file for ${it.absolutePath}")
                 val subjectFileGenerator = SubjectFileGenerator(it, File("./src/test/resources/opendata/${it.name}"))
                 subjectFileGenerator.generateOneSubject(SchoolType.valueOf(args[0]), args[1])
             }

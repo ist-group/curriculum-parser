@@ -1,20 +1,19 @@
 package org.edtech.curriculum.internal
 
-import org.edtech.curriculum.Purpose
-import org.edtech.curriculum.PurposeType
-import org.edtech.curriculum.Subject
-import org.edtech.curriculum.SubjectHtml
+import org.edtech.curriculum.*
 import java.time.LocalDateTime
 import java.time.OffsetDateTime
 
 class SubjectParser {
-    fun getSubject(subjectData: SubjectHtml): Subject {
-        return Subject(
+    fun getSubject(subjectData: SubjectHtml): List<Subject> {
+        val ssc = SubjectSpecialCase(subjectData)
+        return ssc.getSubjectCategories().map { (category, subjectData) ->  Subject(
                 subjectData.name,
                 fixDescriptions(subjectData.description),
                 subjectData.version,
                 subjectData.code,
                 subjectData.designation,
+                category,
                 subjectData.skolfsId,
                 normalizePurposes(toPurposes(subjectData.purposes)),
                 subjectData.courses.map { CourseParser(it).getCourse() },
@@ -25,8 +24,8 @@ class SubjectParser {
                 subjectData.originatorTypeOfSchooling,
                 subjectData.gradeScale,
                 stringToDate(subjectData.validTo),
-                stringToDate(subjectData.applianceDate)
-        )
+                stringToDate(subjectData.applianceDate))
+        }.toList()
     }
 
     private fun stringToDate(dateString: String?): LocalDateTime? {

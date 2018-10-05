@@ -1,0 +1,332 @@
+{
+  "name" : "Musikteori",
+  "description" : "Ämnet musikteori behandlar gehör, musikaliska former och musikens begrepp. Kunskaper i musikteori bidrar till en musikalisk helhetssyn samt förstärker och utvecklar musikutövandet, musikskapandet och kommunikationen med andra musiker. I ämnet behandlas också notation av musik.",
+  "code" : "MUI",
+  "designation" : "",
+  "skolfsId" : "0000:00",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet musikteori ska syfta till att eleverna utvecklar kunskaper i allmän musiklära och om musikteoretiska begrepp.", "Undervisningen ska också leda till att eleverna utvecklar förmåga att hantera notskrift samt kunskaper om notationssystemet och om olika musikaliska former.", "Genom undervisningen ska eleverna ges verktyg och metoder som de får möjlighet att omsätta praktiskt i musicerande och musikskapande." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar kunskaper om metoder för att notera klingande musik samt metoder för egen gehörsträning.", "Eleverna ska ges möjlighet att analysera musik både teoretiskt och gehörsmässigt för att de ska kunna förstå olika musikaliska skeenden och strukturer.", "Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper i harmonisering, arrangering och komposition." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om datorutrustning, programvara och musikteknisk utrustning som kan användas såväl vid gehörsträning som vid arrangering eller komposition av musik.", "Undervisningen ska innefatta konstnärliga aspekter och inspirera till eget skapande." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet musikteori ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om musikaliska former, strukturer, musikens språk och musikteoretiska begrepp.", "Förmåga att självständigt öva gehöret och att använda sig av det inre hörandet.", "Färdigheter i att använda gehöret och förståelse av gehörets betydelse för utövande av musik.", "Kunskaper om melodik, harmonik, periodicitet och rytm.", "Kunskaper om noter, ackordbeteckningar och andra musikaliska symboler.", "Färdigheter i att arrangera och komponera musik.", "Kunskaper om musikinstrument och röster, deras klang, funktion och användning.", "Förmåga att använda datorn som hjälpmedel vid musikskapande och arrangering.", "Förmåga att omsätta kunskaperna i musikteori till skapande och musicerande." ]
+  } ],
+  "courses" : [ {
+    "name" : "Arrangering och komposition 1",
+    "description" : "Kursen arrangering och komposition 1 omfattar punkterna 1 och 4–9 under rubriken Ämnets syfte, med särskild betoning på musikaliska former och punkterna 6–8. I kursen behandlas grundläggande kunskaper.",
+    "code" : "MUIARA01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Ensembleformer och musikformer samt stildrag från olika tidsperioder och kulturer.", "Melodisk, harmonisk, periodisk och rytmisk uppbyggnad av musik.", "Notation och läsning av olika musikgenrer.", "Arrangering av vokal och instrumental musik i olika genrer.", "Kompositionsprinciper och musikaliska strukturer.", "Konstnärlig kreativitet i experiment med och bearbetning av musikaliskt material.", "Musikinstruments och rösters klang, funktion och användning.", "Användning av digitala medier och musikteknisk utrustning vid arrangering, komposition och produktion av musik.", "Analys och tolkning av konstnärliga kvaliteter i form av musikaliskt resultat, form och struktur samt användning av musikteoretiska begrepp som är relevanta i sammanhanget." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för <strong>________</strong> typisk ensemble och musikformer från <strong>________</strong> olika musikaliska epoker och stilar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för <strong>någon</strong> typisk ensemble och musikformer från <strong>några</strong> olika musikaliska epoker och stilar.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för <strong>några</strong> typiska ensembler och musikformer från <strong>några</strong> olika musikaliska epoker och stilar.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för <strong>flera</strong> typiska ensembler och musikformer från <strong>flera</strong> olika musikaliska epoker och stilar."
+        }
+      }, {
+        "text" : "Eleven ger enkla exempel på melodik, harmonik, periodicitet och rytm i <strong>________</strong> vald musikform.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven ger enkla exempel på melodik, harmonik, periodicitet och rytm i <strong>någon</strong> vald musikform.",
+          "C" : "Eleven ger enkla exempel på melodik, harmonik, periodicitet och rytm i <strong>några</strong> valda musikformer.",
+          "A" : "Eleven ger enkla exempel på melodik, harmonik, periodicitet och rytm i <strong>flera</strong> valda musikformer."
+        }
+      }, {
+        "text" : "Eleven noterar och läser <strong>________</strong> musik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven noterar och läser <strong>med viss säkerhet</strong> musik.",
+          "C" : "Eleven noterar <strong>enligt praxis</strong> och läser <strong>med viss säkerhet</strong> musik <strong>samt diskuterar utförligt olika notationssätt och ger exempel på deras användningsområden</strong>.",
+          "A" : "Eleven noterar <strong>enligt praxis med god läsbarhet</strong> och läser <strong>med säkerhet</strong> musik <strong>samt diskuterar utförligt och nyanserat olika notationssätt och ger exempel på deras användningsområden</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven skapar musik i några olika traditionella instrumentala eller vokala former, med <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven skapar musik i några olika traditionella instrumentala eller vokala former, med <strong>viss konstnärlig kvalitet</strong>.",
+          "C" : "Eleven skapar musik i några olika traditionella instrumentala eller vokala former, med <strong>ett personligt uttryck, viss kreativitet och viss konstnärlig kvalitet</strong>.",
+          "A" : "Eleven skapar musik i några olika, <strong>både</strong> traditionella <strong>och ovanliga</strong>, instrumentala eller vokala former, med <strong>ett personligt uttryck, kreativitet och god konstnärlig kvalitet</strong>."
+        }
+      }, {
+        "text" : "Eleven gör egna arrangemang och kompositioner för <strong>________</strong> ensembler.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven gör egna arrangemang och kompositioner för <strong>några olika vanliga</strong> ensembler.",
+          "C" : "Eleven gör egna arrangemang och kompositioner för <strong>flera olika vanliga</strong> ensembler.",
+          "A" : "Eleven gör egna arrangemang och kompositioner för <strong>flera olika vanliga</strong> ensembler <strong>och instrumentkombinationer med ett musikaliskt uttryck som är anpassat till instrumentens eller rösternas karaktär</strong>."
+        }
+      }, {
+        "text" : "I arbetet använder eleven <strong>________</strong> digitala hjälpmedel och annan musikteknisk utrustning som redskap för musikskapande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> digitala hjälpmedel och annan musikteknisk utrustning som redskap för musikskapande.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> digitala hjälpmedel och annan musikteknisk utrustning som redskap för musikskapande.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> digitala hjälpmedel och annan musikteknisk utrustning som redskap för musikskapande."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven diskuterar <strong>________</strong> konstnärliga kvaliteter i olika arrangemang och kompositioner samt värderar med <strong>________</strong> omdömen sitt eget arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> konstnärliga kvaliteter i olika arrangemang och kompositioner samt värderar med <strong>enkla</strong> omdömen sitt eget arbete.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> konstnärliga kvaliteter i olika arrangemang och kompositioner samt värderar med <strong>nyanserade</strong> omdömen sitt eget arbete. <strong>Dessutom värderar eleven med nyanserade omdömen hur det inre hörandet har omsatts till klingande musikaliskt material i det egna arbetet</strong>.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat</strong> konstnärliga kvaliteter i olika arrangemang och kompositioner samt värderar med <strong>nyanserade</strong> omdömen sitt eget arbete <strong>och ger förslag på hur arbetet kan förbättras</strong>. <strong>Dessutom värderar eleven med nyanserade omdömen hur det inre hörandet har omsatts till klingande musikaliskt material i det egna arbetet samt ger förslag på hur detta kan förbättras</strong>."
+        }
+      }, {
+        "text" : "I diskussionen och värderingen använder eleven <strong>________</strong> musikteoretiska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I diskussionen och värderingen använder eleven <strong>med viss säkerhet</strong> musikteoretiska begrepp.",
+          "C" : "I diskussionen och värderingen använder eleven <strong>med viss säkerhet</strong> musikteoretiska begrepp.",
+          "A" : "I diskussionen och värderingen använder eleven <strong>med säkerhet</strong> musikteoretiska begrepp."
+        }
+      } ]
+    } ],
+    "point" : 100
+  }, {
+    "name" : "Arrangering och komposition 2",
+    "description" : "Kursen arrangering och komposition 2 omfattar punkterna 1 och 4–9 under rubriken Ämnets syfte, med särskild betoning på musikaliska former och punkterna 6–8. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "code" : "MUIARA02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Ensembleformer och musikformer samt stildrag från valda tidsperioder, genrer eller kulturer.", "Flerdelade symmetriska och asymmetriska formtyper, till exempel sonat, rondo, fuga, medley och visa.", "Fördjupning av någon kompositionsprincip för en musikalisk sats, till exempel kontrapunkt, mediantik, aleatorik, serialism och minimalism.", "Arrangering och komposition av flerstämmig vokal musik i vald genre. Textbehandling i vokalmusik.", "Arrangering och komposition av flerstämmig instrumental musik i vald genre.", "Instrumentering för valda ensembletyper.", "Konstnärlig kreativitet i experiment med och bearbetning av musikaliskt material.", "Användning av digitala medier och musikteknisk utrustning vid arrangering, komposition och produktion av musik.", "Analys och tolkning av konstnärliga kvaliteter i form av musikaliskt resultat, form och struktur samt användning av musikteoretiska begrepp som är relevanta i sammanhanget, till exempel med avseende på tonalitet och modalitet." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för typiska ensembler och musikformer från <strong>________</strong> tidsperiod, genre eller kultur.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för typiska ensembler och musikformer från <strong>någon</strong> tidsperiod, genre eller kultur.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för typiska ensembler och musikformer från <strong>några valda</strong> tidsperioder, genrer eller kulturer.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för typiska ensembler och musikformer från <strong>flera valda</strong> tidsperioder, genrer eller kulturer."
+        }
+      }, {
+        "text" : "Dessutom beskriver eleven <strong>________</strong> olika formtyper.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom beskriver eleven <strong>översiktligt</strong> olika formtyper.",
+          "C" : "Dessutom beskriver eleven <strong>utförligt</strong> olika formtyper.",
+          "A" : "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> olika formtyper."
+        }
+      }, {
+        "text" : "Eleven redogör <strong>________</strong> för kompositionsprincipen för vald typ av musikalisk sats.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för kompositionsprincipen för vald typ av musikalisk sats.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för kompositionsprincipen för vald typ av musikalisk sats.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för kompositionsprincipen för vald typ av musikalisk sats."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven arrangerar och komponerar med <strong>________</strong> konstnärlig kvalitet <strong>________</strong> vokalmusik med <strong>________</strong> anpassning till den valda genrens konventioner och <strong>________</strong> i textbehandlingen.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arrangerar och komponerar med <strong>viss</strong> konstnärlig kvalitet <strong>någon enkel</strong> vokalmusik med <strong>viss</strong> anpassning till den valda genrens konventioner och <strong>med viss säkerhet</strong> i textbehandlingen.",
+          "C" : "Eleven arrangerar och komponerar med <strong>viss</strong> konstnärlig kvalitet <strong>och ett personligt uttryck, flerstämmig</strong> vokalmusik med <strong>god</strong> anpassning till den valda genrens konventioner och <strong>med viss säkerhet</strong> i textbehandlingen.",
+          "A" : "Eleven arrangerar och komponerar med <strong>kreativitet</strong>, konstnärlig kvalitet <strong>och ett personligt, musikaliskt uttryck, flerstämmig</strong> vokalmusik med <strong>god</strong> anpassning till den valda genrens konventioner och <strong>med säkerhet</strong> i texthandlingen."
+        }
+      }, {
+        "text" : "Eleven arrangerar och komponerar med <strong>________</strong> konstnärlig kvalitet <strong>________</strong> instrumentalmusik med <strong>________</strong> anpassning till den valda genrens konventioner.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven arrangerar och komponerar med <strong>viss</strong> konstnärlig kvalitet <strong>enkel</strong> instrumentalmusik med <strong>viss</strong> anpassning till den valda genrens konventioner.",
+          "C" : "Eleven arrangerar och komponerar med <strong>viss</strong> konstnärlig kvalitet <strong>flerstämmig</strong> instrumentalmusik med <strong>god</strong> anpassning till den valda genrens konventioner.",
+          "A" : "Eleven arrangerar och komponerar med <strong>kreativitet</strong>, konstnärlig kvalitet <strong>och ett personligt uttryck, flerstämmig</strong> instrumentalmusik med <strong>god</strong> anpassning till den valda genrens konventioner <strong>och till instrumentens karaktär</strong>."
+        }
+      }, {
+        "text" : "Dessutom <strong>________</strong> eleven <strong>________</strong> för <strong>________</strong> ensembleform och visar <strong>________</strong> konstnärlig kreativitet i bearbetningen av musikaliskt material.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom <strong>gör</strong> eleven <strong>enkel instrumentering</strong> för <strong>någon mindre</strong> ensembleform och visar <strong>viss</strong> konstnärlig kreativitet i bearbetningen av musikaliskt material.",
+          "C" : "Dessutom <strong>instrumenterar</strong> eleven för <strong>några större</strong> ensembleformer och visar konstnärlig kreativitet i <strong>experimenterandet med och</strong> bearbetningen av musikaliskt material.",
+          "A" : "Dessutom <strong>instrumenterar</strong> eleven för <strong>några större</strong> ensembleformer och visar konstnärlig kreativitet i <strong>experimenterandet med och</strong> bearbetningen av musikaliskt material."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "I arbetet använder eleven <strong>________</strong> digitala hjälpmedel och annan musikteknisk utrustning som redskap för musikskapande.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet använder eleven <strong>med viss säkerhet</strong> digitala hjälpmedel och annan musikteknisk utrustning som redskap för musikskapande.",
+          "C" : "I arbetet använder eleven <strong>med viss säkerhet</strong> digitala hjälpmedel och annan musikteknisk utrustning som redskap för musikskapande.",
+          "A" : "I arbetet använder eleven <strong>med säkerhet</strong> digitala hjälpmedel och annan musikteknisk utrustning som redskap för musikskapande."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven diskuterar <strong>________</strong> konstnärliga kvaliteter i olika arrangemang och kompositioner samt värderar med <strong>________</strong> omdömen sitt eget arbete.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven diskuterar <strong>översiktligt</strong> konstnärliga kvaliteter i olika arrangemang och kompositioner samt värderar med <strong>enkla</strong> omdömen sitt eget arbete.",
+          "C" : "Eleven diskuterar <strong>utförligt</strong> konstnärliga kvaliteter i olika arrangemang och kompositioner samt värderar med <strong>nyanserade</strong> omdömen sitt eget arbete. <strong>Dessutom värderar eleven med nyanserade omdömen hur det inre hörandet har omsatts till klingande musikaliskt material i det egna arbetet</strong>.",
+          "A" : "Eleven diskuterar <strong>utförligt och nyanserat</strong> konstnärliga kvaliteter i olika arrangemang och kompositioner samt värderar med <strong>nyanserade</strong> omdömen sitt eget arbete <strong>och ger förslag på hur arbetet kan förbättras</strong>. <strong>Dessutom värderar eleven med nyanserade omdömen hur det inre hörandet har omsatts till klingande musikaliskt material i det egna arbetet samt ger förslag på hur detta kan förbättras</strong>."
+        }
+      }, {
+        "text" : "I diskussionen och värderingen använder eleven <strong>________</strong> musikteoretiska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I diskussionen och värderingen använder eleven <strong>med viss säkerhet</strong> musikteoretiska begrepp.",
+          "C" : "I diskussionen och värderingen använder eleven <strong>med viss säkerhet</strong> musikteoretiska begrepp.",
+          "A" : "I diskussionen och värderingen använder eleven <strong>med säkerhet</strong> musikteoretiska begrepp."
+        }
+      } ]
+    } ],
+    "point" : 100
+  }, {
+    "name" : "Gehörs- och musiklära 1",
+    "description" : "Kursen gehörs- och musiklära 1 omfattar punkterna 1–5 och 9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1–3. I kursen behandlas grundläggande färdigheter i ämnet.",
+    "code" : "MUIGEH01",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Musiklära med föredragsbeteckningar, skalor, intervall, notation, notationspraxis, ackord och harmonisering.", "Grundläggande musikteoretiska begrepp i en eller flera genrer samt jämförelse av de olika genrernas musikteoretiska begrepp.", "Gehörsträning av puls, rytm, melodi, harmoni och form.", "Grundläggande satslära och harmonisk analys.", "Notering av klingande musik.", "A prima vista-träning.", "Aktivt lyssnande och diskussion om musikframförande." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för musiklära.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för musiklära.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för musiklära.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för musiklära."
+        }
+      }, {
+        "text" : "Dessutom identifierar eleven <strong>________</strong> och redogör <strong>________</strong> för några enkla musikaliska former.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom identifierar eleven <strong>med viss säkerhet</strong> och redogör <strong>översiktligt</strong> för några enkla musikaliska former.",
+          "C" : "Dessutom identifierar eleven <strong>med viss säkerhet</strong> och redogör <strong>utförligt</strong> för några enkla musikaliska former.",
+          "A" : "Dessutom identifierar eleven <strong>med säkerhet</strong> och redogör <strong>utförligt och nyanserat</strong> för några enkla musikaliska former."
+        }
+      }, {
+        "text" : "I redogörelserna använder eleven <strong>________</strong> musikteoretiska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I redogörelserna använder eleven <strong>med viss säkerhet vanliga</strong> musikteoretiska begrepp.",
+          "C" : "I redogörelsen använder eleven <strong>med viss säkerhet</strong> musikteoretiska begrepp.",
+          "A" : "I redogörelsen <strong>gör eleven en välgrundad och nyanserad jämförelse av de musikaliska formerna samt</strong> använder <strong>med säkerhet</strong> musikteoretiska begrepp."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> gehörsövningar, noterar <strong>________</strong> klingande musikexempel och gör <strong>________</strong> musikaliska analysuppgifter i olika genrer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>med viss säkerhet enkla</strong> gehörsövningar, noterar <strong>enkla</strong> klingande musikexempel och gör <strong>enkla</strong> musikaliska analysuppgifter i olika genrer.",
+          "C" : "Eleven utför <strong>med viss säkerhet</strong> gehörsövningar, noterar klingande musikexempel och gör musikaliska analysuppgifter i olika genrer.",
+          "A" : "Eleven utför <strong>med säkerhet</strong> gehörsövningar, noterar klingande musikexempel <strong>med vedertagen notationspraxis</strong> och gör <strong>komplexa</strong> musikaliska analysuppgifter i olika genrer <strong>och med lämplig analysmodell</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven skriver och läser <strong>________</strong> noter i två klaver.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven skriver och läser <strong>med viss säkerhet</strong> noter i två klaver.",
+          "C" : "Eleven skriver och läser <strong>med viss säkerhet</strong> noter i två klaver <strong>samt musicerar efter noter i en klav</strong>.",
+          "A" : "Eleven skriver och läser <strong>med säkerhet</strong> noter i två klaver <strong>samt musicerar efter noter i minst två klaver</strong>."
+        }
+      }, {
+        "text" : "Eleven sjunger <strong>________</strong> efter <strong>________</strong> notbilder och på gehör.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven sjunger <strong>med stöd</strong> efter <strong>enkla</strong> notbilder och på gehör.",
+          "C" : "Eleven sjunger efter <strong>enkla</strong> notbilder och på gehör <strong>med tillfredsställande kvalitet när det gäller rytm, melodi, harmonik och form</strong>. <strong>I sitt musicerande kopplar eleven ihop gehör och musikteori</strong>.",
+          "A" : "Eleven sjunger efter notbilder och på gehör <strong>med god kvalitet när det gäller rytm, melodi, harmonik och form</strong>. <strong>I sitt musicerande kopplar eleven ihop gehör och musikteori</strong>."
+        }
+      }, {
+        "text" : "Eleven värderar med <strong>________</strong> omdömen sitt musicerande med hjälp av musikteoretiska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven värderar med <strong>enkla</strong> omdömen sitt musicerande med hjälp av musikteoretiska begrepp.",
+          "C" : "Eleven värderar med <strong>nyanserade</strong> omdömen sitt musicerande med hjälp av musikteoretiska begrepp.",
+          "A" : "Eleven värderar med <strong>nyanserade</strong> omdömen sitt musicerande med hjälp av musikteoretiska begrepp <strong>samt ger förslag på hur musicerandet kan förbättras</strong>."
+        }
+      } ]
+    } ],
+    "point" : 100
+  }, {
+    "name" : "Gehörs- och musiklära 2",
+    "description" : "Kursen gehörs- och musiklära 2 omfattar punkterna 1–5 och 9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1–3. I kursen behandlas fördjupade färdigheter i ämnet.",
+    "code" : "MUIGEH02",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Musiklära med föredragsbeteckningar, skalor, intervall, notation, notationspraxis och notationssystem samt ackordbeteckningssystem.", "Fördjupade musikteoretiska begrepp och teoribildningar i en eller flera genrer.", "Gehörsträning av puls, rytm, melodi, harmoni och form.", "Harmonisering och stämföring i flerstämmig sats.", "Melodibildning.", "Formlära.", "Fördjupad satslära och harmonisk analys.", "Notering av klingande musik.", "A prima vista-träning." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för musiklära.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>översiktligt</strong> för musiklära.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för musiklära.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för musiklära."
+        }
+      }, {
+        "text" : "Dessutom identifierar eleven <strong>________</strong> och redogör <strong>________</strong> för några olika musikaliska former.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom identifierar eleven <strong>med viss säkerhet</strong> och redogör <strong>översiktligt</strong> för några olika musikaliska former.",
+          "C" : "Dessutom identifierar eleven <strong>med viss säkerhet</strong> och redogör <strong>utförligt</strong> för några olika musikaliska former.",
+          "A" : "Dessutom identifierar eleven <strong>med säkerhet</strong> och redogör <strong>utförligt och nyanserat</strong> för några olika musikaliska former."
+        }
+      }, {
+        "text" : "I redogörelserna använder eleven <strong>________</strong> musikteoretiska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I redogörelserna använder eleven <strong>med viss säkerhet</strong> musikteoretiska begrepp.",
+          "C" : "I redogörelserna använder eleven <strong>med viss säkerhet</strong> musikteoretiska begrepp.",
+          "A" : "I redogörelserna använder eleven <strong>med säkerhet</strong> musikteoretiska begrepp samt <strong>gör en välgrundad och nyanserad jämförelse av de musikaliska formerna</strong>."
+        }
+      }, {
+        "text" : "Eleven utför <strong>________</strong> komplexa gehörsövningar, noterar <strong>________</strong> klingande musikexempel och gör <strong>________</strong> musikaliska analysuppgifter i olika genrer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven utför <strong>med viss säkerhet</strong> komplexa gehörsövningar, noterar <strong>med viss säkerhet</strong> klingande musikexempel och gör <strong>enkla</strong> musikaliska analysuppgifter i olika genrer.",
+          "C" : "Eleven utför <strong>med viss säkerhet</strong> komplexa gehörsövningar, noterar <strong>med säkerhet</strong> klingande musikexempel och gör musikaliska analysuppgifter i olika genrer <strong>utifrån olika analysmodeller</strong>.",
+          "A" : "Eleven utför <strong>med säkerhet</strong> komplexa gehörsövningar, noterar <strong>med säkerhet</strong> klingande musikexempel <strong>med vedertagen notationspraxis</strong> samt gör <strong>komplexa</strong> musikaliska analysuppgifter i olika genrer <strong>utifrån olika analysmodeller och motiverar utförligt och nyanserat sina val av analysmodeller</strong>. <strong>Dessutom tar eleven initiativ till att öva upp sitt gehör</strong>."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven skriver och läser <strong>________</strong> noter i minst två klaver, harmoniserar melodier och <strong>________</strong> flerstämmig sats.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven skriver och läser <strong>med viss säkerhet</strong> noter i minst två klaver, harmoniserar melodier och <strong>kompletterar</strong> flerstämmig sats.",
+          "C" : "Eleven skriver och läser <strong>med viss säkerhet</strong> noter i minst två klaver, harmoniserar melodier och <strong>skriver</strong> flerstämmig sats.",
+          "A" : "Eleven skriver och läser <strong>med säkerhet</strong> noter i minst två klaver, harmoniserar melodier och <strong>skriver</strong> flerstämmig sats."
+        }
+      }, {
+        "text" : "Eleven beskriver också <strong>________</strong> minst två notationssystem och ger <strong>________</strong> exempel på deras användningsområde.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven beskriver också <strong>översiktligt</strong> minst två notationssystem och ger <strong>något</strong> exempel på deras användningsområde.",
+          "C" : "Eleven beskriver också <strong>utförligt</strong> minst två notationssystem och ger <strong>några</strong> exempel på deras användningsområde.",
+          "A" : "Eleven beskriver också <strong>utförligt och nyanserat</strong> minst två notationssystem och ger <strong>flera</strong> exempel på deras användningsområde."
+        }
+      }, {
+        "text" : "Dessutom använder eleven minst <strong>________</strong> vedertaget system för ackordbeteckningar.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom använder eleven minst <strong>ett</strong> vedertaget system för ackordbeteckningar.",
+          "C" : "Dessutom använder eleven minst <strong>två</strong> vedertagna system för ackordbeteckningar <strong>och harmoniska analyser</strong>.",
+          "A" : "Dessutom använder eleven minst <strong>två</strong> vedertagna system för ackordbeteckningar <strong>och harmoniska analyser samt redogör översiktligt för ytterligare system</strong>."
+        }
+      }, {
+        "text" : "Eleven sjunger och spelar efter notbilder och på gehör.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven sjunger och spelar efter notbilder och på gehör.",
+          "C" : "Eleven sjunger och spelar efter notbilder och på gehör <strong>med tillfredsställande kvalitet när det gäller rytm, melodi, harmonik och form</strong>. <strong>I sitt musicerande använder eleven gehöret i improviserad och noterad musik</strong>.",
+          "A" : "Eleven sjunger och spelar efter notbilder och på gehör <strong>med god kvalitet när det gäller rytm, melodi, harmonik och form</strong>. <strong>I sitt musicerande använder eleven gehöret i improviserad och noterad musik samt skriver enkla arrangemang för olika röst- eller instrumentkombinationer</strong>."
+        }
+      }, {
+        "text" : "Eleven värderar med <strong>________</strong> omdömen sitt musicerande med hjälp av musikteoretiska begrepp.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven värderar med <strong>enkla</strong> omdömen sitt musicerande med hjälp av musikteoretiska begrepp.",
+          "C" : "Eleven värderar med <strong>nyanserade</strong> omdömen sitt musicerande med hjälp av musikteoretiska begrepp.",
+          "A" : "Eleven värderar med <strong>nyanserade</strong> omdömen sitt musicerande med hjälp av musikteoretiska begrepp <strong>samt ger förslag på hur musicerandet kan förbättras</strong>."
+        }
+      } ]
+    } ],
+    "point" : 100
+  } ],
+  "typeOfSchooling" : "UPPER_SECONDARY_EDUCATION",
+  "gradeScale" : "",
+  "applianceDate" : "2011-12-06T00:00:00"
+}

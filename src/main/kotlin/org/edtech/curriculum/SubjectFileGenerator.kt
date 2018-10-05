@@ -1,5 +1,6 @@
 package org.edtech.curriculum
 
+import com.fasterxml.jackson.annotation.JsonInclude
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.databind.ObjectWriter
 import com.fasterxml.jackson.databind.SerializationFeature
@@ -11,7 +12,9 @@ class SubjectFileGenerator(private val destDir: File, private val archiveDir: Fi
     init {
         val mapper = ObjectMapper()
         mapper.disable(SerializationFeature.WRITE_DATES_AS_TIMESTAMPS)
+        mapper.setSerializationInclusion(JsonInclude.Include.NON_NULL)
         mapper.registerModule(JavaTimeModule())
+
         objectWriter = mapper.writerWithDefaultPrettyPrinter()
     }
 
@@ -26,7 +29,7 @@ class SubjectFileGenerator(private val destDir: File, private val archiveDir: Fi
             if (!subjectDir.exists()) {
                 subjectDir.mkdirs()
             }
-            Curriculum(schoolType, archiveDir, cache).getSubjects().forEach {
+            Curriculum(schoolType, archiveDir, cache).subjects.forEach {
                 writeSubjectToFile(it, subjectDir.resolve("${it.code}.json"))
             }
         }
@@ -38,7 +41,7 @@ class SubjectFileGenerator(private val destDir: File, private val archiveDir: Fi
     fun regenerate() {
         for (schoolType in SchoolType.values()) {
             val subjectMap = Curriculum(schoolType, archiveDir, cache)
-                    .getSubjects()
+                    .subjects
                     .map { Pair(it.code, it) }
                     .toMap()
             val subjectDir = destDir.resolve(schoolType.name)
@@ -63,18 +66,25 @@ class SubjectFileGenerator(private val destDir: File, private val archiveDir: Fi
      */
     fun generateOneSubject(schoolType: SchoolType, subjectCode: String) {
         val subject = Curriculum(schoolType, archiveDir, cache)
-                .getSubjects()
+                .subjects
                 .firstOrNull { it.code == subjectCode }
         if (subject != null) {
 
-            writeSubjectToFile(subject,  destDir.resolve("/$schoolType/$subjectCode.json"))
+            writeSubjectToFile(subject,  destDir.resolve("$schoolType/$subjectCode.json"))
         } else {
             throw RuntimeException("ERROR: cannot find subject $String in curriculum $schoolType.")
         }
     }
 
     private fun writeSubjectToFile(subject: Subject, file: File) {
-        println("writing to: $file")
-        file.writeText(objectWriter.writeValueAsString(subject))
+        println("writing to: ${file.absolutePath}")
+        try {
+            file.createNewFile()
+            file.writeText(objectWriter.writeValueAsString(subject))
+        } catch (ex: Exception) {
+            println("ERROR: $ex")
+        }
+
+
     }
 }

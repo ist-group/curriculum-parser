@@ -1,6 +1,7 @@
 package org.edtech.curriculum.internal
 
-import org.edtech.curriculum.*
+import org.edtech.curriculum.Course
+import org.edtech.curriculum.CourseHtml
 
 internal class CourseParser(private val courseData: CourseHtml) {
 

@@ -149,6 +149,40 @@ internal class HtmlUtilsTest {
                         "</ul>",
                 convertDashListToList("<h3>I årskurs 4-6</h3><h4>Läsa och skriva</h4><p>– Lässtrategier för att förstå och tolka texter från olika medier samt för att urskilja texters budskap, både det uttalade och sådant som står mellan raderna.</p><p>– Strategier för att skriva olika typer av texter med anpassning till deras typiska uppbyggnad och språkliga drag.</p><p>– Modersmålets grundläggande struktur i jämförelse med svenskans.</p><p>– Ordböcker och andra hjälpmedel för stavning och ordförståelse.</p><h4>Tala, lyssna och samtala</h4><p>– Muntliga presentationer för olika mottagare.</p><p>– Uttal, betoning och satsmelodi samt uttalets betydelse för att göra sig förstådd.</p><p>– Modersmålets uttal i jämförelse med svenskans.</p><h4>Berättande texter och sakprosatexter</h4><p>– Berättande texter och poetiska texter för barn och unga i form av skönlitteratur, lyrik, sagor och myter från olika tider och områden där modersmålet talas. Berättande och poetiska texter som belyser människors villkor, identitets- och livsfrågor.</p><p>– Berättande och poetiska texters typiska språkliga drag samt deras ord och begrepp.</p><p>– Beskrivande, förklarande och instruerande texter för barn och unga med anknytning till traditioner, företeelser och språkliga uttryckssätt i områden där modersmålet talas.</p><p>– Texternas innehåll och deras typiska ord och begrepp.</p><h4>Språkbruk</h4><p>– Ord och begrepp för att uttrycka känslor, kunskaper och åsikter. Ords och begrepps nyanser och värdeladdning.</p><p>– Synonymer och motsatsord.</p><h4>Kultur och samhälle</h4><p>– Seder, bruk och traditioner i områden där modersmålet talas i jämförelse med svenska seder, bruk och traditioner.</p><p>– Skolgång i områden där modersmålet talas i jämförelse med skolgång i Sverige.</p>")
         )
+        assertEquals(
+                "<h3>I årskurs 4-6</h3>\n" +
+                        "<h4>Läsa och skriva</h4>\n" +
+                        "<ul>\n" +
+                        " <li>Lässtrategier för att förstå och tolka texter från olika medier samt för att urskilja texters budskap, både det uttalade och sådant som står mellan raderna.</li>\n" +
+                        " <li>Strategier för att skriva olika typer av texter med anpassning till deras typiska uppbyggnad och språkliga drag.</li>\n" +
+                        " <li>Modersmålets grundläggande struktur i jämförelse med svenskans.</li>\n" +
+                        " <li>Ordböcker och andra hjälpmedel för stavning och ordförståelse.</li>\n" +
+                        "</ul>\n" +
+                        "<h4>Tala, lyssna och samtala</h4>\n" +
+                        "<ul>\n" +
+                        " <li>Muntliga presentationer för olika mottagare.</li>\n" +
+                        " <li>Uttal, betoning och satsmelodi samt uttalets betydelse för att göra sig förstådd.</li>\n" +
+                        " <li>Modersmålets uttal i jämförelse med svenskans.</li>\n" +
+                        "</ul>\n" +
+                        "<h4>Berättande texter och sakprosatexter</h4>\n" +
+                        "<ul>\n" +
+                        " <li>Berättande texter och poetiska texter för barn och unga i form av skönlitteratur, lyrik, sagor och myter från olika tider och områden där modersmålet talas. Berättande och poetiska texter som belyser människors villkor, identitets- och livsfrågor.</li>\n" +
+                        " <li>Berättande och poetiska texters typiska språkliga drag samt deras ord och begrepp.</li>\n" +
+                        " <li>Beskrivande, förklarande och instruerande texter för barn och unga med anknytning till traditioner, företeelser och språkliga uttryckssätt i områden där modersmålet talas.</li>\n" +
+                        " <li>Texternas innehåll och deras typiska ord och begrepp.</li>\n" +
+                        "</ul>\n" +
+                        "<h4>Språkbruk</h4>\n" +
+                        "<ul>\n" +
+                        " <li>Ord och begrepp för att uttrycka känslor, kunskaper och åsikter. Ords och begrepps nyanser och värdeladdning.</li>\n" +
+                        " <li>Synonymer och motsatsord.</li>\n" +
+                        "</ul>\n" +
+                        "<h4>Kultur och samhälle</h4>\n" +
+                        "<ul>\n" +
+                        " <li>Seder, bruk och traditioner i områden där modersmålet talas i jämförelse med svenska seder, bruk och traditioner.</li>\n" +
+                        " <li>Skolgång i områden där modersmålet talas i jämförelse med skolgång i Sverige.</li>\n" +
+                        "</ul>",
+                convertDashListToList("<h3>I årskurs 4-6</h3><h4>Läsa och skriva</h4><p>• Lässtrategier för att förstå och tolka texter från olika medier samt för att urskilja texters budskap, både det uttalade och sådant som står mellan raderna.</p><p>• Strategier för att skriva olika typer av texter med anpassning till deras typiska uppbyggnad och språkliga drag.</p><p>• Modersmålets grundläggande struktur i jämförelse med svenskans.</p><p>• Ordböcker och andra hjälpmedel för stavning och ordförståelse.</p><h4>Tala, lyssna och samtala</h4><p>• Muntliga presentationer för olika mottagare.</p><p>• Uttal, betoning och satsmelodi samt uttalets betydelse för att göra sig förstådd.</p><p>• Modersmålets uttal i jämförelse med svenskans.</p><h4>Berättande texter och sakprosatexter</h4><p>• Berättande texter och poetiska texter för barn och unga i form av skönlitteratur, lyrik, sagor och myter från olika tider och områden där modersmålet talas. Berättande och poetiska texter som belyser människors villkor, identitets- och livsfrågor.</p><p>• Berättande och poetiska texters typiska språkliga drag samt deras ord och begrepp.</p><p>• Beskrivande, förklarande och instruerande texter för barn och unga med anknytning till traditioner, företeelser och språkliga uttryckssätt i områden där modersmålet talas.</p><p>• Texternas innehåll och deras typiska ord och begrepp.</p><h4>Språkbruk</h4><p>• Ord och begrepp för att uttrycka känslor, kunskaper och åsikter. Ords och begrepps nyanser och värdeladdning.</p><p>• Synonymer och motsatsord.</p><h4>Kultur och samhälle</h4><p>• Seder, bruk och traditioner i områden där modersmålet talas i jämförelse med svenska seder, bruk och traditioner.</p><p>• Skolgång i områden där modersmålet talas i jämförelse med skolgång i Sverige.</p>")
+        )
     }
 
     @Test
