@@ -5,7 +5,55 @@ package org.edtech.curriculum
  * - Missing designations
  * - Splitting Moderna Språk in to separate subjects
  */
-class SubjectSpecialCase(private val subjectHtml: SubjectHtml) {
+class SubjectSpecialCase(private val subjectHtml: SubjectHtml, private val schoolType: SchoolType) {
+    fun getSubjectsWithAppliedSpecialCases(): Map<SubjectCategory?, SubjectHtml> {
+        val subjectCategories = getSubjectCategories()
+
+        // Skolverket delivers incorrect data for the GR courses so we need to adjust the year spans
+        if (schoolType == SchoolType.GRSPEC) {
+            return subjectCategories.map {
+                (category, subjectHtml) ->
+                if (subjectHtml.code.startsWith("GRGR")) {
+                    Pair(category, convertYearSpans(subjectHtml))
+                } else {
+                    Pair(category, subjectHtml)
+                }
+            }.toMap()
+        }
+        return subjectCategories
+    }
+
+    /**
+     * Change the year spans to 1-4, 5-7, 8-10
+     */
+    private fun convertYearSpans(subjectHtml: SubjectHtml): SubjectHtml {
+        val code = subjectHtml.code.replace(Regex("^GRGR"), "SP")
+        return subjectHtml.copy(
+                code = code,
+                courses = subjectHtml.courses.map {
+                    if (it.code.startsWith("GRGR")) {
+                        val year = alterYearGroup(it.year)
+                        it.copy(
+                                year = year,
+                                name = "Årskurs $year".trim(),
+                                code = "${code}_$year".trim()
+                        )
+                    } else {
+                        it
+                    }
+                }
+        )
+    }
+
+    private fun alterYearGroup(year: String): String {
+        return year
+                .replace("9", "10")
+                .replace("7", "8")
+                .replace("6", "7")
+                .replace("4", "5")
+                .replace("3", "4")
+    }
+
     private fun getDesignation(): String = when (subjectHtml.code) {
         //GR
         "GRGRDAN01" -> "DA" // Dans
@@ -44,7 +92,7 @@ class SubjectSpecialCase(private val subjectHtml: SubjectHtml) {
      * WITHIN_LANGUAGE_CHOICE_CHINESE,
      * WITHIN_STUDENT_CHOICE_CHINESE,
      */
-    fun getSubjectCategories(): Map<SubjectCategory?, SubjectHtml> =
+    private fun getSubjectCategories(): Map<SubjectCategory?, SubjectHtml> =
             when (subjectHtml.code) {
                 // Moderna språk
                 "GRGRMSP01" -> mapOf(

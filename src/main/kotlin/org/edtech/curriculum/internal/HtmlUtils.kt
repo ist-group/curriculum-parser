@@ -68,8 +68,8 @@ internal fun convertDashListToList(stringHtml: String): String {
     val fragment =  Jsoup.parseBodyFragment(stringHtml)
     fragment.body().children()
         .forEach {
-            if (it.tagName() == "p" && (it.text().startsWith('–') || it.text().startsWith('•')))  {
-                val liTag = Element("li").html( it.html().removePrefix("–").removePrefix("•").trim())
+            if (it.tagName() == "p" && it.text().matches( Regex("^(\\d+\\.|[^A-zåäöÅÄÖ] ).*")))  {
+                val liTag = Element("li").html( it.html().replace(Regex("^(\\d+\\.|[^A-zåäöÅÄÖ] )\\s*"), ""))
                 if (listElement == null) {
                     listElement = Element("ul").appendChild(liTag)
                     it.replaceWith(listElement)
