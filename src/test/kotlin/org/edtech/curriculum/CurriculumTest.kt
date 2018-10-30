@@ -1,9 +1,11 @@
 package org.edtech.curriculum
 
 import org.edtech.curriculum.SubjectCategory.*
-import org.junit.jupiter.api.*
-import org.junit.jupiter.api.Assertions.assertNull
-import org.junit.jupiter.api.Assertions.assertTrue
+import org.junit.jupiter.api.Assertions.*
+import org.junit.jupiter.api.DynamicTest
+import org.junit.jupiter.api.Test
+import org.junit.jupiter.api.TestFactory
+import org.junit.jupiter.api.assertAll
 import java.io.File
 
 class CurriculumTest {
@@ -60,7 +62,7 @@ class CurriculumTest {
                         // Only check real courses
                         if (courseHtml.year.isEmpty() ) {
                             if (courseHtml.point.isEmpty()) {
-                                fail("${courseHtml.code}/${courseHtml.name} has no points/year group")
+                                fail<Unit>("${courseHtml.code}/${courseHtml.name} has no points/year group")
                             }
                             assertTrue(courseHtml.description.isNotEmpty()) { "${courseHtml.code}/${courseHtml.name} has no description" }
                         }
@@ -70,12 +72,11 @@ class CurriculumTest {
     }
 
     private fun testDuplicateRequirements(schoolType: SchoolType) {
-        // TODO convert to an assert all
         dataDir.listFiles()
                 .filter { it.isDirectory }
-                .forEach {
-                    Curriculum(schoolType, it).subjectHtml.forEach {
-                        it.courses
+                .forEach { file ->
+                    Curriculum(schoolType, file).subjectHtml.forEach { subjectHtml ->
+                        subjectHtml.courses
                                 .filterNot {
                                     // These contain duplicates so skip the check
                                     arrayOf(
@@ -90,13 +91,13 @@ class CurriculumTest {
                                     .flatMap { rg -> rg.knowledgeRequirements.entries }
                                     .filter { entry -> entry.key != GradeStep.D && entry.key != GradeStep.B }
                                     .forEach { entry ->
-                                        val matchingCourse = it.courses
+                                        val matchingCourse = subjectHtml.courses
                                                 .firstOrNull {
                                                     c -> courseHtml != c && c.knowledgeRequirementGroups.flatMap {
                                                     rg -> rg.knowledgeRequirements.values
                                                 }.contains(entry.value)
                                                 }
-                                        assertNull(matchingCourse) { "duplicate knowledge requirement found in ${it.name}[${it.code}] ${courseHtml.name}[${courseHtml.code}] => ${matchingCourse?.code}:\n${entry.value}" }
+                                        assertNull(matchingCourse) { "duplicate knowledge requirement found in ${subjectHtml.name}[${subjectHtml.code}] ${courseHtml.name}[${courseHtml.code}] => ${matchingCourse?.code}:\n${entry.value}" }
                                     }
                         }
                     }
@@ -116,11 +117,11 @@ class CurriculumTest {
     private fun testPurpose(name: String, purposes: List<Purpose>) {
         assertTrue(purposes.isNotEmpty()) { "$name has no purpose" }
 
-        purposes.forEach {
-            assertTrue( it.lines.isNotEmpty() || it.heading.isNotEmpty()) { "Found empty purpose in $name" }
-            assertNull(  it.lines.firstOrNull { it.trim().isEmpty() }) { "Found empty purpose line in $name" }
-            if (it.type == PurposeType.BULLET) {
-                assertTrue(it.heading.isNotEmpty()) {"Bullet lists always needs a heading $name" }
+        purposes.forEach { purpose ->
+            assertTrue( purpose.lines.isNotEmpty() || purpose.heading.isNotEmpty()) { "Found empty purpose in $name" }
+            assertNull(  purpose.lines.firstOrNull { it.trim().isEmpty() }) { "Found empty purpose line in $name" }
+            if (purpose.type == PurposeType.BULLET) {
+                assertTrue(purpose.heading.isNotEmpty()) {"Bullet lists always needs a heading $name" }
             }
         }
     }
@@ -128,9 +129,10 @@ class CurriculumTest {
     private fun testCentralContent(name: String, centralContents: List<CentralContent>) {
         assertTrue(centralContents.isNotEmpty()) { "$name has no central contents" }
 
-        centralContents.forEach {
-            assertTrue( it.lines.isNotEmpty() || it.heading.isNotEmpty()) { "Found empty central contents in $name" }
-            assertNull( it.lines.firstOrNull { it.trim().isEmpty() }) { "Found empty central contents line in $name" }
+        centralContents.forEach { centralContent ->
+            assertTrue( centralContent.lines.isNotEmpty() || centralContent.heading.isNotEmpty()) { "Found empty central contents in $name" }
+            assertNull( centralContent.lines.firstOrNull { it.trim().isEmpty() }) { "Found empty central contents line in $name" }
+            assertFalse(centralContent.heading.count { it == '.'} > 1) { "Got several lines in the heading: $name => ${centralContent.heading}"}
         }
 
        assertTrue(centralContents.any{ it.lines.isNotEmpty()}) { "all central contents are empty $name" }
@@ -157,13 +159,13 @@ class CurriculumTest {
                             // Only check real courses
                             if (course.year == null) {
                                 if (course.point == null) {
-                                    fail("${course.code}/${course.name} has no points/year group")
+                                    fail<Unit>("${course.code}/${course.name} has no points/year group")
                                 }
                                 assertTrue(course.description.isNotEmpty(), "${course.code}/${course.name} has no description")
                                 if (course.point != null) {
                                     assertTrue(course.point!! > 0, "${course.code}/${course.name} has no points")
                                 } else {
-                                    fail("${course.code}/${course.name} has no points")
+                                    fail<Unit>("${course.code}/${course.name} has no points")
                                 }
                             }
                         }

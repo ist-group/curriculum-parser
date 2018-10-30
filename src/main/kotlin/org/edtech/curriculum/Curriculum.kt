@@ -16,7 +16,7 @@ class Curriculum(
 
     val subjectHtml: List<SubjectHtml> = loadSubjectsHtml()
     val subjects by lazy {
-        subjectHtml.flatMap { SubjectParser().getSubject(it) }.toList()
+        subjectHtml.flatMap { SubjectParser(schoolType).getSubject(it) }.toList()
     }
 
     private fun loadSubjectsHtml(): List<SubjectHtml> {

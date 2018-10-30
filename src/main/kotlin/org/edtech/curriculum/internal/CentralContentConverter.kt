@@ -23,8 +23,15 @@ class CentralContentConverter {
                 .flatMap { if (it.tagName() == "div") it.children() else listOf(it) }
                 .mapNotNull {
                     if (it.tagName() == "ul") {
-                        val lines = it.children().map { it.text() }.filter { it.isNotBlank() }.map { it.trim() }
-                        val heading = it.previousElementSibling()?.text()?.trim() ?: ""
+                        val lines = it.children()
+                                .map { it.text().trim() }
+                                .filter { it.isNotBlank() }
+                        val heading = if (it.previousElementSibling()?.tagName() != "div") {
+                            it.previousElementSibling()?.text()?.trim() ?: ""
+                        } else {
+                            ""
+                        }
+
                         CentralContent(heading, lines)
                     } else {
                         // Just a heading
@@ -38,31 +45,5 @@ class CentralContentConverter {
                     }
                 }
     }
-
-
-    private fun normalizeCentralContents(centralContents: List<CentralContent>):  List<CentralContent> {
-        val result = mutableListOf<CentralContent>()
-        var lastCentralContent: CentralContent? = null
-        centralContents.forEach { centralContent ->
-            // this is a line that should be together with the last item
-            lastCentralContent = if (centralContent.heading.startsWith("– ") || centralContent.heading.startsWith("• "))  {
-                if (lastCentralContent != null) {
-                    CentralContent(lastCentralContent?.heading ?: "", (lastCentralContent?.lines ?: listOf()) + centralContent.heading.removePrefix("– ").removePrefix("• "))
-                } else {
-                    CentralContent( "", listOf(centralContent.heading.removePrefix("- ").removePrefix("• ")))
-                }
-            } else {
-                if (lastCentralContent != null) {
-                    result.add(lastCentralContent!!)
-                }
-                centralContent
-            }
-        }
-        if (lastCentralContent != null) {
-            result.add(lastCentralContent!!)
-        }
-        return result
-    }
-
 }
 
