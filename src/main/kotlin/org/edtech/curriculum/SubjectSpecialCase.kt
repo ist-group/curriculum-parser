@@ -7,7 +7,8 @@ package org.edtech.curriculum
  */
 class SubjectSpecialCase(private val subjectHtml: SubjectHtml, private val schoolType: SchoolType) {
     fun getSubjectsWithAppliedSpecialCases(): Map<SubjectCategory?, SubjectHtml> {
-        val subjectCategories = getSubjectCategories()
+        val subjectCategories = getSubjectCategories(subjectHtml)
+                .mapValues { (_, subjectHtml) -> addKnowledgeRequirementsToLowerYears(subjectHtml) }
 
         // Skolverket delivers incorrect data for the GR courses so we need to adjust the year spans
         if (schoolType == SchoolType.GRSPEC) {
@@ -21,6 +22,34 @@ class SubjectSpecialCase(private val subjectHtml: SubjectHtml, private val schoo
             }.toMap()
         }
         return subjectCategories
+    }
+
+    /**
+     * Some subjects in the lower years do not have any requirements
+     * Here we use the E level as the requirement for G level
+     * Copy from
+     * 6 to 3 (GR, GRS) or
+     * 7 to 4 (GRSPEC)
+     *
+     */
+    private fun addKnowledgeRequirementsToLowerYears(subjectHtml: SubjectHtml): SubjectHtml {
+        if (schoolType == SchoolType.GR || schoolType == SchoolType.GRS || schoolType == SchoolType.GRSPEC) {
+            return subjectHtml.copy(courses = subjectHtml.courses.map { courseHtml ->
+                if ((courseHtml.year.endsWith("3") || courseHtml.year.endsWith("4")) && courseHtml.knowledgeRequirementGroups.isEmpty()) {
+                    courseHtml.copy(knowledgeRequirementGroups = subjectHtml.courses
+                            .firstOrNull { it.year.endsWith("6") || it.year.endsWith("7")}
+                            ?.knowledgeRequirementGroups
+                            ?.asSequence()
+                            ?.map { it.copy(knowledgeRequirements = mapOf(GradeStep.G to it.knowledgeRequirements.getOrDefault(GradeStep.E, ""))) }
+                            ?.toList()
+                            ?: listOf()
+                    )
+                } else{
+                  courseHtml
+                }
+            })
+        }
+        return subjectHtml
     }
 
     /**
@@ -92,7 +121,7 @@ class SubjectSpecialCase(private val subjectHtml: SubjectHtml, private val schoo
      * WITHIN_LANGUAGE_CHOICE_CHINESE,
      * WITHIN_STUDENT_CHOICE_CHINESE,
      */
-    private fun getSubjectCategories(): Map<SubjectCategory?, SubjectHtml> =
+    private fun getSubjectCategories(subjectHtml: SubjectHtml): Map<SubjectCategory?, SubjectHtml> =
             when (subjectHtml.code) {
                 // Moderna språk
                 "GRGRMSP01" -> mapOf(
