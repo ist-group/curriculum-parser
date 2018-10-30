@@ -100,6 +100,81 @@ internal class CentralContentConverterTest {
                         "    </ul>\n" +
                         "</div>")
         )
+
+        assertEquals(
+                listOf( CentralContent("I årskurs 1–3", listOf()),
+                                CentralContent("Tala, lyssna och samtala", listOf(
+                                        "Hur man kan använda omskrivningar och visuell förstärkning, till exempel bilder och tecken, för att förstå och göra sig förstådd.",
+                                        "Kommunikation för olika syften. Lyssna, svara, fråga, berätta samt uttrycka önskemål och känslor.",
+                                        "Kommunikations- och samtalsregler. Turtagning och talutrymme.",
+                                        "Hur man genomför presentationer inför en eller flera personer. Bilder och annat som kan stödja presentationer.")),
+                                CentralContent("Läsa och skriva", listOf(
+                                        "Lässtrategier för att avkoda och förstå ord och elevnära texter.",
+                                        "Ordbilder i närmiljön samt utifrån elevens erfarenhet och intresse.",
+                                        "Strategier för att skriva olika typer av texter, till exempel meddelanden.",
+                                        "Alfabetet och sambandet mellan ljud och bokstav.",
+                                        "Skriftspråkets uppbyggnad. Mellanrum mellan ord, stor bokstav och punkt.",
+                                        "Skrivverktyg. Hur till exempel ordbehandlingsprogram med bildstöd och talsyntes kan användas när man skriver.",
+                                        "Handstil och att skriva med digitala verktyg.")
+                                ),
+                                CentralContent("Berättande texter och faktatexter", listOf(
+                                        "Berättande texter och poetiska texter för barn: rim, ramsor, sånger, bilderböcker och sagor.",
+                                        "Beskrivande och förklarande texter för barn, till exempel faktatexter.",
+                                        "Instruerande texter, till exempel arbetsbeskrivningar.",
+                                        "Texter som kombinerar ord och bild, till exempel film, spel och webbtexter för barn.",
+                                        "Texter i digitala miljöer för barn, till exempel texter med länkar och andra interaktiva funktioner.")),
+                                CentralContent("Språkbruk", listOf(
+                                        "Språkliga strategier för att minnas och lära, till exempel ramsor och sånger.",
+                                        "Skillnader i språkanvändning beroende på vem man kommunicerar med.",
+                                        "Ord, symboler, begrepp och kroppsspråk som används för att uttrycka känslor, kunskaper och åsikter.",
+                                        "Språkbruk samt möjligheter och risker vid egen kommunikation i digitala medier.")),
+                                CentralContent("Informationssökning och källkritik", listOf("Informationssökning i elevnära källor.")),
+                                CentralContent("",  listOf("Hur texters avsändare påverkar innehållet, till exempel i reklam."))
+                ),
+                CentralContentConverter().getCentralContents(
+                        """<h3>I årskurs 1&ndash;3</h3>
+                            |<div>
+                            |<h4>Tala, lyssna och samtala</h4>
+                            |<ul>
+                                |<li>Hur man kan använda omskrivningar och visuell förstärkning, till exempel bilder och tecken, för att förstå och göra sig förstådd.</li>
+                                |<li>Kommunikation för olika syften. Lyssna, svara, fråga, berätta samt uttrycka önskemål och känslor.</li>
+                                |<li>Kommunikations- och samtalsregler. Turtagning och talutrymme.</li>
+                                |<li>Hur man genomför presentationer inför en eller flera personer. Bilder och annat som kan stödja presentationer.</li>
+                            |</ul>
+                            |<h4>Läsa och skriva</h4>
+                            |<ul>
+                                |<li>Lässtrategier för att avkoda och förstå ord och elevnära texter.</li>
+                                |<li>Ordbilder i närmiljön samt utifrån elevens erfarenhet och intresse.</li>
+                                |<li>Strategier för att skriva olika typer av texter, till exempel meddelanden.</li>
+                                |<li>Alfabetet och sambandet mellan ljud och bokstav.</li>
+                                |<li>Skriftspråkets uppbyggnad. Mellanrum mellan ord, stor bokstav och punkt.</li>
+                                |<li>Skrivverktyg. Hur till exempel ordbehandlingsprogram med bildstöd och talsyntes kan användas när man skriver.</li>
+                                |<li>Handstil och att skriva med digitala verktyg.</li>
+                            |</ul>
+                            |<h4>Berättande texter och faktatexter</h4>
+                            |<ul>
+                                |<li>Berättande texter och poetiska texter för barn: rim, ramsor, sånger, bilderböcker och sagor.</li>
+                                |<li>Beskrivande och förklarande texter för barn, till exempel faktatexter.</li>
+                                |<li>Instruerande texter, till exempel arbetsbeskrivningar.</li>
+                                |<li>Texter som kombinerar ord och bild, till exempel film, spel och webbtexter för barn.</li>
+                                |<li>Texter i digitala miljöer för barn, till exempel texter med länkar och andra interaktiva funktioner.</li>
+                            |</ul>
+                            |<h4>Språkbruk</h4>
+                            |<ul>
+                                |<li>Språkliga strategier för att minnas och lära, till exempel ramsor och sånger.</li>
+                                |<li>Skillnader i språkanvändning beroende på vem man kommunicerar med.</li>
+                                |<li>Ord, symboler, begrepp och kroppsspråk som används för att uttrycka känslor, kunskaper och åsikter.</li>
+                                |<li>Språkbruk samt möjligheter och risker vid egen kommunikation i digitala medier.</li>
+                            |</ul>
+                            |<h4>Informationssökning och källkritik</h4>
+                            |<ul>
+                                |<li>Informationssökning i elevnära källor.</li>
+                            |</ul>
+                            |</div>
+                            |<ul>
+                                |<li>Hur texters avsändare påverkar innehållet, till exempel i reklam.</li>
+                            |</ul>""".trimMargin())
+        )
     }
 
     @Test
