@@ -161,14 +161,14 @@ class SubjectSpecialCase(private val subjectHtml: SubjectHtml, private val schoo
                 // Teckenspråk för hörande
                 "GRGRTSP01" -> mapOf(
                         SubjectCategory.WITHIN_STUDENT_CHOICE to subjectHtml.copy(
-                                designation = "TN1",
+                                designation = "M1TN",
                                 name = subjectHtml.name + " inom ramen för elevens val",
-                                code = subjectHtml.code + "1",
+                                code = subjectHtml.code + "-M1",
                                 courses = subjectHtml.courses.filter { it.category == "WITHIN_STUDENT_CHOICE" }),
                         SubjectCategory.WITHIN_LANGUAGE_CHOICE to subjectHtml.copy(
-                                designation = "TN2",
+                                designation = "M2TN",
                                 name = subjectHtml.name + " inom ramen för språkval",
-                                code = subjectHtml.code + "2",
+                                code = subjectHtml.code + "-M2",
                                 courses = subjectHtml.courses.filter { it.category == "WITHIN_LANGUAGE_CHOICE" })
                 )
                 // Modersmål - finska som nationellt minoritetsspråk
