@@ -66,10 +66,12 @@ internal fun fixDescriptions(text: String) : String {
 internal fun convertDashListToList(stringHtml: String): String {
     var listElement: Element? = null
     val fragment =  Jsoup.parseBodyFragment(stringHtml)
+    val specialDelimitersRegex = Regex("(?=[◾|•])")
+    val removePartsRegex = Regex("([◾|•]|<br[ /]*>$)")
     fragment.body().children()
         .forEach {
-            if (it.tagName() == "p" && it.text().matches( Regex("^(\\d+\\.|[^A-zåäöÅÄÖ] ).*")))  {
-                val liTag = Element("li").html( it.html().replace(Regex("^(\\d+\\.|[^A-zåäöÅÄÖ] )\\s*"), ""))
+            if (it.tagName() == "p" && it.text().matches( Regex("^(\\d+\\.|[^A-zåäöÅÄÖ] ).*"))) {
+                val liTag = Element("li").html(it.html().replace(Regex("^(\\d+\\.|[^A-zåäöÅÄÖ] )\\s*"), ""))
                 if (listElement == null) {
                     listElement = Element("ul").appendChild(liTag)
                     it.replaceWith(listElement)
@@ -77,6 +79,33 @@ internal fun convertDashListToList(stringHtml: String): String {
                     listElement?.appendChild(liTag)
                     it.remove()
                 }
+            // Special Case where all lines resides in the same paragraph, just delimited with ◾ or • and a line break.
+            } else if (it.tagName() == "p" && it.text().contains(specialDelimitersRegex)) {
+                val lines = it.html().split(specialDelimitersRegex)
+
+                // Create a new paragraph with the list extracted from the contents
+                val newParagraph = Element("p")
+                for(line in lines) {
+                    if (line.contains(specialDelimitersRegex)) {
+                        if (listElement == null) {
+                            listElement = Element("ul")
+                            newParagraph.appendChild(listElement)
+                        }
+                        //add a new line to the list.
+                        listElement?.appendChild(
+                                    Element("li").html(
+                                        line.replace(removePartsRegex, "")
+                                    )
+                                )
+                    } else {
+                        // Add as text line to the paragraph
+                        newParagraph.appendText(line.replace(removePartsRegex, ""))
+                        listElement = null
+                    }
+                }
+                // Replace the old node with the new one
+                it.replaceWith(newParagraph)
+                listElement = null
             } else {
                 listElement = null
             }
