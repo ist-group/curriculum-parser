@@ -34,20 +34,34 @@ class SubjectSpecialCase(private val subjectHtml: SubjectHtml, private val schoo
      */
     private fun addKnowledgeRequirementsToLowerYears(subjectHtml: SubjectHtml): SubjectHtml {
         if (schoolType == SchoolType.GR || schoolType == SchoolType.GRS || schoolType == SchoolType.GRSPEC) {
-            return subjectHtml.copy(courses = subjectHtml.courses.map { courseHtml ->
-                if ((courseHtml.year.endsWith("3") || courseHtml.year.endsWith("4")) && courseHtml.knowledgeRequirementGroups.isEmpty()) {
-                    courseHtml.copy(knowledgeRequirementGroups = subjectHtml.courses
-                            .firstOrNull { it.year.endsWith("6") || it.year.endsWith("7")}
-                            ?.knowledgeRequirementGroups
-                            ?.asSequence()
-                            ?.map { it.copy(knowledgeRequirements = mapOf(GradeStep.G to it.knowledgeRequirements.getOrDefault(GradeStep.E, ""))) }
-                            ?.toList()
-                            ?: listOf()
-                    )
-                } else{
-                  courseHtml
-                }
-            })
+            if (subjectHtml.typeOfSyllabus == SyllabusType.SUBJECT_AREA_SYLLABUS) {
+                return subjectHtml.copy(courses = subjectHtml.courses.map { courseHtml ->
+                    if (courseHtml.knowledgeRequirementGroups.isEmpty()) {
+                        courseHtml.copy(knowledgeRequirementGroups = subjectHtml.courses
+                                .firstOrNull { it.knowledgeRequirementGroups.isNotEmpty() }
+                                ?.knowledgeRequirementGroups
+                                ?: listOf()
+                        )
+                    } else{
+                        courseHtml
+                    }
+                })
+            } else {
+                return subjectHtml.copy(courses = subjectHtml.courses.map { courseHtml ->
+                    if ((courseHtml.year.endsWith("3") || courseHtml.year.endsWith("4")) && courseHtml.knowledgeRequirementGroups.isEmpty()) {
+                        courseHtml.copy(knowledgeRequirementGroups = subjectHtml.courses
+                                .firstOrNull { it.year.endsWith("6") || it.year.endsWith("7")}
+                                ?.knowledgeRequirementGroups
+                                ?.asSequence()
+                                ?.map { it.copy(knowledgeRequirements = mapOf(GradeStep.G to it.knowledgeRequirements.getOrDefault(GradeStep.E, ""))) }
+                                ?.toList()
+                                ?: listOf()
+                        )
+                    } else{
+                        courseHtml
+                    }
+                })
+            }
         }
         return subjectHtml
     }
