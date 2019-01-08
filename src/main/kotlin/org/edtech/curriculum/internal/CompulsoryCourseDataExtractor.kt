@@ -41,19 +41,38 @@ class CompulsoryCourseDataExtractor(private val subjectDocument: Document): Cour
         }
     }
 
-    internal fun getCoursesConditions(): Set<CourseCondition> =
-            subjectDocument.select("centralContent")
-                    .map { CourseCondition(
-                            it.select("year").text(),
-                            it.select("typeOfCentralContent").text())
-                    }
+    /**
+     * Extracts yeargroups and types from the central contents
+     *
+     * Some subjects have knowledgeRequirements that do not match any central content.
+     * If so we build new conditions from the types of knowledgeRequirements with the types from the Central Content.
+     */
+    internal fun getCoursesConditions(): Set<CourseCondition>  {
+        val conditions = subjectDocument.select("centralContent")
+                .map { CourseCondition(
+                        it.select("year").text(),
+                        it.select("typeOfCentralContent").text())
+                }
+                .toSet()
+        // If we had no types in the central contents, get types from the knowledgeRequirements
+        if (conditions.map{ it.type }.none { it != "" }) {
+            val knowledgeRequirementTypes = subjectDocument.select("knowledgeRequirement")
+                    .filter { it.select("gradeStep").isNotEmpty() }
+                    .map { it.select("typeOfRequirement").text() }
                     .toSet()
+            // If there is types in the knowledge requirements merge with the original conditions.
+            if (knowledgeRequirementTypes.any{ it != ""}) {
+                return conditions.flatMap { cc -> knowledgeRequirementTypes.map { CourseCondition(cc.year, it) } }.toSet()
+            }
+        }
+        return conditions
+    }
 
     internal fun getKnowledgeRequirements(range: IntRange, type: String): List<RequirementGroup> {
         fun extractGradeStep(element: Element): GradeStep {
             val gradeStep = element.select("gradeStep").text()
             val typeOfRequirement = element.select("typeOfRequirement").text()
-            // Pick gradeStep if supplied otherwhise pick the typeOfRequirement
+            // Pick gradeStep if supplied otherwise pick the typeOfRequirement
             // Type of requirement is used in GRS in the same way as gradeStep.
             val gradeStepCombined = if (gradeStep.isEmpty()) typeOfRequirement else gradeStep
 

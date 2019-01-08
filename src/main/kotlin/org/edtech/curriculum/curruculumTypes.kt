@@ -43,7 +43,8 @@ enum class SubjectCategory(val title: String) {
     WITHIN_LANGUAGE_CHOICE_CHINESE("innom ramen för språkval kinesiska"),
     WITHIN_STUDENT_CHOICE_CHINESE("inom ramen för språkval, kinesiska"),
     FIRST_LANGUAGE("som förstaspråk"),
-    SECOND_LANGUAGE("som andraspråk")
+    SECOND_LANGUAGE("som andraspråk"),
+    SIGN_LANGUAGE_FOR_BEGINNERS("för nybörjare")
 }
 
 enum class AspectType {

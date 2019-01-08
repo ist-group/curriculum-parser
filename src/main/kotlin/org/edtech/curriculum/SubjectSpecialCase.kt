@@ -253,6 +253,21 @@ class SubjectSpecialCase(private val subjectHtml: SubjectHtml, private val schoo
                                 })
                 )
 
+                "GRSPTSP01" -> mapOf(
+                        null to subjectHtml.copy(
+                                designation = "TN",
+                                courses = subjectHtml.courses.filter {
+                                    it.category == ""
+                                }),
+                        SubjectCategory.SIGN_LANGUAGE_FOR_BEGINNERS to subjectHtml.copy(
+                                designation = "TN-NY",
+                                name = subjectHtml.name + " för nybörjare",
+                                code = subjectHtml.code + "-NY",
+                                courses = subjectHtml.courses.filter {
+                                    it.category == SubjectCategory.SIGN_LANGUAGE_FOR_BEGINNERS.name
+                                })
+                )
+
                 else -> if (subjectHtml.designation.isNotEmpty())
                     mapOf<SubjectCategory?, SubjectHtml>(null to subjectHtml)
                 else
