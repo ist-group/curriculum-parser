@@ -15,17 +15,21 @@ class SkolverketFileArchiveTest {
             val sf = SkolverketFileArchive(File(dataDir, schoolType.filename))
             assertTrue(sf.archiveExists(), "${schoolType.filename} does not exist")
             assertEquals(expectedNumberOfXMLFiles(schoolType),
-                    sf.getFileStreams(".xml").size, "${schoolType.filename} does not contain expected number of xml-files")
+                    sf.getFileStreams(schoolType.archivePath).size, "${schoolType.filename } -> ${schoolType.name}  does not contain expected number of xml-files")
             assertTrue(sf.fileExists(schoolType.archivePath), "${schoolType.archivePath} does not exist in ${schoolType.filename}")
         }
     }
 
     private fun expectedNumberOfXMLFiles(schoolType: SchoolType): Int {
         return when (schoolType) {
-            SchoolType.GR, SchoolType.GRS, SchoolType.GRSAM, SchoolType.GRSPEC -> 111
-            SchoolType.GY -> 321
-            SchoolType.VUXGR -> 16
-            SchoolType.GYS -> 91
+            SchoolType.GR -> 25
+            SchoolType.GRS -> 23
+            SchoolType.GRSAM -> 25
+            SchoolType.GRSPEC -> 34
+            SchoolType.GY -> 294
+            SchoolType.VUXGR -> 15
+            SchoolType.GYS -> 74
+            SchoolType.GYS_SUBJECT_AREA -> 6
             //SchoolType.SFI -> 2
         }
     }

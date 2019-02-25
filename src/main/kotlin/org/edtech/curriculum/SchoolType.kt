@@ -20,11 +20,15 @@ enum class SchoolType(val filename: String, val archivePath: String) {
     /** https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan */
     GY("syllabus.tgz", "gyP1_7_S1_4/subject/"),
 
-    /** https://www.skolverket.se/undervisning/laroplaner-amnen-och-kurser/gymnasieutbildning */
+    /** https://www.skolverket.se/undervisning/gymnasiesarskolan/laroplan-program-och-amnen-i-gymnasiesarskolan */
     GYS("gys.tgz", "gysP1_7_S1_4/subject/"),
+
+    /** https://www.skolverket.se/undervisning/gymnasiesarskolan/laroplan-program-och-amnen-i-gymnasiesarskolan */
+    GYS_SUBJECT_AREA("gys.tgz", "gysP1_7_S1_4/subjectArea/"),
 
     /** https://www.skolverket.se/undervisning/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/grundlaggande */
     VUXGR("vuxgr.tgz", "vuxgrP1_7_S1_4/subject/");
+
 
     /** https://www.skolverket.se/undervisning/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/sfi */
     // SFI is not supported yet
