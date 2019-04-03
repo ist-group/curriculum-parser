@@ -14,8 +14,20 @@ enum class SchoolType(val filename: String, val archivePath: String) {
     /** https://www.skolverket.se/undervisning/grundsarskolan/laroplan-och-kursplaner-for-grundsarskolan */
     GRS("compulsory.tgz", "compulsory/subject-compulsory-S2_0/grundsarskolan/"),
 
-    /** https://www.skolverket.se/undervisning/specialskolan/laroplan-och-kursplaner-i-specialskolan */
+    /** https://www.skolverket.se/undervisning/specialskolan/laroplan-och-kursplaner-i-specialskolan
+     * Subjects specific for special school
+     */
+    SPEC("compulsory.tgz", "compulsory/subject-compulsory-S2_0/specialskolan/"),
+
+    /** https://www.skolverket.se/undervisning/specialskolan/laroplan-och-kursplaner-i-specialskolan
+     * The GR subjects with altered year groups
+     */
     GRSPEC("compulsory.tgz", "compulsory/subject-compulsory-S2_0/specialskolan/"),
+
+    /** https://www.skolverket.se/undervisning/specialskolan/laroplan-och-kursplaner-i-specialskolan
+     * The GRS subjects with altered year groups
+     */
+    GRSSPEC("compulsory.tgz", "compulsory/subject-compulsory-S2_0/grundsarskolan/"),
 
     /** https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan */
     GY("syllabus.tgz", "gyP1_7_S1_4/subject/"),

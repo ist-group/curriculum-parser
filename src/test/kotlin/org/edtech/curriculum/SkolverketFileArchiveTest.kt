@@ -31,6 +31,8 @@ class SkolverketFileArchiveTest {
             SchoolType.GYS -> 74
             SchoolType.GYS_SUBJECT_AREA -> 6
             //SchoolType.SFI -> 2
+            SchoolType.SPEC -> 34
+            SchoolType.GRSSPEC -> 23
         }
     }
 }

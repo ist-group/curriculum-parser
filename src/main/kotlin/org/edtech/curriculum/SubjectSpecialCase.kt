@@ -4,24 +4,19 @@ package org.edtech.curriculum
  * This class contains all logic to alter skolverkets information to fix problems in the structure
  * - Missing designations
  * - Splitting Moderna Språk in to separate subjects
+ * - Adjust yearspans in GR/GRS SPEC
  */
 class SubjectSpecialCase(private val subjectHtml: SubjectHtml, private val schoolType: SchoolType) {
     fun getSubjectsWithAppliedSpecialCases(): Map<SubjectCategory?, SubjectHtml> {
-        val subjectCategories = getSubjectCategories(subjectHtml)
-                .mapValues { (_, subjectHtml) -> addKnowledgeRequirementsToLowerYears(subjectHtml) }
+        var subjectHtmlInstance = subjectHtml
+        if (schoolType == SchoolType.GR || schoolType == SchoolType.GRS || schoolType == SchoolType.GRSPEC || schoolType == SchoolType.SPEC || schoolType == SchoolType.GRSSPEC || schoolType == SchoolType.GRSAM) {
+            subjectHtmlInstance = addKnowledgeRequirementsToLowerYears(subjectHtmlInstance)
 
-        // Skolverket delivers incorrect data for the GR courses so we need to adjust the year spans
-        if (schoolType == SchoolType.GRSPEC) {
-            return subjectCategories.map {
-                (category, subjectHtml) ->
-                if (subjectHtml.code.startsWith("GRGR")) {
-                    Pair(category, convertYearSpans(subjectHtml))
-                } else {
-                    Pair(category, subjectHtml)
-                }
-            }.toMap()
         }
-        return subjectCategories
+        if (schoolType == SchoolType.GRSPEC || schoolType == SchoolType.GRSSPEC) {
+            subjectHtmlInstance =  convertYearSpans(subjectHtmlInstance)
+        }
+        return getSubjectCategories(subjectHtmlInstance)
     }
 
     /**
@@ -29,61 +24,51 @@ class SubjectSpecialCase(private val subjectHtml: SubjectHtml, private val schoo
      * Here we use the E level as the requirement for G level
      * Copy from
      * 6 to 3 (GR, GRS) or
-     * 7 to 4 (GRSPEC)
+     * 7 to 4 (SPEC, GRSPEC)
      *
      */
     private fun addKnowledgeRequirementsToLowerYears(subjectHtml: SubjectHtml): SubjectHtml {
-        if (schoolType == SchoolType.GR || schoolType == SchoolType.GRS || schoolType == SchoolType.GRSPEC) {
-            if (subjectHtml.typeOfSyllabus == SyllabusType.SUBJECT_AREA_SYLLABUS) {
-                return subjectHtml.copy(courses = subjectHtml.courses.map { courseHtml ->
-                    if (courseHtml.knowledgeRequirementGroups.isEmpty()) {
-                        courseHtml.copy(knowledgeRequirementGroups = subjectHtml.courses
-                                .firstOrNull { it.knowledgeRequirementGroups.isNotEmpty() }
-                                ?.knowledgeRequirementGroups
-                                ?: listOf()
-                        )
-                    } else{
-                        courseHtml
-                    }
-                })
-            } else {
-                return subjectHtml.copy(courses = subjectHtml.courses.map { courseHtml ->
-                    if ((courseHtml.year.endsWith("3") || courseHtml.year.endsWith("4")) && courseHtml.knowledgeRequirementGroups.isEmpty()) {
-                        courseHtml.copy(knowledgeRequirementGroups = subjectHtml.courses
-                                .firstOrNull { it.year.endsWith("6") || it.year.endsWith("7")}
-                                ?.knowledgeRequirementGroups
-                                ?.asSequence()
-                                ?.map { it.copy(knowledgeRequirements = mapOf(GradeStep.G to it.knowledgeRequirements.getOrDefault(GradeStep.E, ""))) }
-                                ?.toList()
-                                ?: listOf()
-                        )
-                    } else{
-                        courseHtml
-                    }
-                })
-            }
-        }
-        return subjectHtml
+        if (subjectHtml.typeOfSyllabus == SyllabusType.SUBJECT_AREA_SYLLABUS)
+            return subjectHtml.copy(courses = subjectHtml.courses.map { courseHtml ->
+                if (courseHtml.knowledgeRequirementGroups.isEmpty()) {
+                    courseHtml.copy(knowledgeRequirementGroups = subjectHtml.courses
+                            .firstOrNull { it.knowledgeRequirementGroups.isNotEmpty() }
+                            ?.knowledgeRequirementGroups
+                            ?: listOf()
+                    )
+                } else {
+                    courseHtml
+                }
+            })
+        else
+            return subjectHtml.copy(courses = subjectHtml.courses.map { courseHtml ->
+                if ((courseHtml.year.endsWith("3") || courseHtml.year.endsWith("4")) && courseHtml.knowledgeRequirementGroups.isEmpty()) {
+                    courseHtml.copy(knowledgeRequirementGroups = subjectHtml.courses
+                            .firstOrNull { it.year.endsWith("6") || it.year.endsWith("7") }
+                            ?.knowledgeRequirementGroups
+                            ?.asSequence()
+                            ?.map { it.copy(knowledgeRequirements = mapOf(GradeStep.G to it.knowledgeRequirements.getOrDefault(GradeStep.E, ""))) }
+                            ?.toList()
+                            ?: listOf()
+                    )
+                } else {
+                    courseHtml
+                }
+            })
     }
 
     /**
      * Change the year spans to 1-4, 5-7, 8-10
      */
     private fun convertYearSpans(subjectHtml: SubjectHtml): SubjectHtml {
-        val code = subjectHtml.code.replace(Regex("^GRGR"), "SP")
         return subjectHtml.copy(
-                code = code,
                 courses = subjectHtml.courses.map {
-                    if (it.code.startsWith("GRGR")) {
-                        val year = alterYearGroup(it.year)
-                        it.copy(
-                                year = year,
-                                name = "Årskurs $year".trim(),
-                                code = "${code}_$year".trim()
-                        )
-                    } else {
-                        it
-                    }
+                    val year = alterYearGroup(it.year)
+                    it.copy(
+                            year = year,
+                            name = "Årskurs $year".trim(),
+                            code = "${subjectHtml.code}_$year".trim()
+                    )
                 }
         )
     }
