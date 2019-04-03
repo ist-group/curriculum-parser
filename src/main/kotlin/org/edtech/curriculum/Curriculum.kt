@@ -12,14 +12,12 @@ class Curriculum(
         archiveDir: File = File(System.getProperty("java.io.tmpdir")),
         cache: Boolean = true
 ) {
-    private val currentSkolverketFileArchive = schoolType.getFileArchive(archiveDir, cache)
-
-    val subjectHtml: List<SubjectHtml> = loadSubjectsHtml()
+    // Store a copy of the raw subject HTML data
+    val subjectHtml by lazy {
+        IndividualFiledSubjectDataExtractor(schoolType.getFileArchive(archiveDir, cache), schoolType).getSubjectData()
+    }
+    // Parse the HTML into a more refined structure
     val subjects by lazy {
         subjectHtml.flatMap { SubjectParser(schoolType).getSubject(it) }.toList()
-    }
-
-    private fun loadSubjectsHtml(): List<SubjectHtml> {
-        return IndividualFiledSubjectDataExtractor(currentSkolverketFileArchive, schoolType).getSubjectData()
     }
 }

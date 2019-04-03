@@ -27,11 +27,7 @@ class CurriculumTest {
      * No gradelevel => has requirements
      */
     private fun hasRequirements(year: String, schoolType: SchoolType): Boolean {
-        return (year.isEmpty() || year.contains("6") && schoolType != SchoolType.GRS || year.contains("9"))
-    }
-
-    private fun hasRequirements(yearGroup: YearGroup?, schoolType: SchoolType): Boolean {
-        return (yearGroup == null || yearGroup.end == 6 && schoolType != SchoolType.GRS || yearGroup.end == 9)
+        return (year.isEmpty() || year.contains("6") &&  (schoolType != SchoolType.GRS && schoolType != SchoolType.GRSSPEC) || year.contains("9"))
     }
 
     private fun testGetSubjectsHtml(schoolType: SchoolType) {
@@ -151,9 +147,7 @@ class CurriculumTest {
 
                         subject.courses.forEach { course ->
                             testCentralContent("${course.code}/${course.name}", course.centralContent)
-                            if (hasRequirements(course.year, schoolType)) {
-                                assertTrue(course.knowledgeRequirementParagraphs.isNotEmpty(), "${course.code}/${course.name} has no knowledgeRequirements")
-                            }
+                            assertTrue(course.knowledgeRequirementParagraphs.isNotEmpty(), "${course.code}/${course.name} has no knowledgeRequirements")
                             assertTrue(course.code.isNotEmpty(), "${course.code}/${course.name} has no code")
                             assertTrue(course.name.isNotEmpty(), "${course.code}/${course.name} has no name")
                             // Only check real courses
