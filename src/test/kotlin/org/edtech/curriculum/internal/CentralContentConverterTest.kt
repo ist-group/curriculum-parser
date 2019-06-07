@@ -100,6 +100,31 @@ internal class CentralContentConverterTest {
                         "    </ul>\n" +
                         "</div>")
         )
+        assertEquals(
+                listOf(
+                        CentralContent("I årskurs 1–3", listOf()),
+                        CentralContent("Bildframställning", listOf(
+                                "Framställning av berättande bilder, till exempel sagobilder.",
+                                "Teckning, måleri och modellering.",
+                                "Presentation av eget bildskapande."
+                        )),
+                        CentralContent("Redskap för bildframställning", listOf(
+                                "Några verktyg och tekniker för bildframställning."))
+                ),
+                CentralContentConverter().getCentralContents("<h3>I årskurs 1&ndash;3</h3>\n" +
+                        "<h4>Bildframställning</h4>\n" +
+                        "<div>\n" +
+                        "    <ul>\n" +
+                        "        <li>Framställning av berättande bilder, till exempel sagobilder.</li>\n" +
+                        "        <li>Teckning, måleri och modellering.</li>\n" +
+                        "        <li>Presentation av eget bildskapande.</li>\n" +
+                        "    </ul>\n" +
+                        "    <h4>Redskap för bildframställning</h4>\n" +
+                        "    <ul>\n" +
+                        "        <li>Några verktyg och tekniker för bildframställning.</li>\n" +
+                        "    </ul>\n" +
+                        "</div>")
+        )
 
         assertEquals(
                 listOf( CentralContent("I årskurs 1–3", listOf()),

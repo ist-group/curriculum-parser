@@ -18,16 +18,21 @@ class CentralContentConverter {
                         it.remove()
                     }
                 }
+        // Replace divs with their content.
+        fragment.select("body > div").forEach {
+            it.parent().insertChildren(it.siblingIndex(), it.children())
+            it.remove()
+        }
+
         return fragment
                 .select("body > *:not(:empty)")
-                .flatMap { if (it.tagName() == "div") it.children() else listOf(it) }
-                .mapNotNull {
-                    if (it.tagName() == "ul") {
-                        val lines = it.children()
+                .mapNotNull {element ->
+                    if (element.tagName() == "ul") {
+                        val lines = element.children()
                                 .map { it.text().trim() }
                                 .filter { it.isNotBlank() }
-                        val heading = if (it.previousElementSibling()?.tagName() != "div") {
-                            it.previousElementSibling()?.text()?.trim() ?: ""
+                        val heading = if (element.previousElementSibling()?.tagName() != "div" && element.previousElementSibling()?.tagName() != "ul") {
+                            element.previousElementSibling()?.text()?.trim() ?: ""
                         } else {
                             ""
                         }
@@ -36,10 +41,10 @@ class CentralContentConverter {
                     } else {
                         // Just a heading
                         when {
-                            it.nextElementSibling()?.tagName() == "ul" -> null
-                            it.text().trim().isNotEmpty() ->
+                            element.nextElementSibling()?.tagName() == "ul" -> null
+                            element.text().trim().isNotEmpty() ->
                                 // Heading before
-                                CentralContent(it.text().trim(), listOf())
+                                CentralContent(element.text().trim(), listOf())
                             else -> null
                         }
                     }
