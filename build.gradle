@@ -1,54 +1,35 @@
-buildscript {
-    ext {
-        kotlinVersion = '1.3.10'
-    }
-    repositories {
-        jcenter()
-        mavenCentral()
-        mavenLocal()
-    }
-    dependencies {
-        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:${kotlinVersion}")
-        classpath("org.jetbrains.kotlin:kotlin-allopen:${kotlinVersion}")
-        classpath("org.jetbrains.dokka:dokka-gradle-plugin:0.9.16")
-        classpath("org.jsoup:jsoup:1.11.2")
-        classpath("org.apache.commons:commons-compress:1.16.1")
-    }
+plugins {
+    id "org.jetbrains.kotlin.jvm" version "1.3.31"
+    id "org.jetbrains.dokka" version "0.9.18"
+    id 'maven-publish'
 }
-apply plugin: 'kotlin'
-apply plugin: 'org.jetbrains.dokka'
-apply plugin: 'maven-publish'
 
 group = "com.github.stefan-jonasson"
-version = "0.5.4"
+version = "0.7.1"
 sourceCompatibility = 1.8
-
-compileKotlin {
-    kotlinOptions.jvmTarget = "1.8"
-    kotlinOptions.noStdlib = false
-}
-compileTestKotlin {
-    kotlinOptions.jvmTarget = "1.8"
-}
 
 repositories {
     jcenter()
     mavenCentral()
     mavenLocal()
 }
+
 dependencies {
-    compile("org.jetbrains.kotlin:kotlin-stdlib-jdk8:${kotlinVersion}")
-    compile("org.jetbrains.kotlin:kotlin-reflect:${kotlinVersion}")
-    compile("org.jsoup:jsoup:1.11.2")
-    compile("org.apache.commons:commons-compress:1.16.1")
-    compile("com.fasterxml.jackson.module:jackson-module-kotlin:2.9.+")
-    compile("com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.8.10")
-    testCompile("org.junit.jupiter:junit-jupiter-engine:5.2.0")
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
+    implementation "org.jetbrains.kotlin:kotlin-reflect"
+    implementation "org.jsoup:jsoup:1.11.2"
+    implementation "org.apache.commons:commons-compress:1.16.1"
+    implementation "com.fasterxml.jackson.module:jackson-module-kotlin:2.9.9"
+    implementation "com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.9"
+    testImplementation "org.junit.jupiter:junit-jupiter-api:5.4.2"
+    testRuntime "org.junit.jupiter:junit-jupiter-engine:5.4.2"
 }
+
 dokka {
     outputFormat = 'html'
     outputDirectory = "$buildDir/javadoc"
 }
+
 publishing {
     publications {
         mavenJava(MavenPublication) {
@@ -60,4 +41,8 @@ publishing {
             url = uri("$buildDir/repository")
         }
     }
+}
+
+test {
+    useJUnitPlatform()
 }
