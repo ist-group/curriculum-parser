@@ -53,6 +53,7 @@ class IndividualFiledSubjectDataExtractor(private val skolverketFileArchive: Sko
         return when (schoolType) {
             SchoolType.GY, SchoolType.GYS ->
                 UpperSecondaryCourseDataExtractor(openDataDocument).getCourseData()
+            SchoolType.SFI -> SFICourseDataExtractor(openDataDocument).getCourseData()
             SchoolType.VUXGR ->
                 VuxCourseDataExtractor(openDataDocument).getCourseData()
             SchoolType.GR, SchoolType.GRS, SchoolType.GRSPEC, SchoolType.GRSAM ->

@@ -72,7 +72,7 @@ class SubjectFileGenerator(private val destDir: File, private val archiveDir: Fi
 
             writeSubjectToFile(subject,  destDir.resolve("$schoolType/$subjectCode.json"))
         } else {
-            throw RuntimeException("ERROR: cannot find subject $String in curriculum $schoolType.")
+            throw RuntimeException("ERROR: cannot find subject $subjectCode in curriculum $schoolType.")
         }
     }
 

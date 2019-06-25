@@ -32,5 +32,8 @@ data class CourseHtml(
 
 data class RequirementGroup(
         val knowledgeRequirements: Map<GradeStep, String>,
-        val year:  Int? = null
+        val year:  Int? = null,
+        val title: String? = null,
+        val description: String? = null,
+        val aspectType: AspectType? = null
 )

@@ -104,7 +104,9 @@ data class CentralContent(
 data class KnowledgeRequirementParagraph(
         val heading: String,
         val knowledgeRequirements: List<KnowledgeRequirement>,
-        val year: Int? = null
+        val year: Int? = null,
+        val description: String? = null,
+        val aspectType: AspectType? = null
 )
 
 data class KnowledgeRequirement(

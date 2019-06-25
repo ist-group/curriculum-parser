@@ -14,24 +14,27 @@ class KnowledgeRequirementConverter {
         return knowledgeRequirementsGroupsHtml.flatMap { knowledgeRequirementsGroup ->
             val knowledgeRequirementsHtml = knowledgeRequirementsGroup.knowledgeRequirements
             val knowledgeRequirementResult =
-                if (knowledgeRequirementsHtml.size == 1 && knowledgeRequirementsHtml.containsKey(GradeStep.G)) {
-                    baseKnowledgeRequirements(knowledgeRequirementsHtml[GradeStep.G] ?: "", GradeStep.G)
-                } else if (knowledgeRequirementsHtml.containsKey(GradeStep.E)) {
-                    var knowledgeRequirements = baseKnowledgeRequirements(knowledgeRequirementsHtml[GradeStep.E] ?: "", GradeStep.E)
+                    if (knowledgeRequirementsHtml.size == 1 && knowledgeRequirementsHtml.containsKey(GradeStep.G)) {
+                        baseKnowledgeRequirements(knowledgeRequirementsHtml[GradeStep.G] ?: "", GradeStep.G)
+                    } else if (knowledgeRequirementsHtml.containsKey(GradeStep.E)) {
+                        var knowledgeRequirements = baseKnowledgeRequirements(knowledgeRequirementsHtml[GradeStep.E]
+                                ?: "", GradeStep.E)
 
-                    // Combine other levels into the existing structure
-                    for (gradeStep in listOf(GradeStep.C, GradeStep.A)) {
-                        knowledgeRequirements = addGradeStep(knowledgeRequirements,
-                                fixCurriculumErrors(knowledgeRequirementsHtml[gradeStep] ?: ""), gradeStep)
+                        // Combine other levels into the existing structure
+                        for (gradeStep in listOf(GradeStep.C, GradeStep.A)) {
+                            knowledgeRequirements = addGradeStep(knowledgeRequirements,
+                                    fixCurriculumErrors(knowledgeRequirementsHtml[gradeStep] ?: ""), gradeStep)
+                        }
+                        knowledgeRequirements
+                    } else if (knowledgeRequirementsHtml.containsKey(GradeStep.BASIC_REQUIREMENTS)) {
+                        // Add ADVANCED_REQUIREMENTS to BASIC_REQUIREMENTS
+                        addGradeStep(baseKnowledgeRequirements(knowledgeRequirementsHtml[GradeStep.BASIC_REQUIREMENTS]
+                                ?: "", GradeStep.BASIC_REQUIREMENTS),
+                                fixCurriculumErrors(knowledgeRequirementsHtml[GradeStep.ADVANCED_REQUIREMENTS]
+                                        ?: ""), GradeStep.ADVANCED_REQUIREMENTS)
+                    } else {
+                        throw Exception("Cannot parse KnowledgeRequirement with structure: " + knowledgeRequirementsHtml.keys)
                     }
-                    knowledgeRequirements
-                } else if (knowledgeRequirementsHtml.containsKey(GradeStep.BASIC_REQUIREMENTS)) {
-                    // Add ADVANCED_REQUIREMENTS to BASIC_REQUIREMENTS
-                    addGradeStep(baseKnowledgeRequirements(knowledgeRequirementsHtml[GradeStep.BASIC_REQUIREMENTS] ?: "", GradeStep.BASIC_REQUIREMENTS),
-                                fixCurriculumErrors(knowledgeRequirementsHtml[GradeStep.ADVANCED_REQUIREMENTS] ?: ""), GradeStep.ADVANCED_REQUIREMENTS)
-                } else {
-                    throw Exception("Cannot parse KnowledgeRequirement with structure: " + knowledgeRequirementsHtml.keys)
-                }
             structureParagraphs(knowledgeRequirementResult, knowledgeRequirementsGroup)
         }
     }
@@ -40,21 +43,35 @@ class KnowledgeRequirementConverter {
      * Return a list of paragraphs
      */
     private fun structureParagraphs(knowledgeRequirementList: List<KnowledgeRequirementData>, requirementGroup: RequirementGroup): List<KnowledgeRequirementParagraph> {
-        var paragraphNo = 0
-        val structuredRequirements = mutableListOf<KnowledgeRequirementParagraph>()
-        val requirementsInParagraph = mutableListOf<KnowledgeRequirement>()
-        for (kn in knowledgeRequirementList) {
-            if (kn.paragraphNo != paragraphNo) {
-                paragraphNo = kn.paragraphNo
-                structuredRequirements.add(KnowledgeRequirementParagraph("", requirementsInParagraph.toList(), requirementGroup.year))
-                requirementsInParagraph.clear()
+        if (requirementGroup.aspectType == null) {
+            var paragraphNo = 0
+            val structuredRequirements = mutableListOf<KnowledgeRequirementParagraph>()
+            val requirementsInParagraph = mutableListOf<KnowledgeRequirement>()
+            for (kn in knowledgeRequirementList) {
+                if (kn.paragraphNo != paragraphNo) {
+                    paragraphNo = kn.paragraphNo
+                    structuredRequirements.add(KnowledgeRequirementParagraph("", requirementsInParagraph.toList(), requirementGroup.year))
+                    requirementsInParagraph.clear()
+                }
+                requirementsInParagraph.add(KnowledgeRequirement(kn.text, kn.knowledgeRequirementChoice))
             }
-            requirementsInParagraph.add(KnowledgeRequirement(kn.text, kn.knowledgeRequirementChoice))
+            if (requirementsInParagraph.isNotEmpty()) {
+                structuredRequirements.add(KnowledgeRequirementParagraph("", requirementsInParagraph.toList(), requirementGroup.year))
+            }
+            return structuredRequirements
+        } else {
+            return listOf(
+                    KnowledgeRequirementParagraph(
+                            requirementGroup.title ?: "",
+                            knowledgeRequirementList.map { KnowledgeRequirement(it.text, it.knowledgeRequirementChoice) }.toList(),
+                            requirementGroup.year,
+                            if (requirementGroup.description != null) {
+                                fixDescriptions(requirementGroup.description)
+                            } else null,
+                            requirementGroup.aspectType
+                    )
+            )
         }
-        if (requirementsInParagraph.isNotEmpty()) {
-            structuredRequirements.add(KnowledgeRequirementParagraph("", requirementsInParagraph.toList(), requirementGroup.year))
-        }
-        return structuredRequirements
     }
 
     /**
@@ -107,7 +124,7 @@ class KnowledgeRequirementConverter {
     /**
      * Add new grade-step values to a list of knowledge requirements
      */
-    private fun addGradeStep(knowledgeRequirements: List<KnowledgeRequirementData>, html: String, gradeStep: GradeStep, lookahead: Int = 3 ): List<KnowledgeRequirementData> {
+    private fun addGradeStep(knowledgeRequirements: List<KnowledgeRequirementData>, html: String, gradeStep: GradeStep, lookahead: Int = 3): List<KnowledgeRequirementData> {
         // Prefer a match with the current line if they are too similar.
         val currentLineBias = 0.15
         val result = mutableListOf<KnowledgeRequirementData>()
@@ -137,42 +154,42 @@ class KnowledgeRequirementConverter {
                 val nextLineRatio = matchRatio(knowledgeRequirements.getOrNull(mappedLineNo + 1), line)
 
                 // Check of any future lines will match better
-                val bestLookaheadMatchRatio = ( 1..lookahead).map { offset ->
+                val bestLookaheadMatchRatio = (1..lookahead).map { offset ->
                     matchRatio(knowledgeRequirements[mappedLineNo], lines.getOrNull(index + offset))
                 }.max() ?: 0.0
 
 
                 // The line matches the next position better than any of the following lines we are about to map
                 // Should only happen when there is no requirement that matches this slot.
-               if (nextLineRatio > bestLookaheadMatchRatio && nextLineRatio > currentLineRatio) {
+                if (nextLineRatio > bestLookaheadMatchRatio && nextLineRatio > currentLineRatio) {
                     // Add an empty slot
                     result.add(addLevelToKnowledgeRequirement(knowledgeRequirements[mappedLineNo], gradeStep, ""))
                     // Add the line at the next slot
                     result.add(addLevelToKnowledgeRequirement(knowledgeRequirements[mappedLineNo + 1], gradeStep, line))
 
-                // The line matches the current position best
+                    // The line matches the current position best
                 } else if (currentLineRatio >= bestLookaheadMatchRatio) {
                     // Add a new result line
                     result.add(addLevelToKnowledgeRequirement(knowledgeRequirements[mappedLineNo], gradeStep, line))
 
-                // Future lines will match better
+                    // Future lines will match better
                 } else {
-                   if (lines.size > index + 1 && knowledgeRequirements.size > mappedLineNo + 1) {
-                       // Check if we need to reorder the lines
-                       val nextLineHereRatio = matchRatio(knowledgeRequirements[mappedLineNo], lines[index + 1])
-                       val thisLineNextRatio = matchRatio(knowledgeRequirements[mappedLineNo + 1], line)
+                    if (lines.size > index + 1 && knowledgeRequirements.size > mappedLineNo + 1) {
+                        // Check if we need to reorder the lines
+                        val nextLineHereRatio = matchRatio(knowledgeRequirements[mappedLineNo], lines[index + 1])
+                        val thisLineNextRatio = matchRatio(knowledgeRequirements[mappedLineNo + 1], line)
 
-                       // Switch current and next lines instead of merge with previous
-                       if (nextLineHereRatio  == 1.0 && thisLineNextRatio == 1.0 ) {
-                           // Add next line here
-                           result.add(addLevelToKnowledgeRequirement(knowledgeRequirements[mappedLineNo], gradeStep, lines[index + 1]))
-                           // Add the line at the next slot
-                           result.add(addLevelToKnowledgeRequirement(knowledgeRequirements[mappedLineNo + 1], gradeStep, line))
-                           // Next line is already taken care of so skip it!
-                           index += 2
-                           continue
-                       }
-                   }
+                        // Switch current and next lines instead of merge with previous
+                        if (nextLineHereRatio == 1.0 && thisLineNextRatio == 1.0) {
+                            // Add next line here
+                            result.add(addLevelToKnowledgeRequirement(knowledgeRequirements[mappedLineNo], gradeStep, lines[index + 1]))
+                            // Add the line at the next slot
+                            result.add(addLevelToKnowledgeRequirement(knowledgeRequirements[mappedLineNo + 1], gradeStep, line))
+                            // Next line is already taken care of so skip it!
+                            index += 2
+                            continue
+                        }
+                    }
 
                     //Add line to the last result
                     result[result.lastIndex] = addLevelToKnowledgeRequirement(result[result.lastIndex], gradeStep, line)
@@ -194,9 +211,9 @@ class KnowledgeRequirementConverter {
     }
 
     private data class KnowledgeRequirementData(
-        val text: String,
-        val no: Int,
-        val paragraphNo: Int,
-        val knowledgeRequirementChoice: Map<GradeStep, String>
+            val text: String,
+            val no: Int,
+            val paragraphNo: Int,
+            val knowledgeRequirementChoice: Map<GradeStep, String>
     )
 }

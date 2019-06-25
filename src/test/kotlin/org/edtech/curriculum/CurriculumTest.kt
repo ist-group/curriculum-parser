@@ -53,18 +53,20 @@ class CurriculumTest {
                             assertTrue(courseHtml.knowledgeRequirementGroups.isNotEmpty()) { "${courseHtml.code}/${courseHtml.name} has no knowledgeRequirements" }
                         }
                         assertAll(
-                                {assertTrue(courseHtml.centralContent.isNotEmpty()) { "${courseHtml.code}/${courseHtml.name} has no centralContents" } },
-                                {assertTrue(courseHtml.centralContent.contains(Regex("<li>|<p>–|<p>•"))) { "${courseHtml.code}/${courseHtml.name} has malformed centralContents:\n ${courseHtml.centralContent}" } },
+                                {assertTrue(schoolType == SchoolType.SFI || courseHtml.centralContent.isNotEmpty()) { "${courseHtml.code}/${courseHtml.name} has no centralContents" }},
+                                {assertTrue(schoolType == SchoolType.SFI || courseHtml.centralContent.contains(Regex("<li>|<p>–|<p>•"))) { "${courseHtml.code}/${courseHtml.name} has malformed centralContents:\n ${courseHtml.centralContent}" } },
                                 {assertTrue(courseHtml.code.isNotEmpty()) { "${courseHtml.code}/${courseHtml.name} has no code" } },
                                 {assertTrue(courseHtml.name.isNotEmpty()) { "${schoolType.name}/${subjectHtml.name} has no courses"} }
                         )
 
                         // Only check real courses
-                        if (courseHtml.year.isEmpty() ) {
-                            if (courseHtml.point.isEmpty()) {
-                                fail<Unit>("${courseHtml.code}/${courseHtml.name} has no points/year group")
+                        if (schoolType != SchoolType.SFI) {
+                            if (courseHtml.year.isEmpty() ) {
+                                if (courseHtml.point.isEmpty()) {
+                                    fail<Unit>("${courseHtml.code}/${courseHtml.name} has no points/year group")
+                                }
+                                assertTrue(courseHtml.description.isNotEmpty()) { "${courseHtml.code}/${courseHtml.name} has no description" }
                             }
-                            assertTrue(courseHtml.description.isNotEmpty()) { "${courseHtml.code}/${courseHtml.name} has no description" }
                         }
                     }
                 }
@@ -142,7 +144,9 @@ class CurriculumTest {
         dataDir.listFiles()
                 .filter{ it.isDirectory }
                 .forEach {
-                   Curriculum(schoolType, it).subjects.forEach { subject ->
+                    val subjectList =  Curriculum(schoolType, it).subjects
+                    assertTrue(subjectList.isNotEmpty(), "${schoolType.name} has no subjects")
+                    subjectList.forEach { subject ->
                         assertTrue(subject.name.isNotEmpty(), "${schoolType.name}/${subject.name} has no name")
                         assertTrue(subject.skolfsId.isNotEmpty(), "${schoolType.name}/${subject.name} has no skolfsId")
                         assertTrue(subject.code.isNotEmpty(), "${schoolType.name}/${subject.name} has no code")
@@ -150,22 +154,26 @@ class CurriculumTest {
                         testPurpose("${schoolType.name}/${subject.name}", subject.purposes)
 
                         subject.courses.forEach { course ->
-                            testCentralContent("${course.code}/${course.name}", course.centralContent)
+                            if (schoolType != SchoolType.SFI) {
+                                testCentralContent("${course.code}/${course.name}", course.centralContent)
+                            }
                             if (hasRequirements(course.year, schoolType)) {
                                 assertTrue(course.knowledgeRequirementParagraphs.isNotEmpty(), "${course.code}/${course.name} has no knowledgeRequirements")
                             }
                             assertTrue(course.code.isNotEmpty(), "${course.code}/${course.name} has no code")
                             assertTrue(course.name.isNotEmpty(), "${course.code}/${course.name} has no name")
                             // Only check real courses
-                            if (course.year == null) {
-                                if (course.point == null) {
-                                    fail<Unit>("${course.code}/${course.name} has no points/year group")
-                                }
-                                assertTrue(course.description.isNotEmpty(), "${course.code}/${course.name} has no description")
-                                if (course.point != null) {
-                                    assertTrue(course.point!! > 0, "${course.code}/${course.name} has no points")
-                                } else {
-                                    fail<Unit>("${course.code}/${course.name} has no points")
+                            if (schoolType != SchoolType.SFI) {
+                                if (course.year == null) {
+                                    if (course.point == null) {
+                                        fail<Unit>("${course.code}/${course.name} has no points/year group")
+                                    }
+                                    assertTrue(course.description.isNotEmpty(), "${course.code}/${course.name} has no description")
+                                    if (course.point != null) {
+                                        assertTrue(course.point!! > 0, "${course.code}/${course.name} has no points")
+                                    } else {
+                                        fail<Unit>("${course.code}/${course.name} has no points")
+                                    }
                                 }
                             }
                         }

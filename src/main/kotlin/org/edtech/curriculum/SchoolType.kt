@@ -18,17 +18,16 @@ enum class SchoolType(val filename: String, val archivePath: String) {
     GRSPEC("compulsory.tgz", "compulsory/subject-compulsory-S2_0/specialskolan/"),
 
     /** https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan */
-    GY("syllabus.tgz", "gyP1_7_S1_4/subject/"),
+    GY("syllabus.tgz", "subject/"),
 
     /** https://www.skolverket.se/undervisning/laroplaner-amnen-och-kurser/gymnasieutbildning */
-    GYS("gys.tgz", "gysP1_7_S1_4/subject/"),
+    GYS("gys.tgz", "subject/"),
 
     /** https://www.skolverket.se/undervisning/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/grundlaggande */
-    VUXGR("vuxgr.tgz", "vuxgrP1_7_S1_4/subject/");
+    VUXGR("vuxgr.tgz", "subject/"),
 
     /** https://www.skolverket.se/undervisning/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/sfi */
-    // SFI is not supported yet
-    // SFI("sfi.tgz", "sfiP1_7_S1_4/subject/");
+    SFI( "sfi.tgz", "subject/");
 
 
     private fun getDownloadFileStream(): InputStream {
