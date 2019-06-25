@@ -14,14 +14,13 @@ class SkolverketFileArchiveTest {
         DynamicTest.dynamicTest(schoolType.name) {
             val sf = SkolverketFileArchive(File(dataDir, schoolType.filename))
             assertTrue(sf.archiveExists(), "${schoolType.filename} does not exist")
-           assertEquals(expectedNumberOfSubjectStreams(schoolType),
-                    sf.getFileStreams(schoolType.archivePath).size, "${schoolType.filename} / $schoolType does not contain expected number of subject xml-files")
-
+            assertEquals(expectedNumberOfXMLFiles(schoolType),
+                    sf.getFileStreams(schoolType.archivePath).size, "${schoolType.filename } -> ${schoolType.name}  does not contain expected number of xml-files")
             assertTrue(sf.fileExists(schoolType.archivePath), "${schoolType.archivePath} does not exist in ${schoolType.filename}")
         }
     }
 
-    private fun expectedNumberOfSubjectStreams(schoolType: SchoolType): Int {
+    private fun expectedNumberOfXMLFiles(schoolType: SchoolType): Int {
         return when (schoolType) {
             SchoolType.GR -> 25
             SchoolType.GRS -> 23
@@ -30,7 +29,10 @@ class SkolverketFileArchiveTest {
             SchoolType.GY -> 294
             SchoolType.VUXGR -> 15
             SchoolType.GYS -> 74
+            SchoolType.GYS_SUBJECT_AREA -> 6
             SchoolType.SFI -> 1
+            SchoolType.SPEC -> 34
+            SchoolType.GRSSPEC -> 23
         }
     }
 }

@@ -13,7 +13,19 @@ class IndividualFiledSubjectDataExtractor(private val skolverketFileArchive: Sko
     override fun getSubjectData(): List<SubjectHtml> {
         return skolverketFileArchive.getFileStreams(schoolType.archivePath).map {
             getSubject(it)
-        }.toList()
+        }.toList().filter { filterBySpecSchoolType(it.code) }
+    }
+
+    /**
+     * Special school is a mix of special syllabuses together with the gr syllabuses
+     * This parser splits these into different types
+     */
+    private fun filterBySpecSchoolType (code: String): Boolean {
+        return when (schoolType) {
+            SchoolType.SPEC -> code.startsWith("GRSP")
+            SchoolType.GRSPEC -> code.startsWith("GRGR")
+            else -> true
+        }
     }
 
     private inline fun <reified T : kotlin.Enum<T>> valueOfOrNull(type: String?): T? {
@@ -53,10 +65,12 @@ class IndividualFiledSubjectDataExtractor(private val skolverketFileArchive: Sko
         return when (schoolType) {
             SchoolType.GY, SchoolType.GYS ->
                 UpperSecondaryCourseDataExtractor(openDataDocument).getCourseData()
+            SchoolType.GYS_SUBJECT_AREA ->
+                SubjectAreaDataExtractor(openDataDocument).getCourseData()
             SchoolType.SFI -> SFICourseDataExtractor(openDataDocument).getCourseData()
             SchoolType.VUXGR ->
                 VuxCourseDataExtractor(openDataDocument).getCourseData()
-            SchoolType.GR, SchoolType.GRS, SchoolType.GRSPEC, SchoolType.GRSAM ->
+            SchoolType.GR, SchoolType.GRS, SchoolType.GRSPEC, SchoolType.SPEC, SchoolType.GRSSPEC, SchoolType.GRSAM ->
                 CompulsoryCourseDataExtractor(openDataDocument).getCourseData()
         }
     }
