@@ -137,7 +137,17 @@ internal fun toYearGroup(year: String): YearGroup? {
  * Convert the Purpose html to Entities depending on tag type
  */
 internal fun toPurposes(html: String): List<Purpose> {
-    val fragment = Jsoup.parseBodyFragment(html.removePrefix("<div>").removeSuffix("</div>"))
+    val fragment = Jsoup.parseBodyFragment(html)
+    // Remove divs (by moving children to the parent node
+    fragment.select("div")
+            .forEach {
+                  if (it.childNodeSize() > 0) {
+                      if (it.hasParent()) {
+                          it.parent().insertChildren(it.elementSiblingIndex(), it.children())
+                      }
+                  }
+                  it.remove()
+              }
 
     // Some subjects do not have real paragraphs, convert <br> tags to <p></p>
     fragment.select("body > p")
@@ -155,6 +165,7 @@ internal fun toPurposes(html: String): List<Purpose> {
                     it.remove()
                 }
             }
+
     return fragment
             .select("body > p, body > ul, body > ol, body > h1, body > h2, body > h3, body > h4, body > h5, body > h6, body > i")
             .filter { it.text().isNotEmpty() }

@@ -314,5 +314,60 @@ internal class HtmlUtilsTest {
                 ),
                 toPurposes("<p>Undervisningen i ämnet matematik ska syfta till att eleverna utvecklar kunskaper om matematik och matematikens användning i vardagen. Den ska bidra till att eleverna utvecklar intresse för matematik och en tilltro till sin egen förmåga att använda matematik i olika sammanhang.</p><p>Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om grundläggande matematiska metoder och hur dessa kan användas för att besvara frågor i vardagliga situationer. Undervisningen ska också bidra till att eleverna får uppleva matematiken som en estetisk och kreativ aktivitet som kan användas vid problemlösning och matematiska undersökningar.</p><p>Undervisningen ska bidra till att eleverna utvecklar ett kritiskt förhållningssätt i situationer där det finns behov av att göra överväganden om matematisk rimlighet. Eleverna ska genom undervisningen ges möjligheter att utveckla kunskaper i att använda digital teknik för att undersöka problemställningar, göra beräkningar och för att presentera och tolka resultat.</p><p>Vidare ska undervisningen i matematik bidra till att eleverna utvecklar kunskaper om ämnesspecifika begrepp. På så sätt ska eleverna ges förutsättningar att samtala om matematik och presentera och utvärdera arbetsprocesser.</p><p>Genom undervisningen i ämnet matematik ska eleverna sammanfattningsvis ges förutsättningar att utveckla sin förmåga att<br/></p><ul> <li>lösa matematiska problem,</li> <li>använda matematiska metoder för att göra beräkningar och lösa rutinuppgifter,</li> <li>reflektera över rimlighet i situationer med matematisk anknytning, och</li> <li>använda ämnesspecifika ord, begrepp och symboler.</li> </ul><p></p>")
         )
+        assertEquals(
+                listOf(
+                        Purpose(PurposeType.PARAGRAPH,"", listOf(
+                                "Undervisningen i ämnet processteknik – kemi ska syfta till att eleverna utvecklar kunskaper om hur man identifierar och löser vanliga processtekniska problem genom att analysera tillgänglig information, använda olika metoder och lösningsstrategier samt implementera dessa."
+                        )),
+                        Purpose(PurposeType.PARAGRAPH,"", listOf(
+                                "Undervisningen ska leda till att eleverna utvecklar kunskaper om processtekniska system i kemisktekniska anläggningar samt om deras komponenter och metoder.",
+                                "Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper i utförande av vanligt förekommande arbetsuppgifter inom kemitekniska processer och förmåga att utvärdera resultatet."
+                        )),
+                        Purpose(PurposeType.PARAGRAPH, "", listOf(
+                                "Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta systematiskt och följa standarder och säkerhetsföreskrifter samt tar hänsyn till ställda kvalitetskrav.",
+                                "Vidare ska eleverna ges möjlighet att utveckla förmåga att arbeta med produktionsprocesser och med hållbarhet i olika dimensioner."
+                        )),
+                        Purpose(PurposeType.BULLET, "Undervisningen i ämnet processteknik – kemi ska ge eleverna förutsättningar att utveckla följande:", listOf(
+                               "Kunskaper om processtekniska system, deras komponenter och elementära processer samt förmåga att koppla samman dessa till kretsprocesser samt hur digital teknik kan användas i arbetet.",
+                               "Kunskaper om säkerhetsfilosofier och säkerhetsföreskrifter inom det processtekniska området.",
+                               "Kunskaper om kvalitetsarbete i produktionsprocesser samt kunskaper om hur provtagningar kan utformas och genomföras för att mäta och dokumentera kvalitet.",
+                               "Förståelse av hur kemisk produktion påverkar miljön och hur miljöregleringen påverkar produktionen samt kunskaper om gällande lagstiftning.",
+                               "Förmåga att genomföra, tolka och redovisa provtagningar och observationer av fysikaliska storheter och kemiska egenskaper samt förmåga att hantera kemikalier och utrustning.",
+                               "Förmåga att reglera och optimera processer inom kemisk produktion.",
+                               "Förmåga att planera sitt arbete och att övervaka, styra och reglera utrustning samt utföra vanliga arbetsuppgifter inom det processtekniska området.",
+                               "Förmåga att tolka och upprätta processteknisk dokumentation."
+                        ))
+                ),
+                toPurposes("""
+    <div> 
+        <p>
+            Undervisningen i ämnet processteknik – kemi ska syfta till att eleverna utvecklar kunskaper om hur man identifierar och löser vanliga processtekniska problem genom att analysera tillgänglig information, använda olika metoder och lösningsstrategier samt implementera dessa.
+        </p> 
+        <div>
+            <p>
+                Undervisningen ska leda till att eleverna utvecklar kunskaper om processtekniska system i kemisktekniska anläggningar samt om deras komponenter och metoder. 
+                Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper i utförande av vanligt förekommande arbetsuppgifter inom kemitekniska processer och förmåga att utvärdera resultatet.
+             </p>
+            <p>
+                Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta systematiskt och följa standarder och säkerhetsföreskrifter samt tar hänsyn till ställda kvalitetskrav. Vidare ska eleverna ges möjlighet att utveckla förmåga att arbeta med produktionsprocesser och med hållbarhet i olika dimensioner.
+            </p> 
+        </div>
+    </div> 
+    <h4>Undervisningen i ämnet processteknik – kemi ska ge eleverna förutsättningar att utveckla följande:</h4> 
+    <ol> 
+        <li>Kunskaper om processtekniska system, deras komponenter och elementära processer samt förmåga att koppla samman dessa till kretsprocesser samt hur digital teknik kan användas i arbetet.</li>
+        <li>Kunskaper om säkerhetsfilosofier och säkerhetsföreskrifter inom det processtekniska området.</li> 
+        <li>Kunskaper om kvalitetsarbete i produktionsprocesser samt kunskaper om hur provtagningar kan utformas och genomföras för att mäta och dokumentera kvalitet.</li> 
+        <li>Förståelse av hur kemisk produktion påverkar miljön och hur miljöregleringen påverkar produktionen samt kunskaper om gällande lagstiftning.</li> 
+        <li>Förmåga att genomföra, tolka och redovisa provtagningar och observationer av fysikaliska storheter och kemiska egenskaper samt förmåga att hantera kemikalier och utrustning.</li> 
+        <li>Förmåga att reglera och optimera processer inom kemisk produktion.</li> <li>Förmåga att planera sitt arbete och att övervaka, styra och reglera utrustning samt utföra vanliga arbetsuppgifter inom det processtekniska området.</li> 
+        <li>Förmåga att tolka och upprätta processteknisk dokumentation.</li> 
+    </ol> 
+    <h3>Kurser i ämnet</h3>
+    <ul>
+        <li>Processteknik – kemi 1, 100 poäng. </li> 
+        <li>Processteknik – kemi 2, 100 poäng, som bygger på kursen processteknik – kemi 1.</li>
+    </ul>
+                """.trimIndent()))
     }
 }

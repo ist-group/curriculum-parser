@@ -1,0 +1,184 @@
+{
+  "name" : "Processteknik – kemi",
+  "description" : "Ämnet processteknik – kemi behandlar de tekniker som används inom kemisk processindustri. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.",
+  "code" : "PRE",
+  "designation" : "",
+  "skolfsId" : "2018:19",
+  "purposes" : [ {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen i ämnet processteknik – kemi ska syfta till att eleverna utvecklar kunskaper om hur man identifierar och löser vanliga processtekniska problem genom att analysera tillgänglig information, använda olika metoder och lösningsstrategier samt implementera dessa." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska leda till att eleverna utvecklar kunskaper om processtekniska system i kemisktekniska anläggningar samt om deras komponenter och metoder.", "Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper i utförande av vanligt förekommande arbetsuppgifter inom kemitekniska processer och förmåga att utvärdera resultatet." ]
+  }, {
+    "type" : "PARAGRAPH",
+    "heading" : "",
+    "lines" : [ "Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta systematiskt och följa standarder och säkerhetsföreskrifter samt tar hänsyn till ställda kvalitetskrav.", "Vidare ska eleverna ges möjlighet att utveckla förmåga att arbeta med produktionsprocesser och med hållbarhet i olika dimensioner." ]
+  }, {
+    "type" : "BULLET",
+    "heading" : "Undervisningen i ämnet processteknik – kemi ska ge eleverna förutsättningar att utveckla följande:",
+    "lines" : [ "Kunskaper om processtekniska system, deras komponenter och elementära processer samt förmåga att koppla samman dessa till kretsprocesser samt hur digital teknik kan användas i arbetet.", "Kunskaper om säkerhetsfilosofier och säkerhetsföreskrifter inom det processtekniska området.", "Kunskaper om kvalitetsarbete i produktionsprocesser samt kunskaper om hur provtagningar kan utformas och genomföras för att mäta och dokumentera kvalitet.", "Förståelse av hur kemisk produktion påverkar miljön och hur miljöregleringen påverkar produktionen samt kunskaper om gällande lagstiftning.", "Förmåga att genomföra, tolka och redovisa provtagningar och observationer av fysikaliska storheter och kemiska egenskaper samt förmåga att hantera kemikalier och utrustning.", "Förmåga att reglera och optimera processer inom kemisk produktion.", "Förmåga att planera sitt arbete och att övervaka, styra och reglera utrustning samt utföra vanliga arbetsuppgifter inom det processtekniska området.", "Förmåga att tolka och upprätta processteknisk dokumentation." ]
+  } ],
+  "courses" : [ {
+    "name" : "Processteknik – kemi 1",
+    "description" : "Kursen processteknik – kemi 1 omfattar punkterna 1–8 under rubriken Ämnets syfte.",
+    "code" : "PREKEM31",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Metoder och utrustning för att testa och kalibrera mätningar av, till exempel temperatur, tryck, nivå, flöde och pH.", "Metoder för mätning av varvtal och krafter.", "Reglerteknik, speciellt reglerprocesser inom petrokemi, pappers- och massaindustri.", "Funktion och konstruktion hos olika komponenter inom valt processtekniskt område.", "Arbetsmiljöfrågor och säkerhetsföreskrifter.", "Utvärdering av mätningar genom analys av metodval, arbetsprocess och felkällor.", "Hållbart förhållningssätt med avseende på miljöaspekter vid processreglering och drift inklusive riskanalys och energioptimering.", "Processindustri nationellt och internationellt.", "Laborativa mätövningar med givare och omvandlare som bygger på digital och analog teknik.", "Övervakning, styrning och reglering av processer med stöd av process- och anläggningsteknisk dokumentation.", "Tolkning av anläggningsteknisk dokumentation, till exempel process- och instrumentscheman och manualer.", "Systematiserade dokumentationsmetoder och kvalitetsteknik." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för funktionen hos processtekniska komponenter och kopplar dessa <strong>________</strong> till de fysikaliska och kemiska samband som förekommer inom processindustrin.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>övergripande</strong> för funktionen hos processtekniska komponenter och kopplar dessa <strong>övergripande</strong> till de fysikaliska och kemiska samband som förekommer inom processindustrin.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för funktionen hos processtekniska komponenter och kopplar dessa <strong>utförligt</strong> till de fysikaliska och kemiska samband som förekommer inom processindustrin.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för funktionen hos processtekniska komponenter och kopplar dessa <strong>utförligt och nyanserat</strong> till de fysikaliska och kemiska samband som förekommer inom processindustrin."
+        }
+      }, {
+        "text" : "Eleven förhåller sig till de säkerhetsföreskrifter och miljökrav som finns inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven förhåller sig till de säkerhetsföreskrifter och miljökrav som finns inom området.",
+          "C" : "Eleven förhåller sig till de säkerhetsföreskrifter och miljökrav som finns inom området.",
+          "A" : "Eleven förhåller sig till de säkerhetsföreskrifter och miljökrav som finns inom området."
+        }
+      }, {
+        "text" : "Vidare utgår eleven <strong>________</strong> från standarder och föreskrifter i val av utrustning och arbetssätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Vidare utgår eleven <strong>med säkerhet</strong> från standarder och föreskrifter i val av utrustning och arbetssätt.",
+          "C" : "Vidare utgår eleven <strong>med god säkerhet</strong> från standarder och föreskrifter i val av utrustning och arbetssätt.",
+          "A" : "Vidare utgår eleven <strong>med mycket god säkerhet</strong> från standarder och föreskrifter i val av utrustning och arbetssätt."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för vad det innebär att arbeta enligt ett hållbart förhållningssätt och enligt de lagar och förordningar som styr verksamheten.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>övergripande</strong> för vad det innebär att arbeta enligt ett hållbart förhållningssätt och enligt de lagar och förordningar som styr verksamheten.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för vad det innebär att arbeta enligt ett hållbart förhållningssätt och enligt de lagar och förordningar som styr verksamheten.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för vad det innebär att arbeta enligt ett hållbart förhållningssätt och enligt de lagar och förordningar som styr verksamheten."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven genomför <strong>________</strong> provtagningar och tolkar <strong>________</strong> resultatet.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven genomför <strong>med säkerhet</strong> provtagningar och tolkar <strong>med säkerhet</strong> resultatet.",
+          "C" : "Eleven genomför <strong>med god säkerhet</strong> provtagningar och tolkar <strong>med god säkerhet</strong> resultatet.",
+          "A" : "Eleven genomför <strong>med god säkerhet komplexa</strong> provtagningar och tolkar <strong>med god säkerhet</strong> resultatet."
+        }
+      }, {
+        "text" : "Dessutom utför eleven <strong>________</strong> med handledare vanligt förekommande konfigureringar och optimeringar samt genomför <strong>________</strong> styrning och avläsning av tekniska komponenter på processteknisk utrustning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Dessutom utför eleven <strong>efter samråd</strong> med handledare vanligt förekommande konfigureringar och optimeringar samt genomför <strong>med säkerhet</strong> styrning och avläsning av tekniska komponenter på processteknisk utrustning.",
+          "C" : "Dessutom utför eleven <strong>självständigt efter samråd</strong> med handledare vanligt förekommande konfigureringar och optimeringar samt genomför <strong>med god säkerhet</strong> styrning och avläsning av tekniska komponenter på processteknisk utrustning.",
+          "A" : "Dessutom utför eleven <strong>självständigt avancerade</strong> konfigureringar och optimeringar samt genomför <strong>med god säkerhet avancerad</strong> styrning och avläsning av processteknisk utrustning."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven läser och tolkar <strong>________</strong> scheman över instrument och processer samt tolkar och upprättar <strong>________</strong> anläggningsteknisk dokumentation på ett systematiskt och kvalitetssäkert sätt.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven läser och tolkar <strong>med säkerhet</strong> scheman över instrument och processer samt tolkar och upprättar <strong>med säkerhet</strong> anläggningsteknisk dokumentation på ett systematiskt och kvalitetssäkert sätt.",
+          "C" : "Eleven läser och tolkar <strong>med god säkerhet</strong> scheman över instrument och processer samt tolkar och upprättar <strong>med god säkerhet</strong> anläggningsteknisk dokumentation på ett systematiskt och kvalitetssäkert sätt.",
+          "A" : "Eleven läser och tolkar <strong>med god säkerhet avancerade</strong> scheman över instrument och processer samt tolkar och upprättar <strong>med god säkerhet komplex</strong> anläggningsteknisk dokumentation på ett systematiskt och kvalitetssäkert sätt."
+        }
+      } ]
+    } ],
+    "point" : 100
+  }, {
+    "name" : "Processteknik – kemi 2",
+    "description" : "Kursen processteknik – kemi 2 omfattar punkterna 1–8 under rubriken Ämnets syfte.",
+    "code" : "PREKEM32",
+    "centralContent" : [ {
+      "heading" : "Undervisningen i kursen ska behandla följande centrala innehåll:",
+      "lines" : [ "Standarder och föreskrifter inom området kemisk industri och pappersindustri.", "Tekniker för pappersindustri och petrokemi.", "Reaktorfysik och förbränningsteknik.", "Processens påverkan på miljön. Åtgärder för att minimera miljöpåverkan.", "Processreglering och distribuerade styrsystem.", "Störstorheter som påverkar reglerprocessen.", "Styrning och mätning av olika förlopp i produktionsutrustning.", "Organisk kemi med tillämpning i kemisk processindustri.", "Kvalitativa och kvantitativa metoder för kemisk analys.", "Planering och genomförande av experimentella undersökningar och observationer samt formulering och prövning av hypoteser i samband med dessa.", "Kontroll av råvara, mellanprodukt och färdigprodukt med hjälp av mät- och analysinstrument.", "Kvalitetskrav gentemot den kemiska processindustrin samt gällande säkerhets- och miljökrav.", "Händelseförloppet mot kemiska tillverkningsprocesser, materialhantering, kontroll och underhållsrutiner.", "Mätmetoder och mätdon.", "Styrdon och deras karakteristik." ]
+    } ],
+    "knowledgeRequirementParagraphs" : [ {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för uppbyggnad och funktion inom processindustrin med inriktning mot kemiteknik och pappersindustri samt gör <strong>________</strong> kopplingar till naturvetenskapliga principer.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>övergripande</strong> för uppbyggnad och funktion inom processindustrin med inriktning mot kemiteknik och pappersindustri samt gör <strong>välgrundade</strong> kopplingar till naturvetenskapliga principer.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för uppbyggnad och funktion inom processindustrin med inriktning mot kemiteknik och pappersindustri samt gör <strong>välgrundade och nyanserade</strong> kopplingar till naturvetenskapliga principer.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för uppbyggnad och funktion inom processindustrin med inriktning mot kemiteknik och pappersindustri samt gör <strong>välgrundade och nyanserade</strong> kopplingar till naturvetenskapliga principer."
+        }
+      }, {
+        "text" : "Eleven resonerar <strong>________</strong> om olika typer av styrdon och deras karakteristik.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven resonerar <strong>övergripande</strong> om olika typer av styrdon och deras karakteristik.",
+          "C" : "Eleven resonerar <strong>utförligt</strong> om olika typer av styrdon och deras karakteristik.",
+          "A" : "Eleven resonerar <strong>utförligt och nyanserat</strong> om olika typer av styrdon och deras karakteristik."
+        }
+      }, {
+        "text" : "I sitt arbete förhåller sig eleven till de säkerhetsföreskrifter och miljökrav som finns inom området.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I sitt arbete förhåller sig eleven till de säkerhetsföreskrifter och miljökrav som finns inom området.",
+          "C" : "I sitt arbete förhåller sig eleven till de säkerhetsföreskrifter och miljökrav som finns inom området.",
+          "A" : "I sitt arbete förhåller sig eleven till de säkerhetsföreskrifter och miljökrav som finns inom området."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven använder <strong>________</strong> metoder för kemisk analys och ger utifrån dem <strong>________</strong> förslag för att optimera driften och förbättra processen samt resonerar <strong>________</strong> om processens inverkan på miljön.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven använder <strong>med säkerhet</strong> metoder för kemisk analys och ger utifrån dem <strong>välgrundade</strong> förslag för att optimera driften och förbättra processen samt resonerar <strong>övergripande</strong> om processens inverkan på miljön.",
+          "C" : "Eleven använder <strong>med god säkerhet</strong> metoder för kemisk analys och ger utifrån dem <strong>välgrundade och nyanserade</strong> förslag för att optimera driften och förbättra processen samt resonerar <strong>utförligt</strong> om processens inverkan på miljön.",
+          "A" : "Eleven genomför <strong>med mycket god säkerhet</strong> metoder för kemisk analys och ger utifrån dem <strong>välgrundade och nyanserade</strong> förslag för att optimera driften och förbättra processen samt resonerar <strong>utförligt och nyanserat</strong> om processens inverkan på miljön."
+        }
+      }, {
+        "text" : "Eleven genomför <strong>________</strong> med handledare laborationer och mätningar för råvarans väg genom processen så att de uppställda kvalitetskraven upprätthålls.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven genomför <strong>med säkerhet och efter samråd</strong> med handledare laborationer och mätningar för råvarans väg genom processen så att de uppställda kvalitetskraven upprätthålls.",
+          "C" : "Eleven genomför <strong>med god säkerhet och självständigt efter samråd</strong> med handledare laborationer och mätningar för råvarans väg genom processen så att de uppställda kvalitetskraven upprätthålls.",
+          "A" : "Eleven genomför <strong>med mycket god säkerhet självständigt</strong> laborationer och mätningar för råvarans väg genom processen så att de uppställda kvalitetskraven upprätthålls."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven redogör <strong>________</strong> för händelseförloppet i kemiska tillverkningsprocesser samt genomför och kontrollerar underhållsrutiner <strong>________</strong>.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven redogör <strong>övergripande</strong> för händelseförloppet i kemiska tillverkningsprocesser samt genomför och kontrollerar underhållsrutiner <strong>med säkerhet</strong>.",
+          "C" : "Eleven redogör <strong>utförligt</strong> för händelseförloppet i kemiska tillverkningsprocesser samt genomför och kontrollerar underhållsrutiner <strong>med god säkerhet</strong>.",
+          "A" : "Eleven redogör <strong>utförligt och nyanserat</strong> för händelseförloppet i kemiska tillverkningsprocesser samt genomför och kontrollerar <strong>avancerade</strong> underhållsrutiner <strong>med mycket god säkerhet</strong>."
+        }
+      }, {
+        "text" : "Eleven planerar <strong>________</strong> med handledare vanligt förekommande arbetsuppgifter i en anläggning.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven planerar <strong>efter samråd</strong> med handledare vanligt förekommande arbetsuppgifter i en anläggning.",
+          "C" : "Eleven planerar <strong>självständigt efter samråd</strong> med handledare vanligt förekommande arbetsuppgifter i en anläggning.",
+          "A" : "Eleven planerar <strong>självständigt</strong> vanligt förekommande praktiska arbetsuppgifter i en anläggning."
+        }
+      }, {
+        "text" : "I arbetet samverkar och kommunicerar eleven <strong>________</strong> med andra.",
+        "knowledgeRequirementChoice" : {
+          "E" : "I arbetet samverkar och kommunicerar eleven <strong>med säkerhet</strong> med andra.",
+          "C" : "I arbetet samverkar och kommunicerar eleven <strong>med god säkerhet</strong> med andra.",
+          "A" : "I arbetet samverkar och kommunicerar eleven <strong>med mycket god säkerhet</strong> med andra."
+        }
+      } ]
+    }, {
+      "heading" : "",
+      "knowledgeRequirements" : [ {
+        "text" : "Eleven resonerar <strong>________</strong> om begrepp, modeller, teorier och arbetsmetoder i olika kemiska tillverkningsprocesser.",
+        "knowledgeRequirementChoice" : {
+          "E" : "Eleven resonerar <strong>övergripande</strong> om begrepp, modeller, teorier och arbetsmetoder i olika kemiska tillverkningsprocesser.",
+          "C" : "Eleven resonerar <strong>utförligt</strong> om begrepp, modeller, teorier och arbetsmetoder i olika kemiska tillverkningsprocesser.",
+          "A" : "Eleven resonerar <strong>utförligt och nyanserat</strong> om begrepp, modeller, teorier och arbetsmetoder i olika kemiska tillverkningsprocesser."
+        }
+      } ]
+    } ],
+    "point" : 100
+  } ],
+  "typeOfSchooling" : "UPPER_SECONDARY_EDUCATION",
+  "gradeScale" : "",
+  "applianceDate" : "2019-07-15T00:00:00"
+}

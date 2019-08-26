@@ -37,7 +37,7 @@ class UpperSecondaryCourseDataExtractor(private val subjectDocument: Document): 
     private fun getCourse(courseElement: Element): CourseHtml {
         return CourseHtml(
                 courseElement.select("name").text(),
-                courseElement.select("description").text().removePrefix("<p>").removeSuffix("</p>"),
+                fixDescriptions(courseElement.select("description").text()),
                 courseElement.select("code").text(),
                 "",
                 "",

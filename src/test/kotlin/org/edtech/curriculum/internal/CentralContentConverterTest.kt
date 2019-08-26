@@ -200,8 +200,46 @@ internal class CentralContentConverterTest {
                                 |<li>Hur texters avsändare påverkar innehållet, till exempel i reklam.</li>
                             |</ul>""".trimMargin())
         )
-    }
 
+
+    }
+    @Test
+    fun toCentralContentExtraDivTest() {
+        assertEquals(
+                listOf(
+                        CentralContent("Undervisningen i kursen ska behandla följande centrala innehåll:", listOf(
+                                "Metoder och utrustning för att testa och kalibrera mätningar av, till exempel temperatur, tryck, nivå, flöde och pH.",
+                                "Metoder för mätning av varvtal och krafter.", "Reglerteknik, speciellt reglerprocesser inom petrokemi, pappers- och massaindustri.",
+                                "Funktion och konstruktion hos olika komponenter inom valt processtekniskt område.",
+                                "Arbetsmiljöfrågor och säkerhetsföreskrifter.",
+                                "Utvärdering av mätningar genom analys av metodval, arbetsprocess och felkällor.",
+                                "Hållbart förhållningssätt med avseende på miljöaspekter vid processreglering och drift inklusive riskanalys och energioptimering.",
+                                "Processindustri nationellt och internationellt.",
+                                "Laborativa mätövningar med givare och omvandlare som bygger på digital och analog teknik.",
+                                "Övervakning, styrning och reglering av processer med stöd av process- och anläggningsteknisk dokumentation.",
+                                "Tolkning av anläggningsteknisk dokumentation, till exempel process- och instrumentscheman och manualer.",
+                                "Systematiserade dokumentationsmetoder och kvalitetsteknik."
+                                )
+                        )
+                ),
+                CentralContentConverter().getCentralContents(
+       """
+           <h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><div> <div>
+            <div> <ul> <li>Metoder och utrustning för att testa och kalibrera mätningar av, till exempel
+            temperatur, tryck, nivå, flöde och pH.</li> <li>Metoder för mätning av varvtal och krafter.</li>
+            <li>Reglerteknik, speciellt reglerprocesser inom petrokemi, pappers- och massaindustri.</li> <li>Funktion
+            och konstruktion hos olika komponenter inom valt processtekniskt område.</li> <li>Arbetsmiljöfrågor
+            och säkerhetsföreskrifter.</li> <li>Utvärdering av mätningar genom analys av metodval, arbetsprocess
+            och felkällor.</li> <li>Hållbart förhållningssätt med avseende på miljöaspekter vid processreglering
+            och drift inklusive riskanalys och energioptimering.</li> <li>Processindustri nationellt och
+            internationellt.</li> <li>Laborativa mätövningar med givare och omvandlare som bygger på digital och
+            analog teknik.</li> <li>Övervakning, styrning och reglering av processer med stöd av process- och
+            anläggningsteknisk dokumentation.</li> <li>Tolkning av anläggningsteknisk dokumentation, till exempel
+            process- och instrumentscheman och manualer.</li> <li>Systematiserade dokumentationsmetoder och
+            kvalitetsteknik.</li> </ul> </div> </div> </div>
+       """.trimIndent()))
+
+    }
     @Test
     fun testEmptyLines() {
         val centralContents = CentralContentConverter().getCentralContents("<h4> Testar tomma rader  </h4><ul><li>Rad 1</li><li></li><li>  Rad 2 </li> <li> </li>")

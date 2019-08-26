@@ -12,14 +12,14 @@ class CentralContentConverter {
         val fragment = Jsoup.parseBodyFragment(convertDashListToList(html))
 
         // Remove empty paragraphs
-        fragment.select("body > p")
+        fragment.select("p")
                 .forEach {
                     if (it.text().trim().isEmpty()) {
                         it.remove()
                     }
                 }
         // Replace divs with their content.
-        fragment.select("body > div").forEach {
+        fragment.select("div").forEach {
             it.parent().insertChildren(it.siblingIndex(), it.children())
             it.remove()
         }
