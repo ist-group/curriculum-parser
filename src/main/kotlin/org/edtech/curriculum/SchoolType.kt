@@ -38,8 +38,11 @@ enum class SchoolType(val filename: String, val archivePath: String) {
     /** https://www.skolverket.se/undervisning/gymnasiesarskolan/laroplan-program-och-amnen-i-gymnasiesarskolan */
     GYS_SUBJECT_AREA("gys.tgz", "subjectArea/"),
 
-    /** https://www.skolverket.se/undervisning/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/grundlaggande */
+    /** https://www.skolverket.se/undervisning/vuxenutbildningen/komvux-grundlaggande */
     VUXGR("vuxgr.tgz", "subject/"),
+
+    /** https://www.skolverket.se/undervisning/vuxenutbildningen/sarvux-grundlaggande */
+    VUXGRS("sarvuxgr.tgz", "subject/"),
 
     /** https://www.skolverket.se/undervisning/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/sfi */
     SFI( "sfi.tgz", "subject/");

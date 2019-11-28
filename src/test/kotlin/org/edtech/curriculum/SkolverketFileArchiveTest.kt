@@ -28,6 +28,7 @@ class SkolverketFileArchiveTest {
             SchoolType.GRSPEC -> 34
             SchoolType.GY -> 294
             SchoolType.VUXGR -> 15
+            SchoolType.VUXGRS -> 13
             SchoolType.GYS -> 74
             SchoolType.GYS_SUBJECT_AREA -> 6
             SchoolType.SFI -> 1
