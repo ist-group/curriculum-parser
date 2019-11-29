@@ -2,12 +2,11 @@ package org.edtech.curriculum.internal
 
 import com.fasterxml.jackson.annotation.JsonInclude
 import com.fasterxml.jackson.databind.ObjectMapper
-import com.fasterxml.jackson.databind.SerializationFeature
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule
-import org.edtech.curriculum.Curriculum
-import org.edtech.curriculum.GradeStep
-import org.edtech.curriculum.SchoolType
-import org.edtech.curriculum.YearGroup
+import com.fasterxml.jackson.databind.DeserializationFeature
+import com.fasterxml.jackson.databind.SerializationFeature
+import com.fasterxml.jackson.module.kotlin.*
+import org.edtech.curriculum.*
 import org.jsoup.Jsoup
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Assertions.assertNotEquals
@@ -36,6 +35,13 @@ class KnowledgeRequirementParserTest {
     }
 
     private fun getObjectMapper(): ObjectMapper {
+        val mapper = jacksonObjectMapper()
+        mapper.configure( DeserializationFeature.ACCEPT_EMPTY_ARRAY_AS_NULL_OBJECT, true )
+        mapper.registerModule(JavaTimeModule())
+        return mapper
+    }
+
+    private fun getObjectWriter(): ObjectMapper {
         val mapper = ObjectMapper()
         mapper.disable(SerializationFeature.WRITE_DATES_AS_TIMESTAMPS)
         mapper.setSerializationInclusion(JsonInclude.Include.NON_NULL)
@@ -43,9 +49,12 @@ class KnowledgeRequirementParserTest {
         return mapper
     }
 
+
     @TestFactory
     fun testAgainstJsonFiles(): List<DynamicTest> {
         val mapper = getObjectMapper()
+        // Pretty print the result so that we manually can understand the result.
+        val objectWriter = getObjectWriter().writerWithDefaultPrettyPrinter()
         return SchoolType.values().flatMap { schoolType ->
 
             File("$validDataDir/").listFiles().flatMap { versionDir ->
@@ -56,13 +65,12 @@ class KnowledgeRequirementParserTest {
                             .filter { it.name.endsWith(".json") }
                             .map { file ->
                                 DynamicTest.dynamicTest("${schoolType.name}/${versionDir.name} - ${file.nameWithoutExtension}") {
-                                    val parsedSubject = subjectMap[file.nameWithoutExtension]
+                                    val parsedSubject = subjectMap[file.nameWithoutExtension]?.copy(modifiedDate = null, applianceDate = null, skolfsId = "", validTo = null,version = 0)
                                     if (parsedSubject == null) {
                                         fail("No subject ${file.nameWithoutExtension} for file ${file.absolutePath}")
                                     } else {
-                                        val expected = file.readText()
-                                        val actual = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(parsedSubject)
-                                        assertEquals(expected, actual, "Difference for subject ${versionDir.name} - ${schoolType.name}/${file.nameWithoutExtension}")
+                                        val expected = mapper.readValue<Subject>( file.readText() )?.copy(modifiedDate = null, applianceDate = null, skolfsId = "", validTo = null,version = 0)
+                                        assertEquals(objectWriter.writeValueAsString(expected), objectWriter.writeValueAsString(parsedSubject), "Difference for subject ${versionDir.name} - ${schoolType.name}/${file.nameWithoutExtension}")
                                     }
                                 }
                             }

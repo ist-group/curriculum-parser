@@ -50,19 +50,27 @@ class IndividualFiledSubjectDataExtractor(private val skolverketFileArchive: Sko
     private fun getSubject(openDataDocumentStream: InputStream, typeOfSyllabus: SyllabusType? = null): SubjectHtml {
         val openDataDocument = Jsoup.parse(openDataDocumentStream, null, "", Parser.xmlParser())
         fun extractString(elementName: String): String = openDataDocument.select("subject > $elementName" ).text()
+        val code =  extractString("code")
+
+        // GRSPKOU01 should be a subject area!
+        val syllabusType: SyllabusType? = if (code == "GRSPKOU01") {
+            SyllabusType.SUBJECT_AREA_SYLLABUS
+        } else {
+            valueOfOrNull<SyllabusType>(extractString("typeOfSyllabus")) ?: typeOfSyllabus
+        }
 
         return SubjectHtml(
                 extractString("name"),
                 extractString("description"),
                 extractString("version").toIntOrNull(),
-                extractString("code"),
+                code,
                 extractString("designation"),
                 extractString("skolfsId"),
                 convertDashListToList(extractString("purpose")),
                 extractCourses(openDataDocument, typeOfSyllabus),
                 extractString("createdDate"),
                 extractString("modifiedDate"),
-                valueOfOrNull<SyllabusType>(extractString("typeOfSyllabus")) ?: typeOfSyllabus,
+                syllabusType,
                 valueOfOrNull<TypeOfSchooling>(extractString("typeOfSchooling")),
                 valueOfOrNull<TypeOfSchooling>(extractString("originatorTypeOfSchooling")),
                 extractString("gradeScale"),
