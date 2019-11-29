@@ -57,7 +57,7 @@ class CurriculumTest {
 
                         // Only check real courses
                         if (schoolType != SchoolType.SFI) {
-                            if (courseHtml.year.isEmpty() && schoolType != SchoolType.GYS_SUBJECT_AREA) {
+                            if (courseHtml.year.isEmpty() && subjectHtml.typeOfSyllabus != SyllabusType.SUBJECT_AREA_SYLLABUS) {
                                 if (courseHtml.point.isEmpty()) {
                                     fail<Unit>("${courseHtml.code}/${courseHtml.name} has no points/year group")
                                 }
@@ -158,7 +158,7 @@ class CurriculumTest {
                             assertTrue(course.name.isNotEmpty(), "${course.code}/${course.name} has no name")
                             // Only check real courses
                             if (schoolType != SchoolType.SFI) {
-                                if (course.year == null && schoolType != SchoolType.GYS_SUBJECT_AREA) {
+                                if (course.year == null && subject.typeOfSyllabus != SyllabusType.SUBJECT_AREA_SYLLABUS) {
                                     if (course.point == null) {
                                         fail<Unit>("${course.code}/${course.name} has no points/year group")
                                     }

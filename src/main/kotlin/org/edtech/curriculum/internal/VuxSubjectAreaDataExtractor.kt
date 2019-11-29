@@ -15,17 +15,17 @@ import org.jsoup.select.Elements
  *
  * @param subjectDocument to extract information from
  */
-class SubjectAreaDataExtractor(private val subjectDocument: Document): CourseDataExtractor {
+class VuxSubjectAreaDataExtractor(private val subjectDocument: Document): CourseDataExtractor {
 
     override fun getCourseData(): List<CourseHtml> {
         return listOf(CourseHtml(
                 subjectDocument.select("name").text(),
                 subjectDocument.select("description").text().removePrefix("<p>").removeSuffix("</p>"),
                 subjectDocument.select("code").text(),
-                "",
+                subjectDocument.select("category").text(),
                 "",
                 subjectDocument.select("point").text(),
-                convertDashListToList(subjectDocument.select("centralContents").text()),
+                convertDashListToList(subjectDocument.select("centralContents text").text()),
                 this.getKnowledgeRequirements(subjectDocument.select("knowledgeRequirements"))))
     }
 

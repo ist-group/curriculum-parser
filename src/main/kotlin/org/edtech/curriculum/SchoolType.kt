@@ -3,7 +3,7 @@ package org.edtech.curriculum
 import java.io.*
 import java.net.URL
 
-enum class SchoolType(val filename: String, val archivePath: String) {
+enum class SchoolType(val filename: String, val archivePath: String, val archivePathSubjectArea: String? = null ) {
 
     /** https://www.skolverket.se/undervisning/grundskolan/laroplan-och-kursplaner-for-grundskolan */
     GR("compulsory.tgz", "compulsory/subject-compulsory-S2_0/grundskolan/"),
@@ -33,16 +33,13 @@ enum class SchoolType(val filename: String, val archivePath: String) {
     GY("syllabus.tgz", "subject/"),
 
     /** https://www.skolverket.se/undervisning/gymnasiesarskolan/laroplan-program-och-amnen-i-gymnasiesarskolan */
-    GYS("gys.tgz", "subject/"),
-
-    /** https://www.skolverket.se/undervisning/gymnasiesarskolan/laroplan-program-och-amnen-i-gymnasiesarskolan */
-    GYS_SUBJECT_AREA("gys.tgz", "subjectArea/"),
+    GYS("gys.tgz", "subject/", "subjectArea/"),
 
     /** https://www.skolverket.se/undervisning/vuxenutbildningen/komvux-grundlaggande */
     VUXGR("vuxgr.tgz", "subject/"),
 
     /** https://www.skolverket.se/undervisning/vuxenutbildningen/sarvux-grundlaggande */
-    VUXGRS("sarvuxgr.tgz", "subject/"),
+    VUXGRS("sarvuxgr.tgz", "subject/", "subjectArea/"),
 
     /** https://www.skolverket.se/undervisning/laroplaner-amnen-och-kurser/vuxenutbildning/komvux/sfi */
     SFI( "sfi.tgz", "subject/");
