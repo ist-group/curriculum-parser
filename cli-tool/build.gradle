@@ -7,7 +7,7 @@ buildscript {
 apply plugin: 'java'
 
 group = "org.edtech"
-version = "0.0.2"
+version = "0.7.6"
 
 repositories {
     mavenCentral()
@@ -16,5 +16,5 @@ repositories {
 dependencies {
    compile("com.fasterxml.jackson.module:jackson-modules-java8:2.9.0")
    compile("com.fasterxml.jackson.core:jackson-databind:2.9.0")
-   compile("org.edtech:curriculum-parser:0.0.2")
+   compile("com.github.stefan-jonasson:curriculum-parser:0.7.5")
 }

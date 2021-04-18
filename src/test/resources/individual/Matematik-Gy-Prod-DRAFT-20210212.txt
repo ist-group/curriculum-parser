@@ -1,0 +1,475 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header/>
+   <SOAP-ENV:Body>
+      <ns4:ReadSubjectResponse xmlns:ns10="http://syllabus2011publiccurriculum.ws.skolverket.se/v2_0" xmlns:ns11="http://syllabus2011publiccommon.ws.skolverket.se/v2_0" xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0" xmlns:ns3="http://syllabus2011subject.types.skolverket.se/v3_0" xmlns:ns4="http://syllabus2011publicsubject.ws.skolverket.se/v3_0" xmlns:ns5="http://syllabus2011studypath.types.skolverket.se/v2_0" xmlns:ns6="http://syllabus2011publicstudypath.ws.skolverket.se/v2_0" xmlns:ns7="http://syllabus2011program.types.skolverket.se/v4_0" xmlns:ns8="http://syllabus2011publicprogram.ws.skolverket.se/v4_0" xmlns:ns9="http://syllabus2011curriculum.types.skolverket.se/v2_0">
+         <ns2:totalElements>0</ns2:totalElements>
+         <ns4:subjects>
+            <ns3:name>Matematik</ns3:name>
+            <ns3:englishName>Mathematics</ns3:englishName>
+            <ns3:description>&lt;p>Matematiken har en flertusenårig historia med bidrag från många kulturer. Den utvecklas såväl ur praktiska behov som ur människans nyfikenhet och lust att utforska matematiken som sådan. Kommunikation med hjälp av matematikens språk är likartad över hela världen. I takt med att samhället digitaliseras används matematiken i alltmer komplexa situationer. Matematik är även ett verktyg inom vetenskaper och yrkesliv samt har en avgörande roll inom naturvetenskap. Ytterst handlar matematiken om att upptäcka mönster och formulera generella samband.&lt;/p></ns3:description>
+            <ns3:code>MAT</ns3:code>
+            <ns3:status>DRAFT</ns3:status>
+            <ns3:version>10</ns3:version>
+            <ns3:createdBy>ajaegberg1467</ns3:createdBy>
+            <ns3:createdDate>2019-05-29T10:26:00+02:00</ns3:createdDate>
+            <ns3:modifiedBy>jagann</ns3:modifiedBy>
+            <ns3:modifiedDate>2020-12-17T08:37:30+01:00</ns3:modifiedDate>
+            <ns3:nameHeading>&lt;h2>Matematik&lt;/h2></ns3:nameHeading>
+            <ns3:typeOfSyllabus>SUBJECT_SYLLABUS</ns3:typeOfSyllabus>
+            <ns3:gradeScale>A-F</ns3:gradeScale>
+            <ns3:purpose><![CDATA[<p>Undervisningen i ämnet matematik ska syfta till att eleverna utvecklar förmåga att arbeta matematiskt. Det innefattar att utveckla förståelse av matematikens begrepp och metoder samt att utveckla olika strategier för att kunna lösa problem och använda matematik i samhälls- och yrkeslivet. I undervisningen ska eleverna ges möjlighet att fördjupa och bredda sina kunskaper i matematik samt utveckla sin kreativitet. Vidare ska undervisningen bidra till att eleverna utvecklar kunskaper om matematikens betydelse och användning inom andra ämnen samt i ett yrkesmässigt, samhälleligt och historiskt sammanhang.</p> <p>Undervisningen ska innehålla varierade arbetsformer och arbetssätt, där undersökande aktiviteter utgör en del. När så är lämpligt ska undervisningen ske i relevant praxisnära miljö och med verktyg som används inom karaktärsämnena. Undervisningen ska ge eleverna möjlighet att kommunicera med olika uttrycksformer. Vidare ska undervisningen utmana eleverna och ge dem erfarenheter av matematikens logik, generaliserbarhet, kreativa kvaliteter och mångfacetterade karaktär. Undervisningen ska stärka elevernas tilltro till sin förmåga att använda matematik i olika sammanhang och ge utrymme åt problemlösning som både mål och medel. I undervisningen ska eleverna dessutom ges möjlighet att utveckla sin förmåga att använda digitala verktyg för att lösa problem samt fördjupa sitt matematikkunnande och utvidga de områden där matematikkunnandet kan användas.</p> <h4>Undervisningen i ämnet matematik ska ge eleverna förutsättningar att utveckla följande:</h4> <ol> <li>Förmåga att använda och beskriva matematiska begrepp och samband mellan begrepp.</li> <li>Förmåga att hantera procedurer och lösa uppgifter av standardkaraktär utan och med verktyg.</li> <li>Förmåga att analysera och lösa problem med hjälp av matematik.</li> <li>Förmåga att tillämpa, formulera och utvärdera matematiska modeller.</li> <li>Förmåga att föra och följa matematiska resonemang.</li> <li>Förmåga att kommunicera matematik muntligt, skriftligt och i handling.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Matematik 1a, 100 poäng, som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen matematik 1b eller 1c. Kursen ska ingå i samtliga yrkesprogram.</li> <li>Matematik 1b, 100 poäng, som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen matematik 1a eller 1c. Kursen ska ingå i ekonomiprogrammet, estetiska programmet, humanistiska programmet och samhällsvetenskapsprogrammet.</li> <li>Matematik 1c, 100 poäng, som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen matematik 1a eller 1b. Kursen ska ingå i naturvetenskapsprogrammet och teknikprogrammet.</li> <li>Matematik 2a, 100 poäng, som bygger på kursen matematik 1a, 1b eller 1c. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen matematik 2b eller 2c.</li> <li>Matematik 2b, 100 poäng, som bygger på kursen matematik 1a, 1b eller 1c. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen matematik 2a eller 2c.</li> <li>Matematik 2c, 100 poäng, som bygger på kursen matematik 1a, 1b eller 1c. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen matematik 2a eller 2b.</li> <li>Matematik 3b, 100 poäng, som bygger på kursen matematik 2a, 2b eller 2c. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen matematik 3c.</li> <li>Matematik 3c, 100 poäng, som bygger på kursen matematik 2a, 2b eller 2c. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen matematik 3b.</li> <li>Matematik 4, 100 poäng, som bygger på kursen matematik 3b eller 3c.</li> <li>Matematik 5, 100 poäng, som bygger på kursen matematik 4.</li> <li>Matematik – specialisering, 100 poäng, som bygger på kursen matematik 4 och kan läsas flera gånger med olika innehåll.</li></ul>]]></ns3:purpose>
+            <ns3:skolfsId>2010:261</ns3:skolfsId>
+            <ns3:applianceDate>2017-07-01T00:00:00+02:00</ns3:applianceDate>
+            <ns3:courses>
+               <ns3:name>Matematik 1a</ns3:name>
+               <ns3:englishName>Mathematics 1a</ns3:englishName>
+               <ns3:description>&lt;p>Kursen matematik 1a omfattar punkterna 1–6 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.&lt;/p></ns3:description>
+               <ns3:code>MATMAT01a</ns3:code>
+               <ns3:centralCntHeading>&lt;h3>Centralt innehåll&lt;/h3></ns3:centralCntHeading>
+               <ns3:knowledgeReqsHeading>&lt;h3>Kunskapskrav&lt;/h3></ns3:knowledgeReqsHeading>
+               <ns3:nameHeading>&lt;h2>Matematik 1a, 100 poäng&lt;/h2></ns3:nameHeading>
+               <ns3:codeHeading>&lt;h3>Kurskod: MATMAT01a&lt;/h3></ns3:codeHeading>
+               <ns3:typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</ns3:typeOfSyllabus>
+               <ns3:centralContent>
+                  <ns3:guid xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                  <ns3:text><![CDATA[<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><p><strong>Matematik inom karaktärsämnen och yrkesliv</strong></p> <ul> <li>Matematiska begrepp som är relevanta för karaktärsämnen och yrkesliv, till exempel proportionalitet, skala, Pythagoras sats, procent och andelar, indexmått, vinstmarginal, jämvikt, felmarginaler, symmetrier, vektorer, trigonometriska funktioner och matematiska begrepp som utvecklas under förskoleåldern.</li> <li>Beräkningsmetoder som är relevanta för karaktärsämnen och yrkesliv, till exempel uppskattningar, beräkningar på störningar eller mätfel, spill- och svinnberäkningar, överslagsräkning, avrundning, användning av kalkylprogram och metoder för kontrollberäkning.</li> <li>Hantering av formler som är relevanta för karaktärsämnen och yrkesliv.</li> <li>Mätning och hantering av storheter och enheter som är relevanta för karaktärsämnen och yrkesliv, till exempel enhetsbyten, avrundningsprinciper, tidsuppskattningar, beräkning av förbrukningsmaterial, kostnadsberäkningar, säkerhetsmarginaler, hantering av mätverktyg och hantering av mätosäkerheter.</li> <li>Hjälpmedel och verktyg som är relevanta för att hantera matematik inom karaktärsämnen och yrkesliv, till exempel formulär, mallar, tumregler, föreskrifter, manualer, referensverk och handböcker.</li> </ul> <p><strong>Aritmetik, algebra och funktioner </strong></p> <ul> <li>Hantering av algebraiska uttryck, inklusive att faktorisera och multiplicera uttryck.</li> <li>Begreppet funktion. Representationer av funktioner i form av ord, funktionsuttryck, tabeller och grafer. Digitala metoder för att skapa funktionsgrafer.</li> <li>Metoder för att bestämma funktionsvärden. Grafiska metoder för att lösa ekvationer av typen f(x) = a.</li> <li>Begreppet linjär funktion och egenskaper hos linjära funktioner.</li> <li>Metoder för att lösa linjära ekvationer.</li> <li>Begreppet exponentialfunktion och egenskaper hos exponentialfunktioner, inklusive skillnader och likheter med linjära funktioner.</li> <li>Begreppet förändringsfaktor och beräkning av förändringar i flera steg.</li> </ul> <p><strong>Sannolikhet och statistik</strong></p> <ul> <li>Begreppen oberoende och beroende händelse samt komplementhändelse. Metoder för att beräkna sannolikheter i flera steg, inklusive exempel från spel, risk- och säkerhetsbedömningar.</li> <li>Exempel på hur några statistiska begrepp används i samhälle och yrkesliv, inklusive signifikans, korrelation, kausalitet, urvalsmetoder och felkällor.</li> </ul> <p><strong>Problemlösning, verktyg och tillämpningar</strong></p> <ul> <li>Användning av kalkylprogram för beräkning av ränta och amortering.</li> <li>Användning av digitala verktyg för att effektivisera beräkningar och komplettera metoder, till exempel vid ekvationslösning.</li> <li>Problemlösning som omfattar att upptäcka och uttrycka generella samband.</li> <li>Problemlösning som omfattar begrepp och metoder i kursen, med särskild utgångspunkt i yrkesliv, privatekonomi och samhällsliv.</li> <li>Tillämpning och formulering av matematiska modeller i realistiska situationer. Utvärdering av matematiska modellers egenskaper och begränsningar.</li> <li>Matematiska problem med anknytning till matematikens kulturhistoria.</li> </ul>]]></ns3:text>
+                  <ns3:year xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                  <ns3:typeOfCentralContent xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               </ns3:centralContent>
+               <ns3:point>100</ns3:point>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget E</h4><p>Eleven beskriver <strong>grundläggande</strong> begrepp och samband mellan begrepp samt använder dem med <strong>tillfredsställande</strong> säkerhet.</p> <p>Eleven hanterar <strong>grundläggande</strong> procedurer och löser uppgifter av standardkaraktär med <strong>tillfredsställande</strong> säkerhet, både utan och med digitala verktyg.</p> <p>Eleven löser <strong>enkla</strong> problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>enkla </strong>uppgifter.</p> <p>Eleven för <strong>delvis </strong>underbyggda matematiska resonemang och följer <strong>enkla</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>i huvudsak fungerande</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>E</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text>&lt;h4>Betyget D&lt;/h4>&lt;p>Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p></ns3:text>
+                  <ns3:gradeStep>D</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget C</h4><p>Eleven beskriver <strong>ett omfattande antal</strong> begrepp och samband mellan begrepp samt använder dem med <strong>god </strong>säkerhet.</p> <p>Eleven hanterar <strong>ett omfattande antal</strong> procedurer och löser uppgifter av standardkaraktär med <strong>god</strong> säkerhet, både utan och med digitala verktyg.</p> <p>Eleven löser <strong>relativt komplexa </strong>problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>relativt komplexa</strong> uppgifter.</p> <p>Eleven för <strong>relativt väl </strong>underbyggda matematiska resonemang och följer <strong>relativt avancerade</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>till stor del tydligt och korrekt</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>C</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text>&lt;h4>Betyget B&lt;/h4>&lt;p>Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p></ns3:text>
+                  <ns3:gradeStep>B</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget A</h4><p>Eleven beskriver <strong>ett omfattande antal</strong> begrepp och samband mellan begrepp samt använder dem med <strong>mycket god</strong> säkerhet.</p> <p>Eleven hanterar <strong>ett omfattande antal</strong> procedurer och löser uppgifter av standardkaraktär med <strong>mycket</strong> <strong>god</strong> säkerhet, både utan och med digitala verktyg.</p> <p>Eleven löser <strong>komplexa</strong> problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>komplexa</strong> uppgifter.</p> <p>Eleven för <strong>väl </strong>underbyggda matematiska resonemang och följer <strong>avancerade</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>tydligt och korrekt</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>A</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:alternativeCourseCode xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns3:sortOrder>1</ns3:sortOrder>
+            </ns3:courses>
+            <ns3:courses>
+               <ns3:name>Matematik 1b</ns3:name>
+               <ns3:englishName>Mathematics 1b</ns3:englishName>
+               <ns3:description>&lt;p>Kursen matematik 1b omfattar punkterna 1–6 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.&lt;/p></ns3:description>
+               <ns3:code>MATMAT01b</ns3:code>
+               <ns3:centralCntHeading>&lt;h3>Centralt innehåll&lt;/h3></ns3:centralCntHeading>
+               <ns3:knowledgeReqsHeading>&lt;h3>Kunskapskrav&lt;/h3></ns3:knowledgeReqsHeading>
+               <ns3:nameHeading>&lt;h2>Matematik 1b, 100 poäng&lt;/h2></ns3:nameHeading>
+               <ns3:codeHeading>&lt;h3>Kurskod: MATMAT01b&lt;/h3></ns3:codeHeading>
+               <ns3:typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</ns3:typeOfSyllabus>
+               <ns3:centralContent>
+                  <ns3:guid xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                  <ns3:text><![CDATA[<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><p><strong>Aritmetik, algebra och funktioner</strong></p> <ul> <li>Hantering av formler och algebraiska uttryck, inklusive att faktorisera och multiplicera uttryck.</li> <li>Begreppen funktion, definitionsmängd och värdemängd. Representationer av funktioner i form av ord, funktionsuttryck, tabeller och grafer. Digitala metoder för att skapa funktionsgrafer.</li> <li>Metoder för att bestämma funktionsvärden. Digitala och grafiska metoder för att lösa ekvationer av typen f(x) = a.</li> <li>Begreppet linjär funktion och egenskaper hos linjära funktioner. Räta linjens ekvation. Metoder för att bestämma linjära funktioner.</li> <li>Metoder för att lösa linjära ekvationer.</li> <li>Begreppen intervall och linjär olikhet. Metoder för att lösa linjära olikheter.</li> <li>Begreppet exponentialfunktion och egenskaper hos exponentialfunktioner, inklusive skillnader och likheter med linjära funktioner.</li> <li>Motivering och hantering av räkneregler för potenser. Metoder för att lösa potensekvationer.</li> <li>Begreppet potensfunktion.</li> <li>Begreppet förändringsfaktor och beräkning av förändringar i flera steg.</li> </ul> <p><strong>Sannolikhet och statistik</strong></p> <ul> <li>Begreppet index.</li> <li>Begreppen oberoende och beroende händelse samt komplementhändelse. Metoder för att beräkna sannolikheter i flera steg, inklusive exempel från spel, risk- och säkerhetsbedömningar.</li> <li>Exempel på hur några statistiska begrepp används i samhälle och inom vetenskap, inklusive signifikans, korrelation, kausalitet, urvalsmetoder och felkällor.</li> </ul> <p><strong>Problemlösning, verktyg och tillämpningar</strong></p> <ul> <li>Användning av kalkylprogram för beräkning av ränta och amortering.</li> <li>Användning av digitala verktyg för att effektivisera beräkningar och komplettera metoder, till exempel vid ekvationslösning.</li> <li>Problemlösning som omfattar att upptäcka och uttrycka generella samband.</li> <li>Problemlösning som omfattar begrepp och metoder i kursen, med särskild utgångspunkt i karaktärsämnen, privatekonomi och samhällsliv.</li> <li>Tillämpning och formulering av matematiska modeller i realistiska situationer. Utvärdering av matematiska modellers egenskaper och begränsningar.</li> <li>Matematiska problem med anknytning till matematikens kulturhistoria.</li> </ul>]]></ns3:text>
+                  <ns3:year xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                  <ns3:typeOfCentralContent xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               </ns3:centralContent>
+               <ns3:point>100</ns3:point>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget E</h4><p>Eleven beskriver <strong>grundläggande</strong> begrepp och samband mellan begrepp samt använder dem med <strong>tillfredsställande</strong> säkerhet.</p> <p>Eleven hanterar <strong>grundläggande</strong> procedurer och löser uppgifter av standardkaraktär med <strong>tillfredsställande</strong> säkerhet, både utan och med digitala verktyg.</p> <p>Eleven löser <strong>enkla</strong> problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>enkla </strong>uppgifter.</p> <p>Eleven för <strong>delvis </strong>underbyggda matematiska resonemang och följer <strong>enkla</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>i huvudsak fungerande</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>E</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text>&lt;h4>Betyget D&lt;/h4>&lt;p>Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p></ns3:text>
+                  <ns3:gradeStep>D</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget C</h4><p>Eleven beskriver <strong>ett omfattande antal</strong> begrepp och samband mellan begrepp samt använder dem med <strong>god </strong>säkerhet.</p> <p>Eleven hanterar <strong>ett omfattande antal</strong> procedurer och löser uppgifter av standardkaraktär med <strong>god</strong> säkerhet, både utan och med digitala verktyg.</p> <p>Eleven löser <strong>relativt komplexa </strong>problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>relativt komplexa</strong> uppgifter.</p> <p>Eleven för <strong>relativt väl </strong>underbyggda matematiska resonemang och följer <strong>relativt avancerade</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>till stor del tydligt och korrekt</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>C</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text>&lt;h4>Betyget B&lt;/h4>&lt;p>Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p></ns3:text>
+                  <ns3:gradeStep>B</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget A</h4><p>Eleven beskriver <strong>ett omfattande antal</strong> begrepp och samband mellan begrepp samt använder dem med <strong>mycket god</strong> säkerhet.</p> <p>Eleven hanterar <strong>ett omfattande antal</strong> procedurer och löser uppgifter av standardkaraktär med <strong>mycket</strong> <strong>god</strong> säkerhet, både utan och med digitala verktyg.</p> <p>Eleven löser <strong>komplexa</strong> problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>komplexa</strong> uppgifter.</p> <p>Eleven för <strong>väl </strong>underbyggda matematiska resonemang och följer <strong>avancerade</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>tydligt och korrekt</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>A</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:alternativeCourseCode xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns3:sortOrder>2</ns3:sortOrder>
+            </ns3:courses>
+            <ns3:courses>
+               <ns3:name>Matematik 1c</ns3:name>
+               <ns3:englishName>Mathematics 1c</ns3:englishName>
+               <ns3:description>&lt;p>Kursen matematik 1c omfattar punkterna 1–6 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.&lt;/p></ns3:description>
+               <ns3:code>MATMAT01c</ns3:code>
+               <ns3:centralCntHeading>&lt;h3>Centralt innehåll&lt;/h3></ns3:centralCntHeading>
+               <ns3:knowledgeReqsHeading>&lt;h3>Kunskapskrav&lt;/h3></ns3:knowledgeReqsHeading>
+               <ns3:nameHeading>&lt;h2>Matematik 1c, 100 poäng&lt;/h2></ns3:nameHeading>
+               <ns3:codeHeading>&lt;h3>Kurskod: MATMAT01c&lt;/h3></ns3:codeHeading>
+               <ns3:typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</ns3:typeOfSyllabus>
+               <ns3:centralContent>
+                  <ns3:guid xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                  <ns3:text><![CDATA[<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><p><strong>Aritmetik, algebra och funktioner</strong></p> <ul> <li>Hantering av formler och algebraiska uttryck, inklusive att faktorisera och multiplicera uttryck.</li> <li>Begreppen funktion, definitionsmängd och värdemängd. Representationer av funktioner i form av ord, funktionsuttryck, tabeller och grafer. Digitala metoder för att skapa funktionsgrafer.</li> <li>Metoder för att bestämma funktionsvärden. Digitala och grafiska metoder för att lösa ekvationer av typen f(x) = a.</li> <li>Begreppet linjär funktion och egenskaper hos linjära funktioner. Räta linjens ekvation. Metoder för att bestämma linjära funktioner.</li> <li>Metoder för att lösa linjära ekvationer.</li> <li>Begreppen intervall och linjär olikhet. Metoder för att lösa linjära olikheter.</li> <li>Begreppet exponentialfunktion och egenskaper hos exponentialfunktioner, inklusive skillnader och likheter med linjära funktioner.</li> <li>Motivering och hantering av räkneregler för potenser. Metoder för att lösa potensekvationer.</li> <li>Begreppet potensfunktion.</li> <li>Begreppet förändringsfaktor och beräkning av förändringar i flera steg.</li> </ul> <p><strong>Trigonometri och vektorer</strong></p> <ul> <li>Begreppen sinus, cosinus och tangens. Begreppet invers funktion i samband med arcusfunktioner. Metoder för att beräkna sträckor och vinklar i koordinatsystem och i rätvinkliga trianglar.</li> <li>Begreppet vektor. Representationer av vektorer i koordinatsystem och skrivna i koordinatform. Metoder för beräkningar med vektorer, inklusive addition, subtraktion, beräkning av absolutbelopp och multiplikation med skalär.</li> </ul> <p><strong>Sannolikhet och statistik</strong></p> <ul> <li>Begreppen oberoende och beroende händelse samt komplementhändelse. Metoder för att beräkna sannolikheter i flera steg, inklusive exempel från spel, risk- och säkerhetsbedömningar.</li> <li>Exempel på hur några statistiska begrepp används i samhälle och inom vetenskap, inklusive signifikans, korrelation, kausalitet, urvalsmetoder och felkällor.</li> </ul> <p><strong>Problemlösning, verktyg och tillämpningar</strong></p> <ul> <li>Användning av kalkylprogram för beräkning av ränta och amortering.</li> <li>Användning av digitala verktyg för att effektivisera beräkningar och komplettera metoder, till exempel vid ekvationslösning.</li> <li>Problemlösning som omfattar att upptäcka och uttrycka generella samband.</li> <li>Problemlösning som omfattar begrepp och metoder i kursen, med särskild utgångspunkt i karaktärsämnen, privatekonomi och samhällsliv.</li> <li>Exempel på hur programmering kan användas som verktyg vid problemlösning, databearbetning eller tillämpning av numeriska metoder.</li> <li>Tillämpning och formulering av matematiska modeller i realistiska situationer. Utvärdering av matematiska modellers egenskaper och begränsningar.</li> <li>Matematiska problem med anknytning till matematikens kulturhistoria.</li> </ul>]]></ns3:text>
+                  <ns3:year xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                  <ns3:typeOfCentralContent xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               </ns3:centralContent>
+               <ns3:point>100</ns3:point>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget E</h4><p>Eleven beskriver <strong>grundläggande</strong> begrepp och samband mellan begrepp samt använder dem med <strong>tillfredsställande</strong> säkerhet.</p> <p>Eleven hanterar <strong>grundläggande</strong> procedurer och löser uppgifter av standardkaraktär med <strong>tillfredsställande</strong> säkerhet, både utan och med digitala verktyg.</p> <p>Eleven löser <strong>enkla</strong> problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>enkla </strong>uppgifter.</p> <p>Eleven för <strong>delvis </strong>underbyggda matematiska resonemang och följer <strong>enkla</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>i huvudsak fungerande</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>E</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text>&lt;h4>Betyget D&lt;/h4>&lt;p>Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p></ns3:text>
+                  <ns3:gradeStep>D</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget C</h4><p>Eleven beskriver <strong>ett omfattande antal</strong> begrepp och samband mellan begrepp samt använder dem med <strong>god </strong>säkerhet.</p> <p>Eleven hanterar <strong>ett omfattande antal</strong> procedurer och löser uppgifter av standardkaraktär med <strong>god</strong> säkerhet, både utan och med digitala verktyg.</p> <p>Eleven löser <strong>relativt komplexa </strong>problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>relativt komplexa</strong> uppgifter.</p> <p>Eleven för <strong>relativt väl </strong>underbyggda matematiska resonemang och följer <strong>relativt avancerade</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>till stor del tydligt och korrekt</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>C</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text>&lt;h4>Betyget B&lt;/h4>&lt;p>Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p></ns3:text>
+                  <ns3:gradeStep>B</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget A</h4><p>Eleven beskriver <strong>ett omfattande antal</strong> begrepp och samband mellan begrepp samt använder dem med <strong>mycket god</strong> säkerhet.</p> <p>Eleven hanterar <strong>ett omfattande antal</strong> procedurer och löser uppgifter av standardkaraktär med <strong>mycket</strong> <strong>god</strong> säkerhet, både utan och med digitala verktyg.</p> <p>Eleven löser <strong>komplexa</strong> problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>komplexa</strong> uppgifter.</p> <p>Eleven för <strong>väl </strong>underbyggda matematiska resonemang och följer <strong>avancerade</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>tydligt och korrekt</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>A</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:alternativeCourseCode xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns3:sortOrder>3</ns3:sortOrder>
+            </ns3:courses>
+            <ns3:courses>
+               <ns3:name>Matematik 2a</ns3:name>
+               <ns3:englishName>Mathematics 2a</ns3:englishName>
+               <ns3:description>&lt;p>Kursen matematik 2a omfattar punkterna 1–6 under rubriken Ämnets syfte.&lt;/p></ns3:description>
+               <ns3:code>MATMAT02a</ns3:code>
+               <ns3:centralCntHeading>&lt;h3>Centralt innehåll&lt;/h3></ns3:centralCntHeading>
+               <ns3:knowledgeReqsHeading>&lt;h3>Kunskapskrav&lt;/h3></ns3:knowledgeReqsHeading>
+               <ns3:nameHeading>&lt;h2>Matematik 2a, 100 poäng&lt;/h2></ns3:nameHeading>
+               <ns3:codeHeading>&lt;h3>Kurskod: MATMAT02a&lt;/h3></ns3:codeHeading>
+               <ns3:typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</ns3:typeOfSyllabus>
+               <ns3:centralContent>
+                  <ns3:guid xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                  <ns3:text><![CDATA[<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><p><strong>Matematik inom karaktärsämnen och yrkesliv</strong></p> <ul> <li>Breddning eller fördjupning av matematiska begrepp och metoder som är relevanta för karaktärsämnen och yrkesliv.</li> <li>Hjälpmedel och verktyg som är relevanta för att hantera matematik inom karaktärsämnen och yrkesliv.</li> </ul> <p><strong>Aritmetik, algebra och funktioner</strong></p> <ul> <li>Räta linjens ekvation. Metoder för att bestämma linjära funktioner.</li> <li>Begreppet linjärt ekvationssystem. Metoder för att lösa linjära ekvationssystem.</li> <li>Begreppet potensfunktion.</li> <li>Motivering och hantering av räkneregler för potenser. Metoder för att lösa potensekvationer.</li> <li>Digitala metoder för att lösa exponentialekvationer.</li> <li>Motivering och hantering av konjugat- och kvadreringsreglerna.</li> <li>Begreppet andragradsfunktion och egenskaper hos andragradsfunktioner, inklusive symmetrilinje, extrempunkt och nollställen.</li> <li>Metoder för att lösa andragradsekvationer.</li> </ul> <p><strong>Statistik</strong></p> <ul> <li>Lägesmått och spridningsmått, inklusive percentiler och standardavvikelse, samt digitala metoder för att bestämma dessa.</li> <li>Begreppet normalfördelning och egenskaper hos normalfördelat material. Metoder för att göra enklare beräkningar på normalfördelat material.</li> </ul> <p><strong>Logik och geometri</strong></p> <ul> <li>Användning och motivering av Pythagoras sats, inklusive exempel som omfattar beräkningar i koordinatsystem.</li> </ul> <p><strong>Problemlösning, verktyg och tillämpningar</strong></p> <ul> <li>Användning av digitala verktyg för att effektivisera beräkningar och komplettera metoder, till exempel vid ekvationslösning.</li> <li>Problemlösning som omfattar begrepp och metoder i kursen, med särskild utgångspunkt i yrkes- och samhällsliv.</li> <li>Tillämpning och formulering av matematiska modeller i realistiska situationer. Utvärdering av matematiska modellers egenskaper och begränsningar.</li> <li>Matematiska problem med anknytning till matematikens kulturhistoria.</li> </ul>]]></ns3:text>
+                  <ns3:year xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                  <ns3:typeOfCentralContent xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               </ns3:centralContent>
+               <ns3:point>100</ns3:point>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget E</h4><p>Eleven beskriver <strong>grundläggande</strong> begrepp och samband mellan begrepp samt använder dem med <strong>tillfredsställande</strong> säkerhet.</p> <p>Eleven hanterar <strong>grundläggande</strong> procedurer och löser uppgifter av standardkaraktär med <strong>tillfredsställande</strong> säkerhet, både utan och med digitala verktyg.</p> <p>Eleven löser <strong>enkla</strong> problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>enkla </strong>uppgifter.</p> <p>Eleven för <strong>delvis </strong>underbyggda matematiska resonemang och följer <strong>enkla</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>i huvudsak fungerande</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>E</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text>&lt;h4>Betyget D&lt;/h4>&lt;p>Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p></ns3:text>
+                  <ns3:gradeStep>D</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget C</h4><p>Eleven beskriver <strong>ett omfattande antal</strong> begrepp och samband mellan begrepp samt använder dem med <strong>god </strong>säkerhet.</p> <p>Eleven hanterar <strong>ett omfattande antal</strong> procedurer och löser uppgifter av standardkaraktär med <strong>god</strong> säkerhet, både utan och med digitala verktyg.</p> <p>Eleven löser <strong>relativt komplexa </strong>problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>relativt komplexa</strong> uppgifter.</p> <p>Eleven för <strong>relativt väl </strong>underbyggda matematiska resonemang och följer <strong>relativt avancerade</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>till stor del tydligt och korrekt</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>C</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text>&lt;h4>Betyget B&lt;/h4>&lt;p>Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p></ns3:text>
+                  <ns3:gradeStep>B</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget A</h4><p>Eleven beskriver <strong>ett omfattande antal</strong> begrepp och samband mellan begrepp samt använder dem med <strong>mycket god</strong> säkerhet.</p> <p>Eleven hanterar <strong>ett omfattande antal</strong> procedurer och löser uppgifter av standardkaraktär med <strong>mycket</strong> <strong>god</strong> säkerhet, både utan och med digitala verktyg.</p> <p>Eleven löser <strong>komplexa</strong> problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>komplexa</strong> uppgifter.</p> <p>Eleven för <strong>väl </strong>underbyggda matematiska resonemang och följer <strong>avancerade</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>tydligt och korrekt</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>A</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:alternativeCourseCode xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns3:sortOrder>4</ns3:sortOrder>
+            </ns3:courses>
+            <ns3:courses>
+               <ns3:name>Matematik 2b</ns3:name>
+               <ns3:englishName>Mathematics 2b</ns3:englishName>
+               <ns3:description>&lt;p>Kursen matematik 2b omfattar punkterna 1–6 under rubriken Ämnets syfte.&lt;/p></ns3:description>
+               <ns3:code>MATMAT02b</ns3:code>
+               <ns3:centralCntHeading>&lt;h3>Centralt innehåll&lt;/h3></ns3:centralCntHeading>
+               <ns3:knowledgeReqsHeading>&lt;h3>Kunskapskrav&lt;/h3></ns3:knowledgeReqsHeading>
+               <ns3:nameHeading>&lt;h2>Matematik 2b, 100 poäng&lt;/h2></ns3:nameHeading>
+               <ns3:codeHeading>&lt;h3>Kurskod: MATMAT02b&lt;/h3></ns3:codeHeading>
+               <ns3:typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</ns3:typeOfSyllabus>
+               <ns3:centralContent>
+                  <ns3:guid xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                  <ns3:text><![CDATA[<h4>Undervisningen i kursen ska behandla följande centrala innehåll: </h4><p><strong>Aritmetik, algebra och funktioner</strong></p> <ul> <li>Begreppet linjärt ekvationssystem. Metoder för att lösa linjära ekvationssystem.</li> <li>Begreppet logaritm. Hantering av räkneregler för logaritmer i samband med lösning av exponentialekvationer. Metoder för att lösa exponentialekvationer.</li> <li>Likheter och skillnader mellan exponential- och potensekvationer.</li> <li>Motivering och hantering av konjugat- och kvadreringsreglerna.</li> <li>Begreppet andragradsfunktion och egenskaper hos andragradsfunktioner, inklusive symmetrilinje, extrempunkt och nollställen.</li> <li>Metoder för att lösa andragradsekvationer.</li> </ul> <p><strong>Statistik</strong></p> <ul> <li>Lägesmått och spridningsmått, inklusive percentiler och standardavvikelse, samt digitala metoder för att bestämma dessa.</li> <li>Begreppet normalfördelning och egenskaper hos normalfördelat material. Digitala metoder för att göra beräkningar på normalfördelat material.</li> <li>Begreppen regressionsanalys och korrelationskoefficient. Digitala metoder för regressionsanalys.</li> </ul> <p><strong>Logik och geometri</strong></p> <ul> <li>Begreppen implikation och ekvivalens.</li> <li>Begreppen definition, sats och bevis.</li> <li>Användning och motivering av grundläggande klassiska satser i geometri om vinklar och likformighet samt Pythagoras sats, inklusive exempel som omfattar beräkningar i koordinatsystem.</li> </ul> <p><strong>Problemlösning, verktyg och tillämpningar</strong></p> <ul> <li>Användning av digitala verktyg för att effektivisera beräkningar och komplettera metoder, till exempel vid ekvationslösning.</li> <li>Problemlösning som omfattar begrepp och metoder i kursen, med särskild utgångspunkt i karaktärsämnen och samhällsliv.</li> <li>Tillämpning och formulering av matematiska modeller i realistiska situationer. Utvärdering av matematiska modellers egenskaper och begränsningar.</li> <li>Matematiska problem med anknytning till matematikens kulturhistoria.</li> </ul>]]></ns3:text>
+                  <ns3:year xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                  <ns3:typeOfCentralContent xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               </ns3:centralContent>
+               <ns3:point>100</ns3:point>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget E</h4><p>Eleven beskriver <strong>grundläggande</strong> begrepp och samband mellan begrepp samt använder dem med <strong>tillfredsställande</strong> säkerhet.</p> <p>Eleven hanterar <strong>grundläggande</strong> procedurer och löser uppgifter av standardkaraktär med <strong>tillfredsställande</strong> säkerhet, både utan och med digitala verktyg.</p> <p>Eleven löser <strong>enkla</strong> problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>enkla </strong>uppgifter.</p> <p>Eleven för <strong>delvis </strong>underbyggda matematiska resonemang och följer <strong>enkla</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>i huvudsak fungerande</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>E</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text>&lt;h4>Betyget D&lt;/h4>&lt;p>Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p></ns3:text>
+                  <ns3:gradeStep>D</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget C</h4><p>Eleven beskriver <strong>ett omfattande antal</strong> begrepp och samband mellan begrepp samt använder dem med <strong>god </strong>säkerhet.</p> <p>Eleven hanterar <strong>ett omfattande antal</strong> procedurer och löser uppgifter av standardkaraktär med <strong>god</strong> säkerhet, både utan och med digitala verktyg.</p> <p>Eleven löser <strong>relativt komplexa </strong>problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>relativt komplexa</strong> uppgifter.</p> <p>Eleven för <strong>relativt väl </strong>underbyggda matematiska resonemang och följer <strong>relativt avancerade</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>till stor del tydligt och korrekt</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>C</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text>&lt;h4>Betyget B&lt;/h4>&lt;p>Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p></ns3:text>
+                  <ns3:gradeStep>B</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget A</h4><p>Eleven beskriver <strong>ett omfattande antal</strong> begrepp och samband mellan begrepp samt använder dem med <strong>mycket god</strong> säkerhet.</p> <p>Eleven hanterar <strong>ett omfattande antal</strong> procedurer och löser uppgifter av standardkaraktär med <strong>mycket</strong> <strong>god</strong> säkerhet, både utan och med digitala verktyg.</p> <p>Eleven löser <strong>komplexa</strong> problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>komplexa</strong> uppgifter.</p> <p>Eleven för <strong>väl </strong>underbyggda matematiska resonemang och följer <strong>avancerade</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>tydligt och korrekt</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>A</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:alternativeCourseCode xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns3:sortOrder>5</ns3:sortOrder>
+            </ns3:courses>
+            <ns3:courses>
+               <ns3:name>Matematik 2c</ns3:name>
+               <ns3:englishName>Mathematics 2c</ns3:englishName>
+               <ns3:description>&lt;p>Kursen matematik 2c omfattar punkterna 1–6 under rubriken Ämnets syfte.&lt;/p></ns3:description>
+               <ns3:code>MATMAT02c</ns3:code>
+               <ns3:centralCntHeading>&lt;h3>Centralt innehåll&lt;/h3></ns3:centralCntHeading>
+               <ns3:knowledgeReqsHeading>&lt;h3>Kunskapskrav&lt;/h3></ns3:knowledgeReqsHeading>
+               <ns3:nameHeading>&lt;h2>Matematik 2c, 100 poäng&lt;/h2></ns3:nameHeading>
+               <ns3:codeHeading>&lt;h3>Kurskod: MATMAT02c&lt;/h3></ns3:codeHeading>
+               <ns3:typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</ns3:typeOfSyllabus>
+               <ns3:centralContent>
+                  <ns3:guid xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                  <ns3:text><![CDATA[<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><p><strong>Aritmetik, algebra och funktioner</strong></p> <ul> <li>Begreppet linjärt ekvationssystem. Metoder för att lösa linjära ekvationssystem.</li> <li>Begreppet logaritm. Motivering och hantering av räkneregler för logaritmer. Metoder för att lösa exponentialekvationer.</li> <li>Likheter och skillnader mellan exponential- och potensekvationer.</li> <li>Motivering och hantering av konjugat- och kvadreringsreglerna.</li> <li>Begreppet andragradsfunktion och egenskaper hos andragradsfunktioner, inklusive symmetrilinje, extrempunkt och nollställen.</li> <li>Metoder för att lösa andragradsekvationer.</li> <li>Metoder för att lösa rotekvationer.</li> </ul> <p><strong>Statistik</strong></p> <ul> <li>Lägesmått och spridningsmått, inklusive percentiler och standardavvikelse, samt digitala metoder för att bestämma dessa.</li> <li>Begreppet normalfördelning och egenskaper hos normalfördelat material. Digitala metoder för att göra beräkningar på normalfördelat material.</li> <li>Begreppen regressionsanalys och korrelationskoefficient. Digitala metoder för regressionsanalys.</li> </ul> <p><strong>Logik och geometri</strong></p> <ul> <li>Begreppen implikation och ekvivalens.</li> <li>Begreppen definition, sats och bevis.</li> <li>Användning och motivering av grundläggande klassiska satser i geometri om vinklar och likformighet samt Pythagoras sats, inklusive exempel som omfattar beräkningar i koordinatsystem.</li> </ul> <p><strong>Problemlösning, verktyg och tillämpningar</strong></p> <ul> <li>Användning av digitala verktyg för att effektivisera beräkningar och komplettera metoder, till exempel vid ekvationslösning.</li> <li>Problemlösning som omfattar begrepp och metoder i kursen, med särskild utgångspunkt i karaktärsämnen och samhällsliv.</li> <li>Exempel på hur programmering kan användas som verktyg vid problemlösning, databearbetning eller tillämpning av numeriska metoder.</li> <li>Tillämpning och formulering av matematiska modeller i realistiska situationer. Utvärdering av matematiska modellers egenskaper och begränsningar.</li> <li>Matematiska problem med anknytning till matematikens kulturhistoria.</li> </ul>]]></ns3:text>
+                  <ns3:year xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                  <ns3:typeOfCentralContent xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               </ns3:centralContent>
+               <ns3:point>100</ns3:point>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget E</h4><p>Eleven beskriver <strong>grundläggande</strong> begrepp och samband mellan begrepp samt använder dem med <strong>tillfredsställande</strong> säkerhet.</p> <p>Eleven hanterar <strong>grundläggande</strong> procedurer och löser uppgifter av standardkaraktär med <strong>tillfredsställande</strong> säkerhet, både utan och med digitala verktyg.</p> <p>Eleven löser <strong>enkla</strong> problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>enkla </strong>uppgifter.</p> <p>Eleven för <strong>delvis </strong>underbyggda matematiska resonemang och följer <strong>enkla</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>i huvudsak fungerande</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>E</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text>&lt;h4>Betyget D&lt;/h4>&lt;p>Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p></ns3:text>
+                  <ns3:gradeStep>D</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget C</h4><p>Eleven beskriver <strong>ett omfattande antal</strong> begrepp och samband mellan begrepp samt använder dem med <strong>god </strong>säkerhet.</p> <p>Eleven hanterar <strong>ett omfattande antal</strong> procedurer och löser uppgifter av standardkaraktär med <strong>god</strong> säkerhet, både utan och med digitala verktyg.</p> <p>Eleven löser <strong>relativt komplexa </strong>problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>relativt komplexa</strong> uppgifter.</p> <p>Eleven för <strong>relativt väl </strong>underbyggda matematiska resonemang och följer <strong>relativt avancerade</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>till stor del tydligt och korrekt</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>C</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text>&lt;h4>Betyget B&lt;/h4>&lt;p>Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p></ns3:text>
+                  <ns3:gradeStep>B</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget A</h4><p>Eleven beskriver <strong>ett omfattande antal</strong> begrepp och samband mellan begrepp samt använder dem med <strong>mycket god</strong> säkerhet.</p> <p>Eleven hanterar <strong>ett omfattande antal</strong> procedurer och löser uppgifter av standardkaraktär med <strong>mycket</strong> <strong>god</strong> säkerhet, både utan och med digitala verktyg.</p> <p>Eleven löser <strong>komplexa</strong> problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>komplexa</strong> uppgifter.</p> <p>Eleven för <strong>väl </strong>underbyggda matematiska resonemang och följer <strong>avancerade</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>tydligt och korrekt</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>A</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:alternativeCourseCode xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns3:sortOrder>6</ns3:sortOrder>
+            </ns3:courses>
+            <ns3:courses>
+               <ns3:name>Matematik 3b</ns3:name>
+               <ns3:englishName>Mathematics 3b</ns3:englishName>
+               <ns3:description>&lt;p>Kursen matematik 3b omfattar punkterna 1–6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p></ns3:description>
+               <ns3:code>MATMAT03b</ns3:code>
+               <ns3:centralCntHeading>&lt;h3>Centralt innehåll&lt;/h3></ns3:centralCntHeading>
+               <ns3:knowledgeReqsHeading>&lt;h3>Kunskapskrav&lt;/h3></ns3:knowledgeReqsHeading>
+               <ns3:nameHeading>&lt;h2>Matematik 3b, 100 poäng&lt;/h2></ns3:nameHeading>
+               <ns3:codeHeading>&lt;h3>Kurskod: MATMAT03b&lt;/h3></ns3:codeHeading>
+               <ns3:typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</ns3:typeOfSyllabus>
+               <ns3:centralContent>
+                  <ns3:guid xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                  <ns3:text><![CDATA[<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><p><strong>Aritmetik, algebra och funktioner</strong></p> <ul> <li>Begreppet rationella uttryck. Hantering av rationella uttryck.</li> <li>Begreppet gränsvärde. Begreppen sekant, tangent, förändringshastighet, ändringskvot och derivata för en funktion. Grafiska och digitala metoder för att derivera funktioner. Villkor för deriverbarhet.</li> <li>Motivering och hantering av deriveringsregler för potens- och exponentialfunktioner samt summor av dessa. Begreppen talet e och naturlig logaritm.</li> <li>Begreppet andraderivata. Metoder för att lösa extremvärdesproblem.</li> <li>Begreppet polynom och egenskaper hos polynomfunktioner. Metoder för att lösa enklare polynomekvationer.</li> <li>Begreppen primitiv funktion och bestämd integral. Sambandet mellan primitiv funktion och derivata.</li> <li>Grafiska och digitala metoder för att bestämma integraler.</li> <li>Motivering och hantering av metoder för att bestämma integraler för potens- och exponentialfunktioner samt summor av dessa.</li> <li>Formulering och beräkning av integraler i enkla situationer.</li> <li>Metoder för linjär optimering.</li> <li>Begreppet geometrisk summa. Metoder för att bestämma geometriska summor.</li> </ul> <p><strong>Problemlösning, verktyg och tillämpningar</strong></p> <ul> <li>Användning av digitala verktyg, även symbolhanterande, för att effektivisera beräkningar och komplettera metoder, till exempel vid ekvationslösning, derivering, integrering och hantering av algebraiska uttryck.</li> <li>Problemlösning som omfattar begrepp och metoder i kursen, med särskild utgångspunkt i karaktärsämnen och samhällsliv.</li> <li>Användning av programmering som verktyg vid problemlösning, databearbetning eller tillämpning av numeriska metoder.</li> <li>Tillämpning och formulering av matematiska modeller i realistiska situationer. Utvärdering av matematiska modellers egenskaper och begränsningar.</li> <li>Matematiska problem med anknytning till matematikens kulturhistoria.</li> </ul>]]></ns3:text>
+                  <ns3:year xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                  <ns3:typeOfCentralContent xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               </ns3:centralContent>
+               <ns3:point>100</ns3:point>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget E</h4><p>Eleven beskriver <strong>grundläggande</strong> begrepp och samband mellan begrepp samt använder dem med <strong>tillfredsställande</strong> säkerhet.</p> <p>Eleven hanterar <strong>grundläggande</strong> procedurer och löser uppgifter av standardkaraktär med <strong>tillfredsställande</strong> säkerhet, både utan och med digitala verktyg.</p> <p>Eleven löser <strong>enkla</strong> problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>enkla </strong>uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar.</p> <p>Eleven för <strong>delvis </strong>underbyggda matematiska resonemang och följer <strong>enkla</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>i huvudsak fungerande</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>E</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text>&lt;h4>Betyget D&lt;/h4>&lt;p>Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p></ns3:text>
+                  <ns3:gradeStep>D</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget C</h4><p>Eleven beskriver <strong>ett omfattande antal</strong> begrepp och samband mellan begrepp samt använder dem med <strong>god </strong>säkerhet.</p> <p>Eleven hanterar <strong>ett omfattande antal</strong> procedurer och löser uppgifter av standardkaraktär med <strong>god</strong> säkerhet, både utan och med digitala verktyg. <strong>Eleven hanterar avancerade uttryck med god säkerhet.</strong></p> <p>Eleven löser <strong>relativt komplexa </strong>problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>relativt komplexa</strong> uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar.</p> <p>Eleven för <strong>relativt väl </strong>underbyggda matematiska resonemang<strong>, genomför enkla bevis</strong> och följer <strong>relativt avancerade</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>till stor del tydligt och korrekt</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>C</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text>&lt;h4>Betyget B&lt;/h4>&lt;p>Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p></ns3:text>
+                  <ns3:gradeStep>B</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget A</h4><p>Eleven beskriver <strong>ett omfattande antal</strong> begrepp och samband mellan begrepp samt använder dem med <strong>mycket god</strong> säkerhet.</p> <p>Eleven hanterar <strong>ett omfattande antal</strong> procedurer och löser uppgifter av standardkaraktär med <strong>mycket</strong> <strong>god</strong> säkerhet, både utan och med digitala verktyg. <strong>Eleven hanterar avancerade uttryck med mycket god säkerhet.</strong></p> <p>Eleven löser <strong>komplexa</strong> problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>komplexa</strong> uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar.</p> <p>Eleven för <strong>väl </strong>underbyggda matematiska resonemang<strong>, genomför bevis</strong> och följer <strong>avancerade</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>tydligt och korrekt</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>A</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:alternativeCourseCode xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns3:sortOrder>7</ns3:sortOrder>
+            </ns3:courses>
+            <ns3:courses>
+               <ns3:name>Matematik 3c</ns3:name>
+               <ns3:englishName>Mathematics 3c</ns3:englishName>
+               <ns3:description>&lt;p>Kursen matematik 3c omfattar punkterna 1–6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p></ns3:description>
+               <ns3:code>MATMAT03c</ns3:code>
+               <ns3:centralCntHeading>&lt;h3>Centralt innehåll&lt;/h3></ns3:centralCntHeading>
+               <ns3:knowledgeReqsHeading>&lt;h3>Kunskapskrav&lt;/h3></ns3:knowledgeReqsHeading>
+               <ns3:nameHeading>&lt;h2>Matematik 3c, 100 poäng&lt;/h2></ns3:nameHeading>
+               <ns3:codeHeading>&lt;h3>Kurskod: MATMAT03c&lt;/h3></ns3:codeHeading>
+               <ns3:typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</ns3:typeOfSyllabus>
+               <ns3:centralContent>
+                  <ns3:guid xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                  <ns3:text><![CDATA[<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><p><strong>Aritmetik, algebra och funktioner</strong></p> <ul> <li>Begreppet absolutbelopp.</li> <li>Begreppet rationella uttryck. Hantering av rationella uttryck.</li> <li>Begreppet gränsvärde. Begreppen sekant, tangent, förändringshastighet, ändringskvot och derivata för en funktion. Grafiska och digitala metoder för att derivera funktioner. Villkor för deriverbarhet.</li> <li>Motivering och hantering av deriveringsregler för potens- och exponentialfunktioner samt summor av dessa. Begreppen talet e och naturlig logaritm.</li> <li>Begreppet andraderivata. Metoder för att lösa extremvärdesproblem.</li> <li>Begreppet polynom och egenskaper hos polynomfunktioner. Metoder för att lösa enklare polynomekvationer.</li> <li>Begreppen primitiv funktion och bestämd integral. Sambandet mellan primitiv funktion och derivata.</li> <li>Grafiska och digitala metoder för att bestämma integraler.</li> <li>Motivering och hantering av metoder för att bestämma integraler för potens- och exponentialfunktioner samt summor av dessa.</li> <li>Formulering och beräkning av integraler i enkla situationer.</li> </ul> <p><strong>Trigonometri</strong></p> <ul> <li>Begreppet enhetscirkeln. Definition av trigonometriska begrepp utifrån enhetscirkeln.</li> <li>Bevis och användning av cosinus-, sinus- och areasatsen.</li> </ul> <p><strong>Problemlösning, verktyg och tillämpningar</strong></p> <ul> <li>Användning av digitala verktyg, även symbolhanterande, för att effektivisera beräkningar och komplettera metoder, till exempel vid ekvationslösning, derivering, integrering och hantering av algebraiska uttryck.</li> <li>Problemlösning som omfattar begrepp och metoder i kursen, med särskild utgångspunkt i karaktärsämnen och samhällsliv.</li> <li>Användning av programmering som verktyg vid problemlösning, databearbetning eller tillämpning av numeriska metoder.</li> <li>Tillämpning och formulering av matematiska modeller i realistiska situationer. Utvärdering av matematiska modellers egenskaper och begränsningar.</li> <li>Matematiska problem med anknytning till matematikens kulturhistoria.</li> </ul>]]></ns3:text>
+                  <ns3:year xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                  <ns3:typeOfCentralContent xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               </ns3:centralContent>
+               <ns3:point>100</ns3:point>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget E</h4><p>Eleven beskriver <strong>grundläggande</strong> begrepp och samband mellan begrepp samt använder dem med <strong>tillfredsställande</strong> säkerhet.</p> <p>Eleven hanterar <strong>grundläggande</strong> procedurer och löser uppgifter av standardkaraktär med <strong>tillfredsställande</strong> säkerhet, både utan och med digitala verktyg.</p> <p>Eleven löser <strong>enkla</strong> problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>enkla </strong>uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar.</p> <p>Eleven för <strong>delvis </strong>underbyggda matematiska resonemang och följer <strong>enkla</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>i huvudsak fungerande</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>E</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text>&lt;h4>Betyget D&lt;/h4>&lt;p>Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p></ns3:text>
+                  <ns3:gradeStep>D</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget C</h4><p>Eleven beskriver <strong>ett omfattande antal</strong> begrepp och samband mellan begrepp samt använder dem med <strong>god </strong>säkerhet.</p> <p>Eleven hanterar <strong>ett omfattande antal</strong> procedurer och löser uppgifter av standardkaraktär med <strong>god</strong> säkerhet, både utan och med digitala verktyg. <strong>Eleven hanterar avancerade uttryck med god säkerhet.</strong></p> <p>Eleven löser <strong>relativt komplexa </strong>problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>relativt komplexa</strong> uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar.</p> <p>Eleven för <strong>relativt väl </strong>underbyggda matematiska resonemang<strong>, genomför enkla bevis</strong> och följer <strong>relativt avancerade</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>till stor del tydligt och korrekt</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>C</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text>&lt;h4>Betyget B&lt;/h4>&lt;p>Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p></ns3:text>
+                  <ns3:gradeStep>B</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget A</h4><p>Eleven beskriver <strong>ett omfattande antal</strong> begrepp och samband mellan begrepp samt använder dem med <strong>mycket god</strong> säkerhet.</p> <p>Eleven hanterar <strong>ett omfattande antal</strong> procedurer och löser uppgifter av standardkaraktär med <strong>mycket</strong> <strong>god</strong> säkerhet, både utan och med digitala verktyg. <strong>Eleven hanterar avancerade uttryck med mycket god säkerhet.</strong></p> <p>Eleven löser <strong>komplexa</strong> problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>komplexa</strong> uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar.</p> <p>Eleven för <strong>väl </strong>underbyggda matematiska resonemang<strong>, genomför bevis</strong> och följer <strong>avancerade</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>tydligt och korrekt</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>A</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:alternativeCourseCode xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns3:sortOrder>8</ns3:sortOrder>
+            </ns3:courses>
+            <ns3:courses>
+               <ns3:name>Matematik 4</ns3:name>
+               <ns3:englishName>Mathematics 4</ns3:englishName>
+               <ns3:description>&lt;p>Kursen matematik 4 omfattar punkterna 1–6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p></ns3:description>
+               <ns3:code>MATMAT04</ns3:code>
+               <ns3:centralCntHeading>&lt;h3>Centralt innehåll&lt;/h3></ns3:centralCntHeading>
+               <ns3:knowledgeReqsHeading>&lt;h3>Kunskapskrav&lt;/h3></ns3:knowledgeReqsHeading>
+               <ns3:nameHeading>&lt;h2>Matematik 4, 100 poäng&lt;/h2></ns3:nameHeading>
+               <ns3:codeHeading>&lt;h3>Kurskod: MATMAT04&lt;/h3></ns3:codeHeading>
+               <ns3:typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</ns3:typeOfSyllabus>
+               <ns3:centralContent>
+                  <ns3:guid xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                  <ns3:text><![CDATA[<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><p><strong>Aritmetik, algebra och funktioner</strong></p> <ul> <li>Begreppen imaginära enheten, komplexa tal och komplexa talplanet. Representation av komplexa tal i rektangulär och polär form. Metoder för beräkningar med komplexa tal, inklusive beräkning av konjugat och absolutbelopp.</li> <li>Metoder för att faktorisera polynom. Användning av faktorsatsen för att lösa polynomekvationer.</li> <li>Metoder för att bestämma även komplexa lösningar till andragradsekvationer, potensekvationer och polynomekvationer.</li> <li>Fördjupning av funktionsbegreppet, inklusive sammansatta funktioner, logaritmfunktioner, linjära asymptoter och skissning av grafer för hand.</li> <li>Motivering och hantering av deriveringsregler för logaritmfunktioner, sammansatta funktioner samt produkt och kvot av funktioner.</li> <li>Användning av integraler i mer komplexa sammanhang, till exempel täthetsfunktioner, sannolikhetsfördelning, rotationsvolymer och beräkning av storheter.</li> </ul> <p><strong>Trigonometri</strong></p> <ul> <li>Hantering av trigonometriska uttryck. Bevis och hantering av trigonometriska identiteter, inklusive trigonometriska ettan och additionsformler.</li> <li>Egenskaper hos trigonometriska funktioner, inklusive period, amplitud och fasförskjutning. Metoder för att bestämma trigonometriska funktioner. Metoder för att lösa trigonometriska ekvationer.</li> <li>Begreppet radian.</li> <li>Motivering och hantering av deriveringsregler för sinus-, cosinus- och tangensfunktioner.</li> <li>Motivering och hantering av metoder för att bestämma integraler för sinus- och cosinusfunktioner.</li> </ul> <p><strong>Problemlösning, verktyg och tillämpningar</strong></p> <ul> <li>Användning av digitala verktyg, även symbolhanterande, för att effektivisera beräkningar och komplettera metoder, till exempel vid ekvationslösning, derivering, integrering och hantering av algebraiska uttryck.</li> <li>Problemlösning som omfattar begrepp och metoder i kursen, med särskild utgångspunkt i karaktärsämnen och samhällsliv.</li> <li>Användning av programmering som verktyg vid problemlösning, databearbetning eller tillämpning av numeriska metoder.</li> <li>Tillämpning och formulering av matematiska modeller i realistiska situationer. Utvärdering av matematiska modellers egenskaper och begränsningar.</li> <li>Matematiska problem med anknytning till matematikens kulturhistoria.</li> </ul>]]></ns3:text>
+                  <ns3:year xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                  <ns3:typeOfCentralContent xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               </ns3:centralContent>
+               <ns3:point>100</ns3:point>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget E</h4><p>Eleven beskriver <strong>grundläggande</strong> begrepp och samband mellan begrepp samt använder dem med <strong>tillfredsställande</strong> säkerhet.</p> <p>Eleven hanterar <strong>grundläggande</strong> procedurer och löser uppgifter av standardkaraktär med <strong>tillfredsställande</strong> säkerhet, både utan och med digitala verktyg.</p> <p>Eleven löser <strong>enkla</strong> problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>enkla </strong>uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar.</p> <p>Eleven för <strong>delvis </strong>underbyggda matematiska resonemang och följer <strong>enkla</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>i huvudsak fungerande</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>E</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text>&lt;h4>Betyget D&lt;/h4>&lt;p>Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p></ns3:text>
+                  <ns3:gradeStep>D</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget C</h4><p>Eleven beskriver <strong>ett omfattande antal</strong> begrepp och samband mellan begrepp samt använder dem med <strong>god </strong>säkerhet.</p> <p>Eleven hanterar <strong>ett omfattande antal</strong> procedurer och löser uppgifter av standardkaraktär med <strong>god</strong> säkerhet, både utan och med digitala verktyg. <strong>Eleven hanterar avancerade uttryck med god säkerhet.</strong></p> <p>Eleven löser <strong>relativt komplexa </strong>problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>relativt komplexa</strong> uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar.</p> <p>Eleven för <strong>relativt väl </strong>underbyggda matematiska resonemang<strong>, genomför enkla bevis</strong> och följer <strong>relativt avancerade</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>till stor del tydligt och korrekt</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>C</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text>&lt;h4>Betyget B&lt;/h4>&lt;p>Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p></ns3:text>
+                  <ns3:gradeStep>B</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget A</h4><p>Eleven beskriver <strong>ett omfattande antal</strong> begrepp och samband mellan begrepp samt använder dem med <strong>mycket god</strong> säkerhet.</p> <p>Eleven hanterar <strong>ett omfattande antal</strong> procedurer och löser uppgifter av standardkaraktär med <strong>mycket</strong> <strong>god</strong> säkerhet, både utan och med digitala verktyg. <strong>Eleven hanterar avancerade uttryck med mycket god säkerhet.</strong></p> <p>Eleven löser <strong>komplexa</strong> problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>komplexa</strong> uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar.</p> <p>Eleven för <strong>väl </strong>underbyggda matematiska resonemang<strong>, genomför bevis</strong> och följer <strong>avancerade</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>tydligt och korrekt</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>A</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:alternativeCourseCode xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns3:sortOrder>9</ns3:sortOrder>
+            </ns3:courses>
+            <ns3:courses>
+               <ns3:name>Matematik 5</ns3:name>
+               <ns3:englishName>Mathematics 5</ns3:englishName>
+               <ns3:description>&lt;p>Kursen matematik 5 omfattar punkterna 1–6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p></ns3:description>
+               <ns3:code>MATMAT05</ns3:code>
+               <ns3:centralCntHeading>&lt;h3>Centralt innehåll&lt;/h3></ns3:centralCntHeading>
+               <ns3:knowledgeReqsHeading>&lt;h3>Kunskapskrav&lt;/h3></ns3:knowledgeReqsHeading>
+               <ns3:nameHeading>&lt;h2>Matematik 5, 100 poäng&lt;/h2></ns3:nameHeading>
+               <ns3:codeHeading>&lt;h3>Kurskod: MATMAT05&lt;/h3></ns3:codeHeading>
+               <ns3:typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</ns3:typeOfSyllabus>
+               <ns3:centralContent>
+                  <ns3:guid xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                  <ns3:text><![CDATA[<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><p><strong>Aritmetik, algebra och funktioner</strong></p> <ul> <li>Begreppet differentialekvation och exempel på tillämpningar. Verifiering av lösningar till differentialekvationer.</li> <li>Strategier för att ställa upp och tolka differentialekvationer. Digitala metoder för att lösa differentialekvationer.</li> <li>Metoder för att lösa enklare linjära differentialekvationer av första och andra ordningen för hand.</li> </ul> <p><strong>Logik och diskret matematik</strong></p> <ul> <li>Bevismetoder, inklusive motsägelsebevis och induktionsbevis.</li> <li>Representation av tal i olika talbaser.</li> <li>Kongruens hos hela tal och metoder för kongruensräkning.</li> <li>Begreppen permutation och kombination. Motivering och hantering av metoder för att bestämma antal permutationer och kombinationer.</li> <li>Begreppet rekursion och rekursiva talföljder.</li> <li>Begreppet mängd. Notationer i mängdlära och hantering av operationer på mängder.</li> </ul> <p><strong>Problemlösning, verktyg och tillämpningar</strong></p> <ul> <li>Användning av digitala verktyg, även symbolhanterande, för att effektivisera beräkningar och komplettera metoder, till exempel vid ekvationslösning, derivering, integrering och hantering av algebraiska uttryck.</li> <li>Problemlösning som omfattar begrepp och metoder i kursen.</li> <li>Omfångsrika problemsituationer som är relevanta för karaktärsämnena, inklusive problem som fördjupar kunskaper om integraler och derivata.</li> <li>Användning av programmering som verktyg vid problemlösning, databearbetning eller tillämpning av numeriska metoder.</li> <li>Tillämpning och formulering av matematiska modeller i realistiska situationer. Utvärdering av matematiska modellers egenskaper och begränsningar.</li> <li>Matematiska problem med anknytning till matematikens kulturhistoria.</li> </ul>]]></ns3:text>
+                  <ns3:year xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                  <ns3:typeOfCentralContent xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               </ns3:centralContent>
+               <ns3:point>100</ns3:point>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget E</h4><p>Eleven beskriver <strong>grundläggande</strong> begrepp och samband mellan begrepp samt använder dem med <strong>tillfredsställande</strong> säkerhet.</p> <p>Eleven hanterar <strong>grundläggande</strong> procedurer och löser uppgifter av standardkaraktär med <strong>tillfredsställande</strong> säkerhet, både utan och med digitala verktyg.</p> <p>Eleven löser <strong>enkla</strong> problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>enkla </strong>uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar.</p> <p>Eleven för <strong>delvis </strong>underbyggda matematiska resonemang och följer <strong>enkla</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>i huvudsak fungerande</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>E</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text>&lt;h4>Betyget D&lt;/h4>&lt;p>Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p></ns3:text>
+                  <ns3:gradeStep>D</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget C</h4><p>Eleven beskriver <strong>ett omfattande antal</strong> begrepp och samband mellan begrepp samt använder dem med <strong>god </strong>säkerhet.</p> <p>Eleven hanterar <strong>ett omfattande antal</strong> procedurer och löser uppgifter av standardkaraktär med <strong>god</strong> säkerhet, både utan och med digitala verktyg. <strong>Eleven hanterar avancerade uttryck med god säkerhet.</strong></p> <p>Eleven löser <strong>relativt komplexa </strong>problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>relativt komplexa</strong> uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar.</p> <p>Eleven för <strong>relativt väl </strong>underbyggda matematiska resonemang<strong>, genomför enkla bevis</strong> och följer <strong>relativt avancerade</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>till stor del tydligt och korrekt</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>C</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text>&lt;h4>Betyget B&lt;/h4>&lt;p>Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p></ns3:text>
+                  <ns3:gradeStep>B</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget A</h4><p>Eleven beskriver <strong>ett omfattande antal</strong> begrepp och samband mellan begrepp samt använder dem med <strong>mycket god</strong> säkerhet.</p> <p>Eleven hanterar <strong>ett omfattande antal</strong> procedurer och löser uppgifter av standardkaraktär med <strong>mycket</strong> <strong>god</strong> säkerhet, både utan och med digitala verktyg. <strong>Eleven hanterar avancerade uttryck med mycket god säkerhet.</strong></p> <p>Eleven löser <strong>komplexa</strong> problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>komplexa</strong> uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar.</p> <p>Eleven för <strong>väl </strong>underbyggda matematiska resonemang<strong>, genomför bevis</strong> och följer <strong>avancerade</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>tydligt och korrekt</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>A</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:alternativeCourseCode xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns3:sortOrder>10</ns3:sortOrder>
+            </ns3:courses>
+            <ns3:courses>
+               <ns3:name>Matematik – specialisering</ns3:name>
+               <ns3:englishName>Mathematics – specialisation</ns3:englishName>
+               <ns3:description>&lt;p>Kursen matematik – specialisering omfattar punkterna 1–6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p></ns3:description>
+               <ns3:code>MATMAT00S</ns3:code>
+               <ns3:centralCntHeading>&lt;h3>Centralt innehåll&lt;/h3></ns3:centralCntHeading>
+               <ns3:knowledgeReqsHeading>&lt;h3>Kunskapskrav&lt;/h3></ns3:knowledgeReqsHeading>
+               <ns3:nameHeading>&lt;h2>Matematik – specialisering, 100 poäng&lt;/h2></ns3:nameHeading>
+               <ns3:codeHeading>&lt;h3>Kurskod: MATMAT00S&lt;/h3></ns3:codeHeading>
+               <ns3:typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</ns3:typeOfSyllabus>
+               <ns3:centralContent>
+                  <ns3:guid xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                  <ns3:text><![CDATA[<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><p><strong>Matematikområden</strong></p> <ul> <li>Behandling av ett eller flera övergripande matematikområden, till exempel linjär optimering, spelteori, logik, matematik som grund för artificiell intelligens, differentialekvationer, statistiska metoder, sannolikhetslära, grafteori, linjär algebra, analytisk geometri samt finans-, populations- eller beräkningsmatematik.</li> </ul> <p><strong>Problemlösning, verktyg och tillämpningar</strong></p> <ul> <li>Omfångsrika problemsituationer som är relevanta för karaktärsämnena. Matematikens möjligheter och begränsningar i dessa situationer samt digitala verktygs möjligheter och begränsningar vid problemlösning.</li> </ul>]]></ns3:text>
+                  <ns3:year xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                  <ns3:typeOfCentralContent xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               </ns3:centralContent>
+               <ns3:point>100</ns3:point>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget E</h4><p>Eleven beskriver <strong>grundläggande</strong> begrepp och samband mellan begrepp samt använder dem med <strong>tillfredsställande</strong> säkerhet.</p> <p>Eleven hanterar <strong>grundläggande</strong> procedurer och löser uppgifter av standardkaraktär med <strong>tillfredsställande</strong> säkerhet, både utan och med digitala verktyg.</p> <p>Eleven löser <strong>enkla</strong> problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>enkla </strong>uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar.</p> <p>Eleven för <strong>delvis </strong>underbyggda matematiska resonemang och följer <strong>enkla</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>i huvudsak fungerande</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>E</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text>&lt;h4>Betyget D&lt;/h4>&lt;p>Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p></ns3:text>
+                  <ns3:gradeStep>D</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget C</h4><p>Eleven beskriver <strong>ett omfattande antal</strong> begrepp och samband mellan begrepp samt använder dem med <strong>god </strong>säkerhet.</p> <p>Eleven hanterar <strong>ett omfattande antal</strong> procedurer och löser uppgifter av standardkaraktär med <strong>god</strong> säkerhet, både utan och med digitala verktyg. <strong>Eleven hanterar avancerade uttryck med god säkerhet.</strong></p> <p>Eleven löser <strong>relativt komplexa </strong>problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>relativt komplexa</strong> uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar.</p> <p>Eleven för <strong>relativt väl </strong>underbyggda matematiska resonemang<strong>, genomför enkla bevis</strong> och följer <strong>relativt avancerade</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>till stor del tydligt och korrekt</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>C</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text>&lt;h4>Betyget B&lt;/h4>&lt;p>Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p></ns3:text>
+                  <ns3:gradeStep>B</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:knowledgeRequirement>
+                  <ns3:text><![CDATA[<h4>Betyget A</h4><p>Eleven beskriver <strong>ett omfattande antal</strong> begrepp och samband mellan begrepp samt använder dem med <strong>mycket god</strong> säkerhet.</p> <p>Eleven hanterar <strong>ett omfattande antal</strong> procedurer och löser uppgifter av standardkaraktär med <strong>mycket</strong> <strong>god</strong> säkerhet, både utan och med digitala verktyg. <strong>Eleven hanterar avancerade uttryck med mycket god säkerhet.</strong></p> <p>Eleven löser <strong>komplexa</strong> problem inom kursens olika områden. Eleven bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>komplexa</strong> uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar.</p> <p>Eleven för <strong>väl </strong>underbyggda matematiska resonemang<strong>, genomför bevis</strong> och följer <strong>avancerade</strong> matematiska resonemang.</p> <p>Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>tydligt och korrekt</strong> sätt.</p>]]></ns3:text>
+                  <ns3:gradeStep>A</ns3:gradeStep>
+               </ns3:knowledgeRequirement>
+               <ns3:alternativeCourseCode xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns3:sortOrder>11</ns3:sortOrder>
+            </ns3:courses>
+            <ns3:originatorTypeOfSchooling>UPPER_SECONDARY_EDUCATION</ns3:originatorTypeOfSchooling>
+            <ns3:typeOfSchooling>UPPER_SECONDARY_EDUCATION</ns3:typeOfSchooling>
+            <ns3:typeOfSchooling>ADULT_SECONDARY_EDUCATION</ns3:typeOfSchooling>
+            <ns3:category>
+               <ns2:name>Bilaga4-ämnen</ns2:name>
+               <ns2:code>COMMON</ns2:code>
+               <ns2:scope>INTERNAL</ns2:scope>
+            </ns3:category>
+            <ns3:purposeHeading>&lt;h3>Ämnets syfte&lt;/h3></ns3:purposeHeading>
+         </ns4:subjects>
+      </ns4:ReadSubjectResponse>
+   </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
