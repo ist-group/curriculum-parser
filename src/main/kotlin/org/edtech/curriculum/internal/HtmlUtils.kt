@@ -223,3 +223,11 @@ internal fun toPurposes(html: String): List<Purpose> {
                 }
             }
 }
+
+fun getRequirementsTag(courseElement: Element) : String {
+    val firstElement = courseElement.selectFirst("knowledgeRequirements")
+    if ( firstElement != null) {
+        return "knowledgeRequirements"
+    }
+    return "knowledgeRequirement";
+}

@@ -27,7 +27,7 @@ private fun splitWords(line: String): List<String> {
  * Compares words and their positions and return a value between 0-1
  * where 1 is representing the exact same line and 0 when the lines has nothing incommon
  */
-internal fun similarLineRatio(line1: String, line2:String): Double {
+public fun similarLineRatio(line1: String, line2:String): Double {
     var wordList1  = removeInflections(splitWords(removeBoldWords(line1.toLowerCase())))
     var wordList2  = removeInflections(splitWords(removeBoldWords(line2.toLowerCase())))
 

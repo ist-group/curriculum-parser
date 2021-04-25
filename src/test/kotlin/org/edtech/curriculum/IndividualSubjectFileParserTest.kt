@@ -38,9 +38,7 @@ class IndividualSubjectFileParserTest {
         for (element in entries) {
             //System.out.println("Found element " + element.nodeName());
             var newName = element.nodeName().replace("ns3:", "")
-            newName = newName.replace("ns2:", "")
             newName = newName.replace("ns4:subjects", "subject")
-            newName = newName.replace("knowledgeRequirement", "knowledgeRequirements")
             element.tagName(newName)
         }
         val outfile = "$path.converted"

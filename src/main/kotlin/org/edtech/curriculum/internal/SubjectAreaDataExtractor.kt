@@ -4,6 +4,7 @@ import org.edtech.curriculum.CourseHtml
 import org.edtech.curriculum.GradeStep
 import org.edtech.curriculum.RequirementGroup
 import org.jsoup.nodes.Document
+import org.jsoup.nodes.Element
 import org.jsoup.select.Elements
 
 
@@ -16,7 +17,16 @@ import org.jsoup.select.Elements
  * @param subjectDocument to extract information from
  */
 class SubjectAreaDataExtractor(private val subjectDocument: Document): CourseDataExtractor {
+    /*
+    private fun getRequirementsTag(courseElement: Element) : String {
+        val firstElement = courseElement.selectFirst("knowledgeRequirements")
+        if ( firstElement != null) {
+            return "knowledgeRequirements"
+        }
+        return "knowledgeRequirement";
+    }
 
+     */
     override fun getCourseData(): List<CourseHtml> {
         return listOf(CourseHtml(
                 subjectDocument.select("name").text(),
@@ -25,8 +35,9 @@ class SubjectAreaDataExtractor(private val subjectDocument: Document): CourseDat
                 "",
                 "",
                 subjectDocument.select("point").text(),
-                convertDashListToList(subjectDocument.select("centralContents").text()),
-                this.getKnowledgeRequirements(subjectDocument.select("knowledgeRequirements"))))
+                //convertDashListToList(subjectDocument.select("centralContents").text()),
+                convertDashListToList(subjectDocument.select("centralContent, centralContents").text()),
+                this.getKnowledgeRequirements(subjectDocument.select("knowledgeRequirement, knowledgeRequirements"))))
     }
 
 

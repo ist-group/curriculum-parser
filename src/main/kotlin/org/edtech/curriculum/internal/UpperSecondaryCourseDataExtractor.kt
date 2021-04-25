@@ -43,7 +43,7 @@ class UpperSecondaryCourseDataExtractor(private val subjectDocument: Document): 
                 "",
                 courseElement.select("point").text(),
                 convertDashListToList(courseElement.select("centralContent, centralContents").text()),
-                this.getKnowledgeRequirements(courseElement.select("knowledgeRequirements"))
+                this.getKnowledgeRequirements(courseElement.select("knowledgeRequirement, knowledgeRequirements"))
         )
     }
 
