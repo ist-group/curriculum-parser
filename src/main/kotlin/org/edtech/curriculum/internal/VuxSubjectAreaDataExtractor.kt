@@ -26,7 +26,7 @@ class VuxSubjectAreaDataExtractor(private val subjectDocument: Document): Course
                 "",
                 subjectDocument.select("point").text(),
                 convertDashListToList(subjectDocument.select("centralContents text").text()),
-                this.getKnowledgeRequirements(subjectDocument.select("knowledgeRequirements"))))
+                this.getKnowledgeRequirements(subjectDocument.select("knowledgeRequirement, knowledgeRequirements"))))
     }
 
 
