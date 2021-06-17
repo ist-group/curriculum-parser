@@ -4,6 +4,7 @@ package org.edtech.curriculum.internal
 
 import org.edtech.curriculum.Purpose
 import org.edtech.curriculum.PurposeType
+import org.edtech.curriculum.SchoolType
 import org.edtech.curriculum.YearGroup
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Element
@@ -136,7 +137,7 @@ internal fun toYearGroup(year: String): YearGroup? {
 /**
  * Convert the Purpose html to Entities depending on tag type
  */
-internal fun toPurposes(html: String): List<Purpose> {
+internal fun toPurposes(html: String, schoolType: SchoolType, subject: String): List<Purpose> {
     val fragment = Jsoup.parseBodyFragment(html)
     // Remove divs (by moving children to the parent node
     fragment.select("div")
@@ -178,7 +179,11 @@ internal fun toPurposes(html: String): List<Purpose> {
                 // Paragraph
                     "p"  -> {
                         // Sometimes the heading is marked as <p> so skip the paragraph before bullet lists
-                        if (it.nextElementSibling() != null && (it.nextElementSibling().tagName() == "ul" || it.nextElementSibling().tagName() == "ol")) {
+                        if (schoolType != SchoolType.GY && it.nextElementSibling() != null
+                            && (it.nextElementSibling().tagName() == "ul" || it.nextElementSibling().tagName() == "ol")) {
+                            null
+                        } else if (schoolType == SchoolType.GY && it.nextElementSibling() != null
+                            && (it.nextElementSibling().tagName() == "ul" || it.nextElementSibling().tagName() == "ol") && it.text().endsWith(":")) {
                             null
                         } else {
                             val heading = if (
@@ -198,12 +203,29 @@ internal fun toPurposes(html: String): List<Purpose> {
                     }
                 // Bullet list, pick the previous element as heading
                     "ul", "ol" -> {
+                        val header = if (
+                            it.previousElementSibling() != null &&
+                            it.previousElementSibling().`is`("h1,h2,h3,h4,h5,h6,i")
+                        ) {
+                            it.previousElementSibling().text()
+                        } else if ( schoolType == SchoolType.GY &&
+                            it.previousElementSibling() != null &&
+                            it.previousElementSibling().`is`("p") && it.previousElementSibling().text().endsWith(":")
+                        ) {
+                            it.previousElementSibling().text()
+                        } else if ( schoolType != SchoolType.GY &&
+                            it.previousElementSibling() != null &&
+                            it.previousElementSibling().`is`("p")
+                        ) {
+                            it.previousElementSibling().text()
+                        } else if (it.previousElementSibling() != null &&
+                            it.previousElementSibling().`is`("p") && schoolType == SchoolType.GY) {
+                            "Undervisningen i ämnet " + subject.toLowerCase() + " ska ge eleverna förutsättningar att utveckla följande:"
+                            }
+                        else
+                            ""
                         Purpose(PurposeType.BULLET,
-                                if (it.previousElementSibling() != null) {
-                                    it.previousElementSibling().text()
-                                } else {
-                                    ""
-                                },
+                            header,
                                 it.children().map {
                                     it.text().trim()
                                 }

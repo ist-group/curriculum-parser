@@ -69,7 +69,7 @@ class KnowledgeRequirementParserTest {
                                     if (parsedSubject == null) {
                                         fail("No subject ${file.nameWithoutExtension} for file ${file.absolutePath}")
                                     } else {
-                                        val expected = mapper.readValue<Subject>( file.readText() )?.copy(modifiedDate = null, applianceDate = null, skolfsId = "", validTo = null,version = 0)
+                                        val expected = mapper.readValue<Subject>( file.readText() ).copy(modifiedDate = null, applianceDate = null, skolfsId = "", validTo = null,version = 0)
                                         assertEquals(objectWriter.writeValueAsString(expected), objectWriter.writeValueAsString(parsedSubject), "Difference for subject ${versionDir.name} - ${schoolType.name}/${file.nameWithoutExtension}")
                                     }
                                 }
