@@ -26,6 +26,7 @@ class IndividualSubjectFileParserTest {
 
         assertEquals(expectedNumberOfCoursesInXMLFile(filePath),
                 s.courses.size, " does not contain expected number of courses in file ")
+        System.out.println(s.courses[0].knowledgeRequirementParagraphs);
         //System.out.println(s.courses.size)
     }
 

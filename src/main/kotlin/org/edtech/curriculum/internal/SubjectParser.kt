@@ -19,7 +19,7 @@ class SubjectParser(val schoolType: SchoolType) {
                             subjectData.designation,
                             category,
                             subjectData.skolfsId,
-                            toPurposes(convertDashListToList(subjectData.purposes)),
+                            toPurposes(convertDashListToList(subjectData.purposes),schoolType,subjectData.name),
                             subjectData.courses.map { CourseParser(it).getCourse() },
                             stringToDate(subjectData.createdDate),
                             stringToDate(subjectData.modifiedDate),
